@@ -1,0 +1,18 @@
+id: example-problem
+app_name: Example Solution App
+problem_statement: >-
+  Explain the user pain point in detail.
+solution_overview: >-
+  Summarize the human-proposed approach for solving the problem.
+target_users:
+  - Primary audience persona
+features:
+  - name: Feature One
+    description: Describe what this feature does and how it helps.
+  - name: Feature Two
+    description: Add as many features as needed.
+workflow_steps:
+  - Step-by-step flow describing how the solution operates.
+success_metrics:
+  - Quantitative or qualitative outcome that signals success.
+auto_generate: false
