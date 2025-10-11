@@ -1,8 +1,10 @@
+
 import argparse
 import datetime
 import os
 import random
 import time
+
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import quote_plus
@@ -23,6 +25,7 @@ DEFAULT_NITTER_BASES = [
     "https://nitter.pufe.org",
     "https://nitter.pl",
     "https://nitter.moomoo.me",
+
 ]
 
 # オフライン時に利用するサンプルRSS。存在しない場合はスキップする。
@@ -33,10 +36,12 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; KomaruBot/1.0; +https://github.com)",
 }
 
+
 # 429対策として試行間隔を秒単位で設定する（環境変数で上書き可能）。
 REQUEST_INTERVAL = float(os.getenv("KOMARU_REQUEST_INTERVAL", "2.0"))
 # ベースURLごとの最大試行回数。リストが多い場合の全滅抑止に利用する。
 MAX_ATTEMPTS_PER_BASE = int(os.getenv("KOMARU_ATTEMPTS_PER_BASE", "3"))
+
 
 
 def resolve_bases() -> list[str]:
@@ -45,17 +50,22 @@ def resolve_bases() -> list[str]:
     # KOMARU_NITTER_BASESが指定されている場合はそれを優先する。
     env_value = os.getenv("KOMARU_NITTER_BASES")
     if env_value:
+
         bases = [value.strip() for value in env_value.split(",") if value.strip()]
         # 入力が全て無効だった場合は既定値にフォールバック。
         return bases or DEFAULT_NITTER_BASES[:]
 
+
     # 従来のKOMARU_NITTER_BASEがあれば先頭に配置し、その後ろに既定値をつなげる。
     primary = os.getenv("KOMARU_NITTER_BASE")
     if primary:
+
         filtered_defaults = [base for base in DEFAULT_NITTER_BASES if base != primary.strip()]
         return [primary.strip(), *filtered_defaults]
 
+
     return DEFAULT_NITTER_BASES[:]
+
 
 
 def truthy_env(name: str, default: bool = False) -> bool:
@@ -68,6 +78,7 @@ def truthy_env(name: str, default: bool = False) -> bool:
 
     normalized = value.strip().lower()
     return normalized in {"1", "true", "yes", "on"}
+
 
 
 def build_feed_urls(base_url: str, query: str) -> list[str]:
@@ -115,6 +126,7 @@ def parse_feed(xml_text: str) -> list[dict[str, str]]:
         })
 
     return posts
+
 
 
 def fetch_posts(
@@ -171,9 +183,12 @@ def fetch_posts(
                 print(f"警告: {url} の解析に失敗しました ({parse_error})")
                 last_error = parse_error
 
+
     # すべて失敗した場合は状況を通知し、空リストを返す。
     if last_error is not None:
         print(f"フィード取得に失敗しました: {last_error}")
+
+
 
     return []
 
@@ -192,6 +207,7 @@ def load_offline_posts() -> list[dict[str, str]]:
     except Exception as exc:  # noqa: BLE001
         print(f"警告: オフラインサンプルの解析に失敗しました ({exc})")
         return []
+
 
 
 def main():
@@ -251,6 +267,7 @@ def main():
     if not posts:
         print("エラー: フィード取得に成功せず、書き出すデータがありません。")
         raise SystemExit(1)
+
 
     df = pd.DataFrame(posts)
 

@@ -24,6 +24,7 @@ X(旧Twitter) の `#こまる相談` 投稿を自動収集し、CSVとして記�
   - `KOMARU_NITTER_BASES`: カンマ区切りで複数指定できるNitterインスタンスURL（例: `https://nitter.net,https://nitter.cz`）
   - `--allow-offline` または `KOMARU_ALLOW_OFFLINE=1`: ネットワーク取得が全滅した場合のみローカルサンプル (`KOMARU_OFFLINE_FEED`, 既定は `specs/sample_feed.xml`) にフォールバックする
 
+
 ## 出力例
 | date | text |
 |------|------|
