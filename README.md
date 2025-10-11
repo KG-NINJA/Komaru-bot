@@ -7,13 +7,16 @@ X(旧Twitter) の `#こまる相談` 投稿を自動収集し、CSVとして記�
 ## セットアップ
 1. 依存ライブラリをインストールする
    ```bash
+
    pip install pandas requests snscrape
+
    ```
 2. このリポジトリをGitHubにPush
 3. `.github/workflows/komaru.yml` が自動実行（毎時 or 手動）
 4. `komaru_posts.csv` に投稿内容が保存される
 
 ### ローカルでの実行方法
+
 - `python scripts/komaru_feed.py` を実行すると、`komaru_posts.csv` に最新投稿が上書き保存されます。
   - 取得に失敗した場合は非ゼロ終了コードを返し、実データが無い限りファイルは更新されません。
   - **公式X API → Nitter RSS → snscrape → オフラインサンプル**の順でフォールバックし、どれか一段で成功すればCSVを更新します。
@@ -30,6 +33,7 @@ X(旧Twitter) の `#こまる相談` 投稿を自動収集し、CSVとして記�
   - `KOMARU_TWITTER_SEARCH_URL`: Recent Searchエンドポイントをカスタマイズしたい場合に利用（既定値: `https://api.x.com/2/tweets/search/recent`）
 
 > ℹ️ Freeプランは「月100リクエスト / 500投稿」の制限があります。CIでの連続実行やローカル試行の際は回数を調整してください。
+
 
 ## 出力例
 | date | text |
