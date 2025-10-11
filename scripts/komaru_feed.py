@@ -120,7 +120,7 @@ def parse_feed(xml_text: str) -> list[dict[str, str]]:
     return posts
 
 
-def fetch_posts(
+def fetch_with_nitter(
     *,
     request_interval: float = REQUEST_INTERVAL,
     attempts_per_base: int = MAX_ATTEMPTS_PER_BASE,
@@ -179,6 +179,117 @@ def fetch_posts(
         print(f"フィード取得に失敗しました: {last_error}")
 
     return []
+
+
+# X API検索エンドポイント（環境変数で上書き可能）。
+X_API_SEARCH_URL = os.getenv(
+    "KOMARU_TWITTER_SEARCH_URL",
+    "https://api.x.com/2/tweets/search/recent",
+)
+
+
+def get_bearer_token() -> str | None:
+    """X API用Bearerトークンを環境変数から取得する。"""
+
+    # APIキーは秘密情報なので、存在しない場合は即座にNoneを返す。
+    token = os.getenv("KOMARU_TWITTER_BEARER_TOKEN")
+    if token:
+        return token.strip()
+
+    # レガシーなTWITTER_BEARER_TOKENにも対応して互換性を保つ。
+    fallback = os.getenv("TWITTER_BEARER_TOKEN")
+    return fallback.strip() if fallback else None
+
+
+def fetch_with_x_api(
+    *,
+    limit: int = LIMIT,
+    session: requests.Session | None = None,
+) -> list[dict[str, str]]:
+    """公式X APIのRecent Searchで投稿を取得する。"""
+
+    token = get_bearer_token()
+    if not token:
+        print("情報: KOMARU_TWITTER_BEARER_TOKENが未設定のためX APIをスキップします。")
+        return []
+
+    http = session or requests.Session()
+    http.headers.update(HEADERS)
+    http.headers["Authorization"] = f"Bearer {token}"
+
+    # X APIの1回のmax_resultsは100件なので、ページングで必要件数を満たす。
+    remaining = max(0, limit)
+    params = {
+        "query": TAG,
+        "tweet.fields": "created_at",  # 日付をISO形式で取得する。
+        "expansions": "author_id",  # APIコールの整合性維持のため指定。
+        "max_results": min(max(remaining, 10), 100),
+    }
+
+    next_token: str | None = None
+    posts: list[dict[str, str]] = []
+
+    while remaining > 0:
+        if next_token:
+            params["next_token"] = next_token
+        elif "next_token" in params:
+            del params["next_token"]
+
+        print(f"Fetching X API feed: {X_API_SEARCH_URL}")
+
+        try:
+            response = http.get(X_API_SEARCH_URL, params=params, timeout=30)
+        except Exception as exc:  # noqa: BLE001
+            print(f"警告: X APIへのリクエストに失敗しました ({exc})")
+            return []
+
+        if response.status_code == 401:
+            print("警告: X APIの認証に失敗しました (401 Unauthorized)。")
+            return []
+        if response.status_code == 429:
+            print("警告: X APIのレートリミットに到達しました (429)。")
+            return []
+        if response.status_code >= 400:
+            print(f"警告: X APIからエラー応答を受信しました ({response.status_code})")
+            return []
+
+        try:
+            payload = response.json()
+        except Exception as exc:  # noqa: BLE001
+            print(f"警告: X APIのJSON解析に失敗しました ({exc})")
+            return []
+
+        data = payload.get("data", [])
+        if not isinstance(data, list):
+            print("警告: X APIの応答にdata配列が含まれていません。")
+            return []
+
+        for item in data:
+            if remaining <= 0:
+                break
+
+            # created_atをISO形式でそのまま利用する。
+            created_at = item.get("created_at", "")
+            posts.append(
+                {
+                    "date": created_at,
+                    "text": str(item.get("text", "")).replace("\n", " ").strip(),
+                    "url": f"https://x.com/i/web/status/{item.get('id', '')}",
+                }
+            )
+            remaining -= 1
+
+        next_token = payload.get("meta", {}).get("next_token")
+        if not next_token:
+            break
+
+        # 次ページのmax_resultsは残数に応じて更新する。
+        params["max_results"] = min(max(remaining, 10), 100)
+
+    if not posts:
+        print("警告: X APIで投稿が取得できませんでした。")
+
+    return posts
 
 
 def load_offline_posts() -> list[dict[str, str]]:
@@ -321,6 +432,16 @@ def main():
         action="store_true",
         help="snscrapeフォールバックを強制的に有効化する",
     )
+    parser.add_argument(
+        "--disable-x-api",
+        action="store_true",
+        help="公式X API経由での取得を無効化する",
+    )
+    parser.add_argument(
+        "--enable-x-api",
+        action="store_true",
+        help="公式X API経由での取得を強制的に有効化する",
+    )
 
     args = parser.parse_args()
 
@@ -336,16 +457,30 @@ def main():
         args.attempts_per_base if args.attempts_per_base is not None else MAX_ATTEMPTS_PER_BASE
     )
     enable_snscrape = truthy_env("KOMARU_ENABLE_SNSCRAPE", default=True)
+    enable_x_api = truthy_env(
+        "KOMARU_ENABLE_X_API",
+        default=get_bearer_token() is not None,
+    )
 
     if args.disable_snscrape:
         enable_snscrape = False
     if args.enable_snscrape:
         enable_snscrape = True
+    if args.disable_x_api:
+        enable_x_api = False
+    if args.enable_x_api:
+        enable_x_api = True
 
-    posts = fetch_posts(
-        request_interval=request_interval,
-        attempts_per_base=attempts_per_base,
-    )
+    posts: list[dict[str, str]] = []
+
+    if enable_x_api:
+        posts = fetch_with_x_api(limit=LIMIT)
+
+    if not posts:
+        posts = fetch_with_nitter(
+            request_interval=request_interval,
+            attempts_per_base=attempts_per_base,
+        )
 
     if not posts and enable_snscrape:
         posts = fetch_with_snscrape(limit=LIMIT)
