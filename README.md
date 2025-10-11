@@ -14,12 +14,15 @@ X(旧Twitter) の `#こまる相談` 投稿を自動収集し、CSVとして記�
 4. `komaru_posts.csv` に投稿内容が保存される
 
 ### ローカルでの実行方法
-- `python scripts/komaru_feed.py` を実行すると、`komaru_posts.csv` に最新投稿が追記されます。
-- 環境変数で以下を調整できます。
+- `python scripts/komaru_feed.py` を実行すると、`komaru_posts.csv` に最新投稿が上書き保存されます。
+  - 取得に失敗した場合は非ゼロ終了コードを返し、実データが無い限りファイルは更新されません。
+- オプションと環境変数で以下を調整できます。
+  - `--request-interval` / `KOMARU_REQUEST_INTERVAL`: 429回避のためのリクエスト間隔（秒）
+  - `--attempts-per-base` / `KOMARU_ATTEMPTS_PER_BASE`: 各Nitterベースで試すURL数
   - `KOMARU_TAG`: 収集する検索クエリ（デフォルト: `こまる相談`）
   - `KOMARU_LIMIT`: 取得する最大件数（デフォルト: `100`）
-　- `KOMARU_NITTER_BASES`: カンマ区切りで複数指定できるNitterインスタンスURL（例: `https://nitter.net,https://nitter.cz`）
-  - `KOMARU_OFFLINE_FEED`: ネットワーク遮断時に利用するローカルRSSファイルパス（デフォルト: `specs/sample_feed.xml`）
+  - `KOMARU_NITTER_BASES`: カンマ区切りで複数指定できるNitterインスタンスURL（例: `https://nitter.net,https://nitter.cz`）
+  - `--allow-offline` または `KOMARU_ALLOW_OFFLINE=1`: ネットワーク取得が全滅した場合のみローカルサンプル (`KOMARU_OFFLINE_FEED`, 既定は `specs/sample_feed.xml`) にフォールバックする
 
 
 ## 出力例
