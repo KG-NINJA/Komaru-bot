@@ -27,8 +27,6 @@ OFFLINE_FEED_PATH = Path(os.getenv("KOMARU_OFFLINE_FEED", "specs/sample_feed.xml
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; KomaruBot/1.0; +https://github.com)",
 }
-
-
 def resolve_bases() -> list[str]:
     """NitterのベースURL候補を環境変数から構築する。"""
 
@@ -43,6 +41,7 @@ def resolve_bases() -> list[str]:
         return [primary.strip()] + [base for base in DEFAULT_NITTER_BASES if base != primary.strip()]
 
     return DEFAULT_NITTER_BASES[:]
+
 
 
 def build_feed_urls(base_url: str, query: str) -> list[str]:
@@ -96,8 +95,7 @@ def fetch_posts() -> list[dict[str, str]]:
     """RSS経由で投稿を取得し、投稿リストを返す。"""
 
     last_error: Exception | None = None
-
-    # 複数ベースURLを順に試し、どれか1つでも成功すれば取得完了とする。
+ # 複数ベースURLを順に試し、どれか1つでも成功すれば取得完了とする。
     for base_url in resolve_bases():
         for url in build_feed_urls(base_url, TAG):
             print(f"Fetching feed: {url}")
@@ -124,6 +122,7 @@ def fetch_posts() -> list[dict[str, str]]:
     if last_error is not None:
         print(f"フィード取得に失敗しました: {last_error}")
 
+
     return []
 
 
@@ -141,8 +140,6 @@ def load_offline_posts() -> list[dict[str, str]]:
     except Exception as exc:  # noqa: BLE001
         print(f"警告: オフラインサンプルの解析に失敗しました ({exc})")
         return []
-
-
 def main():
     """Twitterから投稿を取得してCSVに書き出すメイン処理。"""
 

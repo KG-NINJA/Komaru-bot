@@ -18,8 +18,9 @@ X(旧Twitter) の `#こまる相談` 投稿を自動収集し、CSVとして記�
 - 環境変数で以下を調整できます。
   - `KOMARU_TAG`: 収集する検索クエリ（デフォルト: `こまる相談`）
   - `KOMARU_LIMIT`: 取得する最大件数（デフォルト: `100`）
-  - `KOMARU_NITTER_BASES`: カンマ区切りで複数指定できるNitterインスタンスURL（例: `https://nitter.net,https://nitter.cz`）
+　- `KOMARU_NITTER_BASES`: カンマ区切りで複数指定できるNitterインスタンスURL（例: `https://nitter.net,https://nitter.cz`）
   - `KOMARU_OFFLINE_FEED`: ネットワーク遮断時に利用するローカルRSSファイルパス（デフォルト: `specs/sample_feed.xml`）
+
 
 ## 出力例
 | date | text |
