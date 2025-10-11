@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>こまる相談 サンプルフィード</title>
+    <link>https://example.com/komaru</link>
+    <description>ネットワーク遮断時に利用するスタブデータ。</description>
+    <language>ja</language>
+    <item>
+      <title>在宅ワークでお菓子を食べすぎ #こまる相談</title>
+      <link>https://example.com/posts/1</link>
+      <pubDate>Tue, 11 Feb 2025 03:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>寝坊して朝の会議に遅刻した… #こまる相談</title>
+      <link>https://example.com/posts/2</link>
+      <pubDate>Tue, 11 Feb 2025 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>猫がキーボードの上で寝ていて作業ができない #こまる相談</title>
+      <link>https://example.com/posts/3</link>
+      <pubDate>Mon, 10 Feb 2025 21:15:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
