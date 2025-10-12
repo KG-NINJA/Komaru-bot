@@ -1,4 +1,17 @@
 name: 🧠 Komaru Tag Collector
+
+
+  run: |
+    python scripts/komaru_feed.py
+
+- name: Commit updated feed
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "github-actions[bot]@users.noreply.github.com"
+    git add specs/komaru_feed.txt
+    git commit -m "Update komaru_feed.txt [auto]" || echo "No changes to commit"
+    git push
+
 on:
   schedule:
     - cron: "0 * * * *"
