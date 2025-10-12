@@ -1,25 +1,17 @@
 name: 🧠 Komaru Tag Collector
 
-
-  run: |
-    python scripts/komaru_feed.py
-
-- name: Commit updated feed
-  run: |
-    git config user.name "github-actions[bot]"
-    git config user.email "github-actions[bot]@users.noreply.github.com"
-    git add specs/komaru_feed.txt
-    git commit -m "Update komaru_feed.txt [auto]" || echo "No changes to commit"
-    git push
-
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: "0 * * * *"   # 毎時実行
+  workflow_dispatch:       # 手動実行も可能
+
+permissions:
+  contents: write          # 自動コミットを許可
 
 jobs:
   collect:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -27,13 +19,13 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser pandas
 
-      - name: Run Komaru Collector
+      - name: Run Komaru Feed Generator
         run: python scripts/komaru_feed.py
 
       - name: Commit & Push results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add komaru_posts.csv
-          git diff --staged --quiet || git commit -m "🐦 Updated Komaru posts [skip ci]"
+          git add specs/komaru_feed.txt
+          git diff --staged --quiet || git commit -m "🧠 Update komaru_feed.txt [auto]"
           git push
