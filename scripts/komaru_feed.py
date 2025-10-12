@@ -1,36 +1,39 @@
 import os
-import random
 import sys
-from email.utils import parsedate_to_datetime
+import feedparser
 from pathlib import Path
-from typing import Iterable, Iterator
-from urllib.parse import quote_plus
-from xml.etree import ElementTree
+from datetime import datetime
 
-import requests
-from requests import Response, Session
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
-
+# ========= 設定 =========
 TAG = os.getenv("KOMARU_TAG", "こまる相談")
-LIMIT = int(os.getenv("KOMARU_LIMIT", "100"))
-DEFAULT_NITTER_BASES = [
-    "https://nitter.poast.org",
-    "https://nitter.privacydev.net",
-    "https://nitter.net",
-    "https://nitter.cz",
-    "https://nitter.fdn.fr",
-    "https://nitter.weiler.rocks",
-]
-DEFAULT_PROXY_BASES = ["https://farside.link/nitter"]
-OFFLINE_FEED_PATH = Path(os.getenv("KOMARU_OFFLINE_FEED", "specs/sample_feed.xml"))
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; KomaruBot/1.0; +https://github.com)",
-    "Accept": "application/rss+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
-}
-SESSION: Session | None = None
+LIMIT = int(os.getenv("KOMARU_LIMIT", "20"))
+RSS_URL = "https://news.google.com/rss/search?q=悩み+OR+困った+OR+相談&hl=ja&gl=JP&ceid=JP:ja"
+OUT_PATH = Path("specs/komaru_feed.txt")
 
-# …(関数定義はすべてこのファイル内に収まっています)…
+# ========= 処理関数 =========
+def fetch_feed(url: str, limit: int = 20):
+    """RSSフィードを取得して整形"""
+    feed = feedparser.parse(url)
+    if not feed.entries:
+        print("⚠️ フィードを取得できませんでした。URLまたはネットワークを確認。")
+        sys.exit(1)
+    return feed.entries[:limit]
+
+def save_feed(entries):
+    """タイトルとリンクを保存"""
+    OUT_PATH.parent.mkdir(exist_ok=True)
+    with open(OUT_PATH, "w", encoding="utf-8") as f:
+        f.write(f"=== {TAG} ニュースフィード ({datetime.now():%Y-%m-%d %H:%M}) ===\n\n")
+        for e in entries:
+            title = e.get("title", "").strip()
+            link = e.get("link", "").strip()
+            f.write(f"- {title}\n  {link}\n\n")
+    print(f"✅ {len(entries)}件を {OUT_PATH} に保存しました。")
+
+# ========= エントリーポイント =========
+def main():
+    entries = fetch_feed(RSS_URL, LIMIT)
+    save_feed(entries)
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    main()
