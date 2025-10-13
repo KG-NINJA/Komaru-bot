@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-10-13 09:14) ===
+=== こまる相談 ニュースフィード (2025-10-13 10:14) ===
 
 - 品川区児童相談所 - city.shinagawa.tokyo.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVVXRVlwaDVIZ0Y2OUFxMmg1WndBVk5iamlxcXBlSmJvN3NzT1JVWVVlWnJnazN0aHg4MUpqMUg0bG14a2p5bkpVYUpXN0JIS21BLWxLQWwxdGF6a2hQQkYySVdUOHdadVRGOVJyMmR2WTBPeU9SZUJpMmZ1UDE4Y0tPbHR3U0lMM0JLTw?oc=5
@@ -6,11 +6,11 @@
 - 兵庫県民総合相談センター - pref.hyogo.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oSVdVU1hWNmdCSzlfRFg5cWxvQ19YaDdmZE1CYkdUblNWa2ZSdHVxaElNSEE0WFVtcEI3TjgybnBDZU1LY3lkeTl0SFFiWjloLTZfQUxuWTQ1ZWpFZHJlbzlrNA?oc=5
 
+- 「無痛分娩」最大１０万円の助成スタート、東京都に相談急増…医療機関側に「逼迫」懸念も - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FcEZMQlBNRVBsTHhQNmk3Y0ZUQnd6V08td1dtVnNRZk1JX05uMGFSQzhLQ09WTUFtWUl4blF5UHBXSHhwdHpSamdnSXhTOWo3?oc=5
+
 - 消費生活相談のご案内 - city.maibara.lg.jp
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHBKZVRkMmlEV00zUzRxM2I1T2tERkpqZnNKd3ZUTC1GODBwc1NWQjZ5VmJBQktpOFNudXJZOElHdzVDTURld0NrT21odVdta1liZkx6d3ppUVVFUERFd202ZHc2UmgyN2pIR2RlRlFiX3dSZFRvN2xaTWRrVFMxMThnaEdvRlJR?oc=5
-
-- 悩みに寄り添う活動を支える 「仙台いのちの電話」の支援マルシェ開催（仙台放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5sVmItY3VLZHNub1VQellfVS1sZlE5empacHBpS3dCU2dRM09aalVwVjdmVzNrbHFiSDRYUzZRd3YyU25SeHdUaERVUUIwTkgxZU9JTk1wbVFDTDMyZnlDaE9ZYkJKNF9obkFjR2Y0cE1FRFVuRDlmTjh6bU5XVzQ?oc=5
 
 - 「行政なんでも相談所」の開設について - city.otsu.lg.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aRV9QTkxGeHBpREhLVDlTZVhuTkFBZktkaDVrTm8xYkw0TXVORG1FT1JKNkZIMVdUeVI0VktMeTFiMTY1Y1hUTkdKUkUzSWcyMXM1XzI5SExVRGJ4S1hwSDk4WEw1M2FS?oc=5
@@ -24,11 +24,11 @@
 - 「植物」「鳥」「恐竜」 11時台 - 子ども科学電話相談 - NHK
   https://news.google.com/rss/articles/CBMic0FVX3lxTE9DUFU5MUkxbGtITHF3VEYyRmw4dDJKeHV5RS1IaERteWdva1RhdmRnOHFQWFFVNUJPby1nV05xc3R0amREdFpLLWlIQlh4Qk1fYzBUTktOYk05aWRTRzh6cVUtWnJqckVxRUQ5X0l4UDk5YW8?oc=5
 
-- AIに「人生相談」、1,670万人が熱狂するAIセラピストの魅力と危険性 - AMP[アンプ]
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRd3gxc0NlME1sNTRWVFgtd0hBemZISDdodVZCQ3ZhaHdmU2M1N0IzYTJjSkNKRnplX0U5TW9VYllCZE05NU94TmFSa3l3Zzd2ajlsNEE1UTNzUDNJSHJVbQ?oc=5
-
 - 【データでみるＰＩＯ―ＮＥＴの相談件数】「マルチ取引」の相談件数が激減／「そもそも連鎖の相談が減っている」（2025年10月9日号） - 日流ウェブ
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbE9iYUtpa2RNZUl1bU5ra1EzNEw3MkdnNjhuQmlwR2Q1MGtOVm53Q1VlVTNqcGRPVUtOZE1KdHBpeW8teDJQaDVtSUtzU3RLTzhpdXY3NA?oc=5
+
+- AIに「人生相談」、1,670万人が熱狂するAIセラピストの魅力と危険性 - AMP[アンプ]
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRd3gxc0NlME1sNTRWVFgtd0hBemZISDdodVZCQ3ZhaHdmU2M1N0IzYTJjSkNKRnplX0U5TW9VYllCZE05NU94TmFSa3l3Zzd2ajlsNEE1UTNzUDNJSHJVbQ?oc=5
 
 - 千葉：ちばふらっと 千葉市、駅近くに移転 子供の悩み相談室身近に ：地域ニュース - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMicEFVX3lxTE9oc2dpRUxmaGVieFhYdTVRbHJ5UGlEbnkxdXVFcHZ1XzZmbGdqSkdUa19IcEtuYjNwTkplRjNEckFjaVJ5bUpqQmdCTlM5aEoxa2VtUk80Y2xTY1NrbkZOdlNEeFFxSjIxb3BIN1pvdFA?oc=5
@@ -48,8 +48,8 @@
 - 「​ゲオモバイルの強さを担う「スマホ相談員」の育成」 - リユース経済新聞
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJc3FWUFlRZUxZdGNkU1BHdE9xaWQxazRYOW5HTXpxVW5KczIxdDc2OHpsUWxDZ21GWGhxN3lLblVlU0NfdjhrRzRKbnpwY3NmZmU1bjhtYy1wSkI3eWI3OXA1Zw?oc=5
 
-- 「無痛分娩」最大１０万円の助成スタート、東京都に相談急増…医療機関側に「逼迫」懸念も - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FcEZMQlBNRVBsTHhQNmk3Y0ZUQnd6V08td1dtVnNRZk1JX05uMGFSQzhLQ09WTUFtWUl4blF5UHBXSHhwdHpSamdnSXhTOWo3?oc=5
+- 悩みに寄り添う活動を支える 「仙台いのちの電話」の支援マルシェ開催（仙台放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5sVmItY3VLZHNub1VQellfVS1sZlE5empacHBpS3dCU2dRM09aalVwVjdmVzNrbHFiSDRYUzZRd3YyU25SeHdUaERVUUIwTkgxZU9JTk1wbVFDTDMyZnlDaE9ZYkJKNF9obkFjR2Y0cE1FRFVuRDlmTjh6bU5XVzQ?oc=5
 
 - 神戸市 北区・垂水区 シニア出張就職相談会、ハローワークの就職応援セミナー他開催 - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tdGdkeEo1MmQyODVwbXYtOVlzYzJKdklVZ1UzZ21ZRnM4QkJsQW92RTdZTzQycHloazFXcURFVHA4SjVoaDVnQTd1OXdwbHhPdTNOZEczUmhWM3phYWd3?oc=5
