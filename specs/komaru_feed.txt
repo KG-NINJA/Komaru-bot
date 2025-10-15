@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-10-15 17:10) ===
+=== こまる相談 ニュースフィード (2025-10-15 18:17) ===
 
 - 品川区児童相談所 - city.shinagawa.tokyo.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVVXRVlwaDVIZ0Y2OUFxMmg1WndBVk5iamlxcXBlSmJvN3NzT1JVWVVlWnJnazN0aHg4MUpqMUg0bG14a2p5bkpVYUpXN0JIS21BLWxLQWwxdGF6a2hQQkYySVdUOHdadVRGOVJyMmR2WTBPeU9SZUJpMmZ1UDE4Y0tPbHR3U0lMM0JLTw?oc=5
@@ -24,6 +24,12 @@
 - お酒に関する困りごと家族のための相談会 - city.gosen.lg.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBnUWJDbjBvMWhtdHhvaG1Vb2pTVThXVDV4eTJ5TS1vN0tVVUNzZ2h4a3BsakF5cFp6cUtUR3BLZk1Wc0RZckREM0FzMWV0UGF3WDRqNEJVNWYzZ1lLeXYzZzdIZkRmX3Qwa0h1eg?oc=5
 
+- 【相談者】夫と早く離婚したい３８歳 不倫妻 - TVer
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KLUVOQkp1NTQ0RnJWOFMzMWFuc0U3NmZOYnU1Tm9rUEE4YTJOUkZaMkJNZ1dRZFIydzJ3enctZ0FCeW5wOWN1bVBScw?oc=5
+
+- 「さっぽろ年末生活サポート相談会」を開催します！ - 札幌市
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE9XOTl4dlBpa2swMGJ5MG5kX3F1S2lwbE83Tmh5ejRSRFlHam5UVWxrYWw2eFNrVTlZZUlfQU5zdHk5SGdTdkFBMUxKa0tPbVhGcWw4Vlo4Y05ZbVhjUnFJMXZYcmY3ajZZSF9EczlnWHNsTUwxVXVpUWFYbTZwUQ?oc=5
+
 - ツムラ 新プロジェクト発足 ～あなたの答えがきっと見つかる～「生理の悩み相談しようプロジェクト」 - 共同通信PRワイヤー
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Qi1MVDJuS0VOQXZiNjVhbzkxWjdsVlBZcW1WT3dudGE2SHFCelR4OGxpTGZ6NFNCZFJuVER5XzNkaEdYbHdEeC1MQ0MtXzRCYUpzQ2VhNU1sd2s?oc=5
 
@@ -39,17 +45,11 @@
 - 邑南町、職員を停職処分　住民の濁り水の相談、独断で転居勧める文書 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZZFlPZDhISzY5SFA0dFhBbHBVdTg5SVR1SUcxVW0xOEpmOWpxZFhUSmd1d2Ryekd0RDNOSnJ1TFlNdTdsY2dsTVN3TkMwZ3BsTmw4cWFJQUJ6QdIBXEFVX3lxTE85aGlNQTdVT2FRRF9hMXRvOEUyNHQ1WktvekZ3eUVXQm5qVHRFLWJOUTZ6QmJfd0w5Uk9JWkZ5MHdla2E4WTFaWUx0VnQtaDMzTmpUR0Z2XzhFT3Vp?oc=5
 
-- 【#恋愛の悩み】パートナーからのLINEが淡白すぎる！【コットンきょんの愛とユーモアでお悩み解決！】 - SPUR（シュプール）
-  https://news.google.com/rss/articles/CBMifEFVX3lxTFBMNHdhU1ZsYXNIdjdtRnZ3Rmo1QTVPcGtjc2NINzBEcVJidUI2eWVSUV9WWFBtTkhyMW5ueXBPRTFHeEhmRmdLVWhod3owb0tzR2Y4SVY3T1NOdHgyUWJwUV9STXZ4OVl6ODZOVnhRRkNHY3VuVzFpOTM3Y0E?oc=5
-
-- 横浜市、自治体で日本初となる生成AIを活用したがん相談サービス「ランタン」の実証を開始 - AIsmiley
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE03b2xMdWN6SUVSMGI2ZHUwTE9tRkhnVDhHQ3Q0M3NRNUlfWDg4TmZQM0Q5dURPTGNoa21CVVNFejlGbDVxWnJ3c1FCSVZGNUw2Rmo4ZktYT0dUTEloNzlNdzNEMk5ocWU4YkE?oc=5
+- 「下がれよ、安月給」「殺すぞ！」撮り鉄が駅員に罵声 近鉄は後日警察に相談「今後は躊躇せず通報」（J-CASTニュース） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5LazU2c1RWSmE4aHF0U2dsVkZ3UVRDbmlfRVhOM25mTmQzWFhrWVBscTZTUENVXzJwWWVudHFUaTNiWEhCN05hbW1rbldmdExBQXBvTENYSHhTN1RoMkh6ampHYlNCOHlDZGM2SXQzeGNJZWpEb0V1eTVZRG9CeUk?oc=5
 
 - 森香澄、30代の悩みを吐露「外側では対処し切れんぞ」（WEBザテレビジョン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1ORjBjcXdrMC1sMF90OUtFMktkWk1pcXh1bHBDTTFaWVpzTWJ3eDZhUDcySmhlNklXUzEyOFRyeUJvR19nQVVqcTlZVWN1Nm9FMlA5SnlJOW1rNmNYTmhFTUR3bXQ0XzBaNVA3QzBfWS13Q1R1ZFhIc2c2cjV0NmM?oc=5
-
-- 「下がれよ、安月給」「殺すぞ！」撮り鉄が駅員に罵声 近鉄は後日警察に相談「今後は躊躇せず通報」（J-CASTニュース） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5LazU2c1RWSmE4aHF0U2dsVkZ3UVRDbmlfRVhOM25mTmQzWFhrWVBscTZTUENVXzJwWWVudHFUaTNiWEhCN05hbW1rbldmdExBQXBvTENYSHhTN1RoMkh6ampHYlNCOHlDZGM2SXQzeGNJZWpEb0V1eTVZRG9CeUk?oc=5
 
 - 長尾謙杜＆山田杏奈、ティーンのお悩みに胸キュン 『恋に至る病』公開直前！ティーン限定お悩み相談会（エンタメOVO） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9mTEFqUHJLNmtyWUVULVZNLVQwVDFoeFpURW50MnhtaGpaVWxZZnFYQUZsUmVGUlZ0YlhVZV9FcGx3OXUwZnN2RWlweFdlMkFVM1FvYkt5RUM2REhyekxDYmFsVVNZUlV6aVpIUUZLamhPaExkRUFGQm5veTlLcTg?oc=5
