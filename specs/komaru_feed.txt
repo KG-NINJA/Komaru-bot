@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-10-15 11:10) ===
+=== こまる相談 ニュースフィード (2025-10-15 12:24) ===
 
 - 令和7年11月のスマホ・パソコン基礎相談 - town.seika.kyoto.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5tV3BOWWY2Rm1MUDJmaEJhcUZGNVVDbUQ4eEliR0x3UTJjbEJsdEFYSGNENnRNWXl5VmF6UHR6UmI4ckQxbFBxQ1RWVjdrQVItWEpBNW5tUV9BLWZtM1lFd3N2RFplckMtSFg0bA?oc=5
@@ -18,20 +18,26 @@
 - 【Recboo】「採用媒体選びで失敗しないための相談会」開催のお知らせ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5CLWF0R3lWYjdXRk5WR0NiY2lYc1c5ZTgyaXpRWV80a3VOaThwUUVUOG1CZjFJQTh3OVZDRWxEY2JmX3FsaGFNSTZGMVM3S2tWTnNNV3k2MEVrSVJJXzRaZ2xpcnVRa2NyWXc?oc=5
 
-- 【展望台】海外ビジネスについてご相談ください～齊藤学 - sannichi.co.jp
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tdlZNTGRIbjJGTXhpZmFjc3BGa3VxcDFEcGk1eVlUMFVMQlNQSWZDc0FSMDVOMGdPMERKMlhybGx0Y1lZZmo1M2FBUWhMTGRaVU1DRmpSMGdiS3oxTTU2cHh3emo?oc=5
+- 横浜市、自治体で日本初となる生成AIを活用したがん相談サービス「ランタン」の実証を開始 - AIsmiley
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE03b2xMdWN6SUVSMGI2ZHUwTE9tRkhnVDhHQ3Q0M3NRNUlfWDg4TmZQM0Q5dURPTGNoa21CVVNFejlGbDVxWnJ3c1FCSVZGNUw2Rmo4ZktYT0dUTEloNzlNdzNEMk5ocWU4YkE?oc=5
 
 - 消費生活相談のご案内 - city.maibara.lg.jp
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHBKZVRkMmlEV00zUzRxM2I1T2tERkpqZnNKd3ZUTC1GODBwc1NWQjZ5VmJBQktpOFNudXJZOElHdzVDTURld0NrT21odVdta1liZkx6d3ppUVVFUERFd202ZHc2UmgyN2pIR2RlRlFiX3dSZFRvN2xaTWRrVFMxMThnaEdvRlJR?oc=5
 
-- ツムラ 新プロジェクト発足 ～あなたの答えがきっと見つかる～「生理の悩み相談しようプロジェクト」 - 共同通信PRワイヤー
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Qi1MVDJuS0VOQXZiNjVhbzkxWjdsVlBZcW1WT3dudGE2SHFCelR4OGxpTGZ6NFNCZFJuVER5XzNkaEdYbHdEeC1MQ0MtXzRCYUpzQ2VhNU1sd2s?oc=5
-
 - お酒に関する困りごと家族のための相談会 - city.gosen.lg.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBnUWJDbjBvMWhtdHhvaG1Vb2pTVThXVDV4eTJ5TS1vN0tVVUNzZ2h4a3BsakF5cFp6cUtUR3BLZk1Wc0RZckREM0FzMWV0UGF3WDRqNEJVNWYzZ1lLeXYzZzdIZkRmX3Qwa0h1eg?oc=5
 
+- ツムラ 新プロジェクト発足 ～あなたの答えがきっと見つかる～「生理の悩み相談しようプロジェクト」 - 共同通信PRワイヤー
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Qi1MVDJuS0VOQXZiNjVhbzkxWjdsVlBZcW1WT3dudGE2SHFCelR4OGxpTGZ6NFNCZFJuVER5XzNkaEdYbHdEeC1MQ0MtXzRCYUpzQ2VhNU1sd2s?oc=5
+
+- 【展望台】海外ビジネスについてご相談ください～齊藤学 - sannichi.co.jp
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tdlZNTGRIbjJGTXhpZmFjc3BGa3VxcDFEcGk1eVlUMFVMQlNQSWZDc0FSMDVOMGdPMERKMlhybGx0Y1lZZmo1M2FBUWhMTGRaVU1DRmpSMGdiS3oxTTU2cHh3emo?oc=5
+
 - 邑南町、職員を停職処分　住民の濁り水の相談、独断で転居勧める文書 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZZFlPZDhISzY5SFA0dFhBbHBVdTg5SVR1SUcxVW0xOEpmOWpxZFhUSmd1d2Ryekd0RDNOSnJ1TFlNdTdsY2dsTVN3TkMwZ3BsTmw4cWFJQUJ6QdIBXEFVX3lxTE85aGlNQTdVT2FRRF9hMXRvOEUyNHQ1WktvekZ3eUVXQm5qVHRFLWJOUTZ6QmJfd0w5Uk9JWkZ5MHdla2E4WTFaWUx0VnQtaDMzTmpUR0Z2XzhFT3Vp?oc=5
+
+- 【#恋愛の悩み】パートナーからのLINEが淡白すぎる！【コットンきょんの愛とユーモアでお悩み解決！】 - SPUR（シュプール）
+  https://news.google.com/rss/articles/CBMifEFVX3lxTFBMNHdhU1ZsYXNIdjdtRnZ3Rmo1QTVPcGtjc2NINzBEcVJidUI2eWVSUV9WWFBtTkhyMW5ueXBPRTFHeEhmRmdLVWhod3owb0tzR2Y4SVY3T1NOdHgyUWJwUV9STXZ4OVl6ODZOVnhRRkNHY3VuVzFpOTM3Y0E?oc=5
 
 - 長尾謙杜＆山田杏奈、ティーンのお悩みに胸キュン 『恋に至る病』公開直前！ティーン限定お悩み相談会（エンタメOVO） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9mTEFqUHJLNmtyWUVULVZNLVQwVDFoeFpURW50MnhtaGpaVWxZZnFYQUZsUmVGUlZ0YlhVZV9FcGx3OXUwZnN2RWlweFdlMkFVM1FvYkt5RUM2REhyekxDYmFsVVNZUlV6aVpIUUZLamhPaExkRUFGQm5veTlLcTg?oc=5
@@ -44,12 +50,6 @@
 
 - 森香澄、会社員時代の“悩み”を告白「一人で抱え込んでいた」（テレビ朝日系（ANN）） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5RZkw5aEpraUpyT2lJRG5DQkJXVmdJRDdKSmNpRFB4LXRoQjJqSk1oeHA0WENPdjh6dzBDUmZPVXY5Rk1EYzZzTm5DTG9DMVdVTFRXRUs5OWUtTV9XM3FIXzJRYmp1TjhucXNuNklGeGVMNEdjX2lxeERyUjJEd28?oc=5
-
-- 「少女時代」の美女センター（35）、30代になって「悩みが一気に押し寄せた」。Netflix『暴君のシェフ』が大ヒット中の現在の姿が話題（Harper’s BAZAAR（ハーパーズ バザー）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFAwTHYtMVFEQkZQZWh1Qm9BdVZyNXBvMEJtXzdLU181RkpWWjhjc3hMaE9VdWNrVnU2aVFDZmtmbTREQnZHYWI2eFUyMTFrTWJEemJDYy1vbWxLVzhRLXl4eW5Ca1c2VUZYTlNoZ3phZGVVRUFIUk51eXB2N0g0NWs?oc=5
-
-- 森香澄「インナービューティー気になる」ツムラ「生理の悩み相談しようプロジェクト」トークゲストに登場（中日スポーツ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1VQ2VxV1lyYmhFZzBOc1RfcUVqb1lkNUJVWlA5c0ljTUdFQ0Z1dDlzdmlaUWVKZ2NMdUNvTTlyaXZ5Tm5Mb051UVpDNWZvNmU2bjRsaDZCQlZnbnpjMXVjQVhNWnVGejhPWVpMc3J3TlM2QkNKUDVGNTQ4YUVidW8?oc=5
 
 - 森香澄が「生理の悩み…」プロジェクト発表会に出席 「体の状態を把握してメンタルは落ち着いてきた」（サンケイスポーツ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1rUF9pdUs5VlBqNHl1WkpqdmpUMVdERThPWWF2TXdyWVd3RC0xcEVaLTVaVGtfRjBabk1rc0FYX2J0UFl6c3p5djhncmVhSTF1Y3JqeG90Z1JuZUZqX0MtNDlwNGgzMkFucVhTN0RhNmVyR1IzRHcyUTZ1OWs1VEU?oc=5
