@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-10-16 08:17) ===
+=== こまる相談 ニュースフィード (2025-10-16 09:13) ===
 
 - 民官連携でサービス開発、生成ＡＩを活用した24時間365日の相談サービス～時間も言語も気にせず相談。AIから人へ、つながる支援～ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFA1d0o2TTVDZ2E4ejFmNEtOTDhoU1hkZlp6ZmFhblFuZjlOSklwbTRHZDRDRm1TYmhMMm5laUNuVFk1aWd6M2ZkOXgtS2Jicm90d1ZNMnNtOFMtalVsbEpqRUxrNTlpTEVEMUE?oc=5
@@ -9,14 +9,20 @@
 - ～FP相談の魅力を動画で発信～ - 共同通信PRワイヤー
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUai1EbnFXMnEzVzA1SVpfYjBPd0VkaGdjRUI1d0NMZXVpbE1kTzM0cEFKN25xWGNFcGExcEpJeEpwTmtJc21OVkJBajNDTkxnS25rNDRvdUZwZkk?oc=5
 
-- 渋野日向子 現状打破へ新たな取り組み「もう悩みに悩んで、悩みまくっているので…」（東スポWEB） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1YQzY4cTJEWE1WaVRhay1kQklHRDR5RWtIU1I1M3VGZ0V0ZVA1VGhaOUZodGVYLUlieWtBTlNySk1ORnh1SjFQSl9md3Rfejc0Yk5HMFVZMzIyWFYyZHlMZ2tJaGhIVDl6dFkyWmFBMkdra3VwWE5PVXJDamQyYkU?oc=5
-
 - 兵庫県民総合相談センター - pref.hyogo.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oSVdVU1hWNmdCSzlfRFg5cWxvQ19YaDdmZE1CYkdUblNWa2ZSdHVxaElNSEE0WFVtcEI3TjgybnBDZU1LY3lkeTl0SFFiWjloLTZfQUxuWTQ1ZWpFZHJlbzlrNA?oc=5
 
 - 「tvk光 なんでも相談会」開催!! 10/18(土)-10/19(日) 平和堂アル･プラザ小松 - tvk.ne.jp
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IWWQ0OGo5cG93a0M0RnlvNEJQM3BOSFFEZnRNQkV4dFpLd05DaGNGZWR4UlBLMDBoR2RldzN3RVRvWnlzcndXelp1NlY?oc=5
+
+- 渋野日向子 現状打破へ新たな取り組み「もう悩みに悩んで、悩みまくっているので…」（東スポWEB） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1YQzY4cTJEWE1WaVRhay1kQklHRDR5RWtIU1I1M3VGZ0V0ZVA1VGhaOUZodGVYLUlieWtBTlNySk1ORnh1SjFQSl9md3Rfejc0Yk5HMFVZMzIyWFYyZHlMZ2tJaGhIVDl6dFkyWmFBMkdra3VwWE5PVXJDamQyYkU?oc=5
+
+- 性差別・性被害相談の80％「記録なし」…韓国政府・直営化で管理体制が崩壊 - AFPBB News
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9td1FCU3JXX2VKazBqeW5aNGRhOFRMTUd5bldfYnh5aFRoWFVMT24xaHZENEZ4TmVzMGZkTllQWlZaZDlUcE1sQ1JvZENCTmh5TlHSAVRBVV95cUxPT21SZERPTTVORUZqdVN0MEtQb2VXOV9vWE9nbHMtT3d6N3NVakNMWnFnc3k4YU5nVnFlbkpPSjI1V1YzT2pvRy0yU3JNaUtZbU5ZVjI?oc=5
+
+- 令和7年11月のスマホ・パソコン基礎相談 - town.seika.kyoto.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5tV3BOWWY2Rm1MUDJmaEJhcUZGNVVDbUQ4eEliR0x3UTJjbEJsdEFYSGNENnRNWXl5VmF6UHR6UmI4ckQxbFBxQ1RWVjdrQVItWEpBNW5tUV9BLWZtM1lFd3N2RFplckMtSFg0bA?oc=5
 
 - 離乳食の悩み そばで支援 金沢・にじのわでカフェ初開催 - 中日新聞Web
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE95UlR1SjYza3Z0Wkg2b1pVOGJtUkg1YURUSXNjVzRXRkNQUTZjWmVJeGpHWTd3Nkp2MklVdk5UbHVxVXpjeHhkQkE4RG14ckktVmZHa25iT2xFSnNWWGZ2dGlkSGJILVpD?oc=5
@@ -24,23 +30,23 @@
 - 奈良市、相談AIが85％の子育て相談に対応！一方、重篤・複雑ケース等は人による対応が不可欠 - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fbHM2YVZwNExPazdEeklxNjVOT1NyblgtdTc2U1hqSVUzMkRxNE1KU0tyYVFjTkdISFlfN0Z2cVFQckNoQ3BFYWM1Qlk?oc=5
 
-- 令和7年11月のスマホ・パソコン基礎相談 - town.seika.kyoto.jp
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5tV3BOWWY2Rm1MUDJmaEJhcUZGNVVDbUQ4eEliR0x3UTJjbEJsdEFYSGNENnRNWXl5VmF6UHR6UmI4ckQxbFBxQ1RWVjdrQVItWEpBNW5tUV9BLWZtM1lFd3N2RFplckMtSFg0bA?oc=5
+- 【初公判】自宅で出産して死亡した赤ちゃんを放置 妊娠を周囲に相談せず「迷惑をかけたくなかった」 検察「医療機関に相談できたはず」 - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9hZW0xQzJQcl9WSXIxS2Rma2QtNVZtWFJCY1ZmbjBYZXVmZ0Q0S25aM0lycEhPTGhFb19kOF9yWG5EM1JNRnl6LUV1ZWlFZWF2SWF0ZlowWk1qNjRfcURCUWJxSDVnUFZ1R2F5Y0pVNTVxOG5jS09DZzFqeHpsWVU?oc=5
 
 - シニア向け「スマホ相談会」付き「脳活ゲーム体験」（ぷよぷよeスポーツ）【2025年10月23日】 - esports-world.jp
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MZ0lzYU5JTXN3SGZTWHR6NVVMZXROT2xpdUhaajlHU0dzVU1aQ0JDTEpHZy1uYU9rN01Td1pKNHhwVHB3MThKNXp3clRkM2hXTGg4?oc=5
 
+- BSIグループジャパン（英国規格協会）、 「レインフォレスト・アライアンス認証」を 相談から認証まで一気通貫でサポート 国内有数の認定認証機関としてサービス提供を開始 | BSIグループジャパン株式会社 - アットプレス
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LVzhxQWRfem56eWdGSC1LbDI5TlNtX3I5SWdXVF9yQVpDbmVMWF96Z3JGVkZUQjlpMWJjVTF5T0hFdU1qejU1YmNlbndrQQ?oc=5
+
 - 教育委員会が「先生にも言えない悩み」を聞くAIアプリ開発 小中学生の相談相手に - 日経クロステック
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBrS0VJVWlJUGVmMWpJYkp1M1oyUUQ4SG5CazFtcldYRVhFd0xnOHozQUZkaWdyTDNJc0RBc09ud25SM01YeVZuSU9ydm5LZnhnMnlsRHZCM3V1SUJTNEN3VktCUWxoZGRzcW1wbA?oc=5
-
-- 税理士法人安心資産税会計、相続や法人化の相談を無料で【賃貸住宅フェア2025東京 開催レポート】 - 全国賃貸住宅新聞
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE56eGpLY0xjNDJ2Y2NIanpBeTdkQXJCNWc4RFNyZlJfNWhMRjZNXzFVM1F6WFpXX05sc0VOU3drUVlhMGZsNW9YVXR1elk1Yk1rTkE4aE44YjY?oc=5
 
 - 福祉相談支援、集約化へ特例 過疎地対象、人手不足に対応 厚労省（時事通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5Kb0F0bmNPM19CV2otdUZReFIwUzJzc1ozZEw1ZWhlYUpLOXdlaTFDWWNudUhBOWYwZmVra214QVY0MnRGbG4wM2RUZGFodThlV0RBWWlpUFBxNjkzODVIZnNUaDM1ZWJoRFJ1RHNmaThlMDdoRmZKNV82THpOMUk?oc=5
 
-- モノづくり、その悩み見抜きます - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE85T081WjZvYTBuYU95ZmxEWndJVkZPWGV0WVBCSFY3X2lkd2FxUk95VW9PMmZKTUFYREJ1VGVoOFloMG9pWUJRRDFjRC1fRC1DZ09Oakp3emFLU2oxTGFzYTROY1V0Sk1MOUE?oc=5
+- 書けば、気付ける。話せば、確信に変わる。「オンライン相談付きキャリア手帳®2026年版」発売～働くすべての人に、自分らしいキャリアデザインを～ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZemFpalpRcnlVSU55WlZrSGF1Y0tKMUwzRVB0ZWs3YjFLVXVLckthOXhQVmR2bU8zYnF2Z1dEN1V1NWZXd0NkX00yaUtfdTRXSUxFUHBPdHJNdkZtZ3lLdWRZNVpJTHl6cFE?oc=5
 
 - AIに相談すると人は楽観的になり、予測精度を下げる（DIAMOND ハーバード・ビジネス・レビュー） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTW5yNWx3bi16SDBOcGswODVfQlBzQUx1YlJYczlLR1BEd1U1NW5PdW4zRjBnQU9ZRE5RWlJqWWxXa3cxcERVUkVQZDRjeGR1bWJST05NbzIxV3ZFelY0RHRseUtOcHN2bThpWjFNNzNObHRTc1o0eENsMjFvdXM?oc=5
@@ -53,10 +59,4 @@
 
 - 「水道から濁った水が出ている」町に相談も…職員が1年以上放置し「転居をされるようならご相談を」と文書をポストに投函 係長級職員を懲戒処分（BSS山陰放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFAteFN2UFc4MnhLRS1wUnppcmVOdk9qQUhnZ3llM3JVTkhCcXRXbXZTU0tPMVVxSGVlSnREM05TMEhYYnZpYkVUTVBBc3hVQlVaRkpkVmdGOHNaaWRQVDBpSDZWandabWJ3X243UWJSZkk0bDhOM2kyalV5blpNcGs?oc=5
-
-- 相次ぐクマ目撃...県は市町村の相談に対応する専門チーム立ち上げ 鶴岡市では公園や学校付近でクマ目撃（山形） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5rTXdkZ2drSF9mRHQyVl9lTjYtWm4yWm9obkg2dW13TkxtRThKeG1kS1dWR3UxVmV6T19GS0lXaXY1dGVSZW16bS1ndHlaQ1l4NDVZUFYzd3JVMmdSWkxULV8tQ1hJS1BnYUNIR3FJNGU3dVlGU1prM3plRXk1bjg?oc=5
-
-- ＜10/26(日)・函館で開催！＞道南地域でバス運転手として働いてみませんか？バス運転手合同就職相談会を開催します🚌 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE4yVlZPYnVOSGdhQ3VVTG1idGRKemZJVjJJdF81b0FlZ1JKOHJfRlY4M2RvdHE4NE9xemlEbG9zeGJuX0dTQktJeG16YzRLTzhpak5qTUU0UVZlYzJxVHVsNWgwYTFhaC0wVFE?oc=5
 
