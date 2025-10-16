@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2025-10-16 11:10) ===
+=== こまる相談 ニュースフィード (2025-10-16 12:23) ===
+
+- 企業説明会・相談会in加須 - city.kazo.lg.jp
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DVGlOdXY0dWFqMWl2T1FMaGtIaHNWOGhXN1RJR1ZNLWE0d19ZYm5CcEVFaXduS1JWRVNZSU01bVkzSGlrZklDbi1ySHNIYnpNekNKNHRYdkRiSXVHU2Y4UnBmdXRkRjA?oc=5
 
 - 民官連携でサービス開発、生成ＡＩを活用した24時間365日の相談サービス～時間も言語も気にせず相談。AIから人へ、つながる支援～ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFA1d0o2TTVDZ2E4ejFmNEtOTDhoU1hkZlp6ZmFhblFuZjlOSklwbTRHZDRDRm1TYmhMMm5laUNuVFk1aWd6M2ZkOXgtS2Jicm90d1ZNMnNtOFMtalVsbEpqRUxrNTlpTEVEMUE?oc=5
@@ -9,9 +12,6 @@
 - ～FP相談の魅力を動画で発信～ - 共同通信PRワイヤー
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUai1EbnFXMnEzVzA1SVpfYjBPd0VkaGdjRUI1d0NMZXVpbE1kTzM0cEFKN25xWGNFcGExcEpJeEpwTmtJc21OVkJBajNDTkxnS25rNDRvdUZwZkk?oc=5
 
-- 福祉相談支援、集約化へ特例 過疎地対象、人手不足に対応―厚労省 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2TjRIU2VzTkYzaG1MMEhicDZ5dm1oNjE3dC0zZ2pXM3JmTFZCYWpRdzBUVVpiZVFobTVvSzJyRlFpRjJxYUh2OHBiOGJYZllqSWxvcWEzemhnLW1lUVFwZS1TWQ?oc=5
-
 - 「tvk光 なんでも相談会」開催!! 10/18(土)-10/19(日) 平和堂アル･プラザ小松 - tvk.ne.jp
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IWWQ0OGo5cG93a0M0RnlvNEJQM3BOSFFEZnRNQkV4dFpLd05DaGNGZWR4UlBLMDBoR2RldzN3RVRvWnlzcndXelp1NlY?oc=5
 
@@ -20,9 +20,6 @@
 
 - 「高額・即金」は危ない！相談は＃9110へ 清正公が「闇バイト」防止の啓発で肥後の民を守る？ - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE96SW1uc240dWN0ZUo2bkF0YTZpc09HQ0JGVUVOdVAxZWNBeXppam1JNVloX2JBaEhOQjUyY0FFTW1BUlhseTYtaWlhYnQzNHpSRlZiNEJ2R1VZQQ?oc=5
-
-- 令和7年11月のスマホ・パソコン基礎相談 - town.seika.kyoto.jp
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5tV3BOWWY2Rm1MUDJmaEJhcUZGNVVDbUQ4eEliR0x3UTJjbEJsdEFYSGNENnRNWXl5VmF6UHR6UmI4ckQxbFBxQ1RWVjdrQVItWEpBNW5tUV9BLWZtM1lFd3N2RFplckMtSFg0bA?oc=5
 
 - 離乳食の悩み そばで支援 金沢・にじのわでカフェ初開催 - 中日新聞Web
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE95UlR1SjYza3Z0Wkg2b1pVOGJtUkg1YURUSXNjVzRXRkNQUTZjWmVJeGpHWTd3Nkp2MklVdk5UbHVxVXpjeHhkQkE4RG14ckktVmZHa25iT2xFSnNWWGZ2dGlkSGJILVpD?oc=5
@@ -39,6 +36,9 @@
 - 税理士法人安心資産税会計、相続や法人化の相談を無料で【賃貸住宅フェア2025東京 開催レポート】 - 全国賃貸住宅新聞
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE56eGpLY0xjNDJ2Y2NIanpBeTdkQXJCNWc4RFNyZlJfNWhMRjZNXzFVM1F6WFpXX05sc0VOU3drUVlhMGZsNW9YVXR1elk1Yk1rTkE4aE44YjY?oc=5
 
+- 教育委員会が「先生にも言えない悩み」を聞くAIアプリ開発 小中学生の相談相手に - 日経クロステック
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBrS0VJVWlJUGVmMWpJYkp1M1oyUUQ4SG5CazFtcldYRVhFd0xnOHozQUZkaWdyTDNJc0RBc09ud25SM01YeVZuSU9ydm5LZnhnMnlsRHZCM3V1SUJTNEN3VktCUWxoZGRzcW1wbA?oc=5
+
 - 奈良市、相談AIが85％の子育て相談に対応！一方、重篤・複雑ケース等は人による対応が不可欠 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5jV2x6Z1Jyb2dhbVg5M29lcFFBM0Z5VjNiUk9aZDkxVERFV0NqdVphSmRqMU1teUNwNWhudDVuYUhuUzdZd3JWT0w0UlpJdXFmcFdCWUEteG5pOTg2MUk3ZzNfLWs3T3NkTkE?oc=5
 
@@ -54,9 +54,9 @@
 - 「水道から濁った水が出ている」町に相談も…職員が1年以上放置し「転居をされるようならご相談を」と文書をポストに投函 係長級職員を懲戒処分（BSS山陰放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFAteFN2UFc4MnhLRS1wUnppcmVOdk9qQUhnZ3llM3JVTkhCcXRXbXZTU0tPMVVxSGVlSnREM05TMEhYYnZpYkVUTVBBc3hVQlVaRkpkVmdGOHNaaWRQVDBpSDZWandabWJ3X243UWJSZkk0bDhOM2kyalV5blpNcGs?oc=5
 
-- AIに相談すると人は楽観的になり、予測精度を下げる（DIAMOND ハーバード・ビジネス・レビュー） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTW5yNWx3bi16SDBOcGswODVfQlBzQUx1YlJYczlLR1BEd1U1NW5PdW4zRjBnQU9ZRE5RWlJqWWxXa3cxcERVUkVQZDRjeGR1bWJST05NbzIxV3ZFelY0RHRseUtOcHN2bThpWjFNNzNObHRTc1o0eENsMjFvdXM?oc=5
-
 - ホテル密会・小川市長は「典型的な相談女」か 魔性オーラは「男社会で愛される女」の生存戦略？（デイリー新潮） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEU1V0NBRkJ2VGFXdnhJMWpkTTBsVWUwSVF2bV8tenRDZE1oUDR2QkQ4TVRIVlp3bVRJYkhJSlg2V184TnRDWkw5NXFkMl9nakZaT3psaHZ5TWhJNm43U05oSjZKLW44Wmh1Z1BXM0dpQ216XzVrM3Fjd3NaU2JMQlJIZ2diX2kx?oc=5
+
+- AIに相談すると人は楽観的になり、予測精度を下げる（DIAMOND ハーバード・ビジネス・レビュー） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTW5yNWx3bi16SDBOcGswODVfQlBzQUx1YlJYczlLR1BEd1U1NW5PdW4zRjBnQU9ZRE5RWlJqWWxXa3cxcERVUkVQZDRjeGR1bWJST05NbzIxV3ZFelY0RHRseUtOcHN2bThpWjFNNzNObHRTc1o0eENsMjFvdXM?oc=5
 
