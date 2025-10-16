@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2025-10-16 10:13) ===
+=== こまる相談 ニュースフィード (2025-10-16 11:10) ===
+
+- 民官連携でサービス開発、生成ＡＩを活用した24時間365日の相談サービス～時間も言語も気にせず相談。AIから人へ、つながる支援～ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFA1d0o2TTVDZ2E4ejFmNEtOTDhoU1hkZlp6ZmFhblFuZjlOSklwbTRHZDRDRm1TYmhMMm5laUNuVFk1aWd6M2ZkOXgtS2Jicm90d1ZNMnNtOFMtalVsbEpqRUxrNTlpTEVEMUE?oc=5
 
 - 品川区児童相談所 - city.shinagawa.tokyo.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVVXRVlwaDVIZ0Y2OUFxMmg1WndBVk5iamlxcXBlSmJvN3NzT1JVWVVlWnJnazN0aHg4MUpqMUg0bG14a2p5bkpVYUpXN0JIS21BLWxLQWwxdGF6a2hQQkYySVdUOHdadVRGOVJyMmR2WTBPeU9SZUJpMmZ1UDE4Y0tPbHR3U0lMM0JLTw?oc=5
@@ -15,6 +18,9 @@
 - 【山形】緊急銃猟制度の相談に応じるタスクフォース立ち上げ（YTS山形テレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9QYWQzcWZVQm9hYzNUdG9wN0ZDdmhUdDhRNGk1ZjNLTktJc3ctNHA5Q2N3Y1o4ZHoxTHp2Y2lnYkVQaWNuRHNTQ2dSZWJoYVZtWlNwMG52UzZUSklqbFg3LXBFN3F4R3loOThWSUphanJXMGNLdG5sVWVoM3V0VjA?oc=5
 
+- 「高額・即金」は危ない！相談は＃9110へ 清正公が「闇バイト」防止の啓発で肥後の民を守る？ - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE96SW1uc240dWN0ZUo2bkF0YTZpc09HQ0JGVUVOdVAxZWNBeXppam1JNVloX2JBaEhOQjUyY0FFTW1BUlhseTYtaWlhYnQzNHpSRlZiNEJ2R1VZQQ?oc=5
+
 - 令和7年11月のスマホ・パソコン基礎相談 - town.seika.kyoto.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5tV3BOWWY2Rm1MUDJmaEJhcUZGNVVDbUQ4eEliR0x3UTJjbEJsdEFYSGNENnRNWXl5VmF6UHR6UmI4ckQxbFBxQ1RWVjdrQVItWEpBNW5tUV9BLWZtM1lFd3N2RFplckMtSFg0bA?oc=5
 
@@ -30,33 +36,27 @@
 - 【初公判】自宅で出産して死亡した赤ちゃんを放置 妊娠を周囲に相談せず「迷惑をかけたくなかった」 検察「医療機関に相談できたはず」 - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNcG9CSVlsbzB0VUR0X0JvY1FfRmpKSFFzclA3ajVNSDJwN3pNajByWEtXT1NveWpCYVQ2NmRmbXFlWlJ1bXl4LUNWMWswZTdxQVZfQ3FyZFFXbW51WXMwdkl2RjZ1VFRnc0ZkM0NQTjY1QXcyazBpb0l0UXFxNHI0TUpUWWpvOXc?oc=5
 
-- 教育委員会が「先生にも言えない悩み」を聞くAIアプリ開発 小中学生の相談相手に - 日経クロステック
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBrS0VJVWlJUGVmMWpJYkp1M1oyUUQ4SG5CazFtcldYRVhFd0xnOHozQUZkaWdyTDNJc0RBc09ud25SM01YeVZuSU9ydm5LZnhnMnlsRHZCM3V1SUJTNEN3VktCUWxoZGRzcW1wbA?oc=5
-
 - 税理士法人安心資産税会計、相続や法人化の相談を無料で【賃貸住宅フェア2025東京 開催レポート】 - 全国賃貸住宅新聞
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE56eGpLY0xjNDJ2Y2NIanpBeTdkQXJCNWc4RFNyZlJfNWhMRjZNXzFVM1F6WFpXX05sc0VOU3drUVlhMGZsNW9YVXR1elk1Yk1rTkE4aE44YjY?oc=5
 
-- BSIグループジャパン（英国規格協会）、 「レインフォレスト・アライアンス認証」を 相談から認証まで一気通貫でサポート 国内有数の認定認証機関としてサービス提供を開始 | BSIグループジャパン株式会社 - アットプレス
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LVzhxQWRfem56eWdGSC1LbDI5TlNtX3I5SWdXVF9yQVpDbmVMWF96Z3JGVkZUQjlpMWJjVTF5T0hFdU1qejU1YmNlbndrQQ?oc=5
+- 奈良市、相談AIが85％の子育て相談に対応！一方、重篤・複雑ケース等は人による対応が不可欠 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5jV2x6Z1Jyb2dhbVg5M29lcFFBM0Z5VjNiUk9aZDkxVERFV0NqdVphSmRqMU1teUNwNWhudDVuYUhuUzdZd3JWT0w0UlpJdXFmcFdCWUEteG5pOTg2MUk3ZzNfLWs3T3NkTkE?oc=5
 
-- 書けば、気付ける。話せば、確信に変わる。「オンライン相談付きキャリア手帳®2026年版」発売～働くすべての人に、自分らしいキャリアデザインを～ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZemFpalpRcnlVSU55WlZrSGF1Y0tKMUwzRVB0ZWs3YjFLVXVLckthOXhQVmR2bU8zYnF2Z1dEN1V1NWZXd0NkX00yaUtfdTRXSUxFUHBPdHJNdkZtZ3lLdWRZNVpJTHl6cFE?oc=5
+- 「高額・即金」は危ない!相談は＃9110へ 清正公が「闇バイト」防止の啓発で肥後の民を守る?（RKK熊本放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE15RWFYQ1BjSUl2NGtBRmk5OTlySkNxN0F5QzhJaktLYzRLOFFLcWp2ZDhhRjdqNjRGNTY4NTQ1R1o4TXRvQU9pRkVXNFZvMUkzY3lpRHBFWUkxQWhCNDZvcnlDSEp6bkZOZmF2TmFLUkNrcjNYa293aGp0c3V1Vnc?oc=5
 
 - 特別対談企画〉「人生どうしていくべきか」「年齢とともに衰えが...」悩める大学生と社会人に愛の喝采！ ―価値観フリーな人生相談（後編）（サストモ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9pZ1JvdXFFUTdYVmN6V192UHhiTk1rZ3I3TUQycG9lVEs4dTNPMnpTdUE3d0ducnFLZm9Jc3BLNkQzYVdsV25WVEdJMU5XVVZfM0NqSHJLdXdNeWpIQjBrS2stcVFmUEFRaF9fdlZKeDB6YW9JMlVFbHM5RG1BVlE?oc=5
 
-- 採用支援サービス iRec、Chatwork DX相談窓口と提携開始 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFB6SkdWN3QyVUZJWXB0QTViQkVuaE5yWERyVGVUQ0Q5SEhGU29hcmk1dWREaTRnR214MHNQMmx3MWlEcWRfQU0yNFBuYVExOU9UMUZvMGszNjZFcTA1ZkVvbFJXRUp4UWJySWc?oc=5
+- 特別対談企画〉「将来、何をやったらいいのか」悩める大学生と社会人に愛の喝采！ ―価値観フリーな人生相談（前編）（サストモ - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFAyNTdpcVhMeTlWTF9hdk40el9NbTI0Sm9ORV9LTHczSllXemljcTkzdFhOMGZhNXV1STkySW9SUm1OTXMwRl84VUtiT3JsOHBDbTJyZzFTR21fbGJwdElIR3NRZmxwUzRZa0xfX3RuX1V6SlFxeHU2ZVpPRm82Qzg?oc=5
+
+- 「水道から濁った水が出ている」町に相談も…職員が1年以上放置し「転居をされるようならご相談を」と文書をポストに投函 係長級職員を懲戒処分（BSS山陰放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFAteFN2UFc4MnhLRS1wUnppcmVOdk9qQUhnZ3llM3JVTkhCcXRXbXZTU0tPMVVxSGVlSnREM05TMEhYYnZpYkVUTVBBc3hVQlVaRkpkVmdGOHNaaWRQVDBpSDZWandabWJ3X243UWJSZkk0bDhOM2kyalV5blpNcGs?oc=5
 
 - AIに相談すると人は楽観的になり、予測精度を下げる（DIAMOND ハーバード・ビジネス・レビュー） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTW5yNWx3bi16SDBOcGswODVfQlBzQUx1YlJYczlLR1BEd1U1NW5PdW4zRjBnQU9ZRE5RWlJqWWxXa3cxcERVUkVQZDRjeGR1bWJST05NbzIxV3ZFelY0RHRseUtOcHN2bThpWjFNNzNObHRTc1o0eENsMjFvdXM?oc=5
 
 - ホテル密会・小川市長は「典型的な相談女」か 魔性オーラは「男社会で愛される女」の生存戦略？（デイリー新潮） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEU1V0NBRkJ2VGFXdnhJMWpkTTBsVWUwSVF2bV8tenRDZE1oUDR2QkQ4TVRIVlp3bVRJYkhJSlg2V184TnRDWkw5NXFkMl9nakZaT3psaHZ5TWhJNm43U05oSjZKLW44Wmh1Z1BXM0dpQ216XzVrM3Fjd3NaU2JMQlJIZ2diX2kx?oc=5
-
-- 「水道から濁った水が出ている」町に相談も…職員が1年以上放置し「転居をされるようならご相談を」と文書をポストに投函 係長級職員を懲戒処分（BSS山陰放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFAteFN2UFc4MnhLRS1wUnppcmVOdk9qQUhnZ3llM3JVTkhCcXRXbXZTU0tPMVVxSGVlSnREM05TMEhYYnZpYkVUTVBBc3hVQlVaRkpkVmdGOHNaaWRQVDBpSDZWandabWJ3X243UWJSZkk0bDhOM2kyalV5blpNcGs?oc=5
-
-- 性差別・性被害相談の80％「記録なし」…韓国政府・直営化で管理体制が崩壊 - AFPBB News
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9td1FCU3JXX2VKazBqeW5aNGRhOFRMTUd5bldfYnh5aFRoWFVMT24xaHZENEZ4TmVzMGZkTllQWlZaZDlUcE1sQ1JvZENCTmh5TlHSAVRBVV95cUxPT21SZERPTTVORUZqdVN0MEtQb2VXOV9vWE9nbHMtT3d6N3NVakNMWnFnc3k4YU5nVnFlbkpPSjI1V1YzT2pvRy0yU3JNaUtZbU5ZVjI?oc=5
 
