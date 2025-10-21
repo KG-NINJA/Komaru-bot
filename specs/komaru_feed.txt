@@ -1,7 +1,7 @@
-=== こまる相談 ニュースフィード (2025-10-21 13:28) ===
+=== こまる相談 ニュースフィード (2025-10-21 14:11) ===
 
-- 情報セキュリティ安心相談窓口の相談状況［2025年第3四半期（7月～9月）］ - ipa.go.jp
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5EM3E5Vzk2bzQ5R3pOVTBpWTJYRGNzZzJSb0tUSG9rVmdmcGVjMGdBcVlqNlpraXlBS0ZSRHJuNlFkRTFRWGlZakFlOV90V2FUbkcxMnRYZTEyQmtMQVlVcWdoWXE0TGVfaHowRlVvdXE5QQ?oc=5
+- サイバーセキュリティ相談窓口の相談状況［2025年第3四半期（7月～9月）］ - ipa.go.jp
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE1lSnlQUDY3S3RsdzdMbFVGaTdKNXlodThybGhfY2VNYXV3ZmNKenkzdE9weUJ3aGV5cnZNY3MzQTd0OVFoUGpPb3dIc0lOVXVNZDJsNi1icFNZdUVvaV9qZ0RNbHRETjV2SC1hOTdtbldFRkE?oc=5
 
 - 消費生活相談 - city.hanno.lg.jp
   https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3VvQkpKRWFlbmFrNWlYSU51M0FZX3JkcnVxU0U4LUhoTkNCMEZUZnpZLUJxWXZSZlZoTnlSQmpfeFJsSE1ra3gyYUNYS25rZ2I2cF9sSXpJcFVxaURFQkdEWFlQS09HaU8xbVo3ZWlFUW8xOGFET0UtaUxrOS02c3YzdEE0SGp2SG00NHVNalg3NHM?oc=5
@@ -12,11 +12,11 @@
 - 第3回 公開セミナー＆入試相談会 開催｜言語コミュニケーション文化研究科 - kwansei.ac.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9USGxEcVBnTjVOUElSTV9ocDlYUzVfd255RGFremVEWXZ6a0lBM01VYkpkb1k1bG1YM0dFOEV3SXQ5VnR6SlNCYnc3NmlrcXJuWFM1bzg3SEk0YzRiRGp5U0JpUQ?oc=5
 
-- 古紙リサイクル・ペーパーレス化に関する訪問相談支援のご案内 - city.kanazawa.lg.jp
-  https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDljVjRKUXRyVjlqd0I4akxOVFBBc3otemdhN00zZFp3RW1GaWplbUtVSGc3NWIxbW5aMlB1RmllLUs1TzFFM3d2bEVlSDdUdVgxZUdVNDdzb2FubGF4bTdtbzZMRFlta3Vtdl8zMHBuODFxMGMtVU5Sc1h5NXZfMExOeVpQZU1Pb2p3MEIzbHZZZlVHLU9LWXA1SzRPY0t3OEpNNVRuN0NUQlpQS3FwMlNwTQ?oc=5
-
 - 髪のお悩み、9割が抱えるも半数超が「誰にも相談していない」！ 「ほぼ1000人にききました」が調査結果を発表。 - アットプレス
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lbFYxX2RqdzVmUTU5c3FKRU5qd0haTlU5QUZOOHFrTzlwVU05aW1RM1NqRlZTc29WdEFiaUU0aVBZbXhuOWI2NllINS00dw?oc=5
+
+- 古紙リサイクル・ペーパーレス化に関する訪問相談支援のご案内 - city.kanazawa.lg.jp
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDljVjRKUXRyVjlqd0I4akxOVFBBc3otemdhN00zZFp3RW1GaWplbUtVSGc3NWIxbW5aMlB1RmllLUs1TzFFM3d2bEVlSDdUdVgxZUdVNDdzb2FubGF4bTdtbzZMRFlta3Vtdl8zMHBuODFxMGMtVU5Sc1h5NXZfMExOeVpQZU1Pb2p3MEIzbHZZZlVHLU9LWXA1SzRPY0t3OEpNNVRuN0NUQlpQS3FwMlNwTQ?oc=5
 
 - 児童相談センター企画事業 「ひまわり教室」講演会を開催｜福祉社会学部｜IUK NEWS - iuk.ac.jp
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wazVQV1ZhcXBiM3hXRWJldEpDblV6N2lJTmxVT1ljYXR0N2FuRm9xS0QtallmbG51cTZITk92ajB3ZWQ0RXRfUzdpcnJRdEpEcmc?oc=5
@@ -24,39 +24,39 @@
 - 警察総合相談室及び警察署相談窓口のご利用を！！ - pref.kyoto.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTFA0RnE4anI4ajdxdkxUcUFYc01iamlOOTZfbVBpbmF2dTNlSDROcWJ4LS1taHI4ODZ5cldlMHplN1lmTlZvWF80WHlLYkZYcy04RWhYcW9WT3Q3MGNLUy1XMUxuVVJ2VmF0QTRF?oc=5
 
-- はいだしょうこ 宝塚音楽学校時代に名字で困ったこと、「しゃべっちゃいけないし、どうしようと…」（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFB5dWpES1ZuQk1qLU85Q2FhZ1NELXdXeFhnczFUNHZCaE0xMUZMOURhMDhHYWUzcjh4OGdlWGw5c2REMHlOeGJlLWFFX3JFS2ZzVmluNDBoWkRYOUVDdDQzckdKeEgzV01lekVtbThRUUtSbm16V2RKaDA1TGVxTVE?oc=5
-
 - NEC、生成AIを用いたキャリア相談ツールと他部署の体験プログラムを社内展開 - IT Leaders
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PY3NEMlpOVHh6Vkd4aS1uOG9XQlRhdk8tM21yNkF6Y2czSUhHY19iMHg2QWl0dF95Z1BmY2ZtRF9DbmY5SmxGU2xRM0NrWVZBWWc0?oc=5
 
 - 結婚相談所 来年３月末に閉鎖 倉敷市 婚活イベント充実に注力 - 山陽新聞
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1teXcxel9JZ29kOTE5SFZ5dEJlaHdqdW5xZE1ISGdCcUM3dl9ITjg3RUhScDRxTUpURElUaDlRQWd1VlNHSnM2eF95MnhLR29fcnc?oc=5
 
-- 「児童虐待」の相談件数が過去最多を更新 半数以上が心理的虐待、4割以上が未就学児 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zZTlDQ2dRRVBQVzdseXhMYVV6SUozZnNLaFBqeWF2MjY5VGVKT0psVEQ0cTRGcjc1NUFMbnI0SUlBZ3IzQUJmaXV5bzM?oc=5
-
 - 「一人じゃない」 子育ての不安や悩み、共有できる場に 「みぶ親の会 スのまんま」設立、25日にセミナー - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE80SmxCM25MRXowUHhEUjlMQlpBUExMUk1mNEtPSWdHbmNIb1puelYybEtlZXNHUTdiVnU0U21SRy1YdGt2ZnQ2YTBMd3kySDVabktrOExBWGswRTA?oc=5
+
+- 「児童虐待」の相談件数が過去最多を更新 半数以上が心理的虐待、4割以上が未就学児 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zZTlDQ2dRRVBQVzdseXhMYVV6SUozZnNLaFBqeWF2MjY5VGVKT0psVEQ0cTRGcjc1NUFMbnI0SUlBZ3IzQUJmaXV5bzM?oc=5
 
 - 奥山葵演じる週刊誌の新人記者 聞き込み、裏取り…悩みと葛藤に共感 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GTXNwSnZwRmFGU25LTkNFX1hPT1JyUm5kYkI0UzhlYlIwMXYtMjc5dDhPVkNfX0I2aUI4WVE0V0hiSHoyTURQWi1FS0pIdnlPZDM0ZWhYS3JWZm9zbGFoUFliTmFUZGs?oc=5
 
-- 泉キャンパス で『放課後のプレミアムオープンキャンパス（個別相談会）』を開催（10/27～） - 東北高等学校
-  https://news.google.com/rss/articles/CBMizgJBVV95cUxQQVAxRU0xVjFUYUQzU2JxUE1sYnBzSUx2MUZuVEo3di1lSWhVSUVqXzNQeU5EZWxNTVh2dDZLYjNod1h5WDM2UE1mbndyVGkxZXNtRFFaUlpLdGFhRktuZkE3Qm0zVHgyMS1iZW9iQlhBY3ZzbFVpVERCem9NZ2kxS2xUMXo4SmRkc0o1N2J4dXdmVFR2d2x2MzVheGxCd21hLWxjQ2ZVYnRmbXJCM2tvbkktNzJHUnpkZFQ3WE0zTjVyM20wOHIzS25Tc090eW5XLUF6Z04wZFlzYnJGNmdGQnJ0MF9sVmFOczAzSzRYbnFoN2JCN2ptWTd2UWcwOG5wTExxcXI5UmtaMEc2aGVlcnNybmx1cGhlSVViN040VEtCUDRSVFNWakxEd2tOLW91Y0p4V0lfTmZTSXVQcDFidlpyTU1mdmxwOFRiY3ZR?oc=5
+- 中山忍 姉・美穂さんに芸能活動の悩み相談「よくしてた」 「歌はちょっと難しい」へのアドバイスとは（スポニチアネックス） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE13S3lBUkVjbVhkaTVLbEt5bzlWMWNXVThWNXRsUkJpa2ZXbEx4eVVPRTM2ODRvNkVrQ2M0OVBSY0k0MDdRREp2WFhlWUJDd2Vta1pLNHZ5ZHBnUElCZ0NxZngtZGM4d29rOUFQamtOd3M5Rm5saWNId1ZWUXg4Zm8?oc=5
 
 - くずれ・変色・にごり…爪周りの悩みの原因は、菌や加齢！？「タイガーショット 薬⽤クリアゲル」で、密着殺菌の新習慣。 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE40SlcwaW5zU1EtaVZwWUpoOElSYnhaRGUyVlVGY0ROTUx1ckVwTnowZ3VsQVV1b0N4RDNfb1BYbUFqZ3lCaVVzMFRQZndfVGxnenU0VnV3Z1ROMVNKenN0YVVNdm40eGRPTEE?oc=5
 
+- 泉キャンパス で『放課後のプレミアムオープンキャンパス（個別相談会）』を開催（10/27～） - 東北高等学校
+  https://news.google.com/rss/articles/CBMizgJBVV95cUxQQVAxRU0xVjFUYUQzU2JxUE1sYnBzSUx2MUZuVEo3di1lSWhVSUVqXzNQeU5EZWxNTVh2dDZLYjNod1h5WDM2UE1mbndyVGkxZXNtRFFaUlpLdGFhRktuZkE3Qm0zVHgyMS1iZW9iQlhBY3ZzbFVpVERCem9NZ2kxS2xUMXo4SmRkc0o1N2J4dXdmVFR2d2x2MzVheGxCd21hLWxjQ2ZVYnRmbXJCM2tvbkktNzJHUnpkZFQ3WE0zTjVyM20wOHIzS25Tc090eW5XLUF6Z04wZFlzYnJGNmdGQnJ0MF9sVmFOczAzSzRYbnFoN2JCN2ptWTd2UWcwOG5wTExxcXI5UmtaMEc2aGVlcnNybmx1cGhlSVViN040VEtCUDRSVFNWakxEd2tOLW91Y0p4V0lfTmZTSXVQcDFidlpyTU1mdmxwOFRiY3ZR?oc=5
+
+- 兵庫県民総合相談センター - pref.hyogo.lg.jp
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oSVdVU1hWNmdCSzlfRFg5cWxvQ19YaDdmZE1CYkdUblNWa2ZSdHVxaElNSEE0WFVtcEI3TjgybnBDZU1LY3lkeTl0SFFiWjloLTZfQUxuWTQ1ZWpFZHJlbzlrNA?oc=5
+
 - 【枚方市】児童相談所についての勉強会｜豊中市の視察に向けて - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYXBPRV85ZjE2Rngyd0hOenV4dXhONkplVHRoV29OTHVHR3BIRDBGMTBSVS1ldkpCcWhJZ3BFME1zUlZ3anlDLVZXWFJNYzg1SU1oZHhueUgtTFVBTmc?oc=5
 
-- サイバーセキュリティ相談窓口の相談状況［2025年第3四半期（7月～9月）］ - ipa.go.jp
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE1lSnlQUDY3S3RsdzdMbFVGaTdKNXlodThybGhfY2VNYXV3ZmNKenkzdE9weUJ3aGV5cnZNY3MzQTd0OVFoUGpPb3dIc0lOVXVNZDJsNi1icFNZdUVvaV9qZ0RNbHRETjV2SC1hOTdtbldFRkE?oc=5
+- 情報セキュリティ安心相談窓口の相談状況［2025年第3四半期（7月～9月）］ - ipa.go.jp
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5EM3E5Vzk2bzQ5R3pOVTBpWTJYRGNzZzJSb0tUSG9rVmdmcGVjMGdBcVlqNlpraXlBS0ZSRHJuNlFkRTFRWGlZakFlOV90V2FUbkcxMnRYZTEyQmtMQVlVcWdoWXE0TGVfaHowRlVvdXE5QQ?oc=5
 
 - 愛知・岡崎のビジネス相談所「オカビズ」、12周年報告書を発行 13年目は製造業支援と中小企業の後継者(アトツギ)支援を強化 - アットプレス
   https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bmFacEpVQlhZaDlyN1ZKNWg4UWdYNk54bzhxdFkyLVBBQUJzV0JVeTZNYktyS1ZTMFV2R1psLU9RMjlMeUdkUE9NVFJiUQ?oc=5
-
-- 中山忍 姉・美穂さんに芸能活動の悩み相談「よくしてた」 「歌はちょっと難しい」へのアドバイスとは（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE13S3lBUkVjbVhkaTVLbEt5bzlWMWNXVThWNXRsUkJpa2ZXbEx4eVVPRTM2ODRvNkVrQ2M0OVBSY0k0MDdRREp2WFhlWUJDd2Vta1pLNHZ5ZHBnUElCZ0NxZngtZGM4d29rOUFQamtOd3M5Rm5saWNId1ZWUXg4Zm8?oc=5
 
