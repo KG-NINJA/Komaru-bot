@@ -1,4 +1,13 @@
-=== こまる相談 ニュースフィード (2025-10-21 00:54) ===
+=== こまる相談 ニュースフィード (2025-10-21 02:23) ===
+
+- サイバーセキュリティ相談窓口の相談状況［2025年第3四半期（7月～9月）］ - ipa.go.jp
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE1lSnlQUDY3S3RsdzdMbFVGaTdKNXlodThybGhfY2VNYXV3ZmNKenkzdE9weUJ3aGV5cnZNY3MzQTd0OVFoUGpPb3dIc0lOVXVNZDJsNi1icFNZdUVvaV9qZ0RNbHRETjV2SC1hOTdtbldFRkE?oc=5
+
+- 古紙リサイクル・ペーパーレス化に関する訪問相談支援のご案内 - city.kanazawa.lg.jp
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDljVjRKUXRyVjlqd0I4akxOVFBBc3otemdhN00zZFp3RW1GaWplbUtVSGc3NWIxbW5aMlB1RmllLUs1TzFFM3d2bEVlSDdUdVgxZUdVNDdzb2FubGF4bTdtbzZMRFlta3Vtdl8zMHBuODFxMGMtVU5Sc1h5NXZfMExOeVpQZU1Pb2p3MEIzbHZZZlVHLU9LWXA1SzRPY0t3OEpNNVRuN0NUQlpQS3FwMlNwTQ?oc=5
+
+- 心理相談センター実習指導員小林加奈さんが欧州消化器病週間（UEG Week 2025）にて受賞しました - meisei-u.ac.jp
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxcjc3UzQzWl9FUldTLThrdHFBZmtLSTBCQVo0WnJES2tCb0lVdG0ybk1YOGh4ZFIxcTdpd25hZzhUUGM2VFkwSHFvQllueGlZYm11aXJlOXRIQ2s?oc=5
 
 - 第3回 公開セミナー＆入試相談会 開催｜言語コミュニケーション文化研究科 - kwansei.ac.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9USGxEcVBnTjVOUElSTV9ocDlYUzVfd255RGFremVEWXZ6a0lBM01VYkpkb1k1bG1YM0dFOEV3SXQ5VnR6SlNCYnc3NmlrcXJuWFM1bzg3SEk0YzRiRGp5U0JpUQ?oc=5
@@ -6,8 +15,17 @@
 - 消費生活相談 - city.hanno.lg.jp
   https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3VvQkpKRWFlbmFrNWlYSU51M0FZX3JkcnVxU0U4LUhoTkNCMEZUZnpZLUJxWXZSZlZoTnlSQmpfeFJsSE1ra3gyYUNYS25rZ2I2cF9sSXpJcFVxaURFQkdEWFlQS09HaU8xbVo3ZWlFUW8xOGFET0UtaUxrOS02c3YzdEE0SGp2SG00NHVNalg3NHM?oc=5
 
+- NEC、生成AIを用いたキャリア相談ツールと他部署の体験プログラムを社内展開 - IT Leaders
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PY3NEMlpOVHh6Vkd4aS1uOG9XQlRhdk8tM21yNkF6Y2czSUhHY19iMHg2QWl0dF95Z1BmY2ZtRF9DbmY5SmxGU2xRM0NrWVZBWWc0?oc=5
+
 - 警察総合相談室及び警察署相談窓口のご利用を！！ - pref.kyoto.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTFA0RnE4anI4ajdxdkxUcUFYc01iamlOOTZfbVBpbmF2dTNlSDROcWJ4LS1taHI4ODZ5cldlMHplN1lmTlZvWF80WHlLYkZYcy04RWhYcW9WT3Q3MGNLUy1XMUxuVVJ2VmF0QTRF?oc=5
+
+- 2025年7~9月度のマネーキャリアへの相談満足度が、98.02%の高水準を記録！ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE4zYy0yUFFJaVJyOHlydV9QWWRkTWZtSERJbHVLZmprR0hxZ2hiMy1La2d2ZWkyTW95eXROT0dNUWdraXJSUnRWVzR1eWJYN3ZKUl9GMnctbTZRWmdoS042cHdZMjlIYU02QkE?oc=5
+
+- 【オカビズ】行列の絶えない相談所！年間3万個ヒットを生んだ12年の軌跡 - monolab.tokyo
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oLUh5YUVYMGtsMGw0WkhBMC1EWDJVWFhpSk0ycVhybmJRS0VPVFpUVnNwOTNJSjd6VmFFdjhGRXM2ZTVtY01fVUh5RQ?oc=5
 
 - 『プレミアムオープンキャンパス』 （個別相談会） - 東北高等学校
   https://news.google.com/rss/articles/CBMizgJBVV95cUxQQVAxRU0xVjFUYUQzU2JxUE1sYnBzSUx2MUZuVEo3di1lSWhVSUVqXzNQeU5EZWxNTVh2dDZLYjNod1h5WDM2UE1mbndyVGkxZXNtRFFaUlpLdGFhRktuZkE3Qm0zVHgyMS1iZW9iQlhBY3ZzbFVpVERCem9NZ2kxS2xUMXo4SmRkc0o1N2J4dXdmVFR2d2x2MzVheGxCd21hLWxjQ2ZVYnRmbXJCM2tvbkktNzJHUnpkZFQ3WE0zTjVyM20wOHIzS25Tc090eW5XLUF6Z04wZFlzYnJGNmdGQnJ0MF9sVmFOczAzSzRYbnFoN2JCN2ptWTd2UWcwOG5wTExxcXI5UmtaMEc2aGVlcnNybmx1cGhlSVViN040VEtCUDRSVFNWakxEd2tOLW91Y0p4V0lfTmZTSXVQcDFidlpyTU1mdmxwOFRiY3ZR?oc=5
@@ -18,45 +36,27 @@
 - 東京都子供政策連携室、相談チャット 子供・子育てメンター”ギュッとチャット”本稼働開始 - ICT教育ニュース
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jSW53NS1teFQyeEV5RVNwa20tODhwS0lTQzJrbm1uSHgwNGkwbElHSWV1cDFNVlZBcVlLZDQ4cl9TbDFQTDBXbHJobG44d0xkUXc?oc=5
 
+- 東京都、子育て相談窓口「ギュッとチャット」本格稼働 回線拡充とAI機能で支援強化 - Plus Web3
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ydExOUHcyVVJxM3diZzR4dmhNYVJLZDhtamtFVGxxSzA3Yy1rWDVRRXF1ZmxDakFYdkVUbjAzTVVNRDk5aXB4eF9sWHVsXy0yTnNlWGFEOWRvazhEVkE?oc=5
+
+- 髪のお悩み、9割が抱えるも半数超が「誰にも相談していない」！ 「ほぼ1000人にききました」が調査結果を発表。 - ニューズウィーク日本版 オフィシャルサイト
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE05LVA2YWNXNV9DbEVnWHRwY256bW40OFQ3bm5mblRWUWJFLXp1eE9SZDU3dUhsUzR4aEQzeVVDcGlpSUtZNzVuNmczUGw1bkdkTVdOTnVlYkRUOGRmTDJ0WWY0N2xfbDg5N1VEZ1lR?oc=5
+
 - NEC、AIがキャリアの相談相手に--社員の成長を支援する「AIキャリアトーク」を社内で本格導入 - ZDNET Japan
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ta3VzMkhOVktHLTVoMFlRaDh0eUx0NDlDYzg2YTFFRGMweWZsOVFQTkdZOGJnRG10NFkxem04ZnhYUkZRc3hYaFF2aWxSS1BHajlv?oc=5
 
-- 網走で困った時には平賀たかゆき航空自衛隊網走分屯基地70周年一般開放へ。 - 選挙ドットコム
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE01REJ4NEV6VGRtWG42YVVHS3lLWWhNbUxpTnNwYm5uY1RwM0RKNzdNbC0xTXpNNmRwdS1hMGM5TUw1OGFsZVhUR0swa0ZQRkRXZDR1dnNDdVRmVnNR?oc=5
+- 青少年センターが移転 石垣市 - 八重山毎日新聞社
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE05SHo0NVlObmFHa0NOMEhFd1lfVGhGS3BvWXJtY29UY1BkSE1YOEJFVjNjaGpLeFFZNV9FSTlxQmxKOFMtZG9MMEhCNWNJeUhC?oc=5
 
-- 子どもの発育・子育て相談 - city.sanjo.niigata.jp
-  https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVm5vbFFkLXl2LUFoeTFTdExnYW95QnBJeUFVR0dSbE04c0ZSanZVb0JhY0NlYWRXT2Y0aGFsYkhrZU5lU1JrQTQxd0FHZTVtdllUelN0RnVZYXloRGRtQjFVU2JBU1dJNkFkYjg2Q2YwUVR6eUtkcFNyMFZ6SGdUY08za3FIaEVVOHpPdWxsMk9CMVlHOUJmYWFJUG16NFRNRmJhdUNrX0kydw?oc=5
+- 情報セキュリティ安心相談窓口の相談状況［2025年第3四半期（7月～9月）］ - ipa.go.jp
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5EM3E5Vzk2bzQ5R3pOVTBpWTJYRGNzZzJSb0tUSG9rVmdmcGVjMGdBcVlqNlpraXlBS0ZSRHJuNlFkRTFRWGlZakFlOV90V2FUbkcxMnRYZTEyQmtMQVlVcWdoWXE0TGVfaHowRlVvdXE5QQ?oc=5
 
-- ファッションクルーズで母乳育児相談会を開催します！ - city.hitachinaka.lg.jp
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3B2Z1N0X211QmJxck5KQjk5MXNOS19IWC1nbVhUazdoMmstVVlyQnV5MXltSXd0V2MzbTl4Y2V0MDFNU3VfWEV1dFgtVXhBTnZ2ZzByNGM3X19pcjhUOFVtOEJEZWJKaG0yS2x4OEdVcHV4WlpZMm80Wjl4OEI1QmpB?oc=5
-
-- 兵庫県民総合相談センター - pref.hyogo.lg.jp
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oSVdVU1hWNmdCSzlfRFg5cWxvQ19YaDdmZE1CYkdUblNWa2ZSdHVxaElNSEE0WFVtcEI3TjgybnBDZU1LY3lkeTl0SFFiWjloLTZfQUxuWTQ1ZWpFZHJlbzlrNA?oc=5
-
-- 令和7年度進学相談会の開催について - 日本大学経済学部
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YSjZvV3NxVVBwYWRmcjJMS2hqUVc1MTZnNHdqb3pyM0tRcS1zMExmWDVjNVE5N1ZQRXdmODFFbHVJUG0yRkhZb2NuS1VIUHNoTWx3?oc=5
-
-- （時をよむ 論説委員室から）法律相談から浮かぶ農業の未来 山本亮介 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IbDZydHFSdGQ0bE5DVncwV0paU0xoaFZnTUdRMnY5RE5UdXVKQzcwRFN3TzhmWVlQbjlBMzQ1TThMNzFJVG5CbHpVb3BQMUUtY010cEJCUkpkTGlC?oc=5
-
-- 子供や子育て家庭の不安や悩みに寄り添う相談チャット 子供・子育てメンター“ギュッとチャット”本稼働開始 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1sSFJDRF9jRFpUaDZpemNDWDhFajAtUFVmMHVrbWhvT3ctQTVuZ1RjenVkMTZCRGN6TkJyMGZMZEpPeEtYeUUtaW54RkxGVE1IR2s3TVZCb29VYVgwSGQ5bllGV2xhLWZ0SVE?oc=5
-
-- 英語学習のお悩み解決！ 東進の大岩先生が皆さんの英語の悩みに答えます - NHK出版デジタルマガジン
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wa0VkUjJGUkY2VmE2ZUJUNUdLSXlFWjhuNDdzSUp6cU1tLVQ3cW96Um5IeTVKdkZsXzVBRnlzektIbVVfR3plc2pRN3BFSWpGbVE?oc=5
+- ビジネスカジュアルスタイルのお悩みを「着回しクロススーツ」でAOKIが解消！スーツはもちろん、セパレートでも単品でも使える商品が新登場！ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE0wbnpwZmVpN1BWMTFmeWEtMnQwVnVnVl9Sa0pXeVA5VGVYSFVZdnVJdkVtbHhrU3dLd1owTGhyaElCZFl2bGRsWFNHTjRXTzFwaXE5SUtySG9PTU1PTHptWVB4Rl9IdnZYLVE?oc=5
 
 - ベネッセ、「不登校ライフナビ」がセミナー&相談会を11月8日に開催 - ICT教育ニュース
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuSlVuQ0hnQjZlN0lmUFRmcVVTVkViTHlaMGVET0VoUG83clhxNGgzVV91X1pVeTdZQlREZzZHOUw2VnN0NkFJMVZMLUFrWmIySEFyYUpn?oc=5
 
-- 「税を考える週間」に向けて税理士による無料相談会開催 相続税や確定申告など 富山県内4地区で税の悩みに個別対応 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9kV2o1SzBxbFNtUVREWG93REsxSVFuNXFYSVZhSVY0QWN3dHFGNWRHVjZBY3Z4YV9hTHhlZy1Yak12TmVnYm5oVDFiY0dXWWdHMVNaazJnZTBPNUlBSVBTNDJHZ0tTSHNxcW9BU2FqNjh6MGxaR2ZnX01fc0Q4aEE?oc=5
-
-- #佐久市【心といのちの総合相談会～一人で悩まず、相談してみませんか❓️～】開催のお知らせ📣【相... - 選挙ドットコム
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qNnVDTWVlNTZRQ1MyMHB3VnZiX2wtMXY0cTBDZEhTUGZLaDRpZkpXWm1UY2M3Vlljb0FDeWY3aEsyRTkxLUp1Z2RKOV9rQmcyeDYyVlFWY3hZNnVOeWc?oc=5
-
-- メンタル不調になる前に働く人をサポートする社外相談窓口「Smart相談室」は、サービス提供4周年を迎えました - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1iOF9kNHhjNmtwQWFwZXk1RWd6VGlhSVlBTlFXWHMzZTBjYkRPLUxrdkR6T2EtN1ZXVDQtakV5dTR0U3VMMTdKRzFRcXRwbGw2TGxGek40WVJJR3R2YzF2V3NrZnNNOU1kVXc?oc=5
-
-- 懲戒処分…女子生徒の悩みを聞いた男性教諭 LINEで連絡し、店で相談に乗る 修学旅行のお土産があり商業施設で会った2人、保護者と遭遇し関係発覚「悩み相談はいいと思った。保護者に疑念を持たせ申し訳ない」（埼玉新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE14Q1dWdGNtaW5QajRjMXBUMGZoMEl3cmg2NXpNY2RXcmZiaTZmWHZwMllxZC1famRUcGVGQ1NuSnJHNFJVcEczeUpmeVFoa1hMazRjQkREa04zQWZDNHE3QlRnYVNXX0xYN25QWVE1WjBZdHlsOWF3VVpOc0FwT2s?oc=5
+- 森の生きものになった気持ちで読む、解決しようとしないお悩み相談！『とりあえず話そう、お悩み相談の森 解決しようとしないで対話をひらく』発売 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1jWDV3eUExUEcwZVpPOGV4aXFUazFvN3dnaWlJc1lqVmIwU1R6MU5rbmRtQklFb0hvYmRoeXNQZWpuTmxOSGhYOXJPU3A0eVRJcFpaeG00R0xHZk9Yd2FIYWRoLVE3Y2ViV3c?oc=5
 
