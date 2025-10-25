@@ -1,64 +1,91 @@
-name: 🧠 Komaru Auto App Generator
+name: 🤖 Komaru AutoApp Generator
 
 on:
   schedule:
-    - cron: "0 * * * *"   # 毎時実行
-  workflow_dispatch:
+    - cron: "0 * * * *"     # 毎時実行（必要に応じて調整）
+  workflow_dispatch:         # 手動実行も可能
 
 permissions:
-  contents: write
+  contents: write            # コミット権限を付与
 
 jobs:
-  collect_and_generate:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      # --- リポジトリ取得 ---
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      # --- 依存パッケージ ---
-      - name: Install dependencies
+      - name: Set up Python (for feed parser, optional)
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install feed dependencies
         run: pip install feedparser pandas
 
-      # --- 困りごとフィード生成 ---
-      - name: Run Komaru Feed Generator
+      - name: Run Komaru Feed Collector
         run: python scripts/komaru_feed.py
 
-      # --- 更新コミット ---
-      - name: Commit latest feed
+      # --- Codex 実行前の準備 ---
+      - name: Prepare Codex home
+        run: |
+          mkdir -p /home/runner/work/_temp/codex_home
+          chmod -R 777 /home/runner/work/_temp/codex_home
+
+      - name: Prepare output folder
+        run: |
+          mkdir -p apps/latest_app
+          touch apps/latest_app/README.md
+
+      # --- Codex Cloud 自動呼び出し ---
+      - name: Generate AutoApp via Codex Cloud
+        id: run_codex
+        uses: openai/codex-action@v1
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}   # Codex Web の Responses API Key
+          codex-home: /home/runner/work/_temp/codex_home
+          safety-strategy: unsafe                         # Codex を信頼実行（リポジトリ操作可）
+          sandbox: workspace-write
+          model: gpt-4o-mini                              # 明示指定可能（任意）
+          prompt: |
+            Read the file specs/komaru_feed.txt.
+            Identify the most recent “困りごと”.
+            Generate a minimal standalone HTML/JS app that solves it.
+            Save outputs into:
+              - apps/latest_app/index.html
+              - apps/latest_app/README.md
+            The app should have:
+              - blue-toned design
+              - standalone client-side logic
+              - readable Japanese text
+              - signature "#KGNINJA AutoApp" at the bottom.
+
+          output-file: apps/latest_app/README.md
+
+      # --- Codex の出力を確認 ---
+      - name: Show generated README preview
+        if: always()
+        run: |
+          echo "===== Codex Output Preview ====="
+          head -n 30 apps/latest_app/README.md || echo "(no README.md found)"
+          echo "================================"
+
+      # --- 自動コミット・Push ---
+      - name: Commit & Push results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add specs/komaru_feed.txt
-          git diff --staged --quiet || git commit -m "🧠 Update komaru_feed.txt [auto]"
+          git add apps/latest_app/*
+          git diff --staged --quiet || git commit -m "🤖 Auto-generated Komaru App [#KGNINJA]"
           git push
 
-      # --- Codex実行準備 ---
-      - name: Prepare Codex home
-        run: mkdir -p .codex_home && chmod 700 .codex_home
-
-      # --- Codex Cloudによる自動アプリ生成 ---
-      - name: Generate app with Codex Cloud
-        uses: openai/codex-action@v1
+      # --- GitHub Pages 用に artifacts 準備（任意） ---
+      - name: Upload generated app as artifact
+        if: success()
+        uses: actions/upload-artifact@v4
         with:
-          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
-          codex-home: .codex_home        # Codex一時ディレクトリを明示指定
-          prompt: |
-            Read the file specs/komaru_feed.txt.
-            Identify the most recent “困りごと” entry.
-            Design and output a minimal working HTML/JS app that could help solve it.
-            Include a short README.md describing purpose and usage.
-            Keep it simple, creative, and ready to publish on GitHub Pages.
-            Append the signature "#KGNINJA AutoApp".
-          output-file: apps/latest_app/README.md
-          sandbox: workspace-write
-
-      # --- 生成アプリをコミット ---
-      - name: Commit generated app
-        run: |
-          git config user.name "Codex Bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add apps/latest_app
-          git diff --staged --quiet || git commit -m "🤖 Generated AutoApp from Komaru Feed [Codex]"
-          git push
+          name: latest_autoapp
+          path: apps/latest_app/
