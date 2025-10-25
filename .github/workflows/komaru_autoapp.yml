@@ -1,0 +1,53 @@
+name: 🧠 Komaru Auto App Generator
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # 毎時実行
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect_and_generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: pip install feedparser pandas
+
+      - name: Run Komaru Feed Generator
+        run: python scripts/komaru_feed.py
+
+      - name: Commit latest feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add specs/komaru_feed.txt
+          git diff --staged --quiet || git commit -m "🧠 Update komaru_feed.txt [auto]"
+          git push
+
+      - name: Generate app with Codex Cloud
+        uses: openai/codex-action@v1
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          prompt: |
+            Read the file specs/komaru_feed.txt.
+            Identify the newest “困りごと” entry.
+            Design and output a minimal working HTML/JS app that could help solve it.
+            Include a short README.md explaining what it does.
+            Use simple, clean code. Tag the end with "#KGNINJA AutoApp".
+
+          output-file: apps/latest_app/README.md
+          sandbox: workspace-write
+
+      - name: Commit generated app
+        run: |
+          git config user.name "Codex Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add apps/latest_app
+          git diff --staged --quiet || git commit -m "🤖 Generated AutoApp from Komaru Feed [Codex]"
+          git push
