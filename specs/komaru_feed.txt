@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-10-25 10:10) ===
+=== こまる相談 ニュースフィード (2025-10-25 11:08) ===
 
 - 【男性の自殺対策】相談しやすい環境整備を - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzTExiVXNqak5sS1d1Mld6aWJybkhGRzlJWkNIbTEtNlZRNjRyOEFxSjBvWlJsdkdvMjhtdHBFU2xMVU1sRnI2aUJHenVRUV9hRHlUamtWYWJCU2M?oc=5
@@ -12,6 +12,9 @@
 - 子育て支援センターで保育施設入園相談会を開催します - city.kitsuki.lg.jp
   https://news.google.com/rss/articles/CBMiowFBVV95cUxNUzZEeFMzZ2R5enNoNUQtXzhYN0YwNGtzZXNuTzhiXzJIb1ZkeUpIcVVQLW9fb1laM1FXS1FvZ1V1blpEVFo1amg0eDQzX3I2ZkctdHQzbUp5dWtseTJHNnhIc21PREVXMWpheEdIWGJxb1pWOFg5TEw1U3E1LTZHejcwUkJrT3RQWm5JMkVNNEJ6QXIyTzRqbmZSSW95ZlRHNXhv?oc=5
 
+- 特殊詐欺拠点で1.6億円発見 「加担したかも」受け子相談で発覚 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sc3BvU1BNbmlyS09aamVMYldzcWRzNmdQdEFrVFFOYXctR2dSOW1uVkl1Z1Z4emRRaFY3cEdQa1N5SEY3NmZIXy1oNVZsT1JSeDRhZWswdVZEZjRqSC1kVm14eDEtT3Fp?oc=5
+
 - 年の差婚活時の話題チェックツール「婚活年表」を公開 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1PVk4wTnl6SktxZ21lbklmdlByMW9UZzBWdEtLc2txZ05iaWZsLUdhWnhEZTVxRW5iYXFKMHFFZlI1N2hCa3ZuTVBzQWczVHNWWHVvTUM2OThkbjNRRUdyZjFwZHBBZmY4RXc?oc=5
 
@@ -24,8 +27,8 @@
 - 消費生活相談室休業のお知らせ - city.seki.lg.jp
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiNUxwZ2xXM2thUk9ldW1YLXhwOGlQUkhhS09PeTQ4VTc5VU9kWDh0RDJMTjRfQ2U3NzN3ZmZHdEp0b3BxN2J2bWItOVMzOU42dnpacmdR?oc=5
 
-- 人生相談：自分を演じて疲れてきた＝回答者・高橋源一郎 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RelU0dENfaXZQVmtXZnI2Sy1UNU1pdmZHNkQ5OHlSdmxIOHB2QThmRVJhRWhCVktBNEU2akZNdEI2ZlVHd0lRMzBydE53M05zNW9WVDdqdUxMMVI0b0U3Z2ZBRnFpcjRn?oc=5
+- 属人化しやすい、人材不足…悩み＆打開策【配信版/円卓コンフィデンシャル】 - テレ東BIZ
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nWGhxemN3Y05OWlNxYkxaY3AxUW5QeE5VcGpSTGswV1BteGh0WHp4RDFfaGkxeTVwWDg3b0s0b1k3azJmSWdvbnl6bXc0STdsd1lTZ3lpcFBWU2k3R2ludnZjN1QtZw?oc=5
 
 - 兵庫県民総合相談センター - pref.hyogo.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oSVdVU1hWNmdCSzlfRFg5cWxvQ19YaDdmZE1CYkdUblNWa2ZSdHVxaElNSEE0WFVtcEI3TjgybnBDZU1LY3lkeTl0SFFiWjloLTZfQUxuWTQ1ZWpFZHJlbzlrNA?oc=5
@@ -39,8 +42,8 @@
 - 「お姉さん！」介護で姉妹対立 妹と同世代の野沢直子さんは訴える - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3OWNRYmdUeWpwMndJUmExcGI1dTIwdy1GRnppWE1pU05oNm03bUhKakhJd1RCS0dQYzVKTkFtUTdPSFhkZ1VPRmN5VU5qR3ZWTXFNdFlIbmc0QWxpejV4cTcwYmdiQW8?oc=5
 
-- 相談よりもゆるく話し、聞く 草の根から起こる対話の場 『相談するってむずかしい』（集英社） - 日経BizGate
-  https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZeE45a1RzTG9mMGFMSm5HRFBkb01US2t3TWFsalFKcTJsZ1Z2VHduVVgxdlBENy1xQkFjdGNFdTY0MmZPcDRtb2t3NUQ0N3NMSllSYVhDalJ4RTdmMVBESTdZUFYxQk9RX1RtZm5fRGg?oc=5
+- 消費相談窓口利用について - town.nagaizumi.lg.jp
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE00em4yTTI3MzBMMVE1WlpLOGRKVmdKZ3hYWHdBUHl4YzJSd1lpeWI5N0N3Vks2QXY3SkNXR3dzUmdiS3YyRzVoQnJyYl9RQXU4V1J5ek1SSHllZlFCTm11UjR4NDJfM1FWZktGdlRZWS0wMHhRUXphTG5B?oc=5
 
 - 情報セキュリティ安心相談窓口の相談状況［2025年第3四半期（7月～9月）］ - ipa.go.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTE5EM3E5Vzk2bzQ5R3pOVTBpWTJYRGNzZzJSb0tUSG9rVmdmcGVjMGdBcVlqNlpraXlBS0ZSRHJuNlFkRTFRWGlZakFlOV90V2FUbkcxMnRYZTEyQmtMQVlVcWdoWXE0TGVfaHowRlVvdXE5QQ?oc=5
@@ -48,15 +51,12 @@
 - 「繊細さん」増加中 岡山で交流イベント、悩み共有（山陽新聞デジタル） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0wQnI5QnkwVFE2TERGUEh4ajQ3Z3dac0E1Q1dfQmU5V1NwM1o1QXlPZVVYS01BNXF2bVQ2QUdHdWw3VlJyR1NYSE5ZNGRIXzIwT3hiOTI1SUhDM1ZQLU1sY0YydU1tVEdpRDhWNE5HY0RWb0h3aFo2WEdCVHNYSDQ?oc=5
 
-- プレスリリース：［TAC警察官・消防官］「オンライン担任無料相談」を11月に開催！（PR TIMES） - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWTZBTWdCQlJoLU1QMzRLTFVER1QxazUza3JOWDJyakkyYXZqV2RjRWNxNmotLTFQRV9Td3l6V2d1YjYwbk5GcUMzV2lkZGFJcnNSTWM4TjlaS19URHFOQWVwYnRiczdS?oc=5
-
-- 特殊詐欺拠点で1.6億円発見 「加担したかも」受け子相談で発覚（毎日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1mU3FmRzd2dVM3ejdfSjBhcC0zRFJXM2k5V1BSZ2hJQkNFOE9Pb1Z5MlkzRzlLTmo1dzFzU2s1MlcxYktHSmVVbUZLMWlwajZxS0l6RW55TzVPbnZhS2x2bDEwNW9CQ1dVMXZyMFoxMHVIWjhfNGJqbjNNWFVBMkE?oc=5
+- 人生相談：自分を演じて疲れてきた＝回答者・高橋源一郎 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RelU0dENfaXZQVmtXZnI2Sy1UNU1pdmZHNkQ5OHlSdmxIOHB2QThmRVJhRWhCVktBNEU2akZNdEI2ZlVHd0lRMzBydE53M05zNW9WVDdqdUxMMVI0b0U3Z2ZBRnFpcjRn?oc=5
 
 - ブルーノ・フェルナンデス、中東移籍についてC・ロナウドに相談。マン・U残留決断の理由とは…（GOAL） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE84TUdqYjF3U3VycFBEVUpZa1h4cmdLSV96QTlOQUtGSVRlOU1pYmlPVGlCd1gxYVhFSzI1aVg0elh1ZFdWOHp6b2hRMU1HZ01LRTlJVDhJdzNqT2xhaXdRT1JnUF9zRzByRjV3TEtpeDNhaFgxQi1mNGxxMU5TMUk?oc=5
 
-- 「106万円の壁」などに対応 社会保険や働き方の無料相談 兵庫県内10会場で 11月3日に（ラジトピ ラジオ関西トピックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZMzFLYjFOeVV0RDJ3cGpKbGptZVNYSzR1TkRPOTc0N1RuWnlHemhVcEMxcGhoRTV1Q3FkUGJiODBNVm9WRFc4bWt3VG1XaWh1TDJuYjNmREZhU09fVW9XUHFJNkRWSkt3SDJhaEdfRHZrMmVPV1dSNnRLZTFfLVE?oc=5
+- プレスリリース：［TAC警察官・消防官］「オンライン担任無料相談」を11月に開催！（PR TIMES） - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWTZBTWdCQlJoLU1QMzRLTFVER1QxazUza3JOWDJyakkyYXZqV2RjRWNxNmotLTFQRV9Td3l6V2d1YjYwbk5GcUMzV2lkZGFJcnNSTWM4TjlaS19URHFOQWVwYnRiczdS?oc=5
 
