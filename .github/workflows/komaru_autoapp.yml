@@ -1,55 +1,55 @@
-name: 🤖 Komaru AutoApp Generator
+name: 🤖 Komaru AutoApp Generator (Weekly with #KGNINJA)
 
 on:
   schedule:
-    - cron: "0 * * * *"     # 毎時実行（必要に応じて調整）
-  workflow_dispatch:         # 手動実行も可能
+    - cron: "0 0 * * 1"       # UTCで毎週月曜0時＝JSTで午前9時
+  workflow_dispatch:           # 手動実行も可能
 
 permissions:
-  contents: write            # コミット権限を付与
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: 🧩 Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Set up Python (for feed parser, optional)
+      - name: 🐍 Set up Python (for feed parser)
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install feed dependencies
+      - name: 📦 Install dependencies
         run: pip install feedparser pandas
 
-      - name: Run Komaru Feed Collector
+      - name: 🧠 Run Komaru Feed Collector
         run: python scripts/komaru_feed.py
 
       # --- Codex 実行前の準備 ---
-      - name: Prepare Codex home
+      - name: 🗂 Prepare Codex home
         run: |
           mkdir -p /home/runner/work/_temp/codex_home
           chmod -R 777 /home/runner/work/_temp/codex_home
 
-      - name: Prepare output folder
+      - name: 📁 Prepare output folder
         run: |
           mkdir -p apps/latest_app
           touch apps/latest_app/README.md
 
-      # --- Codex Cloud 自動呼び出し ---
-      - name: Generate AutoApp via Codex Cloud
+      # --- Codex Cloud 呼び出し ---
+      - name: 🚀 Generate AutoApp via Codex Cloud
         id: run_codex
         uses: openai/codex-action@v1
         with:
-          openai-api-key: ${{ secrets.OPENAI_API_KEY }}   # Codex Web の Responses API Key
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           codex-home: /home/runner/work/_temp/codex_home
-          safety-strategy: unsafe                         # Codex を信頼実行（リポジトリ操作可）
+          safety-strategy: unsafe
           sandbox: workspace-write
-          model: gpt-4o-mini                              # 明示指定可能（任意）
+          model: gpt-4o-mini
           prompt: |
             Read the file specs/komaru_feed.txt.
             Identify the most recent “困りごと”.
@@ -57,16 +57,19 @@ jobs:
             Save outputs into:
               - apps/latest_app/index.html
               - apps/latest_app/README.md
-            The app should have:
-              - blue-toned design
-              - standalone client-side logic
-              - readable Japanese text
-              - signature "#KGNINJA AutoApp" at the bottom.
+            The app should include:
+              - blue or calm color design
+              - all logic client-side, no external JS
+              - natural Japanese text
+              - a footer or small tag that says “#KGNINJA AutoApp”
+                at the bottom of the HTML body for signature.
+            Always ensure the tag “#KGNINJA” appears visibly
+            somewhere in the generated HTML.
 
           output-file: apps/latest_app/README.md
 
-      # --- Codex の出力を確認 ---
-      - name: Show generated README preview
+      # --- Codexの出力を確認 ---
+      - name: 🔍 Preview generated README
         if: always()
         run: |
           echo "===== Codex Output Preview ====="
@@ -74,7 +77,7 @@ jobs:
           echo "================================"
 
       # --- 自動コミット・Push ---
-      - name: Commit & Push results
+      - name: 💾 Commit & Push results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -82,8 +85,8 @@ jobs:
           git diff --staged --quiet || git commit -m "🤖 Auto-generated Komaru App [#KGNINJA]"
           git push
 
-      # --- GitHub Pages 用に artifacts 準備（任意） ---
-      - name: Upload generated app as artifact
+      # --- Pages / Artifact 保存（任意） ---
+      - name: 📤 Upload generated app as artifact
         if: success()
         uses: actions/upload-artifact@v4
         with:
