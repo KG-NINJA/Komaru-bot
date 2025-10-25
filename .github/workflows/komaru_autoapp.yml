@@ -7,6 +7,12 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: komaru-generation
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -29,16 +35,16 @@ jobs:
       - name: 🧠 Run Komaru Feed Collector
         run: python scripts/komaru_feed.py
 
-      # --- Codex 実行前の準備 ---
       - name: 🗂 Prepare Codex home
         run: |
           mkdir -p /home/runner/work/_temp/codex_home
           chmod -R 777 /home/runner/work/_temp/codex_home
+
       - name: 📁 Prepare output folder
         run: |
           mkdir -p apps/latest_app
           touch apps/latest_app/README.md
-      # --- Codex Cloud 呼び出し ---
+
       - name: 🚀 Generate AutoApp via Codex Cloud
         id: run_codex
         uses: openai/codex-action@v1
@@ -65,14 +71,13 @@ jobs:
             somewhere in the generated HTML.
           output-file: apps/latest_app/README.md
 
-      # --- Codexの出力を確認 ---
       - name: 🔍 Preview generated README
         if: always()
         run: |
           echo "===== Codex Output Preview ====="
           head -n 30 apps/latest_app/README.md || echo "(no README.md found)"
           echo "================================"
-      # --- 自動コミット・Push ---
+
       - name: 💾 Commit & Push results
         run: |
           git config user.name "github-actions[bot]"
@@ -80,10 +85,21 @@ jobs:
           git add apps/latest_app/*
           git diff --staged --quiet || git commit -m "🤖 Auto-generated Komaru App [#KGNINJA]"
           git push
-      # --- Pages / Artifact 保存（任意） ---
+
       - name: 📤 Upload generated app as artifact
         if: success()
         uses: actions/upload-artifact@v4
         with:
           name: latest_autoapp
           path: apps/latest_app/
+
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    if: success()
+    steps:
+      - name: 🚀 Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: apps/latest_app
