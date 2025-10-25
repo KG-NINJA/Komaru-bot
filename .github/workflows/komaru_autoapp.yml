@@ -2,130 +2,88 @@ name: 🤖 Komaru AutoApp Generator (Weekly with #KGNINJA)
 
 on:
   schedule:
-    - cron: "0 0 * * 1"   # UTCで毎週月曜0時＝JST午前9時
-  workflow_dispatch:
+    - cron: "0 0 * * 1"       # UTCで毎週月曜0時＝JSTで午前9時
+  workflow_dispatch:           # 手動実行も可能
 
 permissions:
   contents: write
-  pull-requests: write
-
-concurrency:
-  group: komaru-generation
-  cancel-in-progress: false
-
-env:
-  PYTHON_VERSION: "3.11"
-  OUTPUT_DIR: "apps/latest_app"
-  CODEX_HOME: "/home/runner/work/_temp/codex_home"
 
 jobs:
-  validate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - run: |
-          echo "Checking required configuration files..."
-          test -f scripts/komaru_feed.py || { echo "❌ scripts/komaru_feed.py not found"; exit 1; }
-          test -f requirements.txt || { echo "❌ requirements.txt not found"; exit 1; }
-          test -f specs/komaru_feed.txt || echo "⚠️ specs/komaru_feed.txt will be created"
-          echo "✅ Validation passed"
-      - run: |
-          [ -z "${{ secrets.OPENAI_API_KEY }}" ] && { echo "❌ OPENAI_API_KEY not set"; exit 1; } || echo "✅ OPENAI_API_KEY configured"
-
   generate:
-    needs: validate
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: 🧩 Checkout repository
+        uses: actions/checkout@v4
         with:
-          python-version: ${{ env.PYTHON_VERSION }}
-          cache: 'pip'
+          fetch-depth: 0
 
-      - run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-      - run: |
-          mkdir -p ${{ env.CODEX_HOME }} ${{ env.OUTPUT_DIR }}
-          chmod -R 777 ${{ env.CODEX_HOME }}
-          echo "✅ Directories prepared"
+      - name: 🐍 Set up Python (for feed parser)
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-      - id: feed_collection
+      - name: 📦 Install dependencies
+        run: pip install feedparser pandas
+
+      - name: 🧠 Run Komaru Feed Collector
+        run: python scripts/komaru_feed.py
+
+      # --- Codex 実行前の準備 ---
+      - name: 🗂 Prepare Codex home
         run: |
-          python scripts/komaru_feed.py
-          if [ -f specs/komaru_feed.txt ]; then
-            echo "feed_status=success" >> $GITHUB_OUTPUT
-            wc -l specs/komaru_feed.txt
-          else
-            echo "feed_status=no_data" >> $GITHUB_OUTPUT
-          fi
-
-      - id: run_codex
-        if: steps.feed_collection.outputs.feed_status == 'success'
+          mkdir -p /home/runner/work/_temp/codex_home
+          chmod -R 777 /home/runner/work/_temp/codex_home
+      - name: 📁 Prepare output folder
+        run: |
+          mkdir -p apps/latest_app
+          touch apps/latest_app/README.md
+      # --- Codex Cloud 呼び出し ---
+      - name: 🚀 Generate AutoApp via Codex Cloud
+        id: run_codex
         uses: openai/codex-action@v1
         with:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
-          codex-home: ${{ env.CODEX_HOME }}
-          model: gpt-5-auto
-          timeout: 300
+          codex-home: /home/runner/work/_temp/codex_home
           safety-strategy: unsafe
           sandbox: workspace-write
+          model: gpt-4o-mini
           prompt: |
-            You are an expert web developer.
-            Read specs/komaru_feed.txt and generate a standalone HTML/JS app solving the latest 困りごと.
-            Save:
+            Read the file specs/komaru_feed.txt.
+            Identify the most recent “困りごと”.
+            Generate a minimal standalone HTML/JS app that solves it.
+            Save outputs into:
               - apps/latest_app/index.html
               - apps/latest_app/README.md
-            Requirements:
-              - Use calm blue or teal design
-              - Mobile responsive
-              - Japanese UI labels
-              - No external dependencies
-              - Include "#KGNINJA AutoApp" footer and timestamp
-            The app must be ready to run in any modern browser.
-          output-file: ${{ env.OUTPUT_DIR }}/README.md
+            The app should include:
+              - blue or calm color design
+              - all logic client-side, no external JS
+              - natural Japanese text
+              - a footer or small tag that says “#KGNINJA AutoApp”
+                at the bottom of the HTML body for signature.
+            Always ensure the tag “#KGNINJA” appears visibly
+            somewhere in the generated HTML.
+          output-file: apps/latest_app/README.md
 
-      - id: validate_output
+      # --- Codexの出力を確認 ---
+      - name: 🔍 Preview generated README
+        if: always()
         run: |
-          if [ -f "${{ env.OUTPUT_DIR }}/index.html" ]; then
-            echo "html_exists=true" >> $GITHUB_OUTPUT
-            if ! grep -q "#KGNINJA" "${{ env.OUTPUT_DIR }}/index.html"; then
-              sed -i 's|</body>|<footer style="text-align:center;padding:10px;font-size:0.8em;color:#999;">Generated by #KGNINJA AutoApp</footer></body>|' "${{ env.OUTPUT_DIR }}/index.html"
-            fi
-          else
-            echo "html_exists=false" >> $GITHUB_OUTPUT
-          fi
-
-          if [ ! -f "${{ env.OUTPUT_DIR }}/README.md" ]; then
-            cat > "${{ env.OUTPUT_DIR }}/README.md" <<'EOF'
-# Komaru AutoApp
-　　　　- if: steps.validate_output.outputs.html_exists == 'true'
+          echo "===== Codex Output Preview ====="
+          head -n 30 apps/latest_app/README.md || echo "(no README.md found)"
+          echo "================================"
+      # --- 自動コミット・Push ---
+      - name: 💾 Commit & Push results
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ${{ env.OUTPUT_DIR }}/*
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "🤖 Auto-generated Komaru App #KGNINJA ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"
-            git push origin HEAD
-          fi
-
-      - if: steps.validate_output.outputs.html_exists == 'true'
+          git add apps/latest_app/*
+          git diff --staged --quiet || git commit -m "🤖 Auto-generated Komaru App [#KGNINJA]"
+          git push
+      # --- Pages / Artifact 保存（任意） ---
+      - name: 📤 Upload generated app as artifact
+        if: success()
         uses: actions/upload-artifact@v4
         with:
           name: latest_autoapp
-          path: ${{ env.OUTPUT_DIR }}/
-          retention-days: 30
-
-  notify:
-    needs: generate
-    runs-on: ubuntu-latest
-    if: always()
-    steps:
-      - run: |
-          if [ "${{ needs.generate.result }}" = "success" ]; then
-            echo "✅ Komaru AutoApp generated successfully!"
-          else
-            echo "⚠️ Generation encountered issues"
-            exit 1
+          path: apps/latest_app/
