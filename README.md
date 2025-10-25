@@ -12,7 +12,8 @@ RSSでネット上の困りごと情報を自動収集し、CSVとして記録�
 2. このリポジトリをGitHubにPush
 3. `.github/workflows/komaru.yml` が自動実行（毎時 or 手動）
 4. `komaru_posts.csv` に投稿内容が保存される
-5.毎週月曜日にcsvをCodex cloudが読み込み投稿内容に関連したウェブアプリが自動生成される
+5. 毎週月曜日にcsvをCodex cloudが読み込み投稿内容に関連したウェブアプリが自動生成される
+
 ### ローカルでの実行方法
 - `python scripts/komaru_feed.py` を実行すると、`komaru_posts.csv` に最新投稿が追記されます。
 - 環境変数で以下を調整できます。
