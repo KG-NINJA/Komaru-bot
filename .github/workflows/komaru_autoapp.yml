@@ -2,13 +2,8 @@ name: 🤖 Komaru AutoApp Generator (Weekly with #KGNINJA)
 
 on:
   schedule:
-    - cron: "0 0 * * 1"       # UTCで毎週月曜0時＝JSTで午前9時
-  workflow_dispatch:           # 手動実行も可能
-    inputs:
-      debug_mode:
-        description: 'Debug モードを有効にする'
-        required: false
-        default: 'false'
+    - cron: "0 0 * * 1"   # UTCで毎週月曜0時＝JST午前9時
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -25,222 +20,123 @@ env:
 
 jobs:
   validate:
-    name: 📋 Validate configuration
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Check required files
-        run: |
+      - uses: actions/checkout@v4
+      - run: |
           echo "Checking required configuration files..."
           test -f scripts/komaru_feed.py || { echo "❌ scripts/komaru_feed.py not found"; exit 1; }
           test -f requirements.txt || { echo "❌ requirements.txt not found"; exit 1; }
-          test -f specs/komaru_feed.txt || { echo "⚠️ specs/komaru_feed.txt will be created"; }
+          test -f specs/komaru_feed.txt || echo "⚠️ specs/komaru_feed.txt will be created"
           echo "✅ Validation passed"
-
-      - name: Verify API keys
-        run: |
+      - run: |
           [ -z "${{ secrets.OPENAI_API_KEY }}" ] && { echo "❌ OPENAI_API_KEY not set"; exit 1; } || echo "✅ OPENAI_API_KEY configured"
 
   generate:
-    name: 🚀 Generate AutoApp
     needs: validate
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - name: 🧩 Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: 'pip'
 
-      - name: 📦 Install dependencies
-        run: |
+      - run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
-      - name: 🗂 Prepare directories
-        run: |
-          mkdir -p ${{ env.CODEX_HOME }}
-          mkdir -p ${{ env.OUTPUT_DIR }}
+      - run: |
+          mkdir -p ${{ env.CODEX_HOME }} ${{ env.OUTPUT_DIR }}
           chmod -R 777 ${{ env.CODEX_HOME }}
           echo "✅ Directories prepared"
 
-      - name: 📥 Run Komaru Feed Collector
-        id: feed_collection
-        continue-on-error: true
+      - id: feed_collection
         run: |
           python scripts/komaru_feed.py
           if [ -f specs/komaru_feed.txt ]; then
             echo "feed_status=success" >> $GITHUB_OUTPUT
-            echo "✅ Feed entries collected:"
-            wc -l specs/komaru_feed.txt || true
+            wc -l specs/komaru_feed.txt
           else
             echo "feed_status=no_data" >> $GITHUB_OUTPUT
-            echo "⚠️ No feed data collected"
           fi
 
-      - name: 🚀 Generate AutoApp via Codex Cloud
-        id: run_codex
+      - id: run_codex
         if: steps.feed_collection.outputs.feed_status == 'success'
         uses: openai/codex-action@v1
-        continue-on-error: true
         with:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           codex-home: ${{ env.CODEX_HOME }}
+          model: gpt-5-auto        # ← GPT-5自動推論モード
+          timeout: 300
           safety-strategy: unsafe
           sandbox: workspace-write
-          model: gpt-4o-mini
-          timeout: 300
           prompt: |
-            You are an expert web developer tasked with creating practical utility apps.
-            
-            Read the file specs/komaru_feed.txt containing recent user problems (困りごと).
-            Identify the most recent and actionable problem.
-            
-            Generate a standalone, self-contained HTML/JS application that solves it.
-            
+            You are an expert web developer.
+            Read specs/komaru_feed.txt and generate a standalone HTML/JS app solving the latest 困りごと.
+            Save:
+              - apps/latest_app/index.html
+              - apps/latest_app/README.md
             Requirements:
-            1. Output files:
-               - apps/latest_app/index.html (complete working app)
-               - apps/latest_app/README.md (brief description, usage notes, limitations)
-            
-            2. Design & UX:
-               - Use calm blue, teal, or neutral color palettes
-               - Responsive design (works on mobile and desktop)
-               - Clear, natural Japanese text
-               - Accessible UI (good contrast, readable fonts)
-            
-            3. Technical:
-               - All logic must be client-side JavaScript
-               - No external library dependencies
-               - No fetch/API calls unless absolutely necessary
-               - Include inline CSS styling
-               - Use semantic HTML5
-            
-            4. Branding:
-               - Include "#KGNINJA AutoApp" footer/tag visibly in the HTML
-               - Add generation timestamp in the footer
-               - Professional appearance suitable for sharing
-            
-            Ensure the generated app is immediately functional and user-friendly.
+              - Use clear, calm blue or teal design
+              - Mobile responsive
+              - Japanese labels
+              - No external dependencies
+              - Include "#KGNINJA AutoApp" footer and timestamp.
+            The app must run immediately in any modern browser.
           output-file: ${{ env.OUTPUT_DIR }}/README.md
 
-      - name: 🔍 Validate generated files
-        id: validate_output
+      - id: validate_output
         run: |
-          echo "Checking generated outputs..."
           if [ -f "${{ env.OUTPUT_DIR }}/index.html" ]; then
-            echo "✅ index.html generated"
             echo "html_exists=true" >> $GITHUB_OUTPUT
-            if grep -q "#KGNINJA" "${{ env.OUTPUT_DIR }}/index.html"; then
-              echo "✅ #KGNINJA signature found"
-            else
-              echo "⚠️ #KGNINJA signature missing - adding..."
+            if ! grep -q "#KGNINJA" "${{ env.OUTPUT_DIR }}/index.html"; then
               sed -i 's|</body>|<footer style="text-align:center;padding:10px;font-size:0.8em;color:#999;">Generated by #KGNINJA AutoApp</footer></body>|' "${{ env.OUTPUT_DIR }}/index.html"
             fi
           else
-            echo "❌ index.html not generated"
             echo "html_exists=false" >> $GITHUB_OUTPUT
           fi
-          
-          if [ -f "${{ env.OUTPUT_DIR }}/README.md" ]; then
-            echo "✅ README.md generated"
-            echo "readme_exists=true" >> $GITHUB_OUTPUT
-          else
-            echo "⚠️ README.md not found - creating default"
-            mkdir -p "${{ env.OUTPUT_DIR }}"
-            cat > "${{ env.OUTPUT_DIR }}/README.md" << 'READMEEOF'
-# Komaru AutoApp
 
+          if [ ! -f "${{ env.OUTPUT_DIR }}/README.md" ]; then
+            cat > "${{ env.OUTPUT_DIR }}/README.md" <<'EOF'
+# Komaru AutoApp
 自動生成されたユーティリティアプリです。
 
 ## 使い方
 1. index.htmlをブラウザで開く
-2. 画面の指示に従って操作してください
-
-## 注意事項
-- このアプリはクライアント側で動作します
-- データはローカルに保存され、サーバーには送信されません
-- ブラウザを閉じるとセッションデータは失われます
+2. 指示に従って操作してください
 
 Generated by #KGNINJA AutoApp
-READMEEOF
-            echo "readme_exists=true" >> $GITHUB_OUTPUT
+EOF
           fi
 
-      - name: 📊 Show generation summary
-        if: always()
-        run: |
-          echo "=== Generation Summary ==="
-          echo "Feed collection status: ${{ steps.feed_collection.outputs.feed_status }}"
-          echo "Codex output: ${{ steps.run_codex.outcome }}"
-          echo "Output validation: ${{ steps.validate_output.outcome }}"
-          echo "=========================="
-          if [ -f "${{ env.OUTPUT_DIR }}/index.html" ]; then
-            echo ""
-            echo "✅ Generated HTML preview (first 60 lines):"
-            head -n 60 "${{ env.OUTPUT_DIR }}/index.html"
-          fi
-
-      - name: 💾 Commit & Push results
-        if: steps.validate_output.outputs.html_exists == 'true'
+      - if: steps.validate_output.outputs.html_exists == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add ${{ env.OUTPUT_DIR }}/*
-          
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🤖 Auto-generated Komaru App #KGNINJA
-
-Timestamp: $(date -u +'%Y-%m-%d %H:%M:%S UTC')
-Feed source: specs/komaru_feed.txt
-Model: gpt-4o-mini"
+            git commit -m "🤖 Auto-generated Komaru App #KGNINJA ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"
             git push origin HEAD
-            echo "✅ Changes pushed successfully"
           fi
 
-      - name: 📤 Upload artifact
-        if: steps.validate_output.outputs.html_exists == 'true'
+      - if: steps.validate_output.outputs.html_exists == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: latest_autoapp
           path: ${{ env.OUTPUT_DIR }}/
           retention-days: 30
 
-      - name: ❌ Report failure
-        if: failure() && steps.validate_output.outputs.html_exists != 'true'
-        run: |
-          echo "⚠️ App generation failed or produced no output"
-          echo "Check the workflow logs for details"
-          exit 1
-
   notify:
-    name: 📢 Workflow completion
     needs: generate
     runs-on: ubuntu-latest
     if: always()
     steps:
-      - name: ✅ Success notification
-        if: needs.generate.result == 'success'
-        run: |
-          echo "✅ Komaru AutoApp generated successfully!"
-          echo "App location: apps/latest_app/index.html"
-
-      - name: ⚠️ Failure notification
-        if: needs.generate.result != 'success'
-        run: |
-          echo "⚠️ Komaru AutoApp generation encountered issues"
-          echo "Check workflow logs for details"
-          exit 1
+      - run: |
+          if [ "${{ needs.generate.result }}" = "success" ]; then
+            echo "✅ Komaru AutoApp generated successfully!"
+          else
+            echo "⚠️ Generation encountered issues"
+            exit 1
