@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-10-25 07:10) ===
+=== こまる相談 ニュースフィード (2025-10-25 08:13) ===
 
 - 【男性の自殺対策】相談しやすい環境整備を - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzTExiVXNqak5sS1d1Mld6aWJybkhGRzlJWkNIbTEtNlZRNjRyOEFxSjBvWlJsdkdvMjhtdHBFU2xMVU1sRnI2aUJHenVRUV9hRHlUamtWYWJCU2M?oc=5
@@ -15,9 +15,6 @@
 - 人生相談：自分を演じて疲れてきた＝回答者・高橋源一郎 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RelU0dENfaXZQVmtXZnI2Sy1UNU1pdmZHNkQ5OHlSdmxIOHB2QThmRVJhRWhCVktBNEU2akZNdEI2ZlVHd0lRMzBydE53M05zNW9WVDdqdUxMMVI0b0U3Z2ZBRnFpcjRn?oc=5
 
-- 「お姉さん！」介護で姉妹対立 妹と同世代の野沢直子さんは訴える - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3OWNRYmdUeWpwMndJUmExcGI1dTIwdy1GRnppWE1pU05oNm03bUhKakhJd1RCS0dQYzVKTkFtUTdPSFhkZ1VPRmN5VU5qR3ZWTXFNdFlIbmc0QWxpejV4cTcwYmdiQW8?oc=5
-
 - 髪のお悩みを全部プロに聞いてみた！おうちでできる効果絶大のケアとは？ - vivi.tv
   https://news.google.com/rss/articles/CBMiRkFVX3lxTFBYdVBVVVlkMy13TlkyNGVnaWRPTFI1OTdlOTNDRFFMcTZZSWVhM2xqcF9GQ1RkajJVU3hBOWNaTTFFSnA0MlE?oc=5
 
@@ -27,14 +24,17 @@
 - 消費生活相談室休業のお知らせ - city.seki.lg.jp
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiNUxwZ2xXM2thUk9ldW1YLXhwOGlQUkhhS09PeTQ4VTc5VU9kWDh0RDJMTjRfQ2U3NzN3ZmZHdEp0b3BxN2J2bWItOVMzOU42dnpacmdR?oc=5
 
+- 「お姉さん！」介護で姉妹対立 妹と同世代の野沢直子さんは訴える - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3OWNRYmdUeWpwMndJUmExcGI1dTIwdy1GRnppWE1pU05oNm03bUhKakhJd1RCS0dQYzVKTkFtUTdPSFhkZ1VPRmN5VU5qR3ZWTXFNdFlIbmc0QWxpejV4cTcwYmdiQW8?oc=5
+
 - 中高年向け支援サイト開設 相談窓口や求人など〈厚労省〉 - 福祉新聞Web
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PdHVNa2hPdjg0ajBjcWFVQVI2TVQ0c2s0OFpMR1MtczZSM2l4UHEtcFdONkd1eF9vSXNyU1JFRTFLM2pNSHhZNm5yNFNOYlNNNFBzMFplYVk?oc=5
 
-- 不登校の相談会 11月８日、南区役所で | 中区・西区・南区 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE05WnBNQ084eXdnTHBic0dRenlldWlGQzA0TDZJSFZxR2hLSTRybEpmWDVNWEx4bjdtX3NjeXZnZW1SMGdrbWF0UHNuRTJ5Vy1TMUgwODFBeFdjblNTWmV3SlRUS1c?oc=5
-
 - 兵庫県民総合相談センター - pref.hyogo.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oSVdVU1hWNmdCSzlfRFg5cWxvQ19YaDdmZE1CYkdUblNWa2ZSdHVxaElNSEE0WFVtcEI3TjgybnBDZU1LY3lkeTl0SFFiWjloLTZfQUxuWTQ1ZWpFZHJlbzlrNA?oc=5
+
+- 不登校の相談会 11月８日、南区役所で | 中区・西区・南区 - タウンニュース
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE05WnBNQ084eXdnTHBic0dRenlldWlGQzA0TDZJSFZxR2hLSTRybEpmWDVNWEx4bjdtX3NjeXZnZW1SMGdrbWF0UHNuRTJ5Vy1TMUgwODFBeFdjblNTWmV3SlRUS1c?oc=5
 
 - 警察総合相談室及び警察署相談窓口のご利用を！！ - pref.kyoto.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTFA0RnE4anI4ajdxdkxUcUFYc01iamlOOTZfbVBpbmF2dTNlSDROcWJ4LS1taHI4ODZ5cldlMHplN1lmTlZvWF80WHlLYkZYcy04RWhYcW9WT3Q3MGNLUy1XMUxuVVJ2VmF0QTRF?oc=5
