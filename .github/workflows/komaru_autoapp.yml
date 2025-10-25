@@ -67,7 +67,7 @@ jobs:
         with:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           codex-home: ${{ env.CODEX_HOME }}
-          model: gpt-5-auto        # ← GPT-5自動推論モード
+          model: gpt-5-auto
           timeout: 300
           safety-strategy: unsafe
           sandbox: workspace-write
@@ -78,12 +78,12 @@ jobs:
               - apps/latest_app/index.html
               - apps/latest_app/README.md
             Requirements:
-              - Use clear, calm blue or teal design
+              - Use calm blue or teal design
               - Mobile responsive
-              - Japanese labels
+              - Japanese UI labels
               - No external dependencies
-              - Include "#KGNINJA AutoApp" footer and timestamp.
-            The app must run immediately in any modern browser.
+              - Include "#KGNINJA AutoApp" footer and timestamp
+            The app must be ready to run in any modern browser.
           output-file: ${{ env.OUTPUT_DIR }}/README.md
 
       - id: validate_output
