@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>106万円の壁 セーフティ計算機</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: "Segoe UI", "Hiragino Sans", sans-serif;
+      margin: 0;
+      padding: 1.5rem;
+      background: #f4f8ff;
+      color: #1a2a4a;
+    }
+    main {
+      max-width: 600px;
+      margin: 0 auto;
+      background: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0, 123, 255, 0.15);
+      padding: 2rem;
+    }
+    h1 {
+      margin-top: 0;
+      font-size: 1.8rem;
+      color: #0a4dac;
+    }
+    label {
+      display: block;
+      margin-top: 1rem;
+      font-weight: 600;
+    }
+    input {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid #bcd3ff;
+      border-radius: 8px;
+      font-size: 1rem;
+    }
+    button {
+      margin-top: 1.5rem;
+      width: 100%;
+      padding: 0.9rem;
+      border: none;
+      border-radius: 8px;
+      background: linear-gradient(135deg, #0a4dac, #4da3ff);
+      color: #fff;
+      font-size: 1.1rem;
+      cursor: pointer;
+    }
+    button:hover {
+      opacity: 0.9;
+    }
+    .result {
+      margin-top: 2rem;
+      padding: 1.5rem;
+      border-radius: 10px;
+      background: #e8f2ff;
+      border: 1px solid #9ec6ff;
+    }
+    .status-safe {
+      color: #0a7d37;
+      font-weight: bold;
+    }
+    .status-alert {
+      color: #d62828;
+      font-weight: bold;
+    }
+    small {
+      color: #4a5d7a;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>106万円の壁セーフティ計算機</h1>
+    <p>社会保険料の「106万円の壁」を意識しながら、働き方の調整案を即時に把握できます。</p>
+
+    <form id="calc-form">
+      <label for="hourly-wage">時給（円）</label>
+      <input type="number" id="hourly-wage" min="0" value="1200" required>
+
+      <label for="weekly-hours">週あたりの労働時間（時間）</label>
+      <input type="number" id="weekly-hours" min="0" step="0.1" value="20" required>
+
+      <label for="weeks-per-year">年間の勤務週数（週） <small>（例：学校行事で休むなら48週など）</small></label>
+      <input type="number" id="weeks-per-year" min="0" max="52" step="0.5" value="48" required>
+
+      <label for="bonus">年間の臨時収入・ボーナス（円）</label>
+      <input type="number" id="bonus" min="0" value="0" required>
+
+      <button type="submit">年間収入をチェック</button>
+    </form>
+
+    <section id="result" class="result" aria-live="polite">
+      <p>入力後に結果が表示されます。</p>
+    </section>
+  </main>
+
+  <script>
+    // 日本語コメント: 入力値を受け取り、年間収入と調整案を計算する関数
+    function calculateIncome(hourlyWage, weeklyHours, weeksPerYear, bonus) {
+      const baseIncome = hourlyWage * weeklyHours * weeksPerYear;
+      const totalIncome = baseIncome + bonus;
+      return { baseIncome, totalIncome };
+    }
+
+    // 日本語コメント: 結果エリアにユーザー向けメッセージを描画する
+    function renderResult(totalIncome, baseIncome, weeklyHours, hourlyWage, weeksPerYear) {
+      const threshold = 1060000;
+      const resultEl = document.getElementById('result');
+      const difference = threshold - totalIncome;
+      const safeHours = difference > 0 ? Math.floor(difference / (hourlyWage * weeksPerYear)) : 0;
+      const adjustedWeeklyHours = difference > 0 ? (weeklyHours + Math.min(safeHours, 5)).toFixed(1) : (weeklyHours - Math.abs(difference) / (hourlyWage * weeksPerYear)).toFixed(1);
+      const statusClass = difference >= 0 ? 'status-safe' : 'status-alert';
+      const statusText = difference >= 0 ? '106万円以内に収まっています。' : '106万円の壁を超えています。';
+
+      resultEl.innerHTML = `
+        <h2>結果</h2>
+        <p>年間の基本給与：<strong>${baseIncome.toLocaleString()}円</strong></p>
+        <p>年間の合計収入：<strong>${totalIncome.toLocaleString()}円</strong></p>
+        <p class="${statusClass}">${statusText}</p>
+        <ul>
+          <li>${difference >= 0 ? `あと<strong>${difference.toLocaleString()}円</strong>の余裕があります。` : `超過額は<strong>${Math.abs(difference).toLocaleString()}円</strong>です。`}</li>
+          <li>${difference >= 0 ? `週あたり最大<strong>${safeHours}</strong>時間（約${adjustedWeeklyHours}時間まで）増やせます。` : `週あたり<strong>${Math.abs(difference / (hourlyWage * weeksPerYear)).toFixed(1)}</strong>時間削減すると目安内です。`}</li>
+          <li>一時的なボーナスや交通費が含まれる場合は、余裕をさらに確保しましょう。</li>
+        </ul>
+      `;
+    }
+
+    document.getElementById('calc-form').addEventListener('submit', function (event) {
+      // 日本語コメント: フォーム送信を抑制して即時計算する
+      event.preventDefault();
+      const hourlyWage = Number(document.getElementById('hourly-wage').value);
+      const weeklyHours = Number(document.getElementById('weekly-hours').value);
+      const weeksPerYear = Number(document.getElementById('weeks-per-year').value);
+      const bonus = Number(document.getElementById('bonus').value);
+
+      if ([hourlyWage, weeklyHours, weeksPerYear, bonus].some(Number.isNaN)) {
+        document.getElementById('result').innerHTML = '<p class="status-alert">数値を正しく入力してください。</p>';
+        return;
+      }
+
+      const { baseIncome, totalIncome } = calculateIncome(hourlyWage, weeklyHours, weeksPerYear, bonus);
+      renderResult(totalIncome, baseIncome, weeklyHours, hourlyWage, weeksPerYear);
+    });
+  </script>
+</body>
+</html>
