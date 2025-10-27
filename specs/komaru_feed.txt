@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-10-27 07:13) ===
+=== こまる相談 ニュースフィード (2025-10-27 08:17) ===
 
 - 企業のお悩み、まずはご相談ください - かんぽ生命
   https://news.google.com/rss/articles/CBMic0FVX3lxTE0xbkxzMThsVU5YZkdpNk5NOE1FemNMY0ZNMklGNG1OdzFPak1aOHN6ZGVnTFRtTDVzVkY2QmF6OEVLWktYaEFZdkpaMGNFN2VFMlhpWU9SSmhYWGlMNlp6RWl0QUFVN2JKOU02aXZ5VTdTNHM?oc=5
@@ -6,8 +6,8 @@
 - 成年後見なんでも相談 - pref.saitama.lg.jp
   https://news.google.com/rss/articles/CBMicEFVX3lxTE9NRVJGaEJMWlJCOElWU0JCWTk5NG9mVV9tM1J3Z2dzTkowNVJXYlgxX05PczROLUVLVl9MTnJBR1loaG9wR0tmRnpGbGdoU2NTNl81ZkxGSnlzcTBEcWRjRG1rdlF2eS1RMmZJTVNUY3I?oc=5
 
-- 神奈川県、救急電話相談のコンタクトセンター基盤にSalesforceの「Agentforce Public Sector」を導入 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE4wb0dSVWtDSG9fUzVzSjNXUVcwN3NhMjNVSG9YQk9ZQzBLUDRpNGFJeDhnOWNHOElBTHlkcnhoQUttQ1BKa28tUUVVLWdTVHVXVG9hOG51VFBtUVA4Z29Zc3IxZWpGaS1IQUdiNnRyTUc4cmtveTNzV0x3RlBWcDg?oc=5
+- 警察署で202人分の個人情報書類を紛失 「警察安全相談受理カード」に記載された相談内容や処理結果など…署内で施錠されたキャビネットに保管していたはずも見当たらず 北海道・深川警察署 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMGExOThFbFE0LWtJNE00TTN0RWdtLTByWHpIUXBTd3BXcUdnUVc1RTJiNU9SUjFSbHZZckhKeVBMc05VdnVIYU0zS1hkbFJib2tydldaaV8xenFLalNBYzRJak11aU5RUWlBUXBuMFdJYmR2aWVDa2N4WU1vMUk?oc=5
 
 - 「行政相談月間」にあわせて特設行政相談所を開設しました - city.toride.ibaraki.jp
   https://news.google.com/rss/articles/CBMirAFBVV95cUxPUW92Ml9yazMzMTFJNmJqcUswaVZoQ0ZUeGV3YzQ5QklOV3pvdVNHTkYyamEzZW1jazhWdV9vWnRwbnRTV003TjV0aDBvWXluclkyempmZXA3WEEwRnV1LTIzbmdsNS1iVm1ndmRSWi11Yk9CRUJlYmRnN1UzaVQ3OXlvZ1U2TkJJd29lU0hXSWRnZjFlaTJIemFFcDBPajVSUUFxNUJqZEEwZ01B?oc=5
@@ -27,11 +27,14 @@
 - 『ローズ家～崖っぷちの夫婦～』カリスマ婚活アドバイザー植草美幸がアドバイス！特別映像解禁 - searchlightpictures.jp
   https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3a0xKTEwya25DTHZGT0ZKcUZvRERLX2dTbFJCNnBveEpMSUR1b25OVDBvWElvSFJ3aXlCbVE0RzJuRGQ1RTZUNE51bFVGTDFvRzd2Qm5jeUl2eG1FNWQwQw?oc=5
 
+- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
+
 - M!LKメンバーが街へ繰り出し、道行く人々の悩みを解決！？ABCテレビ初の冠番組『M!LKじゃん！』FODで先行独占配信 - めざましmedia
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1teGhtUFExX3d6enpDem5RRFN1RXU0Y3R5c0RiMGRZYlRIODF5WktzMDg0TkFVTWE4d3VKX2JqekgteUxsb2VTSVBHRml2djAwSmZv?oc=5
 
-- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
+- １１月１日にキャンパス見学会、個別相談・模擬授業も…神戸女学院 - 読売新聞オンライン
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxQcjB3eUpVQXhnQXpYU1pJUmdtd040OXhIb1lucGtvUFlLSko1TUJvdGpiTVpWWEFuYlEzUllscWFiODhhZlpnZ1BRMlBtR2w3dWlmeXB6QjZBckF6Z1BtblVYT3BMNEZTOGpYNXRfcTd1eDFDTmpZdzJrWlZyRW56RW96N2Y3T1dvZ2c?oc=5
 
 - [11月] 空き家個別相談会のお知らせ - city.ibaraki-koga.lg.jp
   https://news.google.com/rss/articles/CBMikgFBVV95cUxQVF9jOWltVHhaQ3F3VW4yU2t6dnptdkJBdGZFT21fMHZ6Tkcwa0c2cVNLZGVfdTZnd2pJNHFEc1pRUEc0SDhDRVhUUG8wZURuci0zX1hpdnd0N2xSYVR4bUdMZGpXX1RwNG1LdnktR19VZ0xXa081bG91SDB1TzBxTXhjZjlFUUtVV2dJVmF1NjV0Zw?oc=5
@@ -39,20 +42,17 @@
 - ピーキー株式会社が中小企業向けのAI情シス導入支援サービスの無料相談を開始 - ニュースメディアVOIX
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1SUjkzMHVpVDFUUTE4RW1lSHVuTmZxN0Y1dS1XdVdFMkxZQndWZ2xvd1BIcThpUmJrSE9aUU02aFVIeUVFZ285UUdDemE5R1dWZjRPRlBoUlNOOGJUZW51SlhPenhRbUFiSVRTWA?oc=5
 
-- ダンスボーカルグループM!LK ABCテレビ初の冠番組 メンバーが街へ繰り出し、道行く人々の悩みを調査！ 初回は戸越銀座商店街に突撃 悩めるママの困り事を解決！？ - fujitv.co.jp
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVVUNrZVAtNWVIM2FfVnRRZ1NhMkRiRnk5eTVoeWtQT29QZnRVaE85U294MVJzOEJ0cHNfQmNBYkNfOW1jOTBFWHBHZXB4am91M3gxbnEzWFgyYmx1SmtF?oc=5
+- 【紛失】警察への相談内容書かれた文書 氏名や相談者の住所・連絡先を記録 北海道・深川警察署 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5XNG1pakNZVmxueWtIVVlNek5Mckk2eC1la3RFRjFGa3FBaDZkSW95ZEpVQmpqaWZpbTl4U2xZOWNXZktmbDVQUVJ3SUl5SWx4bGxoaUN2MHZjdDRBQk5nRmkxNW1FYWIwX0F3bjdqQ3pNakFhYk9oVElNWUN2YXM?oc=5
 
-- 【水宅配 相談件数】サーバー契約の相談減少、大手の営業件数低下が要因か - online.bci.co.jp
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBcHZDdXNPUlpsOWFwZk1vYlNybVlKWjY3d2JUX0FFQXVTV1hlU2o4ZWNKT1d2UEIxYi1fa0NBbGxKbEJMdXQzSEhqc3VuaUwtODB1MmNOZw?oc=5
-
-- 子どもが告発した「ストーリー捏造」――児童相談所が作り上げる“虚構の虐待”と無視される子どもの声 - 選挙ドットコム
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZThUOTkzTW90ZkFXT1kybW8yTXNCa3NFendxSWNQNnNnaW44UDl2WVBmY1Bta3hHU1czVEM5Y05GNFJ3VXdvZ2ZvbUJlckFnT2ZSZDdrQ1dSVE9IUS1v?oc=5
+- 神奈川県、救急電話相談のコンタクトセンター基盤にSalesforceの「Agentforce Public Sector」を導入 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE4wb0dSVWtDSG9fUzVzSjNXUVcwN3NhMjNVSG9YQk9ZQzBLUDRpNGFJeDhnOWNHOElBTHlkcnhoQUttQ1BKa28tUUVVLWdTVHVXVG9hOG51VFBtUVA4Z29Zc3IxZWpGaS1IQUdiNnRyTUc4cmtveTNzV0x3RlBWcDg?oc=5
 
 - 【クリスマス】トゥヴェール：肌悩みに合わせた3種のコフレが登場（FASHIONSNAP） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5iaHRJdjhqQ3N4bFk0eVF4RjZkck5qRlNncFQ5LXowQURlb1ZER1BQd29mWENnRnc4V2VLS2tGSTZIQUs2N2pKME1yVk1jS2JIazZGdmlIZmdqeWJxRTRMYUhjaXY2T25SQldDdVJxQUw3ZzRRV2FmQ2hBc2tKNEE?oc=5
 
-- 警察署で202人分の個人情報書類を紛失 「警察安全相談受理カード」に記載された相談内容や処理結果など…署内で施錠されたキャビネットに保管していたはずも見当たらず 北海道・深川警察署 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMGExOThFbFE0LWtJNE00TTN0RWdtLTByWHpIUXBTd3BXcUdnUVc1RTJiNU9SUjFSbHZZckhKeVBMc05VdnVIYU0zS1hkbFJib2tydldaaV8xenFLalNBYzRJak11aU5RUWlBUXBuMFdJYmR2aWVDa2N4WU1vMUk?oc=5
+- “外出先での困った”が解消された！セリアの「おもちゃみたいな文房具」商品タグが切りたい時にも便利なんです！《購入レビュー》 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5qa053N0FwTHBtdXBVbEVnd1FyU2dFZHAyNFFLUmFvYjYwMGtOR1luM0dQYmx3ZzFfSzJiYTBhTXhraWlIbkRUOFd1bWl2dTN4SVE5X1ZXdUNpWm8tNC00aktJR294N1FRTGttem03TTFacTJuaDZnRjVRcnZNWmM?oc=5
 
 - 北村匠海 中学時代に進路を相談 自身を“北村”と呼ぶ人気女優の助言は「東京リベンジャーズのセリフ」（スポニチアネックス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9jczVad2xjT2NGS3IzM0ZIRWQteTZjYVVVM1Exd1VLbHN6QnN0bzJvR2JJNWpHalRlZXBKQXNmM1VYMVV1Nnl4c29WT01ya2JDYWJDbFFrX2NUcXV5U2NnVlVrYXdLd2lDWUpwS0doNnZrcGhWSUdoTkY0dndXUmc?oc=5
