@@ -1,10 +1,7 @@
-=== こまる相談 ニュースフィード (2025-10-27 19:09) ===
+=== こまる相談 ニュースフィード (2025-10-27 20:11) ===
 
 - 企業のお悩み、まずはご相談ください - かんぽ生命
   https://news.google.com/rss/articles/CBMic0FVX3lxTE0xbkxzMThsVU5YZkdpNk5NOE1FemNMY0ZNMklGNG1OdzFPak1aOHN6ZGVnTFRtTDVzVkY2QmF6OEVLWktYaEFZdkpaMGNFN2VFMlhpWU9SSmhYWGlMNlp6RWl0QUFVN2JKOU02aXZ5VTdTNHM?oc=5
-
-- 成年後見なんでも相談 - pref.saitama.lg.jp
-  https://news.google.com/rss/articles/CBMicEFVX3lxTE9NRVJGaEJMWlJCOElWU0JCWTk5NG9mVV9tM1J3Z2dzTkowNVJXYlgxX05PczROLUVLVl9MTnJBR1loaG9wR0tmRnpGbGdoU2NTNl81ZkxGSnlzcTBEcWRjRG1rdlF2eS1RMmZJTVNUY3I?oc=5
 
 - 警察署で202人分の個人情報書類を紛失 「警察安全相談受理カード」に記載された相談内容や処理結果など…署内で施錠されたキャビネットに保管していたはずも見当たらず 北海道・深川警察署 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMGExOThFbFE0LWtJNE00TTN0RWdtLTByWHpIUXBTd3BXcUdnUVc1RTJiNU9SUjFSbHZZckhKeVBMc05VdnVIYU0zS1hkbFJib2tydldaaV8xenFLalNBYzRJak11aU5RUWlBUXBuMFdJYmR2aWVDa2N4WU1vMUk?oc=5
@@ -18,14 +15,14 @@
 - 2025年度秋季無料法律相談 開催のお知らせ（要予約）【11月15日（土）】 - komazawa-u.ac.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBxeE5PM1Q4cndDZm5pT0IteU45UUVWRm1PYXNwM3o5SDFIRFFmYjJiSFpBZl9fUWFBYWw2VnRkbl84eFRGX25lb2RJM0YzU2lCdm16WVY0bm1sTE04WlF0NGhZbzBuZkxaMElOVVBETzUwUDlr?oc=5
 
-- 連合茨城、最低賃金に関する集中相談を実施 11月4〜7日 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5LWUJ2RElXTU9WVExhZ2hWZUpNUWdjVnpHTjk0dnpkMW1lZGxDTzJtUWJ5LXFPYWxwR3lxdERhbHRBRHZGRzhNYmJHdjVvWS1wQmhkVWNsSUZfZlFocGxDa1ZCRTdWbm5LQVJZdA?oc=5
-
-- 北海道警、202人分の個人情報含む相談内容紛失 深川署の移転時か - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PVDFkMm5jZC1ERE00NE1PTTNhQ2NINWdBUkpINGFwNE1yTm9LQ3ZvbEhCODMzYzFFbUNLZm5FTHdDVWJfSmtRLUlWMW9Sczh2c0hXbVVwV1lzTkRuUTFNOUU0UkdrWXFm?oc=5
+- 徳島のBASE、家づくりの相談・支援を全国で 東京・福岡など店舗網 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUHhNQ1VldFY3bmZsV2lvUnJFaHFMZXpNTHJpN0laNjFjbXNFQUhEWTlwQ2xpTi0tVXpvaVV1ZUVIcEF0bjg1MjZaOFJNSi1DV2RPX05XbUs0Z2RwTThucEo3T3QxUHhNeUJheQ?oc=5
 
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
+
+- 北海道警、202人分の個人情報含む相談内容紛失 深川署の移転時か - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PVDFkMm5jZC1ERE00NE1PTTNhQ2NINWdBUkpINGFwNE1yTm9LQ3ZvbEhCODMzYzFFbUNLZm5FTHdDVWJfSmtRLUlWMW9Sczh2c0hXbVVwV1lzTkRuUTFNOUU0UkdrWXFm?oc=5
 
 - 家賃引き上げ 増える相談 「同意書へのサインは慎重に」 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ucE5GZXpCcDg0WU4tRkkwaGlTRHRFYjJVbE9TaXNMcG5PRFhWU19ZRWtfX3N5OU9XZjBGX2R2ZHZHU1RUZkpSeldaeXlTVWZiMXhmSTZuLThvQQ?oc=5
@@ -36,14 +33,17 @@
 - 【真鶴町】結婚相談NPOが年の差婚活支援ツール「婚活年表」を一般公開 - 湘南人
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ta1J6TS1OUkdPcnk3TW5ZbmpXRVlUNmxTSHVyaUdzeHM1eUZJX1FqaDJVcWJySXgxVmFSVUJ5Qk5wMkhwejQxX3N5NGlDRy1iNGFya2tIR3NIYkY3YUJHTlN3?oc=5
 
+- 兵庫県民総合相談センター - pref.hyogo.lg.jp
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oSVdVU1hWNmdCSzlfRFg5cWxvQ19YaDdmZE1CYkdUblNWa2ZSdHVxaElNSEE0WFVtcEI3TjgybnBDZU1LY3lkeTl0SFFiWjloLTZfQUxuWTQ1ZWpFZHJlbzlrNA?oc=5
+
 - 【悩み相談】「青春らしいことがしたい」帰宅部の高2生「このままでよいのか？」 - 高校生新聞オンライン
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lTVdtRnF4d0x5a2JPUjJDWVpoaUxaSXZGYlNEdGNNcEZERTB6QWVSMHkxdjFRMFcyRzUwZFpWSS11bHVYZFFrYzNLN1RjekFCc1otN09zMzBnZjVr?oc=5
 
 - 今月の健康相談会｜ツクイ・サンフォレスト宇都宮｜サービス付き高齢者向け住宅 - ツクイ
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ra014MEVWTk4zdEw1dzh5TTZQR3hPT1FOSmdzOU1UbS1ibElZaE5qZEJHSy1lTVZQcHdmUndNSWdCOWlOYjRSMnl1cGhUUzJOMlRTQ1FNbHRkRV9La2lEZm93?oc=5
 
-- 【無料なんでも相談会】Salesforceの導入・活用支援を行うSharing Innovationsが、気軽に相談できる「Salesforceなんでも相談窓口」を新設 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9jS0lTbW53SHdQTnNGMnp2N0lJSkxfdERmZDluUTlVVlU3M0lCdHZEWGRVYktNOXJreTEyeksxVF9oTlhtSk5lY01lZXBCUm5SeVNCTmI5UjZNR1lOX0FrenBETVE3alZ5dkE?oc=5
+- 連合茨城、最低賃金に関する集中相談を実施 11月4〜7日 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5LWUJ2RElXTU9WVExhZ2hWZUpNUWdjVnpHTjk0dnpkMW1lZGxDTzJtUWJ5LXFPYWxwR3lxdERhbHRBRHZGRzhNYmJHdjVvWS1wQmhkVWNsSUZfZlFocGxDa1ZCRTdWbm5LQVJZdA?oc=5
 
 - 北海道警、相談者の個人情報記載の冊子紛失（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE95MVpYbU42ZGI0SklZZFFmMVZrMGpBcU5mSVZzMmlmZ1VmdEJsNWl0LWZvWk9wYy0tRF9xZ09QVEVjRm1wVFVCMk0wWjFTTXM4d1hRUHBUeW1uZ0tpS251YVZRclBBbGxzN1hWcmQ2eVNjS3UzSFFnVTdQNlJHMGc?oc=5
