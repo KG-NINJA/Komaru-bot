@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-10-27 17:10) ===
+=== こまる相談 ニュースフィード (2025-10-27 18:17) ===
 
 - 企業のお悩み、まずはご相談ください - かんぽ生命
   https://news.google.com/rss/articles/CBMic0FVX3lxTE0xbkxzMThsVU5YZkdpNk5NOE1FemNMY0ZNMklGNG1OdzFPak1aOHN6ZGVnTFRtTDVzVkY2QmF6OEVLWktYaEFZdkpaMGNFN2VFMlhpWU9SSmhYWGlMNlp6RWl0QUFVN2JKOU02aXZ5VTdTNHM?oc=5
@@ -21,8 +21,11 @@
 - 神奈川県、救急電話相談のコンタクトセンター基盤にSalesforceの「Agentforce Public Sector」を導入 - ZDNET Japan
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EYXdTM3NvczVCVDdZYWljekdmX3VTSHYtR3dmVTZEcVE0dElDU1B3Z2VqTDJCRExweHUxaE9BeDVXOWN5b0hPMWlsRGRwWHRwUzFv?oc=5
 
-- 神奈川県、救急電話相談「#7119」のコンタクトセンター基盤にSalesforceの公共機関向けプラットフォーム「Agentforce Public Sector」を導入 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9kdjRUNjFwTEh0LXh3ODdTOUxTWlgzNVVqM25YZlF3WUJjVjZHa2s3TXpRYkV1czkwZ0JwUHloMHV4MzBBVFJxdE02X2Y1UDVJbkNyTUxteUNXZGlGXzJoUFRNMWoxYXIyYnc?oc=5
+- 北海道警、202人分の個人情報含む相談内容紛失 深川署の移転時か - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PVDFkMm5jZC1ERE00NE1PTTNhQ2NINWdBUkpINGFwNE1yTm9LQ3ZvbEhCODMzYzFFbUNLZm5FTHdDVWJfSmtRLUlWMW9Sczh2c0hXbVVwV1lzTkRuUTFNOUU0UkdrWXFm?oc=5
+
+- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
 - 家賃引き上げ 増える相談 「同意書へのサインは慎重に」 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ucE5GZXpCcDg0WU4tRkkwaGlTRHRFYjJVbE9TaXNMcG5PRFhWU19ZRWtfX3N5OU9XZjBGX2R2ZHZHU1RUZkpSeldaeXlTVWZiMXhmSTZuLThvQQ?oc=5
@@ -30,23 +33,20 @@
 - 【真鶴町】結婚相談NPOが年の差婚活支援ツール「婚活年表」を一般公開 - 湘南人
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ta1J6TS1OUkdPcnk3TW5ZbmpXRVlUNmxTSHVyaUdzeHM1eUZJX1FqaDJVcWJySXgxVmFSVUJ5Qk5wMkhwejQxX3N5NGlDRy1iNGFya2tIR3NIYkY3YUJHTlN3?oc=5
 
-- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
-
 - [11月] 空き家個別相談会のお知らせ - city.ibaraki-koga.lg.jp
   https://news.google.com/rss/articles/CBMikgFBVV95cUxQVF9jOWltVHhaQ3F3VW4yU2t6dnptdkJBdGZFT21fMHZ6Tkcwa0c2cVNLZGVfdTZnd2pJNHFEc1pRUEc0SDhDRVhUUG8wZURuci0zX1hpdnd0N2xSYVR4bUdMZGpXX1RwNG1LdnktR19VZ0xXa081bG91SDB1TzBxTXhjZjlFUUtVV2dJVmF1NjV0Zw?oc=5
 
 - 今月の健康相談会｜ツクイ・サンフォレスト宇都宮｜サービス付き高齢者向け住宅 - ツクイ
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ra014MEVWTk4zdEw1dzh5TTZQR3hPT1FOSmdzOU1UbS1ibElZaE5qZEJHSy1lTVZQcHdmUndNSWdCOWlOYjRSMnl1cGhUUzJOMlRTQ1FNbHRkRV9La2lEZm93?oc=5
 
+- 【無料なんでも相談会】Salesforceの導入・活用支援を行うSharing Innovationsが、気軽に相談できる「Salesforceなんでも相談窓口」を新設 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9jS0lTbW53SHdQTnNGMnp2N0lJSkxfdERmZDluUTlVVlU3M0lCdHZEWGRVYktNOXJreTEyeksxVF9oTlhtSk5lY01lZXBCUm5SeVNCTmI5UjZNR1lOX0FrenBETVE3alZ5dkE?oc=5
+
 - 【悩み相談】「青春らしいことがしたい」帰宅部の高2生「このままでよいのか？」 - 高校生新聞オンライン
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lTVdtRnF4d0x5a2JPUjJDWVpoaUxaSXZGYlNEdGNNcEZERTB6QWVSMHkxdjFRMFcyRzUwZFpWSS11bHVYZFFrYzNLN1RjekFCc1otN09zMzBnZjVr?oc=5
 
 - 北海道警、相談者の個人情報記載の冊子紛失（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE95MVpYbU42ZGI0SklZZFFmMVZrMGpBcU5mSVZzMmlmZ1VmdEJsNWl0LWZvWk9wYy0tRF9xZ09QVEVjRm1wVFVCMk0wWjFTTXM4d1hRUHBUeW1uZ0tpS251YVZRclBBbGxzN1hWcmQ2eVNjS3UzSFFnVTdQNlJHMGc?oc=5
-
-- 【無料なんでも相談会】Salesforceの導入・活用支援を行うSharing Innovationsが、気軽に相談できる「Salesforceなんでも相談窓口」を新設 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9jS0lTbW53SHdQTnNGMnp2N0lJSkxfdERmZDluUTlVVlU3M0lCdHZEWGRVYktNOXJreTEyeksxVF9oTlhtSk5lY01lZXBCUm5SeVNCTmI5UjZNR1lOX0FrenBETVE3alZ5dkE?oc=5
 
 - 警察署が「相談記録」115件紛失 氏名、住所、相談内容など計202人分の個人情報記載 施錠されたキャビネットに保管も…北海道・深川警察署 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFByLWVWNkIyS0MxMVhFTFRvbG02Szl3WmR1d3RnR21hSXBYUTJjczZuaG1sWjlmRzdoUjQ1Yjg3aUx1Rmd1OEh2ZG0xMTlCdEl6QWdrZTdsTnpPNHZfbThsZjlOLUt5dmdGWFBNNzlLdFIyN0RrT2NsRmZGbFpDX2s?oc=5
