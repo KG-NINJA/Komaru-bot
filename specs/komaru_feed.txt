@@ -1,7 +1,10 @@
-=== こまる相談 ニュースフィード (2025-10-29 04:18) ===
+=== こまる相談 ニュースフィード (2025-10-29 05:12) ===
 
 - 11月27日(木)「社会保険労務士による相談会」開催のご案内 - 信州大学医学部附属病院
   https://news.google.com/rss/articles/CBMieEFVX3lxTE9qR3FHWkdrNHk4Z0lzdzZFMEcxY1dyRXNLLXlhWkpOaGRUU0xmbUNUc1dpdndSRXFhODBCY1pXNk9naERFUzF0LXJZdEI5MEc3RlN5bHowemhrR3dSc3g0U1A0MGVySVJpQTFjM1NYbEhtTktWcE1DUQ?oc=5
+
+- 第29回遺伝情報解析室セミナー「ウェスタンブロット技術相談会 ～イメージャーの操作方法・画像解析からトラブルシュートまで～」 / The 29th Genetic Analysis Division Seminar Series “Technical Consultation Session on Western Blotting” - med.kyoto-u.ac.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4WFFTTUJVSVZYUTRyOWF3X2FRTjBQdlRTSlo0UzFTbFZxU2VUbV85TVh2cXc5TWJqX3B2UEtBMnh6emhQUFVpTFgyc29PTFI5WmJTRA?oc=5
 
 - 成年後見なんでも相談 - pref.saitama.lg.jp
   https://news.google.com/rss/articles/CBMicEFVX3lxTE9NRVJGaEJMWlJCOElWU0JCWTk5NG9mVV9tM1J3Z2dzTkowNVJXYlgxX05PczROLUVLVl9MTnJBR1loaG9wR0tmRnpGbGdoU2NTNl81ZkxGSnlzcTBEcWRjRG1rdlF2eS1RMmZJTVNUY3I?oc=5
@@ -17,6 +20,9 @@
 
 - 企業のお悩み、まずはご相談ください - かんぽ生命
   https://news.google.com/rss/articles/CBMic0FVX3lxTE0xbkxzMThsVU5YZkdpNk5NOE1FemNMY0ZNMklGNG1OdzFPak1aOHN6ZGVnTFRtTDVzVkY2QmF6OEVLWktYaEFZdkpaMGNFN2VFMlhpWU9SSmhYWGlMNlp6RWl0QUFVN2JKOU02aXZ5VTdTNHM?oc=5
+
+- 「不正ログイン」に関する相談が増加傾向、2025年第3四半期 IPA 情報セキュリティ安心相談窓口の相談状況 - ScanNetSecurity
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE50SmJCTUZWalA5ZGVURDd6RHB4ZmpXRW1JcFpSNndSTTN6cDdYWjVIQ0hNdHdYRmt6S3V2LUFXUmpwbVJsd1pHWEE1ZnhTamRQMlBhOFVOaG5GTnltd2hVSUhiRUxuMm5mUVNJNQ?oc=5
 
 - 「部屋が片付きません。どうしたら良い？」――あの“精神科医”が、読者の悩みにズバッと（？）回答しました【第1回】 - 本の話
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE42OHZ4N2NXR0ktRExoaWxfYUM2enZCVWpOZ1I1WV92aDcwcnIza1dBRVdJUHlaM3VtQy1kMDRCaWZvakYwSS1UMmMyT3VFVVNiT0U0?oc=5
@@ -36,27 +42,21 @@
 - 辻社長の悩み「我々はベンチャーなのに、似たような人が増えていないか？」 - 日経ビジネス電子版
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1TTMzNmw2VHlKbTVROTBMMTdxTXB4bFB6a2k0Rko5cy1zbnctRjl4TWRVYlpRMEozaFJWNnRzWHJLOFBtWkxFcnRmY1hlTEJUUFh1SVRIWkpOelVpZ1RfeHhRVzFSLUk?oc=5
 
-- 「こころのドクター相談（10/31）」開催案内 - cgu.ac.jp
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BZzZlTDNSeHZ6YzdoS3ZtLS1OUUZ4SGtFYW4xOHF1azR6TFVfZThQR3M2S01PTlo1bm12TzN5SmY1eHZTT2tTeHZqWUdiY1NidTQtVDNR?oc=5
+- 「“メンタルをやられる＝弱い選手”。誰にも相談できなかった」元空手日本代表・植草歩が語る、世界一を目指した挑戦と挫折 - GOETHE[ゲーテ]
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE50NjllVm1ITVg4aUxRTlo4TTNuMGtSZV9ERlh5ZGVWSFotQkgzamxDMlJFM19yVjE2QkRNaFdELW16bWkyTkZWQnpqcmthZzd0R0xYWmROMGJybXJFa0VfUU9Zd25BeHFhT1R3?oc=5
 
 - 職場でも家庭でもなく…パパ同士で子育ての悩み共有 秋田市のサークル「Ｔａｔａ」活動の輪広がる - 秋田魁新報電子版
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qMEhiVm11VnNUNXU4WkZRYmRONEd0VHJSMkJnbkhtTXlNTkV2NXFjNWJzaVhoOWhRUllzTHlfV3JWSERnSWJaeGZMaUEtaGQzZC10alpxazlSenphTXF1YU1B?oc=5
 
-- 観光地域づくり法人（ＤＭＯ）の登録・更新申請様式にかかる相談会を延長します | 2025年 | トピックス | 観光庁 - mlit.go.jp
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBES1VBN096NExObHlfNzhGQ2t5NnRuS19QUjVaamJwSEtmUWhGN1R1dUF6dGR2a1lGSkoxMFhsSTZZRDdWdEl1eHN6dnFITHNoN3IydzFsNmVUYlVVVG96cw?oc=5
+- 「こころのドクター相談（10/31）」開催案内 - cgu.ac.jp
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BZzZlTDNSeHZ6YzdoS3ZtLS1OUUZ4SGtFYW4xOHF1azR6TFVfZThQR3M2S01PTlo1bm12TzN5SmY1eHZTT2tTeHZqWUdiY1NidTQtVDNR?oc=5
 
-- 「“メンタルをやられる＝弱い選手”。誰にも相談できなかった」元空手日本代表・植草歩が語る、世界一を目指した挑戦と挫折 - GOETHE[ゲーテ]
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE50NjllVm1ITVg4aUxRTlo4TTNuMGtSZV9ERlh5ZGVWSFotQkgzamxDMlJFM19yVjE2QkRNaFdELW16bWkyTkZWQnpqcmthZzd0R0xYWmROMGJybXJFa0VfUU9Zd25BeHFhT1R3?oc=5
-
-- 2025 年 10 月 29 日 ONAIR 「児童虐待防止推進月間」「女性を応援する健康相談窓口 なごエール」につ いて - AuDee
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTFBtQXZkcjJMa0daS295dmhJbHlOZng1aFNGc05qTWQyZXl6TUhPZGRhN25rMWUzTkFIQkV5N1hZdGhRZ1c5S2oxUFFR?oc=5
-
-- 【逗子市】結婚相談NPO「特定テーマプラン」をカスタネットに統合、支え合い婚拡充へ - 湘南人
-  https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRDJXQW5RZTVXZXU0Q0VOLVhDMS1fSlpUa09YTWFHYlZwUEhQSUZ6cjNpNWV0VmR4ZUVEVWxvaU9td09iZkhRbXV1by1pcTRUa3c4ZmRvODFhZ0JsSVJCX3Y1TXk1RUJsSU1DYmM3RXU?oc=5
+- ハライチ岩井が持論 共感・寄り添い求める相談者は「ひどい」「相手を道具として使ってるようなもん」（スポニチアネックス） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9BZ1JUS1N4SUtsZnd5VVZoSDEzRFZBWnp5dTBpa1N1Z0JfZkFHVTNuckZ2YTh0eGlPQ1dkV2NORld3djNHc3U3VzM4X3dmOUFjNlVMc3VxMEJZSDZUaUhWbFRiVnpfVXhqTWZZTFYtNWZ2djJYOUJkV0JFUG5aOWc?oc=5
 
 - 生活立て直しへのプラン作成、相談の15％ 支援継続求めぬ人も 道半ばの「伴走型支援」 生活困窮者自立支援制度10年 - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZX3lBeEVqNk1ITFNvX2EwdzVmbG0yRjZyUk4yMGszeGRLUG1LOXhRYVY4eWdtckZzNlg0TVBYazREX3dJUDROdXd4c052T0dRd1RUMk5BLTdCNTg?oc=5
 
-- 生活困窮相談３万４８１０件 - 下野新聞社
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfMUJoVDluTGFqRUJLZzJqdVJXcFlZN196SDU0em9jeXJydXA3VDRnRUxuOWFWUlU5d3pJRGsxNkVacEpnTXdQWENXM3RWN0QtYUJXdExkMjByRGs?oc=5
+- 女性のデリケートゾーンの悩みに寄り添うフェムテックブランド【VIPPY】のイベントに潜入！｜美ST（magacol） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZDJFZ1NKa3FKUnA5OF9lY0YzUlBOUnppQkt6N0lraEhMT3hLMlJpTnNEQXgtZ09FRVl0RVRrdklQSlEwQ3A5VHo1ZXBrQ1dKNnlla21PUlV1VHlsN0lvbVdmTW5tMUNrYmEwZ2NZak05VXByQWcyRXJyeEJaWDg?oc=5
 
