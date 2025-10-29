@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-10-29 08:16) ===
+=== こまる相談 ニュースフィード (2025-10-29 09:12) ===
 
 - くらしの情報（2025年12月の無料相談日程） - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oV25OelZDSHlPazBhRXJ6aUVWVk50Z2ZnelFJT0VHRGV3QnBCZDkzZkxrZ0QwaUJMY09ncGVLTXREWW9JYV9kbEF4eEVFQWRzV0VZUTJucDlreUxaRHZuT215U1BjM1FM?oc=5
@@ -30,11 +30,11 @@
 - エンジニアのキャリアの悩みに回答！ 転職サイトの編集長が選んだオススメの「求人検索条件」 - Type転職
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qOTlHQlMtVTBVdzU2b3dYVHd4RVZnU3k2U2V6ZXgtNFVOM0haTWIydXNwZkltN0hpVmJxSHVxT2F1WFlGZGVaSg?oc=5
 
-- 子どものスポーツ、支える負担は母親に偏りがち 親以外の支え手を - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSZzV4Q25pQ3I4eVZ5THZxY0U0cmNra2ZWZUZrRU1qSVdBcnQ3RTVOUGZxaWtPTkZCX1dKdVpjdEV5TzZOcVRGSjdGd2JsdDNuSjJyUzdLSVRDU1lfT2hCMVhHREZqTDQ?oc=5
-
 - 企業のお悩み、まずはご相談ください - かんぽ生命
   https://news.google.com/rss/articles/CBMic0FVX3lxTE0xbkxzMThsVU5YZkdpNk5NOE1FemNMY0ZNMklGNG1OdzFPak1aOHN6ZGVnTFRtTDVzVkY2QmF6OEVLWktYaEFZdkpaMGNFN2VFMlhpWU9SSmhYWGlMNlp6RWl0QUFVN2JKOU02aXZ5VTdTNHM?oc=5
+
+- 子どものスポーツ、支える負担は母親に偏りがち 親以外の支え手を - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSZzV4Q25pQ3I4eVZ5THZxY0U0cmNra2ZWZUZrRU1qSVdBcnQ3RTVOUGZxaWtPTkZCX1dKdVpjdEV5TzZOcVRGSjdGd2JsdDNuSjJyUzdLSVRDU1lfT2hCMVhHREZqTDQ?oc=5
 
 - ふるさとハローワーク(茅野市地域職業相談室)をご利用ください - city.chino.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMHhsTVR0ZWZMR2VJd3RyS0RNQmluSXVWelRhQlhMVUVaS0Z2VjgwRkRpNHRGaVlMbU5XcUhzS3FpQjhrUEZCTHE1VW82Q0RWc0c3T3J2UXFjMEpjTklKZlBJdw?oc=5
@@ -45,8 +45,8 @@
 - 「部屋が片付きません。どうしたら良い？」――あの“精神科医”が、読者の悩みにズバッと（？）回答しました【第1回】 - 本の話
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE42OHZ4N2NXR0ktRExoaWxfYUM2enZCVWpOZ1I1WV92aDcwcnIza1dBRVdJUHlaM3VtQy1kMDRCaWZvakYwSS1UMmMyT3VFVVNiT0U0?oc=5
 
-- 障害児の就学電話相談、弁護士会 31日に - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zSDh6SW9LZW5qT0x4TEFoclZWLTFfZ0JOWUIwZ3BNUjFoRWxpRTdacjlJczlhcXgxQXZpTDRINGVlM1hDbzJ4bXRHalAyR0gtamV2ZVZVdk5NZw?oc=5
+- 「不正ログイン」に関する相談が増加傾向、2025年第3四半期 IPA 情報セキュリティ安心相談窓口の相談状況 - ScanNetSecurity
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE50SmJCTUZWalA5ZGVURDd6RHB4ZmpXRW1JcFpSNndSTTN6cDdYWjVIQ0hNdHdYRmt6S3V2LUFXUmpwbVJsd1pHWEE1ZnhTamRQMlBhOFVOaG5GTnltd2hVSUhiRUxuMm5mUVNJNQ?oc=5
 
 - 生活立て直しへのプラン作成、相談の15％ 支援継続求めぬ人も 道半ばの「伴走型支援」 生活困窮者自立支援制度10年 - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZX3lBeEVqNk1ITFNvX2EwdzVmbG0yRjZyUk4yMGszeGRLUG1LOXhRYVY4eWdtckZzNlg0TVBYazREX3dJUDROdXd4c052T0dRd1RUMk5BLTdCNTg?oc=5
@@ -54,9 +54,9 @@
 - 障害児の就園・就学、法律相談 弁護士会、31日に無料電話（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBaUFMtc3hGLXVxd09IVWlSVlZPT1dQZjdpa1pGMnh3N0xJbVo2TzJVVWpoYmRkNnBEdG10UElRenQydlNiUDlidVl3OTVwcUJ6ZVJaV1BLUy14czlaaE1WSHJoNU90OXV6N0x4ci1JbzJ0MjF3REhPdkdoekl3T3M?oc=5
 
-- 5か国語対応の生活相談、外国籍住民も歓迎のリノベ団地 家賃抑え、交流イベントに笑顔 兵庫・三木（神戸新聞NEXT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1JcmZJVkc0dnJXWFhoY0s2VkhnSkNrMzVIVkRNY3dlMVBwUTBjSXotS1dYc3VRcDYteWFjYUtNVWF6RTdTcG5MWFc1aHVYVDJXYXltWDlpd1ZEQ0JsazZsQmFhbHFndl96cndKSWYzMk01X2xobkR0cm1YMjBNa1k?oc=5
-
 - ハライチ岩井が持論 共感・寄り添い求める相談者は「ひどい」「相手を道具として使ってるようなもん」（スポニチアネックス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9BZ1JUS1N4SUtsZnd5VVZoSDEzRFZBWnp5dTBpa1N1Z0JfZkFHVTNuckZ2YTh0eGlPQ1dkV2NORld3djNHc3U3VzM4X3dmOUFjNlVMc3VxMEJZSDZUaUhWbFRiVnpfVXhqTWZZTFYtNWZ2djJYOUJkV0JFUG5aOWc?oc=5
+
+- 5か国語対応の生活相談、外国籍住民も歓迎のリノベ団地 家賃抑え、交流イベントに笑顔 兵庫・三木（神戸新聞NEXT） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1JcmZJVkc0dnJXWFhoY0s2VkhnSkNrMzVIVkRNY3dlMVBwUTBjSXotS1dYc3VRcDYteWFjYUtNVWF6RTdTcG5MWFc1aHVYVDJXYXltWDlpd1ZEQ0JsazZsQmFhbHFndl96cndKSWYzMk01X2xobkR0cm1YMjBNa1k?oc=5
 
