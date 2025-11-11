@@ -1,7 +1,10 @@
-=== こまる相談 ニュースフィード (2025-11-11 05:13) ===
+=== こまる相談 ニュースフィード (2025-11-11 06:18) ===
 
 - 予約制による納付相談夜間窓口を開設します(1月) - city.kikuchi.lg.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE1tM0pLYXRzZWpMLUdUeEUyRlZlM0ZFd2kzdW1oTVBDcGVwRnRuNGlmclRfMW9ycXJ1cWFGcHQ2X0RuSzBvT0pyX05MajJ1YkpSX1hYSjZ2aVIwWjFMemNna2pwME45WHRibUxr?oc=5
+
+- 第77回人権週間における特設人権相談所を開設します - town.matsukawa.lg.jp
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3BaTDhKN3BoczZrQ3dYNXk1YUJDTFl6RVNYZF93b3M3ZTlMYzZuQ3VBTUxjQzlKLUNDcmdJWU9OR3R5aUMtZWh4U01yT0ZKdHdwb0pOMkFGVWkycEYyUjI4eEFHR0Vjb1BOMGh3dHkzYnNrRnU4NHFiM2QzU2xQbWJGS1l6ZnlfWUJCQkVaclprWmwtQk1LdjllYjNDemFCMURNeDRVUQ?oc=5
 
 - 「先生辞めろ」保護者の苦情、離職原因にも 相談窓口設けた自治体は - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55R3lyT3htVE9hM0FPTmpDd3BQUUJha0gtaXRuQjJ2eS1adnNQVEZJci1OcEVFUmNtM1dXR0NURzBjanBzVFlpdW5oVzFRdUlNeDFhdDdDTk4xYVJ4MXZvNFNiVkR5VGc?oc=5
@@ -15,9 +18,6 @@
 - ふるさとハローワーク(茅野市地域職業相談室)をご利用ください - city.chino.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMHhsTVR0ZWZMR2VJd3RyS0RNQmluSXVWelRhQlhMVUVaS0Z2VjgwRkRpNHRGaVlMbU5XcUhzS3FpQjhrUEZCTHE1VW82Q0RWc0c3T3J2UXFjMEpjTklKZlBJdw?oc=5
 
-- 経営者の悩み事・困り事に寄り添い “学び” “相談“ ”決断“を支援するAIパートナー「ばんそうAI ver1.0」 2026年2月サービス開始 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9YbTFnMEJpT2RwajYyZnFqRXZPaFpmYUJMYy1PdGc4X05MRU5QR1lfVW9tMjh1aERrYkJzQ3hmeG5JNnZORFRJdW4tVHpmVDlhOU9QLWZQMTdNYkVvdTlnVjRPQXVwSWJLbmc?oc=5
-
 - 鹿児島市が新設する児童相談所はプライバシー保護に重点 入り口は来客と一時保護関係者の動線分ける 2028年開所へ施設概要発表 - 南日本新聞
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FNENRZUpZUlZsUFdEYlgzdkxWS2hXb2dfNTF5SkVKbDhYZWd6UlY1M21WT1VMcnVyZU1FRE5kSnRnbjRBa1hwSW9VRW1JLWlaZ3lzX3o3RUs?oc=5
 
@@ -26,6 +26,9 @@
 
 - 沖縄電力、16日にリフォーム相談会 参加無料、快適な住環境を提案（琉球新報） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5XRHB5RXFEdVEtV2ZUUlRtTVhnQm1LbmYyOTNSeWdWRU1IWHhIWjc2NzVvTXdNbHBtSVcyNmhGRG9uaDh1elpOOVpmc1l3ZGRCdUptTkhjYmNIM0JBSWZJT0VtZzNTTFlWUWNyNzZFT3p2cVRGRXlaeEI5NTR6YW8?oc=5
+
+- ＜介護現場の“ニオイ”に関する実態調査＞お悩みは「3K（きつい・汚い・危険）」ではなく、「4K（くさい）」だった！介護者・被介護者いずれも過半数は“ニオイ”によってストレスを感じていることが判明！ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBLa3g2d2pGTG5RNENLWGFlME55cm5lMkVsYnBDTVhjZUtzTUF1MzFCdGI5TEJ4dHBKZVZFZ0x2VGJ1b3RfdGJScUExX2dFWFpvZlhpRzJELTR1R3RURkZVS0cwdUJZclNpZ2c?oc=5
 
 - 「依存症に関する困りごと家族のための相談会」を開催します - city.minamiuonuma.niigata.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PazRJUnd4LVFEWHlwWE5ockZ1WjJ4cllIeUJLV3lNRVM1S0lUZXk5em95MktPWkp0VHduUGpXSEoxMF9TclhaU0dncFFqTENIMWZURmthZy1rUWVLY3VDVnVpcUxSc0E?oc=5
@@ -51,12 +54,9 @@
 - 【三井ホーム】建築士とともに考える！無料設計相談会！ - 朝日新聞
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1URlhHbGNuOTVGazgtRldwQmEtMk5yQVVGdi1Mck9DQmFzeVJpallJaG5BM2hrYmpXNGZfVHJTRUtOUVZDdWo4dDg2RjlmZXpTUUotUU0tWWtMMlFPclhTTjQ1M18?oc=5
 
-- ＜介護現場の“ニオイ”に関する実態調査＞お悩みは「3K（きつい・汚い・危険）」ではなく、「4K（くさい）」だった！介護者・被介護者いずれも過半数は“ニオイ”によってストレスを感じていることが判明！ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBLa3g2d2pGTG5RNENLWGFlME55cm5lMkVsYnBDTVhjZUtzTUF1MzFCdGI5TEJ4dHBKZVZFZ0x2VGJ1b3RfdGJScUExX2dFWFpvZlhpRzJELTR1R3RURkZVS0cwdUJZclNpZ2c?oc=5
+- 俳優としても人気の岩田剛典が〝悩み〟を告白、一瞬でせりふを覚えられる天才的な商品の誕生を願う（サンケイスポーツ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9rSHM4WjV3V29SdjlWRjlGdlg3TmFhWktSd1JOX2p2dFZxY1VQeEVtTElsVlV5VlA5cGN0TEprQzZrdmUxckFhRmlIYTdvbHROQkd0bi13eUZRWUc3OXhKRHRGeWl0aDFQUll4a0VLM2VXZC1VUHFWd1hOMFVtT1k?oc=5
 
 - 介護の悩み相談ダイヤル（テレビ北海道） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE92NnRPSFhMRTlJUVNhSmJmczhiS0hTZzhHZUhzWGlPWDB1RDF5U1RPR3ViZ1ZsZG5jaEJLUnJrSlJvZEtUS003NVRkR08xQjZpaWRGZUxVWjdvM0MteVVpeldOLWNDakU2WTVNWUZvcmZqYVdSWGctM1JEYkhTTlE?oc=5
-
-- 俳優としても人気の岩田剛典が〝悩み〟を告白、一瞬でせりふを覚えられる天才的な商品の誕生を願う（サンケイスポーツ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9rSHM4WjV3V29SdjlWRjlGdlg3TmFhWktSd1JOX2p2dFZxY1VQeEVtTElsVlV5VlA5cGN0TEprQzZrdmUxckFhRmlIYTdvbHROQkd0bi13eUZRWUc3OXhKRHRGeWl0aDFQUll4a0VLM2VXZC1VUHFWd1hOMFVtT1k?oc=5
 
