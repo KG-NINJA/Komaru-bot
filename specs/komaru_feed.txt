@@ -1,7 +1,10 @@
-=== こまる相談 ニュースフィード (2025-11-11 19:09) ===
+=== こまる相談 ニュースフィード (2025-11-11 20:13) ===
 
 - 救急電話相談について（令和7年度第2回インターネットアンケート調査結果） - pref.chiba.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTE52UEtDV0Z4U3Q3cF9HM3kzMXpOTEdIajhzc2ZZbWN1M2MyckU3S0ZnNmlfU0l0bVBtU0ZDMjZJTlVSLXc2eHpyN0xCVHRkenJBTmV2N28wU0pDNklYXzBPaFlDVVNTUFphYnAwQWx0RUU3bk0?oc=5
+
+- 肥後銀行、AIが顧客相談を入力 ふくおかFGなど専門部署で活用競う - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE8xb3FubXJOd1hsS3dhNmxqaFVGN2E4aHRaMFZ4VTV2V0lDZzA0ajBRX2dZMGQwTngyUlQ1TXg3TzJMVHVHeVNjZmlDaHNzaS0wcDNSeXc4Zk9lODhKQ0stS1lBNHhQNEJUT1BxSA?oc=5
 
 - ふるさとハローワーク(茅野市地域職業相談室)をご利用ください - city.chino.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMHhsTVR0ZWZMR2VJd3RyS0RNQmluSXVWelRhQlhMVUVaS0Z2VjgwRkRpNHRGaVlMbU5XcUhzS3FpQjhrUEZCTHE1VW82Q0RWc0c3T3J2UXFjMEpjTklKZlBJdw?oc=5
@@ -12,6 +15,9 @@
 - NEC、生成AIを活用したキャリア相談ツール「NEC AIキャリアトーク」の本格利用を開始 - AIsmiley
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qQkl0c0taWGlOV0tYYkJMS3ZnblBHbmd5SWhFQ3lkZ0d4anhSV0RLRUdyalk0RUJMZ0hTS0VQYWt6UFkzdjZTaTNIS3JHRU9DYjJKVUc0cE53NVdFWVVJ?oc=5
 
+- しずおか補聴器の補聴器相談会 （会場：用宗公民館） - at-s.com
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE04QVJfYmM0WHlzeFlTMlVZb1h2Y1diZFd2MXlMQ0gxTWxnRG1JakVJZldlWjBycHpTZmxtZjc5RlRHcEJoMzBXbHY1SzhYa2ZERzFaeQ?oc=5
+
 - 「先生辞めろ」保護者の苦情、離職原因にも 相談窓口設けた自治体は - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55R3lyT3htVE9hM0FPTmpDd3BQUUJha0gtaXRuQjJ2eS1adnNQVEZJci1OcEVFUmNtM1dXR0NURzBjanBzVFlpdW5oVzFRdUlNeDFhdDdDTk4xYVJ4MXZvNFNiVkR5VGc?oc=5
 
@@ -21,17 +27,14 @@
 - 「依存症に関する困りごと家族のための相談会」を開催します - city.minamiuonuma.niigata.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PazRJUnd4LVFEWHlwWE5ockZ1WjJ4cllIeUJLV3lNRVM1S0lUZXk5em95MktPWkp0VHduUGpXSEoxMF9TclhaU0dncFFqTENIMWZURmthZy1rUWVLY3VDVnVpcUxSc0E?oc=5
 
-- 肥後銀行、AIが顧客相談を入力 ふくおかFGなど専門部署で活用競う - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE8xb3FubXJOd1hsS3dhNmxqaFVGN2E4aHRaMFZ4VTV2V0lDZzA0ajBRX2dZMGQwTngyUlQ1TXg3TzJMVHVHeVNjZmlDaHNzaS0wcDNSeXc4Zk9lODhKQ0stS1lBNHhQNEJUT1BxSA?oc=5
-
 - 経営者の悩み事・困り事に寄り添い “学び” “相談“ ”決断“を支援するAIパートナー「ばんそうAI ver1.0」 2026年2月サービス開始 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9YbTFnMEJpT2RwajYyZnFqRXZPaFpmYUJMYy1PdGc4X05MRU5QR1lfVW9tMjh1aERrYkJzQ3hmeG5JNnZORFRJdW4tVHpmVDlhOU9QLWZQMTdNYkVvdTlnVjRPQXVwSWJLbmc?oc=5
 
-- 「プロスポーツハブ」相談件数の目標を設定 栃木県 次期スポーツ推進計画案に盛り込む - 下野新聞社
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE50eXNydmp4LVVzUmRmNHdJTk1YSGFKMnNZRXVqOTBpRElYbTJ2bVBldjQ0NVRVSTVmOG5fcmN3RXdTU2lSRXZ4ODdKNkswblpDbjBCMkcwbTQ1Wmc?oc=5
-
 - 外国人材の雇用 相談して 中標津町と商工会、初の無料窓口 手続き、費用など対応 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ3JVcnBJWDk5VnFIX3pTYlFCMnB0dXBlMU5TOTdtOFotNjVjVTVFbFVNcl8yaDN4MGdBZk1wQ2x4TFhQYTkwUHUzNUluY2lYRUZ2b08tT3ZHUQ?oc=5
+
+- 「プロスポーツハブ」相談件数の目標を設定 栃木県 次期スポーツ推進計画案に盛り込む - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE50eXNydmp4LVVzUmRmNHdJTk1YSGFKMnNZRXVqOTBpRElYbTJ2bVBldjQ0NVRVSTVmOG5fcmN3RXdTU2lSRXZ4ODdKNkswblpDbjBCMkcwbTQ1Wmc?oc=5
 
 - 20代正社員の3割以上がAIに「仕事やプライベートの悩み」を相談 「気遣い不要」「すぐ返事をくれる」などが理由に - AMP[アンプ]
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IUmFpbG5ndEFyZnlBTm9GZlE5UVhiNDAzMmlwNjYtbzFJV1A4RDZVV2NySWJkWElIRWpOaWJrVHJOaEMycm5qcy1Uc2NBcGtEQl9uVUJZaFY?oc=5
@@ -45,18 +48,15 @@
 - 【大変身】「顔がキツめだから柔らかく」様々なお悩みを持つ30代女性がショートにした結果…アフターに「ステキです」「かわいい」と反響（LIMO） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5tVmlTaVpqZm43b1ljRjhDb05FNFZUVml6Ti12MGhHOGVHMHlIYlFjTjdTTW95Q0c2ek5UZ0ppX2dpVmJGenc2NnpiejlNU1ZSMHV5QmY0VkhFVjlRS2FSQklNM0Z6ZU1jaGZmTE5Sb0FqYkJBWHFQRUN0OVBfQzg?oc=5
 
+- 令和7年度 子どもの心配ごと長岡市内の相談機関一覧 - city.nagaoka.niigata.jp
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE8tR1NLbmdrMHFTdG9BbzZGVlkzZm0zeFRFZDQzWnRFb2JYbFN5QVlCYlFvMEtTQ0pvOU1lSGo3eThwNGJfYVZSYkZPSUl4SFA1eFRCVzd1b2VCRm40c2hvVTNmN2hFbDhjTkhRMWpoWmNCQk9XbXM4T1FqRQ?oc=5
+
 - 驚き。20代社員の3割、AIに悩み相談「気を遣わなくていい」 - ASCII.jp
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE10djl4aXhzN0diQkt2R3hpQWo4blBGRVI5Z3JGazhRTnZVOThRQTJiYkRyY0tDY3djbDV4SXo5bjZxZzZiMDBIUXgzNDE0dGFYaC1zNw?oc=5
 
-- 鹿児島市が新設する児童相談所はプライバシー保護に重点 入り口は来客と一時保護関係者の動線分ける 2028年開所へ施設概要発表 - 南日本新聞
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FNENRZUpZUlZsUFdEYlgzdkxWS2hXb2dfNTF5SkVKbDhYZWd6UlY1M21WT1VMcnVyZU1FRE5kSnRnbjRBa1hwSW9VRW1JLWlaZ3lzX3o3RUs?oc=5
-
-- ストーカー対策、「紛失防止タグ」悪用を規制対象に…被害相談急増で規制法改正案を閣議決定 - 読売新聞オンライン
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aSWlCWXR0N3N3YTc5Y1Q3QlRKRlZyT242ZG5JWmI4clliQldVZ25MVjdYZHVNUmkzaFpIUUhXWkFpVi0xZjIyNndNWmRQN29EX3NtWXdvQlZMbmpEX2FFUVJMU3pzdw?oc=5
-
-- 【読者8名様にプレゼント】「4つの肌悩みに合わせて選べる、植物由来エクソソーム*¹(保湿)配合二層式美容液」オーガニックアース ツートンカラーエッセンス - 湘南人
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yak4zUjNEZ3FpTGlES2RzLWhtUGYtWGtzWjNiOTVmTnV3UW5SaHlING5LYTh1NTU5YUJWaF91MVFKakFHUEVYWXVieWRpcTd6OWR4SVZSNjZVUTExNlFhVw?oc=5
-
 - 【オンライン同時開催】静岡駅・大宮駅（埼玉）にて参加費無料の「相続・不動産なんでも相談会」を11月29日(土)・30日(日)に開催 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1zU1dIdXB3SE42bkdZS0F1TUM0LWVhb1VQeE51MHVDN2R3cE5WVmRWcTdTZVM2TlFpcTdGTmpxcTAzem9NS2QxSnN1SmNwekRmYlJuUGRtNk1DLUlGUGZMOGU4WUtZNWRjMXc?oc=5
+
+- 中年女性の頭皮の分け目、悩みを助長させる行動が明らかに 「頭皮の紫外線対策をしていない」８割 - ウーマンズラボ
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE00eEU4TWxPbzVhU0VoSWNDLWdjcjl0MmZHd25RdTBxeVBkQUs0WWVvT0RKRmlPZHBqdS0xUFREMnZuNzV2d0VEZ2RsREctRW83cDBOXzdSWF9tVmJ2cndr?oc=5
 
