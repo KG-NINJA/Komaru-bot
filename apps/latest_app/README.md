@@ -1,12 +1,14 @@
-I’ve successfully created the minimal standalone HTML/JS app to address the most recent issue regarding family consultations on addiction. 
+I've created a minimal standalone HTML/JS app to address the recent end-of-year concerns. Here are the details:
 
-### Summary of Outputs
-- **HTML App** saved at: `apps/latest_app/index.html`
-- **README** saved at: `apps/latest_app/README.md`
+### App Output
+- **HTML File**: `apps/latest_app/index.html`
+- **README File**: `apps/latest_app/README.md`
 
-### Highlights of the App
-- Designed with a calm color palette.
-- All logic is client-side with no external JS.
-- Includes relevant Japanese text and a signature at the bottom.
+### Description
+- **Purpose**: The app allows users to input their end-of-year worries and add them to a list.
+- **Design**: It features a calm blue color scheme.
+- **Client-Side Logic**: All functionality is handled client-side without external JavaScript.
+- **Japanese Text**: The application and instructions are in natural Japanese.
+- **Signature**: It includes the footer with "#KGNINJA AutoApp".
 
-You can find your files in the specified directory. If you need any adjustments or further assistance, let me know!
+If you need further modifications or tests, just let me know!
