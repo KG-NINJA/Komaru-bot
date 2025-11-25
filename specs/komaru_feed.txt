@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-11-25 21:11) ===
+=== こまる相談 ニュースフィード (2025-11-25 22:11) ===
 
 - くらしの情報（2026年1月の無料相談日程） - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RN3FnOFR0UjE4S09GMTVwYzFDbWhDbF83VEc0dENOa1BUc1pRZjFENEtFRVZ6ZTQ2T1MxT3F1VTBjR1hSTWI0cGZlMTFCRHZ4R2FTR05BcTd5UXV3b05wN3pEMEZiNzBC?oc=5
@@ -9,7 +9,7 @@
 - 悩み事をＡＩに相談する人が増加、カウンセリングを仕事にしてきた精神科医、ＡＩのいい点と注意するところは？ - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMibkFVX3lxTE5kejRXVTU0WVhELTByeXlaWlZ4YUNmTWR1TUZYT05lcFBrZUJKWi0xdVJQNnhNamRfVXB4RXgwb2NuTGQ0bzJFOFEzUlZPSHFWRHlFZEdtX0o4ZWgtV1lybUozZHNMOWp5RDlYa2dB?oc=5
 
-- 「大阪・関西海外ビジネス支援 大相談会2025」を12月2日に開催：大阪国際ビジネス支援コンソーシアム - J-Net21[中小企業ビジネス支援サイト]
+- 「大阪・関西海外ビジネス支援 大相談会2025」を12月2日に開催：大阪国際ビジネス支援コンソーシアム - 独立行政法人 中小企業基盤整備機構
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE5obUtJRVU2OHo5SnJGeDdoY0VXa1llNDdNYi1KMmt0VlZKTTdFLVZEY19NMFk1a3pSUFpzOUw0SzhKcnZsdGtnNk55Y2k1bHl1ZXFTWVJPVm8tY2gyNE5LQ1MwZw?oc=5
 
 - もし、虐待を受けている子どもがいたら…児童相談所と警察が合同で「立入調査」想定訓練「最近では虐待に係る相談が多くなってきている」（BSS山陰放送） - Yahoo!ニュース
@@ -18,23 +18,20 @@
 - 子どもの相談相手はAI先生 兵庫県三田市が対話型アプリを試行 [兵庫県] [AIの時代] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52MlFyWk9KX0pyMlljeVdFcGRVX2lwRlpUYzlEZTM1NHRPOThCd3BvUWdZNnFfbGFkeUFsRVV0N0xrenpjcW43THJoRE5ZR0Vsd2Q4QzdTY1dVVVdxRHNycUNPMkY2THc?oc=5
 
-- ひろしまチャイルドライン、子どもの悩みに寄り添い25年　SNSトラブルの相談も - 中国新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZV3dQdGhhZUR1U2lMbXdvSkdsZ0FROVZuUGhMb2ZwLWc4U1R0bVhENk4wUEVTOTNSX3ZzeG1QRTEtdHRxUjJXMXhueXVfTHQtajdXU09OdnAyd9IBXEFVX3lxTE9zMnBWZVpTOUUtSFdqcXJFVmxZeUZaUDVfOXlFQmYzd2xNWmEzQXg5eUlHeEo2aURPUjZGX2hnMXI1a0JzNTVOM2s0a0o0QTJpb0gxZUhwazFxb3pQ?oc=5
+- １１月２６日（水）のヒルナンデス！は･･･純烈のスーパー銭湯徹底調査＆ご家庭の冷蔵庫のお悩みプロが解決 - 日本テレビ
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9WWHpJS0t1UnlMbmlfUVV3eVpuelJIVGZMN3IwOFVhRmZKLUFOWTN3bERwSlVUTTBhZmliZzZ0T2R0aWJwSHh0V3NQYVVISXpKVGRyVXVvbTdXTXNRNzhPVVA5M3g4ZmcwaGhmbXFuZFZKdw?oc=5
 
 - 【市川市】児童相談所への不安や不満を“見える化”できるか 12月10日・石崎ひでゆき市議の一般質問 - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EbEpzQmdxQzZEWkJ1TUVvQjNkMHdGVUdmdkpjdEswbTV0c2hnSG44QUdaTjdERXg0Nm5FeUkzN2ZIcjkxdHZmNjVTaFJVTnUyblgtTXN4OVMzZDZKWVVJ?oc=5
 
-- 医師によるもの忘れ相談会 - city.osaka-izumi.lg.jp
-  https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUw2eG4wdFR3a1YxbjRqeHc0bjlIUThySGhCcC1xbUJ1dzY4Skp0NWtjQ3lnTEJHc3g1TlBXOF8tMy13RmFjRWRjV1lLMVdGeGxIdXV1SFVFajE3OU9UcUxab0R0cHM2ZUU0QXgzLWpQS3FTSVFaVzdMMkNBYVA1bEpsN2JMTDZSdjRVRWZzbi13T2tBckh6NGpsNlk1THpoTVlPcjQ5Y0VmT19Wd0dQVUJCY3E?oc=5
+- ひろしまチャイルドライン、子どもの悩みに寄り添い25年　SNSトラブルの相談も - 中国新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZV3dQdGhhZUR1U2lMbXdvSkdsZ0FROVZuUGhMb2ZwLWc4U1R0bVhENk4wUEVTOTNSX3ZzeG1QRTEtdHRxUjJXMXhueXVfTHQtajdXU09OdnAyd9IBXEFVX3lxTE9zMnBWZVpTOUUtSFdqcXJFVmxZeUZaUDVfOXlFQmYzd2xNWmEzQXg5eUlHeEo2aURPUjZGX2hnMXI1a0JzNTVOM2s0a0o0QTJpb0gxZUhwazFxb3pQ?oc=5
 
 - 遺言、相続テーマに講演・相談会 ３０日 県立図書館 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tTzRTYkw4eElESzNmX21hSDQ5eXpSTVI5MmRCT2xnTXgzLXA0RzhTSTBDTEVzaXFDUmc1WkU2VDU0bUVRNk9RazlqNA?oc=5
 
-- 肌悩みに寄り添う『フレイオイル』から冬季限定のフレグランス！ジャスミン・ホワイトアンバー・ムスクが織りなす甘い香り「RED EDITION（レッドエディション）」が今年も登場 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1KcnlmMXFzX1gwSFloT2hMMG55Q3h0VnJOU01MT3gzSVdZQVkxNkY2b2JhbmlLVUhDclVXbWVUZWd5ZTJZSC1xejhhM0RLa2R2eHZ5YzZLRUpGOWFSSENWWkhibVo2QnMxX1E?oc=5
-
-- １１月２６日（水）のヒルナンデス！は･･･純烈のスーパー銭湯徹底調査＆ご家庭の冷蔵庫のお悩みプロが解決 - 日本テレビ
-  https://news.google.com/rss/articles/CBMickFVX3lxTE9WWHpJS0t1UnlMbmlfUVV3eVpuelJIVGZMN3IwOFVhRmZKLUFOWTN3bERwSlVUTTBhZmliZzZ0T2R0aWJwSHh0V3NQYVVISXpKVGRyVXVvbTdXTXNRNzhPVVA5M3g4ZmcwaGhmbXFuZFZKdw?oc=5
+- 【2025年12月20日】結婚相談所開業・副業を検討の方向けオンラインセミナー【行列ができる!モテ相談所の作り方】 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9PUmR3Y3hRT3MzSlB5bWpLNVBETnlVaUJ5SU01Zld1bVFfRWhyUDlLUmdOLUNCdFhQWDJoUEFsSEFlLU03UDNPZ0VFdnBHbE02YVFlOUV6Si16bDRPWVZQR2lHdnB6a0tISEE?oc=5
 
 - 赤ちゃん気にせずゆっくり昼食 悩み語り合い休息 北見で催し - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKWnBIbGZ1Skx3eU1ZTjV2elNfSldvVUhxeWVmUEFZTTBtNGtmRXZsb0hzRnhWRzFqUTF2aWxQMFFDUEdUTUZLdVI0RnJuRkp1aVQ2UnhZaW5IZw?oc=5
@@ -42,21 +39,24 @@
 - 被害相談は県内で2000件超。サイバー犯罪を官民連携で防げ――鹿児島県警が「県情報セキュリティ協議会」と協定 - 南日本新聞
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmY0NuVE83VFpfYXUyUVE0OERpRDRLY1dRd0YzQU11WlQwVllFMmw5SnJ3eUpjRU9ZTTE4c09CT1BiVVh5dHU4Vl9nWlRGVHNtSFE3eFNsUTc?oc=5
 
-- [産学連携]青山商事株式会社×神戸松蔭大学 就活生の服装の悩みを可視化するプロジェクト「コーディネート企画実習」レポート - shoin.ac.jp
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RcVVHYmgydF9WR1FMRlp4MmR1SkZabDAxVHRJZlF5d04xZHNvZWlPME50cENmcXdPS21mSTNZcTlFcUdrSGpvV250VUJhZFlLc3EybnRyX0dnN2tx?oc=5
-
 - 大分みらい信金、大分県弁護士会と連携 法律相談を迅速化 - nikkinonline.com
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtOWJpOHlUWGJrOHI1R0xVV2pIVng2Wmk1OG8zTllRYXc0Y3Mza0stZWxoVkx5OWxiaVZNVkpWUVloVFZhWWxGc0NhWjFKQ3BwcV9VSm1n?oc=5
+
+- 「最近、愛車の小キズが増えてきたなぁ」とお悩みの方におすすめ！ 簡単にできる、キズ取り法はこれで決まり - carview!
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVdrMVNvM0k4dGNwSjRtaE1pRkNWc2NQaktGMUpDRXJhMmhfTmI4OEZ1d0RJWkYzMU1kQzVYMEFsNm5ENlZWLTNMLTNpdE1OVl9TV05aLXJwdC1PUWcyQXpnY0xhSXJQUjA4YVBQZmVzYy1lLXZFNTVyUFhLTjNmaTNFempIVEhi?oc=5
+
+- 8歳の女の子の体を触るわいせつな行為の疑い 会社員の男を逮捕 親族から警察への相談で逮捕に至る - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQVF9sUm8tUGtLYllUazViNVJyUEU2WUxfUktvZ0U3WENaaTVpcHlKS0FzZ3BXMFpCeVI0MzFvQk0tRG92N0ZPdmV0Q2d5TjJvMTFPcGZqLWFZblZEUFNuNDNkWEZQcnI3czhEWDNCOEpvUE5hM0plZDBRaDZiemI0Tk5NYnNjLW8?oc=5
+
+- 肌悩みに寄り添う『フレイオイル』から冬季限定のフレグランス！ジャスミン・ホワイトアンバー・ムスクが織りなす甘い香り「RED EDITION（レッドエディション）」が今年も登場 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1KcnlmMXFzX1gwSFloT2hMMG55Q3h0VnJOU01MT3gzSVdZQVkxNkY2b2JhbmlLVUhDclVXbWVUZWd5ZTJZSC1xejhhM0RLa2R2eHZ5YzZLRUpGOWFSSENWWkhibVo2QnMxX1E?oc=5
 
 - 別室登校でも行かせるべき？4000組の不登校親子を見てきた相談員が示す親の判断軸（FRaU） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSTRaVmRnbnU5VENTSzhoUm9RekVIRnF5QWs2TW1zRlF3M0JQS0NVX1N6a05iSGFNX0JWeWtxSEN3VlFaMlBpWXg0aEhLV1NxN3hHckJ2SG9rdlA3VzU5YkM1VE5pLWI4VWFFOHBmaFJLazNBZ3pEc0RHT0pfeVU?oc=5
 
-- 【2025年12月20日】結婚相談所開業・副業を検討の方向けオンラインセミナー【行列ができる!モテ相談所の作り方】 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9PUmR3Y3hRT3MzSlB5bWpLNVBETnlVaUJ5SU01Zld1bVFfRWhyUDlLUmdOLUNCdFhQWDJoUEFsSEFlLU03UDNPZ0VFdnBHbE02YVFlOUV6Si16bDRPWVZQR2lHdnB6a0tISEE?oc=5
-
 - 県内プロスポーツチームと企業が面談 とちぎプロスポーツハブ相談会開催（とちぎテレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE03dnBHX3JJTmc5b0RwS01nTjh4LXZjNWs4OUZLcXFPTlZFcldMVmVWbjQ4SmNBb201VDY4UXBuYXRhVWRMdFRxbTd2amtzWmQ5ZmJuTUY5TjI0UnNQY01wQjFjTllxU1AwemU3TG5POW9ob3FNUkNBeUVvME9FMWc?oc=5
 
-- 転職活動したい！ でも対策が間に合わない…！ そんな悩みに「SPI対策」を１日30分×７日で制す 『7日でできる！ 転職者用SPI３必勝トレーニング』 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBGWW4wdjZIcU9DX1hMaGMxSzA3d01GcEtHdTFyZjYzNWJYcTlobXppTEFrdGVPN19JY1ktRHo4RmR5by1oc0VFaHp1OTZWOGhjMHhWZk9hZGt3MWtkQ1VXV045OGdST2Q0YlE?oc=5
+- テレビを手放してみてわかった！「地上波を見られない」以外で困った意外なこと3つ（シンプリストうた） - エキスパート - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRF92bi1xUDFZRUxJTktEMFVQdGRncDg0LXQtSjBLeEJSNm9MZzNTZ0IyTzZOODNwcmtIYkFEMFROTFdNSkZzdExTSXAxRWFJakdMSk8tbmlpTUZoUTBRLWEwaC1nNkxmaDVoeTRyNjl2TTk2MkZKVXJpRlNWX25mdU1sUW9fTFdM?oc=5
 
