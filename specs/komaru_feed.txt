@@ -1,10 +1,10 @@
-=== こまる相談 ニュースフィード (2025-11-26 19:09) ===
-
-- 【ご案内】弁護士による無料法律相談のネット申込を開始します - city.maizuru.kyoto.jp
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NSGpWOTZjcmhwZVhncFFRNUxKc2VwQXg0VGN6QjUzZDJka25MeEx4cnBQSHBZZnVDaUh5V2dEV1RSaXRGN3VPaEZVQ0tLYzVCQVBvV1ctbFVDM3VfYVBUVjVQT05DUDVk?oc=5
+=== こまる相談 ニュースフィード (2025-11-26 20:13) ===
 
 - マンションのEV用充電設備設置無料個別相談会|11月 - metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBwYlNjd3hrdFM0MDY3ZDNMdGtaZFI0V01TVS1MU0VrZ3Rzd2czSlJGRUVFMVcwSmJIUEhaTmRuX2NrOHJNTmtkTFR0SC1ocnZ6eXEzcWI3aC1vTURDejFVVmRWQ3pxSTJ2d1Bkc3RsVVpDbE80?oc=5
+
+- 【ご案内】弁護士による無料法律相談のネット申込を開始します - city.maizuru.kyoto.jp
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NSGpWOTZjcmhwZVhncFFRNUxKc2VwQXg0VGN6QjUzZDJka25MeEx4cnBQSHBZZnVDaUh5V2dEV1RSaXRGN3VPaEZVQ0tLYzVCQVBvV1ctbFVDM3VfYVBUVjVQT05DUDVk?oc=5
 
 - いじめなどの問題に早期対応 相談のハードル下げるには？ - 教育新聞
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IbGE5V0pvUkpVTkEtbEgzS3RLeDZ1X29WazJuM3l1eDRBMkhGMF9XWTVnTF9XLXJfa0VkZ1hJRlJsbzNnY2JwWnI0MTJHaWhlUEprZzhB?oc=5
@@ -12,23 +12,23 @@
 - 子育て期の女性に向け ひきこもり電話相談開始 | 中区・西区・南区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ET3E0YXZzYU9PMTFrZC1ubmcybWZaSUE1VkY3dnI4RmxiQVdVREVnNG9KOWNnYUhfTUpQNzhhRnlSal9fZGdtR2YzV20yX2JZMkdXaXpjdHZhVnNBNDByTTNJU2M?oc=5
 
-- ChatGPTを悩み相談や雑談に活用する人は３割を超え、年代が若いほどその傾向が強い～ChatGPTに関するアンケート調査～ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFB0TE15aTNZNk1rdzNYM1dGeGMwLWppQ1MxTDIzWTlMTXV1eUJVZkdEUDdjU3NiUnFQU2haeUFxMlM2Ny1DVEpBN1VudGJLdFAwZl9GYzFieGZVUmVveDF4OXloZmQ3Vlh1OEE?oc=5
-
 - 瀬戸内海でのカキの大量死を受け相談窓口を設置 日本政策金融公庫（KSB瀬戸内海放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVDBmdUF2SE1GUHF4TDd0aG5BTDl3X1VXV3RJNlJtdWdVWkpXQWFoVER1RFRBNmNmeHh5SmNKblBIWElCelQ5TWtmTFJlQktfU2ZaOHJfdk0wQlNJUER3VC1jM0RJVFNnZlh6czJsQ2ZJTEF6UnRud0pHOHltclE?oc=5
 
-- 目の不自由な人の相談のります 30日函館で催し 盲導犬との歩行体験も - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KSzlTVWRZbEg2N3J4Ym5RcVN6WF9iM3dERXRSbGF5Q0lHSElibHVwLVlsZFRDX1lBb1VIa04zbF9oMTh6UXQ5MUxnajlYNlJ0MUdFcGEyN2ZRQQ?oc=5
+- ChatGPTを悩み相談や雑談に活用する人は３割を超え、年代が若いほどその傾向が強い～ChatGPTに関するアンケート調査～ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFB0TE15aTNZNk1rdzNYM1dGeGMwLWppQ1MxTDIzWTlMTXV1eUJVZkdEUDdjU3NiUnFQU2haeUFxMlM2Ny1DVEpBN1VudGJLdFAwZl9GYzFieGZVUmVveDF4OXloZmQ3Vlh1OEE?oc=5
+
+- 北九州市、介護相談拠点に機器800点 作業療法士ら常駐で普及促進 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9tQkc5MzQtODNYOWY3VWhNN01vUE5LbGJwV1p5Nl9lMXlfbGIwbUFydm00Z3pEYUdHd1hkdGt6dW04a2VScG4yTkRMdEJadHp5dWhMMWxULVdEajlKMHhtbE4tdWNTY2s2OGcxcA?oc=5
+
+- きらぼし銀行が相談特化型店舗「きらぼしラウンジ北砂」を開設 - サンスポ
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE02clQxc0Jpd0V1TUtKUHl3cnZSN21MbUI2eER3ZE91MW9rQURZQ1lVOXNMT1JXQW1TMGFRYmI4S0VRcGJtM09UYThRa0wyVTlWSERra3o1b1QyTDIyeERILWlnOW1oazRoWllnZGxRR2hra3o1QmfSAYoBQVVfeXFMTTBab0JiZllMM0ZVY2w5bjdRUmlIaS05cnRUaThXbmZVaGUwNlBCSlozcWhNME0yWmtRVWM1alBRUW9hc3VybWVnMDdWazgyS3BiLVVqX3g4VDh1SUlSU3UzOGxrVFZBbkRyRmNMQlpack9ITFVaM25UaEg5X0FSQmNlY3FzQU95blRn?oc=5
+
+- 鳥取：漁業救済へ 総合相談窓口：地域ニュース - 読売新聞オンライン
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE5iaWtrdVk1UDN6b0otVTFIM25iandwd2lBUWp3dEtPQmVralRxcnhJYW82R2k3eXAzcXFXdHNld1lOSzNxZDBnMlhhdEtpYTM3aHRJT3N1X3J5Yi1qRmt2R2Z4NEt5ak5pVktfelRjdlJJbk0?oc=5
 
 - あなたは大丈夫？ChatGPTにメンタルの相談をすることのリスク - @DIME アットダイム
   https://news.google.com/rss/articles/CBMiREFVX3lxTE9tODh1WEpDcG5TZGxmMTVQY2pXX1VnS2taSHlFN3lYam9GWC1HMG85cHpCSGc5YXY1emI1OHJfcm5McnNS?oc=5
-
-- 「時期と時間相談ほしい」 米軍巡視で那覇市長 - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HdmFHTUhEZjU1ZEo5WWg4bEEwVGlwRnllSzcyYjBrNXRpc01MNmlfdXdyLWd1SHh2d29lOS10Z0ZSa2lOcmFJRU5ITWxlbVp0anpIckhIMDltSVppRFE?oc=5
-
-- 1月31日「いいだ若者サポートステーション」保護者相談会のお知らせ - town.matsukawa.lg.jp
-  https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFFkU2dYSFZoT2VaU0s3cGNVT2hqS0lQZElrNml2TWt0TENtMmJOdmZ5Y3JlX3ZVNy1RU3g3Wm9QS3lFTVEzSkJyejlla3UxekZSMWxNLXJVbXc0M2dSQzdpS0ZnRmp2QWs2QmM1UFNNcWc2bVI0R2xlTUNsMnZ4eEZsZEtoLXJpNkFDQUV5UVROdTdrS3dnbjAxVThwaTJqZlpMWC1ndw?oc=5
 
 - 横浜市 男性専用の電話窓口新設 背景に相談件数年々増 | 緑区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTDRiQTZpUTUzOHhldEhVRzFLWUtIZnE1VjRDUHIxdXQyVjJHQ1V6MkVySld1OEFsQ0hRRC1PUE5sWUF4R2YxMHoyeFE3N3dHcUdQUTFuTHc1UndWZUx4Rkc2MkQ?oc=5
@@ -39,11 +39,8 @@
 - 家庭内の児童虐待を想定 児童相談所と警察が合同訓練【岩手・盛岡市】（IAT岩手朝日テレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA4dmlBTEdmblFVeGxkamV2bmhtbzZaRnJ1TEZpOVllMUZOZEs1bUxnMWxlVEtQRkxpY0pMOVl5OGE3cGUzbUIzOTFyVG9SWkIzX2dZN2VKVmJxMWxHWDdFa0IyQXNWbGFHak9RYU9seHl4dUFUMENxSXMtOVZibTg?oc=5
 
-- 大谷翔平「ずっと出たいなと思っていました」ＷＢＣへ熱い思い 二刀流出場は球団と相談も否定せず「何通りかプラン持って」 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVlJYMnBReXpBZ0ZPbmxDNm9vVFZCVEZWWXAyWVIxWm1oekRTUTNpbDY1OW50N1VvM01wRk1XSllTR0dacUZyZ1NBU3NKNENxREZhQVJFbTc3U2hhQUpFeUZHQWkzc2JtUFQ5VGpnMEd2TFctTzhmd2FFaWI2VG8?oc=5
-
-- ｢入れ歯を活用した技術も｣ インプラント 無料相談実施 | 青葉区 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iQkcwSWhkZ0pGUVpPNHNqcklVdFBocEtXWDd3S2EtUEQxenNQRnloLWluMmM2T0lmM0NYTnR6Z05nRjMzeE5vLXlwQ2tmbUJaaXZyZkpRN2FFUk9BMDJscFhISk4?oc=5
+- 司法書士による無料個別相談会 12月14日 相続・不動産の問題を解決 | 旭区・瀬谷区 - タウンニュース
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TQTJZbVUxcFlkdGgxVlZYdUszUFc1UUlLSzNaMVlfd0I2U0dXRmVPYXBwU1M5YjdGSVBScHVfbUJtT0I1cWQxTG5ITVhnM2lkZFhCZlkxQklHdVdvS3lPb2NKc0Y?oc=5
 
 - バービー、育児中の相談相手はChatGPT「24時間どんな時でも相談乗ってくれた」（ENCOUNT） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1zYV9vLTFncU9BbFRaNk9GNmZPWkQyVEV1UTdxRmpFV3lxS2k2MGw0V2xKUm9xbUpJYmdTZFpVcnJyU0VMMW43UXJSei1NQ2RHR2pjRnAxdDg4QUpnMl9ka09SVnpSc01UNFgwLXFnQ1JZYjVlcW1YUEhNSUQzT0k?oc=5
@@ -51,11 +48,14 @@
 - 予約不要 聞きます、年金･労働悩み 12月７日 センター南駅 | 港北区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qeF85a0gta3piUExQcFZYb1pGSVNIdUhqWGpUZEdWWERIVU04Q0VUUEFvQ0NwUWJnMFBIbXdZc1lkMGFpVDd4Y3Rla1d3Sm1kdTNidTdWanh1c19vbERQYk95enU?oc=5
 
+- 大谷翔平「ずっと出たいなと思っていました」ＷＢＣへ熱い思い 二刀流出場は球団と相談も否定せず「何通りかプラン持って」 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVlJYMnBReXpBZ0ZPbmxDNm9vVFZCVEZWWXAyWVIxWm1oekRTUTNpbDY1OW50N1VvM01wRk1XSllTR0dacUZyZ1NBU3NKNENxREZhQVJFbTc3U2hhQUpFeUZHQWkzc2JtUFQ5VGpnMEd2TFctTzhmd2FFaWI2VG8?oc=5
+
+- ｢入れ歯を活用した技術も｣ インプラント 無料相談実施 | 青葉区 - タウンニュース
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iQkcwSWhkZ0pGUVpPNHNqcklVdFBocEtXWDd3S2EtUEQxenNQRnloLWluMmM2T0lmM0NYTnR6Z05nRjMzeE5vLXlwQ2tmbUJaaXZyZkpRN2FFUk9BMDJscFhISk4?oc=5
+
 - イトックス税理士・行政書士事務所 税金、相続の無料相談会 12月６日・７日 事前予約制 | 港南区・栄区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wXzNJUGhxZkxJN0VDcmMxODNGTWJnRTVEbjYyWVRqX0VkLW9VeTROSUo5YXk4aXAyQmVkenhvVElVSklqeVVRS3lpcTdDQ3FIT2JsZWtKREVMWnh1ZnBOejVKang?oc=5
-
-- 司法書士による無料個別相談会 12月14日 相続・不動産の問題を解決 | 旭区・瀬谷区 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TQTJZbVUxcFlkdGgxVlZYdUszUFc1UUlLSzNaMVlfd0I2U0dXRmVPYXBwU1M5YjdGSVBScHVfbUJtT0I1cWQxTG5ITVhnM2lkZFhCZlkxQklHdVdvS3lPb2NKc0Y?oc=5
 
 - ｢入れ歯を活用したインプラント｣ 無料相談実施 | 港北区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mVjU5ZEp2V0hOT2tlOFFJU0ZWNUZxaGlBOHpqb2ZMMkdsWG1fcWJDSXhuVGEzblo4SWJWZ2lobUl4eFVTeUZIaHBwRm9rSXl3bnd5UXd4VjFUWTNweFEycFVHeWI?oc=5
