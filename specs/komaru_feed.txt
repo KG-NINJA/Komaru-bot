@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-11-27 02:26) ===
+=== こまる相談 ニュースフィード (2025-11-27 03:40) ===
 
 - 不登校の子、将来の差は親で決まる？4000組の親子を見てきた相談員が伝える現実（FRaU） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE8wbTExOXJDQkhrUHgwai1hS0V3aW5ZbVQ5aXdBNjFEWkFmMUtzMG5YNnJnbkVhQ0VKeFBkWEYzZmRGeWRpRFJSR29lLXdJbGNJbjNaWlk4M3RvdDNmUWw0ZklCeWRjRUl0bGg1WmZkMkNuUm9hV1p2WUhDR0xOcE0?oc=5
@@ -12,9 +12,6 @@
 - 鳥取：漁業救済へ 総合相談窓口：地域ニュース - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMic0FVX3lxTE5iaWtrdVk1UDN6b0otVTFIM25iandwd2lBUWp3dEtPQmVralRxcnhJYW82R2k3eXAzcXFXdHNld1lOSzNxZDBnMlhhdEtpYTM3aHRJT3N1X3J5Yi1qRmt2R2Z4NEt5ak5pVktfelRjdlJJbk0?oc=5
 
-- プレスリリース：武蔵野市、市民相談窓口にオンライン相談システム「ROOMS」を導入（PR TIMES） - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYRHVQLTFHaEVFc2xMSXc0V1BfcmZvMHQxSXlWNEJJOEsxMHlWZ0R0R1ZqcUR0M3JyMU55SXBWTDNXM2tDS0RNTUlERkJHTmN2X2FYVmFWZ1NUWVVHU25WVjVRS0RoLV9J?oc=5
-
 - 【ご案内】弁護士による無料法律相談のネット申込を開始します - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NSGpWOTZjcmhwZVhncFFRNUxKc2VwQXg0VGN6QjUzZDJka25MeEx4cnBQSHBZZnVDaUh5V2dEV1RSaXRGN3VPaEZVQ0tLYzVCQVBvV1ctbFVDM3VfYVBUVjVQT05DUDVk?oc=5
 
@@ -24,8 +21,14 @@
 - いじめなどの問題に早期対応 相談のハードル下げるには？ - 教育新聞
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IbGE5V0pvUkpVTkEtbEgzS3RLeDZ1X29WazJuM3l1eDRBMkhGMF9XWTVnTF9XLXJfa0VkZ1hJRlJsbzNnY2JwWnI0MTJHaWhlUEprZzhB?oc=5
 
+- 武蔵野市、市民相談窓口にオンライン相談システム「ROOMS」を導入 - ASCII.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlaHV5V3JmUUh1Q0RkajNJcWE4NFNZLVhzQ1JFRlhkdm5QcUkxQkJVWFhyTjZUSTJjRHc2VnFFbF9ycEJxdTFVaW1sQjV0WnhSYm91Uw?oc=5
+
 - 奈良県が暮らし相談を集約へ 女性センター、消費生活センター、外国人支援センター、スマイルセンターを1カ所に 2026年4月オープン予定 - 奈良新聞
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4MlFhazdNaVVDZWpudnVRQ2xyVHZxSjFHdEpjWGVXa3k5UmRtRVN3YUd5QWQxa2dZT3ZSRlNiLWF4TUk5UzNCYTNEc25obTlRc0VOcTQzQnE4dFdoZ3g4?oc=5
+
+- 失語症による日常の「困った」のサポートを 「意思疎通支援者」派遣・養成で自治体に温度差 - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uYnpiRTFJNnZ0bk9pXzhZc2dWTVEzZkQ1RjBNekZHZ0hadDlQYzdBaWQ5WEhxZC1UcXZrejUwQjVxbkVCcjI1cXlrc3BjRzNubWVrUA?oc=5
 
 - 子育て期の女性に向け ひきこもり電話相談開始 | 中区・西区・南区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ET3E0YXZzYU9PMTFrZC1ubmcybWZaSUE1VkY3dnI4RmxiQVdVREVnNG9KOWNnYUhfTUpQNzhhRnlSal9fZGdtR2YzV20yX2JZMkdXaXpjdHZhVnNBNDByTTNJU2M?oc=5
@@ -36,8 +39,8 @@
 - 日本郵政が中山間地域と離島で健康相談窓口の実証実験を開始する意義 - ニュースメディアVOIX
   https://news.google.com/rss/articles/CBMieEFVX3lxTE9wV0xZU0JvcDJUVWxtRkQyM2hnalRFSkdnV0pUU28zYmQ5eGZONm00ZW9EeXBUUmVXNFBDUS1yT04yVmxnUE1aa2YxV3d4azhSLUpTRXpvWDVzSlJfYUMxUjFpVHhvcGZmeEIxNnp0N3dfNE11VUdOTw?oc=5
 
-- 北九州市、介護相談拠点に機器800点 作業療法士ら常駐で普及促進 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9tQkc5MzQtODNYOWY3VWhNN01vUE5LbGJwV1p5Nl9lMXlfbGIwbUFydm00Z3pEYUdHd1hkdGt6dW04a2VScG4yTkRMdEJadHp5dWhMMWxULVdEajlKMHhtbE4tdWNTY2s2OGcxcA?oc=5
+- 過労うつで休職…相談して一歩踏み出せた 元ドライバーが振り返る9年間、再発防止訴え労災訴訟も - 神戸新聞
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE1JNFhFVE02WkFYNEdjRm9IbHg1aDB5MldmTnNJYUVQTng3U1MweWFjbmpsZEFLcWk0eHFoT0tZUEJxUUNoMTdIajJoOUVYb2d3c3VKRkdmTFNPb0U3SUlKYTJBOXdvSjgwT2RhX0FB?oc=5
 
 - きらぼし銀行が相談特化型店舗「きらぼしラウンジ北砂」を開設 - サンスポ
   https://news.google.com/rss/articles/CBMidkFVX3lxTE02clQxc0Jpd0V1TUtKUHl3cnZSN21MbUI2eER3ZE91MW9rQURZQ1lVOXNMT1JXQW1TMGFRYmI4S0VRcGJtM09UYThRa0wyVTlWSERra3o1b1QyTDIyeERILWlnOW1oazRoWllnZGxRR2hra3o1QmfSAYoBQVVfeXFMTTBab0JiZllMM0ZVY2w5bjdRUmlIaS05cnRUaThXbmZVaGUwNlBCSlozcWhNME0yWmtRVWM1alBRUW9hc3VybWVnMDdWazgyS3BiLVVqX3g4VDh1SUlSU3UzOGxrVFZBbkRyRmNMQlpack9ITFVaM25UaEg5X0FSQmNlY3FzQU95blRn?oc=5
@@ -45,18 +48,15 @@
 - 滋賀県の児童相談所や鑑別所に本の「差し入れ」 司書が選書「よく読むようになった子もいる」 - 京都新聞デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZM1NRanFyNk4yOGpoc3dnNWlGSlI3RW9EUXQxV2JJaFRfMW1WMkNLeTdQeVZKaF9ydzR5SDIzTzQ3Q2lucDBGZTZISTBtUkV1aVVQOTF6akQ?oc=5
 
+- 北九州市、介護相談拠点に機器800点 作業療法士ら常駐で普及促進 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9tQkc5MzQtODNYOWY3VWhNN01vUE5LbGJwV1p5Nl9lMXlfbGIwbUFydm00Z3pEYUdHd1hkdGt6dW04a2VScG4yTkRMdEJadHp5dWhMMWxULVdEajlKMHhtbE4tdWNTY2s2OGcxcA?oc=5
+
+- 【市川市】市川児童相談所の「一時保護」を検証する――定員3倍・国連勧告とどう向き合うか - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uOEQwSXRRQVktWlh4Y3h0R3pMLXkwNnF0Vmc4ZVNzYkYtMFNQVjlxWXRYc0pkTGVkMlB6cWMzamtEbWY1SVNBZ2FGRjRhLVlBR0VtUDg1bEJubk4zTzhz?oc=5
+
 - 「ローカル共創イニシアティブ」発の新規事業案件 ～中山間地域・離島の住民および中小企業従業員向けの健康相談窓口の実証実験開始～ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBaNG5BTEZxY3lIUG5CMG93cVBnTmJsVTJlSUs3UlU1b2xVWDJLTGRpdXRNSm5HV0dHR1puTFcxUktKQzZveDJDMjg5Y1JyazVwODhtN2dHYlpnRkU3MWFkX2tNaW1HQ2JRQ0E?oc=5
 
-- 瀬戸内海でのカキの大量死を受け相談窓口を設置 日本政策金融公庫（KSB瀬戸内海放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVDBmdUF2SE1GUHF4TDd0aG5BTDl3X1VXV3RJNlJtdWdVWkpXQWFoVER1RFRBNmNmeHh5SmNKblBIWElCelQ5TWtmTFJlQktfU2ZaOHJfdk0wQlNJUER3VC1jM0RJVFNnZlh6czJsQ2ZJTEF6UnRud0pHOHltclE?oc=5
-
 - 【ニトリ デコホーム】急なバッテリー切れのお悩みを解決！充電残量がわかるコードレス加湿器が新登場 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9xZG5YTS0tbWhHdmVMQWNYcjlpcDZlWmdSYzZpVjFUcGJYRy02MFBCZ1ZhaVNqSlVqajRJcGxMQkhUUFp1dFVMLUpNUWFYb0pNSnh6Nl9HTnBlOVlndm12ek5KZVJoRGs4a1E?oc=5
-
-- 【著名IT識者4名がエンジニアの悩みに回答】ひろゆき氏、澤円氏、久松剛氏、村上臣氏が回答！キャリア転職サイト『type』が「エンジニアに相談できるキャンペーン」を開催 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5aODBOZjVNOWFEMWJXZjd6NDNCUGgtUVIweHVZTV92aGtUZExsWGJpaURJRWRULUl3VXlDMTd6WGNfRUtYdno2OUR1T3hENTg4Q1JLRzVKZXUyR3ozR0NLOXdRVExBQ1EwQlE?oc=5
-
-- 保護者の相談から実現 兵庫・龍野東中学校で初のIT企業での職業体験、learningBOXも初の生徒受け入れ【トライやる・ウィーク】 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9qTVNoZWZrcVhxbUFwUHpwb2dzSFM3RTA1RjRndzB4ZmFzMHA2YVJ4ZXJUd0VkQVFCNHN6MXM4c0F0YktqMXRKSmJBOVBma21zTFpLWGM5Vk16akQyVnhZSFVCRjVxbWtvdHc?oc=5
 
