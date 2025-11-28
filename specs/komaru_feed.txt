@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-11-28 13:25) ===
+=== こまる相談 ニュースフィード (2025-11-28 14:12) ===
 
 - 悩める大人の相談ライブ「イチ問一答」第4弾を開催│オリックス株式会社 - orix.co.jp
   https://news.google.com/rss/articles/CBMifkFVX3lxTFBkMXVCMlRmdlo0VUF5aTA5XzdfXzUxMGlUUVJHYm9PcWZuQ21UbVlwRlM5WXpqLUZDRFdjbXJYQ3VQNWIyZFlMdnlVVzU3b1BVc1Z1STc2VjF0UzRVNkZhd0pRZU04RHd5T0RmMVpManEzd0hxSUVORDZhcER4Zw?oc=5
@@ -18,17 +18,20 @@
 - 生成AI専門の相談窓口、政府が設置 SORA2の普及で懸念相次ぎ [AIの時代] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xeld1RkprbGg0YVBNMzNWRDIzQlVLcWtLR1lNNmhNSnR1cVhjT242d2NjVUEyYkVXLWpTVnladTZNYXdsenRPajdCVjhNaTlGZnRfSG95TVBnbWlsUkhGRzNJZkR6c0U?oc=5
 
-- 武蔵野市、市民相談窓口にオンライン相談システム「ROOMS」を導入 - ZDNET Japan
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zU0I5MW5Pd0JuWldzeTI0V0xHLXBFTDBkcFFSZzVrMTIxeV9YYW5JRFRYazh6ZmZLN1hRaDBJeFhLcmtwMjhTcFNBM1FwOHNHV3FB?oc=5
+- 【無料相談会】UX専門家が、25年の実績をもとにプロジェクトの困りごとを深掘りし“本質を捉えます”｜株式会社PIVOT - Newscast.jp
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE45b21DbTFJc1ZyOWRDWmV3allCU2ZHQXRyOFFod2xVa1ItVU1sRGpSc1VJVHoyWlI5R21UbVNFbzRQSlRHalBKWTBtR2dMNVk?oc=5
 
 - 地域のお悩みを解決！？ 広島AIラボって？ - pref.hiroshima.lg.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XcHRGaUZMQ0tpby1zeHFEU1I0MFRvTmo1VTNRN3M0VFBMY3NaMFFPYlBQOTczQTZIZnFvS2pldFpzdk5LbnFmUjZZcGJvV3h6dmVpSGVHU2hNdWZDR0pyLVpmeVF5Z0k?oc=5
 
-- 【無料相談会】UX専門家が、25年の実績をもとにプロジェクトの困りごとを深掘りし“本質を捉えます”｜株式会社PIVOT - Newscast.jp
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE45b21DbTFJc1ZyOWRDWmV3allCU2ZHQXRyOFFod2xVa1ItVU1sRGpSc1VJVHoyWlI5R21UbVNFbzRQSlRHalBKWTBtR2dMNVk?oc=5
+- 武蔵野市、市民相談窓口にオンライン相談システム「ROOMS」を導入 - ZDNET Japan
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zU0I5MW5Pd0JuWldzeTI0V0xHLXBFTDBkcFFSZzVrMTIxeV9YYW5JRFRYazh6ZmZLN1hRaDBJeFhLcmtwMjhTcFNBM1FwOHNHV3FB?oc=5
 
 - 株式会社Enework、LINEで完結する企業向け健康相談サービス「Pocket Care」をリリース - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBJNm5FVTB2QUl3Sl9KNmtEWW9DSWpxMExRSUlQSVpJMmhraFJ6SHJGSmNTekFRcGdqZGpLdWtEUHpIdWdUR0hhcUVpVk9UNmd1RTNSRFNJMHhmcWpvZXAzY09fLWNTVUxOZXc?oc=5
+
+- AIと会話できるアプリおすすめ17選【無料】｜音声やチャットで悩み相談 - AIsmiley
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jNkRoR1hzVmdLaUN2Vmg4enNNeWp4M1paQmJRdW5rcFV2RmhQdW9BMy1QLXNpMXNlNjRHUmQ5RGRnVURCMmJoS2RjbUlldWg4NnBJZW90WFVhNTU0dlZwcTFKZU0?oc=5
 
 - 2025年上期に高知県立消費生活センターに寄せられた相談 若い世代からの相談増【高知】 - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNTVpWeWxEMk0yZnl4MDdwdUNBXzhnV1JDbHp2NlYxMnI2SjRNZ0J6VG9uRFBOSTZydzYzT05zVVhoRi1OZnRzYzZBMlhuenRoZTdpV201QVFOYWM2TUJjMHFaSGs1eEdxODNjYTRkME1PS3BraFRjcC1sLW53aHUzaWhyUzZJYTg?oc=5
@@ -39,17 +42,11 @@
 - 12月25日(木)「社会保険労務士による相談会」開催のご案内 - 信州大学医学部附属病院
   https://news.google.com/rss/articles/CBMieEFVX3lxTFA3U2J0TjF0WkZsOXNVeDFuaWVDR2wtdXdLajdNYmktNlUxbHBadGR2akFJdXBaYTFJajg0cHhoMGhTZlpFQUZlbV9ub0Q0QVZOc0JaTllJbzBfbVgxUXZ3SmVUaHdkc0V1WXFoOGczMWxXcE5aUmt4WA?oc=5
 
-- AIと会話できるアプリおすすめ17選【無料】｜音声やチャットで悩み相談 - AIsmiley
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jNkRoR1hzVmdLaUN2Vmg4enNNeWp4M1paQmJRdW5rcFV2RmhQdW9BMy1QLXNpMXNlNjRHUmQ5RGRnVURCMmJoS2RjbUlldWg4NnBJZW90WFVhNTU0dlZwcTFKZU0?oc=5
-
-- 毎夜メイクは落とすが、つい寝落ち。簡単なスキンケアが知りたい！【さや姉の美容お悩み相談室。vol.19】 - madameFIGARO.jp
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EUEdTX21YVUhQNFVaTW5KeXdXT2dDajJLdUNRcVJOeS0tNnBYTThuVEpuMjNXampRaFVSdERHUDY4UTFtR3dOaGU1NjZrd1ZIN3ZJOGJ0UUpFejJneHVOMXNvOTlkbkU?oc=5
+- 郵便局でオンライン健康相談 浦幌で１２ 月から実証 - 十勝毎日新聞
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE90Sm0yWFdxZ25VMW1zMHVpX0ZHakFDVjVxYVRrWlpCcHloLWpobmlXb1NPb095VXdTOUJjeG5SZXBNNzVva3VEbzlpdnJVY2RlVG5FLUpoTTlVV0JxU3BlanByNUE?oc=5
 
 - 「顔面大嫌いです」イチローさんが悩み相談で出した答え 水卜麻美アナ「斜め上だったけど...すごくカッコイイ」 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5EY1hsd1Nlb1NKUlNhTTVfdHFRcm1KdjNwLXdtMjlETjYwX2ZlY2JNTlN4VnpEcUNUSGU5SzJXQ1N4Q3hQS0JTdWFjVnAtQWpZTVdXcTZRYXpVT3NGM3lXQmlEbHVmYklieFJXbDRaanluc29vNktTcEF4UnRGSk0?oc=5
-
-- 肌悩みをもつ人におすすめ！温泉オタク会社員が選ぶ「美肌の湯」4選 - AERA DIGITAL
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE95bXBEcnF1NHd2N3dCaEtXdHVRdDc1Mk9keXFGOW9qOTJBLWxOdnRQbUdQNTY5cC01VFR2b0NDZHk1bmNlN2tTaXdOcGI3bkZOUENDeUd4OWkxUQ?oc=5
 
 - 犯罪被害相談、負担軽減を 京都の薬剤師殺害事件の遺族訴え（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9TWndlUkh2Q2RvWG14R1VzNmI1THFINVIxUzRIenVxVGtyVkxSM1hBcDRLWXBaZU5nVFhQQkIzMTF3VTV2RkpzcGRxTjF4TWZvSG5jWllLZEtkOFJyN3VNNE9XelFBQWt3anEtaldEX2I2QlZFOEdlRWFjZE10bm8?oc=5
@@ -59,4 +56,7 @@
 
 - 日本郵政、郵便局で健康相談窓口の実証事業（時事通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZHhBRmJtcnZPbjVuVEg3cGdJVV9aOThxaEVjVmNYd3ByQm9hczV1OHJVbWowVGo0U2tTWHRHZHBSbzRneTlxeHl4LTdxbllLR01xUkUwMUhSckZVSHBxdFhUbVNqR1REaDE1ZmpIVWQzYTJPLXJYVVc5VTJLNFU?oc=5
+
+- 日本郵政など健康相談窓口の実証実験（スポーツ報知） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBhbjF3ZG4xdmxkY1ZleHB5bFZrRUdTNlRhdTBvd3VWVHlTdXR2RjBDcnl5QWFUV1BOWDR3UkdVTkxOWTlSNFIyb2RaRm1EbXk3MzZLWTBqMERibm4yN21mUXVjYnB6OFJyd2FxbjNseUViSHBIZS1nYTJZMU10U2s?oc=5
 
