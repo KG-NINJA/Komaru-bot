@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-11-30 22:11) ===
+=== こまる相談 ニュースフィード (2025-11-30 23:11) ===
 
 - 【12/16】海外展開特別相談会 - スタートアップポートヨコハマ
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHNmY3bU94aEtkNl9YS0taU2ZHMFMtSERLYjIzRGYxbVhhdmt5Qy14VjV5NXR3bTU4RVdmUzdKY3hfbGU5bGR0c1QxV2Z2UUIzMEN4VGU1NG1aUXFxS0thOS1lVy1RVTg?oc=5
@@ -6,29 +6,35 @@
 - 令和8年度 会計年度任用職員（国民健康保険料相談員）募集 - city.osaka-izumi.lg.jp
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE03VUJrWTZDbDdRbmhYNmU3aFdxel8ydThXZlp6M21JSW12MWNySjhTU1pBaGRMbXNCZGJIT2hzMG1UMTlXa3ZURWRYX2lhSFBJMEpXWjZ6ODdKLTVjWDM5MQ?oc=5
 
-- 【意思決定】三流は「比較する」、二流は「ChatGPTに相談する」、では一流は？（ダイヤモンド・オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9JalpsN09nZGFySjZUaDFiWkdYMHY4VFhiM25MSklUQ3h1YkRPX2lfSlRqU3l1YURLNjZZT056dlhlX2V3aTJjY1BDVGcyX3R5YTdGQUtzUzNjQWpXX3A5STRELXdFYy0yRzNuRU5Ja3BqemRya1F1MlVVTWxKWEE?oc=5
+- おせっかい企業SHIFT、社員の悩みに積極介入 「合理的なら何でもやる」 - 日経BOOKプラス
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5VbnJaSGRxSU1LT0FBZV9qWEVMT2xvcE1qU2NtQTdfUUVpM2dyaDZCVzVYblNxWG8xUVBNa2ZnSEhjVXVHbkkzd2pITWU2aTZKaGhLNktJaGEyNXBpYjRCczFna2tDQlNMamhVeQ?oc=5
 
 - 美と健康催し 悩み相談も 女性を元気にする会 ６・７日 コンベンション - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OZTNWTFlybjIxdEpFWFhUd1MyeXQ3TDJfSks4LVZCYk4zbGVDeUY1cjl4STFrY0xpUkdUcW5Tc2swWUxMOXpPT1RndUtUYUdFOGVRMFkzMWxYQ29nMmc?oc=5
 
-- おせっかい企業SHIFT、社員の悩みに積極介入 「合理的なら何でもやる」 - 日経BOOKプラス
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5VbnJaSGRxSU1LT0FBZV9qWEVMT2xvcE1qU2NtQTdfUUVpM2dyaDZCVzVYblNxWG8xUVBNa2ZnSEhjVXVHbkkzd2pITWU2aTZKaGhLNktJaGEyNXBpYjRCczFna2tDQlNMamhVeQ?oc=5
-
 - ［長島佑享弁護士のなんでも法律相談］遺産相続に当たり親の介護は寄与分になる？ - agrinews.co.jp
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE11X2thVmpDS2RacU43NG9sc01mWG9aMFhCNFdmYk8yNGNySkdraTZWcUF1Y0xSbmNvamNaaGFMWXhnazc4NmJjM1NzTGtlMTVRd1B1by1JSjhSUQ?oc=5
+
+- 「革命家の悩み」 - スロカイザーのブログ：スロカイザーの「こうていのおしごと！」 - DMMぱちタウン
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sX2tDbW5aS25CazNfYlpjN0xYYllsN0I2VWtkLUpMZmsydGZMMkgwd20xTWhkbTBwclJyVG9aTnJaRWFVd0tISWJkNzE3M1BxLXNvWFhDcldjTUk?oc=5
+
+- 【意思決定】三流は「比較する」、二流は「ChatGPTに相談する」、では一流は？（ダイヤモンド・オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9JalpsN09nZGFySjZUaDFiWkdYMHY4VFhiM25MSklUQ3h1YkRPX2lfSlRqU3l1YURLNjZZT056dlhlX2V3aTJjY1BDVGcyX3R5YTdGQUtzUzNjQWpXX3A5STRELXdFYy0yRzNuRU5Ja3BqemRya1F1MlVVTWxKWEE?oc=5
 
 - 女性の離婚リスクを予防・解決するワンストップ型「Re婚相談所」サービスを全国展開 - Newscast.jp
   https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwSFZXUllidVR1eDJHOEpaTjNYMVZaUU9hN0ZaSllOVnp1REJ6RmxlVHJHaWVlYkNQeGJ3b05zZnV0cWNHNlBzbjNCXzBvZFU?oc=5
 
+- 中高生向け「LINE質問・相談対応」利用者の声を公表＝こどもの教育を支援する会調べ＝ - ICT教育ニュース
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vN3hNTzRFcUstYTFsaTZiSFF0a0FzZXNfYVNXWmVaNFU3Um9pSUlVRDJoV2JIY1pGckV3YzJLRlQ0UktLTXF2VUJsY1g2a21xaGc?oc=5
+
 - 「労災隠し」横行か 外国人、相談員が懸念 - 琉球新報デジタル
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IbnY5R3hNcV83cUxyZ1o0VDB3QkI2TVJjRS12UmgtVF9BMEZ6ZWxlQWU3V0F0Q3F6WXYycDRVN1hiTHp2NFdSWjZvNnFpUFVrUkJLR295Tzhlcm03QTZ2eWpUUEJnVEU?oc=5
 
-- 転職や独立、退職後の悩み語ろう 神戸で書店開業の社労士、宝塚の作家・楠木新さん招きセッション - 神戸新聞
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE80UFI0VHZHWUNsN3JmWTlHdVBKc0E0ZkRBd2NuWEFXbVF0YTlXSE5WVUY5OENzTnpfY3ZyM3ctNFZjTVg1YVRZelVxSEp2Z0NvNFNYbVNJNlNSSVZnYjdpZkp1T0RYb0Y4NG80T1l0cUs3RTQ?oc=5
-
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
+
+- 転職や独立、退職後の悩み語ろう 神戸で書店開業の社労士、宝塚の作家・楠木新さん招きセッション - 神戸新聞
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE80UFI0VHZHWUNsN3JmWTlHdVBKc0E0ZkRBd2NuWEFXbVF0YTlXSE5WVUY5OENzTnpfY3ZyM3ctNFZjTVg1YVRZelVxSEp2Z0NvNFNYbVNJNlNSSVZnYjdpZkp1T0RYb0Y4NG80T1l0cUs3RTQ?oc=5
 
 - 在留資格変更など質問 倶知安で外国人向け相談会 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfelRrWDBiaDFYVUxLWjEwMlZuMnpWVkdtVWxSZm15VlRpcWx0NjQ5LUhjaUVnR0EwTzR0VGFaODJiOUNybm9rOFZYTUZ1VzZpd1doaEZ2VWNnZw?oc=5
@@ -42,9 +48,6 @@
 - 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
 
-- 【茅ヶ崎市】茅ヶ崎市青少年教育相談室、電話・面接・訪問相談で子どもや親をサポート - 湘南人
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5iNUVfX1pXX0NLUVN1NEFJNmhnemdZUUU0cGQ5QnpYX0JBa0tHN0NUc0tOVDhHekNOZ3pDVFRscmM2b2JWNTNmRjdheElTQ01ibEdxRWN2Y2R0eE9NV3Z6UGNSbmVmVVZmdzdKVUlaal9kdw?oc=5
-
 - 「あなたは１人じゃない」 ピンクドット公開トーク 悩み共有 周囲の理解訴え - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yYTY0Z1FSNk1PNGE1TTBlbGVaTTI1a0ZiNU5kSEJYd2VTZ2F4MkFFbzVYTzVJSUF4ZmtHRDZVeWRTb0pVUDlubkEwQng5YVNPM0dPSlZIdF9MQTVCNEE?oc=5
 
@@ -56,7 +59,4 @@
 
 - 悩みに独自アプローチ ヨシタケシンスケさん新著 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE10dXFNY3AxZVVOUmUxbDZQUXE5OTdvZjlHRXlDTFdlckZkUHdzQ3pSbDJjZ0lFZFpnYXRKYzk0TlM3aUFURWlhNDZESVppcHZIaHBUbEY0V3VDdVR6N0E?oc=5
-
-- 若者の消費トラブル相談を 滋賀のセンターが電話相談「110番」（朝日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE0yQVF2YUNmOWJsSnozTFVZN1hqdHdHbkxIaXA5THN3T3dpSjh0MDB5QkJ4VkZZakFMYkEyUGRkOGQ3Qk1qU2doaU4ySUQ4TTloMDRqRXBtZHh3M1RwZmZlM290c0NyZWd4NGF1ZzRHRGdyYWFheUx1ZEx4SVl6S2M?oc=5
 
