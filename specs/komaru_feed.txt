@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-11-30 21:10) ===
+=== こまる相談 ニュースフィード (2025-11-30 22:11) ===
 
 - 【12/16】海外展開特別相談会 - スタートアップポートヨコハマ
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHNmY3bU94aEtkNl9YS0taU2ZHMFMtSERLYjIzRGYxbVhhdmt5Qy14VjV5NXR3bTU4RVdmUzdKY3hfbGU5bGR0c1QxV2Z2UUIzMEN4VGU1NG1aUXFxS0thOS1lVy1RVTg?oc=5
@@ -24,6 +24,12 @@
 - 「労災隠し」横行か 外国人、相談員が懸念 - 琉球新報デジタル
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IbnY5R3hNcV83cUxyZ1o0VDB3QkI2TVJjRS12UmgtVF9BMEZ6ZWxlQWU3V0F0Q3F6WXYycDRVN1hiTHp2NFdSWjZvNnFpUFVrUkJLR295Tzhlcm03QTZ2eWpUUEJnVEU?oc=5
 
+- 転職や独立、退職後の悩み語ろう 神戸で書店開業の社労士、宝塚の作家・楠木新さん招きセッション - 神戸新聞
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE80UFI0VHZHWUNsN3JmWTlHdVBKc0E0ZkRBd2NuWEFXbVF0YTlXSE5WVUY5OENzTnpfY3ZyM3ctNFZjTVg1YVRZelVxSEp2Z0NvNFNYbVNJNlNSSVZnYjdpZkp1T0RYb0Y4NG80T1l0cUs3RTQ?oc=5
+
+- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
+
 - 在留資格変更など質問 倶知安で外国人向け相談会 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfelRrWDBiaDFYVUxLWjEwMlZuMnpWVkdtVWxSZm15VlRpcWx0NjQ5LUhjaUVnR0EwTzR0VGFaODJiOUNybm9rOFZYTUZ1VzZpd1doaEZ2VWNnZw?oc=5
 
@@ -33,14 +39,11 @@
 - 2025年12月配信の人事・労務・安全衛生の労働実務相談Q&A - 労働新聞社
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yRkdvYllyQ0xpbWM3b3JGZDJEQ29BNU5YVkVuZzFCa19HcnV3Zk5ZVjVrdjZkd0R2UXAybnh6cG95V1gxcjc0Nnp3ZnhlX2Vz?oc=5
 
-- 【茅ヶ崎市】茅ヶ崎市青少年教育相談室、電話・面接・訪問相談で子どもや親をサポート - 湘南人
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5iNUVfX1pXX0NLUVN1NEFJNmhnemdZUUU0cGQ5QnpYX0JBa0tHN0NUc0tOVDhHekNOZ3pDVFRscmM2b2JWNTNmRjdheElTQ01ibEdxRWN2Y2R0eE9NV3Z6UGNSbmVmVVZmdzdKVUlaal9kdw?oc=5
-
 - 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
 
-- この人に聞きたい人はなぜＡＩに相談するのか - 北日本新聞webunプラス
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTE94RVc1QkVMSGtGZjB3ZXFxRFBmU1ZEQ3FPcTN0R3d4bzBKb3dVb1NUNzBHeEk4ZnhpeVFMbmRBZE9oQkstM0xUb3ZR?oc=5
+- 【茅ヶ崎市】茅ヶ崎市青少年教育相談室、電話・面接・訪問相談で子どもや親をサポート - 湘南人
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5iNUVfX1pXX0NLUVN1NEFJNmhnemdZUUU0cGQ5QnpYX0JBa0tHN0NUc0tOVDhHekNOZ3pDVFRscmM2b2JWNTNmRjdheElTQ01ibEdxRWN2Y2R0eE9NV3Z6UGNSbmVmVVZmdzdKVUlaal9kdw?oc=5
 
 - 「あなたは１人じゃない」 ピンクドット公開トーク 悩み共有 周囲の理解訴え - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yYTY0Z1FSNk1PNGE1TTBlbGVaTTI1a0ZiNU5kSEJYd2VTZ2F4MkFFbzVYTzVJSUF4ZmtHRDZVeWRTb0pVUDlubkEwQng5YVNPM0dPSlZIdF9MQTVCNEE?oc=5
@@ -56,7 +59,4 @@
 
 - 若者の消費トラブル相談を 滋賀のセンターが電話相談「110番」（朝日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0yQVF2YUNmOWJsSnozTFVZN1hqdHdHbkxIaXA5THN3T3dpSjh0MDB5QkJ4VkZZakFMYkEyUGRkOGQ3Qk1qU2doaU4ySUQ4TTloMDRqRXBtZHh3M1RwZmZlM290c0NyZWd4NGF1ZzRHRGdyYWFheUx1ZEx4SVl6S2M?oc=5
-
-- 【名古屋市中区】実績あり！栄で長野県への移住相談！5日は立科町（サファー） - エキスパート - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV3hCanpuSHczaFdXM0ZYZUZZS1VUM2Y5NEdIUXd6b3FyX1RwOEVEb2ktek16SUpRMFk4X3kxR3JkdDgxZjZPNDQ5Mnljb3dqLU5fRUJBdW0taXR2eS1OQ2lseVFHcmpqWGczUXpaTHpqc0dwS0xfRkV6bmZ0S1lYNkFXajN2dmdo?oc=5
 
