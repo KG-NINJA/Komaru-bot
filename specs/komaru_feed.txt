@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-01 08:19) ===
+=== こまる相談 ニュースフィード (2025-12-01 09:19) ===
 
 - 会計年度任用職員（子ども発達相談センター専門相談員〈言語聴覚士〉）採用選考を実施します - city.shibuya.tokyo.jp
   https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEpqaVlpUC1pd3BFMW5lOE5wbGh3QTg4Q3E5WFJYQ3ZuamYzQ3FXZGIzdXN2eV91bWt6VjlKcF9lN1dhWHlaVW1leFczRlNSVlB1RWVvY3NjRmRtakVDcy1YNkFvbmY3WG5fenR3dUp0Y3hpS3o1UkZ3OWpxMmZVMG9pa00?oc=5
@@ -21,20 +21,23 @@
 - 県内の児童相談所 虐待の相談件数は1800件を超える 福島（2025年11月30日掲載）｜中テレNEWS NNN - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEtqTFMwMjdaTHFVcUJ2OWVDT1NBSC1STndrc3BmRUxnUnJBNlotOE93elIzaGVzQ2tZTER0NHpTajJhMDYzelhxblNXb082ZTdIazdaa2VydHRxQ0dlcXFITUFRVTJ0SUl2alRjdV92Q1BEbG5nZEJWR3hJeTdlVDdqT0pDMGM?oc=5
 
-- 産業政策課会計年度任用職員（消費生活相談員）を募集します - vill.tokai.ibaraki.jp
-  https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWZIdnNzVFFrOGRnRTlPR2tDbGhfWm9Ma1dhNUtTMGptX0RwWFk3ektQMHJkT3d2bXhlamJ1aHQ5RERKUnhzTXJwenB3RTQyVV9xUDFjYkFNUnRwWWZYZXk3Q24zMG5sWm1zVVlCZDNaZjc2SnBweTBFTEduWjNhZ2d2ZDhiZGpfZnA4SkNWZ0ExOGM3M3V6QQ?oc=5
-
 - J-クレジットの最新動向と実践相談会を東京で開催：関東経済産業局 - J-Net21[中小企業ビジネス支援サイト]
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tdkVqR0lfMzBTQzdCN1N6UV9nWnU2OHNTeTJSM0pzRUs1aXRDb216R0p4cnZnTW5iVzZjTzBDcGVQZGJLNEx3UXJzMlBGcnE0ajBiRXhXWnhZOV9OcTdONkF4Zw?oc=5
 
-- 浦幌郵便局、オンラインで健康・栄養相談試行 - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE13OEM5ZklTOHlhdkU3RVNNdDN0SE1IRE1pWEJJTU5YbXJUZW1xaENfZ2d0LVRpWnpmYUZ4N29lNTJrb3pGWFVuaXF2SU5ERDVPdy1Md3JLdnpkZw?oc=5
+- 産業政策課会計年度任用職員（消費生活相談員）を募集します - vill.tokai.ibaraki.jp
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWZIdnNzVFFrOGRnRTlPR2tDbGhfWm9Ma1dhNUtTMGptX0RwWFk3ektQMHJkT3d2bXhlamJ1aHQ5RERKUnhzTXJwenB3RTQyVV9xUDFjYkFNUnRwWWZYZXk3Q24zMG5sWm1zVVlCZDNaZjc2SnBweTBFTEduWjNhZ2d2ZDhiZGpfZnA4SkNWZ0ExOGM3M3V6QQ?oc=5
 
 - 上田準二のお悩み相談「ケアレスミスが多い部下、どのように指導すればよいでしょうか」 - 日経ビジネス電子版
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uUFZFQXVZZ1ppRktCdzBCMW5WQ0M2cEstNDNWSTdEenJZTWhGTXZINzJjb3lRbDl0dU1LQjM5RjhEU0kxVVRiWlBoMm1wUU1vcnZqOTJrTTZDU1FwY2RJTWVKLVIwYVU?oc=5
 
+- 浦幌郵便局、オンラインで健康・栄養相談試行 - 北海道新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE13OEM5ZklTOHlhdkU3RVNNdDN0SE1IRE1pWEJJTU5YbXJUZW1xaENfZ2d0LVRpWnpmYUZ4N29lNTJrb3pGWFVuaXF2SU5ERDVPdy1Md3JLdnpkZw?oc=5
+
 - スポーツ現場のハラスメント、相談件数が過去最多 なくすためのポイントは（中国新聞デジタル） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9OaDFZdnVLNWVaVEZLdXpUbXRzWFdVTndwRjJYQWhVTFBpYVZCQXdkYWZpc3hjSmU5VE44YzF4RldvRHhLRkVFNjNnbXA1NW96UHlpX2Jrd1BlbkNmdlZlem9PN0xCTmhyMDQ0WU5saGViZEY5UFJMTXNzcEZGYmM?oc=5
+
+- 美と健康催し 悩み相談も 女性を元気にする会 ６・７日 コンベンション - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OZTNWTFlybjIxdEpFWFhUd1MyeXQ3TDJfSks4LVZCYk4zbGVDeUY1cjl4STFrY0xpUkdUcW5Tc2swWUxMOXpPT1RndUtUYUdFOGVRMFkzMWxYQ29nMmc?oc=5
 
 - 新着情報 - 東北学院大学
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aV29uXzRTVnM1TXN5cEltVWZ5N3RaUUptbUc1NlpYckdOaHl5eUFTd0htaHdPUUZYRjh0ZW9saXFfR3dSQS1mNzFwSGNQcTV4YW5OdWFnSnAtRXBEMW5WUmhyekk?oc=5
@@ -51,12 +54,9 @@
 - 「革命家の悩み」 - スロカイザーのブログ：スロカイザーの「こうていのおしごと！」 - DMMぱちタウン
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sX2tDbW5aS25CazNfYlpjN0xYYllsN0I2VWtkLUpMZmsydGZMMkgwd20xTWhkbTBwclJyVG9aTnJaRWFVd0tISWJkNzE3M1BxLXNvWFhDcldjTUk?oc=5
 
-- デジタルマーケティングで新規顧客をリピーターへ、実践の第一歩から補助金活用まで、東京観光財団がセミナー＆個別相談会を開催 －2026年1月19日（PR） - トラベルボイス
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zY3dzN3NhblRpOGRDRnl2ODd0QS1EZVNuUEZYTlFVVE1ERFpNei1wNlIyaFFwWHd0ZlM2aU91aFphaUM4SDJ4dHlfbkZGQjBMNzN3WA?oc=5
-
-- ユカリア、スマートドックでオンライン頭痛相談サービスを提供開始 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1CQWk5R0l5VDBhYlVqNFF0R3cycUpZczM1Wk10Q2xyTXBFU3VsV1BmZlJzeWdiR2l2emUzNHczQkFkOTJoWFdDZU5ZUXM4QmYwa0hydUl2bkszQTR2QU9YVkZ0QVV6VlJPQ3c?oc=5
-
 - プレスリリース：相談件数はわずか3年で約3倍。12月「職場のハラスメント撲滅月間」に、カスハラ義務化時代の実務と組織文化を考える。（PR TIMES） - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1maUFtOHd2amRrUUNnOVpIQ3JVOExsU2ZpY0IyVUI0a3BJQV9RRjE3WmMyREtoNVhOOWlfUkxJdHBDVlRVbzFKSVRWSXFFYjVQQ1dzVUVkQ0laVEg1QWlybXZxRVZ1c2FD?oc=5
+
+- 「いつでも相談して」もアウト？部下のやる気をそぐNG発言11選（毎日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE02WmozaEtrWDVLaHFTNnFJUDJsbnVpaFlabXVyVVY3UF9hSnpaSlBoRUlzYlJTUy1tTVJNTlo2RjJZUjZzZTNRcVBlcWpFd0RHYV9RT2c0YW50NjNWNHE2eFlzaXdDem4wVUVDdlhXYUJVcHB6LXpIa29JY1RRSVk?oc=5
 
