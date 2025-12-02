@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-02 04:22) ===
+=== こまる相談 ニュースフィード (2025-12-02 05:12) ===
 
 - 今月の相談アラカルト - city.tsubame.niigata.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTFA1UzRLRy02OEJicU8yRnN3ako1LS1mZUY4UG5CMktEcUgtal9jUkU4NDlIcXJqOEoyVVd3SU9RWDZMSHFTV1l6dFc0R3NZWklEeU1hRVlXOXl2R0hhRC1LTmUwMnM3SVU4dW9nSDFQYlJNQQ?oc=5
@@ -21,9 +21,6 @@
 - 美と健康、悩み相談やマツエクなどの施術も無料 「女性を元気にする会」が催し 12月6・7日、沖縄・宜野湾市 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OZTNWTFlybjIxdEpFWFhUd1MyeXQ3TDJfSks4LVZCYk4zbGVDeUY1cjl4STFrY0xpUkdUcW5Tc2swWUxMOXpPT1RndUtUYUdFOGVRMFkzMWxYQ29nMmc?oc=5
 
-- チャンス大城さんと「リスナーお悩み相談回」 - FM大阪
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1adjAwaTB0SEFwZUJpR09oS1dhbjFEM1BLdV9yY0kxREZzNm1rRnoyM1V4UjBvaEt3dlFYM1hxcUNYZm9PTk5CRDduRjI?oc=5
-
 - 「電話でお金の話が出たらすぐにご家族と相談する」岡山県警などが歳末に増加する事件や事故の防止を呼びかける - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xSDJlSURNZm5aWnZiS1QwLUJVU2dNTm85dlFjc2hnU1VsY1NxbHBiZWQxTTBkVWN5X2M2TjY4eDl5SUhwaVZWZWRMS3hReWZVUERSTGdIZXNxdw?oc=5
 
@@ -33,11 +30,14 @@
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
+- リーダーの思考をAI化、社員の相談相手に DeNA子会社ら、26年春から提供開始 - ITmedia
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9ZUmNuQ2JQQUlsY1lNeEtBTzJmQjRBRTl2WVNQVzJNY1JaZ192WkNtNkhyY240cUpNXzZQM3BidkVUdTVFNnhMRG95eUxMNTBJVkJwTEV4MS1QMmdGTElHNl9VNGxud2U1YTd3QzdKck9mZw?oc=5
+
 - 12月は納税推進強化月間（休日納税相談を実施します） - city.kitahiroshima.hokkaido.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTFBFaGotWTZWeWtUTVRVa0V2Qk85TURJU0NtNW5pME42MHpTcnNjM1lrVUduZ0ZqWVZXZEtEM2dhbnhrSnRwZ0cwaFdMNVVsNjgzbURKekpBUVBNQ0IxbWRoV1dlUFc4MDB5QXNEbm42c2pJUHo2MVdGcldFSQ?oc=5
 
-- 子育ての悩み…、こんな時、どうしてる？ 第３回テーマ「お出かけ時に大騒ぎする子ども、どうしたらいい？」【投稿募集】 - 新潟日報
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sNlhQR3F3ZmxUdmhsaVd2dDVGNjluQjF3Y2ZLeVlvcmo5NEpUdFRXZjFUdHdxdmtzbVNfOERJdnhPVlhQWDVLZG9qUGxGbG1ab1hQYjN1MUNvOXItVlE?oc=5
+- チャンス大城さんと「リスナーお悩み相談回」 - FM大阪
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1adjAwaTB0SEFwZUJpR09oS1dhbjFEM1BLdV9yY0kxREZzNm1rRnoyM1V4UjBvaEt3dlFYM1hxcUNYZm9PTk5CRDduRjI?oc=5
 
 - 【年収600万円以上の転職相談者調査】ハイクラス人材の86.4%が「AI面談分析」に期待 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE8waGtYWTY3RGJwblh2blJoSmdrakk1Z2dKZ296dE94VHNuWUhhVGhDV0pLZWU3SzNoNnZvSEYxaFdLYVhuR1JNTDVoZzZzdDZhR0NUNEFIMC1qRFFEeXhwQmozM3M3V0ZId2c?oc=5
