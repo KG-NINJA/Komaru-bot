@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-03 12:25) ===
+=== こまる相談 ニュースフィード (2025-12-03 13:30) ===
 
 - 今月の相談アラカルト - city.tsubame.niigata.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTFA1UzRLRy02OEJicU8yRnN3ako1LS1mZUY4UG5CMktEcUgtal9jUkU4NDlIcXJqOEoyVVd3SU9RWDZMSHFTV1l6dFc0R3NZWklEeU1hRVlXOXl2R0hhRC1LTmUwMnM3SVU4dW9nSDFQYlJNQQ?oc=5
@@ -11,9 +11,6 @@
 
 - 児童相談所の男性職員（60代）が複数児童にスリッパや平手で叩くなどの虐待行為か 「じゃれ合いの一環で悪意ない」と話す 群馬県 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zczF1TlJsOUN4b3BiNUxQV1ZyckctMVIwenJzUkpEVk9jTXBtbzRBbEhvXzNWRUxHd2s0U3o2ZUxHTXI3azBCM1FiSjZ6TlZld0NzUnBPbw?oc=5
-
-- おくやみ相談窓口 - city.maebashi.gunma.jp
-  https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTRmZmpOZTlKcDF4RXhpR3lLYUFaR1hZbUpudjZYUDFVMzFUdmloX1hiOG8wc0d1eWYtX1VTTzVLYkg1LVFwSXBYWlFHNzNMRURmNmhIWmJtenFRN1hXREQ2ekgzTElqVzlaVXJhSENzeER4WnBNSE9acGQtenVjZm82VQ?oc=5
 
 - AIに人生相談したい人必見！おすすめの無料ツール6選とすぐに使えるプロンプトを紹介 - 株式会社SHIFT AI
   https://news.google.com/rss/articles/CBMiSkFVX3lxTE44TmhNcE1sVzFRQVBLZXVLQVRicC10WHZNTTBGVUtnMlI0ekpHOFJvZ0hQMVV5TXhRcmxnTUpQTi1RYk5MTTYwNVZB?oc=5
@@ -30,8 +27,17 @@
 - ファンデーションのお悩みはありませんか？ 「メイク体験座談会」参加者募集 - 朝日新聞
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIZUZyaTBzcEh4Z3laclprcXJXYUVuNXZXdFdYeU1CRWgyd29FUkl5b3ctTDFqa0VwMzZIMWIzWjI2YURHMDE0aWR0Wjl5eHlwQlA0VF9ReDY?oc=5
 
+- 文化服装学院 生涯学習「はじめてさん学内見学＆受講相談会」を開催 - 装苑ONLINE
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hMGQxQjQ1eDFKNWE4WDBjVG8yM0I4U3NhTUF5NnNWUnBDR0w0WEFFOC14R2Q1LTF4c1RENnF5c1plT213Y0plSjAtWFFwT2MyYWhFcU4wOXJvcHFhck9mMjVR?oc=5
+
 - エルフ荒川、悩みを明かす「兼近との絡み方が分からない」 “短冊”発言にも困惑（ABEMA TIMES） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE80cjdkOTdmd2tCYlRwV2FYcWpGZWV6aHFLdUVCTmptb1M1LTRtZmljU0JEWnBpRklUdWtQUEVNaUF5eGhOdVJwdy1zUklsN3BXZHBwZFYwdHFZZWRVSllnbEdSZnVYX3VrMEJpczE0M29YVWV2NDA2ejByNlBJWlU?oc=5
+
+- 中小企業年末特別金融相談窓口を設置：山形県 - J-Net21[中小企業ビジネス支援サイト]
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pUk5wenE3R0dJZG1UdUxWb1ladlRtUFJPVURhWEp0dTRCZ3lxY1REVU5hU0hIZ3VjMm5nQXdUaXhkdi10V1FtZlFNaHVRQ2xxNE13eFRmcW1rZGtwNjJ6cGZrUQ?oc=5
+
+- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
 - うつ病診断マニュアル送付まで…「失業保険サポート業者」の相談事例急増し国民生活センターが注意喚起 “不正受給”指南まで - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vNVI0cDFjajMyV09QR044WjQ4UHEtX1VzT2UtUzJUZ21rLUFMOGtWS0RiSlYtYzZrR1Ficy1rd3NvblVyNGx6YnpfZlA?oc=5
@@ -39,14 +45,8 @@
 - 勉強からデートの相談まで…交流伝言板が好評 優しい返答に利用者ら笑顔 明石・二見図書館|明石 - 神戸新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQkxlaXE2d1JwNmRpaDJFdWFGVUxNS1NRM1l5Qks3cWNpSFY1aFg4V2VFQVNUWVZSbFhmNE9NbXVnNFRIeW14SEhXMTdfYTB1MVdVYjVFeFA0ZHNiazA5ekxqenlYdER4aDUtNA?oc=5
 
-- 中小企業年末特別金融相談窓口を設置：山形県 - J-Net21[中小企業ビジネス支援サイト]
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pUk5wenE3R0dJZG1UdUxWb1ladlRtUFJPVURhWEp0dTRCZ3lxY1REVU5hU0hIZ3VjMm5nQXdUaXhkdi10V1FtZlFNaHVRQ2xxNE13eFRmcW1rZGtwNjJ6cGZrUQ?oc=5
-
 - 沖縄県知事選への立候補 玉城デニー知事「相談して決めたい」 具体的な考え示さず - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YQzF4azZoSFNuWWZqazRPb3QteC1nVk5JQ3NjcWNXTk96MHFCeVdtSnRPdFZwZGxtaDZJVW5sUDd2TzhnWlk4VHloMjJkc0taZGlKXzdDY1pKUFp6b1E?oc=5
-
-- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
 - 新規事業担当者の悩みとその解決策を3つの観点と7つの理由から解説！ 無料ウェビナー「新規事業担当者の“孤独と悩み”をどう突破するか」を再開催 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBQanplTFVRZ0kwX0JPdG5oc0tvZlYwWDV0V3JybE12em5HcVUxOXNlTTJVbXpfQldoS24xaE9HYmM3bXZVVVJzZUl3eDFRZm52Sk9YNnFta3NFdS1LR0NoWmkya25yemtpWFE?oc=5
@@ -54,9 +54,9 @@
 - 不動産オーナー向け相談窓口「満室の窓口」FC加盟店に長崎県長崎市 ハウスコミュニティ株式会社が加盟｜満室の窓口 長崎店／大村店がオープン - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE53aGtid1ZFT3dvQ09kcU1IY2l2SGg3dk1UckM0bVpOWVV4Xzcxbnlpa1hjSmVnaUxUblZBc0wxZDd6X2hsNUlwVnJzTnp2MVVYaUNza20tdmVsYlR4QTZwNVFXN2JSNDRldGc?oc=5
 
-- 支援者養成研修 ＜妊娠葛藤相談から考える包括的性教育編＞妊娠葛藤の現場から～ひとりのあなたを知りたい、あなたをひとりにしない～を開催します！！ | 特定非営利活動法人 ピッコラーレのプレスリリース - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaDBHVVY1WXRJSjlOeUxTZm5QVk9wbGZ1bGREdHRUMXN2bFJFUVRSRGZUWlJaeTVGbzQ5TWNmTTNFZlZYb0JMNVRxU29kVHBkTlVtcWowMV9kdkNtaldEWDVySXZGdFk5Y2c?oc=5
-
 - その仕事、デジタル化しませんか？観光関連事業者向けデジタルシフト初級セミナー・個別相談会を実施します！ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE85bGcyZ0VLdFY3OXg1OE0tRDJnODIwM3lob2lFNzV1cVg3R1lDN0xmc2xJVHBDbGpzejQtSWEwN3dOcmhlX2VYQ0VCSTIzNnZ3Tjd0ejdtcUhabzduSmVtN244WExlbEJDeFE?oc=5
+
+- 【結婚相談所・婚活事業者の皆様へ】イベント開催の収益化・安定化を支援する「イベント立ち上げパッケージ」を提供開始 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5OUTJjaXlWeVVKRkNINmJWVVFRdVcwUEhJQk8yTWoxZlhQX3d2ck1GNkJLNGdFeXNVY3pmajB2WE5HUHNCWmk4dmFKN0ZxNEdCMnY4SUpVMjBIM3hISXB3akN6WHRsRnV4blE?oc=5
 
