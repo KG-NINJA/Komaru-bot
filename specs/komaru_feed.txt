@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-04 05:12) ===
+=== こまる相談 ニュースフィード (2025-12-04 06:19) ===
 
 - 令和7年度 人権相談会 - city.minamisoma.lg.jp
   https://news.google.com/rss/articles/CBMid0FVX3lxTE11eVZjSFBNcDY2cXAtZkRRZVBFdXA1TnBKSDZqU1FjRXhKUjA3QjhReERDQ0FhM294WkN1VUxubzdLS3Q4V0Y5ZmZkSUFESTJBOTN6TFQ3SVUwLXd1blZ0VHNrS1pFWnFKRTlHOWhacUJETjlxMzJR?oc=5
@@ -6,17 +6,20 @@
 - 年末金融相談窓口を12月26日まで開設：福岡県など - J-Net21[中小企業ビジネス支援サイト]
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZdWZTM2NOZUl6dHFmWDdOUmo4US1XcnhKTnFRZk9Pb2xrcU5JU0pUd0xza0ViV3V4eUY1RG16MXFYUlZBcGdkZ2V2akVEM3QtdFpqcURYazZ6dXVaOEFZY2p1dw?oc=5
 
+- ELYZA Worksにおいて、AIとの対話・相談を通じて業務AIアプリの作成・改善をより簡単に実現できる新機能の提供を開始 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5URXdiR1pMMnBtRFJYb1FxTDhoY1pRNmdBbnN2SmFqWFk2ekFRZENUWGoxSHlsZUZtRzNZc25fbG5Qb1d6RjVzVkNIVURoY0tYZkx4RnZWQ3NBN3hqM2g3YkF1V3czWTVjS2c?oc=5
+
 - 「不安を否定せず受け入れてくれる」 悩みをAIに相談する人が増加中…カウンセリングが仕事の精神科医も「なかなか使える」－－留意すべき点とは？（読売新聞（ヨミドクター）） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA0OWZoVlRJSnRrYVdOWUdCMncwdm00NUtTU1hUUk9HaEdQMnpoX0F5QUFON0xBMkNYTE1ZT2RFdWtWLTRBcy1JY0pBSDhzeGNVU0VLdXBpSmpiU2kzUnZMazFFXzFMdGtDR1k1ZEpiX3A2bVhRTE9kQ2x1ZDgtSGc?oc=5
 
 - 寄せられた相談４万2128件に 児童家庭支援センター10年 育児、発育の悩み...内容に広がり - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQTVSaGcwQVJ2elE5LVE5R1NTbDY5Q1JhRkg5MXRkcWYtQUFsMHdKRThnVDl0dnd1aXY2SV9uTkU4SUxGQW5iYnFzUDdKQW1vWEFwR1RtQ0owZ1E?oc=5
 
-- ELYZA Worksにおいて、AIとの対話・相談を通じて業務AIアプリの作成・改善をより簡単に実現できる新機能の提供を開始 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5URXdiR1pMMnBtRFJYb1FxTDhoY1pRNmdBbnN2SmFqWFk2ekFRZENUWGoxSHlsZUZtRzNZc25fbG5Qb1d6RjVzVkNIVURoY0tYZkx4RnZWQ3NBN3hqM2g3YkF1V3czWTVjS2c?oc=5
-
 - 今月の相談アラカルト - city.tsubame.niigata.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTFA1UzRLRy02OEJicU8yRnN3ako1LS1mZUY4UG5CMktEcUgtal9jUkU4NDlIcXJqOEoyVVd3SU9RWDZMSHFTV1l6dFc0R3NZWklEeU1hRVlXOXl2R0hhRC1LTmUwMnM3SVU4dW9nSDFQYlJNQQ?oc=5
+
+- 腸のお悩み改善でもっと輝く毎日を - 朝日新聞
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfV1MtR2lVMzJnbXpQX1FfUXNDQm9kVjd1dHU3WmRVb3VUb1pEaGh1aVdoSlI4V1pEQ2NXQmhYTmtGRDFjWXJvRFc4WEpTNldBcldzaGlwb3I?oc=5
 
 - 【茅ヶ崎市・寒川町】茅ヶ崎市保健所「こころの健康相談」12月開催｜メンタルヘルス不調やうつ病等専門家に相談 - 湘南人
   https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TmVQWXBEZ3hSY1BGMUF3MVRfVHZSM2pMN0Y4YUJndTFsWWhxQ194TmhYbHJyZTFGVW9WMFZTdTNTWFNSY3ltSHhxR2ZfWTh1ZHpnb3ZRb3pQVDBYM1dVaHc3REJrQktFWG4yV21DUkVZS3lJ?oc=5
@@ -26,9 +29,6 @@
 
 - AIに人生相談したい人必見！おすすめの無料ツール6選とすぐに使えるプロンプトを紹介 - 株式会社SHIFT AI
   https://news.google.com/rss/articles/CBMiSkFVX3lxTE44TmhNcE1sVzFRQVBLZXVLQVRicC10WHZNTTBGVUtnMlI0ekpHOFJvZ0hQMVV5TXhRcmxnTUpQTi1RYk5MTTYwNVZB?oc=5
-
-- 種菓子という新ジャンルゆえの悩み 甘納豆の斗六屋4代目流の文化継承 - ツギノジダイ
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE40d1pyV19iQ21DOWJSWEt0ZXd3VWdmbElBckowejZnb2NsbWoyNEJraUFTWkxGRnJZbWpQLV9TMlRxblBBbUVPUF9KYTcwa1pQZUE?oc=5
 
 - 児童相談所の男性職員（60代）が複数児童にスリッパや平手で叩くなどの虐待行為か 「じゃれ合いの一環で悪意ない」と話す 群馬県 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zczF1TlJsOUN4b3BiNUxQV1ZyckctMVIwenJzUkpEVk9jTXBtbzRBbEhvXzNWRUxHd2s0U3o2ZUxHTXI3azBCM1FiSjZ6TlZld0NzUnBPbw?oc=5
@@ -48,14 +48,14 @@
 - 毎週木曜日は・・・「ホウ、レン、ソウ（報告・連絡・相談）！」 - tbsradio.jp
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwNll1TDlaNTFSbk5CM1dNTDRCQkZuSmI0WkNUWHJIZDF0R0YzQkxBck1yWDlucVNCSmJBcF94Q2EtZnZrbWxDQzl2eWZqS1RXZmc?oc=5
 
-- 寄せられた相談４万2128件に 児童家庭支援センター10年 育児、発育の悩み...内容に広がり - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rOFFNQ0VUczNSMzVrcHFCMjhmRWtpdllTckNvVjFtSjVORzdfMTBoYTJqT0pGZTI3QlF2cEJfU3BaM0E0VmFreHRiRQ?oc=5
+- 4000組の不登校親子を見てきた相談員が語る「親にどう育てられたかは、子育てに影響する？」（FRaU） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMURmcTRCb2l2YkEyVHhzSHlobkpKYjBBOGF0WjVPUXBPeHJpWDI3Ym1lNGRURXlOZmRvMmtGS1Q2bmp0YnU0SE9DU1pDSEs4Y3kzZUkwOG9MeWoyVXluRzlHT29Rc1hLTlFWZFJrb1FFcnRPY2lDMFdIa3AyZVE?oc=5
 
 - 受託開発のクラウド移行を「相談できる安心」で支える純国産クラウド──KAGOYA FLEX、株式会社シルフィード様の導入事例を公開 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE12WklJb1JvT0kzSkJVbF93X0JOdXBtSG1TVDNKd2Y3T0M5a1ZuSWZ4cHJIUUdwOFE5YzF6YUl2N3pJbXRRcHplZktSYVB2MkZlLUh5TmZYRWNiSXRMZlpLbi02MzdMUHg4dnc?oc=5
 
-- 4000組の不登校親子を見てきた相談員が語る「親にどう育てられたかは、子育てに影響する？」（FRaU） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMURmcTRCb2l2YkEyVHhzSHlobkpKYjBBOGF0WjVPUXBPeHJpWDI3Ym1lNGRURXlOZmRvMmtGS1Q2bmp0YnU0SE9DU1pDSEs4Y3kzZUkwOG9MeWoyVXluRzlHT29Rc1hLTlFWZFJrb1FFcnRPY2lDMFdIa3AyZVE?oc=5
+- 種菓子という新ジャンルゆえの悩み 甘納豆の斗六屋4代目流の文化継承 - ツギノジダイ
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE40d1pyV19iQ21DOWJSWEt0ZXd3VWdmbElBckowejZnb2NsbWoyNEJraUFTWkxGRnJZbWpQLV9TMlRxblBBbUVPUF9KYTcwa1pQZUE?oc=5
 
 - 【新刊書籍】『リアル事例からつかむ！ 現場で使えるアプローチ 主任ケアマネジャーのためのスーパービジョンのてびき―ケアマネジャーの悩み相談にどう対応する？―』発刊！ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBISTAzMmVyQWl4WWNlNHd2VktnN2lseTJ1QUx1MFY3MlFKcHZITVFvYkRENDJ1TW5nenB4YTItNUh0TmpkQnc4dnN4ZG5kdDZ4VVlpTVB0NkJGUF9YVm9jVzRqNHRLNFlRRWc?oc=5
