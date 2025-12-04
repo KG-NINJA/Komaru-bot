@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-03 23:09) ===
+=== こまる相談 ニュースフィード (2025-12-04 00:57) ===
 
 - 4000組の不登校親子を見てきた相談員が語る「親にどう育てられたかは、子育てに影響する？」（FRaU） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMURmcTRCb2l2YkEyVHhzSHlobkpKYjBBOGF0WjVPUXBPeHJpWDI3Ym1lNGRURXlOZmRvMmtGS1Q2bmp0YnU0SE9DU1pDSEs4Y3kzZUkwOG9MeWoyVXluRzlHT29Rc1hLTlFWZFJrb1FFcnRPY2lDMFdIa3AyZVE?oc=5
@@ -12,6 +12,12 @@
 - 雇用不安定な「女性相談支援員」にまず支援必要 DVや貧困相談、精神的な負担大きく - 中日新聞Web
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rREtrd0pjRVFDRUlUdE5MdXVkbURrZkRxcktNclloOXZreXB1c1RjY05DZEVLUFVIX2lXdFRuekd5RnJWWUhMVU9UNUFZYmQ0cmJrdA?oc=5
 
+- AIに人生相談したい人必見！おすすめの無料ツール6選とすぐに使えるプロンプトを紹介 - 株式会社SHIFT AI
+  https://news.google.com/rss/articles/CBMiSkFVX3lxTE44TmhNcE1sVzFRQVBLZXVLQVRicC10WHZNTTBGVUtnMlI0ekpHOFJvZ0hQMVV5TXhRcmxnTUpQTi1RYk5MTTYwNVZB?oc=5
+
+- 児童相談所の男性職員（60代）が複数児童にスリッパや平手で叩くなどの虐待行為か 「じゃれ合いの一環で悪意ない」と話す 群馬県 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zczF1TlJsOUN4b3BiNUxQV1ZyckctMVIwenJzUkpEVk9jTXBtbzRBbEhvXzNWRUxHd2s0U3o2ZUxHTXI3azBCM1FiSjZ6TlZld0NzUnBPbw?oc=5
+
 - ジェーン・スーさん新刊発売記念！40代のリアルな悩みに応えます！【仕事＆人間関係編】 - storyweb.jp
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qa0xwei1LdWw1RHF4OXZfNWs2eS0wZE9VNkpWS2tvenB5VloxMC1tZjJxQzdxUXZaT1lZUDNKUDRwNGV1X0pTVnFEeERlQQ?oc=5
 
@@ -21,42 +27,36 @@
 - 個別で安心 ｢終活｣無料相談会 12月13日（土）、年内最後の開催 | 中区・西区・南区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EajBHclo3WWVkUFZ5bnlfNWcxd0dUa0FVT3VUOTE2Vl9TVVFaaUZLNEhBVG9VakVSZV9LSGVtdHlxUmdZTTVweFIwRW1pLURiMU1VeTJoZnEzMTF0bkQyeHUzYno?oc=5
 
-- 児童相談所の男性職員（60代）が複数児童にスリッパや平手で叩くなどの虐待行為か 「じゃれ合いの一環で悪意ない」と話す 群馬県 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zczF1TlJsOUN4b3BiNUxQV1ZyckctMVIwenJzUkpEVk9jTXBtbzRBbEhvXzNWRUxHd2s0U3o2ZUxHTXI3azBCM1FiSjZ6TlZld0NzUnBPbw?oc=5
-
 - 4000組の不登校親子を見てきた相談員が語る「親にどう育てられたかは、子育てに影響する？」（FRaU編集部） | FRaU - 現代ビジネス
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hR054TU1ZUXd5eVFLMkgtLVV6MTA5ZnQ1UHlDT05DMTZqWEV3cFV2UHpYaVp1MVRBaHVrYXdfX29HRTI2SHdMUjJsZG1zZnM?oc=5
-
-- AIに人生相談したい人必見！おすすめの無料ツール6選とすぐに使えるプロンプトを紹介 - 株式会社SHIFT AI
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTE44TmhNcE1sVzFRQVBLZXVLQVRicC10WHZNTTBGVUtnMlI0ekpHOFJvZ0hQMVV5TXhRcmxnTUpQTi1RYk5MTTYwNVZB?oc=5
 
 - ふるさとハローワーク(茅野市地域職業相談室)をご利用ください - city.chino.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMHhsTVR0ZWZMR2VJd3RyS0RNQmluSXVWelRhQlhMVUVaS0Z2VjgwRkRpNHRGaVlMbU5XcUhzS3FpQjhrUEZCTHE1VW82Q0RWc0c3T3J2UXFjMEpjTklKZlBJdw?oc=5
 
+- 匿名で働く悩みを相談できるマッチングサービス「Advio（アドビオ）」12月4日より提供開始 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1wdkVVNHVRVHFZRFo4UEhiRl81ZUdEYzVUWG50SnM1U25WVFcwNndsZUFEakt3cDcySFd1M2tOS2xSUVZJTW91YTdWVUpnVWQxTWt6cWxPU2Q0YjJpdGZJRktKcExSUC1KS1E?oc=5
+
+- 投資詐欺被害防止街頭キャンペーン ７０歳以上の相談が４割占めるー賀茂消費生活センター - 伊豆新聞デジタル
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1TWprTDY5N3k5a29VZjBzOGFsQjVNeUh4Q2FCT3FDRHEzdEJlXzZETDBlRDRjTG9zYm5OVXl4YjlGN0JfOXZTdnFlcXJlQ2xxRnhHNDQzSTRnNVVT?oc=5
+
 - おくやみ相談窓口 - city.maebashi.gunma.jp
   https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTRmZmpOZTlKcDF4RXhpR3lLYUFaR1hZbUpudjZYUDFVMzFUdmloX1hiOG8wc0d1eWYtX1VTTzVLYkg1LVFwSXBYWlFHNzNMRURmNmhIWmJtenFRN1hXREQ2ekgzTElqVzlaVXJhSENzeER4WnBNSE9acGQtenVjZm82VQ?oc=5
-
-- 人権に関する悩み「気軽に相談を」 人権週間を前にPR 富山（2025年12月3日掲載）｜KNB NEWS NNN - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOR3k5NFpkSm83Q2ZKQzRYNEtSc1pMZ01tYjJyQnF1VnAzS09ZN3pWQnRHS1p6MGJPcWFCeWJUTFNZOFcwTG5jWGFSQkp6RFlQMFZwUFZVenA0UTBHX1Ztc1RVRVh4UWIwWEZiQUpHZ1J6NTlvY0RRdmtsTjJFV0ZTYVZCRGxHZzA?oc=5
 
 - ［医療ルネサンス］足の健康＜３＞悩み対応 専門クリニック - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMidEFVX3lxTE94dmtjYU9rSmoyX0h4RjZNTGVFMnp6QXo5MFRVaHpPSjZ1S2I5ZV9JNjFINUVGRDIyQkNJQTdSR2FKNVQ5RGp6T3ltX1VSWXFocUNkMDVYQy1TM2NiQjFrM3h5cExLc0dvcmdmb1NITEo4X2la?oc=5
 
+- 人権に関する悩み「気軽に相談を」 人権週間を前にPR 富山（2025年12月3日掲載）｜KNB NEWS NNN - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOR3k5NFpkSm83Q2ZKQzRYNEtSc1pMZ01tYjJyQnF1VnAzS09ZN3pWQnRHS1p6MGJPcWFCeWJUTFNZOFcwTG5jWGFSQkp6RFlQMFZwUFZVenA0UTBHX1Ztc1RVRVh4UWIwWEZiQUpHZ1J6NTlvY0RRdmtsTjJFV0ZTYVZCRGxHZzA?oc=5
+
 - 日々小論＞がん相談支援センター 論説委員・田中伸明|オピニオン - 神戸新聞
   https://news.google.com/rss/articles/CBMicEFVX3lxTE8zQnBlQnUxNEdDM0loWXZWTTVkT2M1NmVkMW9pUFhoUlJ3S2R3U3AyNXNvWEMtSnFLOG1NSWtOSE0xc0ExZ29nalVqQXNFM3Z5bElXUWJHUDdTWV8zR1B1MlJ6RXRiQlFGQVhGV1I3MTA?oc=5
 
-- 幅広い相談 県内４万２１２８件 - 下野新聞社
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qaEN3R1hOaEhIbTdSM24yM0pDdmt3QWhyOU1mMG9lLXBpS3Vtc1lsN3RJZ2hqUHNnQXpaRndoV29LYXNqUFpKRW1Wa1A1eko1MnFiTGtYbjhZazg?oc=5
-
-- 株式会社Smart相談室、サービスサイトを全面リニューアル - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFA5LTEyUlowdnJQdlFTRC15RDlIZVI3OUNPUjlEenYzMnFFTWlFWGI2M05YMzNYSTV4cEJMM2VMSUhVLVJyOThWWmpiV0lSSjVMR3hCWEpWNU45UjNQMWhyMlRuSFhISUh1cmc?oc=5
-
-- 横浜市 男性専用の電話窓口新設 背景に相談件数年々増 | 金沢区・磯子区 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fZ1JIOFlsMjFfNEN3STEyS1NQU2lBTks2NnV2N3dSQW5Jc0RJZGUzSzA3S3c1VHlRdV9PZzA3TG4tVi1nUS0wZ2Rwa1dXZ1c1elJReW16R1YyNlNMWWFDaFB6STc?oc=5
+- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
 - 不動産の専門家が集う 12月16日 無料相談会 | 港北区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NQjJTR0VxUWNEYlVTUFpQaU12RWZBMDdxWmhNdjFLd201VTdVREFzT19XXy1CZ1lveGZLN09XRnp3aG9Yb0s4bHBrdzJhTVZ4ZGt0aXhLbkFCUE5lYnpNSWpCWDg?oc=5
 
-- 「予約不要で査定・相談 無料でいたします」 骨董品・宝飾品など なんでも鑑定相談会 相模原市立産業会館 12月11日（木）10時〜16時 | さがみはら中央区 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVSnJtSjZxQXJLR05NcWQyWDhkb182TV9NR29lU0d5ZTIxSHFzZ2w0REM0aDFsVnFtTUsxVWdaVHFaNl9hY0VxTzBENTQ5ZVRMUjc5QlVoWjU1MF9vVEtHTk00a3I?oc=5
+- 横浜市 男性専用の電話窓口新設 背景に相談件数年々増 | 鶴見区 - タウンニュース
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HcXlzeHJSV0RqdzRYYnBsTUlKRUVuVVpaT04xcS01cHVPRGoxeTJSXzZmUENpcGtVRHVkQlhobUQ3ZU1ENFdEZFlYaklrOEVtSzlzYU5SMmRLdnhreDlZMTN5emY?oc=5
 
