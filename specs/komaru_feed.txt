@@ -1,34 +1,37 @@
-=== こまる相談 ニュースフィード (2025-12-04 22:10) ===
+=== こまる相談 ニュースフィード (2025-12-04 23:11) ===
+
+- 長野県が移住相談で首位返り咲き、温暖な宮崎県は3位に 総務省調査 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bGhJOG9zNms3SWV4OWk3TjZqcldKeWpmV1NMUnJPUzBPQXFXeXJIVHZ0Y2VuckRIZGVnQVc2MDI1LTJ5YTJsVWR0Q0ZOM1YtZ2lRZGpKRnE2dllhSGdxUWp1MTBzVHc?oc=5
 
 - 部下が自分の仕事しかしないという悩み - 日経クロステック
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02NkMzU1NmV3dzTHhMQ2ZTYzdPd084RmhydXZ3Sl9nVHIwd2RycThUWG5EbEtvYnZLUFZTbUVXQVNCVzNrV2tJeGQwdFRVQzlyX3daRHBGRmR0dmszeWpScF9PdTgtX2s?oc=5
 
-- 長野県が移住相談で首位返り咲き、温暖な宮崎県は3位に 総務省調査 - 朝日新聞
-  https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZQ2JJaEZGRTNhYmR0U19TeG5vTTltS2NXLVlKZFY0SkRuNFpkWnhkelRuMDhab0s5VEUzSzZDRnZsUzVmQ2NKSVFabDFaeFhkb1BkR1h1NHotbTUzdU5DQjIycEQwWTNZc2pwWkxZbGhVMVRSWUNqelhxTTFLQQ?oc=5
-
 - 年末金融相談窓口を12月26日まで開設：福岡県など - J-Net21[中小企業ビジネス支援サイト]
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZdWZTM2NOZUl6dHFmWDdOUmo4US1XcnhKTnFRZk9Pb2xrcU5JU0pUd0xza0ViV3V4eUY1RG16MXFYUlZBcGdkZ2V2akVEM3QtdFpqcURYazZ6dXVaOEFZY2p1dw?oc=5
-
-- 令和7年度 人権相談会 - city.minamisoma.lg.jp
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE11eVZjSFBNcDY2cXAtZkRRZVBFdXA1TnBKSDZqU1FjRXhKUjA3QjhReERDQ0FhM294WkN1VUxubzdLS3Q4V0Y5ZmZkSUFESTJBOTN6TFQ3SVUwLXd1blZ0VHNrS1pFWnFKRTlHOWhacUJETjlxMzJR?oc=5
 
 - 不登校の子ら、悩み相談は生成AIに 三田市教委が実証実験 性格異なる8キャラが応答|社会 - 神戸新聞
   https://news.google.com/rss/articles/CBMid0FVX3lxTE9lRzlJVk9NY2Z3SDYtNUExSm1aYlIzakF4SERneFhiS21UY3N4YXpHODhWN3g5emVqVlhXeFprOTN2OUxmZ3NtV0dkZHM1b2NTT3hfSnM4STZGcW1xZzZlMHIwNVJFWkRybEdHVUlXa0hETXlubzVJ?oc=5
 
-- 子どもの悩み「小さな変化がサイン」 こども家庭庁が啓発漫画・動画 - 教育新聞
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XY3lJV0xrRXBFcldzbjN2elFYYjJBWDVSRS04T0FCa2hqV1VRLWlxMk9rZXVYWk9jRGg1cy0xTlN3cXlSZi03aEpSWnlTcUpyUU1fRkVB?oc=5
+- 「セクハラ相談受けてない」 市幹部が否定 南城市議会一般質問 被害者「なぜうそを」 - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NaEtzNmxab1BHeTlpdmpsaTB5elUtdWttN0MxaHZvMGpSalEzRjJscXNTZkFKT0FGVElZbzlVQWZ1X2hKcFp3UExsT2NKaHBJUWVwaTJmZTZzQWV4M1I5UFhrQV9WTGc?oc=5
+
+- 令和7年度 人権相談会 - city.minamisoma.lg.jp
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE11eVZjSFBNcDY2cXAtZkRRZVBFdXA1TnBKSDZqU1FjRXhKUjA3QjhReERDQ0FhM294WkN1VUxubzdLS3Q4V0Y5ZmZkSUFESTJBOTN6TFQ3SVUwLXd1blZ0VHNrS1pFWnFKRTlHOWhacUJETjlxMzJR?oc=5
 
 - 今月の相談アラカルト - city.tsubame.niigata.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTFA1UzRLRy02OEJicU8yRnN3ako1LS1mZUY4UG5CMktEcUgtal9jUkU4NDlIcXJqOEoyVVd3SU9RWDZMSHFTV1l6dFc0R3NZWklEeU1hRVlXOXl2R0hhRC1LTmUwMnM3SVU4dW9nSDFQYlJNQQ?oc=5
 
+- 子どもの悩み「小さな変化がサイン」 こども家庭庁が啓発漫画・動画 - 教育新聞
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XY3lJV0xrRXBFcldzbjN2elFYYjJBWDVSRS04T0FCa2hqV1VRLWlxMk9rZXVYWk9jRGg1cy0xTlN3cXlSZi03aEpSWnlTcUpyUU1fRkVB?oc=5
+
 - ゆりかごと赤とんぼ 福井 助産師に気軽に相談 おいでよ！子育て支援センター | 催し・文化 | 福井のニュース - 福井新聞社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE51c1o5LUNSUXhPVTh1UmV2X1VHbzJWa3NNNFV2b1hTek0weVhHZkFLdHJTX0YwQURYdzNqLXdBUklScWhreHNjZURUQm43b1Npa2NwRVYwVE5jWGZmcmc?oc=5
 
-- 司法書士・税理士による 相続の無料個別相談会 12月16日、18日 多摩市民館で | 多摩区・麻生区 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE90NXQ2YXI5a3ZkeWhLYUFpTGkzVGx4UDY5dXVUMzJBZzVNaHFsLVMxaFg1Q3ZFeTdoWGM2RVh6V1lzS3cxSVBPMG1iTVJ0TDJvNzFTQmJZaE92ekdJYm93TmFXbks?oc=5
-
 - 児童相談所の男性職員（60代）が複数児童にスリッパや平手で叩くなどの虐待行為か 「じゃれ合いの一環で悪意ない」と話す 群馬県 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zczF1TlJsOUN4b3BiNUxQV1ZyckctMVIwenJzUkpEVk9jTXBtbzRBbEhvXzNWRUxHd2s0U3o2ZUxHTXI3azBCM1FiSjZ6TlZld0NzUnBPbw?oc=5
+
+- 司法書士・税理士による 相続の無料個別相談会 12月16日、18日 多摩市民館で | 多摩区・麻生区 - タウンニュース
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE90NXQ2YXI5a3ZkeWhLYUFpTGkzVGx4UDY5dXVUMzJBZzVNaHFsLVMxaFg1Q3ZFeTdoWGM2RVh6V1lzS3cxSVBPMG1iTVJ0TDJvNzFTQmJZaE92ekdJYm93TmFXbks?oc=5
 
 - 10代の33％がAIに深い相談、「心の居場所」に──Z世代が示す未来の生き方 - Forbes JAPAN
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDMHRkYzNTNXlQSnNST3Z3dzI2cGVXSVpibk5oUmMxelczakh4UjBub0xUQm1NTDRBZGdWTWdkUHNQdENfSmNMMTIxMHV1REVVRVRuZXhIYlI?oc=5
@@ -36,20 +39,17 @@
 - ELYZA Worksにおいて、AIとの対話・相談を通じて業務AIアプリの作成・改善をより簡単に実現できる新機能の提供を開始 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5URXdiR1pMMnBtRFJYb1FxTDhoY1pRNmdBbnN2SmFqWFk2ekFRZENUWGoxSHlsZUZtRzNZc25fbG5Qb1d6RjVzVkNIVURoY0tYZkx4RnZWQ3NBN3hqM2g3YkF1V3czWTVjS2c?oc=5
 
-- 寄せられた相談４万2128件に 児童家庭支援センター10年 育児、発育の悩み...内容に広がり - 下野新聞社
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQTVSaGcwQVJ2elE5LVE5R1NTbDY5Q1JhRkg5MXRkcWYtQUFsMHdKRThnVDl0dnd1aXY2SV9uTkU4SUxGQW5iYnFzUDdKQW1vWEFwR1RtQ0owZ1E?oc=5
-
 - ふるさとハローワーク(茅野市地域職業相談室)をご利用ください - city.chino.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMHhsTVR0ZWZMR2VJd3RyS0RNQmluSXVWelRhQlhMVUVaS0Z2VjgwRkRpNHRGaVlMbU5XcUhzS3FpQjhrUEZCTHE1VW82Q0RWc0c3T3J2UXFjMEpjTklKZlBJdw?oc=5
-
-- 「不安を否定せず受け入れてくれる」 悩みをAIに相談する人が増加中…カウンセリングが仕事の精神科医も「なかなか使える」－－留意すべき点とは？（読売新聞（ヨミドクター）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFA0OWZoVlRJSnRrYVdOWUdCMncwdm00NUtTU1hUUk9HaEdQMnpoX0F5QUFON0xBMkNYTE1ZT2RFdWtWLTRBcy1JY0pBSDhzeGNVU0VLdXBpSmpiU2kzUnZMazFFXzFMdGtDR1k1ZEpiX3A2bVhRTE9kQ2x1ZDgtSGc?oc=5
 
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
-- 「セクハラ相談受けてない」 市幹部が否定 南城市議会一般質問 被害者「なぜうそを」 - 琉球新報デジタル
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NaEtzNmxab1BHeTlpdmpsaTB5elUtdWttN0MxaHZvMGpSalEzRjJscXNTZkFKT0FGVElZbzlVQWZ1X2hKcFp3UExsT2NKaHBJUWVwaTJmZTZzQWV4M1I5UFhrQV9WTGc?oc=5
+- 寄せられた相談４万2128件に 児童家庭支援センター10年 育児、発育の悩み...内容に広がり - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQTVSaGcwQVJ2elE5LVE5R1NTbDY5Q1JhRkg5MXRkcWYtQUFsMHdKRThnVDl0dnd1aXY2SV9uTkU4SUxGQW5iYnFzUDdKQW1vWEFwR1RtQ0owZ1E?oc=5
+
+- ギャル曽根、「うるさい」に悩み『卒業』も…夫が明かした苦悩に「泣きながら出勤した」ネットもらい泣き（中日スポーツ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBaNkJLYmhjelgwUk94dDQ2a1lIclNUMHA5Y05IbWhyVGdsME1pbTNkeFVvcE1OcnpCejlDNkNrV0k0TkdFN3ZTbGlidmlVSGtfQ1I1OTR6VmJDVEh3UFAxTF9xMVNxMEgxMm15V3FNa0NQdzViWkN1SUFuQ1VxQkE?oc=5
 
 - 第45回 遺言･相続無料相談会 地元行政書士が個別に対応 | 川崎区・幸区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yLU5NX0VuV0M5RUNzc2ZiRzRjV3BKbDNkTDM5djdHNkk0YWtUVXNMZWhCbkVmTFV5V3ljQ19RamptVjhnQnRacnhMUjJtNTNZN1BUWDdJQnJpV0FfOE44bE5Kc2o?oc=5
