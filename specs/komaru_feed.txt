@@ -1,7 +1,13 @@
-=== こまる相談 ニュースフィード (2025-12-04 00:57) ===
+=== こまる相談 ニュースフィード (2025-12-04 02:46) ===
 
-- 4000組の不登校親子を見てきた相談員が語る「親にどう育てられたかは、子育てに影響する？」（FRaU） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMURmcTRCb2l2YkEyVHhzSHlobkpKYjBBOGF0WjVPUXBPeHJpWDI3Ym1lNGRURXlOZmRvMmtGS1Q2bmp0YnU0SE9DU1pDSEs4Y3kzZUkwOG9MeWoyVXluRzlHT29Rc1hLTlFWZFJrb1FFcnRPY2lDMFdIa3AyZVE?oc=5
+- 令和7年度 人権相談会 - city.minamisoma.lg.jp
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE11eVZjSFBNcDY2cXAtZkRRZVBFdXA1TnBKSDZqU1FjRXhKUjA3QjhReERDQ0FhM294WkN1VUxubzdLS3Q4V0Y5ZmZkSUFESTJBOTN6TFQ3SVUwLXd1blZ0VHNrS1pFWnFKRTlHOWhacUJETjlxMzJR?oc=5
+
+- 「不安を否定せず受け入れてくれる」 悩みをAIに相談する人が増加中…カウンセリングが仕事の精神科医も「なかなか使える」－－留意すべき点とは？（読売新聞（ヨミドクター）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFA0OWZoVlRJSnRrYVdOWUdCMncwdm00NUtTU1hUUk9HaEdQMnpoX0F5QUFON0xBMkNYTE1ZT2RFdWtWLTRBcy1JY0pBSDhzeGNVU0VLdXBpSmpiU2kzUnZMazFFXzFMdGtDR1k1ZEpiX3A2bVhRTE9kQ2x1ZDgtSGc?oc=5
+
+- 年末金融相談窓口を12月26日まで開設：福岡県など - J-Net21[中小企業ビジネス支援サイト]
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZdWZTM2NOZUl6dHFmWDdOUmo4US1XcnhKTnFRZk9Pb2xrcU5JU0pUd0xza0ViV3V4eUY1RG16MXFYUlZBcGdkZ2V2akVEM3QtdFpqcURYazZ6dXVaOEFZY2p1dw?oc=5
 
 - 今月の相談アラカルト - city.tsubame.niigata.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTFA1UzRLRy02OEJicU8yRnN3ako1LS1mZUY4UG5CMktEcUgtal9jUkU4NDlIcXJqOEoyVVd3SU9RWDZMSHFTV1l6dFc0R3NZWklEeU1hRVlXOXl2R0hhRC1LTmUwMnM3SVU4dW9nSDFQYlJNQQ?oc=5
@@ -9,8 +15,14 @@
 - 【茅ヶ崎市・寒川町】茅ヶ崎市保健所「こころの健康相談」12月開催｜メンタルヘルス不調やうつ病等専門家に相談 - 湘南人
   https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TmVQWXBEZ3hSY1BGMUF3MVRfVHZSM2pMN0Y4YUJndTFsWWhxQ194TmhYbHJyZTFGVW9WMFZTdTNTWFNSY3ltSHhxR2ZfWTh1ZHpnb3ZRb3pQVDBYM1dVaHc3REJrQktFWG4yV21DUkVZS3lJ?oc=5
 
+- 寄せられた相談４万2128件に 児童家庭支援センター10年 育児、発育の悩み...内容に広がり - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQTVSaGcwQVJ2elE5LVE5R1NTbDY5Q1JhRkg5MXRkcWYtQUFsMHdKRThnVDl0dnd1aXY2SV9uTkU4SUxGQW5iYnFzUDdKQW1vWEFwR1RtQ0owZ1E?oc=5
+
 - 雇用不安定な「女性相談支援員」にまず支援必要 DVや貧困相談、精神的な負担大きく - 中日新聞Web
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rREtrd0pjRVFDRUlUdE5MdXVkbURrZkRxcktNclloOXZreXB1c1RjY05DZEVLUFVIX2lXdFRuekd5RnJWWUhMVU9UNUFZYmQ0cmJrdA?oc=5
+
+- 種菓子という新ジャンルゆえの悩み 甘納豆の斗六屋4代目流の文化継承 - ツギノジダイ
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE40d1pyV19iQ21DOWJSWEt0ZXd3VWdmbElBckowejZnb2NsbWoyNEJraUFTWkxGRnJZbWpQLV9TMlRxblBBbUVPUF9KYTcwa1pQZUE?oc=5
 
 - AIに人生相談したい人必見！おすすめの無料ツール6選とすぐに使えるプロンプトを紹介 - 株式会社SHIFT AI
   https://news.google.com/rss/articles/CBMiSkFVX3lxTE44TmhNcE1sVzFRQVBLZXVLQVRicC10WHZNTTBGVUtnMlI0ekpHOFJvZ0hQMVV5TXhRcmxnTUpQTi1RYk5MTTYwNVZB?oc=5
@@ -27,36 +39,24 @@
 - 個別で安心 ｢終活｣無料相談会 12月13日（土）、年内最後の開催 | 中区・西区・南区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EajBHclo3WWVkUFZ5bnlfNWcxd0dUa0FVT3VUOTE2Vl9TVVFaaUZLNEhBVG9VakVSZV9LSGVtdHlxUmdZTTVweFIwRW1pLURiMU1VeTJoZnEzMTF0bkQyeHUzYno?oc=5
 
-- 4000組の不登校親子を見てきた相談員が語る「親にどう育てられたかは、子育てに影響する？」（FRaU編集部） | FRaU - 現代ビジネス
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hR054TU1ZUXd5eVFLMkgtLVV6MTA5ZnQ1UHlDT05DMTZqWEV3cFV2UHpYaVp1MVRBaHVrYXdfX29HRTI2SHdMUjJsZG1zZnM?oc=5
-
 - ふるさとハローワーク(茅野市地域職業相談室)をご利用ください - city.chino.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMHhsTVR0ZWZMR2VJd3RyS0RNQmluSXVWelRhQlhMVUVaS0Z2VjgwRkRpNHRGaVlMbU5XcUhzS3FpQjhrUEZCTHE1VW82Q0RWc0c3T3J2UXFjMEpjTklKZlBJdw?oc=5
 
-- 匿名で働く悩みを相談できるマッチングサービス「Advio（アドビオ）」12月4日より提供開始 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1wdkVVNHVRVHFZRFo4UEhiRl81ZUdEYzVUWG50SnM1U25WVFcwNndsZUFEakt3cDcySFd1M2tOS2xSUVZJTW91YTdWVUpnVWQxTWt6cWxPU2Q0YjJpdGZJRktKcExSUC1KS1E?oc=5
+- 4000組の不登校親子を見てきた相談員が語る「親にどう育てられたかは、子育てに影響する？」（FRaU編集部） | FRaU - 現代ビジネス
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hR054TU1ZUXd5eVFLMkgtLVV6MTA5ZnQ1UHlDT05DMTZqWEV3cFV2UHpYaVp1MVRBaHVrYXdfX29HRTI2SHdMUjJsZG1zZnM?oc=5
+
+- 【新刊書籍】『リアル事例からつかむ！ 現場で使えるアプローチ 主任ケアマネジャーのためのスーパービジョンのてびき―ケアマネジャーの悩み相談にどう対応する？―』発刊！ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBISTAzMmVyQWl4WWNlNHd2VktnN2lseTJ1QUx1MFY3MlFKcHZITVFvYkRENDJ1TW5nenB4YTItNUh0TmpkQnc4dnN4ZG5kdDZ4VVlpTVB0NkJGUF9YVm9jVzRqNHRLNFlRRWc?oc=5
+
+- 心疾患の女性、成長過程で悩み相談を 静岡市葵区で講演会 - 静岡新聞DIGITAL
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vd0VYR1ZVTG1OVTg0RnY2Sl9XYTFrdV9DSzZ0YVBJeFp4TTFBZE9nS3J5S182NzA5a29XZXcwNW1sRFhqUnBPeG5oRGdBQQ?oc=5
 
 - 投資詐欺被害防止街頭キャンペーン ７０歳以上の相談が４割占めるー賀茂消費生活センター - 伊豆新聞デジタル
   https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1TWprTDY5N3k5a29VZjBzOGFsQjVNeUh4Q2FCT3FDRHEzdEJlXzZETDBlRDRjTG9zYm5OVXl4YjlGN0JfOXZTdnFlcXJlQ2xxRnhHNDQzSTRnNVVT?oc=5
 
-- おくやみ相談窓口 - city.maebashi.gunma.jp
-  https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTRmZmpOZTlKcDF4RXhpR3lLYUFaR1hZbUpudjZYUDFVMzFUdmloX1hiOG8wc0d1eWYtX1VTTzVLYkg1LVFwSXBYWlFHNzNMRURmNmhIWmJtenFRN1hXREQ2ekgzTElqVzlaVXJhSENzeER4WnBNSE9acGQtenVjZm82VQ?oc=5
-
 - ［医療ルネサンス］足の健康＜３＞悩み対応 専門クリニック - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMidEFVX3lxTE94dmtjYU9rSmoyX0h4RjZNTGVFMnp6QXo5MFRVaHpPSjZ1S2I5ZV9JNjFINUVGRDIyQkNJQTdSR2FKNVQ5RGp6T3ltX1VSWXFocUNkMDVYQy1TM2NiQjFrM3h5cExLc0dvcmdmb1NITEo4X2la?oc=5
 
-- 人権に関する悩み「気軽に相談を」 人権週間を前にPR 富山（2025年12月3日掲載）｜KNB NEWS NNN - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOR3k5NFpkSm83Q2ZKQzRYNEtSc1pMZ01tYjJyQnF1VnAzS09ZN3pWQnRHS1p6MGJPcWFCeWJUTFNZOFcwTG5jWGFSQkp6RFlQMFZwUFZVenA0UTBHX1Ztc1RVRVh4UWIwWEZiQUpHZ1J6NTlvY0RRdmtsTjJFV0ZTYVZCRGxHZzA?oc=5
-
-- 日々小論＞がん相談支援センター 論説委員・田中伸明|オピニオン - 神戸新聞
-  https://news.google.com/rss/articles/CBMicEFVX3lxTE8zQnBlQnUxNEdDM0loWXZWTTVkT2M1NmVkMW9pUFhoUlJ3S2R3U3AyNXNvWEMtSnFLOG1NSWtOSE0xc0ExZ29nalVqQXNFM3Z5bElXUWJHUDdTWV8zR1B1MlJ6RXRiQlFGQVhGV1I3MTA?oc=5
-
-- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
-
-- 不動産の専門家が集う 12月16日 無料相談会 | 港北区 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NQjJTR0VxUWNEYlVTUFpQaU12RWZBMDdxWmhNdjFLd201VTdVREFzT19XXy1CZ1lveGZLN09XRnp3aG9Yb0s4bHBrdzJhTVZ4ZGt0aXhLbkFCUE5lYnpNSWpCWDg?oc=5
-
-- 横浜市 男性専用の電話窓口新設 背景に相談件数年々増 | 鶴見区 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HcXlzeHJSV0RqdzRYYnBsTUlKRUVuVVpaT04xcS01cHVPRGoxeTJSXzZmUENpcGtVRHVkQlhobUQ3ZU1ENFdEZFlYaklrOEVtSzlzYU5SMmRLdnhreDlZMTN5emY?oc=5
+- 4000組の不登校親子を見てきた相談員が語る「親にどう育てられたかは、子育てに影響する？」（FRaU） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMURmcTRCb2l2YkEyVHhzSHlobkpKYjBBOGF0WjVPUXBPeHJpWDI3Ym1lNGRURXlOZmRvMmtGS1Q2bmp0YnU0SE9DU1pDSEs4Y3kzZUkwOG9MeWoyVXluRzlHT29Rc1hLTlFWZFJrb1FFcnRPY2lDMFdIa3AyZVE?oc=5
 
