@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-11 09:17) ===
+=== こまる相談 ニュースフィード (2025-12-11 10:14) ===
 
 - 管理栄養士による栄養相談を実施 - 滋賀大学
   https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xVXRkNE14X0hGaVdxYkFCNE0xczM3cUJrRzBIUFdSUVFqallUbkoyTTFyUjNHVGFYdk1PRXR5aHJ5c05rbXcw?oc=5
@@ -15,20 +15,17 @@
 - 【ウェルネスダイニング】ローソン店舗から“栄養相談”にアクセス可能に 健康宅配食の店頭販売も開始し、日常の中に新しい食支援の入り口を創出 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFA4eFludkJnUjZhVF9CY0loVUZzN1JVUjdQUXRRdTBOOUl2TFAyNl9sRkpnU2F2RVFtb0k4SFBKcUFrZS1LcTJUbFN5WE9JcGs3ak50YXE3NTBvdHhBVk9zY01hdE50TTRyVGc?oc=5
 
+- 高校生の約9割「学習にAIを活用したことがある」 3割は「AIに悩み相談する」 - ITmedia
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE51VmZZZHpldUxUcmJNZ09BczNOSGoxS0VJeEh1MWZYb3AzSU1WeW82bmhDTVF6elpPVXpoNlVFcGt2V3hfeG9EVUVVVmxzU0dJRmdFOWtmTlIxMm5BRzRISEgycnFJMTRqTmZuRHEwdw?oc=5
+
+- 「内密出産」４年で６０人＝「悩みながら進む」―熊本・慈恵病院 - 時事通信ニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE92ZkNoMkFRdTRBMFRvX05xalE3UWYxVWZRV25zVWgxbTZTaFVDTWplTGFhRl83c0F1Ymx3R3VtUFhTcktOZ0pjNlpOcVlpQi1EQWtmTA?oc=5
+
 - 半数超の家庭が子どもの家庭学習に悩み。もっとも大きな悩みは「自主的に取り組まない」こと【NEXERと家庭教師のファミリーによる調査】 - EdTechZine
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PX2F2REpMaEFWaFRuNGxMQTVpcDdkbVZRc2FDVTJoMHkwTW9qNS1GUVRka3BOWDVGTkU2bFRybjFCNGpLbTZiQVRzaDAwUEJlQ1F5eQ?oc=5
 
 - 2025年のCopilot利用動向調査 - 健康相談がトップ、AIは日常の相談役に - マイナビニュース
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DUTJvSlhXTnI5Wk5DSDNxNnhQcm5wbFRQYVFlYmpHcktzb0w5NjVndGtDbnZ1dExOdVFBbTFwQko3a0Uyb1VYNURudWdUOWpadEpFelJsbWQ3clJPZ2V3eGtUa25vcXBB?oc=5
-
-- 「内密出産」４年で６０人＝「悩みながら進む」―熊本・慈恵病院 - 時事通信ニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE92ZkNoMkFRdTRBMFRvX05xalE3UWYxVWZRV25zVWgxbTZTaFVDTWplTGFhRl83c0F1Ymx3R3VtUFhTcktOZ0pjNlpOcVlpQi1EQWtmTA?oc=5
-
-- 高校生の約9割「学習にAIを活用したことがある」 3割は「AIに悩み相談する」 - ITmedia
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE51VmZZZHpldUxUcmJNZ09BczNOSGoxS0VJeEh1MWZYb3AzSU1WeW82bmhDTVF6elpPVXpoNlVFcGt2V3hfeG9EVUVVVmxzU0dJRmdFOWtmTlIxMm5BRzRISEgycnFJMTRqTmZuRHEwdw?oc=5
-
-- 「訴訟を検討」「弁護士に相談」と意気込む人も…マツダが希望退職者募集で“駆け込み申請”が殺到した理由 - 文春オンライン
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oc2NOZFV4d3RqVGtXTDc1UFdSYmRwbkZLdDI5NzZycjZjVlBTbjVJZVAta25fSzdPR2szR0NCXzVNRUp4bHR6RHZuZw?oc=5
 
 - 『奇天烈相談ダイヤル』開発者インタビュー。怪異に対するこだわりや、コンシューマ版で実現できた追加要素とは？ - 電撃オンライン
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE81MXU4d2tiNkE5NlJlS1Rka2pLcHNYcGxDZk9ocVB1OEl5ZV8zMVRMX081WHBOZl9Bc0c0WVc4d2lTZmZUT0puRnpmazA1bnZERW9KVWhRd2JvQQ?oc=5
@@ -36,8 +33,8 @@
 - ふるさとハローワーク(茅野市地域職業相談室)をご利用ください - city.chino.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMHhsTVR0ZWZMR2VJd3RyS0RNQmluSXVWelRhQlhMVUVaS0Z2VjgwRkRpNHRGaVlMbU5XcUhzS3FpQjhrUEZCTHE1VW82Q0RWc0c3T3J2UXFjMEpjTklKZlBJdw?oc=5
 
-- 全国にファンを持つ漢方相談薬局「とちの木薬局」が 25周年を祝う会を開催、多数のファンが駆けつける - アットプレス
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VWXMzNDk3UmoxX01RbHRBQjFZbF9vWFkyMVJheEVPTEsyUkt2SXFmYmdxX2U3QXd0dUxiOWlWUFJvZExSWlN2Q0tCM1pYdw?oc=5
+- 【初回相談無料キャンペーン実施中】哲学を社会に生かす！株式会社TETSUGAKUが各種事業を展開中 - newscast.jp
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxcjJtZlpldjcyU1U1aDBaTmFWODAzd1VzdjAyMWQ0SllWcXNrV0J6RHVMQ3NjckZFUFIzdDBXX05pWUFSQ3pxajFQVlVwSG8?oc=5
 
 - 地震関連の相談を一括で受け付け むつ市 被災者支援の相談窓口開設（ABA青森朝日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBHYU1aak5reTFyNnlreFVDRVg3TTFQV0ZKcDRtN3ZJV1A0Y1RkU2wxNEVhU1hIb2I2VWxVdE9UWUIzQW9SY1pSZGQtZllPZV93TWM4em0xVU5FYnNTVGJFN1R3NFVZRWlZX3Q1R3ItbE80Y3VZOXl6YVRJaFhIOUE?oc=5
@@ -48,6 +45,9 @@
 - ローソン 愛媛5店舗に「よろず相談所」 島しょ部も含め生活相談の拠点に（食品新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5oMGtZcWJIRC1KWERuSlpLUHpXczFUenhXNGVROGtuRXpGaHlyOVdYYmExcTFNdHNhcVJYOUVFbldSSTZIVFhJbVBoRTh0Z3F4TzhIbURtQzU4NDJHOG9zVDBPT0ZDcFQ4ajJBOGpjbmVOd2xjT05JLU52a0VxamM?oc=5
 
+- 足のお悩みを解決する新たなラインナップ「footy 薬用フットポロポロジェル」が新発売！ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBpNDEtUnppNkVfMXYyLU1jblVoOVgzai02RzIxWFYtZ1JTQXI4YWNNdlJ2S2ZLWW9LNGdtdTh3ek1URUZWNEVFN2MtTHh2OGRFSDhKaEpaNzJSaWF2RjhVNGZqUGR4b1YtdWc?oc=5
+
 - どれだけ相談件数増えてる？みずほ銀行「オンライン相談拠点」を拡大させる納得の理由（ビジネス＋IT） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1wSlIxNVR2WlF1OHVPUkZUaFZ3WTZvdlFFUkMyeWtUUlQwZ1pzenVWcl9wS1B5emJ2Mkt6M3Q3djljNDVJTkptSGZoVkh5X2w1RjZiWWZWb3lYa3VTNVc1V3N1MDZOR1hITFc3aEZkc19kRERZcklRdmV6QlNtaTA?oc=5
 
@@ -57,6 +57,6 @@
 - 【ウインターカップ2025】悩みながら身に着けた「考えるバスケ」で飛躍、日本航空石川の武川穏音＆小杉優衣「共通理解が楽しい」（BASKET COUNT） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBuMDdmN2FXMkpKX1M3dDkySmhkQ0lRbXFNWWQxdy01Q3l2enNESVlCSXRzdzA3Zm1tMGxVMEZqNmxWNXFJYmtZWktJM3h0M1hHNjJrMFdqeEdxcE9rakpJMUR3bjI5ajhRNEpzd0xtdDRYeU9mY0o4Q3BITW0zd2c?oc=5
 
-- 足のお悩みを解決する新たなラインナップ「footy 薬用フットポロポロジェル」が新発売！ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBpNDEtUnppNkVfMXYyLU1jblVoOVgzai02RzIxWFYtZ1JTQXI4YWNNdlJ2S2ZLWW9LNGdtdTh3ek1URUZWNEVFN2MtTHh2OGRFSDhKaEpaNzJSaWF2RjhVNGZqUGR4b1YtdWc?oc=5
+- 「訴訟を検討」「弁護士に相談」と意気込む人も…マツダが希望退職者募集で“駆け込み申請”が殺到した理由（文春オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFA3cnlfd21NMlVHWVc3SnExUW5CS2syeGdvVFRLU0ZmWERBMVlfb2N1VHNyYVFoVzZ1Rm1pVGVSN2YtQjhEbmlOckVVYWFBcUZwS3YtMDRXUXV1UUN4ZG5DMmhHZTl6SFkzaTc3U2ZjR2xwM1ZmVDUwbHVQcUVaNDQ?oc=5
 
