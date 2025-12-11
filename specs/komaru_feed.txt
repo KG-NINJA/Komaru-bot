@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-11 21:13) ===
+=== こまる相談 ニュースフィード (2025-12-11 22:12) ===
 
 - 管理栄養士による栄養相談を実施 - 滋賀大学
   https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xVXRkNE14X0hGaVdxYkFCNE0xczM3cUJrRzBIUFdSUVFqallUbkoyTTFyUjNHVGFYdk1PRXR5aHJ5c05rbXcw?oc=5
@@ -15,17 +15,23 @@
 - カキ大量死、広島・岡山で事業者向け相談窓口 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE10RWRSRllJdnZDYzBEZ0swc3BJSzgzYU1vNnpmR0ZLUjQ0TEhKeVRfcFRudl9OQnZ5M0RSV0JSYmpoWU9LSkJPYm1LZWZFSE93ZXh2cnU1T0Jid9IBXEFVX3lxTE1wano0eDFKSFN3NnN1VWhvTjdpbGNJTmdNbVRmcDYyRXZaRlRxR3Q2dFVia2JhMnRVOXZ3SUcwRlBjOEUtcGxQRUZNTmJvQXJzTk9WSW1velVkRXNP?oc=5
 
-- 辻村だより、５ - Design Stories
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE81bDltMjBIamZweFBvQ2UxMjZpWXBWQnpOcVRmX1BQTlM5eFFuVmRuS0V1T3Fqd1ZOSVhzbGl0Z2g1ZWtXWlNQWHJ0R1FNV1RNcFFvLUc1MUxVRy1lZTRjdkZtU0l2QQ?oc=5
+- iPhoneの容量不足にお悩みのみなさん、その最適解は“貼り付く”コレです！ [Sponsored] - PC Watch
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE9jNjVHM0xqSHhONEtTSXVpNkVmUWlZZzhRdlU5ZnM5OVBqcGl0NkFRTGEzR0QtblRoTU9nY2h4akp0S0xhUlFVRjI5NUZ4ajRYZzIxWnk4Mk9NMFhpNDJEc3BzX3YzTUdCNWNFa2tkMA?oc=5
 
-- キャッシュレス納税 利用を 北洋銀と釧路税務署、 相談コーナー設置【釧路市】 - 釧路新聞電子版
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaXzhGZ21yRmt4bE10WHl5Z2xlZW1vcnNiaWsxeWpTMjNORUVXcU1MRG1IcmpQdXItZ3hCckxwbGs4cURoSXJCY0QycUxoTGpBSGdJ?oc=5
+- 悩みの相談相手に生成AIを活用する高校生が約3割 、「デジタル・AI活用が増えた」が約7割～ベネッセ調べ - 教育家庭新聞社
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zZ0c1N3FaVmNDUzlpYVNjX1V1eVA5Mm1KNlFPUkVIeS1sNXNtWGpWQmdhN3Z1SnpVNkhkQjlvSjhoSmRvSFNXTU96UnhPNUVtdGpj?oc=5
 
 - ふるさとハローワーク(茅野市地域職業相談室)をご利用ください - city.chino.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMHhsTVR0ZWZMR2VJd3RyS0RNQmluSXVWelRhQlhMVUVaS0Z2VjgwRkRpNHRGaVlMbU5XcUhzS3FpQjhrUEZCTHE1VW82Q0RWc0c3T3J2UXFjMEpjTklKZlBJdw?oc=5
 
 - 【12月19日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
+
+- キャッシュレス納税 利用を 北洋銀と釧路税務署、 相談コーナー設置【釧路市】 - 釧路新聞電子版
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaXzhGZ21yRmt4bE10WHl5Z2xlZW1vcnNiaWsxeWpTMjNORUVXcU1MRG1IcmpQdXItZ3hCckxwbGs4cURoSXJCY0QycUxoTGpBSGdJ?oc=5
+
+- 辻村だより、５ - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE81bDltMjBIamZweFBvQ2UxMjZpWXBWQnpOcVRmX1BQTlM5eFFuVmRuS0V1T3Fqd1ZOSVhzbGl0Z2g1ZWtXWlNQWHJ0R1FNV1RNcFFvLUc1MUxVRy1lZTRjdkZtU0l2QQ?oc=5
 
 - 「悩み抱え込まず吐き出して」 男性も苦しむ家事・育児ストレス、従来の父親像にとらわれ - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE1namFtdUR4aDlfMklvX0hreXI0NGgzLV9LeFlSQmNGdEEtcWFfSWpPSGhTQ0lGX3pOZW9iRGFNdHBBNUtWeVZyZDFBZE11aUtNclI0aHl2dmIwMW9wOUFKaDh1THNaaGYtMTdXU2o3T3QxRmxBUkE?oc=5
@@ -35,9 +41,6 @@
 
 - 2025年のCopilot利用動向調査 - 健康相談がトップ、AIは日常の相談役に - マイナビニュース
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DUTJvSlhXTnI5Wk5DSDNxNnhQcm5wbFRQYVFlYmpHcktzb0w5NjVndGtDbnZ1dExOdVFBbTFwQko3a0Uyb1VYNURudWdUOWpadEpFelJsbWQ3clJPZ2V3eGtUa25vcXBB?oc=5
-
-- 「内密出産」４年で６０人＝「悩みながら進む」―熊本・慈恵病院 - 時事通信ニュース
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE92ZkNoMkFRdTRBMFRvX05xalE3UWYxVWZRV25zVWgxbTZTaFVDTWplTGFhRl83c0F1Ymx3R3VtUFhTcktOZ0pjNlpOcVlpQi1EQWtmTA?oc=5
 
 - 岡山県で2026年1月に「創業相談会」 中小企業診断士らが相談にのり創業を支援（KSB瀬戸内海放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5WYmcxMml3NG9VRklDSUN4dFk1LXNhTUJ6Q2VWVExqTWFNNDF5cVp0VnFZaVh1OWRBd3J2b0N6Ykw3ekRpbWxPekhZYmRtY0hLeFh4U2hiTmhac0pod1k1Tkx2Z3FXWkM4QnBlbnR3ODVDTGo1N3l3Q2VHTmV3NlU?oc=5
@@ -56,7 +59,4 @@
 
 - どれだけ相談件数増えてる？みずほ銀行「オンライン相談拠点」を拡大させる納得の理由（ビジネス＋IT） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1wSlIxNVR2WlF1OHVPUkZUaFZ3WTZvdlFFUkMyeWtUUlQwZ1pzenVWcl9wS1B5emJ2Mkt6M3Q3djljNDVJTkptSGZoVkh5X2w1RjZiWWZWb3lYa3VTNVc1V3N1MDZOR1hITFc3aEZkc19kRERZcklRdmV6QlNtaTA?oc=5
-
-- 高校生の約9割「学習にAIを活用したことがある」 3割は「AIに悩み相談する」（ITmedia NEWS） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1uMG80UWxtVFBfR0RaQ0Q5ZFJCbXJhVjIxZDBNOHBObHVJdFhPNXdZOExTb0V1N0kzZUNGMU9NazZ4dk1DSmxuMmxQbXRGUXprWkFKVTdTTjJBaUtDSkdNb0lIVFBkVVhyanZUQlhyY1dfb2R1ZVNfamY0RGczLVk?oc=5
 
