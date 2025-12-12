@@ -1,4 +1,10 @@
-=== こまる相談 ニュースフィード (2025-12-12 10:13) ===
+=== こまる相談 ニュースフィード (2025-12-12 11:12) ===
+
+- 概算整備費に30億円 児童相談所設置へ、基本計画案公表 宇都宮市 - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ma2xKZXA5ZnZUQ2Y0S205YzR5MWpLbHQ0ekFjOHBZN01FNFpESERNNzRLeFZBTDBxRHBEZm5sWVJQSTkzaGVnbTI1T0NRWHdmMWVydHM3bW1kc3c?oc=5
+
+- 超知能 仕事再定義(5) AIに悩み打ち明けるホスト 「感情労働」痛みからの解放 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZUmc5ck44OWhQM2JJSF9zbHpEUzdveVU4LVdZUW9HZlNsMkY1RjJUYlJNMG1mMW1tMVdsX3NNbm1UWTlEWlU3dnphak11bmczRGIwUGxySWNCeWZmYV9uSDdVTGlzYmlFWWY4cw?oc=5
 
 - 生成AIにお金の相談？2025年の投資状況は？「お金の意識調査2025」を実施 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9pbWdIbE9WLUtuRkhBclFpb1JweUUyUEVwNEZPTGM5LWtIekdlUGNzSzAyYWVVV0I0VlFJN3hGcDdPTEhaTnNjcXF4ZTVBSUNqX1JZVjNZR1B5bEJaT2E5RWdJX004SmdycWc?oc=5
@@ -12,17 +18,23 @@
 - 大分県の労働相談件数、過去最多９１９７件…同僚に悪口を言いふらされるなど「いじめ・嫌がらせ」８９４件 - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMickFVX3lxTE15aW5TQ3BpanFmSWg5UGJRbWN4UDF2eDZGNkZZUkpFVzIyMlR6Wkl6YWRCeXl3eWFILUtvUTFZRFZSa2pWTlhUSkdweGVVeDBqVWlTcUhZVUZGekZVNTJBUVA5NmdQYzNkVE9sZFNqOG9DUQ?oc=5
 
+- 「奇天烈相談ダイヤル」，コンシューマ機版を本日配信開始。お悩み相談室の相談員となって，怪異の仕業かそうでないかを判定するADVゲーム - 4Gamer.net
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LdjR0YWpYeFFocnExSWlOTExRVEpaTDdad0k2RUNUVEpodHVqaHpNbHFhaU1lV05fb1czMUNvblU4NVI0N2lXRGRMaTdTYkFZMFNsdWdkYW92OG55dXZDMlVOWQ?oc=5
+
 - イッツコム、自由が丘にサービスの体験・相談窓口新店舗 - 電波タイムズ
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RM1VvcUJnVU5ra2RkQkRwRUtJRGZjajd1OWdvMDRHYTRPcDVGTTN3QWRlTVpNSW9wV3FMTkh3a3plQzNiNjJfSWJsSk5uakREZ01n?oc=5
+
+- 高市首相がパーティー自粛で「一番困った」ことは… 規範見直し意欲 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LcW1jN0NtSXptb1JWTGNSc0pSR3QyOHhXUDBJcVZLUWxmbkk0bjd6MTQ2YXUySjhiLTVnTW5FYjgwVWQ2cGc1dHBFX3pieXQ2UnVYWGxBTll2dWp1a2ZGdldKLVZnZUU?oc=5
 
 - 洗濯機の「完全分解クリーニング」相談件数が 前年同期比2.3倍に急増 家電価格上昇で高まる“延命クリーニング”ニーズ - アットプレス
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE51eV9xbUE1S0haNjBFVV8zdlJtQTJMSzZBeHN2cDRRbXY2NUNXM004VE83eHp4WHZ1dkFxZGhIUFRqQU4teXg2UXY2S2FlUQ?oc=5
 
-- 「奇天烈相談ダイヤル」，コンシューマ機版を本日配信開始。お悩み相談室の相談員となって，怪異の仕業かそうでないかを判定するADVゲーム - 4Gamer.net
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LdjR0YWpYeFFocnExSWlOTExRVEpaTDdad0k2RUNUVEpodHVqaHpNbHFhaU1lV05fb1czMUNvblU4NVI0N2lXRGRMaTdTYkFZMFNsdWdkYW92OG55dXZDMlVOWQ?oc=5
-
 - どうすれば安全安心：妊産婦 心の健康の危機 抱え込まず、悩みを相談 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HRkRnbWRiVEVuR21IT2c3QVE0VWNZTjJORlhDaFQwcU51VG9yZkNtQS1FSDZyYUw1QWdoVUVMT01hRzV2UlNvMkFHWWQ3SklBNk9QUjF6ejVnbElLSUFteDdyOU5VMGIz?oc=5
+
+- 【期間限定】小さなモヤモヤでもOK。「3つのデジタル課題」をUX専門家に相談できる無料オンライン会を実施中！ - newscast.jp
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fSHpaQzF2b1JpQm83UlpESVppYmJ4S0lxTklvRjBVQW4yaVZPNEhZTGM5UWREQnJxSnFnWVVDVWk3b05LamQ4UmNYdWZQSk0?oc=5
 
 - 住宅購入の無料相談窓口「LIFULL HOME’S 住まいの窓口」ってどんな場所？店舗を取材してみました！ - ホームズ
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xdUo1b3RGSVZiNXgyQ1hndWFFYzViMHM4T1JwcmZ5WFRaMnQyTVVVOGVma0YwUTZTUzBtTGtkVHNuVVdUcXpKaFpUNjM0X0lNYzVKdnRXMGRYbzd0WGxsSjVkSi1hUnpI?oc=5
@@ -33,30 +45,18 @@
 - 「信用せず相談を」俳優・平愛梨さんが一日署長 郡山北署、３年連続:地域ニュース - 福島民友新聞社
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NRWxqbGFLOTFQcXpiNTRnYVpmY09SUXM1MEpJWnBHbXVFVHJTU2Y5bG1YajY2NGh4Q0lERFRiekthcExoM1otNzdFcFZkX1JlZkJRLUxCdWd1aFd5T0JhWkhnVTN0UVpE?oc=5
 
-- ケムコ、怪異専門の電話相談員として怪異かどうかを判定するADV『奇天烈相談ダイヤル』家庭用ゲーム機版を発売 - gamebiz【ゲームビズ】
-  https://news.google.com/rss/articles/CBMiREFVX3lxTFBSUkVGWTFIc2VoX0RSUUhGNHNtbWdOaGZncDBXYnF6YlhvcUpRaVgzd0JwX2hZZ2lDejVSZm9IR3dLcTNp?oc=5
-
-- 管理栄養士による栄養相談を実施 - 滋賀大学
-  https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xVXRkNE14X0hGaVdxYkFCNE0xczM3cUJrRzBIUFdSUVFqallUbkoyTTFyUjNHVGFYdk1PRXR5aHJ5c05rbXcw?oc=5
-
-- カキ大量死で商工中金松山支店が相談窓口 - 愛媛新聞
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYVlVaFk0QUpZeHJNT0lZc3RSY2R5NlFpTmxmMm90QVJib2JjaXJXa2lHcHFwSGdFZmk2X0lUZUhkb2FzLVlXVWlyN2RlZHlyQk1KR21zVXRXUWo0bXpHNA?oc=5
-
-- Staywayが新設した2026年度補助金無料相談窓口で中小企業を支援する体制整備 - ニュースメディアVOIX
-  https://news.google.com/rss/articles/CBMieEFVX3lxTE5TNHc4R2ljcEFFWWJmejhla1JXQzZMRUdNWno5Zzlma0lHeXhTRWdqamNQcEVzV2M5cFpBLThlc0ktN0F3QWJLVFBVV3pvZWx3d3VKZjhsb2FkZWJ2UE5BR3c3cDBEcGlmM2dLdHRueW5KU1NKdE9LNA?oc=5
-
 - LOVE大谷映美里、サンタに関するユニークな悩みを発表 巨大クリスマスピラミッド点灯に大興奮！ 東京クリスマスマーケット in 芝公園 点灯式（オリコン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE53VlRVNm1yWjRfWFUwdVFvdDVFZzJRTDJQSFVjRFFEN0NjN2Q4SUVSSDhBMFJYRHF6YW9qRlE1RkRmZlBpbjJVZkNLcWhrRzZ5YW5PS2dKdVpwVVhIVm50VzJ5YnNUUVdFZS1WRHptdlVrdnFYWlpncS1TWmd5V28?oc=5
+
+- バドミントン 元世界女王 永原 和可那が あなたの悩みに直接アドバイス！ お得にレッスンを受けられる 期間限定体験キャンペーンも実施中 - アットプレス
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DOU5Cb3dfR2M3aHBqa0x4YkhsNjNmdHJ4RGY3MDlFc3BlM1REZEQ4Mm1XM2tmQ1REU1VsbjZjTDdLUmxQbWVlS1BXNEdkQQ?oc=5
+
+- 中国経産局、広島・岡山のカキ業者の資金繰り支援 特別相談窓口も - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBLelFNLXNFNDNUWTBIb3EzOEFtdkVpQ3F3cmJBMTlLaU1XdDAxMi11czJFTk5sUWIwYTU2MldraGphUFF3ek4zRzZCMUlmOWJYS212UW5TLTJfc0QxVDRSYURTUkc5aHk1TVlvYQ?oc=5
 
 - 【相続における遺産分割協議の相談先は？】士業への依頼の実態103人アンケート調査 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1UeTBYTldoRmZPZTBzWnc1dm5DbTJoWm1wb2s4M3pJWklaclQ3bmtkODFhNXp1akk1S1ZFWDZOZDRTVW9aaHg2X3FEMnoxMEFId2N6cWItWGxQbU5oTUFucFRUY3pydTlPMUE?oc=5
 
 - カキ大量死問題 カキ関連事業者の資金繰りの相談窓口設置 政府の支援策に対応 中国経済産業局（RCC中国放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9HMFpCRVRNbkxqQkFCMEZXTTV5NjVYeTNJQUhMN2tiN2VHWFpDLUxONzlDVGJ2QXpjQ1BXZV9rMnpwNEVsV0h3Mk1pM25KVnRReVR3Zm0xZmZldm1VT1Nxa0RJUkMxNWE4aUNBbUIzV2VXWjFxdUNKNVpFbGpmN2M?oc=5
-
-- やっぱりみんなガマンしていた⁉ 冬の服装、定番の悩みは「重さ」と「動きにくさ」 暖かさを優先すると生まれる“冬服のジレンマ”の実態を調査 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFB4NFpkUFFSa3N2SWFSVGpoWHpIWElqNXB2eHdLamRaeF9LaXMyaE45OTN0VVo3a1B3T2x3a1RQblpfZ0J1Z3gwamNJcnFzZnZ6bGY1YjFuRjVoQXhuWHh2eFNBTXBHNkdyLXc?oc=5
-
-- 不登校でゲーム漬け…4000組の親子に寄り添ってきた相談員が伝える「親にできること」（FRaU） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE84NEJDR2ZmSm9hQ1JNc2ZaUEhfNEFUN3JiU0lPQm9uTDRYQ0FZY0lMOHpHNzBuV21DSGUzZWY3Qzk1VWFVWTBnZ1lZSUxSN3JLUmRLV2JBalhRUmNqQnhnV1ZuMy1GQ0hfMEtqMVhFTGRYNkh2MWZLTm1HSGt6SFU?oc=5
 
