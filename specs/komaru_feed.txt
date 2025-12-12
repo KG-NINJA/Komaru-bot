@@ -1,7 +1,7 @@
-=== こまる相談 ニュースフィード (2025-12-12 08:18) ===
+=== こまる相談 ニュースフィード (2025-12-12 09:17) ===
 
-- 生成AIにお金の相談？2025年の投資状況は？「お金の意識調査2025」を実施 - 株式会社マネーフォワード
-  https://news.google.com/rss/articles/CBMieEFVX3lxTFBDVFpzNGZyT29NSTA3Z1RLb2xGNUt0WUwwTHNQUHhlRTlaRlc4aG5ZSE5qNW1CTk1yTXNZcDFjNG4tdTNLSUlhYXpKb2NIR3RtV00wU29rM1NQc0pFMEZQV0lIM3kxUlBvdnpVVW94cDd5V0ItSmtZSw?oc=5
+- 生成AIにお金の相談？2025年の投資状況は？「お金の意識調査2025」を実施 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9pbWdIbE9WLUtuRkhBclFpb1JweUUyUEVwNEZPTGM5LWtIekdlUGNzSzAyYWVVV0I0VlFJN3hGcDdPTEhaTnNjcXF4ZTVBSUNqX1JZVjNZR1B5bEJaT2E5RWdJX004SmdycWc?oc=5
 
 - 不登校の子ら、悩み相談は生成AIに 兵庫・三田市教委が実証実験 性格異なる8キャラが応答（神戸新聞NEXT） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1ybFBUdDVVMnIxNDBiNEJrNUxGeTBHbTlFTldjTFdackNrRl8tb1VGOXFRSDFFY0xSd21DX3dpWU5laVFSWmlKNThZSTZCelNLVDVEWFNJc0tqUU9aR21DNldkSXZjcnZ4c3UwSDN4NTJ2YmxQcHdoMUtOaExkM0k?oc=5
@@ -27,9 +27,6 @@
 - イッツコム、自由が丘にサービスの体験・相談窓口新店舗 - 電波タイムズ
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RM1VvcUJnVU5ra2RkQkRwRUtJRGZjajd1OWdvMDRHYTRPcDVGTTN3QWRlTVpNSW9wV3FMTkh3a3plQzNiNjJfSWJsSk5uakREZ01n?oc=5
 
-- やっぱりみんなガマンしていた⁉ 冬の服装、定番の悩みは「重さ」と「動きにくさ」 暖かさを優先すると生まれる“冬服のジレンマ”の実態を調査 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFB4NFpkUFFSa3N2SWFSVGpoWHpIWElqNXB2eHdLamRaeF9LaXMyaE45OTN0VVo3a1B3T2x3a1RQblpfZ0J1Z3gwamNJcnFzZnZ6bGY1YjFuRjVoQXhuWHh2eFNBTXBHNkdyLXc?oc=5
-
 - ケムコ、怪異専門の電話相談員として怪異かどうかを判定するADV『奇天烈相談ダイヤル』家庭用ゲーム機版を発売 - gamebiz【ゲームビズ】
   https://news.google.com/rss/articles/CBMiREFVX3lxTFBSUkVGWTFIc2VoX0RSUUhGNHNtbWdOaGZncDBXYnF6YlhvcUpRaVgzd0JwX2hZZ2lDejVSZm9IR3dLcTNp?oc=5
 
@@ -48,11 +45,14 @@
 - LOVE大谷映美里、サンタに関するユニークな悩みを発表 巨大クリスマスピラミッド点灯に大興奮！ 東京クリスマスマーケット in 芝公園 点灯式（オリコン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE53VlRVNm1yWjRfWFUwdVFvdDVFZzJRTDJQSFVjRFFEN0NjN2Q4SUVSSDhBMFJYRHF6YW9qRlE1RkRmZlBpbjJVZkNLcWhrRzZ5YW5PS2dKdVpwVVhIVm50VzJ5YnNUUVdFZS1WRHptdlVrdnFYWlpncS1TWmd5V28?oc=5
 
-- 【相続における遺産分割協議の相談先は？】士業への依頼の実態103人アンケート調査 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1UeTBYTldoRmZPZTBzWnc1dm5DbTJoWm1wb2s4M3pJWklaclQ3bmtkODFhNXp1akk1S1ZFWDZOZDRTVW9aaHg2X3FEMnoxMEFId2N6cWItWGxQbU5oTUFucFRUY3pydTlPMUE?oc=5
+- やっぱりみんなガマンしていた⁉ 冬の服装、定番の悩みは「重さ」と「動きにくさ」 暖かさを優先すると生まれる“冬服のジレンマ”の実態を調査 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFB4NFpkUFFSa3N2SWFSVGpoWHpIWElqNXB2eHdLamRaeF9LaXMyaE45OTN0VVo3a1B3T2x3a1RQblpfZ0J1Z3gwamNJcnFzZnZ6bGY1YjFuRjVoQXhuWHh2eFNBTXBHNkdyLXc?oc=5
 
 - カキ大量死問題 カキ関連事業者の資金繰りの相談窓口設置 政府の支援策に対応 中国経済産業局（RCC中国放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9HMFpCRVRNbkxqQkFCMEZXTTV5NjVYeTNJQUhMN2tiN2VHWFpDLUxONzlDVGJ2QXpjQ1BXZV9rMnpwNEVsV0h3Mk1pM25KVnRReVR3Zm0xZmZldm1VT1Nxa0RJUkMxNWE4aUNBbUIzV2VXWjFxdUNKNVpFbGpmN2M?oc=5
+
+- 【相続における遺産分割協議の相談先は？】士業への依頼の実態103人アンケート調査 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1UeTBYTldoRmZPZTBzWnc1dm5DbTJoWm1wb2s4M3pJWklaclQ3bmtkODFhNXp1akk1S1ZFWDZOZDRTVW9aaHg2X3FEMnoxMEFId2N6cWItWGxQbU5oTUFucFRUY3pydTlPMUE?oc=5
 
 - 不登校でゲーム漬け…4000組の親子に寄り添ってきた相談員が伝える「親にできること」（FRaU） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE84NEJDR2ZmSm9hQ1JNc2ZaUEhfNEFUN3JiU0lPQm9uTDRYQ0FZY0lMOHpHNzBuV21DSGUzZWY3Qzk1VWFVWTBnZ1lZSUxSN3JLUmRLV2JBalhRUmNqQnhnV1ZuMy1GQ0hfMEtqMVhFTGRYNkh2MWZLTm1HSGt6SFU?oc=5
