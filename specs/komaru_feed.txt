@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-25 14:12) ===
+=== こまる相談 ニュースフィード (2025-12-25 15:12) ===
 
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxQNi0xWEJDQnRJMXBRQV85NUNycm5ucS1rcU43eGNVQjJYeENKNkJ4WjhnbVVqY014cWZPX2VQcXFMWFdHN2I1NElFRmp1cnQtQ2lCN1AxWkQxdVoyWkwyU1FDbzNfM1Q1U3dBN3NFQlRuTVJVQVh0NWZ0bnJRSjIzd1U5b2F6V3ZtUFE?oc=5
@@ -15,14 +15,17 @@
 - 移住について気軽に相談！オンライン移住相談窓口を期間限定でオープン - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1mdll3c1hjM1prNG1GNkFmMER5Q0VTZ3o0WEo2N0puRjlTNE1YS0Yta1NKZThfLTdveDNWOGVQeEV2aFBNS0lyZUhYSEdqRWVwV3FHNXlVUFJuM0NyaEJrOE5leU92YmZpM2c?oc=5
 
-- 高齢者への虐待が深刻 相談や通報は1424件 うち440件が虐待 新潟県 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE51TEh2MWk4NkhhNDdCUW93OU9nc0l5SmVCRFEtVnZXeWI5LU1Rcm5GRUpSRldiYllNZG5jbnZkcF8wVnBHWjdSa1RqNTdlTVg0U2Qwc0t6QWlhdw?oc=5
+- 西宮市市民・大学共創プラザ 地域活動参加に関する相談支援 - nishi.or.jp
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVZRMFlPWkRjN093aHZRZlhZZWVZNEJaQlFEdUd3N0ZFcFpfTWVkS3VLckp5RWNjMzFwanBMV3JtdHc1bTEwdEQwY0FPQlRCX295VFVSV2E1d2tpcW45dXc0cjNablhDRW5YcVJNOWxVM0ZGUUVxamZCZDZTb0RjN2JPTQ?oc=5
+
+- 横浜市、空き家問題で新たな相談窓口 東京の専門企業と連携協定 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9MVVlOenNtYUNkdmVEOThGRkFndkhuZWZUNUd3SVYtNVBsUzNNZk1YSW4tMW9UUGVlSEl5STA3Zkt6VUtqSXNxWVFRc3haOWpyZThneEoxOGNaVi16MjdHVWMxU2NDdDlOS2p0Tw?oc=5
 
 - 女性の健康の悩み 技術革新で解決を 佐賀大で「フェムテック」講義 | まちの話題 | 佐賀県のニュース - 佐賀新聞
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rcmhsR2pKRW9FMDlaUmJCSWNFXzdSRGpLanF4bG81clZXU3o2M21PeWtBMlVHb3hkeXdhTDVZS0FhMWFlS2o3Tnd3cEl2UHRKTTN1Mm5B?oc=5
 
-- 西宮市市民・大学共創プラザ 地域活動参加に関する相談支援 - nishi.or.jp
-  https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVZRMFlPWkRjN093aHZRZlhZZWVZNEJaQlFEdUd3N0ZFcFpfTWVkS3VLckp5RWNjMzFwanBMV3JtdHc1bTEwdEQwY0FPQlRCX295VFVSV2E1d2tpcW45dXc0cjNablhDRW5YcVJNOWxVM0ZGUUVxamZCZDZTb0RjN2JPTQ?oc=5
+- 高齢者への虐待が深刻 相談や通報は1424件 うち440件が虐待 新潟県 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE51TEh2MWk4NkhhNDdCUW93OU9nc0l5SmVCRFEtVnZXeWI5LU1Rcm5GRUpSRldiYllNZG5jbnZkcF8wVnBHWjdSa1RqNTdlTVg0U2Qwc0t6QWlhdw?oc=5
 
 - 青少年相談員中央地区事業 小麦粉から作る手打ちうどん - city.nagareyama.chiba.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVeFNMZVFuRmI4OGFQX09fdmRRTFMtMy1NUDc2VnEycW5KU2F5dzdURFBNT09WQjJGcVpVa0pXYW11MVRvcFNNOTJYYTVxX2gwSFdwNXhvVzZyQWpzRU04ME1CVDllZmVE?oc=5
@@ -30,17 +33,11 @@
 - 関東信越税理士会熊谷支部 無料相談会場 - city.fukaya.saitama.jp
   https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHE5aV9mYi1LRG5BZ25mTUlhVEM4dU9uc051cll4aVhUZk00T29ubVp6LUpoNXJHRjlMbE56anN1NzU3X2U2U2dOQ1lRVGZka1NVYmZDdlpsVWtkNURERzFyVXF0eUktcmxzUHZMaVZzM2dleFpOUkdhMmVkbWNucmVtODZkYzRCb1BITFJ3VFJMWm8?oc=5
 
-- 年末年始期間における「孤独・孤立相談ダイヤル #9999」 等のご案内 - city.iwade.lg.jp
-  https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFJkS1RHbHNhWjlGMzF2ZXNaUE5reGVnYmc3dFhsdzhidjN3ekdFWEpQQjlQVlU4bllwY1BHbDZUcFlZWTA5YmNucVBURHlWYk5jUXBENEpOY1BZbUVzMWZqZjhMa3BuLUpxTEFTM1RGTk52OGJVWHpBanFVM3IyWWxmdG5xV1BlRGdJ?oc=5
-
-- サブリースを外したいなら「外せる君」に相談！ 解約費用0円キャンペーン延長 - アットプレス
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE55VkZPU2xwNE55VWJzVDBHcGFjR1l6cnRLZzRNU081T3cwN0FIX00tbkdhNXJRd0VsM1phR1hIZUJlU3VpZEwzQ0Q2QlR5Zw?oc=5
-
 - 1,000人が回答、推し活の悩みは金銭面…！ 推し活費用の捻出はポイ活、節約、さらには投資からも【松井証券株式会社調べ】 - eeo.today
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3ZWRxWWZpTnJGZjlTWnZlcWIzNk41UkY2US1UbTROS1FVRXBaYXZ2aklacmxOQUVoLXJIelFVcTNSMzFfbldBRjNLMW12SG1GdDF0QQ?oc=5
 
-- 「女性弁護士なら相談」に応えたい 全国203地裁支部のうちゼロ支部60カ所 - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyS2owNElTZlNBeno3TzZnRXQzVTktTGcwR2p2N1VDTEhkNWxFRFB0SzcwdWlYQlphRjBsRHFmRXRER2tjU0lzcF9lUzRDNmJTV19zag?oc=5
+- 年末年始期間における「孤独・孤立相談ダイヤル #9999」 等のご案内 - city.iwade.lg.jp
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFJkS1RHbHNhWjlGMzF2ZXNaUE5reGVnYmc3dFhsdzhidjN3ekdFWEpQQjlQVlU4bllwY1BHbDZUcFlZWTA5YmNucVBURHlWYk5jUXBENEpOY1BZbUVzMWZqZjhMa3BuLUpxTEFTM1RGTk52OGJVWHpBanFVM3IyWWxmdG5xV1BlRGdJ?oc=5
 
 - ハローワーク松本による就職相談会 - 信州大学医学部附属病院
   https://news.google.com/rss/articles/CBMidEFVX3lxTE9JMzlMdXYtWFVSVjlXNFZnR185UHdONnBkenJQd0pBM3NJcW9Qa2RRVTN1N2xOSDZMVWFjc3p3OExSREZpOFlGcnNEY2FvWTVUV2g2cU14bHJaOU9aeWVxQU5oaG5fTm9sODBweGpudWg1Wkxm?oc=5
@@ -54,9 +51,12 @@
 - 「長野産業保健総合支援センターによる仕事と治療の両立支援相談会」開催のご案内 - 信州大学医学部附属病院
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBFTDBRX05pa0lXdUpmc0JWSEMtR1Jqa2dtWmtpYmZ2cTJ3VV8zNVNLRXpScDRCcHhwVmxGMl95cDUyUGdrVmxwbUpHUWowZm91bTRPbGl6a2thT0hVNWJVeFUxdnUwaFNNTGFZdHRqNW05UzBT?oc=5
 
-- インフルエンサーの希空さんがギュッとチャットを初体験！ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1LZEVIdl9SODJlRjRYSkR3dmdlZkJydkNOaDVGeWV5Qm83cGNoZVJtQzJ2ek9LQlE2SzhwaEgwRG9Tc2cxTUJUZmExanVTS1JaZnlnbXJocnFqWUVUQXhUc3F2MW9CeFNmaVE?oc=5
+- 年末年始の孤立・孤独に寄り添うAIと相談員が24時間対応するLINE相談「クルハウス相談」を実施 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1HZTFtQmxoVnRTYXE2UG1STlVXM2NxcDdaZkVjZXY4MmxOVFNVeDU0Z2dxbkdjRjJDMWUyNERnbE5nYlVpemIwajEyRXBQejcwZmJfTnFzeVE5OHl2Z2U3OWd3Rmk0ZDA4dUE?oc=5
 
 - モデル田中美保さん「産後の体型変化」に悩み中。オシャレの“自信回復アイテム”は？｜STORY（magacol） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0tR3N1MDlYcG82U1kzU0lZU2JLZEc5aXRCb1Vzc090Tjc3OUhQUkFfTV9CNGdxd1RBdlEtZllwSkdmN0hBYUxXV0M5WFhpZ0RyVFNocE1JelNaMTFaQ1dDcXZVM09SX1lFbmhfd0g2cnJBTGUxekxvTTVtZ0FGWnM?oc=5
+
+- インフルエンサーの希空さんがギュッとチャットを初体験！ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1LZEVIdl9SODJlRjRYSkR3dmdlZkJydkNOaDVGeWV5Qm83cGNoZVJtQzJ2ek9LQlE2SzhwaEgwRG9Tc2cxTUJUZmExanVTS1JaZnlnbXJocnFqWUVUQXhUc3F2MW9CeFNmaVE?oc=5
 
