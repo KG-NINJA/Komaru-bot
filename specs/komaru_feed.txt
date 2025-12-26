@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-26 22:12) ===
+=== こまる相談 ニュースフィード (2025-12-26 23:11) ===
 
 - 『不安や悩みを抱える方』への年末年始の相談について - 海南市
   https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZiREEyYmZPNk4xSlRVN0xwd01hNzBoYWNLeHZoZWZuOUpsRzFfOF9lZWxLc1BiMkJ6QlhSeUd0amF5X1Z1bHZ5TlMtY1k0czdUalBCREg1R2taeTU5cklWbGpFZzBkSUhkdXI2ZmFNNWlUVnROeXJpN2h2aEJnVXNVNldWa3BmYzBKZDJ6bGpzaDZMTWJzRkxUUkVfYTNEbmNDZDlhTndOMnNncjdr?oc=5
@@ -14,6 +14,9 @@
 
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxQNi0xWEJDQnRJMXBRQV85NUNycm5ucS1rcU43eGNVQjJYeENKNkJ4WjhnbVVqY014cWZPX2VQcXFMWFdHN2I1NElFRmp1cnQtQ2lCN1AxWkQxdVoyWkwyU1FDbzNfM1Q1U3dBN3NFQlRuTVJVQVh0NWZ0bnJRSjIzd1U5b2F6V3ZtUFE?oc=5
+
+- 年末年始期間における「孤独・孤立相談ダイヤル♯9999」について - city.ginowan.lg.jp
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE83dGw1UWF6UXFLOEUxbE91U1dBeU4yelhLcFlweUFvMG54U0NMNGhQM29xUGRBNGVidDBDTnpMVnlBd3RTQ2c4b3pOOV9GZXdFYWU5b3MzNG1oRUk3Y3lQcWNPbHVJUkxJOXpZam1xRQ?oc=5
 
 - 令和７年度第２回空き家無料相談会を開催します！ - city.usuki.oita.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VbUxTdlNuQTRUTy1STkxFTXRNUzJUaXRTSVBDbngzUmNpQTJOTE1LTkNycmUwTWdUblBCazlzZG9fZl9mRUV4VWwtMThrZkdScjhsQ2hmTnR3VWtSZlFYS1g0Zw?oc=5
@@ -33,11 +36,11 @@
 - 松阪市「福祉まるごと相談室」、全13カ所で整備完了 「身近でいろんな相談を」 - 中日新聞Web
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xMW41N2RrY1MyMTBmN0RjRlk0TkYyTDBiRUo4cDBnTzBDRFJ0NTZySzlSaTVnTVdIUTlvZV9Jc0JWVUloZDA5VDVJY1FhVDlmYnZKN29kNW9ZS1MxX3kw?oc=5
 
+- NPOが年末年始に生活困窮者らを支援 練馬で炊き出しと相談会 - 東京新聞デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE43WXljSUhqaGJoZEg4S005cG9GbUhLYmZhT0U3QmI0U0JlUXJOaE1FTjBrYi05azNqNUVoV0dNeU1sYTZIaUluVGktclg2ZFhrMU9j?oc=5
+
 - 西宮市市民・大学共創プラザ 地域活動参加に関する相談支援 - nishi.or.jp
   https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVZRMFlPWkRjN093aHZRZlhZZWVZNEJaQlFEdUd3N0ZFcFpfTWVkS3VLckp5RWNjMzFwanBMV3JtdHc1bTEwdEQwY0FPQlRCX295VFVSV2E1d2tpcW45dXc0cjNablhDRW5YcVJNOWxVM0ZGUUVxamZCZDZTb0RjN2JPTQ?oc=5
-
-- 移住相談会＆フェア出展のお知らせ - city.komatsu.lg.jp
-  https://news.google.com/rss/articles/CBMihAFBVV95cUxPZW9pNEtJUGNWczNocUhVS2VtLTFhNmU1WEt0SjRsQkQyTlJSUnhjb3ppREFJd3NlWGM0UnR1aUdJU3B3TU90WEdBdmZRSnZhcUpmYzBzWXYxMjhLUjk2cEF3ZHl4VDNLV2RlQ2F6TVFabi1rNU9XbHdMV3ZZUGhtSmpJUlY?oc=5
 
 - 【鎌倉市】鎌倉市女性相談支援員募集！週1日勤務で女性の支援活動に参加 - 湘南人
   https://news.google.com/rss/articles/CBMibkFVX3lxTFAzQjBZOFQwUTdYUlNYMEVfel9LY3dSYUdsSmJZdEoteUV0dktYbm95TW1oVWpDRGhWcDU4UV9VUjFEekxqUVVXVUdwWHBtM2lLOTNRQURBRzFSZVJHUll3WUdIajJSMmZnWGRGV3d3?oc=5
@@ -51,11 +54,8 @@
 - 消費者トラブル注意 管内で相談５千件超―県東部県民生活センター - 伊豆新聞デジタル
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE05cDI2MTNoR0dncmRIN1p6WGhDRDhaSkI5U3dnTHZONWVRYXFYMXFYSncybWVMVjNyZWZkUlpCVEJRZjZ0U3h4S1otQXI2SVppLU56VFJZX1FMV2Nh?oc=5
 
-- ｢運転の不安、相談を｣ 城北工高生が啓発アート | 小田原・箱根・湯河原・真鶴 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmQmczcmxTRTRDajJkTl81QnZuNzNlSlh0MTZkSTd6eHJUaHFMX2w3ZWdIbDlYZFBrRDFQSENDTlk4NVU0YlllcTdZYjJJQndCNG9nVm1vTVpZVzhxckJReDJnQUY?oc=5
-
-- 不動産の悩みや困り事、気軽に相談を 新発田市の無料相談所が移転、市役所近くでより便利に - 新潟日報
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yYjF4LXdVYTRYd19Yd05YWXNVXzJnOG9pWlpuM1BkZXh1Q1N5ejRVclZ5cmdOYVdyWmdoQWZDRVlyQTNGVmQ3NldNNHYzaFQ4WHY5Q192NWM3cmRUVXc?oc=5
+- 【なるほどッ！】「年末年始の手土産」悩みどうする？ “秘書”のオススメは？（2025年12月26日掲載）｜日テレNEWS NNN - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMifEFVX3lxTFBzZ2RGaXBiVEt6d2Roc3E2a2Y5TXZJVVdrWk82akk1NmlJRGIyWFM4RXpyRXpjcEtwS0FfWE1YbS1DUmhCa2JUZ19FQjQ2eUpmYTRydzdxVzBHQjlyZ29MVUhGbzBVdlUxYWwtYVlRbDhMZUVOQzFDOGh2cGw?oc=5
 
 - 【鎌倉市】鎌倉市相談支援包括化推進員募集！福祉の専門資格者求む - 湘南人
   https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFdfNnpnanM0WV8tTjdXUnFPLUg4V2N2OXU4UklIVVBzcUtOcU1GdkxSYkxFbkVaUDktVnU0dUdhczY5UnpveUNBNTRnQ0tQcVRqUTV5SkNuSHUzWkhPT0VJVWRPOEV2NWpnV0VPMnhfNVdab1pvVFY0MVk5M194Tw?oc=5
