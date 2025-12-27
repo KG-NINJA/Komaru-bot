@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-27 05:13) ===
+=== こまる相談 ニュースフィード (2025-12-27 06:19) ===
 
 - 『不安や悩みを抱える方』への年末年始の相談について - 海南市
   https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZiREEyYmZPNk4xSlRVN0xwd01hNzBoYWNLeHZoZWZuOUpsRzFfOF9lZWxLc1BiMkJ6QlhSeUd0amF5X1Z1bHZ5TlMtY1k0czdUalBCREg1R2taeTU5cklWbGpFZzBkSUhkdXI2ZmFNNWlUVnROeXJpN2h2aEJnVXNVNldWa3BmYzBKZDJ6bGpzaDZMTWJzRkxUUkVfYTNEbmNDZDlhTndOMnNncjdr?oc=5
@@ -11,6 +11,9 @@
 
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxQNi0xWEJDQnRJMXBRQV85NUNycm5ucS1rcU43eGNVQjJYeENKNkJ4WjhnbVVqY014cWZPX2VQcXFMWFdHN2I1NElFRmp1cnQtQ2lCN1AxWkQxdVoyWkwyU1FDbzNfM1Q1U3dBN3NFQlRuTVJVQVh0NWZ0bnJRSjIzd1U5b2F6V3ZtUFE?oc=5
+
+- 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
 
 - 【年末年始】生活に困ったときの相談先リスト（2025～2026年）（大西連） - エキスパート - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclRXQUdWZ2xfQmtnY0ZIaUN6UWtHWHE5cWNUdFdXeHlUWmswN2xqWl9lcFpiTHloWDVnYTZ3eFZRNmM4OElmeENKRHRuMm9kVS05N1hIXzliUFJuMjB6ZFk3MF9KTU9jVlh6VDA2b0l3aThXSDZHSnJmdVMwMXNxNVhzWGNhMC04?oc=5
@@ -36,27 +39,24 @@
 - 栃木県内消費生活センターの苦情相談１割増の9182件 25年度上半期 目立つ点検商法、理美容関連 若年層も増加 - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MWGNvcnl0V1JyeGR5NEc3Q2QyU19oUnRIWmtKVmlianhuUkRMLV9LaDNUOGNOSVZqNWNpTzE5QmJjSFNuWV9ZNFFhRk12M0ZxUHh4dG5YeWJtYm8?oc=5
 
-- 年末年始も小児科医、産婦人科医、助産師に無料でご相談いただけます！ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9VZVBCa2xJekdKZzN5UG9MOWxzMDhVRWQzMG1wb2JxLVJrVjFfN0FjTHNFR2tkekQ3TUJSOEk3NU5kYnRoaHYxT1JBOF8yLXQ3WTkwRzc3REZoT25qOHZvQWJ6M3B5SWlOYnc?oc=5
-
 - 「登場キャラクターたちの悩みや人間関係が丁寧に描かれた良作」アイの歌声を聴かせて Bigcatさんの映画レビュー（感想・評価） - 映画.com
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JZ3lmM3UzZWRTNTFWU01DMHdEVE0yNzZqaUk3c0xfaHFtWXNldzhmNlYyY2tFLV9PbHNaaWhJRENONlFKaWN0aGdocXV6MUVndWVmeGozQks?oc=5
 
+- 年末年始も小児科医、産婦人科医、助産師に無料でご相談いただけます！ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9VZVBCa2xJekdKZzN5UG9MOWxzMDhVRWQzMG1wb2JxLVJrVjFfN0FjTHNFR2tkekQ3TUJSOEk3NU5kYnRoaHYxT1JBOF8yLXQ3WTkwRzc3REZoT25qOHZvQWJ6M3B5SWlOYnc?oc=5
+
+- 消費者トラブル注意 管内で相談５千件超―県東部県民生活センター - 伊豆新聞デジタル
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE05cDI2MTNoR0dncmRIN1p6WGhDRDhaSkI5U3dnTHZONWVRYXFYMXFYSncybWVMVjNyZWZkUlpCVEJRZjZ0U3h4S1otQXI2SVppLU56VFJZX1FMV2Nh?oc=5
+
 - 松阪市「福祉まるごと相談室」、全13カ所で整備完了 「身近でいろんな相談を」 - 中日新聞Web
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xMW41N2RrY1MyMTBmN0RjRlk0TkYyTDBiRUo4cDBnTzBDRFJ0NTZySzlSaTVnTVdIUTlvZV9Jc0JWVUloZDA5VDVJY1FhVDlmYnZKN29kNW9ZS1MxX3kw?oc=5
-
-- 令和7年度第3回 入退院支援相談員交流会を開催しました - city.adachi.tokyo.jp
-  https://news.google.com/rss/articles/CBMid0FVX3lxTFBQeW5GaXRXaElnUEktQ0JvNjJ2czViQjBWNzlQLVk3QUtfM3N6YjRlTkJWNFR6OENUOGFVVVo2b0hWV19Oa1hhVUs3SmNDbmN2V0Roa1UxNkVBNGxUMGZLMUJTd29vVHRlckhzSjNYQTRQemNiR1Vn?oc=5
-
-- NPOが年末年始に生活困窮者らを支援 練馬で炊き出しと相談会 - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rX0tydHBGYjN4TW43TnE1Z05qMEE0YmtwY2xqLW81Z2k2S1lvRHhNNG0wQmlBS295RnFpS3VQLXVibG1acmswcFBNWnJxLTZKZnJZYzdyZHhjY1J0MFFraUVn?oc=5
-
-- 【鎌倉市】鎌倉市女性相談支援員募集！週1日勤務で女性の支援活動に参加 - 湘南人
-  https://news.google.com/rss/articles/CBMibkFVX3lxTFAzQjBZOFQwUTdYUlNYMEVfel9LY3dSYUdsSmJZdEoteUV0dktYbm95TW1oVWpDRGhWcDU4UV9VUjFEekxqUVVXVUdwWHBtM2lLOTNRQURBRzFSZVJHUll3WUdIajJSMmZnWGRGV3d3?oc=5
 
 - 児童相談所の相談数は過去最多だけど…〉「子どもを叱って泣かれると通報される」“ご近所さんの意識の高さ”に困惑する保護者たち（集英社オンライン - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBMZUVQMjh4ZlNLbFJUclJHMjd6Y1BVWU02R3E4eE9zSzBtNGZNRG9fS3Q3eVY3YXVwRDJGS0dMTkNRUmVVZU43NVF6OEFOZF9iN3gwdmUyck5mVzJQMG9US3gwMHNWeHF5RVpsSU5VYzc2SEZPSlNvcWlLcUs0RG8?oc=5
 
 - どうやって貯金をしたらいい？～アラサー女子「お金の悩み」本音会【第2回】（CBCテレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9haUNCa3lmMG5BLTZZZVRFaHBzaS1YZUNRbUJoV1BudWJxU1puenp3LTdSVk1Nc1daV0Q3b2Qtb3hNWmxma3JFSmk0Q1d6WHRJWnB1dmhtOXh3MTUtbTY0aldmNDVWRHlnd3NJODA4ekNLNmw1OUNSMGRaejJia28?oc=5
+
+- 4000組の不登校親子を見てきた相談員が語る「支援員や教員に知ってほしいこと」（FRaU） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBTNEk4c04xc24tVEg2MWlob0d3dGVVTGtnMFN6WnZyWUNHZ1pIaElEZk9QaTFPc2RNczZaaF8wY3AxRGNkT1htUjlRY2pDTF9NNGl1aWVuOVlwZlB6M3pUTE93TGdISllFUDRwdmVJQk9UQW1GSFcxQnNxRms1UEk?oc=5
 
