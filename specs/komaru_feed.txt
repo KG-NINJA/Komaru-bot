@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2025-12-28 07:13) ===
+=== こまる相談 ニュースフィード (2025-12-28 08:16) ===
+
+- 認定がん相談支援センター - ncc.go.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVIzMHk4aXh4dW5WVVZaOHEzcFZOS1BOTnNROGlmNU1vRGF6VGQycU5GNWpoaWVKUG5jYUZKMkFzWlNSS0czbE9XbWpRYU9vYnlkMTZ0eVVKcGdpckhFX08tU3B5N25lQkw3eQ?oc=5
 
 - “生活困窮者を支援” 専門家が無料で相談に応じる 東京 府中 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UnZDR3plU1dEMEFzNGZGTG5yOGxZcE80V0ZqX2o2M21HcUR0S2Z0UUpRUHJsOHFvZEY5QlJZXzU1eDNYd1EzTkY5QTBZX2h3Yzd5Z1pvNG1NWVZnVEJB?oc=5
@@ -8,9 +11,6 @@
 
 - 各種町民相談について - town.samukawa.kanagawa.jp
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRktZNzFNWlNBQXBXX1E0ZHNXOHo0ZlQxRWh2cUQ1aTRTQVFiMEloaUNsMFlIRE1lUGhWTXZhRG9wVnlDQWw0dGozWDNDbE5uOHdBNHl6SUNQdUJueVF0R3pTaEJwZU53SUc5Z19KMWlodFVkT1BYWTFFbkh6Y0xRVUpFcUM4b3kyTklaZDI2LTlnb3JnYVRDV0RSWHNZaExWTWRfM1Q2NEg?oc=5
-
-- 認定がん相談支援センター - ncc.go.jp
-  https://news.google.com/rss/articles/CBMiigFBVV95cUxQNi0xWEJDQnRJMXBRQV85NUNycm5ucS1rcU43eGNVQjJYeENKNkJ4WjhnbVVqY014cWZPX2VQcXFMWFdHN2I1NElFRmp1cnQtQ2lCN1AxWkQxdVoyWkwyU1FDbzNfM1Q1U3dBN3NFQlRuTVJVQVh0NWZ0bnJRSjIzd1U5b2F6V3ZtUFE?oc=5
 
 - 年末年始、支援を必要とする方へ 電話やチャットによる主な相談先 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xRklXbk1pdTNDb2g5ZFgyQXRmVWdsbVpqSjMzWkN3ZlR0b2tzdklSQjdhMzNqLWktTHFOYzZvc2Q0VTR6eVRvZDc1ZEhXYVZGTklGNllwT01heUtpbkxYSmJBdi04cG8?oc=5
@@ -27,9 +27,6 @@
 - 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
 
-- 「ひきこもり・不登校の親が抱える共通の悩み」講演会 - city.ishigaki.okinawa.jp
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5uRUlBWG9PSTRiRzV1Z2I2ZThmbUpHamJhV3RlTDhsR2RGNU9TcW93WE5oNUljTm90Q292U2NSeGVTMkExa2xRa1VBUkxES1dvWmM4UElRdE56aFM0S2JiLVctekFkcEs0V0htYXFaVmRWSDdjRlh5ZWhRTVcwbnc?oc=5
-
 - 【年末年始】不安や悩みを抱える方へのこころの相談窓口について - city.minamisoma.lg.jp
   https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzBsNkdWQVpqUThaSk8ybmZDbUMyd0FHV2FZSFU3WTF0YXE0VkRBQ0pUZ1Q1V0J5ZUl5a3RLVGhoU3NwZ1g2bkJ3bjNDd1UycWp4LWZxRnRlMy1iTXg1UEpxTGg2MU5TRTJhSkU0WEt4RFhyemtOZVF1ekxDVFdjalR3?oc=5
 
@@ -42,21 +39,24 @@
 - 被災者から生活苦の相談 前年より大幅増 物価高の中 石川 珠洲 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ydWpTWlRlUXZQR2ktV0FLNUFoek50LUtMcU9jZmRZRG5pRm5UOWlFT1R1NVh2eVlyaWRaSzh6dnZKOXlpZXczYV9SR29sTENjXzhTY01ndEdZNTQyQ3FB?oc=5
 
-- 被害者に寄り添い30年 「いばらき支援センター」 相談年1448件、10年で3倍（茨城新聞クロスアイ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1wYjg0ZFBsVlBxY2pqdUYxZlB5bUt4RDQwUmwxblVYczdhTHJTTXJvZTBZeGh0SnNjckxRZEhWWGF2eHAya29Ybk5yaWtvZUVGMDlZSlNIWmRubjA2Mmdndnp4YVFISzdVa3ZBSkg0c21PM1hHd2dJS3pibGFXMUk?oc=5
+- 【年末年始】生活に困ったときの相談先リスト（2025～2026年）（大西連） - エキスパート - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclRXQUdWZ2xfQmtnY0ZIaUN6UWtHWHE5cWNUdFdXeHlUWmswN2xqWl9lcFpiTHloWDVnYTZ3eFZRNmM4OElmeENKRHRuMm9kVS05N1hIXzliUFJuMjB6ZFk3MF9KTU9jVlh6VDA2b0l3aThXSDZHSnJmdVMwMXNxNVhzWGNhMC04?oc=5
 
 - 半数の女子高校生、白ユニホームで「困った」 伝統を変えた強豪校も - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Pb1BiUDM5WTdKN3Vtc3NfcGUtTkRJQXJ3VUF0M2ZBRXdONS0yVkVESjBtUGlsRi12LVBtcDVzLWpvemgtQjYxb2xFcjVQcGtzVk94bHdTSVRhelZXWktPZWJHQnJhU00?oc=5
 
-- 【年末年始】生活に困ったときの相談先リスト（2025～2026年）（大西連） - エキスパート - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclRXQUdWZ2xfQmtnY0ZIaUN6UWtHWHE5cWNUdFdXeHlUWmswN2xqWl9lcFpiTHloWDVnYTZ3eFZRNmM4OElmeENKRHRuMm9kVS05N1hIXzliUFJuMjB6ZFk3MF9KTU9jVlh6VDA2b0l3aThXSDZHSnJmdVMwMXNxNVhzWGNhMC04?oc=5
+- 冬山の登山相談所を開設「自分で命守る覚悟を」 北アルプス・上高地（朝日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBYX0RqLWthRDJEX2t3NjJadktwUkF6RzlCWENONHh5RmNPUlE1TXdXbDFWYjBjTjdjelNBQWxWX0dTWFJxbVVwblM3WVhyam45UW1QWjJqQ1JWeDl6d1U0ZlVnX05uRDEyeThtLUh4V3BSUURZemV6YW05c09NV0U?oc=5
 
 - 全財産は105円 年末年始、居場所ない若者に「屋根とメシ」を - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2eGJTQ0JpX1EzX014RDB4bGpzMHgxWXBHQXhIZWpxZWt4M0hvZXdwMFZjVlk0NFRBVzE1QU5mTlJ3RGdfd1FJeS01aExMTEJvNjFkVk03MnY2NTNrUGhGejRVZmg2TTg?oc=5
 
-- 冬山の登山相談所を開設「自分で命守る覚悟を」 北アルプス・上高地（朝日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBYX0RqLWthRDJEX2t3NjJadktwUkF6RzlCWENONHh5RmNPUlE1TXdXbDFWYjBjTjdjelNBQWxWX0dTWFJxbVVwblM3WVhyam45UW1QWjJqQ1JWeDl6d1U0ZlVnX05uRDEyeThtLUh4V3BSUURZemV6YW05c09NV0U?oc=5
+- 4000組の不登校親子を見てきた相談員が語る「支援員や教員に知ってほしいこと」（FRaU） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBTNEk4c04xc24tVEg2MWlob0d3dGVVTGtnMFN6WnZyWUNHZ1pIaElEZk9QaTFPc2RNczZaaF8wY3AxRGNkT1htUjlRY2pDTF9NNGl1aWVuOVlwZlB6M3pUTE93TGdISllFUDRwdmVJQk9UQW1GSFcxQnNxRms1UEk?oc=5
 
 - 日本人物理学者がアメリカの図書館で直面した困った事態「いまだ原子爆弾の国家機密を引きずっているのか…」 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1oX3RkMmg0S3p4TDNPREwwRzZtYjlfVmpWdWdVMmNPYkpKSHJMdXpfN3FBX2lLQzBFZk5uRmMwV05TUkJoNi1SaUpjY245cTBTejVxWklZRDlHR19CTnREQ0ZfQUI3OFlsWHNKTFdKdDRKX1h4RWliX2cyTlpfR3c?oc=5
+
+- 年末年始期間における「孤独・孤立相談ダイヤル♯9999」について - city.ginowan.lg.jp
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE83dGw1UWF6UXFLOEUxbE91U1dBeU4yelhLcFlweUFvMG54U0NMNGhQM29xUGRBNGVidDBDTnpMVnlBd3RTQ2c4b3pOOV9GZXdFYWU5b3MzNG1oRUk3Y3lQcWNPbHVJUkxJOXpZam1xRQ?oc=5
 
