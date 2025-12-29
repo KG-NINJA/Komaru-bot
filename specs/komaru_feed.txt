@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-29 09:21) ===
+=== こまる相談 ニュースフィード (2025-12-29 10:15) ===
 
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVIzMHk4aXh4dW5WVVZaOHEzcFZOS1BOTnNROGlmNU1vRGF6VGQycU5GNWpoaWVKUG5jYUZKMkFzWlNSS0czbE9XbWpRYU9vYnlkMTZ0eVVKcGdpckhFX08tU3B5N25lQkw3eQ?oc=5
@@ -24,14 +24,17 @@
 - 『不安や悩みを抱える方』への年末年始の相談について - 海南市
   https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZiREEyYmZPNk4xSlRVN0xwd01hNzBoYWNLeHZoZWZuOUpsRzFfOF9lZWxLc1BiMkJ6QlhSeUd0amF5X1Z1bHZ5TlMtY1k0czdUalBCREg1R2taeTU5cklWbGpFZzBkSUhkdXI2ZmFNNWlUVnROeXJpN2h2aEJnVXNVNldWa3BmYzBKZDJ6bGpzaDZMTWJzRkxUUkVfYTNEbmNDZDlhTndOMnNncjdr?oc=5
 
-- 神奈川県松田町が『産婦人科・小児科オンライン』を導入 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9EeTVtUEluWWh4S2thcDllclVjSkZjTVJnempiRnRTNU9sa0F2X3pvekNwc2hxSkdDT2ozX3dPMzRDdUNkOGhtVFQwS2Z3UFFBNEp4aU04a3ZQZDRaSFZVZ180YXB2NWhDVlE?oc=5
-
 - 【藤沢市】オーケー藤沢店で相続無料相談会開催！弁護士・司法書士・税理士が同席 1月18日 - 湘南人
   https://news.google.com/rss/articles/CBMid0FVX3lxTE5vRWlxcjBBWmg2cUZKTlJ5X2RvZzVmX05PbW1zUF9MTllDZWt1Rk1ybTZaY0wyZmVzSHFodUI3QmJLdXlObHh0dEIwVzQtc0JJUWFLZ1BQWlV5dWE2QmwwV3N1U0wxa2Jpdnp1NEgtaGEwaW9vNG53?oc=5
 
+- 「こぢんまりした葬儀」希望も４９０万円提示、見積書サイン盾にキャンセル料・遺体返還も即座に応じず…トラブル相談最多 - 読売新聞オンライン
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pLTQyVXBKSTVDRUZxMW9FVFNwOU1STWtaaU1iTnpOR1JZR0FlUUtpbXBZR2hEVnVpc2lNMElDU3NqY0h6aXYyQVU2V1p5SWk4aFBNUkRGNGRHNFl5a0RwZk5CbE5KZw?oc=5
+
 - ［動画］【人生＆マネー相談】トウシル読者のお悩みに、肉乃小路ニクヨさんがズバリ答えます！【肉乃小路ニクヨさんインタビュー】 - トウシル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2dE1TTlVrTmlKa0xWLWxLZll2NEZxOW1JemowNHFSN3dVZW1jRHZBMU5EZmlEWnN0b0JacEMxMkNrSWExcnV0eHlRRGF5bGkyNDF2akVNV185UQ?oc=5
+
+- 神奈川県松田町が『産婦人科・小児科オンライン』を導入 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9EeTVtUEluWWh4S2thcDllclVjSkZjTVJnempiRnRTNU9sa0F2X3pvekNwc2hxSkdDT2ozX3dPMzRDdUNkOGhtVFQwS2Z3UFFBNEp4aU04a3ZQZDRaSFZVZ180YXB2NWhDVlE?oc=5
 
 - 【年末年始】不安や悩みを抱える方へのこころの相談窓口について - city.minamisoma.lg.jp
   https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzBsNkdWQVpqUThaSk8ybmZDbUMyd0FHV2FZSFU3WTF0YXE0VkRBQ0pUZ1Q1V0J5ZUl5a3RLVGhoU3NwZ1g2bkJ3bjNDd1UycWp4LWZxRnRlMy1iTXg1UEpxTGg2MU5TRTJhSkU0WEt4RFhyemtOZVF1ekxDVFdjalR3?oc=5
@@ -53,9 +56,6 @@
 
 - 【法律相談】副業禁止の会社に務める社員が趣味で始めたYouTube配信「収益が発生したら、会社に報告する義務があるのか？」弁護士の見解（マネーポストWEB） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA2NUFZTVZKMXV0Ty1FWXFrdGhuVUZ5WnVaX0tqVXpvWWg5LW9SdnlYZzliOGZkY0JMb2tzYmZHV1dTVDFzc1RMZFNfbFdXSFFjelk4RnFxTWtEMDFQcjh3U1VjWVdybTJpcTlCTVc5Zl9QeHRPYklyUm9rTXNhMmM?oc=5
-
-- 市販薬過剰摂取する「オーバードーズ」の悩み共有…集いの場提供し女性・若者参加しやすく （読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9DUVl3akpWeGNDbE4wNkdJWnpfRWlRRDhzWmV5WEYweFM5anNCbXVzS3N5eUhpTnh6Z2tfaHgtY0pqYkczbHp3OXZnUGJyQXZNMmQ2eWF4ZkFKTEdQZFpjeGYwUlFqdG5GbnRSUlczMlhra2RSY1hqZm9ZM1BGbFE?oc=5
 
 - 前澤友作の歴代彼女を全員知る、恋愛相談担当の女友達 - GOETHE[ゲーテ]
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XMVBCMlNCQUtfQ1Z4VEN4NXJlcTRGS2YxcE9HeHVPZlVHMkMwM21VWG5QR2xnQ3RBdjQ3TDdkNjVVcld0ZzloS21Yc0sxb3ZhNHhac3RCbEJkaEFibGw3dE15Y0c?oc=5
