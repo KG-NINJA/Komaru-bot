@@ -1,13 +1,13 @@
-=== こまる相談 ニュースフィード (2025-12-29 23:11) ===
+=== こまる相談 ニュースフィード (2025-12-30 00:59) ===
 
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVIzMHk4aXh4dW5WVVZaOHEzcFZOS1BOTnNROGlmNU1vRGF6VGQycU5GNWpoaWVKUG5jYUZKMkFzWlNSS0czbE9XbWpRYU9vYnlkMTZ0eVVKcGdpckhFX08tU3B5N25lQkw3eQ?oc=5
 
-- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
-
 - 警察の相談窓口などのご案内 - pref.hiroshima.lg.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9raUJXSHJ6TkZFaHRsWDNhVzhKSnN6SVphcDQ3MDZxUXBWY2dMYWNDY25tTHprRTBETHlyeURwaEpEbDJMb1pxVkhkZFNnQnlKVUlzNHZrb0Fsa2hQbHJSY05OWmZaMXc?oc=5
+
+- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
 - 令和7年度 緑の相談・勉強会 - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxPejBINkhDTl9HQ1E3eE84Y2JIWTRVemtlcEZrckozVFdCYU9XLXNqME52M2NmU0FvaDBxTjliRVlQeTlPZHNjREkxZFoxN0FjTmFOa0ppazJvTzhzTUVfM1RYS0RfYy1XRzFDS1dXVnk2Tll4eUdWZEVZTVhmSzg5cA?oc=5
@@ -18,6 +18,9 @@
 - インド人の親は「子どもの将来の悩みゼロ」。その理由が意外すぎた - ダイヤモンド・オンライン
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE91czh2Q0lqdDdBLU9xU1dKeEtMN1R6MFZ3RHBySGpDRE1QX0o4R3J5TUhaaVl5WlBGRlgwaFV1bUdYLVRxcGI3VmFISEXSAU9BVV95cUxPemVkT2pFRVdlTUxTMmN4blpmVDFjLVlmTEptM3h5czgyVzM3VHRJSEF2eC1ONWJvczBUcUpXV285VkF0dXNid0RUVXV3S0xV?oc=5
 
+- 冬休みスペシャル 子どもお天気リレー 10時台 - 子ども科学電話相談 - NHK
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE5Eak1ZODhVT2pNS05kLUpYYzRqWUg2VkR3LVVJLUpQclVoMy1HLU5YcWxPYURMWWF4WDZZbDlaRDFIX1YwQ25IN2xuMGUzWUp0RFh0dVdZanB3d1huUWdDR2JSZExWWDM5Z21EYjVlMkZtR28?oc=5
+
 - 親御さん向け結婚相談会を開催します - city.maebashi.gunma.jp
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sNXl1Mk9fcWN1UHVyOENjdW5zakNscDJPb2dNV25ydmtVdUtXOTBhU2ZPWmxRNE45SzFFWl9FYXhVSTZtVV9WcWxtaEh6Z0RWc2ZQYURBMldiWnM?oc=5
 
@@ -27,35 +30,32 @@
 - “生活困窮者を支援” 専門家が無料で相談に応じる 東京 府中 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UnZDR3plU1dEMEFzNGZGTG5yOGxZcE80V0ZqX2o2M21HcUR0S2Z0UUpRUHJsOHFvZEY5QlJZXzU1eDNYd1EzTkY5QTBZX2h3Yzd5Z1pvNG1NWVZnVEJB?oc=5
 
-- スマホ相談会「スマチャレみなみ」 - city.sakai.lg.jp
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzFLclRNU2RJVXJDZXVIRmZIY2FHX1BpeXYwMG9kVlpYQy03cFQzRkwwVGVpX1F6NzJpYTg3Y2I3cGNXMTJMaFQ5ZzR5NDVwdmcxajFVdUVMNklxNVRjelN5d19FV1pRcW14M3J4eFRKQkJJalVrMWpnOVFJN0JwREpfUXhsZw?oc=5
-
 - 【年末年始】生活に困ったときの相談先リスト（2025～2026年）（大西連） - エキスパート - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclRXQUdWZ2xfQmtnY0ZIaUN6UWtHWHE5cWNUdFdXeHlUWmswN2xqWl9lcFpiTHloWDVnYTZ3eFZRNmM4OElmeENKRHRuMm9kVS05N1hIXzliUFJuMjB6ZFk3MF9KTU9jVlh6VDA2b0l3aThXSDZHSnJmdVMwMXNxNVhzWGNhMC04?oc=5
+
+- スマホ相談会「スマチャレみなみ」 - city.sakai.lg.jp
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzFLclRNU2RJVXJDZXVIRmZIY2FHX1BpeXYwMG9kVlpYQy03cFQzRkwwVGVpX1F6NzJpYTg3Y2I3cGNXMTJMaFQ5ZzR5NDVwdmcxajFVdUVMNklxNVRjelN5d19FV1pRcW14M3J4eFRKQkJJalVrMWpnOVFJN0JwREpfUXhsZw?oc=5
 
 - 徳島：年末年始の急病相談を 県ＨＰに窓口紹介 ：地域ニュース - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMidkFVX3lxTE4wRGNraVR3dmhRRkFKVFgyUjRHbzZ1bFQzTGtVVTdxVDh2ek42aEM5dzQ3NWNSUUlRc09rXy0tYlpUZnItTEd2OWlwbkpqc2dxMVRBd19xN3lXMmg3b2U4ckg2bXR1QUlLOVQwU2pCUjFVZzZvdXc?oc=5
 
-- コード決済詐欺、相談最多 返金持ちかけ送金誘導 ２５年度、５千件 - 福井新聞社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TU29fbDRCako2U0RyYmdoNWoyVnVXN3VBTWRZZVI5TDRJSE5nUWhXaDRKamVkYzR4UE9hLXhUNzN0ZFhDcVZBSXcxa3NnQ3RMZnhJTUE5MU5yMW4xZWc?oc=5
-
-- 和歌山県・橋本市、移住相談会を大阪（2/6）、東京（2/14、3/7）で開催｜旅先テレワーク実践ガイド 【公式】 - トラベルボイス
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vaVRVX2JqZEhaTFhaQnpxT3dVVkNXdzBFbGdoT1BlWHg2bWNaaWtUZExfYzhmaDRZdVozcG4tYUdKV25YcGlHdjRHM0dBcWdZNzdwN1lYSFlGZFg2a3pDUHNR?oc=5
-
 - 「〇〇ペイ」コード決済詐欺の相談過去最多 アプリで送金誘導「注意を」 - 西日本新聞me
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE02MWQ4dWVZTFkyNUtqaWtLS00xRUNRLUZhbS0zUUhIbWlZSFFBbHVqQ09faWFDMklneEE0UDA0dDRrLUExMFExYW44OEVoanRjSjY4ZjJ3?oc=5
+
+- コード決済詐欺、相談最多 返金持ちかけ送金誘導 ２５年度、５千件 - 福井新聞社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TU29fbDRCako2U0RyYmdoNWoyVnVXN3VBTWRZZVI5TDRJSE5nUWhXaDRKamVkYzR4UE9hLXhUNzN0ZFhDcVZBSXcxa3NnQ3RMZnhJTUE5MU5yMW4xZWc?oc=5
 
 - 【年末年始】不安や悩みを抱える方へのこころの相談窓口について - city.minamisoma.lg.jp
   https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzBsNkdWQVpqUThaSk8ybmZDbUMyd0FHV2FZSFU3WTF0YXE0VkRBQ0pUZ1Q1V0J5ZUl5a3RLVGhoU3NwZ1g2bkJ3bjNDd1UycWp4LWZxRnRlMy1iTXg1UEpxTGg2MU5TRTJhSkU0WEt4RFhyemtOZVF1ekxDVFdjalR3?oc=5
 
-- コード決済詐欺、相談最多 ２５年度５０００件、アプリで送金誘導 - 山陰中央新報デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rd2RBcjgtcDlINUpiRjdSTUFEYUFEOGtPZlNxR2xrX2NjWUtCZDJhaGlPUUtpZG1VcllSdTZ6dTRlSWxxODZfN0l3dnlyR01QbEpWSDVaemxpQQ?oc=5
+- 和歌山県・橋本市、移住相談会を大阪（2/6）、東京（2/14、3/7）で開催｜旅先テレワーク実践ガイド 【公式】 - トラベルボイス
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vaVRVX2JqZEhaTFhaQnpxT3dVVkNXdzBFbGdoT1BlWHg2bWNaaWtUZExfYzhmaDRZdVozcG4tYUdKV25YcGlHdjRHM0dBcWdZNzdwN1lYSFlGZFg2a3pDUHNR?oc=5
+
+- 周年キャンペーンの「企画と設計」を無料でレクチャー。オンラインガチャ／診断の活用相談会を開放 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE01UmxhbGlFeWhLSUNpYW5TdlQtVFk3MEZpaXRKSXpXT3htRWRZak5sa3RRNHVYdk1paHYtY3c1TWQ1WjhDdU54cFJucjYxalBJMGhwVmR6N3pLVi1hQ3ZaZEgzWnN4MmlHdlE?oc=5
 
 - 山形県、12市町村が出展する移住相談会を東京・有楽町で開催、2/8｜旅先テレワーク実践ガイド 【公式】 - トラベルボイス
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nSnlxOG1OZk1fdkM1RXA2MWVPYmJUY0dZR3Q1ZUpsRVdxMG1oeGJBX1lqcmNzSThKQ0tSdFpFUGRPSGlWVjdZZFNlLVozVExrWEgxSXRQY2FOazhSMXlnYm5n?oc=5
-
-- コード決済詐欺、相談過去最多に 5千件、利用者に注意呼びかけ（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSFJESDB3dHd3U2ZSNDFpWVhBSGMtWDI5Q29kQm9hV3lIOU9WeTdOTVpaUWYzVXkzREdwTWtCQUdQaUM5bnAxams5UkRCa0ZvNnRoSjZ2TFZuOW9xRTBNYUlhbjE4S01sV1NFcFgwOGt4TXdoRkRZU09Keng0VnM?oc=5
 
 - 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
