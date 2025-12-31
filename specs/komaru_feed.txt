@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2025-12-31 17:10) ===
+=== こまる相談 ニュースフィード (2025-12-31 18:18) ===
 
 - 「まずは相談に来てほしい」 小池・山添・谷川氏が参加 - jcp.or.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE81TXZqMzZPM0xOSWh5ZjhBeU9Wb280cVBrMGhGZXlwQm96TVVYTmJkUHJ5c2JrczZnYnFucldGdHpkdkJDZDRzV3J0T0JiRFFESWFzZi0tNGJXa2JIcGFleUJMNGtpVHk1by1YUE5aLWVxSi1R?oc=5
@@ -21,14 +21,17 @@
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
-- 『不安や悩みを抱える方』への年末年始の相談について - 海南市
-  https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZiREEyYmZPNk4xSlRVN0xwd01hNzBoYWNLeHZoZWZuOUpsRzFfOF9lZWxLc1BiMkJ6QlhSeUd0amF5X1Z1bHZ5TlMtY1k0czdUalBCREg1R2taeTU5cklWbGpFZzBkSUhkdXI2ZmFNNWlUVnROeXJpN2h2aEJnVXNVNldWa3BmYzBKZDJ6bGpzaDZMTWJzRkxUUkVfYTNEbmNDZDlhTndOMnNncjdr?oc=5
-
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVIzMHk4aXh4dW5WVVZaOHEzcFZOS1BOTnNROGlmNU1vRGF6VGQycU5GNWpoaWVKUG5jYUZKMkFzWlNSS0czbE9XbWpRYU9vYnlkMTZ0eVVKcGdpckhFX08tU3B5N25lQkw3eQ?oc=5
 
+- 『不安や悩みを抱える方』への年末年始の相談について - 海南市
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZiREEyYmZPNk4xSlRVN0xwd01hNzBoYWNLeHZoZWZuOUpsRzFfOF9lZWxLc1BiMkJ6QlhSeUd0amF5X1Z1bHZ5TlMtY1k0czdUalBCREg1R2taeTU5cklWbGpFZzBkSUhkdXI2ZmFNNWlUVnROeXJpN2h2aEJnVXNVNldWa3BmYzBKZDJ6bGpzaDZMTWJzRkxUUkVfYTNEbmNDZDlhTndOMnNncjdr?oc=5
+
 - 【年末年始】生活に困ったときの相談先リスト（2025～2026年）（大西連） - エキスパート - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclRXQUdWZ2xfQmtnY0ZIaUN6UWtHWHE5cWNUdFdXeHlUWmswN2xqWl9lcFpiTHloWDVnYTZ3eFZRNmM4OElmeENKRHRuMm9kVS05N1hIXzliUFJuMjB6ZFk3MF9KTU9jVlh6VDA2b0l3aThXSDZHSnJmdVMwMXNxNVhzWGNhMC04?oc=5
+
+- 各種町民相談について - town.samukawa.kanagawa.jp
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRktZNzFNWlNBQXBXX1E0ZHNXOHo0ZlQxRWh2cUQ1aTRTQVFiMEloaUNsMFlIRE1lUGhWTXZhRG9wVnlDQWw0dGozWDNDbE5uOHdBNHl6SUNQdUJueVF0R3pTaEJwZU53SUc5Z19KMWlodFVkT1BYWTFFbkh6Y0xRVUpFcUM4b3kyTklaZDI2LTlnb3JnYVRDV0RSWHNZaExWTWRfM1Q2NEg?oc=5
 
 - ムラタカンパニー 地元のことは地元で相談 空き家の悩み、お聞かせください | さがみはら中央区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rWnhfeVRLQmdYZ2NjUUxvV2VyZTBfY0JvUzZxSmJiQnRMUElucndPREF1LWZhUmFmWkMxdEdlUDNXUDFfRzZYZmZVeW9WNlBRVnNpamlDQXhLakNtZFJGQXVxQVA?oc=5
@@ -56,7 +59,4 @@
 
 - ｢その”入れ歯”有効活用を｣ インプラント 無料相談実施 | 青葉区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1URzU4YnJnR21DMmN5NEZ6R2VrdU1FME9qS1BDa05mMTQyQ3dRUXR4dGFDeF9fZHg1RWRQc1NQQ0hrY1RiNWVMN0hMaG0xN3ZSa3ZkYzNMQzdwbG9NZm5Cdzczdnc?oc=5
-
-- ｢事前相談｣で安心、納得の葬儀を 株式会社川崎葬儀社 代表取締役川崎葬祭具協同組合 理事長齋藤隆さん | 中原区 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXdHFEbm5KNnFrN3o1Wms1Y0JXRF9SUkRveXcwdDVSSWlxakxZaVJMdWFpYnJKYTFmZ3VmMGpERGFFd3ZmQlhfTV9mNm1GQmJYWjN5dzlfdFo3X3g4MVFZd3VYYUg?oc=5
 
