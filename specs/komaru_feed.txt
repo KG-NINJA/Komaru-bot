@@ -1,16 +1,16 @@
-=== こまる相談 ニュースフィード (2026-01-03 21:10) ===
+=== こまる相談 ニュースフィード (2026-01-03 22:11) ===
 
 - AIは身近な相談相手になれるのか 東畑開人さんが考える強みと弱み [AIの時代] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcUJfcUhkbkExd1NLZ3FUU3pmOHZ1TEhXVmVEWTl3MDFGQU84czF0cDZ6TGEtRDBZTU9CNGd5eHZMcHc0M01RN3BtLVBnTGF3dWZwNHplZ0VRNHdOYWExckY3dU5RN3M?oc=5
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxQTk50TlBaVVJqYk51U3lBS2ZTZ20zdUdadHJEd0NjalltM2YxUkZ3ZFc5LUJtS1A0ZEFHNXUzdFNfeGFKRGpraDU1SEVaek4yUWttaW44NjlhcU43MzFDbElGMWxtSnY0czgtcXZXRUFkdllYbjZTYmJ5aHZ3b2pCbUpMaEEtc1liWjMtMA?oc=5
 
 - 司法書士による成年後見相談会 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTFA2YWtYSVowamlWdVVuNWt2Y0gyVjRqeW5rc2JhaTIydFJnYVd1N3F6eGZlRjRiVmlwS1FtMDN1bktVWmNoaV9raE1OUnBvY1E3QTNLc0tZU3BZU2ttVFJaNU83X2dwYk0xUDhB?oc=5
 
+- SNS投稿企画をAIに相談、営業ロープレはアバターで【AI活用最前線】 - リフォーム産業新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE14dmY4TXoyT3Exa0VyRzM0NGIyTjRVRTBFVmszVm4zcDV5MlIzWV83cDNzUG1hZDJyRXVVMHVPbUx4aV9sVldTeVV1RU52R051QWVIQjB0Z0d6SkJLb2NkQUxJNlAyQQ?oc=5
+
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
-
-- ちゃんみな 妊娠による体の変化で困ったこと 赤裸々告白で藤本美貴「分かる！」共感（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQ0kwZ0V2SHdkeHBJYXdrNEpWY1BKNFh6OENhMTNOQm1fTzZpYVNzRldhbnJWSkRVcC1MOXFaSE5NbzZPcTZtQU5ac0lFenNNWGZzYnZ4b2xQMXp0eWdnZE9VQ1luaGZBcGVqbmtSY0ZiNThGRTJ2djhMdDhnVTA?oc=5
 
 - 【1月16日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
@@ -21,8 +21,14 @@
 - 各種町民相談について - town.samukawa.kanagawa.jp
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRktZNzFNWlNBQXBXX1E0ZHNXOHo0ZlQxRWh2cUQ1aTRTQVFiMEloaUNsMFlIRE1lUGhWTXZhRG9wVnlDQWw0dGozWDNDbE5uOHdBNHl6SUNQdUJueVF0R3pTaEJwZU53SUc5Z19KMWlodFVkT1BYWTFFbkh6Y0xRVUpFcUM4b3kyTklaZDI2LTlnb3JnYVRDV0RSWHNZaExWTWRfM1Q2NEg?oc=5
 
+- ちゃんみな 妊娠による体の変化で困ったこと 赤裸々告白で藤本美貴「分かる！」共感（スポニチアネックス） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQ0kwZ0V2SHdkeHBJYXdrNEpWY1BKNFh6OENhMTNOQm1fTzZpYVNzRldhbnJWSkRVcC1MOXFaSE5NbzZPcTZtQU5ac0lFenNNWGZzYnZ4b2xQMXp0eWdnZE9VQ1luaGZBcGVqbmtSY0ZiNThGRTJ2djhMdDhnVTA?oc=5
+
 - 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
+
+- 暴力追放貢献で全国表彰 弁護士や元相談委員 県警に報告 - 静岡新聞DIGITAL
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SNElUdkY0dFVzSDdlUkhGZGFEMEl2aGZSTmVPX1NmM1c3OWVZbW5TU2luVF9qbTI4djVtTFBOTF9wZVkxeENBUVZ0eFlKQQ?oc=5
 
 - 「連絡取れない」別居の息子が警察に相談し住宅で2遺体発見 90代の母親と介護していた60代の娘か 東京・墨田区 - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SU2RaZ3dWSV9yUE12dUxzTGR3eXE4T0VIYThQRC1nWVQ5VFNUSGpfV1ZESXpxZkZaeVF2enRFYVRWbVFBYUg1RlVXVGc?oc=5
@@ -33,29 +39,23 @@
 - 令和7年度 緑の相談・勉強会 - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxPejBINkhDTl9HQ1E3eE84Y2JIWTRVemtlcEZrckozVFdCYU9XLXNqME52M2NmU0FvaDBxTjliRVlQeTlPZHNjREkxZFoxN0FjTmFOa0ppazJvTzhzTUVfM1RYS0RfYy1XRzFDS1dXVnk2Tll4eUdWZEVZTVhmSzg5cA?oc=5
 
+- 滋賀県南部で外国人住民のサポートに奔走する経営者 自身も日系3世「困ったときに頼れる人が要る」 - 京都新聞デジタル
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqS3IyNFhFV3MzcjNUTDlkNTdvMWxEazg3bDBfXzZlSU40RlpkRWtXSUpTdjRpZVk5ekx2OU9WOC1sb05haF9vOGtLUGRGejhFVjFScHhvODI?oc=5
+
 - 消費生活相談のご案内 - city.maibara.lg.jp
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHBKZVRkMmlEV00zUzRxM2I1T2tERkpqZnNKd3ZUTC1GODBwc1NWQjZ5VmJBQktpOFNudXJZOElHdzVDTURld0NrT21odVdta1liZkx6d3ppUVVFUERFd202ZHc2UmgyN2pIR2RlRlFiX3dSZFRvN2xaTWRrVFMxMThnaEdvRlJR?oc=5
-
-- 「感情への配慮大切」 相談トラブル学ぶ、町会女性会員 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE8ydG1wVU93bFdnd1g2WUU3Y3Z2S0xpSnRzMk1yZ2hkZ3dWV2VaZDk0R1ZtRDdtaGwxTzloXzJIaS1KTUNuVWFnRWZabw?oc=5
 
 - 警察の相談窓口などのご案内 - pref.hiroshima.lg.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9raUJXSHJ6TkZFaHRsWDNhVzhKSnN6SVphcDQ3MDZxUXBWY2dMYWNDY25tTHprRTBETHlyeURwaEpEbDJMb1pxVkhkZFNnQnlKVUlzNHZrb0Fsa2hQbHJSY05OWmZaMXc?oc=5
 
-- 働く女性、生理と仕事の悩みを共有 １７、３１日に横浜で講座 - カナロコ
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0ycFd0aHZMeFY5MnMtdDZWSXp3NDZuYzRabTV0WkVudDhmU09hWTNpX053UW1xTTItZDdLOHAza2JNeDZ2V0JNR0RvVGEyOTJqNDlkR283T1U3MnZuSm5xM3JkeVUtTEE?oc=5
+- 【ダイソー】冬の外出で足先が寒い…そんな悩みを救う「あったかボアインソール」を使ってみた - LIMO | くらしとお金の経済メディア
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UZ0FQYTRteUN2RGFOQzdMbllGVlA2NEg2RDN2UDlwZEFKUDVfSEZhRFdtYWZjbzNRRnJjYkNQSUd6NUk4dXdVYlBxLXE?oc=5
 
 - 経営・創業に関する相談窓口「ビジネスサポートセンターこしがや」のご案内 - city.koshigaya.saitama.jp
   https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXhhY1QwWi1OY0ZWTEdCSENRZ0NoeTN1WTN0cHhYcjk0TGJELUdaRmJVVjZfSDhGZU5oOHdZLXRpaWJVeDFnQnBQMmt0S0MzZk12Wl9mSmdPTzRDOXVmNGZweXB4Sm8zbU1hNmZUV3ZoYTlmQzNzelFCangxRkt2R3dzYklfalppVjBMaEdFS19qTVA4MEFz?oc=5
 
-- Dr.ハインリッヒ＆大黒笑けいけいの占いでタイムキーパーのお悩み解決! 「小賢しいことは考えるな」「新キャラは…ハネます!」【タロット占い座談会】 - Fany Magazine
-  https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wLTgtOVpHaVhLQWVRemZkSU9Ld1dfaWQ5bDFmc3dqOWc3Nkl6RmhhSGxGN2VPNjRLdXk2YU5iemxjb3ZncUlOVA?oc=5
-
-- スマホ相談会「スマチャレみなみ」 - city.sakai.lg.jp
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzFLclRNU2RJVXJDZXVIRmZIY2FHX1BpeXYwMG9kVlpYQy03cFQzRkwwVGVpX1F6NzJpYTg3Y2I3cGNXMTJMaFQ5ZzR5NDVwdmcxajFVdUVMNklxNVRjelN5d19FV1pRcW14M3J4eFRKQkJJalVrMWpnOVFJN0JwREpfUXhsZw?oc=5
-
-- 【藤本美貴の子育て語録】うそ・喧嘩・スマホ…親の悩みにミキティが回答「心が軽くなる」向き合い方（All About） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBJWlA4akVkZDZFTFJxV3ZWOGE5OFFvMEpGTHp5dWs4S0dBeld4bmxtbGVWVjE4OFVNY2tSSGFYN0xjYl90bndyNGRNZFhBX1V3QVJRWVdRcVpjVW8xb3ZpcGd5M0RyWjNocTM5ZjU1MWZuS0JTVVJhVlh5VGIwZEE?oc=5
+- 「感情への配慮大切」 相談トラブル学ぶ、町会女性会員 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE8ydG1wVU93bFdnd1g2WUU3Y3Z2S0xpSnRzMk1yZ2hkZ3dWV2VaZDk0R1ZtRDdtaGwxTzloXzJIaS1KTUNuVWFnRWZabw?oc=5
 
 - 茨木市相談機関への道しるべ～不登校・ひきこもり・非行・就労・障害・生活設計・子育てなどの相談窓口 - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1VCRklmZWh0T0hVS3NfV1NKQmRXTHRIai1UOHdqWFl1SVpaajhMWTBpUS1kVGFhX2tYZmlWSk1pZWctV2tFY0c3UFRSVHZ5Q29YQzJIVlhNSEg4OFVSYkdncHNBNDZwTDB0OVRneC1QMEh3Q2FSd3AwR1pOci1ZSExLaWF2ZGRqNEVDdEVuU091YTB4NkxUc2c1bmNIN2Q5M2trem1nYWZlcnc?oc=5
