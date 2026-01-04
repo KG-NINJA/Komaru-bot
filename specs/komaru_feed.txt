@@ -1,13 +1,13 @@
-=== こまる相談 ニュースフィード (2026-01-04 07:14) ===
+=== こまる相談 ニュースフィード (2026-01-04 08:16) ===
 
 - SNS投稿企画をAIに相談、営業ロープレはアバターで【AI活用最前線】 - リフォーム産業新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE14dmY4TXoyT3Exa0VyRzM0NGIyTjRVRTBFVmszVm4zcDV5MlIzWV83cDNzUG1hZDJyRXVVMHVPbUx4aV9sVldTeVV1RU52R051QWVIQjB0Z0d6SkJLb2NkQUxJNlAyQQ?oc=5
 
-- AIは身近な相談相手になれるのか 東畑開人さんが考える強みと弱み [AIの時代] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcUJfcUhkbkExd1NLZ3FUU3pmOHZ1TEhXVmVEWTl3MDFGQU84czF0cDZ6TGEtRDBZTU9CNGd5eHZMcHc0M01RN3BtLVBnTGF3dWZwNHplZ0VRNHdOYWExckY3dU5RN3M?oc=5
-
 - 司法書士による成年後見相談会 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTFA2YWtYSVowamlWdVVuNWt2Y0gyVjRqeW5rc2JhaTIydFJnYVd1N3F6eGZlRjRiVmlwS1FtMDN1bktVWmNoaV9raE1OUnBvY1E3QTNLc0tZU3BZU2ttVFJaNU83X2dwYk0xUDhB?oc=5
+
+- AIは身近な相談相手になれるのか 東畑開人さんが考える強みと弱み [AIの時代] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcUJfcUhkbkExd1NLZ3FUU3pmOHZ1TEhXVmVEWTl3MDFGQU84czF0cDZ6TGEtRDBZTU9CNGd5eHZMcHc0M01RN3BtLVBnTGF3dWZwNHplZ0VRNHdOYWExckY3dU5RN3M?oc=5
 
 - 「茶摘みを機械でできないか」相談受けたオートバイ修理の父が開発…収量１０倍、農家の声聞き改良重ねる - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE56bmMzT1psblBkT1JfY24wdEs5Q3c4cUxsNGdpNTVRTlM3M0tqZDMxY3dQeGViRF9YMGc5UjlwLXd6QTJ0dUhwOV82akNlYmxlb2p3U1JBdkJnQXdQSFdIa052OUFydkpWNlFRcUUwX2poU3p6MmlRWHBiSFhraUk?oc=5
@@ -27,35 +27,35 @@
 - 各種町民相談について - town.samukawa.kanagawa.jp
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRktZNzFNWlNBQXBXX1E0ZHNXOHo0ZlQxRWh2cUQ1aTRTQVFiMEloaUNsMFlIRE1lUGhWTXZhRG9wVnlDQWw0dGozWDNDbE5uOHdBNHl6SUNQdUJueVF0R3pTaEJwZU53SUc5Z19KMWlodFVkT1BYWTFFbkh6Y0xRVUpFcUM4b3kyTklaZDI2LTlnb3JnYVRDV0RSWHNZaExWTWRfM1Q2NEg?oc=5
 
-- ハンバーグがパサパサにならない裏技は？ かまいたち「凍った悩みを60秒で瞬間回答！」第4弾（コメントあり） - ナタリー
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EVV8xaC1wb0hiZ1Z1cHMzTFlKUk9BT1FqWUlfU1EtVEtFVTZxRHZDTXE2S2trLUZ4YnpNSnJhQmpiZjhCV0g2N0hQTkg4Zw?oc=5
-
 - 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
 
+- ハンバーグがパサパサにならない裏技は？ かまいたち「凍った悩みを60秒で瞬間回答！」第4弾（コメントあり） - ナタリー
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EVV8xaC1wb0hiZ1Z1cHMzTFlKUk9BT1FqWUlfU1EtVEtFVTZxRHZDTXE2S2trLUZ4YnpNSnJhQmpiZjhCV0g2N0hQTkg4Zw?oc=5
+
 - 《AI活用で楽チン生活》節約・時短テクから“人生相談”まで丸投げ、日常で賢く使って体力や記憶力の負担減 - 週刊女性PRIME
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE93c1F6enVmVndkc1N3YURQSk1ON2tiSEFqcmtPc3FrdzY4WmN4WlFiRWtUdmszdm90dnZ0aTVwRlFMRkdoUXpGNVBROGMxU1l3SE1vS1RDOVJObWh2?oc=5
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE93c1F6enVmVndkc1N3YURQSk1ON2tiSEFqcmtPc3FrdzY4WmN4WlFiRWtUdmszdm90dnZ0aTVwRlFMRkdoUXpGNVBROGMxU1l3SE1vS1RDOVJObWh20gFSQVVfeXFMTjZvUVFMNjFQdzNuYlM3clgySTR3dWVXbG1Va3c0bU85NDJIaUtlYVoxb1hvQVdTYU1ZWVM3V2hSTmV4TXZKWi1Db19RNy03UDRjZw?oc=5
 
 - 令和7年度 緑の相談・勉強会 - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxPejBINkhDTl9HQ1E3eE84Y2JIWTRVemtlcEZrckozVFdCYU9XLXNqME52M2NmU0FvaDBxTjliRVlQeTlPZHNjREkxZFoxN0FjTmFOa0ppazJvTzhzTUVfM1RYS0RfYy1XRzFDS1dXVnk2Tll4eUdWZEVZTVhmSzg5cA?oc=5
 
-- 池袋で生活・医療相談/「まずは相談に来てほしい」/小池・山添・谷川氏が参加 | しんぶん赤旗 - jcp.or.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE81TXZqMzZPM0xOSWh5ZjhBeU9Wb280cVBrMGhGZXlwQm96TVVYTmJkUHJ5c2JrczZnYnFucldGdHpkdkJDZDRzV3J0T0JiRFFESWFzZi0tNGJXa2JIcGFleUJMNGtpVHk1by1YUE5aLWVxSi1R?oc=5
-
 - 消費生活相談のご案内 - city.maibara.lg.jp
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHBKZVRkMmlEV00zUzRxM2I1T2tERkpqZnNKd3ZUTC1GODBwc1NWQjZ5VmJBQktpOFNudXJZOElHdzVDTURld0NrT21odVdta1liZkx6d3ppUVVFUERFd202ZHc2UmgyN2pIR2RlRlFiX3dSZFRvN2xaTWRrVFMxMThnaEdvRlJR?oc=5
+
+- 池袋で生活・医療相談/「まずは相談に来てほしい」/小池・山添・谷川氏が参加 | しんぶん赤旗 - jcp.or.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE81TXZqMzZPM0xOSWh5ZjhBeU9Wb280cVBrMGhGZXlwQm96TVVYTmJkUHJ5c2JrczZnYnFucldGdHpkdkJDZDRzV3J0T0JiRFFESWFzZi0tNGJXa2JIcGFleUJMNGtpVHk1by1YUE5aLWVxSi1R?oc=5
 
 - 警察の相談窓口などのご案内 - pref.hiroshima.lg.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9raUJXSHJ6TkZFaHRsWDNhVzhKSnN6SVphcDQ3MDZxUXBWY2dMYWNDY25tTHprRTBETHlyeURwaEpEbDJMb1pxVkhkZFNnQnlKVUlzNHZrb0Fsa2hQbHJSY05OWmZaMXc?oc=5
 
-- 買い物の「困った」を解決するグッズが3COINSにあった！（1/2） - mimot.(ミモット) - ウレぴあ総研
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OZWVyNVhtbmFWVTZNYWZPeG5GYkE3cnhHRXhqeFp4cFJGbF9xbFFZVzV4MVM5WXhJdDJIYnd4WExUeW9JTnpCbG1veDBkUlhlVUE?oc=5
-
 - 経営・創業に関する相談窓口「ビジネスサポートセンターこしがや」のご案内 - city.koshigaya.saitama.jp
   https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXhhY1QwWi1OY0ZWTEdCSENRZ0NoeTN1WTN0cHhYcjk0TGJELUdaRmJVVjZfSDhGZU5oOHdZLXRpaWJVeDFnQnBQMmt0S0MzZk12Wl9mSmdPTzRDOXVmNGZweXB4Sm8zbU1hNmZUV3ZoYTlmQzNzelFCangxRkt2R3dzYklfalppVjBMaEdFS19qTVA4MEFz?oc=5
 
-- 生成AIに投資の相談？銘柄選びや市場分析に使う人も【お金の意識調査2025】 [資産運用] All About - All About（オールアバウト）
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jazdmOS1YRWgzMmc3Zmt4ZVhMaE1MZTNxRW1tdGtJS3k1cGE5Q3NjNlc5QU10YlNSaGZpTFFpTG01Rm5EOW16djFlOV8?oc=5
+- 買い物の「困った」を解決するグッズが3COINSにあった！（1/2） - mimot.(ミモット) - ウレぴあ総研
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OZWVyNVhtbmFWVTZNYWZPeG5GYkE3cnhHRXhqeFp4cFJGbF9xbFFZVzV4MVM5WXhJdDJIYnd4WExUeW9JTnpCbG1veDBkUlhlVUE?oc=5
+
+- スマホ相談会「スマチャレみなみ」 - city.sakai.lg.jp
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzFLclRNU2RJVXJDZXVIRmZIY2FHX1BpeXYwMG9kVlpYQy03cFQzRkwwVGVpX1F6NzJpYTg3Y2I3cGNXMTJMaFQ5ZzR5NDVwdmcxajFVdUVMNklxNVRjelN5d19FV1pRcW14M3J4eFRKQkJJalVrMWpnOVFJN0JwREpfUXhsZw?oc=5
 
 - 茨木市相談機関への道しるべ～不登校・ひきこもり・非行・就労・障害・生活設計・子育てなどの相談窓口 - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1VCRklmZWh0T0hVS3NfV1NKQmRXTHRIai1UOHdqWFl1SVpaajhMWTBpUS1kVGFhX2tYZmlWSk1pZWctV2tFY0c3UFRSVHZ5Q29YQzJIVlhNSEg4OFVSYkdncHNBNDZwTDB0OVRneC1QMEh3Q2FSd3AwR1pOci1ZSExLaWF2ZGRqNEVDdEVuU091YTB4NkxUc2c1bmNIN2Q5M2trem1nYWZlcnc?oc=5
