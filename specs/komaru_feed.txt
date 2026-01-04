@@ -1,28 +1,31 @@
-=== こまる相談 ニュースフィード (2026-01-04 01:07) ===
+=== こまる相談 ニュースフィード (2026-01-04 03:42) ===
 
 - AIは身近な相談相手になれるのか 東畑開人さんが考える強みと弱み [AIの時代] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcUJfcUhkbkExd1NLZ3FUU3pmOHZ1TEhXVmVEWTl3MDFGQU84czF0cDZ6TGEtRDBZTU9CNGd5eHZMcHc0M01RN3BtLVBnTGF3dWZwNHplZ0VRNHdOYWExckY3dU5RN3M?oc=5
 
-- SNS投稿企画をAIに相談、営業ロープレはアバターで【AI活用最前線】 - リフォーム産業新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE14dmY4TXoyT3Exa0VyRzM0NGIyTjRVRTBFVmszVm4zcDV5MlIzWV83cDNzUG1hZDJyRXVVMHVPbUx4aV9sVldTeVV1RU52R051QWVIQjB0Z0d6SkJLb2NkQUxJNlAyQQ?oc=5
-
 - 「検索」から「相談」へ エイブルが新CMで打ち出す「来店回帰」の部屋探し戦略、「チョコプラ」を2年連続で起用 - AdverTimes.（アドタイ） by 宣伝会議
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGa29CZmJ6ODhfUUl4SzAtck9meDExQTFyT0FKczhtOHlxTFhtbWFZUU9McFNvZ0hpWWwtdHlwYmN2Mkx4TjBSNndMM1lWUGNacTZvemdvUkk1d2ozVnNz?oc=5
 
-- 職人守る保湿クリーム開発 建設会社、悩みに向き合い（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1iSE01aU80N240alQ1cENzZXFjMTFybmhxbTVYNHdyb1lYLTJDWjFpcTVvR0E2clRnVER3ejhrR2R5bFROVW1tQnlldVVKMGpLZXZXQ2Q2SUxIVzZmMGZOeGpFcWVkS1psQ3lYTUtjTm9Da0ZyRkQ0TmRocU5VTUE?oc=5
+- SNS投稿企画をAIに相談、営業ロープレはアバターで【AI活用最前線】 - リフォーム産業新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE14dmY4TXoyT3Exa0VyRzM0NGIyTjRVRTBFVmszVm4zcDV5MlIzWV83cDNzUG1hZDJyRXVVMHVPbUx4aV9sVldTeVV1RU52R051QWVIQjB0Z0d6SkJLb2NkQUxJNlAyQQ?oc=5
 
 - 司法書士による成年後見相談会 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTFA2YWtYSVowamlWdVVuNWt2Y0gyVjRqeW5rc2JhaTIydFJnYVd1N3F6eGZlRjRiVmlwS1FtMDN1bktVWmNoaV9raE1OUnBvY1E3QTNLc0tZU3BZU2ttVFJaNU83X2dwYk0xUDhB?oc=5
 
+- 職人守る保湿クリーム開発 建設会社、悩みに向き合い（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1iSE01aU80N240alQ1cENzZXFjMTFybmhxbTVYNHdyb1lYLTJDWjFpcTVvR0E2clRnVER3ejhrR2R5bFROVW1tQnlldVVKMGpLZXZXQ2Q2SUxIVzZmMGZOeGpFcWVkS1psQ3lYTUtjTm9Da0ZyRkQ0TmRocU5VTUE?oc=5
+
+- ｢中学受験はさせるべき？｣東大生が答える"やめた方がいい家庭の特徴"と見逃してはいけない子どものサイン - 東洋経済オンライン
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pZDJKN3hYODRNVndkQzR0OFphdWpYc3A0Zl9XM1dUS2ZTLWJIME1YY09vQTFhdmpxemNHZkg3aGNoT05RMzN4eFljeGREcGtBNkYxa0FMT2oxeFprYmRF?oc=5
+
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
-- 【1月16日】労働相談 - city.tokorozawa.saitama.jp
-  https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
-
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVIzMHk4aXh4dW5WVVZaOHEzcFZOS1BOTnNROGlmNU1vRGF6VGQycU5GNWpoaWVKUG5jYUZKMkFzWlNSS0czbE9XbWpRYU9vYnlkMTZ0eVVKcGdpckhFX08tU3B5N25lQkw3eQ?oc=5
+
+- 【1月16日】労働相談 - city.tokorozawa.saitama.jp
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
 - 各種町民相談について - town.samukawa.kanagawa.jp
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRktZNzFNWlNBQXBXX1E0ZHNXOHo0ZlQxRWh2cUQ1aTRTQVFiMEloaUNsMFlIRE1lUGhWTXZhRG9wVnlDQWw0dGozWDNDbE5uOHdBNHl6SUNQdUJueVF0R3pTaEJwZU53SUc5Z19KMWlodFVkT1BYWTFFbkh6Y0xRVUpFcUM4b3kyTklaZDI2LTlnb3JnYVRDV0RSWHNZaExWTWRfM1Q2NEg?oc=5
@@ -30,14 +33,14 @@
 - 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
 
-- 暴力追放貢献で全国表彰 弁護士や元相談委員 県警に報告 - 静岡新聞DIGITAL
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SNElUdkY0dFVzSDdlUkhGZGFEMEl2aGZSTmVPX1NmM1c3OWVZbW5TU2luVF9qbTI4djVtTFBOTF9wZVkxeENBUVZ0eFlKQQ?oc=5
+- 令和7年度 緑の相談・勉強会 - city.ibaraki.osaka.jp
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxPejBINkhDTl9HQ1E3eE84Y2JIWTRVemtlcEZrckozVFdCYU9XLXNqME52M2NmU0FvaDBxTjliRVlQeTlPZHNjREkxZFoxN0FjTmFOa0ppazJvTzhzTUVfM1RYS0RfYy1XRzFDS1dXVnk2Tll4eUdWZEVZTVhmSzg5cA?oc=5
+
+- 生成AIに投資の相談？銘柄選びや市場分析に使う人も【お金の意識調査2025】 [資産運用] All About - All About（オールアバウト）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jazdmOS1YRWgzMmc3Zmt4ZVhMaE1MZTNxRW1tdGtJS3k1cGE5Q3NjNlc5QU10YlNSaGZpTFFpTG01Rm5EOW16djFlOV8?oc=5
 
 - 池袋で生活・医療相談/「まずは相談に来てほしい」/小池・山添・谷川氏が参加 | しんぶん赤旗 - jcp.or.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE81TXZqMzZPM0xOSWh5ZjhBeU9Wb280cVBrMGhGZXlwQm96TVVYTmJkUHJ5c2JrczZnYnFucldGdHpkdkJDZDRzV3J0T0JiRFFESWFzZi0tNGJXa2JIcGFleUJMNGtpVHk1by1YUE5aLWVxSi1R?oc=5
-
-- 令和7年度 緑の相談・勉強会 - city.ibaraki.osaka.jp
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxPejBINkhDTl9HQ1E3eE84Y2JIWTRVemtlcEZrckozVFdCYU9XLXNqME52M2NmU0FvaDBxTjliRVlQeTlPZHNjREkxZFoxN0FjTmFOa0ppazJvTzhzTUVfM1RYS0RfYy1XRzFDS1dXVnk2Tll4eUdWZEVZTVhmSzg5cA?oc=5
 
 - 消費生活相談のご案内 - city.maibara.lg.jp
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHBKZVRkMmlEV00zUzRxM2I1T2tERkpqZnNKd3ZUTC1GODBwc1NWQjZ5VmJBQktpOFNudXJZOElHdzVDTURld0NrT21odVdta1liZkx6d3ppUVVFUERFd202ZHc2UmgyN2pIR2RlRlFiX3dSZFRvN2xaTWRrVFMxMThnaEdvRlJR?oc=5
@@ -45,17 +48,14 @@
 - 警察の相談窓口などのご案内 - pref.hiroshima.lg.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9raUJXSHJ6TkZFaHRsWDNhVzhKSnN6SVphcDQ3MDZxUXBWY2dMYWNDY25tTHprRTBETHlyeURwaEpEbDJMb1pxVkhkZFNnQnlKVUlzNHZrb0Fsa2hQbHJSY05OWmZaMXc?oc=5
 
-- 経営・創業に関する相談窓口「ビジネスサポートセンターこしがや」のご案内 - city.koshigaya.saitama.jp
-  https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXhhY1QwWi1OY0ZWTEdCSENRZ0NoeTN1WTN0cHhYcjk0TGJELUdaRmJVVjZfSDhGZU5oOHdZLXRpaWJVeDFnQnBQMmt0S0MzZk12Wl9mSmdPTzRDOXVmNGZweXB4Sm8zbU1hNmZUV3ZoYTlmQzNzelFCangxRkt2R3dzYklfalppVjBMaEdFS19qTVA4MEFz?oc=5
-
-- 「連絡取れない」別居の息子が警察に相談し住宅で2遺体発見 90代の母親と介護していた60代の娘か 東京・墨田区 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SU2RaZ3dWSV9yUE12dUxzTGR3eXE4T0VIYThQRC1nWVQ5VFNUSGpfV1ZESXpxZkZaeVF2enRFYVRWbVFBYUg1RlVXVGc?oc=5
+- 買い物の「困った」を解決するグッズが3COINSにあった！（1/2） - mimot.(ミモット) - ウレぴあ総研
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OZWVyNVhtbmFWVTZNYWZPeG5GYkE3cnhHRXhqeFp4cFJGbF9xbFFZVzV4MVM5WXhJdDJIYnd4WExUeW9JTnpCbG1veDBkUlhlVUE?oc=5
 
 - 「顔がデカいのが悩み」女性が似合うショートをオーダー 衝撃走る変身に「えっ！すごい…」「顔が小さく見える！」（LIMO） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0zb0RpdVQ3dUlYUHB4N2xQamxxdk81dDJtaEExaU5qbUZGWlRYelJUSGFmNVJ2dC1WR1Awd3dmS2tzTkl3dTJ1cEl5RUkyOGZ4RGtFWk5jRTZkMGd6N3lsTG1jbkhLek9DYW4zQ0l5dHlDT2RlVnp5V2lxMzloWXc?oc=5
 
-- 茨木市相談機関への道しるべ～不登校・ひきこもり・非行・就労・障害・生活設計・子育てなどの相談窓口 - city.ibaraki.osaka.jp
-  https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1VCRklmZWh0T0hVS3NfV1NKQmRXTHRIai1UOHdqWFl1SVpaajhMWTBpUS1kVGFhX2tYZmlWSk1pZWctV2tFY0c3UFRSVHZ5Q29YQzJIVlhNSEg4OFVSYkdncHNBNDZwTDB0OVRneC1QMEh3Q2FSd3AwR1pOci1ZSExLaWF2ZGRqNEVDdEVuU091YTB4NkxUc2c1bmNIN2Q5M2trem1nYWZlcnc?oc=5
+- 朝日奈央さん「必ずプロに相談が鉄則！」ハリヒタ肌を作るための3つのマイルール（美的.com） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9OakdJT2M5Y09YU09jNFpjX0I4MGpsdUNGT0tmcXZHYmhMM0VNQjFwTGtCYUp5djdKX1FoNVJTbGthMWNYU2ZRWldrM3hYdkxRQ2ZGX01OZWdWZzhWTHlOZnAtcXBQdlRNZFNxLUNZVkVYMU44TnJxSGtqRTZhY2M?oc=5
 
 - お金の悩みに関係する人間の行動を司る「バイアス」とは(トウシル) - Yahoo!ファイナンス
   https://news.google.com/rss/articles/CBMihwFBVV95cUxQU05PMWVrdjBiVDMyUGRuQVFyN2o1b2xwazhBTkVlTFBpc25uLVpJT2hlXzFrcFJYSmdjMTgwMXlwZkFTdTA0THdlX2ZFVnB0a1Vjbmp3aXd4YW1XeHptQ05NeFpYaVdVTlF5SHdsMV9oVFJ1ZXpTVnNpZHduZDBYX0dvZEZpcVE?oc=5
