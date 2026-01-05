@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-05 03:47) ===
+=== こまる相談 ニュースフィード (2026-01-05 04:49) ===
 
 - 「人間関係」で過去に警察に相談 水戸市ネイリスト殺害事件 – Quebee キュエビー - QAB 琉球朝日放送
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mcjFZSGlRRTV5ZUNHSUNTSTE0LU0zMkdpdkRtTmN5R2twbTNMWVA3RFNwM2Y0aTI2RWxWeDRlaHZPdGltMFZTb2J0c3pTQ3ZrSGFoVHZ6bks?oc=5
@@ -9,17 +9,20 @@
 - 【中間市】市民生活相談センター💕困ったことはありませんか❓ 暮らしの困りごと、ご相談下さい... - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YTWlTaW5BSHptS1NRVXpDZWd3M3Q2UDZJVUVpdERORXNJZzdjZXFPeGRtLVZIR00wRTlYbDVyeUxXZXhzaGlxT3dzZ3FDY3BHN2JQeHktMVZjbl94YUxN?oc=5
 
-- 人間関係トラブルでこれまで3回警察に相談…「対応終結」も事件に関係の可能性 水戸市のネイリスト女性殺害 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4SFk5T29hb2Znb1cyaTBDank5a1EybjVyZ0F6MkZERlB1cFFic3FndEtHdlpqT0lnMzFHZEh3VW9PaXFOR3BFU0RkN1k?oc=5
-
 - 司法書士による成年後見相談会 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTFA2YWtYSVowamlWdVVuNWt2Y0gyVjRqeW5rc2JhaTIydFJnYVd1N3F6eGZlRjRiVmlwS1FtMDN1bktVWmNoaV9raE1OUnBvY1E3QTNLc0tZU3BZU2ttVFJaNU83X2dwYk0xUDhB?oc=5
+
+- 北九州の地場10社、1月5日までU・Iターン相談会 - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzWWl1YzdJdEVoZ1JQTXFVbHIwUnpkajFUVHFlTHI0dGRRZDIzdEs4Z1BkLVF6V3dBOXY4V3VPNmllbDdsSnQxSnA3TG4wSVd5MDc4c013?oc=5
 
 - 徳島労働局 四国初の障害者雇用相談援助事業を26日実施 - digital.kentsu.co.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxPQmZIdS12SEo2OTM5ZzhIQUtrUVE0eXQxQXJYb2otRVhOdzEtTWlLSmlhUWF6ZS0xa0l2eEpwYzE0R2ZsaFlxdUk3MExfZnNaQmdNc1ZESmZ3bVZSa3M4MmRabVo0dE45aEQwQ1dXZVZ4YmJNeHdMcVRQSy1mYkxLRg?oc=5
 
-- 北九州の地場10社、1月5日までU・Iターン相談会 - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzWWl1YzdJdEVoZ1JQTXFVbHIwUnpkajFUVHFlTHI0dGRRZDIzdEs4Z1BkLVF6V3dBOXY4V3VPNmllbDdsSnQxSnA3TG4wSVd5MDc4c013?oc=5
+- 推し活ユーザーのAI活用は雑談・相談目的が約5割！ChatGPTが人気を牽引、恋愛や占いなど意外な用途も広がる【おしけん調査】 - 株式会社ヴァリューズ
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6cUdnNFFIT19mX2lFQ2xnaC1DbTBJWEg1U1ZCdXlHM3o2M3NFakdSVVdFckZOOFFKVEtnZTBsLXB0dXRPTE9GOUxmTDlQUWtfUHJyU2VyOA?oc=5
+
+- 人間関係トラブルでこれまで3回警察に相談…「対応終結」も事件に関係の可能性 水戸市のネイリスト女性殺害 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4SFk5T29hb2Znb1cyaTBDank5a1EybjVyZ0F6MkZERlB1cFFic3FndEtHdlpqT0lnMzFHZEh3VW9PaXFOR3BFU0RkN1k?oc=5
 
 - 防犯カメラ、相談体制充実盛る こども性暴力防止法 指針案を公表 - kyoiku-press.com
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWDU1NzhZQi03NVJCSjNzdFpSNzl1YUFFczV5SEw4Y2NVZWIwZzFBWXZNX1pIWURvdk5sbnZ3RTlfZDZvcDdrZnBCaFB3aVFocHFN?oc=5
@@ -27,23 +30,20 @@
 - 累計1万件の相談データを学習したAIが即時回答。LINEで24時間・匿名相談できる「オトナのお悩み保健室 AI相談サービス（β版）」提供開始 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdWNYcFBMd3NITmlwcFlMRjM4NDVLTU5QbWM5SVQtNWkwQWlHM2lGN3phMHlhbjQxdzB6dkRzZ0k2enFRTFlneml4bWtKbEZiLUNMNzR4WGVpbjR1OTlJTzktYVpjX3k1R0E?oc=5
 
-- 1月5日 朝の広報無線 - vill.hakuba.lg.jp
-  https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGt1dkpkNGxDai05bVJTRWJBUnpwQ19uNWRzNlpONFFERnBaMWQ0SUd6NUYwVWZFSDl2WnhfU1JTdUlGTFRVR3R0eVFib3RKM2REWVk4Z3pub0FnVTRxc3ZfTzJrWEpMZXFZd1RCRnJuc1dDVy1COVIzY1lQNG9DQ0daOGtiZHpRLXphNTMxOHFoTk0wRXJFcVpQcXA0REQwQ0RkeXptWQ?oc=5
-
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
-- 怪異判別アドベンチャー『奇天烈相談ダイヤル』が985円でセール中！ “怪異”か、そうでないか…。“聞き取り”だけで判断してくシンプル＆奥深い思考ゲームにハマる！【電撃衝動GUY】 - 電撃オンライン
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUlJlQzc3V25rTXQtRXlEOTJFYXJteGxuMmxfMnR0QUR1TjZKM2hEcUxkOEplUkt1NmwwcnhZeER3djdyUG1DakVuempOMk5iVDU5QmJPazhSQQ?oc=5
-
-- グルメ＆家事＆お得ワザ30連発 - TVer
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wNlB4X1dfMlV3dnlnSm9CbmRHY01YNXhtaWg3M0JjaGF0dGNLSng2RkZjZE84ZlFTNWlRdlM3d1VpWHdJbW1jM193MA?oc=5
+- 1月5日 朝の広報無線 - vill.hakuba.lg.jp
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGt1dkpkNGxDai05bVJTRWJBUnpwQ19uNWRzNlpONFFERnBaMWQ0SUd6NUYwVWZFSDl2WnhfU1JTdUlGTFRVR3R0eVFib3RKM2REWVk4Z3pub0FnVTRxc3ZfTzJrWEpMZXFZd1RCRnJuc1dDVy1COVIzY1lQNG9DQ0daOGtiZHpRLXphNTMxOHFoTk0wRXJFcVpQcXA0REQwQ0RkeXptWQ?oc=5
 
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVIzMHk4aXh4dW5WVVZaOHEzcFZOS1BOTnNROGlmNU1vRGF6VGQycU5GNWpoaWVKUG5jYUZKMkFzWlNSS0czbE9XbWpRYU9vYnlkMTZ0eVVKcGdpckhFX08tU3B5N25lQkw3eQ?oc=5
 
 - 【1月16日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
+
+- 怪異判別アドベンチャー『奇天烈相談ダイヤル』が985円でセール中！ “怪異”か、そうでないか…。“聞き取り”だけで判断してくシンプル＆奥深い思考ゲームにハマる！【電撃衝動GUY】 - 電撃オンライン
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUlJlQzc3V25rTXQtRXlEOTJFYXJteGxuMmxfMnR0QUR1TjZKM2hEcUxkOEplUkt1NmwwcnhZeER3djdyUG1DakVuempOMk5iVDU5QmJPazhSQQ?oc=5
 
 - 各種町民相談について - town.samukawa.kanagawa.jp
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRktZNzFNWlNBQXBXX1E0ZHNXOHo0ZlQxRWh2cUQ1aTRTQVFiMEloaUNsMFlIRE1lUGhWTXZhRG9wVnlDQWw0dGozWDNDbE5uOHdBNHl6SUNQdUJueVF0R3pTaEJwZU53SUc5Z19KMWlodFVkT1BYWTFFbkh6Y0xRVUpFcUM4b3kyTklaZDI2LTlnb3JnYVRDV0RSWHNZaExWTWRfM1Q2NEg?oc=5
@@ -57,6 +57,6 @@
 - 水戸市ネイリスト殺害事件 「人間関係のトラブル」で過去に3回警察に相談（テレビ朝日系（ANN）） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQWYzcXZOMDVZd3VhZmM0LVVmcWlhN0dLczliQ2xHYXJXZFJIQjZCcUhUYnVyUFdtNy02S0s0SUVlUm1wdVBSMXg4OF8zaEFPSVRteDdVSTZEajNSeDkwRHlpYWgtcGNIMHd3RFpIWjZua1RsY0g5VjBVY0ZSN0E?oc=5
 
-- カスハラ ＡＩで検知 個室相談で試用茨城・取手市 - 琉球新報デジタル
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NM25WSno4X2Zqdy1rUVVyVm16bFducG5wR2pOY0VuWnUyT0d2UFp4X0hJT3Z0VUtZMXhqNlBwYjFnQnY2U0JaWEJIbnFWX0xIOG90eFpfeW56Y1dweFR5dGxacVdzeDA?oc=5
+- さまざまな相談窓口のご案内 - town.hirokawa.fukuoka.jp
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFAybjVMbHJtVDY1UWVKREhKQkpKaS1mZHlYMFkwcVg1ekRIUWxKTzlmV3k5Z3FIQmVCZGxoSVVodWpzQ1JFZmlvVzhlOGdiT1E2a3AxWm9Ea0ttcmZLb2hMMDNMWXBFOVRUX2s1dlRPRQ?oc=5
 
