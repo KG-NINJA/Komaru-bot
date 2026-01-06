@@ -1,13 +1,13 @@
-=== こまる相談 ニュースフィード (2026-01-06 15:13) ===
+=== こまる相談 ニュースフィード (2026-01-06 16:16) ===
 
 - 島根県の地震で相談窓口　県など - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zM3MtM2pHVmVTdHdoQXExRFBPVm5Vdy1kUmoxYXlrVzZ5eWg5QU14V0tBQnRZWWNxY1kwd2JCTWJXcmN1OTNCTUg1ZXJJZ0JHcmxCMjQ0NkNDUdIBXEFVX3lxTE1KRC1uTHM5Rk9BZ0dnNU9JWk9zdXVuUXpzbEtWS2RwWko0dEtFbnZwU1FrdVM3Y3JCbEotQ2Y0SFlKQTJLbEhlSFRocmU0YzBZT3JsRG1yMk94dHpw?oc=5
 
-- 不登校支援者必見：チャット相談支援に関心のある方向けのオンライン講座をスタート - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9sNWhyVFdGXzcwMmwyUXZ0a1VUaFZ4TGljUG1WNE0zOS1xdVh6XzhHZDlNMXhWSGVnRUc2Y2RhbERfc0NxTHB2N0dNa2E5OE5IWW15WDBLWDB3VWFHNV9pVkNYaVB6dEQwVUE?oc=5
-
 - 東京・港区、生成AIが住民の電話相談対応 1〜2月に実証実験 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYm9Md3VDMERheW1NWXMyTmp0bG5TUVpqMXZYNk1WdmhYZFAzQTkwSkpzSENSd0pPcGFSSUM5NklKUDhKVVdSNXczTFZham1TVkJYbTRfNE5hbHhCNTBYaVhWRVZRcUstNzd0cA?oc=5
+
+- 不登校支援者必見：チャット相談支援に関心のある方向けのオンライン講座をスタート - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9sNWhyVFdGXzcwMmwyUXZ0a1VUaFZ4TGljUG1WNE0zOS1xdVh6XzhHZDlNMXhWSGVnRUc2Y2RhbERfc0NxTHB2N0dNa2E5OE5IWW15WDBLWDB3VWFHNV9pVkNYaVB6dEQwVUE?oc=5
 
 - 山形市が公式LINEの子育て相談に生成AIを利用 13日から実証実験開始（2026年1月6日掲載）｜YBC NEWS NNN - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1N0X3ZyMElmZ2gzTEJkS2pQblkwSVNIVEFtNFN1VzhTTUIyQ2NIZ1I0Ri1QSVRiTDQ1aEcxNHZHTDF2TzViSGIxdjJFTnJBdThzS195Sll6Y2lWYWFqUllTeWlSY05LWVYwZWpIcUtkVjVYd0REbXJhd2cwYjBLR3JhMHo3eWs?oc=5
@@ -27,6 +27,9 @@
 - 司法書士による成年後見相談会 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTFA2YWtYSVowamlWdVVuNWt2Y0gyVjRqeW5rc2JhaTIydFJnYVd1N3F6eGZlRjRiVmlwS1FtMDN1bktVWmNoaV9raE1OUnBvY1E3QTNLc0tZU3BZU2ttVFJaNU83X2dwYk0xUDhB?oc=5
 
+- 【神奈川県横浜市】お酒を飲みながら転職相談できる「転職相談BAR 横浜店」誕生！飲食代・相談料は無料 - STRAIGHT PRESS
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lbjJEMGZ5eUgyNFpNUnd4R2NVcm50cnZvVU1acV95YkRHbFR4angxWElzUmtNcXdHU2o4SEU1ZGpJVHFPS2xjcUpEdVBrVUxFblNr?oc=5
+
 - 結婚相談所マリーミーが、今年こそ結婚したい人へアドバイスを発表 ～「いつまでに結婚しよう」と最初に目標を立てることが重要 - newscast.jp
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wR3NhNjNuS0ZVMzEtNHNGSlNPTzVFek1mRWFEN09vM1Y3b0VQYm9jS0JTZFJqcGc0bHpzOF9uWnZMbTNSeG9tLUF0NmlVaXc?oc=5
 
@@ -36,27 +39,24 @@
 - 島根県の地震で相談窓口 県など - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zMEdXZVZyTTJCVVpra293ZjRTTVNRWDZZTmxVeFg5c0RmaGhGRDdLbjVtbWVGaHh0MHlPNW8xLVNoQS11ZDIyN3pWMA?oc=5
 
-- 肌悩みに多角的にアプローチ。「ソフィーナiPの美容液」を1本使い切って、すぐにリピートした理由はね… - まぐまぐ
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTE50Sl9TVzdzTVRHSFRNV2x2WXp1bnRhaGItNGNXM29ZT0dyd3ZmZUFnc05uVEpHSkx6RDZxVUI3N3FvWExURkJ3bFBB?oc=5
-
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
-- 2児の母・橋本マナミ、選択肢の多い東京での子育ての悩みを吐露「何が正解で、何が彼にとって最高の環境なのか」 - オリコンニュース
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YYllTYkQ3aWJBaHVMeURLbENORGJIdWJWbUVxaEZwVDRDNUVtVS1JY085TUl0UGRuRE1UNlhUNk1URXJ2NzNuZDFnX1l4YVZkSGktc1pR?oc=5
-
-- 15歳～24歳の仕事選び、母親への相談が中心…情報の閉鎖性が課題に - リセマム
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wM2ZvdmZfR3p5TFFlT3lrOFVtejVPYS1hU2hvQlB2bFBsajg0QURnbGRDRjlsR1Z5TnB6Qk1Sa2hLOGJLYXQ0R01fVWRsVnRaNERMZER0T0NoSmE3?oc=5
+- 肌悩みに多角的にアプローチ。「ソフィーナiPの美容液」を1本使い切って、すぐにリピートした理由はね… - まぐまぐ
+  https://news.google.com/rss/articles/CBMiSkFVX3lxTE50Sl9TVzdzTVRHSFRNV2x2WXp1bnRhaGItNGNXM29ZT0dyd3ZmZUFnc05uVEpHSkx6RDZxVUI3N3FvWExURkJ3bFBB?oc=5
 
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVIzMHk4aXh4dW5WVVZaOHEzcFZOS1BOTnNROGlmNU1vRGF6VGQycU5GNWpoaWVKUG5jYUZKMkFzWlNSS0czbE9XbWpRYU9vYnlkMTZ0eVVKcGdpckhFX08tU3B5N25lQkw3eQ?oc=5
 
+- 「親の介護について兄妹間で揉めています」細木かおりの人間関係お悩み相談室 第144回 - with class
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rVDBjZEFNaFFmTW1aSlNFZUZfOHgxWG01UHlTVFRXYjJSenF6dUhoSFpOTmZUbklJUXpDOHVFZUZEUWw5RkNtbDI4dnlHVTJjRjMtZ3Rn?oc=5
+
+- 2児の母・橋本マナミ、選択肢の多い東京での子育ての悩みを吐露「何が正解で、何が彼にとって最高の環境なのか」 - オリコンニュース
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YYllTYkQ3aWJBaHVMeURLbENORGJIdWJWbUVxaEZwVDRDNUVtVS1JY085TUl0UGRuRE1UNlhUNk1URXJ2NzNuZDFnX1l4YVZkSGktc1pR?oc=5
+
 - 【1月16日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
-- 30代女性が刺され死亡 アパートの一室で…刃物持った男性も死亡 女性は“交際トラブル”警察に相談 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE1LMEszVjJuYzY2WjlKemMzdkFFMGRsM3hTUUlxLUlrbldWeVRybmJZZG1KRUx1RVF0NXFqbTByc3JGbVdxSXI3M0xNZm91dEZhZzd0Y0RQTnN6M0ZMeDdXOTRTa1prTURHaUtNSlJOeXFwaEZQRm9yZHJHVGs?oc=5
-
-- 青森・子どもの悩み相談、受付件数5千件に - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFAteXRSNGZyWWZ1bEFfbEJvQkJqV0dsLUI2WUg4M1VOZk9vaXcwMnBlSlBLQTF2NnEzX0ZZLWZ0WVVLZTg1ZVR1UnVsbw?oc=5
+- 各種町民相談について - town.samukawa.kanagawa.jp
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRktZNzFNWlNBQXBXX1E0ZHNXOHo0ZlQxRWh2cUQ1aTRTQVFiMEloaUNsMFlIRE1lUGhWTXZhRG9wVnlDQWw0dGozWDNDbE5uOHdBNHl6SUNQdUJueVF0R3pTaEJwZU53SUc5Z19KMWlodFVkT1BYWTFFbkh6Y0xRVUpFcUM4b3kyTklaZDI2LTlnb3JnYVRDV0RSWHNZaExWTWRfM1Q2NEg?oc=5
 
