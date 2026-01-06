@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-06 22:13) ===
+=== こまる相談 ニュースフィード (2026-01-06 23:12) ===
 
 - 島根県の地震で相談窓口　県など - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zM3MtM2pHVmVTdHdoQXExRFBPVm5Vdy1kUmoxYXlrVzZ5eWg5QU14V0tBQnRZWWNxY1kwd2JCTWJXcmN1OTNCTUg1ZXJJZ0JHcmxCMjQ0NkNDUdIBXEFVX3lxTE1KRC1uTHM5Rk9BZ0dnNU9JWk9zdXVuUXpzbEtWS2RwWko0dEtFbnZwU1FrdVM3Y3JCbEotQ2Y0SFlKQTJLbEhlSFRocmU0YzBZT3JsRG1yMk94dHpw?oc=5
@@ -21,14 +21,17 @@
 - AIは身近な相談相手になれるのか 東畑開人さんが考える強みと弱み [AIの時代] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcUJfcUhkbkExd1NLZ3FUU3pmOHZ1TEhXVmVEWTl3MDFGQU84czF0cDZ6TGEtRDBZTU9CNGd5eHZMcHc0M01RN3BtLVBnTGF3dWZwNHplZ0VRNHdOYWExckY3dU5RN3M?oc=5
 
+- キーデザイン、不登校支援者向け「チャット相談支援員養成講座」16・20日オンライン開催 - ICT教育ニュース
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tYnVJMTE3bmxCWmhWZnd6YXZNNkhjRHl5bnVVeElLT0FsQWs2MXlRakFTUFBMSjNyaUhUNjQycmp1Q1VDYUNqMG9pNEFGaXFucXBmVGtTQ2pIdw?oc=5
+
 - 司法書士による成年後見相談会 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTFA2YWtYSVowamlWdVVuNWt2Y0gyVjRqeW5rc2JhaTIydFJnYVd1N3F6eGZlRjRiVmlwS1FtMDN1bktVWmNoaV9raE1OUnBvY1E3QTNLc0tZU3BZU2ttVFJaNU83X2dwYk0xUDhB?oc=5
 
-- 悩みに寄り添い5千件 電話、メール手段さまざま 青森市・子どもの権利相談センター（Web東奥） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5TWGdlVWFZMTB3aU5JeVExUVBtZ0FHTXFCdUVYYnRMVHl3U2lmVGl6YllVc3Y4MTM4c0pKQy1IS0Z1M0V0WTEyREdsNEVxaVJPdWFzUUhzSUFUQ3pOMlhmRWF0bXR5SmU5SUI1bWdTY1o3azU0Z2hZQXA4QnAybWM?oc=5
-
 - 発達障害の当事者 語り合い悩み共有 函館の福島さん「こんとん」毎月開催 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUjZUM1pjZDBUOS0zYnpncmFEU2I5SnBpMnNOZi0zdFpqZVhja2hZX3EwSTBXeUE4aU1UakpVemRUTWlobGZvSThOWWpaX0NKaXhtdEhIWF8zQQ?oc=5
+
+- 悩みに寄り添い5千件 電話、メール手段さまざま 青森市・子どもの権利相談センター（Web東奥） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5TWGdlVWFZMTB3aU5JeVExUVBtZ0FHTXFCdUVYYnRMVHl3U2lmVGl6YllVc3Y4MTM4c0pKQy1IS0Z1M0V0WTEyREdsNEVxaVJPdWFzUUhzSUFUQ3pOMlhmRWF0bXR5SmU5SUI1bWdTY1o3azU0Z2hZQXA4QnAybWM?oc=5
 
 - 開発見込み売買相談増 不動産 ジャングリア影響 民泊への個人投資減る 土地購入後 転売に苦戦も - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1VEtzMFFrdmhSSnhkVTNzTzNBOXJ5OTloLU5XVWdGVVNpRGFCbld6OVhlWWdNU3lJeUdVX3hSZmV0aW1aNFNpVWJjbE9yZEtZM3JRLVhGNVJxd3pGbVE?oc=5
@@ -36,11 +39,8 @@
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
-- 堺市総合福祉会館で「高齢者向け講座と相談会」1月27日開催 - サカイタイムズ
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTE12WHpXQnpBc1lOcnJKVEtEckw5R2RXcG5WelJnVHlfSGVFcEdtQzJhVjdZQzR0YmJfaUxWYlp5VTM0WTJ5VmtJdnVn?oc=5
-
-- 富士通オフコンユーザーの深い悩み、脱出に挑む「情シス部長」の選択 - 日経クロステック Active
-  https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTAzNHdsZUgwdkZZY3VmODFUQWtwZEpqY2hxbjNtZ2hieXMwd25LN0IwQ05lYWw1a0dJZU1Qc0JjdV9iZDNWUVk5X01ubGxOSi1qUmRrak5yV0RfSmFuZnFuUTR4clJ1UmY5TFpkZF9SM09Va095d1poZDM5UkJRRm5EWWVFb0xfX3Q4WGlZUEJSV00?oc=5
+- 認定がん相談支援センター - ncc.go.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVIzMHk4aXh4dW5WVVZaOHEzcFZOS1BOTnNROGlmNU1vRGF6VGQycU5GNWpoaWVKUG5jYUZKMkFzWlNSS0czbE9XbWpRYU9vYnlkMTZ0eVVKcGdpckhFX08tU3B5N25lQkw3eQ?oc=5
 
 - 市民相談日程 - city.hachinohe.aomori.jp
   https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkVYMUJOaEt3N0x2X0x4c0pvSi1IUDRxREZUbTN1Sk5Yak5Xd0pxaU9NNUZTMVhrVnAxOE1raEJUVm9wOXdJcHd0ajFMc1h6ZjA1bVZsTjRSRlN4ZjFpTEFBYktxcEFCNlBWaUNZSHU3QkRIT0xQZVdKOVM4YXU5T1kwZFVkNHYwbTNOV3VIZWRPcFFRa0Y2VFZ2T3h6Q3FnMlRrMFVxTjlNS3hIcE9wVw?oc=5
@@ -51,11 +51,11 @@
 - 各種町民相談について - town.samukawa.kanagawa.jp
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRktZNzFNWlNBQXBXX1E0ZHNXOHo0ZlQxRWh2cUQ1aTRTQVFiMEloaUNsMFlIRE1lUGhWTXZhRG9wVnlDQWw0dGozWDNDbE5uOHdBNHl6SUNQdUJueVF0R3pTaEJwZU53SUc5Z19KMWlodFVkT1BYWTFFbkh6Y0xRVUpFcUM4b3kyTklaZDI2LTlnb3JnYVRDV0RSWHNZaExWTWRfM1Q2NEg?oc=5
 
-- 【神奈川県横浜市】お酒を飲みながら転職相談できる「転職相談BAR 横浜店」誕生！飲食代・相談料は無料 - STRAIGHT PRESS
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lbjJEMGZ5eUgyNFpNUnd4R2NVcm50cnZvVU1acV95YkRHbFR4angxWElzUmtNcXdHU2o4SEU1ZGpJVHFPS2xjcUpEdVBrVUxFblNr?oc=5
+- 堺市総合福祉会館で「高齢者向け講座と相談会」1月27日開催 - サカイタイムズ
+  https://news.google.com/rss/articles/CBMiSkFVX3lxTE12WHpXQnpBc1lOcnJKVEtEckw5R2RXcG5WelJnVHlfSGVFcEdtQzJhVjdZQzR0YmJfaUxWYlp5VTM0WTJ5VmtJdnVn?oc=5
 
-- 「ChatGPT」、世界で4000万人以上が医療に関して相談--安全性に懸念も - ZDNET Japan
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE12VjFPZV8tWjlhWnljTUlOeFdCd09RSUlVb2Q2TDhkSnJHeF9xTGpmeHBJMVJwVkswVTYtdzJ3c2QyY3F6RS1KZ1I4bzcxS3lsMUgw?oc=5
+- 妻に引退相談も「それでいいの？」 夫婦で決めた"幕引き"…1年続行が生んだ僥倖 - full-count.jp
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDWk1Ud05ZSzdnS0dDNmlxZnpFS0VkT2E0T21DbkxBRmlTbFh6bjc0Nm5IMF9ibjR6VnlWc2s4NEdmazdBMklRRG90aGhXbWVPMUhWMXIzS2c?oc=5
 
 - 東京・港区、AIで住民相談対応 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9VTnBMM3NLRFRiNWpJNW1NalFtTi03WW1xS1h3RUpDUDd0b2VVQ2ZleGlDakxoelp5eTc3cDVZbXJvVFRiU2JUdzY1SjdSbG1MSldTZW5FZzFaSURRRWZkZWQ1UUJ0aV9rYTNCTQ?oc=5
