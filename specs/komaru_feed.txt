@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-06 14:14) ===
+=== こまる相談 ニュースフィード (2026-01-06 15:13) ===
 
 - 島根県の地震で相談窓口　県など - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zM3MtM2pHVmVTdHdoQXExRFBPVm5Vdy1kUmoxYXlrVzZ5eWg5QU14V0tBQnRZWWNxY1kwd2JCTWJXcmN1OTNCTUg1ZXJJZ0JHcmxCMjQ0NkNDUdIBXEFVX3lxTE1KRC1uTHM5Rk9BZ0dnNU9JWk9zdXVuUXpzbEtWS2RwWko0dEtFbnZwU1FrdVM3Y3JCbEotQ2Y0SFlKQTJLbEhlSFRocmU0YzBZT3JsRG1yMk94dHpw?oc=5
@@ -6,14 +6,14 @@
 - 不登校支援者必見：チャット相談支援に関心のある方向けのオンライン講座をスタート - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9sNWhyVFdGXzcwMmwyUXZ0a1VUaFZ4TGljUG1WNE0zOS1xdVh6XzhHZDlNMXhWSGVnRUc2Y2RhbERfc0NxTHB2N0dNa2E5OE5IWW15WDBLWDB3VWFHNV9pVkNYaVB6dEQwVUE?oc=5
 
+- 東京・港区、生成AIが住民の電話相談対応 1〜2月に実証実験 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYm9Md3VDMERheW1NWXMyTmp0bG5TUVpqMXZYNk1WdmhYZFAzQTkwSkpzSENSd0pPcGFSSUM5NklKUDhKVVdSNXczTFZham1TVkJYbTRfNE5hbHhCNTBYaVhWRVZRcUstNzd0cA?oc=5
+
 - 山形市が公式LINEの子育て相談に生成AIを利用 13日から実証実験開始（2026年1月6日掲載）｜YBC NEWS NNN - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1N0X3ZyMElmZ2gzTEJkS2pQblkwSVNIVEFtNFN1VzhTTUIyQ2NIZ1I0Ri1QSVRiTDQ1aEcxNHZHTDF2TzViSGIxdjJFTnJBdThzS195Sll6Y2lWYWFqUllTeWlSY05LWVYwZWpIcUtkVjVYd0REbXJhd2cwYjBLR3JhMHo3eWs?oc=5
 
 - 悩みに寄り添い5千件 電話、メール手段さまざま 青森市・子どもの権利相談センター（Web東奥） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5TWGdlVWFZMTB3aU5JeVExUVBtZ0FHTXFCdUVYYnRMVHl3U2lmVGl6YllVc3Y4MTM4c0pKQy1IS0Z1M0V0WTEyREdsNEVxaVJPdWFzUUhzSUFUQ3pOMlhmRWF0bXR5SmU5SUI1bWdTY1o3azU0Z2hZQXA4QnAybWM?oc=5
-
-- 東京・港区、生成AIが住民の電話相談対応 1〜2月に実証実験 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYm9Md3VDMERheW1NWXMyTmp0bG5TUVpqMXZYNk1WdmhYZFAzQTkwSkpzSENSd0pPcGFSSUM5NklKUDhKVVdSNXczTFZham1TVkJYbTRfNE5hbHhCNTBYaVhWRVZRcUstNzd0cA?oc=5
 
 - 発達障害の当事者 語り合い悩み共有 函館の福島さん「こんとん」毎月開催 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUjZUM1pjZDBUOS0zYnpncmFEU2I5SnBpMnNOZi0zdFpqZVhja2hZX3EwSTBXeUE4aU1UakpVemRUTWlobGZvSThOWWpaX0NKaXhtdEhIWF8zQQ?oc=5
@@ -30,11 +30,20 @@
 - 結婚相談所マリーミーが、今年こそ結婚したい人へアドバイスを発表 ～「いつまでに結婚しよう」と最初に目標を立てることが重要 - newscast.jp
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wR3NhNjNuS0ZVMzEtNHNGSlNPTzVFek1mRWFEN09vM1Y3b0VQYm9jS0JTZFJqcGc0bHpzOF9uWnZMbTNSeG9tLUF0NmlVaXc?oc=5
 
+- 【小田原市】HaRuNe小田原でジェイコムとau小田原ショップの合同相談会開催！ 1月13日～1月14日 - 湘南人
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE05S1htcENPQ3RSZ1prQnhDRjNHb3NQajJDV2pzSm5IQWdCUXAtbWRNdlZ4U0JjNVFZTy1JSm11S2FhLTBTUmJsZzFoM2FjTFc3dGZIN2kydFBRUUI5cHp6OU9iMUkyeDQtcVZLUGFZLUg?oc=5
+
 - 島根県の地震で相談窓口 県など - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zMEdXZVZyTTJCVVpra293ZjRTTVNRWDZZTmxVeFg5c0RmaGhGRDdLbjVtbWVGaHh0MHlPNW8xLVNoQS11ZDIyN3pWMA?oc=5
 
+- 肌悩みに多角的にアプローチ。「ソフィーナiPの美容液」を1本使い切って、すぐにリピートした理由はね… - まぐまぐ
+  https://news.google.com/rss/articles/CBMiSkFVX3lxTE50Sl9TVzdzTVRHSFRNV2x2WXp1bnRhaGItNGNXM29ZT0dyd3ZmZUFnc05uVEpHSkx6RDZxVUI3N3FvWExURkJ3bFBB?oc=5
+
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
+
+- 2児の母・橋本マナミ、選択肢の多い東京での子育ての悩みを吐露「何が正解で、何が彼にとって最高の環境なのか」 - オリコンニュース
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YYllTYkQ3aWJBaHVMeURLbENORGJIdWJWbUVxaEZwVDRDNUVtVS1JY085TUl0UGRuRE1UNlhUNk1URXJ2NzNuZDFnX1l4YVZkSGktc1pR?oc=5
 
 - 15歳～24歳の仕事選び、母親への相談が中心…情報の閉鎖性が課題に - リセマム
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wM2ZvdmZfR3p5TFFlT3lrOFVtejVPYS1hU2hvQlB2bFBsajg0QURnbGRDRjlsR1Z5TnB6Qk1Sa2hLOGJLYXQ0R01fVWRsVnRaNERMZER0T0NoSmE3?oc=5
@@ -42,17 +51,8 @@
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVIzMHk4aXh4dW5WVVZaOHEzcFZOS1BOTnNROGlmNU1vRGF6VGQycU5GNWpoaWVKUG5jYUZKMkFzWlNSS0czbE9XbWpRYU9vYnlkMTZ0eVVKcGdpckhFX08tU3B5N25lQkw3eQ?oc=5
 
-- 横浜・寿町 年末年始の炊き出し 生活困窮者ら200メートル列 医師らへの相談や巡業芝居も - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rdno3NlVzbFY4cTd3NkN3N3FXWW9wdmUzNEM3OHdIakVSVWVkVVBtQnlYY2dhTFdtSng3VWxNUUF0Vnl4WlVabzRjLVpLTlVnRHRF?oc=5
-
-- 無料生活・法律相談会のお知らせ今月も相談会を開催します予約不要です直接会場へお越しください受付... - 選挙ドットコム
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wbXNOdEh1LVVSLU9yT2U2N25RTlJybHNkeGttWjFRaHdabnVBQTlJajdpaVFIbXU3NmpKN3U3eFdiU0FOODlod2lJWXhBa0NBa2NjQXI5LTV3NWx3VFE?oc=5
-
 - 【1月16日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
-
-- 各種町民相談について - town.samukawa.kanagawa.jp
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRktZNzFNWlNBQXBXX1E0ZHNXOHo0ZlQxRWh2cUQ1aTRTQVFiMEloaUNsMFlIRE1lUGhWTXZhRG9wVnlDQWw0dGozWDNDbE5uOHdBNHl6SUNQdUJueVF0R3pTaEJwZU53SUc5Z19KMWlodFVkT1BYWTFFbkh6Y0xRVUpFcUM4b3kyTklaZDI2LTlnb3JnYVRDV0RSWHNZaExWTWRfM1Q2NEg?oc=5
 
 - 30代女性が刺され死亡 アパートの一室で…刃物持った男性も死亡 女性は“交際トラブル”警察に相談 - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMifEFVX3lxTE1LMEszVjJuYzY2WjlKemMzdkFFMGRsM3hTUUlxLUlrbldWeVRybmJZZG1KRUx1RVF0NXFqbTByc3JGbVdxSXI3M0xNZm91dEZhZzd0Y0RQTnN6M0ZMeDdXOTRTa1prTURHaUtNSlJOeXFwaEZQRm9yZHJHVGs?oc=5
