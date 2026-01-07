@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-07 14:15) ===
+=== こまる相談 ニュースフィード (2026-01-07 15:15) ===
 
 - くらしの情報（2026年2月の無料相談日程） - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBONi1rbnhDVXBjWE9jeWgxNHJmTHFHQW1VcDFELU9GZkkwZXcyY2xoVHRNSWc3cVhGSjZDU3VhNTBTM05SbW5NSVREcTFhYnNZQXh2bDFGZzM2ZnBtc3lrNEs1emtkbEJN?oc=5
@@ -12,6 +12,9 @@
 - 弘前大学個別進路相談会（札幌市） - 弘前大学
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFByX1Zacm5oQ3ZJQkc0cFN3QlNhNjBQWHMybGhPRjQ3VXJ4cHlOZnFqSFhLd3A1eWVleTBmc2xoUUx5SE9Fd1FLa3ZaLXRxaWJ3WWliaEFR?oc=5
 
+- 2月28日「いいだ若者サポートステーション」保護者相談会のお知らせ - town.matsukawa.lg.jp
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxOdktqWTRISGFlUWZoOV94SkI4ZC13QldxUDNFSHVOM1dsWU1PekRlbHotWkhwQ0tkM0NsSFNXcXhGZzBkZzgzSEVZdHYtZmZqeEVkd2tlNHBlTTFpcnBrVHN4b3BTVFRPd18yMnlCMUk1NkJyZWZMdE1xTmVZdmRyUmNUQTNicEYwVkN6R3EyOERocFlLZ1ZtNFpTb0FLSnN4OHNCTEhIRQ?oc=5
+
 - 島根県、農林水産関係者向け相談窓口設置 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1RWpMSzBXd19CVDY1QWxPREExQWxxbWRyS1M3Z1Q0Wk5LM2MzTmxBbi1hT3o4QllvZzMzS1c1V0ZCajhLQnRLN0x0ajdrWlFwZUpUWnpSb28xd9IBXEFVX3lxTE1NTGJfT3BaOVNiVlBya21hcnNOLW5rTi1aTzFBZUZ1X2xYTE13amh4eUg0a3lnMGkwZUJkdjQyOU8zd1VQWmplZjlZc1JSMWtuZkNHUE1ubXIzMjVh?oc=5
 
@@ -21,8 +24,8 @@
 - 北海道内で外国人相談窓口が不足 職場の暴力や不当解雇横行も 身近な駆け込み先なく＜岐路の多様性 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUMjZDZW9wdTNFdHZBdDd6c2ZIUkp3LVVoWGNhb2RiTVNFWXVrODl6VVJSaGlfcXRSSWU1Sjd0VEVXUkRqekxaTEd5eDlHNFIxUjUwdHc2MGp2UQ?oc=5
 
-- 体調が少し気になる…病院に行くか迷うとき…無料で相談できる“健康サポート薬局”『every.特集』 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMieEFVX3lxTE1VZ3ZqRGk1N3RESHZLRWlzN2F5MURkVVdsN1hVM2ljVEVXVnRha2JuaWttMDViYzh4WEFCNHJrbXpwSjNrcUVRMThCMWV6YzBqWW1jSThXVEJteWlLQWdCRll4NmFCRXVIYWRvRHN4M1ZQZ3ZsQmE3YQ?oc=5
+- 横浜の眼科医院が突然閉院…市に相談相次ぐ 約90万円前払いの患者も（2026年1月7日掲載）｜日テレNEWS NNN - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ed3VGZDFhRmx3SDNMYnhkMXNtQWZJZ2NjMGVjYmRJVUdadW9ZNkFiZ29uWTgzVEgtbmdBOXpIUWU5TXkyQWFUalpfMXcwZUZlWVZFbU9yZmNFQ3NFb2VFOThtX1p4R0F6bk5yenVOTF9oU1VSTjFzYWNXbEw?oc=5
 
 - 【輪生相談】図抜けた選手・チームが勝ちまくる状況… - J Sports
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aYUt5ODkwTDFOQ3VWalBobHlDaWFFTjBCZTlmTWFrWmxyeUlpSTFhNGlsWV9wQUZiRm9qVU1uV29RSG5BZXgtc0JaY0NMdEpib2ZOdEZrMElMYUlUUUNobWd3SFhuNjQ?oc=5
@@ -48,14 +51,11 @@
 - 司法書士による成年後見相談会 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTFA2YWtYSVowamlWdVVuNWt2Y0gyVjRqeW5rc2JhaTIydFJnYVd1N3F6eGZlRjRiVmlwS1FtMDN1bktVWmNoaV9raE1OUnBvY1E3QTNLc0tZU3BZU2ttVFJaNU83X2dwYk0xUDhB?oc=5
 
-- 栃木県教委、暴行動画拡散受け「深くおわび」 二次被害危惧、悪質な誹謗中傷は警察へ相談も - 下野新聞社
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE96Q1ltdTA2NXdHTi1Pa25rZERnTDJ2R3hTZHRBVHFOUFZVcFdyV1dHeU91eDdlYWtESk5RTHJHdnd1dXB0WjV4SC0wZ1RwVUJWRHNteUlfLXhTVzQ?oc=5
-
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVIzMHk4aXh4dW5WVVZaOHEzcFZOS1BOTnNROGlmNU1vRGF6VGQycU5GNWpoaWVKUG5jYUZKMkFzWlNSS0czbE9XbWpRYU9vYnlkMTZ0eVVKcGdpckhFX08tU3B5N25lQkw3eQ?oc=5
 
-- 横浜の眼科医院が突然閉院…市に相談相次ぐ 約90万円前払いの患者も（2026年1月7日掲載）｜日テレNEWS NNN - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ed3VGZDFhRmx3SDNMYnhkMXNtQWZJZ2NjMGVjYmRJVUdadW9ZNkFiZ29uWTgzVEgtbmdBOXpIUWU5TXkyQWFUalpfMXcwZUZlWVZFbU9yZmNFQ3NFb2VFOThtX1p4R0F6bk5yenVOTF9oU1VSTjFzYWNXbEw?oc=5
+- 体調が少し気になる…病院に行くか迷うとき…無料で相談できる“健康サポート薬局”『every.特集』 - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE1VZ3ZqRGk1N3RESHZLRWlzN2F5MURkVVdsN1hVM2ljVEVXVnRha2JuaWttMDViYzh4WEFCNHJrbXpwSjNrcUVRMThCMWV6YzBqWW1jSThXVEJteWlLQWdCRll4NmFCRXVIYWRvRHN4M1ZQZ3ZsQmE3YQ?oc=5
 
 - 市民相談日程 - city.hachinohe.aomori.jp
   https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkVYMUJOaEt3N0x2X0x4c0pvSi1IUDRxREZUbTN1Sk5Yak5Xd0pxaU9NNUZTMVhrVnAxOE1raEJUVm9wOXdJcHd0ajFMc1h6ZjA1bVZsTjRSRlN4ZjFpTEFBYktxcEFCNlBWaUNZSHU3QkRIT0xQZVdKOVM4YXU5T1kwZFVkNHYwbTNOV3VIZWRPcFFRa0Y2VFZ2T3h6Q3FnMlRrMFVxTjlNS3hIcE9wVw?oc=5
