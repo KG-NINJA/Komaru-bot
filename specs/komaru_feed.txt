@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-08 10:15) ===
+=== こまる相談 ニュースフィード (2026-01-08 11:13) ===
 
 - 信州安曇野 空き家セミナー＆個別相談会 in 東京を1/30・31に開催 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9NZ0hid3lKZWN2S3NHME5LUVozNXJhd0VuSUw5MmFnemdGUUw1NjJ2RnBqRUN2TUp3akQySXRqbWpaNFp4QW1lZkl1QlZwLWpFZWNyeVR2eUhlQ0dSd3BhTVVMbFF6SDE0UWc?oc=5
@@ -8,6 +8,9 @@
 
 - くらしの情報（2026年2月の無料相談日程） - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBONi1rbnhDVXBjWE9jeWgxNHJmTHFHQW1VcDFELU9GZkkwZXcyY2xoVHRNSWc3cVhGSjZDU3VhNTBTM05SbW5NSVREcTFhYnNZQXh2bDFGZzM2ZnBtc3lrNEs1emtkbEJN?oc=5
+
+- 山陰地震 島根銀など全店で相談窓口、鳥取県南部町の断水解消 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9VOE1UV1dsc2RLSV9FaGRUT01IWF9WQ2ZDVG5UMDNpY29lR2o3WGlMdV91ZjRHODE3aWVCc1BvYjBoZVR4SVZMNjl3ZHVIbmI3bGlqUmtINHdoSmZwc3ZVbEFGV1hnSHpyUmNGNQ?oc=5
 
 - 不登校支援に「チャット相談支援員養成講座」1/16・20 - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRTWxYeUFyYXVDZEJNcW5SaG1DaDRSYVRaenNWS0dOaUxhOTlCT0xxTFM1dHpUdkJKSWwwdEc5NTVnNXcwdldZd1gtMEZlZjFSM0JGcFcxd2NZVTh5SjJrcTM4SWxmQQ?oc=5
@@ -21,20 +24,17 @@
 - 私立高校の学資について１月11日に電話相談 教職員らが対応 - 新潟日報
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wWVY3ek03cUFYUTJPdTNjaV92Wl81WmdVLWFzUnFGZXJfeHZiN1JKV0NGUVlQbkdFZG5hNFdMMktCSEtwN3VoVGwzN1BYQzE5VF9ZcWRvbXY3eVFlS0E?oc=5
 
-- 山陰地震 島根銀など全店で相談窓口、鳥取県南部町の断水解消 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9VOE1UV1dsc2RLSV9FaGRUT01IWF9WQ2ZDVG5UMDNpY29lR2o3WGlMdV91ZjRHODE3aWVCc1BvYjBoZVR4SVZMNjl3ZHVIbmI3bGlqUmtINHdoSmZwc3ZVbEFGV1hnSHpyUmNGNQ?oc=5
-
 - コンサル・金融・公務員…内定者が語る！ 早大生のリアル就活レポート - waseda.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MV1BISy1UaEIySm4zcFJ0LVlHbXpNNG5RNGo2bTktZE9QOGxJSXFIUTBTMzJHdjYzOFR0cy0zSDFlbzJscUM3TXBEX1I1SWZ6TFFjbWJqOWtEaGEyUXVkNlVLUEtYTEJT?oc=5
-
-- 「買い取ったブランドバッグが偽物だった」と警察に相談 70万円で売るなどした商標法違反容疑で35歳男を逮捕 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jNW9fS0ZTOHhVT0ljeXVDOVhTdUtqWUtWQUZteVRwN2tIX3RZNUxVNk5hYnNtd2EwSXREZlRjaVkxWkhoUUFhSGNGbUY?oc=5
 
 - 縁結びの聖地で結婚相談所が仕掛ける「出雲ジャック」プロジェクトとは - PR EDGE
   https://news.google.com/rss/articles/CBMiPkFVX3lxTE9Kem14SmFzTXRsQzcwa2RYenQ3OW1SLWc5dzVjX1VQLUNQMlFCWFcxazliV0ltb1hOLXp5bWJR?oc=5
 
 - 富山県 新田知事「あってはならない」 福井県前知事のセクハラ問題を受けて相談窓口の周知を徹底 - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnlxNGZmRnNXbDJHT2dQcHhZc1YzYWJWd1A1OWJwRDM2WVpzY1hoN3hfQWpRVUlnbEZ0b1BoVHl4aXZfMmV5dXozeU05b3FHTVVXRl9NcHNMWUYyYWRyTlFIWl9OUEJTZ3NXcEdhbmM1bGUtMU9weWRpSGpIdFJ6ck5Gd0kwSnc?oc=5
+
+- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
 - 恋の悩み、人とAIどっちに相談する？最も積極的にAIを活用する性別や世代が明らかに - @DIME アットダイム
   https://news.google.com/rss/articles/CBMiREFVX3lxTE9sQUNjR0VFczlGaG1tNUdSNkc1X1Y2RzBLbWlYV0E1OTYwZUMxZzdqTXI3N3BDalU2dHY0eU9tdno3WGxi?oc=5
@@ -45,18 +45,18 @@
 - 鳥取県 地震 住宅被害や中小企業向けの相談窓口を設置 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NQ1ByWWtoZG83SUJmQkUwVGdmaDU3LXVBNUlaTTFWTkVGQVNQT2steTJCWVU5cVJVODh1WkpUY3QzSUtYUUlxTFNVbjJkcGJmNnRuQk9famo?oc=5
 
-- 【富山県】ハラスメント相談は累計164件 新田知事、相談窓口の周知と機能強化へ 保健師、女性スタッフで対応 福井県の杉本達治前知事のセクハラ問題を受け強調（チューリップテレビ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9PMXpldjlxcjFBZUg5eUg1Q3NLMGpYZ3o2d0tTbmVHYWQyX0RCSlNxRGZQd2g4bHNOMjZfMHdNekZaYU1KZ1NEQWpwZWVKWlI5SHZRVDhMbElOY1ZMUmVHRzNkdE80M19iNTBqNXlpYUlBSjc3LWhvRGdGdUFGV3M?oc=5
+- 「買い取ったブランドバッグが偽物だった」と警察に相談 70万円で売るなどした商標法違反容疑で35歳男を逮捕（東海テレビ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE13bEFrNmp4cl9MRnhaQXp1elUxNUtndnBDcTRzTTlYNDVHY29xSkZ3bkpselZ3bjRiVmZnOTVKX0t3SlF6MzZDdDJDODM5MlFrODBtZFdZcFNqanFMMFEwbl9Hc0xwR3BHaXlEdTRYaWRnMWVmbFVhRWw4MUxtX0k?oc=5
 
 - 【会話AIロボット「Romi」】成人の日「20歳のAI利用実態調査」20歳のAI利用経験率は72.6% 利用経験者のうち7割が「悩み相談・おしゃべり」利用 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZMjFMMXc1dlctYi1tY1Y4RkJUZkNyMnZ1eUx0ZVhnMzhqbF9TSGxqQ1JVbGFCSWlIbDJIWEFpVFpXUGJjT1Q1TEtnajhlSG9ONkd6TWxGMUwyeUtNVktzZFpSbVo0clRIQUE?oc=5
+
+- 【富山県】ハラスメント相談は累計164件 新田知事、相談窓口の周知と機能強化へ 保健師、女性スタッフで対応 福井県の杉本達治前知事のセクハラ問題を受け強調（チューリップテレビ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9PMXpldjlxcjFBZUg5eUg1Q3NLMGpYZ3o2d0tTbmVHYWQyX0RCSlNxRGZQd2g4bHNOMjZfMHdNekZaYU1KZ1NEQWpwZWVKWlI5SHZRVDhMbElOY1ZMUmVHRzNkdE80M19iNTBqNXlpYUlBSjc3LWhvRGdGdUFGV3M?oc=5
 
 - 管理栄養士キャリアセンター2026年上半期、累計相談者数100名へ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5qWk5LSEt5YlFMZ2Zia3dhenlKZlhLOUJwTUNhZXVOQkFqbFl2WDRQNmRJaVFkdTJrRTZPakhtTnRXOVVuSG1SenlXaTdvYlB3OS1jTnluSHB1X2NDM25scVF4ekFfYTN0QXc?oc=5
 
 - 【ajour仙台三越店】金・プラチナ買取ご相談会 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1ncXVDNDZmbFRuc0VrWTJZUnBhR1pYeXhmTmZ4RTctZFVsZjgyVE9aaExWQUQ5LTVZVG52SGlwUWZ1RmlRZEV0UU5LaXlfQURkTlFGckVqZnhadVBtUDBheENZNXNYUEtqaXc?oc=5
-
-- 「働きながら保育士を目指す」大阪府東大阪市で新しい取り組み。保育士資格のない方も保育士を目指せる相談会。 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBJblJlT19JVU1XWWQ4MmRMcmp6c1NweXVWcDNKYlZfSXN4V2c4VDdZazBQX0dUdGdDZHBFQmlBeGgtdEtDazVsMDZHTlV1VUZTT1BIdzZudHM5VTRha1ctc0pFb183TDZfRkE?oc=5
 
