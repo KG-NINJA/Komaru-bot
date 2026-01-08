@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-08 04:31) ===
+=== こまる相談 ニュースフィード (2026-01-08 05:17) ===
 
 - レスコのクラウド型相談支援システム「Warokuパブリックヘルス」が、横浜市のひきこもり相談支援システムとして採用 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1NUWF0VVFYcnRtZ1VKYmZlWmVkMWRqRFh1UzJoelowV0xKNmw5ZUdVWTZXWmNCQVdKQW4zOVhKdmZZdm9URTAzeEhZR016QTFqMHZ3NTVBcVRfUEdhTXVUNmlaa3dnX21Ga2c?oc=5
@@ -27,11 +27,11 @@
 - 恋の悩み、人とAIどっちに相談する？最も積極的にAIを活用する性別や世代が明らかに - @DIME アットダイム
   https://news.google.com/rss/articles/CBMiREFVX3lxTE9sQUNjR0VFczlGaG1tNUdSNkc1X1Y2RzBLbWlYV0E1OTYwZUMxZzdqTXI3N3BDalU2dHY0eU9tdno3WGxi?oc=5
 
-- 2月28日「いいだ若者サポートステーション」保護者相談会のお知らせ - town.matsukawa.lg.jp
-  https://news.google.com/rss/articles/CBMipwFBVV95cUxOdktqWTRISGFlUWZoOV94SkI4ZC13QldxUDNFSHVOM1dsWU1PekRlbHotWkhwQ0tkM0NsSFNXcXhGZzBkZzgzSEVZdHYtZmZqeEVkd2tlNHBlTTFpcnBrVHN4b3BTVFRPd18yMnlCMUk1NkJyZWZMdE1xTmVZdmRyUmNUQTNicEYwVkN6R3EyOERocFlLZ1ZtNFpTb0FLSnN4OHNCTEhIRQ?oc=5
-
 - 島根県、農林水産関係者向け相談窓口設置 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1RWpMSzBXd19CVDY1QWxPREExQWxxbWRyS1M3Z1Q0Wk5LM2MzTmxBbi1hT3o4QllvZzMzS1c1V0ZCajhLQnRLN0x0ajdrWlFwZUpUWnpSb28xd9IBXEFVX3lxTE1NTGJfT3BaOVNiVlBya21hcnNOLW5rTi1aTzFBZUZ1X2xYTE13amh4eUg0a3lnMGkwZUJkdjQyOU8zd1VQWmplZjlZc1JSMWtuZkNHUE1ubXIzMjVh?oc=5
+
+- 2月28日「いいだ若者サポートステーション」保護者相談会のお知らせ - town.matsukawa.lg.jp
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxOdktqWTRISGFlUWZoOV94SkI4ZC13QldxUDNFSHVOM1dsWU1PekRlbHotWkhwQ0tkM0NsSFNXcXhGZzBkZzgzSEVZdHYtZmZqeEVkd2tlNHBlTTFpcnBrVHN4b3BTVFRPd18yMnlCMUk1NkJyZWZMdE1xTmVZdmRyUmNUQTNicEYwVkN6R3EyOERocFlLZ1ZtNFpTb0FLSnN4OHNCTEhIRQ?oc=5
 
 - 弘前大学個別進路相談会（札幌市） - 弘前大学
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFByX1Zacm5oQ3ZJQkc0cFN3QlNhNjBQWHMybGhPRjQ3VXJ4cHlOZnFqSFhLd3A1eWVleTBmc2xoUUx5SE9Fd1FLa3ZaLXRxaWJ3WWliaEFR?oc=5
@@ -42,6 +42,9 @@
 - 相続のプロが集う無料相談会 先着10組限定／鶴見公会堂 | 鶴見区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kMi1RdmlLZ3F1SHc4NUxmM1REdzI1Zm81WWdWaUNWaUxiUGVQSm10QndYN2hUcm1ibW5mWjJlZ0NOQ19nUDE0RmVFOFJTMEFoVWNDU24zenpiZW1BNDBlUGd6dE0?oc=5
 
+- 私立高校の学資について１月11日に電話相談 教職員らが対応 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HaHlYX0hXQWRjdy1FaC1sX0tmN2ZmR0l0NXdhbW1FWGhleHdjc0hoMlZaRG5qZkZZbmh4TEJQaW5MSHQ3NTVrajhrZw?oc=5
+
 - 山形市の子育て相談が24時間化 傾聴型生成AI導入で支援体制はどう進化するか - Plus Web3
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HWG9jSXZlM0R0VHhvM0F3YjF3b3hrRXdHTEpkcmVMWm5TWUxtNlA0Y2owOFBYdU0zcDZIaGlPYUppSlRTVERoeG9tRU5UX2pqb0ZqODJzRThpOU5keFE?oc=5
 
@@ -51,12 +54,9 @@
 - ChatGPTに健康相談、“ヘルスケア”モード登場 260人以上の医師と共同開発（アスキー） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE03NHp4anMtS3ZhYlBzcXByTkFHUmxlV21Yc2JiSjJnMHB4UHpOLS1ZMkNRMEczaTRxZWNER0h4NUlUbFdkOTRuajNXb3Frdnk2bjVUYmlpUlExM0U1MHdfcDUzQk9RNThuYllhN2tmaUdaTHpmcFVwTm92dzFzVkE?oc=5
 
-- 無料相談 相続･遺言･贈与の相談会 磯子区と金沢区で予約不要 | 金沢区・磯子区 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RR09sd3hsblA4LVRtYlJpWHNnUHBRdWN4ZUZWRWx3VDZNc1RtT3hVQnpZUl9sQnN5TjNHbEJSOTZSRktnQ2FRNnhJUlJhWm9MX2Z6YklPSWtQLXM0czNjUXJUOEg?oc=5
-
 - ｅスポーツに触れる機会を子どもに、長岡市で保護者向け相談会が1月～3月 - 新潟日報
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUU0gtUWp3enB1SGR2QTVTTXEyYks3UDVucUtkUUpIRnlpYzU4NHhOc1VqUVVSUlJONkxVbEkxZUtyQlhvSG84RVpHLV95TV9hbmFqZ2xtclZEZEtSOWc?oc=5
 
-- 青木さやかさんがFPに相談「老後資金どうしたらいい？」 50代から考える身の振り方（PHPオンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE82aWMxYWFiLXBUMzBYYmdfamF0cTBtU2ZJMGhUOHZmQWFxaHlqVVdRX1ZwS3VhOFNaUkdsWUhmVGlCREtxdmlFMlNWcE9MVW5XSUoyampOUVkwOXBMTi1ta3ZoWnpEUDNhZ0hTRE95V1E1cllGNF93RWdVeEZ1S1U?oc=5
+- 無料相談 相続･遺言･贈与の相談会 磯子区と金沢区で予約不要 | 金沢区・磯子区 - タウンニュース
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RR09sd3hsblA4LVRtYlJpWHNnUHBRdWN4ZUZWRWx3VDZNc1RtT3hVQnpZUl9sQnN5TjNHbEJSOTZSRktnQ2FRNnhJUlJhWm9MX2Z6YklPSWtQLXM0czNjUXJUOEg?oc=5
 
