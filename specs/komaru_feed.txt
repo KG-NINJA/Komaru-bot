@@ -1,7 +1,7 @@
-=== こまる相談 ニュースフィード (2026-01-08 14:17) ===
+=== こまる相談 ニュースフィード (2026-01-08 15:16) ===
 
-- 【個人事業主向け】記帳相談会のお知らせ《予約制》 - 青梅商工会議所
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wTy00UlhiUjc4Z0hzYTNROXc1T21WYXp2QUVfQURHdlo2Rm80cWdpVXMzYS0xalRmZWEwYXpqeUkxeDdpSDhVOHlxdG9PUQ?oc=5
+- 【事業者のみなさまへ】取引上の悩みがあれば、取引かけこみ寺へご相談ください - city.ibaraki.osaka.jp
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxPTmttVDBJZDlZdERvb3JOSVczcWlSSDdvVnZNNFRORms1TEU2VU4yaWgyRUFoRDlsV201YnBVelV2b3A1LU5sYkpJaVBnbzVMbGdpdUYyUDFSaHFEYThSSnVtVWVBMTRCdVZOTFBIUjlNbEw1V0pydjFYcWJ1QktMMDRqQ1N5UQ?oc=5
 
 - 信州安曇野 空き家セミナー＆個別相談会 in 東京を1/30・31に開催 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9NZ0hid3lKZWN2S3NHME5LUVozNXJhd0VuSUw5MmFnemdGUUw1NjJ2RnBqRUN2TUp3akQySXRqbWpaNFp4QW1lZkl1QlZwLWpFZWNyeVR2eUhlQ0dSd3BhTVVMbFF6SDE0UWc?oc=5
@@ -9,14 +9,17 @@
 - プラザでぷらっとがん相談 きいてみたいがんのこと｜お出かけ情報 - 熊本日日新聞社
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hM0RFYmZEQ2ljVm40SEZaVmNJalRGSGNPVXpTem5BWHFaZHpRdkpQZkRiTklHMDdOeXRxUzlEM2dpQVNqZmZjV2Rqdw?oc=5
 
+- 【個人事業主向け】記帳相談会のお知らせ《予約制》 - 青梅商工会議所
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wTy00UlhiUjc4Z0hzYTNROXc1T21WYXp2QUVfQURHdlo2Rm80cWdpVXMzYS0xalRmZWEwYXpqeUkxeDdpSDhVOHlxdG9PUQ?oc=5
+
 - くらしの情報（2026年2月の無料相談日程） - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBONi1rbnhDVXBjWE9jeWgxNHJmTHFHQW1VcDFELU9GZkkwZXcyY2xoVHRNSWc3cVhGSjZDU3VhNTBTM05SbW5NSVREcTFhYnNZQXh2bDFGZzM2ZnBtc3lrNEs1emtkbEJN?oc=5
 
-- 山陰地震 島根銀など全店で相談窓口、鳥取県南部町の断水解消 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9VOE1UV1dsc2RLSV9FaGRUT01IWF9WQ2ZDVG5UMDNpY29lR2o3WGlMdV91ZjRHODE3aWVCc1BvYjBoZVR4SVZMNjl3ZHVIbmI3bGlqUmtINHdoSmZwc3ZVbEFGV1hnSHpyUmNGNQ?oc=5
-
 - 不登校支援に「チャット相談支援員養成講座」1/16・20 - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRTWxYeUFyYXVDZEJNcW5SaG1DaDRSYVRaenNWS0dOaUxhOTlCT0xxTFM1dHpUdkJKSWwwdEc5NTVnNXcwdldZd1gtMEZlZjFSM0JGcFcxd2NZVTh5SjJrcTM4SWxmQQ?oc=5
+
+- 山陰地震 島根銀など全店で相談窓口、鳥取県南部町の断水解消 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9VOE1UV1dsc2RLSV9FaGRUT01IWF9WQ2ZDVG5UMDNpY29lR2o3WGlMdV91ZjRHODE3aWVCc1BvYjBoZVR4SVZMNjl3ZHVIbmI3bGlqUmtINHdoSmZwc3ZVbEFGV1hnSHpyUmNGNQ?oc=5
 
 - 鳥取県 地震 住宅被害や中小企業向けの相談窓口を設置 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NQ1ByWWtoZG83SUJmQkUwVGdmaDU3LXVBNUlaTTFWTkVGQVNQT2steTJCWVU5cVJVODh1WkpUY3QzSUtYUUlxTFNVbjJkcGJmNnRuQk9famo?oc=5
@@ -30,20 +33,20 @@
 - コンサル・金融・公務員…内定者が語る！ 早大生のリアル就活レポート - waseda.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xeXUxSGhsaGQ4Y092Wi1IOU9fVXg2OWRVTDZ6LUFOYVlIMjVhM3B1SXhwTnRpTV85NEo2Y0ozbGxIV2RNZHNrX1hYU2lnNUNiTHB6LTVCRS1iWnE3bnI0YnFaVUhjN2M?oc=5
 
-- 縁結びの聖地で結婚相談所が仕掛ける「出雲ジャック」プロジェクトとは - PR EDGE
-  https://news.google.com/rss/articles/CBMiPkFVX3lxTE9Kem14SmFzTXRsQzcwa2RYenQ3OW1SLWc5dzVjX1VQLUNQMlFCWFcxazliV0ltb1hOLXp5bWJR?oc=5
+- 令和7年度より、「こどもの権利相談窓口」ができました💛https://www.city.ito... - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfdUVKYVFwVzFaOXFxNFBDVWo3OXA4SDBETkdTdkZnS2tKOGUxb2tiWDRQX3V5ckdoLXA5RE5xcTBCQmFMMWxhWUxESlZPOERLdUhkSWJCcUt4Z1RUSmZB?oc=5
 
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
-- 認定がん相談支援センター - ncc.go.jp
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVIzMHk4aXh4dW5WVVZaOHEzcFZOS1BOTnNROGlmNU1vRGF6VGQycU5GNWpoaWVKUG5jYUZKMkFzWlNSS0czbE9XbWpRYU9vYnlkMTZ0eVVKcGdpckhFX08tU3B5N25lQkw3eQ?oc=5
+- 縁結びの聖地で結婚相談所が仕掛ける「出雲ジャック」プロジェクトとは - PR EDGE
+  https://news.google.com/rss/articles/CBMiPkFVX3lxTE9Kem14SmFzTXRsQzcwa2RYenQ3OW1SLWc5dzVjX1VQLUNQMlFCWFcxazliV0ltb1hOLXp5bWJR?oc=5
 
 - レスコのクラウド型相談支援システム「Warokuパブリックヘルス」が、横浜市のひきこもり相談支援システムとして採用 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1NUWF0VVFYcnRtZ1VKYmZlWmVkMWRqRFh1UzJoelowV0xKNmw5ZUdVWTZXWmNCQVdKQW4zOVhKdmZZdm9URTAzeEhZR016QTFqMHZ3NTVBcVRfUEdhTXVUNmlaa3dnX21Ga2c?oc=5
 
-- サンポート高松で「ネイル祭」 足の健康相談やプロ用商品販売（みんなの経済新聞ネットワーク） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWTB5ZkxzcTRIWEI5SV9tVjI1VGVETkJEWVc4UDc0aUNxOFc1Sy1wamFCMXRubzl1ZnF1V2UxREZOYXF1VnJRVnZjZUtmQUtvQUFhZG11bWU5TjhROFpEWkdsb0ZNR3I1TEhROVNLbHV1Wkp2bFM4SzdSTU5fVzA?oc=5
+- メッセ黒田、1歳長女への悩み吐露「道歩く人に…」 共演者からの“パパ”呼び提案に「好感度下がる」と拒否（ENCOUNT） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1BZjhFNnc5LVM4NGJjbXhSMmJHSEpwR05XaGxwWDE1MXU3R2xMUlB3b0M4dm9wRUhpWlhlRXIzTklqT3ZzMmh2TF95QllCYVBKZkpUUDQ4MHI0Z0k4Szhfc0NRUXZWclF5ckJ4NWJyWlV4WExHS29IX0RfUWVnWFk?oc=5
 
 - 鳥取銀行と山陰合同銀行 地震被害の相談窓口設置 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxWXFOOEVja0FnVkd0MXo3cUFGTUJvTHJrSWd1NEZNdkxnT2dKZThwenNpdkNwbjN1eUtUTUtLNW1DdlZidDlqZEJfRUhTM25OaUpwMl8tOGw?oc=5
@@ -51,12 +54,9 @@
 - 【会話AIロボット「Romi」】成人の日「20歳のAI利用実態調査」20歳のAI利用経験率は72.6% 利用経験者のうち7割が「悩み相談・おしゃべり」利用 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZMjFMMXc1dlctYi1tY1Y4RkJUZkNyMnZ1eUx0ZVhnMzhqbF9TSGxqQ1JVbGFCSWlIbDJIWEFpVFpXUGJjT1Q1TEtnajhlSG9ONkd6TWxGMUwyeUtNVktzZFpSbVo0clRIQUE?oc=5
 
+- サンポート高松で「ネイル祭」 足の健康相談やプロ用商品販売（みんなの経済新聞ネットワーク） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWTB5ZkxzcTRIWEI5SV9tVjI1VGVETkJEWVc4UDc0aUNxOFc1Sy1wamFCMXRubzl1ZnF1V2UxREZOYXF1VnJRVnZjZUtmQUtvQUFhZG11bWU5TjhROFpEWkdsb0ZNR3I1TEhROVNLbHV1Wkp2bFM4SzdSTU5fVzA?oc=5
+
 - 【富山県】ハラスメント相談は累計171件…新田知事、相談窓口の周知と機能強化へ 保健師、女性スタッフで対応 福井県の杉本達治前知事のセクハラ問題を受け強調（チューリップテレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9PMXpldjlxcjFBZUg5eUg1Q3NLMGpYZ3o2d0tTbmVHYWQyX0RCSlNxRGZQd2g4bHNOMjZfMHdNekZaYU1KZ1NEQWpwZWVKWlI5SHZRVDhMbElOY1ZMUmVHRzNkdE80M19iNTBqNXlpYUlBSjc3LWhvRGdGdUFGV3M?oc=5
-
-- 管理栄養士キャリアセンター2026年上半期、累計相談者数100名へ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5qWk5LSEt5YlFMZ2Zia3dhenlKZlhLOUJwTUNhZXVOQkFqbFl2WDRQNmRJaVFkdTJrRTZPakhtTnRXOVVuSG1SenlXaTdvYlB3OS1jTnluSHB1X2NDM25scVF4ekFfYTN0QXc?oc=5
-
-- メッセ黒田、1歳長女への悩み吐露「道歩く人に…」 共演者からの“パパ”呼び提案に「好感度下がる」と拒否（ENCOUNT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1BZjhFNnc5LVM4NGJjbXhSMmJHSEpwR05XaGxwWDE1MXU3R2xMUlB3b0M4dm9wRUhpWlhlRXIzTklqT3ZzMmh2TF95QllCYVBKZkpUUDQ4MHI0Z0k4Szhfc0NRUXZWclF5ckJ4NWJyWlV4WExHS29IX0RfUWVnWFk?oc=5
 
