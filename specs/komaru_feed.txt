@@ -1,16 +1,13 @@
-=== こまる相談 ニュースフィード (2026-01-10 05:13) ===
+=== こまる相談 ニュースフィード (2026-01-10 06:18) ===
 
 - 鳥取 南部町で住宅被害の臨時相談窓口 6日に震度5弱観測 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WLUZYTFBkZV94bmF1SDZjNHkyMUJNbGx2OTJMVGJfMjVlNjRzR1VYQ25UWHFucWhNQVlhNXNSSGpxdUdibzZlcnhCVk9RVUM5d1A3TUpMUDFUdkVFdXFF?oc=5
 
-- 女性のための生活相談会 貧困やDVなど弁護士らが聞く 静岡・三島（朝日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE01aVFKdjFQSk9zRkNLcHFSOXFBb1NDNGFyUFZ3aGlKR0J2N040NjJLVk8yM3hvdHNYOVhwb0hkeUFzejdQOV9GZld4RFJOc1Raa09mZGNmX1R0Y2Vzc1l2TVBSSDFLTm41OHF5Zk9TdnhRRFE5TzkyZWc4d0xKdU0?oc=5
-
 - 交番不在でも手話相談可能に 県警が視覚障害者向けビデオ通話をスタート - 中日新聞Web
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vX09ydnU5NmtkV0NqUDZWZmw2VlNjZlU0TUF2RG9ydTd6ampzTmJRUVJpREVzaF82dDV6bGJNbUx1a0V4LUFHbjE4MkNBU1VOY25UeUJlWDNxR1AwMGx5dA?oc=5
 
-- 空き家・空き地の相談窓口 - city.sanjo.niigata.jp
-  https://news.google.com/rss/articles/CBMingFBVV95cUxQTUdJLUNNbjMtNi1iZlp6cWZxNVpoeHBfS2dMa3laMHlqMWxOc1htYWFqTzQ5dDIzbHgwclJFbHhqUnZXQW9mOFloNnJHVDQzak5TNUg3QVFfQ0tCUjdxNVlsUzNXNFZoNUlTMHVfU0tIdDc0Y21WMHFiUFVpSzRNTW9leXlpUjhOamN3UW5YTmxfWG54b3l5X1hveFVLdw?oc=5
+- 女性のための生活相談会 貧困やDVなど弁護士らが聞く 静岡・三島（朝日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE01aVFKdjFQSk9zRkNLcHFSOXFBb1NDNGFyUFZ3aGlKR0J2N040NjJLVk8yM3hvdHNYOVhwb0hkeUFzejdQOV9GZld4RFJOc1Raa09mZGNmX1R0Y2Vzc1l2TVBSSDFLTm41OHF5Zk9TdnhRRFE5TzkyZWc4d0xKdU0?oc=5
 
 - お悩み相談室QA アーカイブ - jobsoken.jp
   https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFJxVVVZNUdhRHRqVnJnUVl2ODhkTGZQYTF4dWR0N0lZNVRXSW5JcG5jNk8xd1RfWWY1eVoxeEZfekZiTUFNZnczRV9hcnR2cWZvVklaLUNHY2ozR29DcTIyc1c1VlR0NWhjdXNqa3B0NXRKT3ZNX3FzSmtwM09BX3BmY3V1VEVUY1NKdS1qS2NHT2U4NjlsQk9GRXB3YW1K?oc=5
@@ -21,23 +18,26 @@
 - 県下一斉無料法律相談の開催 - town.hirokawa.fukuoka.jp
   https://news.google.com/rss/articles/CBMijgFBVV95cUxNTm1ST19meE9BRWhpdVhnbzd0enRwNXhuVkhLQjZRaVZvWmpDanVDVnQtSTM4NF9kSndKSnJDTGNqQ0Fna2FkelhweVNtUF9ZbkExRFFjSHEwS2tPcXhTVWNWRmwwdXBWbVRnVVMzMEdCN0tQamcyWWFhMjUxUkk5ZzhzYXFGdG5lX1JPQzl3?oc=5
 
-- 「彼女が居座る」など緊急性なし3割 沖縄県警、2025年の110番は26万8千件 不急の相談は「#9110」へ - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFAycjRySVVEcjR0ZUp6bEFuRVNyQnpfWlpyZUM1QUZyZ2FSTTBDdVNiT0pNTUp6REJ2XzI3ZUZ1Y3ZyRUdXV0Fwcko4ZVV5ek4tX1JXLXl5c2V6MzJVOGc?oc=5
-
 - くらしの情報（2026年2月の無料相談日程） - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBONi1rbnhDVXBjWE9jeWgxNHJmTHFHQW1VcDFELU9GZkkwZXcyY2xoVHRNSWc3cVhGSjZDU3VhNTBTM05SbW5NSVREcTFhYnNZQXh2bDFGZzM2ZnBtc3lrNEs1emtkbEJN?oc=5
-
-- キーデザイン、不登校支援者向け「チャット相談支援員養成講座」を1/16・20にオンラインで開催 - 教育家庭新聞社
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aM0ZCeEI3Z0prM29yVHhRYXduTEdNNUJSQzNMZkVkWVIzSklvUks1SjNXMVBHbVN1VHBqcGhYaW9KM3Azc3hKUVp3TlRUWWNxOC1j?oc=5
-
-- 30代独身、親戚の集まりが憂鬱…「結婚はまだ？」攻撃どう乗り切る!? 相談者の切実な悩みに共感・アドバイス続々 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFAtV2MzTkhiWWdTUUw1dXhhM2s5WDF2MlphWkJacXFNWnNLcm4zSjBpdmFabldNNVcyTmJ4TWFBXzJWSXNFRU1jak5wVHRhS1haNzRhSGNhTXNPSVZ3dWl3NWxwUHRZY1VMNmNvM1BTeHNDamNFLVprVHRFZWFSOTg?oc=5
 
 - 困った子ども見捨てられない、難民次々と受け入れた「母」 「国境越えた家族」の夢、次世代に受け継ぐ【ボーダーレス家族（下）】 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ubTJFYjg0bHhKX29Rcm9sVTBrNnBqR0xCWjlmTEd4NDdaOXZaY3NmRWlKUHBhQ1F5NTBrRW5XM3UxSnN0N1psWGZLckU4em1HRDRkRUhxdG5xVWFVdEE?oc=5
 
-- （悩みのるつぼ）私はポンコツ製造機？ - 朝日新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QRncxVU9NTVFFa3FtT1ZvejV6SXl0eTVmZEhubjRfZTBhRjJYLVIxS2ZINTdxWl9CZ1lUUDRwTjFmem41VFZvZGZSR1lzRGpFQUdUSDQ5VU95ai1J?oc=5
+- キーデザイン、不登校支援者向け「チャット相談支援員養成講座」を1/16・20にオンラインで開催 - 教育家庭新聞社
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aM0ZCeEI3Z0prM29yVHhRYXduTEdNNUJSQzNMZkVkWVIzSklvUks1SjNXMVBHbVN1VHBqcGhYaW9KM3Azc3hKUVp3TlRUWWNxOC1j?oc=5
+
+- 薄毛・ニオイ・性の悩みをアップデート！2025年に進化した「男のケア」最新トレンドBEST5 - smartmag.jp
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtS1c4MFBMVGNaOUQ2RlRFVlY4Tkg4VGxFZnVMMFJOZXJfOURnSk1YVVBHSEFOQ3Z5Slh4ZEo2Q3JKbTFhN0NMc3lTQTU?oc=5
+
+- 困った子ども見捨てられない、難民次々と受け入れた「母」 - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wRkphcG95Y2ZnSFRyMFo0UmFtSW5oM2hUM1IxT2l6QXdCWXVDc1k5V2VtN3k2bUh1YzRfcWdSNDRabEN2R21HalEwdzduOWV1R0Z0QnY3MHpneE0?oc=5
+
+- 30代独身、親戚の集まりが憂鬱…「結婚はまだ？」攻撃どう乗り切る!? 相談者の切実な悩みに共感・アドバイス続々 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFAtV2MzTkhiWWdTUUw1dXhhM2s5WDF2MlphWkJacXFNWnNLcm4zSjBpdmFabldNNVcyTmJ4TWFBXzJWSXNFRU1jak5wVHRhS1haNzRhSGNhTXNPSVZ3dWl3NWxwUHRZY1VMNmNvM1BTeHNDamNFLVprVHRFZWFSOTg?oc=5
+
+- 「彼女が居座る」など緊急性なし3割 沖縄県警、2025年の110番は26万8千件 不急の相談は「#9110」へ - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFAycjRySVVEcjR0ZUp6bEFuRVNyQnpfWlpyZUM1QUZyZ2FSTTBDdVNiT0pNTUp6REJ2XzI3ZUZ1Y3ZyRUdXV0Fwcko4ZVV5ek4tX1JXLXl5c2V6MzJVOGc?oc=5
 
 - 南部町 地震被害の住宅修繕へ 臨時の相談窓口 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zczBsOUhHV3VqVGlIbUVyUXFOQjh1NVJvMzRxakxTemZ4TUNCUXJuMUpTdkdSYnNTajZjTXl5emo5emNpOHAxMFlheDFWUmRWaFVEZndfOGg?oc=5
