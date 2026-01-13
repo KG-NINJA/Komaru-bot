@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-13 06:20) ===
+=== こまる相談 ニュースフィード (2026-01-13 07:18) ===
 
 - 難聴体験、相談会で啓発 - 公明党
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lVWI4UDJJa19sLVNRU1F1dDN0QVBaelBpajNjZ3Z4M3doQWRTbUZIZ3hVbkxZNmlvaUdSTXZqQ05WTFh1S3JWOEczc0RndjZCaGxrMQ?oc=5
@@ -6,17 +6,20 @@
 - 1月13日 昼の広報無線 - vill.hakuba.lg.jp
   https://news.google.com/rss/articles/CBMipwFBVV95cUxORFZWdUQ2ZDJGVDlCMDY3VE5ZdWFEb2F0bi1zcHdYbU14VU1JQmp2bjRGdXFwc3JLaTQ1elUzNGg1RVozMURoRWxlWDZYemx5N1NBOEdHRHRxQ2Z5dGdDbXMyckVJclhzZVpPQ3IxUGlGR2s5TDRPRkJvOTlqeEpFX2xRQkpYYkdHa3pwOWsySmRuUjJmejZCRU13cG9UTWhjRjVVOXJfNA?oc=5
 
+- 難病患者さん・ご家族のための無料相談会「神経・筋疾患」をZoomまたは電話にて開催します - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBnWXVERWRmeHNUbmNCZ2g5ODY1d1EydWVYb2RGRFd3NG5MVmNnWk1UdDR0WWhkVHZqZEZicllqUjBQd1ZUWHVwQmJTX0FaX19GSVdhbTA0T1Q4VjNQZDY1WFg3YzM2dnhpWXc?oc=5
+
 - 窓口専門家スケジュールを掲載しました（２０２６．２月） - 仙台商工会議所
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxUkJFZGZtQVhsYW5RZG4xdTdkVDhMMTdjakJPQXdXQWhBSGstaVAza2U4d1IxRll5OGJaZFo4bFhmNEh4aUFXRnVyQ0NpRm5jdENsQ3FmTm50TG1KZUFYMVJwTHc?oc=5
-
-- 【参加無料！体験・相談会】Microsoft Teamsと連携できる スマホ内線やクラウドPBXをご検討のお客様へ開催！ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE56SGc2SWJ4cVBRbHhJUG81VjM0anVKWlBwSnlXZWJvMjB1TmQxWUwxTWNpbnZWN1phak45M2dzRzIxcWFCbU9IaDR4SEswOFZTNEszMVNNcDl1bHBkR0dVNXJnUUpabWV6bmc?oc=5
 
 - 医療機器相談、179人から受け付け 24年度 家庭用電位治療器14件、コンタクトレンズ9件 - 医療介護CBnews
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BN2hMMVhFdldjRDBrZFQ1LUlBa2FVWFJ1S0JFeWE0T2w2WGFvVl9pZkxhVGoyY3hwRGxMQ1J2WU1iQXVObVVVeTJSQnhFSXI3ckVYckhNQkx2Nzg?oc=5
 
 - 【三井ホーム】相続・土地活用相談会を開催いたします！ - 朝日新聞
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kRUlXMV9qZXJQaHhwdHROSDNiUUc1SjNNR0lPR0x6eWg1R012Nll1NElmcVZZWERfZE5iTzhYU1k4MlRwSEtBdzU4d0lVVDM0WTNmQXZ6V1Bud2VYeHh4S0sxYTA?oc=5
+
+- 【参加無料！体験・相談会】Microsoft Teamsと連携できる スマホ内線やクラウドPBXをご検討のお客様へ開催！ - ASCII.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBERjcxSHdvRHlzSkphOHdYdGM5TXU2NlNxVnduTXItR3dUdkp4bHhlZ2pEWkFwWTU0OTByR3QxcWxVME5QN09vQ1ZDMWxzQ1JibmI1TA?oc=5
 
 - 移住者の相談体制強化へ、秋田県が新拠点 就職支援へ求人掘り起こしも - 秋田魁新報電子版
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pbmFTbHUyVHdiY05zMEljZ251V25OaDE1cXlteHB0Y2FwR1ZaNm4wcVJ3RU1qTkJzQ2F6N2FpNE9lWjE5T19xSlhlakpFa0EwYjJabVdNdlhydDMtdDNBZjRB?oc=5
@@ -42,21 +45,18 @@
 - くらしの情報（2026年2月の無料相談日程） - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBONi1rbnhDVXBjWE9jeWgxNHJmTHFHQW1VcDFELU9GZkkwZXcyY2xoVHRNSWc3cVhGSjZDU3VhNTBTM05SbW5NSVREcTFhYnNZQXh2bDFGZzM2ZnBtc3lrNEs1emtkbEJN?oc=5
 
-- 武井壮 ＡＩに転職相談して励まされる「お前は武井壮だろ」「職業に縛られるな」 - 東スポWeb
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wTENQVXZ4dm5kN2Q5UWdkUTlWRUtkTG5JWGNjd2VxS3pETDRkV3RNc3N3T0QxUE9hZ2l0YjNzbVJ2bER0UUt0QzhlMzNFQjFxWUliNm5Gd0RicW1n?oc=5
-
-- LINEで気軽に相談できるネコ占い師「るーにゃん」サービス提供開始 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1hLWlrMS1peFVuZjNkSmZvcFIwZ2RCZXNST2psckJpX2pzaUxzWkMwb2lUV2dOUFA5QXNlRnRBYzJDYlM5WVplMVdST2hVM2ZSQ1BiZ05MWV8tU0pqeUVEMTJJRlBLNGdwQ1E?oc=5
+- 訪問診療の開業・運営に関する無料相談でAmazonギフト券5,000円分を進呈！ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1rZ1JSQUw4dWdkR2V1ckpob2paTzBQOVpCc3Y5eXB6eERRODJjS3AxLWgzYWhEYzM5dUhsNXVWaDhxQ1ZraWpnRWQwT0U3Wmoxbk5FNTY4amRYRG1HcUZIZ1lhR2t6bDlZemc?oc=5
 
 - 就活に必要な「自分軸」「いい会社の見分け方」とは？ 西村誠司氏の人生相談（デイリースポーツ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1jMVNOQkwtSFV1Z0pPcnZpQlV3SFlFOW92SWFTVktoZURJV2FwVUhqZGtGUjBFV3YwZmJlbUsxekFOYTh5SDJCT3E4QWNLbmRBaXVUai00T1J0bzJpQ2FySVBYenpKcU03R2hhN2lQVnB2SElzNGhjZGxWRkM5aTQ?oc=5
 
-- 「今の自分ならできると思い」中島健人、真面目さと温もりを併せ持つセックスセラピストに Netflix「SとX」制作決定 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VdWFFUG02VUttejNqWnpqNTdkWUJqamNPaWlLWFVScFNoZlpyR2VUMFd0c3ZDSS1OQzlEVF9pNmN0anBlLWNkcHZhdmlLZ25Ra0NZMjhpcUlxQkgy?oc=5
+- LINEで気軽に相談できるネコ占い師「るーにゃん」サービス提供開始 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1hLWlrMS1peFVuZjNkSmZvcFIwZ2RCZXNST2psckJpX2pzaUxzWkMwb2lUV2dOUFA5QXNlRnRBYzJDYlM5WVplMVdST2hVM2ZSQ1BiZ05MWV8tU0pqeUVEMTJJRlBLNGdwQ1E?oc=5
+
+- 中島健人が自身も悩みを抱えるセックスセラピストに Netflixシリーズ『SとX』2026年配信（リアルサウンド） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1rNk1PRTN5R1VCcEVWN3plM1ZvZjJrcS12d1JEOEM5MTlQSk16SThsb3RMQXJEM09lYkhCZnIzTGJtU3hNOTVveXVTdGFCSWtRWlhqdG13Si1nSFJHS3VGRk5vSTBsajNnR1dpSmZkaTBQUXZUaGVKOWQxSElLOW8?oc=5
 
 - “ファンロイヤリティ最大化”特化型BPOの提供と無料相談会（お知らせ） - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE53RUxwRk9GVWltR1EtTXlyRm1hVk1BX3B0elBOT3JySEEwc0wtbms2YlgwYlllSkM0TkxnYi15amNvbGltekNlN3NnYWtBWWhqOG10QVgtY0dtY0ctVnRMZ0hva29KaURCLWc?oc=5
-
-- 市民相談日程 - city.hachinohe.aomori.jp
-  https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkVYMUJOaEt3N0x2X0x4c0pvSi1IUDRxREZUbTN1Sk5Yak5Xd0pxaU9NNUZTMVhrVnAxOE1raEJUVm9wOXdJcHd0ajFMc1h6ZjA1bVZsTjRSRlN4ZjFpTEFBYktxcEFCNlBWaUNZSHU3QkRIT0xQZVdKOVM4YXU5T1kwZFVkNHYwbTNOV3VIZWRPcFFRa0Y2VFZ2T3h6Q3FnMlRrMFVxTjlNS3hIcE9wVw?oc=5
 
