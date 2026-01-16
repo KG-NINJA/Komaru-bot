@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-15 23:13) ===
+=== こまる相談 ニュースフィード (2026-01-16 01:01) ===
 
 - 【ご案内】弁護士による無料法律相談のネット申込みができます - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DZi1yNmh3T3dvci1GYkFLakFNN19kSFU2R2NEckdYZWNPVU50VE9xVGFraENuaWRfS1Mwc2p5aVl6MnpEQ1BMenhpMk5mOTVaT3g3ZC1mMDUtazFqbDcwalNlLUJDQUgw?oc=5
@@ -6,8 +6,17 @@
 - 消費者生活相談について - city.kai.yamanashi.jp
   https://news.google.com/rss/articles/CBMidkFVX3lxTE9IRnJjUlZ5U1JrSU1rMjdta0xwdjM3dWNMWFZMcnI5MEx5T0lmbEtyZTMyX0o2b2JPZlROZ3FKQXNiQTQyTHM3U0s4Nk10dUZWWHdFWnQ2SzVDVXRLSG5OclpsQ3NlR1c1ZXV6NGhQZmhFUC1kR3c?oc=5
 
+- 1月16日 朝の広報無線 - vill.hakuba.lg.jp
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxNUjVXOVdySWNzbHQ3SkNUVGQ4WTBHdl9QY2VXLWlJQm1yYkR2QUc1MUJHV3dHY2U3eDhqODRkSUlmc1MyQXM2WEVBOHd4VzBBd2tjMFB5TWJGd0xBbnhWRWpWNWI5aXMzYmRPUFNFbDJCYnljYzlKbGxqTmtFU2xHR295Um9sRmRxQjUtNE9YSjJPZDhiOF90RGM2NFU0MGtDblNKc2wyUQ?oc=5
+
+- 令和8年2月のスマホ・パソコン基礎相談 - town.seika.kyoto.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5pVy1IOUZmSVVsc3h3enA1MWpzM1FOVXF3VTIya3hLY0JOWUNVcjVqdDJUV2c4WDNTbTIySXpXQ1I3SjFvTDJBbEVwNkRfaWVLWGdlZ0xfMXFBWGF2ZGphZXdwXzM2dU1YUFNsRA?oc=5
+
 - 孤独と貧困で悩む学生に温かい食事と相談場所を届けたい！ - クラウドファンディング - READYFOR
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ib1kwbGdBN2FmNnhLdXhZeWRuWmlfclp0ZkxKTjdoREgycTRXUlU0UERfVTd5Uy1qd1lpNklKalFxbWdZUU9qZTFwN1hiRmM1eDliWWhjMjRQV0xNd3c?oc=5
+
+- 「思春期の子育てお悩みSP」小児科医・高橋孝雄さん 10時台 - NHK
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5neU8yRXJ1SnV5Q0RJU3l3TXJPY2hsRXQ2bUtmYUFRTFUwYVY5R2Y2M2ZrUjNVWXE5ZjQ5XzBrbXBHNTZ3NU9jcnVqcnVENzNlZlpnVUNrUkYzUjVXUHJTYzJrYUlEMmpY?oc=5
 
 - 相談業務に生成AI 福祉事務所４カ所で導入〈茨城県〉 - 福祉新聞Web
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tdzdUUGlzNG1rRkNRbmxmS045ckZwS19xWTNsYVpTdmxyb3loN2NucUlqX1dNbEZrbjhZbFcxb3JiMy03QVhuOXVLaFc1MzJzRTg0aGlET0g?oc=5
@@ -15,11 +24,11 @@
 - 部下の育成がプレッシャーになるという悩み - 日経クロステック
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ka2VxbTVveTM2SG1uWURPX0VBcHF3MFhYVm85c2E0bER4S2VvVS1kM2huUTNvcUk1WGszNklRN3gwX1ZMQnRzNFF3dXA0c1R4WmRpUmZnSUV6VGZTMDJYUnhfakNnakU?oc=5
 
-- いしかわUIターン大相談会 in 東京 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE4yYnF4YVV3LVp1TlJZdE15LWM4RGpPVENyR2dtRUVXN3RXTUo5VldRSzVSQUhrclh2MlE0OThPYWNTenlGckx2WTlMVDZ3Y2l2aEluWDZpaHJ4WjloMlh2YnZZV2ItaW1RR2c?oc=5
-
 - 連携連携展示「がん相談支援センターを知っていますか？」 - libnet.pref.okayama.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxNMGdaNTRxYVl2OEdIc1h4VVV1Z1MxM1FCei1BazVNaUZXa2plTFd0Q1ZpdC1UUWJ1N3I1cVFoSG1wd2wteXJlVjF3M0RQaWtiaksweHc5S3pyNVp2WUQ3QzVnazVxRldwcVRkUGRjRXA2dnBSQld3OVNLbGxKa09icHZtQlFQOG1Mal9Kag?oc=5
+
+- いしかわUIターン大相談会 in 東京 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE4yYnF4YVV3LVp1TlJZdE15LWM4RGpPVENyR2dtRUVXN3RXTUo5VldRSzVSQUhrclh2MlE0OThPYWNTenlGckx2WTlMVDZ3Y2l2aEluWDZpaHJ4WjloMlh2YnZZV2ItaW1RR2c?oc=5
 
 - 【帯広市】1/24・25に十勝・帯広【出張移住相談会in東京】開催！ - 北海道の人、暮らし、仕事。 くらしごと
   https://news.google.com/rss/articles/CBMib0FVX3lxTE5WVnR6T1lqUTdCSVlveE9LcEYtbFpxbTEyeVpQNUpldnlHamNlS0pMS3c3bnZ2azNOMUVQZnFaVnFfYk9QSkRfZFA3MnpKM21jTnRCSFpyNjdSNXY4cVo3bEV6VF9qUUJNNEg3dERJMA?oc=5
@@ -27,36 +36,27 @@
 - 「彼女のことどう思う？」悩み相談のはずがまさかの“提案”！同僚が必死に止めるワケ【マンガ】 - ダイヤモンド・オンライン
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yd2JvVS1rcWVvSmRXWGtUT3pHZF9hSDZNUzlOUWh2LUN6ZVdVbU1kTldEejI2X2wwWGJTLWdxNVkxbXdVdmNDZllsMHHSAU9BVV95cUxNYjQyUDdnQzRTNnNiT1Zqa1pOMmR0Q0ZnS1hEaFpJYU1jWU96NkNBc0lLQWV6ejhDN01xV1d6bDRNNjRPWFNSRWdYOEJqNjJJ?oc=5
 
-- 認知症の母が暮らす実家が停電！困った息子が暗闇の中で母と笑い合った夕食時「新たに購入を決心したアイテム」 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5vek5BbDhMQUJ4YnkxM0w5Vnpybl9qRHA5c3dxYmxDTWxueTRUYmVLZVZGQ0pmdWdMeFRlNHlCSW1XZmI4MUp5OG0tbEI2UWtuWm1TaWNBTmcwVlBUckhkZ2RrUWc4VVFmTUxwRlVhbFQ3d3RqeXpMRHRPREYtWlE?oc=5
+- 2人きりで話題に困った女子生徒が語る“怖い話”…衝撃の導入に「情報量が多過ぎる」と反響【漫画】（WEBザテレビジョン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1faXVnX1dSaHY5MnhUTnUyTWFMbzYycE9oYjFFUVFJdld6MWFjb0RWWVRhYThqQkRIVXl3MnpvelhtVDNXUi04SlprQ0dWZzhGMGVlQk4zWWw4dElPU1dYQVp5eUdfZ19RaW9DZnRqVWlibk9PQmxtOE54dEFZR3M?oc=5
 
 - 妊娠・出産・子育ての相談をオンラインで受け付けます - city.itoshima.lg.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Zc1B3TnEtSUZjZXVpamVnY1IwMlBBTHlwZk5IMmNNa0tVV1ZnV1ExbXdFenc1YUt1Q2liTmp6NUpuR1pCOWh0VGlXQWZ2LUVybW93ZFhOaUlKdVB3QW0yVTFyVWh3QXc?oc=5
 
-- 沖縄本島の中学校、ディープフェイク画像が出回る 学校・保護者が警察に相談 - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yZndrc2MzcGFEaFRXZF9DTjU4a2FpeGJ2dVZNX2N5b3BUSjVwLVp6UkJkMW1FZGJ1a1VEOTRCRFN2OEprOW9lMm9wanhTdzdWX0tEdG1ZMXlnX2JSTFE?oc=5
-
-- 【参加者募集】『プロジェクト個別相談会』を開催します！ - meijo-u.ac.jp
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fTnF2RFVYNVhBOHVpM1ptNVVGc1Fvb2U1OTIzV2xFSlQ3aWV5MWx4ME5xSnBWSmFhVXNfOW1aaG9OMUx1Y3FrWVF3Y3hDZTdRNzZoOHdFdVE3SXps?oc=5
+- 【キャンペーン開始】1,000人を成功へ導いた「元ギャル大家」奈湖ともこ、最新刊発売を記念し「不動産投資の実用ツール＆リアル相談会」の豪華特典を3日間限定で提供！ - newscast.jp
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTYWdZTG83aExfM2pyU2U4UkdDZDhvWlp0eFRKc0dlQVJOY2FBNmV0d1BJdVd5ZjhXZldFZkU1T0lQM2tsa3ZjdWNNSXVhUGc?oc=5
 
 - 【漫画】仕事でミスが急増 医師に相談してわかった「努力不足じゃない」まさかの原因とは？ - オトナンサー
   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pdnNIVTQ4Mk5tQWViSjBLX21Idl9ySGFBTWlJWDB4UzMyT2pxcGdGR0ZFZ1hjbHpfUWktUi05QTBiZnI3dklZLWpB?oc=5
 
-- 医薬品のネット定期購入巡る相談急増 21年度比で約6倍、国民生活センターが注意喚起 - ウェルネスデイリーニュース
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfb0dieFBqRDR5U0hPYU9vZ0xiUTRmLXJCUVFnSkVVVWJUc2tySzM4Mm9uTnRaMlpXbm9WUFFnU3Fmd2gwbzJKMHFHbDllLXhQWlgxZ3hn?oc=5
-
-- くらしの情報（2026年3月の無料相談日程） - city.maizuru.kyoto.jp
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFByajdCUTFqNklBTlkwNWV5bzhrTWFPSU9YT1d1TkFlMHpmdFIwVDkxNDRWdF82Ylo0ZGZaQXZKTGp2cDJJV0hkSFB0R3hvZWlVN3dMYW52bnk2enVrdzBES010eHZSWjVG?oc=5
-
-- 非正規公務員のためのホットライン - 全国労働組合総連合（全労連）
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIb0NvZlhNU0pjaHNNRkMySnBNUHZ0My1MQ0p0amxzX3RsUXRTOTNRLWM5dEUxNnBuRlY4MEx6T0pueEJ5c2djekw3UTJRR181RjNEag?oc=5
+- 沖縄本島の中学校、ディープフェイク画像が出回る 学校・保護者が警察に相談 - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yZndrc2MzcGFEaFRXZF9DTjU4a2FpeGJ2dVZNX2N5b3BUSjVwLVp6UkJkMW1FZGJ1a1VEOTRCRFN2OEprOW9lMm9wanhTdzdWX0tEdG1ZMXlnX2JSTFE?oc=5
 
 - 空き家・空き地の相談窓口 - city.sanjo.niigata.jp
   https://news.google.com/rss/articles/CBMingFBVV95cUxQTUdJLUNNbjMtNi1iZlp6cWZxNVpoeHBfS2dMa3laMHlqMWxOc1htYWFqTzQ5dDIzbHgwclJFbHhqUnZXQW9mOFloNnJHVDQzak5TNUg3QVFfQ0tCUjdxNVlsUzNXNFZoNUlTMHVfU0tIdDc0Y21WMHFiUFVpSzRNTW9leXlpUjhOamN3UW5YTmxfWG54b3l5X1hveFVLdw?oc=5
 
-- 2025下半期【ヘアケア大賞】広がり、うねり、頭皮の乾燥、かゆみ・フケ…悩み多き大人の髪に｜LEEベストコスメ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9seGNHWlBsVHZDWF9RUjg3UUpQeDZTUEJIQWpOdW9MMEx0YTRBb1FGZHRrUmpIem0yTUtwS3Jad25TLXN4Vk1uMHVieGFPVTIzOXppQnBpelFuRk44U2hCb0s2amlsMTM2YnUtc1B5emI0aWRrOVE2N3hZMGRBMjg?oc=5
+- くらしの情報（2026年3月の無料相談日程） - city.maizuru.kyoto.jp
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFByajdCUTFqNklBTlkwNWV5bzhrTWFPSU9YT1d1TkFlMHpmdFIwVDkxNDRWdF82Ylo0ZGZaQXZKTGp2cDJJV0hkSFB0R3hvZWlVN3dMYW52bnk2enVrdzBES010eHZSWjVG?oc=5
 
-- 「動画を作る前に、一緒に悩みたかった」 RICEメディアが立ち上げた伴走型サステナPR支援「サステナバディ」先行提供開始 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9XSzhxdi1nN29la1pRYWE4R1hMNkx2a202d3VNa3ZaUXlkN0RmOFdFRG9fbG0zSXVkYUZ1YUFYNXQ5dUU5MWJMWGVSUVVMRHJxUDR4clRIN3o4bWYtRTQtVkVCNUlFMkctcmc?oc=5
+- 認知症の母が暮らす実家が停電！困った息子が暗闇の中で母と笑い合った夕食時「新たに購入を決心したアイテム」 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5vek5BbDhMQUJ4YnkxM0w5Vnpybl9qRHA5c3dxYmxDTWxueTRUYmVLZVZGQ0pmdWdMeFRlNHlCSW1XZmI4MUp5OG0tbEI2UWtuWm1TaWNBTmcwVlBUckhkZ2RrUWc4VVFmTUxwRlVhbFQ3d3RqeXpMRHRPREYtWlE?oc=5
 
