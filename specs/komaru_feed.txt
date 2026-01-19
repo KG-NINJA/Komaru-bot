@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-01-19 08:21) ===
+=== こまる相談 ニュースフィード (2026-01-19 09:25) ===
+
+- 一般相談 - city.fujieda.shizuoka.jp
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXpoa19NN1VFNldXaE1SQ0wtT01DMGxiajRCcGVWc0c3dS1VbzdfdUlEMDBfYkRiclVEOUJzejFweGx0UmhJTmV2OUlOQ0J2VWFFY05wdEFieG9CeVVoMHpPRzFsVXZkeE1UTHI3dXhWeXpYNW8zVGNIRXRoS0Jwa29Fc3d5LXdjbGhfS01wX1pRaWJ2WEZOTE5VUQ?oc=5
 
 - 山形県 教員 IJU"移住"ターン個別相談会を東京（駒込学生会館）で開催 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZHo4ejNRczZUUlhGeVRSbXBJVTRvRnFGa0xHSnpjazVFaEtFMzlKOEZ2bVZRQ05kNEtEaERaYklPckVWQldsQ2dKR1dZVDd3RktLXzBmRVlaY05TYnp5akRFX0o5QUtqanc?oc=5
@@ -12,20 +15,26 @@
 - 「ハッピー・ローソンタウン構想が始動 愛媛で『よろず相談所』 大阪では新店舗を今夏開店」ローソン社長・竹増貞信 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBnV213SkUwa19fbWhTV3FpX2d5QWplQnBGOWdtTTY1Z0xBWmRCWEdmZnF2bjFPZU1aVVJlNDliNU14eFFWSEk4WE1TMnNxQmU1MFdKcGtBbkx3a2FhTWJJT0htZWlWMXdKcFZjV1FBR3JSVWE1YWZvajBKMDZTYUk?oc=5
 
-- 「110」と「♯9110」使い分けを 急がない相談はどっち？ 豊見城署がイベント - 琉球新報デジタル
+- 「110」と「＃9110」使い分けを 急がない相談はどっち？ 豊見城署がイベント - 琉球新報デジタル
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yOFVmLVZudDBBSHQ2OTV1Q3lmZzJZRktxVVphdC05UmNOOFU4MzZEcHJqblk3clJlUXZhMzQ4VkVGQjRvZElXTGlTNnBtbU5Xc3JWWGYtbG9oSHRpYXc?oc=5
 
 - 青森市の除排雪相談大幅減、どうして？｜行政・政治｜青森ニュース｜Web東奥 - 東奥日報社
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iUDhBcTRwT3Q5YzhaelpWSk5pNzhXY0c0d1FMWlgxclFuYjdWa3Z5ZWRiamxLNmFWQnBIbGdrdDh1M2ZNR1BEMXZSRWlZa1BkU1plLTFVT2w?oc=5
 
-- 高齢者の口腔トラブル改善へ、神奈川県と県歯科医師会が無料相談スタート - カナロコ
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBfcHlmcC0zR0QxeFhTUlE0QmllN2pjcllobzNmQ2xkdGFfZ0dJWGhrc0pyZy1kWE5vRmNFTjVka2JuU1JiUHlsZlJlWjFLRXpzc0VBYzdFbUFYT2lJTzNfRFQ1OVoyelY1RElaWA?oc=5
-
 - 消費者生活相談について - city.kai.yamanashi.jp
   https://news.google.com/rss/articles/CBMidkFVX3lxTE9IRnJjUlZ5U1JrSU1rMjdta0xwdjM3dWNMWFZMcnI5MEx5T0lmbEtyZTMyX0o2b2JPZlROZ3FKQXNiQTQyTHM3U0s4Nk10dUZWWHdFWnQ2SzVDVXRLSG5OclpsQ3NlR1c1ZXV6NGhQZmhFUC1kR3c?oc=5
 
+- 高齢者の口腔トラブル改善へ、神奈川県と県歯科医師会が無料相談スタート - カナロコ
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBfcHlmcC0zR0QxeFhTUlE0QmllN2pjcllobzNmQ2xkdGFfZ0dJWGhrc0pyZy1kWE5vRmNFTjVka2JuU1JiUHlsZlJlWjFLRXpzc0VBYzdFbUFYT2lJTzNfRFQ1OVoyelY1RElaWA?oc=5
+
 - まなクロ、24時間無料でLINE相談できるAI相談窓口「ほがらか相談室」公開 - ICT教育ニュース
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sNG9NY1EyblBYTmR6Sl82Vl9LdU9ITTBOV21kU0k5Ym52UkhYWmFUM3dmMTJoT2FPaWEzR2lBbXpwNS1nU0tDMFFIOU4tNEZEVGMw?oc=5
+
+- 最大震度5強の地震から2週間 鳥取県内“最多”の住宅被害…南部町に相談窓口開設 200件超の相談 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IM1liU2E2amZXUzM2cnQ3dVRRVWcyN3NpZ3ZKbGVBRkV4eDZDdENTQU5aMmE4WDNjTldzem1mNmdjSnl2YUVSaVF6OFk?oc=5
+
+- 若者の悩みの深刻化に対応し毎月約2万通の相談データを活用した若者特化型AIを社会実装へ (2026年1月19日) - Excite エキサイト
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE9WMXFWUVVIVkZ3dHRWUjkxQndVRXVnSFJiQXZHaTZlRXhNMUZRdTVUWDNsbXVKVERrX2pjZ191ME9wdFllbkZfVjluOFVHaVN5VF9zNEs0cFdDNkN5WU9mbklORlRUTktGTXlwaE1OVENnRE43?oc=5
 
 - 鳥取 南部町 地震被害の住宅修繕へ 相談窓口を再び開設 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNR1JXdkNDeVBLa29NenFsQWlnbFE0bnBjTzljcVBDSkZYcUtjS25TUDVwYm1yTFZicUd6SGd5Z1Q0MnZxMWdBYjhiekV3LV85QThWdW9sQW4?oc=5
@@ -33,14 +42,8 @@
 - 前知事が“セクハラ辞職” 福井県庁で幹部ハラスメント講習会 副知事など特別職含む38人が参加 相談受けた時の対応も学ぶ - 福井テレビ
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fM0E2Qm9udUFLVEsxcnplbHZGZGFCWWFmQjNEOVA3cEtPVU12RUlzdVlBVTBrdjdadFlMVW5Nc0dWblJ0WG9vTGloWW1qVzZSVEdlRkJYUkllTjJUMlZCMFFuMnZJZFBv?oc=5
 
-- 1月18日 夜の広報無線 - vill.hakuba.lg.jp
-  https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm1QYXpDR3hEc3lWY0lsUXFveGRRSXJHSEd1czRzVlBIVEM3ZlNORU1MekxGcGwyeUtvdWk2c1dwRmNteVBCZl93N0FPWFJlMmhncEpwcjBMNFFvZ3FkVWFPRXJ5OENlSnpMelo0eVYzQVU0clNJRWZCTkhFc09iNmFmQ18xcHI2bFNPdzA2ZWNmVXBwSWNKX0lhZi1vN1d5eGlQZFNrWQ?oc=5
-
-- 本は悩みを癒やす「処方せん」 芽室図書館がブックセラピーイベント - 十勝毎日新聞
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nYUpQYV9oWmlsODdfYTBTN0pNNEFCLTROOXM1YlNfV0hyZE56TV9yRllyUnBfRERIa3c0OUpiaHBTSV9WRlJ1WkVIYkRseU9YMjBjQkFPcGFyQzU4OF9BTE5qWW4?oc=5
-
-- 【悩み相談】「ルッキズムが激しい友達」がしんどい どう付き合えばいい？ - 高校生新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fbzlCazFVRDNHeVVUVzVCR2xweXd4M216N0RNaTRWeTdoX0NPTEwzcU1uYjhZTGZsTy1jTXlaNmpKUW1EMlNGNVdQZmV6M0QxaDVjWlVia1UzQjdW?oc=5
+- 阿南市、県内初「手話リンク」導入 障害者の相談をテレビ電話で対応 ４月から - 徳島新聞デジタル
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Ym1SWFQ3TFlZblZKbF8yS3kyM3NJWlkyUHVUbmpNeUdwUUhSalBQaFp3QllzdEU3cVRiRExZbEZhU1ZrTm5qbXJsU2tkd2ZYQ3pJOHBn?oc=5
 
 - 維新・吉村氏、ダブル選「相談不十分」と所属議員に陳謝…「僕一人ではポスター貼ることもできない」と協力求める - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5nV0NpbHhfRDc0RXJKVi1oZDBHeURuVmFCRG9wTURmcFdSMmNqSWI3VUkzUGdJcHliZFBFTXhkU1V0TkVPR0pQUjIzNGgxb0MwdmlUSk1fVm91bGdVOUF3VFJMS2ViWGItYmN5SVhoU29jWkNpSVdGQWZVaHoxSzA?oc=5
@@ -56,7 +59,4 @@
 
 - うちには観光コンテンツがないから…そんな地域の悩みを解決する全力の“あそび”イベントとは（NewsPicks ＋ｄ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBXc0ZQb2FIb29KYjdUcFlqU29tYUVzcHNrRlVmdmhWdmZPNHBlb2ZOZURTRUdleXFrUEJzWU91cEVqelFEMkNJQlZVTUZmUXk5MU5XNjdpWVRJWkZlamJXUFBqdEtKWGJhN01iaXNXdXVSUWtVdEFWWF9uNWN5YzQ?oc=5
-
-- 叱ったら即「仕事辞めます！」注意すると逆ギレ…？困った女性社員の暴走劇に「いるいる」と共感の嵐【作者に聞く】 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9qNy12MlUzcEFIWDNqN09nOW1aSXVFX29BZ1lXbWNQaXRXR0RZLWZ4YVk2dXdzd0J3d3YyTEMzOExuV2JYOGgyRkNzR0tUcjRKZmEwWWhIak5OdjFFWXZiQkhJMUJxZ3ZYTTVtMzlMTFFSNXJZajJlZzVDc2RxVGs?oc=5
 
