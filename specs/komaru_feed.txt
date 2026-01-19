@@ -1,10 +1,7 @@
-=== こまる相談 ニュースフィード (2026-01-19 09:25) ===
+=== こまる相談 ニュースフィード (2026-01-19 10:19) ===
 
-- 一般相談 - city.fujieda.shizuoka.jp
-  https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXpoa19NN1VFNldXaE1SQ0wtT01DMGxiajRCcGVWc0c3dS1VbzdfdUlEMDBfYkRiclVEOUJzejFweGx0UmhJTmV2OUlOQ0J2VWFFY05wdEFieG9CeVVoMHpPRzFsVXZkeE1UTHI3dXhWeXpYNW8zVGNIRXRoS0Jwa29Fc3d5LXdjbGhfS01wX1pRaWJ2WEZOTE5VUQ?oc=5
-
-- 山形県 教員 IJU"移住"ターン個別相談会を東京（駒込学生会館）で開催 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZHo4ejNRczZUUlhGeVRSbXBJVTRvRnFGa0xHSnpjazVFaEtFMzlKOEZ2bVZRQ05kNEtEaERaYklPckVWQldsQ2dKR1dZVDd3RktLXzBmRVlaY05TYnp5akRFX0o5QUtqanc?oc=5
+- 【地方創生プロジェクト第五弾】日本M&Aセンター、「やまぐち経営相談窓口」を開設 事業承継と企業成長を支援 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5KMkl5LUlOQk14V284VFI0UmlMdlh3WERfcFdfcUZmV2hkM1VjMzdiTGpFeEk1VUdtN2tSZFBxY2RqbHJJNTZiR2l6dUxYSHRaUFYzcld3TmxsVllSRk4tMkp2TjZ6c1dsVkE?oc=5
 
 - ≪2025年度外大生生活実態調査≫ Vol.5大学生活（トラブル・悩みごと）／不安や悩みごとのトップは「将来や就職のこと」 - kansaigaidai.ac.jp
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE55eXoyM1NIYUY0OVItUFFUZjVyd00tT3dxb0ZPWnVCcXJYOWJUR2poYWJCYm1UOGRselZLVFhmcGtZTzJkMWJsRUZtTjFNbjZjUlBxTG1MWkJtcHlyckZ1TQ?oc=5
@@ -18,6 +15,9 @@
 - 「110」と「＃9110」使い分けを 急がない相談はどっち？ 豊見城署がイベント - 琉球新報デジタル
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yOFVmLVZudDBBSHQ2OTV1Q3lmZzJZRktxVVphdC05UmNOOFU4MzZEcHJqblk3clJlUXZhMzQ4VkVGQjRvZElXTGlTNnBtbU5Xc3JWWGYtbG9oSHRpYXc?oc=5
 
+- 岡山市 障がい者賃貸住宅入居相談｜宮本裕文 - mbp-japan.com
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE52T0ppVnpCcFlBSm1vc1VfaHc4OWNuYVFfRFpTdGUyT3Bxby1RZUMtc1BmVndDaFkzczBOVnJjNjF2VDgyVlRKMURUc08tWnp4a3c5cXhmTzRCZnAtVXY4MlY3QnM?oc=5
+
 - 青森市の除排雪相談大幅減、どうして？｜行政・政治｜青森ニュース｜Web東奥 - 東奥日報社
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iUDhBcTRwT3Q5YzhaelpWSk5pNzhXY0c0d1FMWlgxclFuYjdWa3Z5ZWRiamxLNmFWQnBIbGdrdDh1M2ZNR1BEMXZSRWlZa1BkU1plLTFVT2w?oc=5
 
@@ -30,26 +30,26 @@
 - まなクロ、24時間無料でLINE相談できるAI相談窓口「ほがらか相談室」公開 - ICT教育ニュース
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sNG9NY1EyblBYTmR6Sl82Vl9LdU9ITTBOV21kU0k5Ym52UkhYWmFUM3dmMTJoT2FPaWEzR2lBbXpwNS1nU0tDMFFIOU4tNEZEVGMw?oc=5
 
-- 最大震度5強の地震から2週間 鳥取県内“最多”の住宅被害…南部町に相談窓口開設 200件超の相談 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IM1liU2E2amZXUzM2cnQ3dVRRVWcyN3NpZ3ZKbGVBRkV4eDZDdENTQU5aMmE4WDNjTldzem1mNmdjSnl2YUVSaVF6OFk?oc=5
-
 - 若者の悩みの深刻化に対応し毎月約2万通の相談データを活用した若者特化型AIを社会実装へ (2026年1月19日) - Excite エキサイト
   https://news.google.com/rss/articles/CBMidEFVX3lxTE9WMXFWUVVIVkZ3dHRWUjkxQndVRXVnSFJiQXZHaTZlRXhNMUZRdTVUWDNsbXVKVERrX2pjZ191ME9wdFllbkZfVjluOFVHaVN5VF9zNEs0cFdDNkN5WU9mbklORlRUTktGTXlwaE1OVENnRE43?oc=5
+
+- 最大震度5強の地震から2週間 鳥取県内“最多”の住宅被害…南部町に相談窓口開設 200件超の相談 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IM1liU2E2amZXUzM2cnQ3dVRRVWcyN3NpZ3ZKbGVBRkV4eDZDdENTQU5aMmE4WDNjTldzem1mNmdjSnl2YUVSaVF6OFk?oc=5
 
 - 鳥取 南部町 地震被害の住宅修繕へ 相談窓口を再び開設 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNR1JXdkNDeVBLa29NenFsQWlnbFE0bnBjTzljcVBDSkZYcUtjS25TUDVwYm1yTFZicUd6SGd5Z1Q0MnZxMWdBYjhiekV3LV85QThWdW9sQW4?oc=5
 
-- 前知事が“セクハラ辞職” 福井県庁で幹部ハラスメント講習会 副知事など特別職含む38人が参加 相談受けた時の対応も学ぶ - 福井テレビ
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fM0E2Qm9udUFLVEsxcnplbHZGZGFCWWFmQjNEOVA3cEtPVU12RUlzdVlBVTBrdjdadFlMVW5Nc0dWblJ0WG9vTGloWW1qVzZSVEdlRkJYUkllTjJUMlZCMFFuMnZJZFBv?oc=5
-
 - 阿南市、県内初「手話リンク」導入 障害者の相談をテレビ電話で対応 ４月から - 徳島新聞デジタル
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Ym1SWFQ3TFlZblZKbF8yS3kyM3NJWlkyUHVUbmpNeUdwUUhSalBQaFp3QllzdEU3cVRiRExZbEZhU1ZrTm5qbXJsU2tkd2ZYQ3pJOHBn?oc=5
 
+- 前知事が“セクハラ辞職” 福井県庁で幹部ハラスメント講習会 副知事など特別職含む38人が参加 相談受けた時の対応も学ぶ - 福井テレビ
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fM0E2Qm9udUFLVEsxcnplbHZGZGFCWWFmQjNEOVA3cEtPVU12RUlzdVlBVTBrdjdadFlMVW5Nc0dWblJ0WG9vTGloWW1qVzZSVEdlRkJYUkllTjJUMlZCMFFuMnZJZFBv?oc=5
+
+- 山形県 教員 IJU"移住"ターン個別相談会を東京（駒込学生会館）で開催 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZHo4ejNRczZUUlhGeVRSbXBJVTRvRnFGa0xHSnpjazVFaEtFMzlKOEZ2bVZRQ05kNEtEaERaYklPckVWQldsQ2dKR1dZVDd3RktLXzBmRVlaY05TYnp5akRFX0o5QUtqanc?oc=5
+
 - 維新・吉村氏、ダブル選「相談不十分」と所属議員に陳謝…「僕一人ではポスター貼ることもできない」と協力求める - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5nV0NpbHhfRDc0RXJKVi1oZDBHeURuVmFCRG9wTURmcFdSMmNqSWI3VUkzUGdJcHliZFBFTXhkU1V0TkVPR0pQUjIzNGgxb0MwdmlUSk1fVm91bGdVOUF3VFJMS2ViWGItYmN5SVhoU29jWkNpSVdGQWZVaHoxSzA?oc=5
-
-- 【2026年1月調査】肌悩みランキング：主要悩みの47.7%が「5年以上」（n=1000） - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFB1LVJJcFE2aXlQU2VKa0FfSUh4T2RxMi1OTm1pYXlUbDdJV0RVMVVKYl9PdzBITHhWZ1BDZ0RpM2NtSXA3X2dVSE1GdGE2bm1wZGdacWVEZ09NNlZmckNmcW9Lc2F4NGU1WkE?oc=5
 
 - 富山大附属病院 摂食障害の相談受け付ける専用の電話窓口設置 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwZ09DT0wydWxtXzI1ZGZkR2V3bTJUUVpyMW9jNXd3SkVVaFh4WndaREdSaWNYMmh2MVhDV1FvLVEzUmpIOVYtSnNXOXBCVnptZ3hKc0ZWVjg?oc=5
@@ -57,6 +57,6 @@
 - 「生活困窮・DV被害…」傷ついた相談者を支援する難しさ感じ50代女性が深川に「開かれた民間シェルター」作った訳 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1VVDFKTm5Wejd0ZFpabjVyTldDM0JPX0dQcV9kWXVGMGFEQ29jNkRIald6dkVUczlVOThkTkEtYVp4UENMRzU0T1FyVHF2Z0MyUlJaSHozeGxZcUF5dl9nTTNyVm1jdEhTZWotYmtLM21kc3NPOTNrX0gxV3JXSzA?oc=5
 
-- うちには観光コンテンツがないから…そんな地域の悩みを解決する全力の“あそび”イベントとは（NewsPicks ＋ｄ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBXc0ZQb2FIb29KYjdUcFlqU29tYUVzcHNrRlVmdmhWdmZPNHBlb2ZOZURTRUdleXFrUEJzWU91cEVqelFEMkNJQlZVTUZmUXk5MU5XNjdpWVRJWkZlamJXUFBqdEtKWGJhN01iaXNXdXVSUWtVdEFWWF9uNWN5YzQ?oc=5
+- 【2026年1月調査】肌悩みランキング：主要悩みの47.7%が「5年以上」（n=1000） - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFB1LVJJcFE2aXlQU2VKa0FfSUh4T2RxMi1OTm1pYXlUbDdJV0RVMVVKYl9PdzBITHhWZ1BDZ0RpM2NtSXA3X2dVSE1GdGE2bm1wZGdacWVEZ09NNlZmckNmcW9Lc2F4NGU1WkE?oc=5
 
