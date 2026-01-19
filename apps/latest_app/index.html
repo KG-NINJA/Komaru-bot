@@ -3,39 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>悩み解消アプリ</title>
+    <title>肌悩み解決アプリ</title>
     <style>
-        body {
-            background-color: #007BFF;
-            color: white;
-            font-family: Arial, sans-serif;
-            padding: 20px;
-            text-align: center;
-        }
-        button {
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            background-color: #0056b3;
-            border: none;
-            border-radius: 5px;
-        }
-        button:hover {
-            background-color: #003d7a;
-        }
-        footer {
-            margin-top: 20px;
-            font-size: 12px;
-        }
+        body { font-family: Arial, sans-serif; background-color: #e0f7fa; color: #000; padding: 20px; }
+        h1 { color: #007BFF; }
+        footer { font-size: 0.8em; margin-top: 20px; }
     </style>
 </head>
 <body>
-    <h1>悩み解消アプリ</h1>
-    <p>婚約指輪のブランドについてお悩みのあなたへ。</p>
-    <p>まず、その感情は理解できます。次に、友達や家族に話してみましょう。</p>
-    <p>あなたの気持ちを共有することが大切です。</p>
-    <p>何か質問があれば、こちらからお聞きください。</p>
-    <button onclick="alert('相談内容をお聞きします！');">相談する</button>
+    <h1>あなたの肌の悩み、解決します！</h1>
+    <p>
+        このアプリでは、あなたの肌の気になる点をサポートするための製品をご紹介します。<br>
+        ぜひ、使用してみてください。
+    </p>
+    <button id="solutionButton">製品を表示</button>
+    <div id="solution" style="display:none; padding: 15px; border: 1px solid #007BFF; background-color: #f1f1f1;">
+        <h2>おすすめ製品：</h2>
+        <p>ジョンマスターオーガニックのマルチユース化粧液！肌悩みを多角的にケアします。</p>
+    </div>
+    <script>
+        document.getElementById(solutionButton).onclick = function() {
+            var solutionDiv = document.getElementById(solution);
+            if (solutionDiv.style.display === none) {
+                solutionDiv.style.display = block;
+            } else {
+                solutionDiv.style.display = none;
+            }
+        };
+    </script>
     <footer>#KGNINJA AutoApp</footer>
 </body>
 </html>
