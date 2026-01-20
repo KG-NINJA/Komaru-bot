@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-20 04:37) ===
+=== こまる相談 ニュースフィード (2026-01-20 05:22) ===
 
 - 一般相談 - city.fujieda.shizuoka.jp
   https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXpoa19NN1VFNldXaE1SQ0wtT01DMGxiajRCcGVWc0c3dS1VbzdfdUlEMDBfYkRiclVEOUJzejFweGx0UmhJTmV2OUlOQ0J2VWFFY05wdEFieG9CeVVoMHpPRzFsVXZkeE1UTHI3dXhWeXpYNW8zVGNIRXRoS0Jwa29Fc3d5LXdjbGhfS01wX1pRaWJ2WEZOTE5VUQ?oc=5
@@ -6,17 +6,14 @@
 - 法律相談(弁護士) - city.fukaya.saitama.jp
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNenpZRVVsbVdqUnJSdUtOMUktSWd0Wi03aVZscHFjc2o4UFRfMWEyUXBKZHZ5eEJvaDVzc1V0V1htQlp4aXEzbDA5MjViekRQOWhYTHg3QU9vY19MSjZXcFdkM01fU3gzdlc3Sy1vaUdzQWtrNEVCOU1WYlJsVkZzTGJqdGJGMXc?oc=5
 
-- 生活保護の相談を電話で25日寄せて 無料で司法書士対応 - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE16emQtYXVrMDQxMnltR3FWNDB2dTZzRDZyM1I3TFZHMXJ6Tl9XbW1kbEZTTEF0M1RtY2ZkTGt3R29OeVJCbXA5T0R2R1g1cjhjcW00?oc=5
-
 - 「住まいのお悩み」に関する情報を募集します - 情報提供窓口 情報・意見・体験募集中 - クローズアップ現代 - NHK
   https://news.google.com/rss/articles/CBMid0FVX3lxTE9xandURzFxNTdCU3dSQkVIMC1aVEo3bV85Q0I0ZUI3UkI4MEh1Q3pva01URzk1T2k4LW9ldlhCZXAwbVFfcmFBbTdhV3JKdDY1RVlmdnhZVXA2TEdlMVNNOWxCSGZocFRiUFhyYkRpVko3VE9vU1Bv?oc=5
 
-- 現役ITフリーランスに直接相談できる「全国ITフリーランスお仕事相談会」 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9XZGZqTUl3Mnlkb24xZENVaW5zSVBFV1FFQU1NdFBRRzBXdXFzQjU4eFNpUE9UaUhZMnRLU0Z2RHJfRmN1aVpwYzF0azZrbWlMa1dBVXpXaGJiczdpbTl2clR3Y1EyUTZnSWc?oc=5
-
 - クリニックにおけるAIの活用［クリニック経営戦略「お悩み相談室」（第21回）］ - 日本医事新報社
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rUWI5LW5USnFuTGdaQ01IWWQ3d2xnTVRwX2RUOHEtM0J5aGhySjlGbzBQRjR6ZjhGM21uTjBON1p1ZktMTHhEblVqMUEtUHljTXgwZ252cnB5OE05U0ZWOA?oc=5
+
+- 現役ITフリーランスに直接相談できる「全国ITフリーランスお仕事相談会」 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9XZGZqTUl3Mnlkb24xZENVaW5zSVBFV1FFQU1NdFBRRzBXdXFzQjU4eFNpUE9UaUhZMnRLU0Z2RHJfRmN1aVpwYzF0azZrbWlMa1dBVXpXaGJiczdpbTl2clR3Y1EyUTZnSWc?oc=5
 
 - 2024年度 家族などによる高齢者虐待相談1917件／埼玉県（テレ玉） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9iSmFNWnlkZ25EMVJVUnJoQ1A5aU5idnRFMnZlaU5TOVB6LThZM1ZCa0JjYS1mYzZJcmlZY0x6ajlFZ29tVlhnd2tRZGpOcHRHMW1zRW5sX01obDdSY1VEbHRwcUJaYkRfdVFoOU9haVg3ZkdJWVhyZTJNTXVBWHM?oc=5
@@ -42,6 +39,9 @@
 - 医療の「分かりにくさ」を少しでも減らすために オンラインのセカンドオピニオンの使い方と医師の探し方を公開 - newscast.jp
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tSVNqZEN2QjdwbTFSWDhVNHgtZ01OdVVQamxPOEx4YWNxN1RFSnhzWmFITHluSU03TWhvdEtoVkFieUtVeWZMckwwNFJ0TUU?oc=5
 
+- 1 / 30 開催セミナー「触って試して専門家に相談できる！ 脆弱性診断ツール比較・体験セミナー」 - ScanNetSecurity
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5wU3RMR00zbXYxUVNfTTQ1UDZ5eVNzQmdzOVEyUnlmVVh6bkExYWZvU0xwSEFoNWZ1aWdMRUtGQjQ4M2Jlc1VoMHVTU2JHODNyZ2RVRklkN2Q3SXdwS2kyNEJ1ZnN4NGdnYktpNA?oc=5
+
 - Kakedas、キャリアの悩みや違和感を相談できる「Kakedas AIキャリコン」β版提供開始 - ICT教育ニュース
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4SnBkQ3lPNmVjQWZnTS1lU1lIZnpkSkRVc1R2OHZPdzRiYmdMWmxKdHJhVF9TdWdTMEJfOC1TQVcyWF83V2tFakdoR3dkNVJNWmc?oc=5
 
@@ -57,6 +57,6 @@
 - たくろう、今夜復活の「行列のできる法律相談所」でミャクミャクとトリオ漫才（お笑いナタリー） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE05MjlYS3V4VVJZRS1IUjVNR2kxUWdTWk91SXRaOGtDWmRpcnFKVTg1OFZRSVNGNkM1a0s0c1FaUDFWYU9CYWdjMzd3U0dPWl9sdnJ4TldzbWwxS0tHVFR3NnluOEFNZ2JnODFqVVlVWFlYdjBiU2VfbXZYWWVDTDg?oc=5
 
-- 就活Q＆Aが5,000本突破｜「PORTキャリア」が専門家による1万件超えの回答で就活のリアルな悩みを解決 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1lOHRTcm9KZkFsNEVxZjhmaGg2UDNnaVZyXzNrM0dJeW5LY3FPNGZnTGpLM0p3Z1YzTXdRZ3BFdDdUUXlZd0dWcEpocHNVamt1V1JELU8zdVF5XzNnanpNQlM3Mzk5R2ZfWXc?oc=5
+- 農地の売買・賃貸円滑に JAあづみの市農業委が相談会 長野県安曇野市（市民タイムスWEB） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1QSVcxU3pRLU1uWWhkMVpkZFBzbzhCZkYwQUFtTzRpbjhIanZ2NnVrM3Y4bF9jUDFQRmVrQjc4WS1fMXIyRUpUZlI3c2FfSG44RjlPaHdqUzlLU0dkaEVyQVhWaUlocElCLUg0aW1vQ1dERE5LRUVEU2dRcVVLUzQ?oc=5
 
