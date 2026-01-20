@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-20 03:26) ===
+=== こまる相談 ニュースフィード (2026-01-20 04:37) ===
 
 - 一般相談 - city.fujieda.shizuoka.jp
   https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXpoa19NN1VFNldXaE1SQ0wtT01DMGxiajRCcGVWc0c3dS1VbzdfdUlEMDBfYkRiclVEOUJzejFweGx0UmhJTmV2OUlOQ0J2VWFFY05wdEFieG9CeVVoMHpPRzFsVXZkeE1UTHI3dXhWeXpYNW8zVGNIRXRoS0Jwa29Fc3d5LXdjbGhfS01wX1pRaWJ2WEZOTE5VUQ?oc=5
@@ -15,11 +15,20 @@
 - 現役ITフリーランスに直接相談できる「全国ITフリーランスお仕事相談会」 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9XZGZqTUl3Mnlkb24xZENVaW5zSVBFV1FFQU1NdFBRRzBXdXFzQjU4eFNpUE9UaUhZMnRLU0Z2RHJfRmN1aVpwYzF0azZrbWlMa1dBVXpXaGJiczdpbTl2clR3Y1EyUTZnSWc?oc=5
 
-- 6割が感じている「睡眠」の不満 最多の悩みは「中途覚醒」 - Forbes JAPAN
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zelBFYXR3ajlISXFscm8yQkMySlNJdVpVUDhyaHNNcUxPNzIybENTOV8tblhDMmVpQzBsTjFYdmJRT25uSXY1cVBGZ0xvU21XT2M5bXRRRmE?oc=5
+- クリニックにおけるAIの活用［クリニック経営戦略「お悩み相談室」（第21回）］ - 日本医事新報社
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rUWI5LW5USnFuTGdaQ01IWWQ3d2xnTVRwX2RUOHEtM0J5aGhySjlGbzBQRjR6ZjhGM21uTjBON1p1ZktMTHhEblVqMUEtUHljTXgwZ252cnB5OE05U0ZWOA?oc=5
+
+- 2024年度 家族などによる高齢者虐待相談1917件／埼玉県（テレ玉） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9iSmFNWnlkZ25EMVJVUnJoQ1A5aU5idnRFMnZlaU5TOVB6LThZM1ZCa0JjYS1mYzZJcmlZY0x6ajlFZ29tVlhnd2tRZGpOcHRHMW1zRW5sX01obDdSY1VEbHRwcUJaYkRfdVFoOU9haVg3ZkdJWVhyZTJNTXVBWHM?oc=5
 
 - ピアサポーター募集！第4回総括講義 - u-tokyo.ac.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBienZCWS1xc1VWXzQxcUZvcDlVN0d2ZFBBSWRUSkRnTEYtSkxsejVCNThmMjlRS3JnN0NkUFBCSldnN3ZxNUpydEVONHBZRmN2RzJaR3dNREFDYlQ5ZnZvaHcyX3VGVTEteXc?oc=5
+
+- 6割が感じている「睡眠」の不満 最多の悩みは「中途覚醒」 - Forbes JAPAN
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zelBFYXR3ajlISXFscm8yQkMySlNJdVpVUDhyaHNNcUxPNzIybENTOV8tblhDMmVpQzBsTjFYdmJRT25uSXY1cVBGZ0xvU21XT2M5bXRRRmE?oc=5
+
+- 10月相談2304件、前月比1割減 健康食品は4位、高齢者トラブルは依然高水準 - ウェルネスデイリーニュース
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CVGdJb2JQZktCUlQ0M2duRkxLbEdJa2xmWDVUWW5MQ19CVkQwb1EtdHkwbzcwYlkzbktqbU9FZmJKdWVHdnRZci1uZlRURjZ1VWdOQkJ3?oc=5
 
 - 1月20日 朝の広報無線 - vill.hakuba.lg.jp
   https://news.google.com/rss/articles/CBMipwFBVV95cUxQNmFhbHZPdmpSWVFPYjdmYlJHTG9DTmpuRDdXVnpyei1UUzlBVkZtR0JQQXZyaEVVNzNhNkhvZ0h3TlpaS3l4RXNuTmRhOXd0VzFrVmNpLXRYS3hSaXg0QWd4TlRPVkg1aUwzZnJ5X2w1R3RhRl9HX2hGdGJBY3RTckVmdkVLN1JqMllVOU9Cd1FQNzdHaG9GSWtFNGRzVnRxMV9rSmdPSQ?oc=5
@@ -30,33 +39,24 @@
 - 【薬学生 キャリア相談Q＆A】説明会参加だけで内々定って？ キャリア・ポジション代表取締役 西鶴智香 - 神戸どうぶつ王国
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Vd0dEV0tMMFJDZjFEOFp0a0lORHZwanVKM2oybU4zUTg4ZEVMS1EtalBobmdSV3ZvMHh2V3RqUW82eFNzYWllUUZwTWpRRUVOc0pn?oc=5
 
-- セクハラ被害を相談しても上司らが真剣に向き合っていなかったと指摘…知事辞職の福井県庁で幹部向けハラスメント防止研修、組織風土変える必要（読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE8xQVBnRUgyUEJJZmVGeGU5dE14SXhjM0hzLXZocGZCcU11MDlLMVc2QUZ5QjlvbWc1Q200ZzV1dW9TWFpqMzc4YldjR2FIZno1T19fNWlXU0tHeDZELWs3U1c0T3RqVDNsWkdicWxzY3M2NGxkam93Qld1aVFpRVU?oc=5
-
-- “若者が性の悩みをもっと気軽に話せる場所をつくりたい 若者の悩み相談所「ユースクリニック」を開設した産婦人科医 - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rdmJsM0ZLeW1MdXRpeTU4VEFya3M5dDZxZXFJZEg5UDRTSndWVXdJTC1ESWpsYlpCOGpMbXkyNkQ3QXlsSEc5bmtmcVk?oc=5
+- 医療の「分かりにくさ」を少しでも減らすために オンラインのセカンドオピニオンの使い方と医師の探し方を公開 - newscast.jp
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tSVNqZEN2QjdwbTFSWDhVNHgtZ01OdVVQamxPOEx4YWNxN1RFSnhzWmFITHluSU03TWhvdEtoVkFieUtVeWZMckwwNFJ0TUU?oc=5
 
 - Kakedas、キャリアの悩みや違和感を相談できる「Kakedas AIキャリコン」β版提供開始 - ICT教育ニュース
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4SnBkQ3lPNmVjQWZnTS1lU1lIZnpkSkRVc1R2OHZPdzRiYmdMWmxKdHJhVF9TdWdTMEJfOC1TQVcyWF83V2tFakdoR3dkNVJNWmc?oc=5
 
-- 『行列のできる法律相談所』、タイトルに“法律”が5年ぶり復帰 中村橋之助&能條愛未が婚約発表後初共演 - オリコンニュース
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRdG1IaE5GTTI5ZzFCUXE5Q3VIYnVPOHB2a2h6SmR0OV9ZTmItSEFjV1FPb1hLNTR3MEZVNzJId1c1V1M5bnFkWnlFYUZPZ29FbU5tSHlR?oc=5
-
 - 【森香澄・カンニング竹山MC】結婚相談所のリアリティ番組で５名の「成婚者」が誕生。＃マリプロ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1BeXZiWW9UeWNCR1ZwVEFYaVdqWW1INmg4WVdkTEFzTzdVbUloZm9EUThZd0FwWWxtLXZScjZHb2N5V2R3VG5XaHo0X2JPMFMwd3MtYzVXZnZmRGRiU0tlMlVGYUdwZ2JuOWc?oc=5
 
-- たくろう、今夜復活の「行列のできる法律相談所」でミャクミャクとトリオ漫才（お笑いナタリー） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE05MjlYS3V4VVJZRS1IUjVNR2kxUWdTWk91SXRaOGtDWmRpcnFKVTg1OFZRSVNGNkM1a0s0c1FaUDFWYU9CYWdjMzd3U0dPWl9sdnJ4TldzbWwxS0tHVFR3NnluOEFNZ2JnODFqVVlVWFlYdjBiU2VfbXZYWWVDTDg?oc=5
+- セクハラ被害を相談しても上司らが真剣に向き合っていなかったと指摘…知事辞職の福井県庁で幹部向けハラスメント防止研修、組織風土変える必要（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE8xQVBnRUgyUEJJZmVGeGU5dE14SXhjM0hzLXZocGZCcU11MDlLMVc2QUZ5QjlvbWc1Q200ZzV1dW9TWFpqMzc4YldjR2FIZno1T19fNWlXU0tHeDZELWs3U1c0T3RqVDNsWkdicWxzY3M2NGxkam93Qld1aVFpRVU?oc=5
 
 - 愛知県教育委員会、生成AI導入で電話相談業務の負荷軽減と効率化を実現 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1nVkdFdGVBRGNqYnhvRm5fM2EwSmVFYkcwQXBYbmVIUWtPTHo1SUpnRkZ4ZmhuSWZ0MkVPT01ackFVdzdoWThSc2RPOGo4bHppcTdmSG1XenFDY1NIdmFCajk1TzZHUTdhN2c?oc=5
 
-- 農地の売買・賃貸円滑に JAあづみの市農業委が相談会 長野県安曇野市（市民タイムスWEB） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1QSVcxU3pRLU1uWWhkMVpkZFBzbzhCZkYwQUFtTzRpbjhIanZ2NnVrM3Y4bF9jUDFQRmVrQjc4WS1fMXIyRUpUZlI3c2FfSG44RjlPaHdqUzlLU0dkaEVyQVhWaUlocElCLUg0aW1vQ1dERE5LRUVEU2dRcVVLUzQ?oc=5
+- たくろう、今夜復活の「行列のできる法律相談所」でミャクミャクとトリオ漫才（お笑いナタリー） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE05MjlYS3V4VVJZRS1IUjVNR2kxUWdTWk91SXRaOGtDWmRpcnFKVTg1OFZRSVNGNkM1a0s0c1FaUDFWYU9CYWdjMzd3U0dPWl9sdnJ4TldzbWwxS0tHVFR3NnluOEFNZ2JnODFqVVlVWFlYdjBiU2VfbXZYWWVDTDg?oc=5
 
-- 孤独と貧困で悩む学生に温かい食事と相談場所を届けたい！クラウドファンディング開始！ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9JVG40R2M1TENJV0Yyc3dZNlJXUWVrQlVobnlkdDY2ZnBoczhOOEhTMG9ZTHFsOFlQTHZTcTFqLVNjZXRSY3daYm9GdnRCSlJIQmRxeVlWOWhMVUprbjBHNTRoNHZ2NnFJbWc?oc=5
-
-- 休載続く人気マンガ 成功ゆえの悩みとは #エキスパートトピ（河村鳴紘） - エキスパート - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGtUOGZJeV9saW5KS2VLRTlTUlB6RFhxZjVYRGkyODlzQ0N6c0VYaFh4c2gzMXZDUlk5d3JNM0ktU3hvWGtYR0toLXBsOFh6bFMxak1lM0FFVWpqYVZTRXVRdEh6VW5rU0kwb2VRaUxFeG9JbkE0a1hQUTEzV05wM0E2bFFLdmxs?oc=5
+- 就活Q＆Aが5,000本突破｜「PORTキャリア」が専門家による1万件超えの回答で就活のリアルな悩みを解決 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1lOHRTcm9KZkFsNEVxZjhmaGg2UDNnaVZyXzNrM0dJeW5LY3FPNGZnTGpLM0p3Z1YzTXdRZ3BFdDdUUXlZd0dWcEpocHNVamt1V1JELU8zdVF5XzNnanpNQlM3Mzk5R2ZfWXc?oc=5
 
