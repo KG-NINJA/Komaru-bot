@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-21 07:20) ===
+=== こまる相談 ニュースフィード (2026-01-21 08:20) ===
 
 - 所得税還付申告相談のお知らせ - town.mitake.lg.jp
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aEg2OW43NjdOMXRsd0NmU29UYmtwWHFTSElIRGduaHBWWVA5OGhmSElIWkhHNGREamZFSlFsVXV1WXZYYnN2Q0RKWjRqa2dONlpvc3RjUkhKZXc?oc=5
@@ -12,17 +12,20 @@
 - 法律相談(弁護士) - city.fukaya.saitama.jp
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNenpZRVVsbVdqUnJSdUtOMUktSWd0Wi03aVZscHFjc2o4UFRfMWEyUXBKZHZ5eEJvaDVzc1V0V1htQlp4aXEzbDA5MjViekRQOWhYTHg3QU9vY19MSjZXcFdkM01fU3gzdlc3Sy1vaUdzQWtrNEVCOU1WYlJsVkZzTGJqdGJGMXc?oc=5
 
+- 【治験広告】再発・再燃したATL（成人T細胞白血病リンパ腫）患者さんへ／光と薬の力を使った治験のご案内 - がん情報サイト「オンコロ」
+  https://news.google.com/rss/articles/CBMiQEFVX3lxTE1HX003ejhseDFwNFg1RUlHMkdTQjB4Z2d1RnJ6TTZWNGNVQ2VfMGR4dnItb3Y3bTFzWi05UjN6UW8?oc=5
+
 - 2/13 人手不足・作業負担の悩みを、賢い自動化で解決する！ 『中小製造業のロボット活用セミナー』 - omecci.jp
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXMUpFZjM0UEc0ZFh4U1h1Qmd3Z0o3b3otUjVfdnpXNlRsZ1VHWWREM2ZzUVh5RUhjTW5ndFo2Ty1QaURsaDFlakV0cVRDMmh6Q3c?oc=5
 
 - 『必携 実務家のための法律相談ハンドブック【親族・相続編】』 1/21(水) に新刊発売！ - アットプレス
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CdEhSazJSOGFUVGRlSWFEbWJZVnFHVF9qZ0ZyRXVJeWI0ajQtSUpCY0UxeG9mRERSaHZFNk5QRDVEVV93MGRzSFQtWmhVeUk?oc=5
 
-- OSAJI（オサジ）から、花粉時期の肌悩みをサポートする特別なセットが2026年1月28日（水）より数量限定発売。 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9EWWRUM1RWUEc3RnFfdlBfZVJJYmtOMUw0TVUzYkxOOFdlUWo0clFFOFpXU0xfbTRBN1Q5Z2VmLWQycnl0LTJRRlZFMVRSV0VBQkpTMjk4enpIVll5MDJ4TlZIdkxmLXFsb2c?oc=5
-
 - 愛知県、生成AI導入で電話相談業務の負荷軽減と効率化を実現（こどもとIT） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBpLVJPdVBtM2VTSVY2Vl9NV2h2U1JQY3ZteFhKbHUzWW5Ga3dNaHhVMGNKc0xRNmphemZacHBtWTFVSGs0ZThkU3k3aW9MdTNQcHk4MTBIN3dZMWpQcjBxNWF2MnBKblFlZEZpQ2pyUU5lOUgxV1hRWmtndmltcVk?oc=5
+
+- OSAJI（オサジ）から、花粉時期の肌悩みをサポートする特別なセットが2026年1月28日（水）より数量限定発売。 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9EWWRUM1RWUEc3RnFfdlBfZVJJYmtOMUw0TVUzYkxOOFdlUWo0clFFOFpXU0xfbTRBN1Q5Z2VmLWQycnl0LTJRRlZFMVRSV0VBQkpTMjk4enpIVll5MDJ4TlZIdkxmLXFsb2c?oc=5
 
 - 1月22日「人生相談をしてみたい相手は？」 - エフエム鹿児島 ミューエフエム
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UWlY1TzZpZ2c4dExsUlNTSlU0cmZqRHpQNzB6V2plX0tXdWMxYk9WRU0ya2dHbV9WZW9yX1d3Nk1hV0duVkpfMHg1S1VDaVFBSlMwOUU2ZWo1MThK?oc=5
@@ -30,32 +33,29 @@
 - 「行列のできる法律相談所」2時間SP 番組タイトルに“法律”が復活！弁護士軍団が選ぶ芸能人事件簿 2026年注目のゲストが悩み相談 - 日本テレビ
   https://news.google.com/rss/articles/CBMib0FVX3lxTE5XSkJ2bGxDRFpRaWFpQ3ZiOWxpbUFYak1IOU12RHVlU0ZEYnUySlRRZEx0WERiUmM0YXdacEFXZTJuNF9mZUgzY2ZkSHI2cmZlQVdaajhfSlAydHZHRmowcE1lVDliWWhtLVlYQVFlaw?oc=5
 
-- 『行列のできる法律相談所』弁護士軍団にロボットが…理由判明で反響相次ぐ - オリコンニュース
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RaVI1Z3ZpSnVuUHJ2WGpVYWY3YURyODg3QkFZcWQ4cjkxUjBpM1gwdUhHTmhwUUtpejRmUTIyRmZubDFNU3lVU2ltVmhROGVudzJqWWRB?oc=5
-
 - 令和8年2月千代田区認知症本人ミーティング「実桜の会」開催のお知らせ - city.chiyoda.lg.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DS1JvQmZZeS04U2VjcTNUMmVla3V2X3p1Q1RjUnpiSlRORi1kbW5QRzlMQ0xIX2dkZFdLRmVJN1phUWczc1dFOXRtTEFHMHlvblY0b2pVRGNaOVFoaTFwSnRRNUpFSTdE?oc=5
 
-- 若メン、毎月約2万通の相談データを活用した若者特化型AIを社会実装へ - ICT教育ニュース
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4S0J1UnJyOXN4OWlSbWloVG05UTBRS1NNdHVCRm83ck9BcjI3bmRONW5hNlEyX2FnbmFCNFFUMVdMbHVRbmF0aWRremU4OXlCQmlROTFIZE5lT1Zscnc?oc=5
+- 『行列のできる法律相談所』弁護士軍団にロボットが…理由判明で反響相次ぐ - オリコンニュース
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RaVI1Z3ZpSnVuUHJ2WGpVYWY3YURyODg3QkFZcWQ4cjkxUjBpM1gwdUhHTmhwUUtpejRmUTIyRmZubDFNU3lVU2ltVmhROGVudzJqWWRB?oc=5
 
 - 結婚のご相談は福島市マリッジサポーターへ／福島市公式ホームページ - city.fukushima.fukushima.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBQS3ZMX3Fvb09WMjY0Q0hjTDZmR3ZyOHNwN0tkdHBTZWNfS3JCRk11R21CYlFINE1GaHFGQnBjZ2NreE1KZ0l6bklYUkZjWmEtU3ZIR2MtQVdiMVhRY1RlaUEwa0VEaG1SVDRNWG1XMWUySl9w?oc=5
 
-- 投資用不動産のシノケングループ、投資相談に24時間対応するAIエージェントを開発 - デジタルクロス
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Qc1hObzNjVlM5UTB5Q2E1VHhMVzJTbU9yTklRQmZqYkFuY1hfNy0yUlRza2hYTFRMQU5hZm11Y0N0R09DbnNZTEh3QThFOWhFQnRxZEFweDVWVnF5cnRoMngzWQ?oc=5
+- 若メン、毎月約2万通の相談データを活用した若者特化型AIを社会実装へ - ICT教育ニュース
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4S0J1UnJyOXN4OWlSbWloVG05UTBRS1NNdHVCRm83ck9BcjI3bmRONW5hNlEyX2FnbmFCNFFUMVdMbHVRbmF0aWRremU4OXlCQmlROTFIZE5lT1Zscnc?oc=5
+
+- 水戸市ネイリスト女性殺害 元交際相手の男（28）を殺人容疑で逮捕 “女性の居場所”聞き回る 事件の4日前には女性から警察署に“ストーカー被害の相談先”尋ねる電話 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE43WmY3VW5ydVJxcjJxa0VvTkhSS3hmcUdZa0RLaFZaOGhDT1hVVHA4Mjk0cTZ1Mk5yR0NEemZmbExIbGpVeGFEOUtXcGs1bXlwVVRFdG5xaw?oc=5
+
+- 【ドラッグストア協会】濫用防止薬販売で会員向け相談窓口設置 - dgs-on-line.com
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xRGJYUUpxejg5M05ZTFZ2ZWdjbEhZRjY4dkhpY0YzczRUZEVyeGlLcFA2RlNUSDA2RWJ3OWlGWUlIbWNKY3NhaUdyQWNfbjVpTjgw?oc=5
+
+- ２月１日「なんでも相談所」開設 離婚、ＤＶ…悩む女性に対応 無料で男性もＯＫ 福島県郡山市 - minpo.jp
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQR0RDWTJ2Z1h5dTBXSks0QnBJXzRDUjJSOHJMcm1RM29nSl9vZy0zNkd2dnh2dlZBNmpNejN1eFUwSjhka1liT0laOWlSR1ZsQ1dHakljVEgwZzA?oc=5
 
 - エステ脱毛、休業や倒産で料金トラブル 島根県内で相談増加 １０月末で３７件、２４年度の３倍超（山陰中央新報） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA2SW1zOE81UmY2R0dIQ0R6czE5SE5LZGlmRHdPWGpDamphaUZCZnl5U0ZNWnl4YmVWUk00MTJPNXFEWk5COVpJQXN5UTNpX3RSbWU5eHV2VG12a0N0N09QWDlob1oxWVNtdmg3ejExbUpJWGpraThpbDVYVXZiZHM?oc=5
-
-- 山形県教育委員会、「山形県 教員IJUターン個別相談会」を東京で2月開催 - ICT教育ニュース
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hMjBQejR6VDlxZmw2VlliUUVZZkdPSEEzcGI3TGJxUGdDRlEzZDZId1ZncGZlYUEwSE8wRm5wcTZicWNkWlpSbTQ3Q2hQWWk3Q3Q5VUpn?oc=5
-
-- 編集カットで出演者１人消されてる【行列のできる法律相談所ＳＰ】放送ＮＧ？収録いたはずのレギュラーがＴＶ画面から消滅 ネット「隠されちゃってる」「おらんやんｗ」「日テレの消す力ｗ」（デイリースポーツ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE51TjNCT1lDaGJrVHNJNHhuN1lZQ0VLeVZhUnhseUQ4U0RQNDZKZE4yWUE2MGVMNmdSNDZYdHJzOG1Vbk5FN1d5empvVWFrTU8wRGNRaE5ONTlQMzRvZmdIWmxkVHU0MFlyNFpMV0J5QjF5eEZEYkcxSXFLOUsweFU?oc=5
-
-- 立民前代表 新党への参加「まあ、いっぱい悩みました」→選挙のためではない、これまでガチンコで勝ってきた→それでも参加した理由（デイリースポーツ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1VZlhCNFNYblVOV1l6a1hhRDlLQmdoMUI5T3FjNVVuTThWN2dsSnRrMGpkWVZ6WFBoYlJPQVpUNERqT0Y4R2JFVERkbUxQcldfLUwzVElfZ1RhS2IwSWZJQjNqZEV2N09qWTdsanpaOFFiNWhic3k2ZS1paTBQdXM?oc=5
 
 - 『行列のできる法律相談所』、タイトルに“法律”が5年ぶり復帰 中村橋之助＆能條愛未が婚約発表後初共演（オリコン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE91Vmx2aloxekhZVUxQcXdiRHVtX0FaZHlDUzRGUUpMTkdMUy1oblJqR2FPTEtWT2tXVGZuZXBaOFF3cjVoWS1Pb042WGxJb2Jrcm5saHlUeWF4a0ZRSDJpeXh3Qm1CQkliTThRbHhkbFFLYjh2aVNmRFVFY28zbGc?oc=5
