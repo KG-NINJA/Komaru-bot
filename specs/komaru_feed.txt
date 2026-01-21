@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-21 05:22) ===
+=== こまる相談 ニュースフィード (2026-01-21 06:22) ===
 
 - 一般相談 - city.fujieda.shizuoka.jp
   https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXpoa19NN1VFNldXaE1SQ0wtT01DMGxiajRCcGVWc0c3dS1VbzdfdUlEMDBfYkRiclVEOUJzejFweGx0UmhJTmV2OUlOQ0J2VWFFY05wdEFieG9CeVVoMHpPRzFsVXZkeE1UTHI3dXhWeXpYNW8zVGNIRXRoS0Jwa29Fc3d5LXdjbGhfS01wX1pRaWJ2WEZOTE5VUQ?oc=5
@@ -6,17 +6,26 @@
 - 法律相談(弁護士) - city.fukaya.saitama.jp
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNenpZRVVsbVdqUnJSdUtOMUktSWd0Wi03aVZscHFjc2o4UFRfMWEyUXBKZHZ5eEJvaDVzc1V0V1htQlp4aXEzbDA5MjViekRQOWhYTHg3QU9vY19MSjZXcFdkM01fU3gzdlc3Sy1vaUdzQWtrNEVCOU1WYlJsVkZzTGJqdGJGMXc?oc=5
 
+- 『必携 実務家のための法律相談ハンドブック【親族・相続編】』 1/21(水) に新刊発売！ - newscast.jp
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EWWg2Rk1PLTJwa1lQVE5SMVhCUVlMZXB5R2dVeEdCeTJkaTRxVE44c0pKWFhrWGlFZkVSSU1kcGRQcmtuQnQ1MVVmLWFvS1k?oc=5
+
 - OSAJI（オサジ）から、花粉時期の肌悩みをサポートする特別なセットが2026年1月28日（水）より数量限定発売。 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9EWWRUM1RWUEc3RnFfdlBfZVJJYmtOMUw0TVUzYkxOOFdlUWo0clFFOFpXU0xfbTRBN1Q5Z2VmLWQycnl0LTJRRlZFMVRSV0VBQkpTMjk4enpIVll5MDJ4TlZIdkxmLXFsb2c?oc=5
 
-- トラブルの相談や現場周辺で不審者の目撃情報など無く 山形県米沢市で男性が切り付けられる事件（YBC山形放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9RWGZZelJTbGZXQkhEbG1xUUFHVVlWcnI1cV9Bb2ZwWDIyWGZnem15QWJlWldnQ0laRG5acEpRRk1YRVloeFVGSXJuRUkxSHlqdDhlU1NsOGVOZFVpUjZDLXJCdzBfLTNFZDNCYzdxM19DYTdPUEpfV2MycWJIRnc?oc=5
+- 1月22日「人生相談をしてみたい相手は？」 - エフエム鹿児島 ミューエフエム
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UWlY1TzZpZ2c4dExsUlNTSlU0cmZqRHpQNzB6V2plX0tXdWMxYk9WRU0ya2dHbV9WZW9yX1d3Nk1hV0duVkpfMHg1S1VDaVFBSlMwOUU2ZWo1MThK?oc=5
 
 - 「行列のできる法律相談所」2時間SP 番組タイトルに“法律”が復活！弁護士軍団が選ぶ芸能人事件簿 2026年注目のゲストが悩み相談 - 日本テレビ
   https://news.google.com/rss/articles/CBMib0FVX3lxTE5XSkJ2bGxDRFpRaWFpQ3ZiOWxpbUFYak1IOU12RHVlU0ZEYnUySlRRZEx0WERiUmM0YXdacEFXZTJuNF9mZUgzY2ZkSHI2cmZlQVdaajhfSlAydHZHRmowcE1lVDliWWhtLVlYQVFlaw?oc=5
 
+- トラブルの相談や現場周辺で不審者の目撃情報など無く 山形県米沢市で男性が切り付けられる事件（YBC山形放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9RWGZZelJTbGZXQkhEbG1xUUFHVVlWcnI1cV9Bb2ZwWDIyWGZnem15QWJlWldnQ0laRG5acEpRRk1YRVloeFVGSXJuRUkxSHlqdDhlU1NsOGVOZFVpUjZDLXJCdzBfLTNFZDNCYzdxM19DYTdPUEpfV2MycWJIRnc?oc=5
+
 - 『行列のできる法律相談所』弁護士軍団にロボットが…理由判明で反響相次ぐ - オリコンニュース
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RaVI1Z3ZpSnVuUHJ2WGpVYWY3YURyODg3QkFZcWQ4cjkxUjBpM1gwdUhHTmhwUUtpejRmUTIyRmZubDFNU3lVU2ltVmhROGVudzJqWWRB?oc=5
+
+- 若メン、毎月約2万通の相談データを活用した若者特化型AIを社会実装へ - ICT教育ニュース
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4S0J1UnJyOXN4OWlSbWloVG05UTBRS1NNdHVCRm83ck9BcjI3bmRONW5hNlEyX2FnbmFCNFFUMVdMbHVRbmF0aWRremU4OXlCQmlROTFIZE5lT1Zscnc?oc=5
 
 - 令和8年2月千代田区認知症本人ミーティング「実桜の会」開催のお知らせ - city.chiyoda.lg.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DS1JvQmZZeS04U2VjcTNUMmVla3V2X3p1Q1RjUnpiSlRORi1kbW5QRzlMQ0xIX2dkZFdLRmVJN1phUWczc1dFOXRtTEFHMHlvblY0b2pVRGNaOVFoaTFwSnRRNUpFSTdE?oc=5
@@ -24,32 +33,23 @@
 - 結婚のご相談は福島市マリッジサポーターへ／福島市公式ホームページ - city.fukushima.fukushima.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBQS3ZMX3Fvb09WMjY0Q0hjTDZmR3ZyOHNwN0tkdHBTZWNfS3JCRk11R21CYlFINE1GaHFGQnBjZ2NreE1KZ0l6bklYUkZjWmEtU3ZIR2MtQVdiMVhRY1RlaUEwa0VEaG1SVDRNWG1XMWUySl9w?oc=5
 
-- 元気っ子くらぶ「プレママ・親子相談・交流会」2月のご案内 - city.yao.osaka.jp
-  https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0kydWFINWxQeEhMb2lIcmtPWlpfY3A4eDFnalR2SjF1UVhDM2Z1WlVvY2tLNVRaNHBSQUJyYnYwckl3enFaaWg2T0ZvVTI1NkdQTlZlcENNa3Qyd1F1QktlQ0pHa01ETXlBOUhaeGYwNTJZN2tHYnB0bmg0SkVKUEo2VklQRm1PNkIyOUJ0Q190aVJyMklNYVpscw?oc=5
-
-- 若メン、毎月約2万通の相談データを活用した若者特化型AIを社会実装へ - ICT教育ニュース
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4S0J1UnJyOXN4OWlSbWloVG05UTBRS1NNdHVCRm83ck9BcjI3bmRONW5hNlEyX2FnbmFCNFFUMVdMbHVRbmF0aWRremU4OXlCQmlROTFIZE5lT1Zscnc?oc=5
-
 - 投資用不動産のシノケングループ、投資相談に24時間対応するAIエージェントを開発 - デジタルクロス
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Qc1hObzNjVlM5UTB5Q2E1VHhMVzJTbU9yTklRQmZqYkFuY1hfNy0yUlRza2hYTFRMQU5hZm11Y0N0R09DbnNZTEh3QThFOWhFQnRxZEFweDVWVnF5cnRoMngzWQ?oc=5
 
 - 被害女性、ストーカー被害の相談先尋ねたか - kyoto-np.co.jp
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qWWw1TU1DRTJ4LVE1U2RxN3UxSjJwb2JYcEJ2YmxTeUVGYl9BRFVSZjlodnVsMjZOR2pGRHVnRDRhWHppeWlEcmhrbkhjSlJkUXBZd2ZkUHY?oc=5
 
-- 生活・仕事・自立相談窓口「しえん」を視察してきました。 : ブログ : 八千代市議会議員 末永たかし - 公明党
-  https://news.google.com/rss/articles/CBMi-AJBVV95cUxOaUZJekNJQlVBRUZXcWRVdmk4S0ljeG1ROWRTcTJVekJkcjBwMzE1U1ZjN3BKcTNlYzRKbFR6MUtHWHN2allGa0Z4VXNIQUZhSFZaQUNxRmQxUU0xaFo5U2lDRS1nZG5QSmxzWjZHSWd6QTNGTzBpLXV2UUdHV2ExemJ5cWs3TC1jd1h0UFZNMXo1V3YwZnpaSEJ5R1IwbGhqUnJEWVFkdzE1VXhETmNVTGszTmk3Vll2VFZURFo0dDZWNFZRaEVMc2M2S293ZkFBbHl2T09Ic0tYSlBiZEQ4OENoMHlyMHRwcmtGbUROOU1rUHNtYUgzUktvMFRHZklsVnBvbHJUdzlzazVWanNrcURJUUZYUWJfRHhJc1plYkhaWFZDMXI4WmdkYXY2XzAtRVhUdHI5cWVWQXFDOHlKS21VUVlYaEluY1VtZ3g2dlV0V1d4dU5XaWtIaWZ4RUNaSHBHNGo5VFJsYk1hcUgtSGI2ZXNucHh4?oc=5
-
 - 【中学受験】親の悩みから生まれた「受験サポートB4ファイルラック」1/21発売 - リセマム
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yd0lqRURfdGlMM1ZMLVlEajdEUVd2TFdYM2dtSVB5RFQ2OUVWRGd2dkQzaGxNbXBlcDZFZWthTDdEQm9DSmgwSzA5ZW40a1NoVjRGeUViZ0hxZXBn?oc=5
 
-- 【AIはメンタル相談に最適か？】 | 益田 裕介 | 文藝春秋PLUS - 文春オンライン
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZNjdnYjNRZ1RfbTZpOUo1eTNzQmsxY2l1SHhJWVJlZ0EyQUV2ODBNUXA2MmFmdWo1TUtsbEtweU9GQWNReGw0anpmSWNETEtLS190NUUtMUk3NDQ?oc=5
+- 被害女性、ストーカー被害の相談先尋ねたか - nippon.com
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zVHRRWDhyZUdwN29YdWF1TjRMMXZLN1h0T3kwR3NwUnd2blotRS1Za2xrUjBtM3B1ZHA4VFBhSHJ0R09OLUdDY19rYWhlOGpVY3QtMXFjTXEtUUJKUnp6OVR3OA?oc=5
 
 - エステ脱毛、休業や倒産で料金トラブル 島根県内で相談増加 １０月末で３７件、２４年度の３倍超（山陰中央新報） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA2SW1zOE81UmY2R0dIQ0R6czE5SE5LZGlmRHdPWGpDamphaUZCZnl5U0ZNWnl4YmVWUk00MTJPNXFEWk5COVpJQXN5UTNpX3RSbWU5eHV2VG12a0N0N09QWDlob1oxWVNtdmg3ejExbUpJWGpraThpbDVYVXZiZHM?oc=5
 
-- 『行列のできる相談所』5年ぶりタイトルに“法律”復活 中村橋之助＆能條愛未 婚約発表後バラエティー初共演 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE9XUjRkNjB1TFZLNDVYdXMyNjFaVkJzeHl6eWF4UzNGWTRCZVhrdFRBWlBEY0E2MlZGN2l3R1lqdGdjZzdjcHF5YldNSjh2QV9ld1RrdzBGNlh0RWFzd3RfdjF1NFB4UjhFTThtOUVXTFJvU2xhSXZ3cEhSR1o?oc=5
+- 山形県教育委員会、「山形県 教員IJUターン個別相談会」を東京で2月開催 - ICT教育ニュース
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hMjBQejR6VDlxZmw2VlliUUVZZkdPSEEzcGI3TGJxUGdDRlEzZDZId1ZncGZlYUEwSE8wRm5wcTZicWNkWlpSbTQ3Q2hQWWk3Q3Q5VUpn?oc=5
 
 - 解体工事の悩みを解決する『令和版・解体工事の新常識』が公立図書館など全国100館以上へ所蔵されました。【一般社団法人あんしん解体業者認定協会】 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBEYl9rQ2lEU1VNRjFNM0F4dzdlYjBWOXA1Q253bC1DZGY3clhkM0R3ODFPbzByN0todThFZU1yRkw3Ry1nY0g1ZWlkbWY4V1NSS1lpcjFldi1SanpjUE1sUUVNZEpMYXBhNEE?oc=5
