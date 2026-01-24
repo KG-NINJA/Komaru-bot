@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-24 12:22) ===
+=== こまる相談 ニュースフィード (2026-01-24 13:25) ===
 
 - 自民・比例名簿に名前掲載 田畑さん「党本部と相談して決める」（2026年1月24日掲載）｜KNB NEWS NNN - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTEp6S3lMQU9pUkZGaWVleFBSdnQ5SGFGZ1hCd3RsTWY2a1BZZEF3ZWJTeEhxVWxnVUNBRzhTZU4wWGVtMDdGZ1RXVjBhcHVZbHBiQThtWkJxb081Z1dxZnk1MFk1UVN2Sll4OW44bUdFcmRBWnhKeFJUT2JpbzRpRndISmdhSVRi?oc=5
@@ -39,17 +39,17 @@
 - キャリア相談5万人超のプロによる『やりたいことも目標もないので、後悔しないキャリアのつくり方教えてください』が発売 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5XLXhhbU1Zb2ZqOTUtQnB1TmRhTEJZYlpITXVQbG1DbElOTktraWtWcmh3alVLcXZMaV8xWkxsOEpYVFUtSE4tM1o0T3BPa2oxUFMyTHFobTZidXQ3V0ViVVZmcTFmWmE3Umc?oc=5
 
-- 生成AIに食材の保存を相談 シャープが新型冷蔵庫 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1HN0tJTUtaSGJfZ3I2MlYtV1dhVVhpTHhBQmVlSlZ0M3VwQk5wMEF2enBLTHlJXzNYdDBQdF91ZjdENXJPQ1lkeXVTSUlLQko3WFVodUdsTHRaZER1ZVhMQnhjR0JpVzBSOGZKWg?oc=5
-
 - ニッポン放送『テレフォン人生相談』をYouTubeに無断転載 東京地裁がベトナム在住の3人に8700万円の支払い命じる - オリコンニュース
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YWE90LVZLMzBINHB2bkRxNFdNTmdDX2xhd0ppLVVxV29YZkRpUVUzY0ZrQmJKaUlvSE1hajYtUzM5aHVNc1ZrOVNwZTdOOFlUUzRpVHp3?oc=5
 
-- クリストファー・ノーランに手紙で相談、日本初70ミリフィルム使用の「黒の牛」蔦哲一朗監督のこだわり - 映画.com
-  https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aMm5MMzdGQXpSdzF6ZmhmQmc3LTFNVzF5MF8zWHRWVVFBNkpZc2RnMHo1U2VuQnpyNnBIeG9PREVOTHRudGJSMQ?oc=5
-
 - 2026年度（令和8年度）消費生活相談員募集 - city.susono.shizuoka.jp
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZTTduLThuSE81ZEJuNFMzMnBKaEdXYm4zNjBRMDZIZlJrYlVXaDlZRHZNaW9XaHAxWDlYeTJZbEIzN29hZUtXOTVyeGhQWjRhQk1QenQ4ckZJY2RDRHlBb2xR?oc=5
+
+- 生成AIに食材の保存を相談 シャープが新型冷蔵庫 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1HN0tJTUtaSGJfZ3I2MlYtV1dhVVhpTHhBQmVlSlZ0M3VwQk5wMEF2enBLTHlJXzNYdDBQdF91ZjdENXJPQ1lkeXVTSUlLQko3WFVodUdsTHRaZER1ZVhMQnhjR0JpVzBSOGZKWg?oc=5
+
+- クリストファー・ノーランに手紙で相談、日本初70ミリフィルム使用の「黒の牛」蔦哲一朗監督のこだわり - 映画.com
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aMm5MMzdGQXpSdzF6ZmhmQmc3LTFNVzF5MF8zWHRWVVFBNkpZc2RnMHo1U2VuQnpyNnBIeG9PREVOTHRudGJSMQ?oc=5
 
 - 女性の悩みをテクノロジーで解決「フェムテック」九州最大級イベント（RKB毎日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5RZW1Hc2E3TDAySEVzamdfM0ptRDNZTzJ3TGhLOUlZZHo0STdXaHhiYmJBak4teGw3WWp1WGtnT0FreEJCVUtxeVJpcnd0c00yekxwclRiT0dDTTEtUU4tQktlRVFLTG9nbVA1N0pMdmNZTldxUm82a1AzS0lQaG8?oc=5
