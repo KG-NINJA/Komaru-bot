@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-01-26 07:20) ===
+=== こまる相談 ニュースフィード (2026-01-26 08:20) ===
+
+- 【北九州市デジタル相談窓口】専門家紹介 - ksrp.or.jp
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2YWlOZlhYSUdDSXJhOEgwLTkwXzc2Z0JUbmo2T3QzSGpicy1xV0x2WjFlUjFKdGZRcWtGc0t5cTdFYnA2VkpqdG55eEt1elJzRkJYOWdQNDFZTWtF?oc=5
 
 - 真岡市基幹相談支援センター（障害児者相談支援センター）のご案内／真岡市公式ホームページ - city.moka.lg.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1ZTNU1rdFhxc3BROW92ckpmTkVEaVFWMHgtelphWjd3UzlpSVBqZWRZaUhZc2JMY0RmeG8xbTE1VnRJMlpfbWJ0dWlKeGxpQjRLbjVRMkVud2N2NllqMFRibU1ibFJvM1gzZldUMEFjNGRsbXBtamNhTVJDbGlGMXIyZGdYMzZVRlE?oc=5
@@ -9,14 +12,14 @@
 - 上田準二のお悩み相談「部下になめられている気がします」 - 日経ビジネス電子版
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0Y29YUWtJV2loN3BuTXpFUXF0cFdVdGx3Z0hVTzNHQkVfN0gwT3dOd1ROZUNHSVBRQTNJak9iX2ktY29NdWtPTlJTNFZOejAwc0RlM3I4NGZnRHlwblVUUWNzdVgyMmc?oc=5
 
-- 人事に聞いた今一番の悩みVol.1【人事大解剖総集編――人事リレーの輪1人目～10人目】 - HRプロ
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zRDdjaEdZM0NEWExjTHkwTG1qUEh2S3JZYWo1T21PWl81QzVPX1lLUnpkb3hNVEx6QVo5bkxlY2dMVTRUT2FqV0ROSTlGODViZUhlUGRQTURVbFFlVG9nag?oc=5
-
 - 多摩信金、矢部支店を新設開店 キャッシュレスで相談特化 - nikkinonline.com
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ua01aMUNrYjNpR0V6N2VvcldCU0I3Z2tkc29LZXowMEZ5RDlycnZJTkQ2Vnpla3duTVJVNzhtWERDTEw3d0xmU19SenRZSzFSdERyOXd3?oc=5
 
-- サイバーセキュリティ相談窓口の相談状況［2025年第4四半期（10月～12月）］ | 情報セキュリティ - ipa.go.jp
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE9iVDBpSzdYNjN1S2lsX0QxUjdwUnd2MnhBb0N0ZDVjSG1fWWx4b2RLZlJvcl9mVHhDS25IOXI1aVczcVI3bHFmdlcxUFlHdXhtVTNsWGpVSU1RVDdrY0NzbkFOcVZVQllKaVg1SXdSa182R1U?oc=5
+- 人事に聞いた今一番の悩みVol.1【人事大解剖総集編――人事リレーの輪1人目～10人目】 - HRプロ
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zRDdjaEdZM0NEWExjTHkwTG1qUEh2S3JZYWo1T21PWl81QzVPX1lLUnpkb3hNVEx6QVo5bkxlY2dMVTRUT2FqV0ROSTlGODViZUhlUGRQTURVbFFlVG9nag?oc=5
+
+- 20代女性が海外からの送金で相談…詐欺と気付き被害拡大防ぐ 但陽信金福崎支店に感謝状|特殊詐欺特集 - kobe-np.co.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQzdfUUhaUVY1ZU4zZ2FMVjVvM3Z3RFNJVnZMV1lpcmlkNGxQTU14Ym82ZFBDX19pSTVwZjIxTU9QOVhzV05fYTNXekcyY2hVV0JhdDRzM19MWmNYQVdYR1FQaFdhQzBYUkE?oc=5
 
 - 【アンガールズ・田中卓志さんのお悩み相談】悩んだとき、人に「相談」ってしたほうがいいの？【隣の部署の田中先輩】 - BAILA
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzVXRkc2NTeWlqQ1N1S2x6dEZhRHFadlA4NGpoOUs1eWRGRUhTb1BvZ3hvUG9zQVRiNkUzQWlrbEdLekdxek5LVHlVX29HYThvSWJQTA?oc=5
@@ -24,39 +27,36 @@
 - 緊急時の困ったトイレ問題を“助かった”に変える。 1台6役ポータブルトイレ「UNISTOOL」 Makuakeにて1月25日(日)より先行販売開始！ - アットプレス
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sdmtya2pqVWNrMF8yZ0xIc1Y2SHRFaXhkSkNMSFQ4cWVQMERnU1JGcnZ6VHB4M21PcE1EQWQtNlNCbk0xc0FCWnJhdDBldw?oc=5
 
-- 20代女性が海外からの送金で相談…詐欺と気付き被害拡大防ぐ 但陽信金福崎支店に感謝状|特殊詐欺特集 - kobe-np.co.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQzdfUUhaUVY1ZU4zZ2FMVjVvM3Z3RFNJVnZMV1lpcmlkNGxQTU14Ym82ZFBDX19pSTVwZjIxTU9QOVhzV05fYTNXekcyY2hVV0JhdDRzM19MWmNYQVdYR1FQaFdhQzBYUkE?oc=5
+- 美祢に解体専門店「ブラスト美祢店」 解体や空き家の相談窓口開設（みんなの経済新聞ネットワーク） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZTZDcndFeEVvbTN1a3NaM1VEcDdVQVVVRlY3LWU1RW9sWHFMbjczQ2JOXzJUaUhteWdhTko3NTIwZ1dVSzl3eFNVTmh4RHhQd0pjWUVuenh2cVJUYzBPYmRFM3lFaXA0SUhPa21oWWN2VTZGRldfem83MU5xX1U?oc=5
 
 - 【男性の相談しづらい悩み】薄毛・性機能・体臭…「恥ずかしい」 を超えられない男性の壁 。誰にも言えずに抱え込む実態 - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zbm1Tc3MxenZ0SGY1bnRlbHlabDdWb3BUNGdlRmRkUFVpRFpZak9vcVFweE03b2JmWkdzWEtnc2h2Z09EYnBFb1JUS3U?oc=5
 
-- 震災身元不明者相談会【岩手】 - iat.co.jp
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRNnBsd0JaemFHT1U5WnpYYkJKSkdIb21GTnBtVnE3OUcycUl6UE9GVVdIUDdDaGV6TVVBekw0MFlNa1QyZW8yYjFYb0lWWmh6UmNOVkI5OA?oc=5
+- 情報セキュリティ安心相談窓口の相談状況［2025年第4四半期（10月～12月）］ - ipa.go.jp
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5fbUlNU0JQMzVQb3FxNG90N0lTZ1FlSlNNcS1EVjg4dUNYM1lYdDBCR3JPT1pDMjNZVGpHYmVoQkZPdl9PU00tUVYyMDBYXzZwTEpSYXRlb0NhZEU0UE5TY090TnVNOU9CYlV6RUxsMHZCdw?oc=5
 
 - （ニュースレター Ｅｄｉｔｏｒ’ｓ Ｐｉｃｋ）ＢＮＷ、つづった見た目の悩み - 朝日新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ROVlkcnJKUXRDRVZUeENNRnFmbDhaSVViR0ZVZmpOaFFRVWZrU0xvaUNiR25mUDN2UUR4Rm93OG5yb25veFBkZVNSOEdYVC1OcVN4YjdaNVNLUW8t?oc=5
 
-- 藤本美貴 “義実家”のお悩みに「ん？ちょっとどういうこと？って」 育児について「ズボラ母ちゃんタイプなので」（スポーツ報知） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5kU3JFNkh3bWJWblo5c3dRYlBWaE5MZ2s4NXF6cEdMNHloaUNrc2R4azJCTHUxRFFmUDBWUUdwQkEyZ2traUxrT3R3VE0tV2RnS2ljZnZaNVZfa0g5dTB5TWlELXFERDcybWxkV0d0WmhHNXk4d0dzeVVUTDlWajA?oc=5
+- 震災身元不明者相談会【岩手】 - iat.co.jp
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRNnBsd0JaemFHT1U5WnpYYkJKSkdIb21GTnBtVnE3OUcycUl6UE9GVVdIUDdDaGV6TVVBekw0MFlNa1QyZW8yYjFYb0lWWmh6UmNOVkI5OA?oc=5
+
+- 「鳴き声に悩み」殺虫成分混ぜたパンくずをまきカラスを死なす 会社員男を書類送検 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5ndGFmb3Rhb2l0NWdBZUhGb2lkUjgtTFF1Y1ZhbkFYZHFpcXNheXZYOVlfVGttUW12X3Vzd2M0NnRmeDZoLWYyNDdyNDU2cHFjM1NuVzdLY3QwTHpnb196aFlLbVpQcW9Ha0wxTFZ4YnpFM0RSX0E?oc=5
 
 - 『無料法律相談会』｜西島克也 - mbp-japan.com
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yR2ZkdG05Mm5jOUhTSE1sUEFNVm5xUTlLbkJzRlQ0eUN2UmlNNXpuTkppX0N2dldVV3VIbW1zMlQ4T2EwOFBKUzRnMkhlN2JzbWtCdDdmVUtGdzctQWI0ZjhNVlBZdw?oc=5
 
-- 事業承継相談会開く 各務原会議所、東濃信金と - chukei-news.co.jp
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE9oY1FTQ2VTRzJoRUc1T3UxdFZmb1Y3YmJWWG16NzVIbGxIenhKb1UzSW1fSmFmMlF4Z0xXOFRmbFpORE83T0ZlZmpnZVFaLWotYzlyZVZWTnZzZVhyeUgwajh1cld3WHJyMkI1NERmSkhCY1U?oc=5
-
 - 法律相談(弁護士) - city.fukaya.saitama.jp
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNenpZRVVsbVdqUnJSdUtOMUktSWd0Wi03aVZscHFjc2o4UFRfMWEyUXBKZHZ5eEJvaDVzc1V0V1htQlp4aXEzbDA5MjViekRQOWhYTHg3QU9vY19MSjZXcFdkM01fU3gzdlc3Sy1vaUdzQWtrNEVCOU1WYlJsVkZzTGJqdGJGMXc?oc=5
 
+- クラウド型健康管理サービス「first call」、アフラック生命保険株式会社のご契約者様向け（1,381万人（2024年度末時点））に「オンライン医療相談」サービスの提供を開始 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBuYm4taGNNY1JEZDRpNUw5OVdoVWU0VXhzZ3Bta2JWbHl1Y1VJRDFJMlpBOFdub0s3RHBCNkRZVlBnSUdmX2QzU28yMk5LNE5rVldxenRiblJRSWRfU0R4dHBMdUlnV08zUGc?oc=5
+
+- 藤本美貴 “義実家”のお悩みに「ん？ちょっとどういうこと？って」 育児について「ズボラ母ちゃんタイプなので」（スポーツ報知） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5kU3JFNkh3bWJWblo5c3dRYlBWaE5MZ2s4NXF6cEdMNHloaUNrc2R4azJCTHUxRFFmUDBWUUdwQkEyZ2traUxrT3R3VE0tV2RnS2ljZnZaNVZfa0g5dTB5TWlELXFERDcybWxkV0d0WmhHNXk4d0dzeVVUTDlWajA?oc=5
+
 - 【新規オープン】大阪府吹田市に障がい福祉・相談支援事業所を新設。全国1,500拠点の運営実績を活かし、障がいのある方と家族の“支援の入口”を提供。tocotoco株式会社 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBOVV9venVhQ2Rpc2RmQTQxeHNUZ3NkT0l4cm9MTVB5V0dscnl1WVY5bFNScHJhRXJqVGpYQmVfV21rYkJDSHB5UFp6MzJpdVZsVUhwdXVxSVhtdW5tNkE2MkxaYjBOYnJYSnc?oc=5
-
-- 情報セキュリティ安心相談窓口の相談状況［2025年第4四半期（10月～12月）］ - ipa.go.jp
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5fbUlNU0JQMzVQb3FxNG90N0lTZ1FlSlNNcS1EVjg4dUNYM1lYdDBCR3JPT1pDMjNZVGpHYmVoQkZPdl9PU00tUVYyMDBYXzZwTEpSYXRlb0NhZEU0UE5TY090TnVNOU9CYlV6RUxsMHZCdw?oc=5
-
-- 登記・法律相談(司法書士) - city.fukaya.saitama.jp
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQWEFQa296Ykg4OFlGeENqQmdJUHJ6MG9Xdnlsb2dMYVdGOWhUNlVweU9tNjNGQ0hkeWVRRERRMXNuWkJIRFlValZhX1JJSmRLcHJacHl1dlJsbzREMWZkTE1TZ1NDYzNHdWV1N3V3Yk5qTU9nV3BsYjV3WEV5RlBsanpPT2lMcTA?oc=5
-
-- 生活に困る人の相談に司法書士が無料で応じる相談会（テレQ（TVQ九州放送）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1CTVlKMUc1MFpuN0Y2aUZGY09QWVRuWkNGN3lDeklpdVZYd20xb0cwM2lMRG1OUC1BR2dKQV9OSUkzdG5HczY4clcyZ0FvUk51OHA4aUZ2dEhZNUdOODBDNDVYRmpfbk96WF9XSVFMZ05TT1FlMlBVNTJPUEJFRkE?oc=5
 
