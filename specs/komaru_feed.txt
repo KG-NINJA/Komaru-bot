@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-28 08:19) ===
+=== こまる相談 ニュースフィード (2026-01-28 09:25) ===
 
 - 行政相談における「業務の範囲や程度を明らかに超える 苦情相談」への対応について - fsa.go.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE1IWTI3MG1LcldmWEtpYUo2dk1YSFRnQXdZNWhOTURTaWhrUHNTQXdLQWV5OTlHSlNxbVdHTHU2NnpmT0JPRi1ILUNDbzhGX1g3Y19FQ1FjQW5OUmF3VU4wVEFJVmpqYlZYcDBN?oc=5
@@ -12,11 +12,11 @@
 - 加除式書籍『訪問看護業務をめぐる法律相談』1/28に新刊発売！ - newscast.jp
   https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrNWtGTUpHOGw2Z3UtdXZfNkEtU2hJWnFNdjVhNGN5djNxZmhxNmtZd1NONGxYeWhtZEFiaW9sa1AtbGtRZ2JuS296RDhtekU?oc=5
 
-- （がんとともに）「がんママ」の孤独や悩み、知って 育児と治療の両立 集い１０年運営・井上文子さん - 朝日新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwT1FXM0o3d3dNeXZiNkREWXFMUVFfMTdtY1dscWVhNzhuQjJUU21lNmszUWNwMXU3XzdLcWJGVjUxQ25GOGVqSFhPeXk3ZGVqcVRzVkx2SFN4Nk9s?oc=5
-
 - 真岡市基幹相談支援センター（障害児者相談支援センター）のご案内／真岡市公式ホームページ - city.moka.lg.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1ZTNU1rdFhxc3BROW92ckpmTkVEaVFWMHgtelphWjd3UzlpSVBqZWRZaUhZc2JMY0RmeG8xbTE1VnRJMlpfbWJ0dWlKeGxpQjRLbjVRMkVud2N2NllqMFRibU1ibFJvM1gzZldUMEFjNGRsbXBtamNhTVJDbGlGMXIyZGdYMzZVRlE?oc=5
+
+- （がんとともに）「がんママ」の孤独や悩み、知って 育児と治療の両立 集い１０年運営・井上文子さん - 朝日新聞
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwT1FXM0o3d3dNeXZiNkREWXFMUVFfMTdtY1dscWVhNzhuQjJUU21lNmszUWNwMXU3XzdLcWJGVjUxQ25GOGVqSFhPeXk3ZGVqcVRzVkx2SFN4Nk9s?oc=5
 
 - 【こども・若者の相談窓口及び支援について】 - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE80c2Z5dktCbGs2S05OdEZ6ajV3aTVQTzBuODczd3FFSlh5SDBfRmc4WFpkQi11Nks0YnVMb1NQODlxMzBENk9uNmI2MnQ4ZEhzeWNkTy1zSG1xcWZXWi1B?oc=5
@@ -24,11 +24,11 @@
 - 消費トラブル相談増加傾向 SNS型詐欺目立つ 釧路市の審議会で報告 - hokkaido-np.co.jp
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5blBWV3poN3cwTFRGSVYwa19oTlFPb2luQkJFOGxyOVR0RWNZZ3BXTUlnRm05NmhvTk9zZWVMSTV4em0tNWRIYlpRMnIxY1dYRGV1bnFpV0J6UQ?oc=5
 
-- 毎週約3億人が相談！？ChatGPTが「心の友」から「健康のパートナー」へ 驚きの医療特化サービスをアサデス。 ラジオで解説 - KBC九州朝日放送
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE03eDVjUHpyUDl4OWQ1YXpnVlZkdXFoV2ZlVWtUd0U3b3FlUFlqNTRySjA1S05FT3FPTExFWGFxOFR4X3RmMFowMFZ3NDBIckpZMzh2VllUdDZGb3hxZkhNVldPemVkb1NtQnNsX2VB?oc=5
-
 - 上司の悩み相談「頼りにされて嬉しい」「安心感が増す」と部下の約半数がポジティブに受容／シーベース調査 - SalesZine
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE53QzVaRW56M0NqREVpMms2dDY1VGxVQUo5ODdUMGd1YnF4SUg0M1VDeWJmVVJMLVA1Z1JQb3BOcWRuMnB0S0pid1VQcFpkTTRaMWc?oc=5
+
+- 毎週約3億人が相談！？ChatGPTが「心の友」から「健康のパートナー」へ 驚きの医療特化サービスをアサデス。 ラジオで解説 - KBC九州朝日放送
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE03eDVjUHpyUDl4OWQ1YXpnVlZkdXFoV2ZlVWtUd0U3b3FlUFlqNTRySjA1S05FT3FPTExFWGFxOFR4X3RmMFowMFZ3NDBIckpZMzh2VllUdDZGb3hxZkhNVldPemVkb1NtQnNsX2VB?oc=5
 
 - 児童相談所での殺傷事件想定 警察などと連携し初動対処訓練 （九州朝日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZSVNNd1FiX294bkRkWThFZERPd0w3cG1MNTVXTEpNZ3E5TmFSZ1Y0czJaTmlLYlJlam9kRUxIelRTLWRsUVZRYjh4Z0pKMFVmdnpXTmZSVEI1UFo0T2V0Y1FqLUduakVrUkgtT0ktcFQtQ0w4S1RRaUNQS0RYeE0?oc=5
@@ -51,12 +51,12 @@
 - 人事に聞いた今一番の悩みVol.2【人事大解剖総集編――人事リレーの輪11人目～20人目】 - HRプロ
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FOVkwcFo2VnZVVGgtSGVyd3NLSExESEpCNFoyNTJWZzZMZFpqVkhYQTZJaHNlVG5jV0o0Y0V1Rjh3U2ZqUzRiaWI3TER3bW1qZGU2WTBRVFZ3My1kdzRlMg?oc=5
 
-- ケプカ、復帰の最初の相談相手はウッズ「真っ先に頭に浮かんだ」 シェフラーやマキロイにも言及（my caddie） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9MRko5WVZMSk9pWnJZQmdieWF1cjh5eHpRR1d5NXBESngtSFZETTJwTzQwNmg0eWFGNjdDazl0V0dUdmttQ2lOdVN1UVZxWWdNYk14dlRMbkFkVnlCNm9mTUNzV3ZSWXU1bUlZNGxQWHJ5bkdVZktVTEU5eU5Eb1E?oc=5
+- 街で見かける「あのバス」が、買取の相談のきっかけに横浜・上大岡エリアを走る「おたからや」ラッピングバスのデザインをリニューアルし運行中 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1JQWFiUjVoLVVyZVdoVGxiTlZYN0w2SUR0aDVjc2huYndYaFF1aVdpSU9ING8zd25OR3F1ZjMyTEFobFNGN3JFTnBxbnE5QWZVejA3ZjJpSGU0ZHpGaFR3Yk44dkFKU0ZjbVE?oc=5
 
 - 【調査発表】利用者の4割が収納の悩みを「極めて深刻」と回答した収納ストレス。 引っ越しを機に新居を「モノの置き場」にしない。 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE95QWNSNXByQnA3NHlXbkM3b3IwN2lJb29XeUhieW1adUlJdjZxb3phcmQ1UHV4TTRzbXhBVTkwazg4cmJWWXgzVDNHcjR6b2d4WURWNmc5emtiYkVfbUJveUgtcDVjOFBGNXc?oc=5
 
-- 街で見かける「あのバス」が、買取の相談のきっかけに横浜・上大岡エリアを走る「おたからや」ラッピングバスのデザインをリニューアルし運行中 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1JQWFiUjVoLVVyZVdoVGxiTlZYN0w2SUR0aDVjc2huYndYaFF1aVdpSU9ING8zd25OR3F1ZjMyTEFobFNGN3JFTnBxbnE5QWZVejA3ZjJpSGU0ZHpGaFR3Yk44dkFKU0ZjbVE?oc=5
+- 「髪の悩みは頭皮で9割解決する！」人気美容師・和久井克哉さん初の書籍が発売。間違いだらけの頭皮ケアの新常識を一冊に - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBKTzVJM1ktQlZtQU1YSGYxbVBRbk5MMW41dDVZdEdCQWIzaVd6RDRyR1V1TF9DTUkxajdPUE5pbDE2MlhzeS1OdElLc1QySkFaSVp2dWRZZ2Fna3hLR3p3TWR2NXNpQ2k4Wmc?oc=5
 
