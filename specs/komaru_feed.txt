@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-28 05:21) ===
+=== こまる相談 ニュースフィード (2026-01-28 06:23) ===
 
 - 行政相談における「業務の範囲や程度を明らかに超える 苦情相談」への対応について - fsa.go.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE1IWTI3MG1LcldmWEtpYUo2dk1YSFRnQXdZNWhOTURTaWhrUHNTQXdLQWV5OTlHSlNxbVdHTHU2NnpmT0JPRi1ILUNDbzhGX1g3Y19FQ1FjQW5OUmF3VU4wVEFJVmpqYlZYcDBN?oc=5
@@ -36,17 +36,17 @@
 - 起業家が、起業家を支える場所へ。｜PR TIMES STORY - kyoto-np.co.jp
   https://news.google.com/rss/articles/CBMidkFVX3lxTE9wWVhBRmVCWkRaREw3dkhrVXAxZmVSM2dZV0JQVFJrakpJQ2xDMmE1MGRZRktRUWhCYndya3BOV0tkZEJweHlmS2lQUVRPeGVVY0cxQTBRQ21WZ2tHb0VQSTZHMWJPeVNkZldseHNNVWN2aVpPbnc?oc=5
 
-- 毎週約3億人が相談！？ChatGPTが「心の友」から「健康のパートナー」へ 驚きの医療特化サービスをアサデス。 ラジオで解説 - KBC九州朝日放送
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE03eDVjUHpyUDl4OWQ1YXpnVlZkdXFoV2ZlVWtUd0U3b3FlUFlqNTRySjA1S05FT3FPTExFWGFxOFR4X3RmMFowMFZ3NDBIckpZMzh2VllUdDZGb3hxZkhNVldPemVkb1NtQnNsX2VB?oc=5
-
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
 - 2月26日(木)「社会保険労務士による相談会」開催のご案内 - wwwhp.md.shinshu-u.ac.jp
   https://news.google.com/rss/articles/CBMieEFVX3lxTFBaWnJkMzJlM1FfaFhlSzItaDdWMWVTUXFXckNvb0Zpb3pYZTRlMU0xbG5nN2pLRldqZGI1RHM2OEZvc0dCQnlNMDBrZ3dCamI3d245eVdQUW9SNG5hbjh2SmxtbzRXSUFuWk4yRExsTWdGbVpLcWZQQQ?oc=5
 
-- 【調査発表】利用者の4割が収納の悩みを「極めて深刻」と回答した収納ストレス。 引っ越しを機に新居を「モノの置き場」にしない。 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE95QWNSNXByQnA3NHlXbkM3b3IwN2lJb29XeUhieW1adUlJdjZxb3phcmQ1UHV4TTRzbXhBVTkwazg4cmJWWXgzVDNHcjR6b2d4WURWNmc5emtiYkVfbUJveUgtcDVjOFBGNXc?oc=5
+- AI人事評価システムを導入→A評価の社員がC評価に…社員の抗議に上司はどう対応すべき？ - ダイヤモンド・オンライン
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ROVUtRjZ6X2tNTkY0bmVfUTFNWl80VGdXSUVBV2p0clhoRVpMempnWmRjbmZFZEFXdlZFUF9TeGp3cGRsRGp4bU4zS1LSAU9BVV95cUxPczBPeElrSkJaNkRiU1FRODgzYmt3dTNQbVBRMFdpeC1ZT19lWGxSR18yX3paZHRodHI0UnVKUFB4cHhLMWFONG5XMUltRVl3?oc=5
+
+- NTTドコモ 「 NISAに関する意識調査」 新NISA開始から2年、認知率は高水準に達するも、NISA未利用者の約8割の人が「身近に相談できる場所がない」と回答 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5rWDBibWlocmpoSUNMR3B2bGhWWEdicW1jS0RGZ1ByeUZSdW1tZkhIM2dmS0U4T2dWdFFCX3FBU0pZazBRbG1MRFFETUxjOFRHTE1HQk80bW1CWVI5aTN6NGk3T3BzNzFaeGc?oc=5
 
 - 人事に聞いた今一番の悩みVol.2【人事大解剖総集編――人事リレーの輪11人目～20人目】 - HRプロ
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FOVkwcFo2VnZVVGgtSGVyd3NLSExESEpCNFoyNTJWZzZMZFpqVkhYQTZJaHNlVG5jV0o0Y0V1Rjh3U2ZqUzRiaWI3TER3bW1qZGU2WTBRVFZ3My1kdzRlMg?oc=5
@@ -54,9 +54,9 @@
 - 中学生のアイデア 10キロ超「重すぎる通学バッグ」が悩み…快適に持ち運べる「BAG」生み出す 重い荷物を運ぶ「歩荷」を参考 重いもの上、軽いもの下 重心が背中側からズレないように 改良を加え「商品化」検討（FNNプライムオンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE83NHFoMGVSd2xSQ3hqb3MxWWdFVFZEMWVIMjY4enZ4TzZVNFljTTYwM2hQVmh1ZjY1Tk5wMDF3S3U0RnhkLVpxakdNRFc2Tk11TjI2cXM2bDRESGdYeDRJZkIxdmJhZDRUcnMzQkpjekVKQmMxWnFLWk1TNUVYZU0?oc=5
 
-- NTTドコモ 「 NISAに関する意識調査」 新NISA開始から2年、認知率は高水準に達するも、NISA未利用者の約8割の人が「身近に相談できる場所がない」と回答 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5rWDBibWlocmpoSUNMR3B2bGhWWEdicW1jS0RGZ1ByeUZSdW1tZkhIM2dmS0U4T2dWdFFCX3FBU0pZazBRbG1MRFFETUxjOFRHTE1HQk80bW1CWVI5aTN6NGk3T3BzNzFaeGc?oc=5
+- ハローワーク松本による就職相談会 - wwwhp.md.shinshu-u.ac.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE9JLTlGZTB0eTJxRVlmRVdQLWM1MFVVbjE1cUFYdEdjbnZkTEUxLXBfR3g0aUd4RXdkVk5yRmRrMGF6NHNFYTVJeFhENDczdFlvUll6MzY1N0pud2FheFhSQmRMTDExYjZHbzhYZFNnelllOEFf?oc=5
 
-- 「弁護士と相談するまでは話しません」 SNSで知り合った少女に性的暴行か 私立学校教員の男を逮捕（中京テレビＮＥＷＳ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBlek9UdnB4Qkd3bnVIUGRTNlB2eC1rc2JhODVad0c3aEJZOGM1QWZRcjZzLXZsVEthX0t3LUh5cEVxWHZ2T3ZUZFlrUk1QRnlHVXpYNmFCanJMX2pKVkV4REZJMk8wMDVPbnJXSXo0R2FIVnZZSzQya2NNNVVLYTg?oc=5
+- 【調査発表】利用者の4割が収納の悩みを「極めて深刻」と回答した収納ストレス。 引っ越しを機に新居を「モノの置き場」にしない。 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE95QWNSNXByQnA3NHlXbkM3b3IwN2lJb29XeUhieW1adUlJdjZxb3phcmQ1UHV4TTRzbXhBVTkwazg4cmJWWXgzVDNHcjR6b2d4WURWNmc5emtiYkVfbUJveUgtcDVjOFBGNXc?oc=5
 
