@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-01-28 21:20) ===
+=== こまる相談 ニュースフィード (2026-01-28 22:17) ===
+
+- 神奈川大学＞学生の2人に1人が訪れる相談窓口。神奈川大学に学ぶ「学生を動かす」情報の伝え方 - HRプロ
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Kdm5MLUlYaEcyWEppamFLSnUyY0NOVDYzUG51Nzcza3lOMVZTWUpxZHpjRzI0d0dYejBLNlB4Yk1vaFBseFQ3akgwbHBOUk1GdDlxUkN6VGFORTRNbVJWOA?oc=5
 
 - 行政相談における「業務の範囲や程度を明らかに超える 苦情相談」への対応について - fsa.go.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE1IWTI3MG1LcldmWEtpYUo2dk1YSFRnQXdZNWhOTURTaWhrUHNTQXdLQWV5OTlHSlNxbVdHTHU2NnpmT0JPRi1ILUNDbzhGX1g3Y19FQ1FjQW5OUmF3VU4wVEFJVmpqYlZYcDBN?oc=5
@@ -6,14 +9,14 @@
 - 【大阪】セミナー＆移住相談会「意外とええやん！岐阜」（御嵩町出展）※事前申し込み必須 - town.mitake.lg.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TSzRoMFltbUpQTkg5TkJhcmxndF9jWkpaWEdxdUlzeFBUSTlkQXVmYXN5Yk9TeXoyaTNWSDdIMkpycUFWQXZySlNOLXROMVV5bTZNbjlsdlVEWXQ3TmhWZFczTmZpd1JN?oc=5
 
-- 無料特別相談「多重債務110番」を実施|1月 - metro.tokyo.lg.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE5CM1pFQkE3REJZX2dMWlBKQ1BTLUh4LVN5NC12TFkycHVGRGdxWF9CbXFaNlB6aWROUEU3dUxETjFBS0ttY1AxdHY4dEJQOThhLWZSdDY3aVpjRnJkNS14TWl0RHZKYXpMTXhrVnlGSjZzNERL?oc=5
-
-- 阪神・森下翔太 “行列のできる相談所”を宜野座Cで開設 ドラ2谷端将伍ら若手を歓迎「教えたい」（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9lVUlXVGRQSnpseFRnRWx0RnRIVEpLbVJ0bEhUeWVJVXZoX0Naem84TlRRcllqY051TmU0Z1h2TzcxNVpmdG5vQ1BMOXBEUFo1czV2NEtkNVQ4S2c0cnpHQ0xGdFdfUlVVLTFXcUVZbnFPZHlGdkp0SFAtczRnZmM?oc=5
-
 - 横浜市 生成AIでがん相談 正しい医療情報を | 港北区 - townnews.co.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LZUhlQ0t0U0pDTmE4WV95M3ZEc0N0Mm5wWS1lY0d5Sk9FQkZtcWlQcEttb09uQU1nVnVLOXo4ZUl4di10MG5fbkc2Yk41VVgwczJCdHhjTG8tcVVkcHBjcUtPSUM?oc=5
+
+- 【茅ヶ崎市】茅ヶ崎市薬物乱用防止対策と相談窓口案内！1回でも犯罪になる危険性 - shonanjin.com
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE5uSExGeVU5QVIwVnFyZ0U3MVQydWVhZFNFd2xrazJBN1ZwN2R5bzBTLWQ3YUo4bks5WDhRR3FMUGdmN0pobE4xeElvZ2pEeDVtUDV1VG9pTWR3d3N4LVVOLWlLejB0UmczVDMw?oc=5
+
+- 無料特別相談「多重債務110番」を実施|1月 - metro.tokyo.lg.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE5CM1pFQkE3REJZX2dMWlBKQ1BTLUh4LVN5NC12TFkycHVGRGdxWF9CbXFaNlB6aWROUEU3dUxETjFBS0ttY1AxdHY4dEJQOThhLWZSdDY3aVpjRnJkNS14TWl0RHZKYXpMTXhrVnlGSjZzNERL?oc=5
 
 - 【相談者】元不倫相手を結婚式に呼ぶべきか悩む２０代女性 - TVer
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xVUhJNU1JeDloV2o1NTF6VU4wT1ZWbkp6UldFNGpuaFBjNjMtSlFJUXR0N1c2Zkl4Q1ljeElfaFUtVkFNS21jdDZndw?oc=5
@@ -24,29 +27,29 @@
 - 創業２期目融資相談会 沖縄市で来月６日、参加無料 - ryukyushimpo.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4blFKb29DVEtHc01JazR3RHlIR1RLY1JDa005bHFaQ0VycTV1M1FfaWxhaEpyei1LaXNTUWRrNDRWdW9pRm95b00xZl96ZzFSbDJpckRfUThZOFdCemc?oc=5
 
+- 阪神・森下翔太 “行列のできる相談所”を宜野座Cで開設 ドラ2谷端将伍ら若手を歓迎「教えたい」（スポニチアネックス） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9lVUlXVGRQSnpseFRnRWx0RnRIVEpLbVJ0bEhUeWVJVXZoX0Naem84TlRRcllqY051TmU0Z1h2TzcxNVpmdG5vQ1BMOXBEUFo1czV2NEtkNVQ4S2c0cnpHQ0xGdFdfUlVVLTFXcUVZbnFPZHlGdkp0SFAtczRnZmM?oc=5
+
 - Medii、健やか親子支援協会の「希少難病オンライン専門医相談窓口」へシステム提供 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1xR0N0QjJBUzFBemJlMTlMekFUYkFfbkNtRzlOeTZmR0FnTllEWXV0eWVNVXhJUFJJNXZ6STc5Nm9Zd21CS25IMzhjNjUtOUs1MWpWZG4zZHhGcm01eDY2ZGNDd1hDaUxYNWc?oc=5
-
-- （がんとともに）「がんママ」の孤独や悩み、知って 育児と治療の両立 集い１０年運営・井上文子さん - 朝日新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwT1FXM0o3d3dNeXZiNkREWXFMUVFfMTdtY1dscWVhNzhuQjJUU21lNmszUWNwMXU3XzdLcWJGVjUxQ25GOGVqSFhPeXk3ZGVqcVRzVkx2SFN4Nk9s?oc=5
-
-- 加除式書籍『訪問看護業務をめぐる法律相談』1/28に新刊発売！ - newscast.jp
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrNWtGTUpHOGw2Z3UtdXZfNkEtU2hJWnFNdjVhNGN5djNxZmhxNmtZd1NONGxYeWhtZEFiaW9sa1AtbGtRZ2JuS296RDhtekU?oc=5
 
 - 2月26日(木)「社会保険労務士による相談会」開催のご案内 - wwwhp.md.shinshu-u.ac.jp
   https://news.google.com/rss/articles/CBMieEFVX3lxTFBaWnJkMzJlM1FfaFhlSzItaDdWMWVTUXFXckNvb0Zpb3pYZTRlMU0xbG5nN2pLRldqZGI1RHM2OEZvc0dCQnlNMDBrZ3dCamI3d245eVdQUW9SNG5hbjh2SmxtbzRXSUFuWk4yRExsTWdGbVpLcWZQQQ?oc=5
 
+- （がんとともに）「がんママ」の孤独や悩み、知って 育児と治療の両立 集い１０年運営・井上文子さん - 朝日新聞
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwT1FXM0o3d3dNeXZiNkREWXFMUVFfMTdtY1dscWVhNzhuQjJUU21lNmszUWNwMXU3XzdLcWJGVjUxQ25GOGVqSFhPeXk3ZGVqcVRzVkx2SFN4Nk9s?oc=5
+
 - 対話型AI、相談相手としては悩ましい？　　おとにち 1月29日（木）　病気と薬と私と（16） - 日刊薬業
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GWnN0RmZEcVdocVpPdU5PZjdWODJ5LVlWY2p1cW14RU5vM0xISXRBM3V0eU5NVlBfdGoxWkpxQ0lkR1ZnTG5FN9IBTkFVX3lxTFAyTlJhWmI1cmdFYXE1YVNTamJoZFFCOE9pUGZpeWpGSV9ZeGp3QXhudVMzdXluc05oOWIwX2JaVDZJRnQwSVJPM1otLWU1UQ?oc=5
 
-- 【こども・若者の相談窓口及び支援について】 - 選挙ドットコム
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE80c2Z5dktCbGs2S05OdEZ6ajV3aTVQTzBuODczd3FFSlh5SDBfRmc4WFpkQi11Nks0YnVMb1NQODlxMzBENk9uNmI2MnQ4ZEhzeWNkTy1zSG1xcWZXWi1B?oc=5
+- 加除式書籍『訪問看護業務をめぐる法律相談』1/28に新刊発売！ - アットプレス
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE42U3pBem1aUGVSbHdsV3cyWVdfY0c4ZE1lZ09nU0Zxd1Jaa2JPNlNSZ1IwNW0tLWlkSjRmSk1DWE4wbUZ0THBETXBOV2d2aHM?oc=5
 
-- 消費トラブル相談増加傾向 SNS型詐欺目立つ 釧路市の審議会で報告 - hokkaido-np.co.jp
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5blBWV3poN3cwTFRGSVYwa19oTlFPb2luQkJFOGxyOVR0RWNZZ3BXTUlnRm05NmhvTk9zZWVMSTV4em0tNWRIYlpRMnIxY1dYRGV1bnFpV0J6UQ?oc=5
+- 看護の復職相談会 ２月８日 参加無料 | さがみはら緑区 - townnews.co.jp
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYNHBGTnZlX0VSSVc1cTF3S2htTjhQM3QzbURxRUV4S2kwaHdfNlFzN2NmQjRjYkFHZ2hxN19FR25VUUUyYklzczQ4WGI4aXMxbldSSmIxZVZ5bnV4QXFIYjFmUGo?oc=5
 
-- 相談通じ、地域貢献を 宅建相模南支部 | さがみはら南区 - townnews.co.jp
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDMFE5ckprMWcxU2J5aGgtcGxMZFAxTjU3UUhaZG1KeDM2c0lMZGttM1dHY0lsMGRjMkktWmNSRms5TWh5OEdwcktKQ294aEJCV2pqSktFM184VWFVM2d1cFl2X1k?oc=5
+- ハローワーク松本による就職相談会 - wwwhp.md.shinshu-u.ac.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE9JLTlGZTB0eTJxRVlmRVdQLWM1MFVVbjE1cUFYdEdjbnZkTEUxLXBfR3g0aUd4RXdkVk5yRmRrMGF6NHNFYTVJeFhENDczdFlvUll6MzY1N0pud2FheFhSQmRMTDExYjZHbzhYZFNnelllOEFf?oc=5
 
 - 核燃料再処理工場の安全協定、検査見通し立てば相談＝増田日本原燃社長(時事通信) - Yahoo!ファイナンス
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEQtSjZPajFOYTE5Zm4yOHI3WkFnRmptNnZsblZWYmlqUXdSXzJoU1dHUEpNQkI5dWpoYmE1a1BwWEMwT3Q0bmpvWmZQYlJCaWpxNHFmN1J4WEtWU09IeEM2a3VFYm1oNkp4aWc5QTBwakZHZUl5Y0R3WllmdDhMY3VYV2RCcTQ?oc=5
@@ -54,9 +57,6 @@
 - 「AIが相談相手になる世界」を当たり前に──株式会社アルテニア、“かっこいい会社”を社員とともに創る - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE81QjhrVDk5SzJUNTJXYnFLVllEWGV6TDFGaV9zXzlGNkdxckVsYmwzN1BETmRlQXgtTmt6cFVwUGlfclctaHkxVmNGVFEzczNvTXZjNXNmdEpkRmE5VUJlQW1pY2dHOUxqMlE?oc=5
 
-- ハローワーク松本による就職相談会 - wwwhp.md.shinshu-u.ac.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE9JLTlGZTB0eTJxRVlmRVdQLWM1MFVVbjE1cUFYdEdjbnZkTEUxLXBfR3g0aUd4RXdkVk5yRmRrMGF6NHNFYTVJeFhENDczdFlvUll6MzY1N0pud2FheFhSQmRMTDExYjZHbzhYZFNnelllOEFf?oc=5
-
-- 看護の復職相談会 ２月８日 参加無料 | さがみはら緑区 - townnews.co.jp
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYNHBGTnZlX0VSSVc1cTF3S2htTjhQM3QzbURxRUV4S2kwaHdfNlFzN2NmQjRjYkFHZ2hxN19FR25VUUUyYklzczQ4WGI4aXMxbldSSmIxZVZ5bnV4QXFIYjFmUGo?oc=5
+- 相談通じ、地域貢献を 宅建相模南支部 | さがみはら南区 - townnews.co.jp
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDMFE5ckprMWcxU2J5aGgtcGxMZFAxTjU3UUhaZG1KeDM2c0lMZGttM1dHY0lsMGRjMkktWmNSRms5TWh5OEdwcktKQ294aEJCV2pqSktFM184VWFVM2d1cFl2X1k?oc=5
 
