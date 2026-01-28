@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-28 17:25) ===
+=== こまる相談 ニュースフィード (2026-01-28 18:26) ===
 
 - 行政相談における「業務の範囲や程度を明らかに超える 苦情相談」への対応について - fsa.go.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE1IWTI3MG1LcldmWEtpYUo2dk1YSFRnQXdZNWhOTURTaWhrUHNTQXdLQWV5OTlHSlNxbVdHTHU2NnpmT0JPRi1ILUNDbzhGX1g3Y19FQ1FjQW5OUmF3VU4wVEFJVmpqYlZYcDBN?oc=5
@@ -9,11 +9,11 @@
 - 横浜市 生成AIでがん相談 正しい医療情報を | 港北区 - townnews.co.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LZUhlQ0t0U0pDTmE4WV95M3ZEc0N0Mm5wWS1lY0d5Sk9FQkZtcWlQcEttb09uQU1nVnVLOXo4ZUl4di10MG5fbkc2Yk41VVgwczJCdHhjTG8tcVVkcHBjcUtPSUM?oc=5
 
-- 無料特別相談「多重債務110番」を実施|1月 - metro.tokyo.lg.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE5CM1pFQkE3REJZX2dMWlBKQ1BTLUh4LVN5NC12TFkycHVGRGdxWF9CbXFaNlB6aWROUEU3dUxETjFBS0ttY1AxdHY4dEJQOThhLWZSdDY3aVpjRnJkNS14TWl0RHZKYXpMTXhrVnlGSjZzNERL?oc=5
-
 - 【相談者】元不倫相手を結婚式に呼ぶべきか悩む２０代女性 - TVer
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xVUhJNU1JeDloV2o1NTF6VU4wT1ZWbkp6UldFNGpuaFBjNjMtSlFJUXR0N1c2Zkl4Q1ljeElfaFUtVkFNS21jdDZndw?oc=5
+
+- 無料特別相談「多重債務110番」を実施|1月 - metro.tokyo.lg.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE5CM1pFQkE3REJZX2dMWlBKQ1BTLUh4LVN5NC12TFkycHVGRGdxWF9CbXFaNlB6aWROUEU3dUxETjFBS0ttY1AxdHY4dEJQOThhLWZSdDY3aVpjRnJkNS14TWl0RHZKYXpMTXhrVnlGSjZzNERL?oc=5
 
 - 真岡市基幹相談支援センター（障害児者相談支援センター）のご案内／真岡市公式ホームページ - city.moka.lg.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1ZTNU1rdFhxc3BROW92ckpmTkVEaVFWMHgtelphWjd3UzlpSVBqZWRZaUhZc2JMY0RmeG8xbTE1VnRJMlpfbWJ0dWlKeGxpQjRLbjVRMkVud2N2NllqMFRibU1ibFJvM1gzZldUMEFjNGRsbXBtamNhTVJDbGlGMXIyZGdYMzZVRlE?oc=5
@@ -27,9 +27,6 @@
 - 加除式書籍『訪問看護業務をめぐる法律相談』1/28に新刊発売！ - newscast.jp
   https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrNWtGTUpHOGw2Z3UtdXZfNkEtU2hJWnFNdjVhNGN5djNxZmhxNmtZd1NONGxYeWhtZEFiaW9sa1AtbGtRZ2JuS296RDhtekU?oc=5
 
-- 生成AI、男子より女子が利用 「相談相手」の活用多く - kyoiku-press.com
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPSUlUVmRUa0lMbTdZVnZ5YUpIYkpTUjV0bWJsOVVrcmxrblNrZHV1enUzWFV4U2FqcXZRNVlodXFudE1jN1lFNHh4MG1EVXhpQXhV?oc=5
-
 - （がんとともに）「がんママ」の孤独や悩み、知って 育児と治療の両立 集い１０年運営・井上文子さん - 朝日新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwT1FXM0o3d3dNeXZiNkREWXFMUVFfMTdtY1dscWVhNzhuQjJUU21lNmszUWNwMXU3XzdLcWJGVjUxQ25GOGVqSFhPeXk3ZGVqcVRzVkx2SFN4Nk9s?oc=5
 
@@ -39,17 +36,20 @@
 - 【こども・若者の相談窓口及び支援について】 - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE80c2Z5dktCbGs2S05OdEZ6ajV3aTVQTzBuODczd3FFSlh5SDBfRmc4WFpkQi11Nks0YnVMb1NQODlxMzBENk9uNmI2MnQ4ZEhzeWNkTy1zSG1xcWZXWi1B?oc=5
 
-- 消費トラブル相談増加傾向 SNS型詐欺目立つ 釧路市の審議会で報告 - hokkaido-np.co.jp
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5blBWV3poN3cwTFRGSVYwa19oTlFPb2luQkJFOGxyOVR0RWNZZ3BXTUlnRm05NmhvTk9zZWVMSTV4em0tNWRIYlpRMnIxY1dYRGV1bnFpV0J6UQ?oc=5
-
 - 2月26日(木)「社会保険労務士による相談会」開催のご案内 - wwwhp.md.shinshu-u.ac.jp
   https://news.google.com/rss/articles/CBMieEFVX3lxTFBaWnJkMzJlM1FfaFhlSzItaDdWMWVTUXFXckNvb0Zpb3pYZTRlMU0xbG5nN2pLRldqZGI1RHM2OEZvc0dCQnlNMDBrZ3dCamI3d245eVdQUW9SNG5hbjh2SmxtbzRXSUFuWk4yRExsTWdGbVpLcWZQQQ?oc=5
+
+- 消費トラブル相談増加傾向 SNS型詐欺目立つ 釧路市の審議会で報告 - hokkaido-np.co.jp
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5blBWV3poN3cwTFRGSVYwa19oTlFPb2luQkJFOGxyOVR0RWNZZ3BXTUlnRm05NmhvTk9zZWVMSTV4em0tNWRIYlpRMnIxY1dYRGV1bnFpV0J6UQ?oc=5
 
 - 相談通じ、地域貢献を 宅建相模南支部 | さがみはら南区 - townnews.co.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDMFE5ckprMWcxU2J5aGgtcGxMZFAxTjU3UUhaZG1KeDM2c0lMZGttM1dHY0lsMGRjMkktWmNSRms5TWh5OEdwcktKQ294aEJCV2pqSktFM184VWFVM2d1cFl2X1k?oc=5
 
 - 「AIが相談相手になる世界」を当たり前に──株式会社アルテニア、“かっこいい会社”を社員とともに創る - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE81QjhrVDk5SzJUNTJXYnFLVllEWGV6TDFGaV9zXzlGNkdxckVsYmwzN1BETmRlQXgtTmt6cFVwUGlfclctaHkxVmNGVFEzczNvTXZjNXNmdEpkRmE5VUJlQW1pY2dHOUxqMlE?oc=5
+
+- ハローワーク松本による就職相談会 - wwwhp.md.shinshu-u.ac.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE9JLTlGZTB0eTJxRVlmRVdQLWM1MFVVbjE1cUFYdEdjbnZkTEUxLXBfR3g0aUd4RXdkVk5yRmRrMGF6NHNFYTVJeFhENDczdFlvUll6MzY1N0pud2FheFhSQmRMTDExYjZHbzhYZFNnelllOEFf?oc=5
 
 - 年々増加する児童虐待を防げ 児童相談所と警察が合同訓練 鹿児島・姶良市 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE96NTRmdDBTUmppWlgwOW5WeURMSTNyU0NLc2dUcEVnYUZYRHN5M3pmREMyS0dsd05EVE9pbU4xWmJmblhLQXB0VWk5bzRvUmhJRUEyZ25BLVJiUHduYVhmVzJMYzJXRHdwcEMzS3BMYlVVbW5jb0hYSFllTTQ0SE0?oc=5
