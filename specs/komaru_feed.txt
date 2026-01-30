@@ -1,55 +1,52 @@
-=== こまる相談 ニュースフィード (2026-01-30 01:10) ===
+=== こまる相談 ニュースフィード (2026-01-30 04:00) ===
 
 - 3月は「自殺対策強化月間」です - city.isesaki.lg.jp
   https://news.google.com/rss/articles/CBMifEFVX3lxTE5EWFE5QTBjZzRyOGVKZmNsTmgtd3J1Qk1QcFdUX1h2ZEVqVWR1aHJZQmFvYnR0bDZiVm5rbVladzJxTl95TTJYZWlxdEVJVTFQQ2gzaUowMlNiZWc2MVdNZXRBbDdUX3BqUV9vM0ZWNTBCQnJvOGVqZHFEUHQ?oc=5
 
-- チャットボットにイライラ、つながらない相談員…韓国で広がる“AI疲れ”（KOREA WAVE） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE8wRzlHdGJ0RFhmZW9zbE80N2FoajhveEFiNXVRTzNOLW5jaHFOZWc2dDF0dkd3d1daQVVaZHUyc1dheTFFVE50LXJjd1dNQXUycmh4RjhJOVVFYzRGbE5UbzNYWnlVUVN6UDAyanEtdjhYaVVuaWJESkx5SlZwYU0?oc=5
+- 【自殺対策】対話型ＡＩ、支援の糸口に 悩み打ち明けやすく - okinawatimes.co.jp
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmYmUyX2ZZZHJHNHlqbFpWRzBtN082akQ1eFFWRGh4Z1BpanVnZVNSMlV1NDRyczVXZVF6S21TS3ZBemlTUjdSV3pERGdyUG04LVczTUNWNzg1U2lLR0E?oc=5
 
 - 行政相談における「業務の範囲や程度を明らかに超える 苦情相談」への対応について - fsa.go.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE1IWTI3MG1LcldmWEtpYUo2dk1YSFRnQXdZNWhOTURTaWhrUHNTQXdLQWV5OTlHSlNxbVdHTHU2NnpmT0JPRi1ILUNDbzhGX1g3Y19FQ1FjQW5OUmF3VU4wVEFJVmpqYlZYcDBN?oc=5
 
-- 窓の断熱リフォーム相談会 - city.kawaguchi.lg.jp
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5RTJ3NDk0S2dyOXVQU3c0b2hoQklOTnVQNUpHeEV2MGxXYWRTNnlwZ3JaMThLQ0JnSHlzZzR4Q3U0Tk5uVWhGOHN1RU1SUkRWRWZKQ1FOYkVMdl96U2xObm1vN0g?oc=5
-
 - 「だまされてる?」男性が警察に相談、純金の代わりに石を封筒に… 詐欺未遂疑いで男逮捕、容疑否認 明石 - kobe-np.co.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE5lLUhMQVpRdE1SV0hIc0pQSHVfTE1haTZpa0YwcS1sSWxOT1BOVnV6T213WFJ4WllPVlo2Qkp1Sjd3WjVCRVlBV2MycnZoOC15cFNIVE01X0c4bVZlTEhHeTNVaGswd05lODJv?oc=5
-
-- 主催：東京都 - omecci.jp
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkZWY4aHJuVzQyOHRYRmxzWFctR1E1M0RhTDJYWGQ1XzBseW56S0xjVFJOYi1BaUtGU0JPUWFyTmd6RXRURlpITzF4c1ctdw?oc=5
 
 - 無料特別相談「多重債務110番」を実施|1月 - metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE5CM1pFQkE3REJZX2dMWlBKQ1BTLUh4LVN5NC12TFkycHVGRGdxWF9CbXFaNlB6aWROUEU3dUxETjFBS0ttY1AxdHY4dEJQOThhLWZSdDY3aVpjRnJkNS14TWl0RHZKYXpMTXhrVnlGSjZzNERL?oc=5
 
-- 採用の悩みをざっくばらんに！ 長岡市で企業の担当者が情報交換、それぞれの課題の解決策を探る - niigata-nippo.co.jp
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0bnc0dlJRam12NnU1clU5WG9DeGUyTlVGR2dhanRKbGs0dWhLTDhwX3ZWd2xJcHYtS3VTcXhrZFZGUG50RDQzUUJPb0pVaUhXYVNvSnpMb3p3M1JXeGc?oc=5
+- チャットボットにイライラ、つながらない相談員…韓国で広がる“AI疲れ”（KOREA WAVE） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE8wRzlHdGJ0RFhmZW9zbE80N2FoajhveEFiNXVRTzNOLW5jaHFOZWc2dDF0dkd3d1daQVVaZHUyc1dheTFFVE50LXJjd1dNQXUycmh4RjhJOVVFYzRGbE5UbzNYWnlVUVN6UDAyanEtdjhYaVVuaWJESkx5SlZwYU0?oc=5
+
+- 主催：東京都 - omecci.jp
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkZWY4aHJuVzQyOHRYRmxzWFctR1E1M0RhTDJYWGQ1XzBseW56S0xjVFJOYi1BaUtGU0JPUWFyTmd6RXRURlpITzF4c1ctdw?oc=5
+
+- アニメワークフロー効率化相談室 Vol.04 タイムシートから線撮を自動生成する「カットジェネレーター」 - CGWORLD.jp
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aRnVDUnZ2SlJvYUhzb2QzR2JELWZQSnVSWVBPVldDMkJzbGtpekdELVJQdEVia3ZWSk43MFlrSDdhQXNFdXRFaHEtbjNwd29pZGxV?oc=5
 
 - 困った時には相談が大切 - tonichi.net
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xTmVvbVFzYTdZS1ZWYTFubjhBOGoyVFFuY1RVMm15WjBYWUh1dFY0N0VUNTFBeUlieEY1RTd6VFNIaThWUXdPVzJTUGpaUmxETXhSNmhwTmJzUlR4?oc=5
 
-- ■行政書士会が来月１３日に無料相談会 - ryukyushimpo.jp
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE02OV9wRFcySHREZ0VqeVp1alNTODZCOHNWZXNpUUdQZ2REdVRFd3BudzVicmtUdXRZZFBsQ1N1MjZmbHpUdlFpVlgxSTlwNHRsQ0w3M3hUclNqQi0taVQ0ZA?oc=5
+- 窓の断熱リフォーム相談会 - city.kawaguchi.lg.jp
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5RTJ3NDk0S2dyOXVQU3c0b2hoQklOTnVQNUpHeEV2MGxXYWRTNnlwZ3JaMThLQ0JnSHlzZzR4Q3U0Tk5uVWhGOHN1RU1SUkRWRWZKQ1FOYkVMdl96U2xObm1vN0g?oc=5
+
+- 採用の悩みをざっくばらんに！ 長岡市で企業の担当者が情報交換、それぞれの課題の解決策を探る - niigata-nippo.co.jp
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0bnc0dlJRam12NnU1clU5WG9DeGUyTlVGR2dhanRKbGs0dWhLTDhwX3ZWd2xJcHYtS3VTcXhrZFZGUG50RDQzUUJPb0pVaUhXYVNvSnpMb3p3M1JXeGc?oc=5
 
 - 『ServiceNow ITSM導入企業の皆さん、運用・改善の“お悩み”を一緒に解決しませんか？』というテーマのウェビナーを開催 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5kR0VHLXFzSS1Ga1FtQkVlR3U1UTlJZ3ctXzFYNnBieFlpcXhBSklfMUswbmJNY2R2aDQ5NEM5ZFRncE1pbnhsMzl5enZrQmY2X19lODN5bG9YaF9vemUtMTlpcGg1WFJ5TWc?oc=5
 
-- ベテランマスコットの悩み - townnews.co.jp
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SaGpBU3VCdHdfcnFGeGhpQWtYbGNLVzJ1aDFURFg4VzBmM2s1QUtiNUNHTXdldmZlNlR4eGZPSUFuc3B4LVJaYWFwUmVQclRMRXNVZXkwOVpSOFFwS2VCcFVISm4?oc=5
+- ■行政書士会が来月１３日に無料相談会 - ryukyushimpo.jp
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE02OV9wRFcySHREZ0VqeVp1alNTODZCOHNWZXNpUUdQZ2REdVRFd3BudzVicmtUdXRZZFBsQ1N1MjZmbHpUdlFpVlgxSTlwNHRsQ0w3M3hUclNqQi0taVQ0ZA?oc=5
+
+- 【自殺対策】対話型ＡＩ、支援の糸口に - shimotsuke.co.jp
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ibkhSTkNsMEZ3anZRRmFxOVdpMDh4b0pzanV4YnVmUXEyeThkcDhJMFZpVmJHdUpWWXlkTVBoREJfMHhqRjJXX2FJV1pVeHFuckg2RXVFTHAxNjQ?oc=5
+
+- レアル・マドリードの悩み：アルベロアとロス・ブランコスの昔からの悩み。 - Vietnam.vn
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNTVhfX2QzanRPUXRSbVhhTmRtSlZRWjZXc1VublRLNkx1VnRPd1QxZFhtLW5PQS1kV0lhUVpLei1JeEgtSmgwSTVZUUQxckpaLWZVNW9sdTlBakZFanQyNy1Ja1RGRlQ5NGI0QXlqUjFzVkQyVzV6VGMwSGdQa1Nsdmo3SHU4TjRYLUFNTA?oc=5
 
 - 真岡市基幹相談支援センター（障害児者相談支援センター）のご案内／真岡市公式ホームページ - city.moka.lg.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1ZTNU1rdFhxc3BROW92ckpmTkVEaVFWMHgtelphWjd3UzlpSVBqZWRZaUhZc2JMY0RmeG8xbTE1VnRJMlpfbWJ0dWlKeGxpQjRLbjVRMkVud2N2NllqMFRibU1ibFJvM1gzZldUMEFjNGRsbXBtamNhTVJDbGlGMXIyZGdYMzZVRlE?oc=5
-
-- 「ヤミ金業者が取り立てに来た」などと警察に相談で事件発覚 法律で定められた割合大幅に超える利息受け取る契約した容疑 男２人逮捕 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUN3cmkxWGc0aEFzOEhKVTMxaTAzX1R3UmdTX1B1OHVzZmhaaFJ0b0Nzb0pQVzFPLUpja0V0d1BOU3YxaEFkdzlhZEhTN1V6RVp0VGZoTHo1V01ScUtFYVB6MWVtVTRwMmZoQnJPUUZsZmpJdEpCZFI5eHZxbDFEVFcwcmNPNEU?oc=5
-
-- レインボーの2人がラジオで電話相談 「誰にバカと言われようと」 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZaVhkM0dlUGRvUVZzTXZjRXV1YzhxRXQtcU15Wnlzd3pidEhxXzRMaGhnTVdKSnM0SmJIN2FOOU56YkJVNkVJXzY1d0E5SF9JNHlrMDNicVo5dzkzU2JMZ2lvemwtb2M?oc=5
-
-- 島根県邑南町、相談放置の職員を停職処分　 - chugoku-np.co.jp
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YVlpVc29yeDJNTUxlelczMldyQmhEYVN5a0lXXzdONmlMYWZvTlJtNkVpV0ttYU1LU1ppRW9yNThRemtjWGI1S2V1TmFFX2tLVVZJR1NwZmJ2Z9IBXEFVX3lxTE1OMTlJcmhLYV8xa3NJYzlpQmkxcjMwdzZNaVhJR3cwRzJBS0piUkhIOWlmRk0wYVRPclhZYjFHd1lnZ1lMdERRbUlvR1dhQUZDREM4cGhCcHVBQ0VH?oc=5
-
-- 社会人の心得 雄武高生学ぶ 相談員が進路講話、名刺交換の実践も - hokkaido-np.co.jp
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE52cHlZWkpwV2VQUGhVODdfeTB1WTF1Y0E1eU8yNmI1dC1ZOTNLODU5ZGFtZ1JtUWxGMGZjdDVsYUNnbGQwajlyR1pOR21TR1ZmdVdmaGNHb1FXZw?oc=5
 
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
@@ -57,6 +54,9 @@
 - 三ツ境駅前スマイル歯科で、歯並び・矯正相談会を開催 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9OaTQ0VzlROUV2cnpqMG90NE1BQ2hQdWltcE5mS1RZMzB3UkRxUTVsQjVidDl6M3NzX3VveHp5TTVkaUlnRS1yN21WZEVrWVAtSDh2Mm1yUlBqYlNpX2p0Z2tlbUhYRW1BV2c?oc=5
 
-- 群馬行政相談委員協議会 創立６０周年記念式典で決意新た 群馬・高崎市（群馬テレビ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1xYmhyNy1HRzhvVm44WWU4NFdnWEtPLW9DaDYtZjlRdGtlRUdYdnpTX3hXQmxrNXlTc3Q1WFRpS3dsa1lLejZFRGNCR2hfUjd3R1FHUGZHc0c0UHZmWTJOZlBidjNESTNFUzhTY0p0SjhNQ2lNTU5pcG1KOWdYTDg?oc=5
+- 【2月10日まで受付】アトム法律グループ、交通事故被害者のための無料電話相談会を開催。実績豊富な支部長弁護士が対応！ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1sUUswUVJ3dEFxaHZUQXJIRlViNE1pYkMtOHZKMDJWd3d3UklxVWoxT0tlSzVsWlNuMUFJMF9VWXJJSHNVQWZGaGxOcVdXT29GeXZKbFNFSnhMOHlEb1cxekdmeDBqb3FxMXc?oc=5
+
+- 美容医療相談データ公開：相談の約4割が目元に集中。ネットの一般論に頼らない、専門医による「個別判断」の重要性が浮き彫りに。（1月前半調査）【美容医療の口コミ広場】 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBnWnZGay1CU0gzMnVpOC1oYzNudHRxYUdHU3RmbDNVWjZ1MGd3WUg2V3FPd05yQWd3R2ltaUlvSzV6T0wyWlBfRnlIbXZwam5WZ3JFUXpVODVlT2NhaGV5R0N1VTB2V3FqX2c?oc=5
 
