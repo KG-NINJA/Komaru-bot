@@ -1,22 +1,22 @@
-=== こまる相談 ニュースフィード (2026-01-30 21:19) ===
+=== こまる相談 ニュースフィード (2026-01-30 22:15) ===
 
 - 沼田町移住相談会【札幌ハローワークプラザ会場】を開催します - town.numata.hokkaido.jp
   https://news.google.com/rss/articles/CBMifkFVX3lxTE9PNUpoU2laUG1NMllaY2ZDeGc0ajZiQjhncmgwRV9FS0FvU3pmbG1UZzN6U0IxcGZqVE1LckJjTFFWWk13UmY0M1BocUdlc0k5OWp5OVBJcXVrWlpDbm0wTm5RQzBJTXE2cUdUUzFqWjBmM1phM0JLN0E3cGlHUQ?oc=5
 
-- 転職したいが不安。悩みを掘り下げて見えた本当の理由 - hicbc.com
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE81VWRqLUpLSmU0MFBreHZBc1NPVEVlT3dvQjJ2dlljMEFBYTQyQWhReWdqZXlTUmtFcG1PeE1NMVM5eWNEOVR4ZDAtSng4MHloYWJTa0R0X2xhMHR6bnVXUmFmVlA?oc=5
-
 - 児童相談所が対応した子どもへの虐待 22万3600件余 初の減少 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvWWhPZm5CU1dJaUZFcmlZNkRncmhGbDFIYzYtZUJqc0VpR3ZZUXNya0FwNlkzR3dUVWVWOE5XX1hLdGgtam9BNE5HM2IxTnJKTV95WnNLTldhU0pvdGs0?oc=5
+
+- 行政相談における「業務の範囲や程度を明らかに超える 苦情相談」への対応について - fsa.go.jp
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE1IWTI3MG1LcldmWEtpYUo2dk1YSFRnQXdZNWhOTURTaWhrUHNTQXdLQWV5OTlHSlNxbVdHTHU2NnpmT0JPRi1ILUNDbzhGX1g3Y19FQ1FjQW5OUmF3VU4wVEFJVmpqYlZYcDBN?oc=5
 
 - 2024年度 児童相談所への虐待相談数は約22万3000件 過去2番目の多さに - khb東日本放送
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lc1pkV25MQXFNTUxrYXhHQ3pMRHhEaTFUdU9mUElqTW9OU3VnZkg2M0U0NzI3MWVSblp2UjM0cS1GZEJqYS16VUgya0FSTzQ?oc=5
 
-- 松山市駅前に賃貸相談窓口が誕生！三福ラウンジ内に2026年2月1日オープン - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE02MGpJRzBGRDR6VVY2TUlqOXd1NTdGNktiRjhjYnRzdVdwSmNBUEhCSUFHRnVQRExpLS13dVR6bEFoWEx3Zk1fanBIMVgxMklMRlBVTFZlMm8tVzNjRWVDYThEMHIxU0tXNXc?oc=5
-
 - 群馬県内の2024年度「児童虐待相談」、前年度比84件減も「依然多い状況」 SNS相談などで対策強化 - 上毛新聞電子版
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oMkJGcnZzbHlxTlh6SFZYbkpHaUhReGZSS0lFd21OOGxrVUxPTDJNczJtMHFWN1NhX29BMENBUzA5amdUWk9VUC0zVERCX1JRZTJjYnBUNEQ?oc=5
+
+- 松山市駅前に賃貸相談窓口が誕生！三福ラウンジ内に2026年2月1日オープン - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE02MGpJRzBGRDR6VVY2TUlqOXd1NTdGNktiRjhjYnRzdVdwSmNBUEhCSUFHRnVQRExpLS13dVR6bEFoWEx3Zk1fanBIMVgxMklMRlBVTFZlMm8tVzNjRWVDYThEMHIxU0tXNXc?oc=5
 
 - 出会いから結婚、そしてその先へ。JTBの結婚相談サービス「ふたり紬 by JTB」｜JTBeing｜JTBグループサイト - jtbcorp.jp
   https://news.google.com/rss/articles/CBMibkFVX3lxTE5UajBUcDdpQUJjeU43Vlh2THJkcVozV1NmRGJLUkxKV2s0TW1zMERlMHhTZHpqTGpEaTgwRGJyYVB5aE1XQnRsRU1aMGx1MmpZLXVjbHI1UXl1SmZvakZOYnVpOVJ0ekRFMDlnZkhR?oc=5
@@ -39,17 +39,17 @@
 - 奄美で「暮らし変えたい」 天城町と喜界町が出展 東京で移住フェア｜政治・行政 - nankainn.com
   https://news.google.com/rss/articles/CBMi3AJBVV95cUxOeVY0Y05NdWRzTHE3NW1EaXNwTnJKUUNGeERGd2d0MFp4VmlacjRuVmllWHFzRWI4TktDWHlhRUxoV1VDZEduSmNrMTJhaHozQWU2akZ1SW0tUW5SQlQtUU9KSzJra2pnUk8wSDI3M0ZBMldHQkIyaThGNElZTWNvNXhwNDFYTGdJd1p6M2xQQ0dkeEVXUEphLXZNdV9lUjFpSXh5bU5Oc213LXI3MDFKOXhhbWwxdFBmbDNIWTJteGU2ZUtkVTcxVFdiZi1KWW9uam1lZ09yMEdhMFNlY0FOU0FaNkF2dTNuZ2YweFhDVTFGYWxURWVtbWtwaTRWVXN6a0M5a2ZOZEtibk43LThBMUpGMHlNTVJhc1JDY2ZmWFZ6WnZEV3Z6SGtaTnZRNlloUml2SXl6TjVCYmdIT2F6RTJiaUMtUEZ2U21pN3Ruc2pJeWhFUzF3UjU1SGs?oc=5
 
-- 「熊本いのちの電話」ボランティア電話相談員養成講座 事前説明会｜お出かけ情報 - 熊本日日新聞社
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aWEhBM3RhaGtkbDM1SGV3WmplUG9tU0hhNzRIaUI3QklyeXM4UjFtR0E4MFZ2R2pDSmhkN0pTVjZySnFaNVBQOE15MA?oc=5
-
 - 真岡市基幹相談支援センター（障害児者相談支援センター）のご案内／真岡市公式ホームページ - city.moka.lg.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1ZTNU1rdFhxc3BROW92ckpmTkVEaVFWMHgtelphWjd3UzlpSVBqZWRZaUhZc2JMY0RmeG8xbTE1VnRJMlpfbWJ0dWlKeGxpQjRLbjVRMkVud2N2NllqMFRibU1ibFJvM1gzZldUMEFjNGRsbXBtamNhTVJDbGlGMXIyZGdYMzZVRlE?oc=5
 
-- 児童虐待相談、２２万３６９１件 ２４年度、初の減少も過去２番目 - 山陰中央新報デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nU1hjNHJna2RvMVluNzhFV0tQVUYtS3BqY0RrV09YRVQzdWZpanZ5THA2OFk0VnBkSHlZQ1o5SVBJR2FpaUt2dDktemdWNnM2elhLT0ZPRllYZw?oc=5
+- 「熊本いのちの電話」ボランティア電話相談員養成講座 事前説明会｜お出かけ情報 - 熊本日日新聞社
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aWEhBM3RhaGtkbDM1SGV3WmplUG9tU0hhNzRIaUI3QklyeXM4UjFtR0E4MFZ2R2pDSmhkN0pTVjZySnFaNVBQOE15MA?oc=5
 
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
+
+- 児童虐待相談、２２万３６９１件 ２４年度、初の減少も過去２番目 - 山陰中央新報デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nU1hjNHJna2RvMVluNzhFV0tQVUYtS3BqY0RrV09YRVQzdWZpanZ5THA2OFk0VnBkSHlZQ1o5SVBJR2FpaUt2dDktemdWNnM2elhLT0ZPRllYZw?oc=5
 
 - 【大阪】セミナー＆移住相談会「意外とええやん！岐阜」（御嵩町出展）※事前申し込み必須 - 御嵩町
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TSzRoMFltbUpQTkg5TkJhcmxndF9jWkpaWEdxdUlzeFBUSTlkQXVmYXN5Yk9TeXoyaTNWSDdIMkpycUFWQXZySlNOLXROMVV5bTZNbjlsdlVEWXQ3TmhWZFczTmZpd1JN?oc=5
