@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-01-31 16:16) ===
+=== こまる相談 ニュースフィード (2026-01-31 17:16) ===
 
 - わが家の防災、ここから。東区ハザードマップ相談会＆防災講座 - city.niigata.lg.jp
   https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUt5WndCeVpCT2dOVlFNd3ZFLXUxQ3dqT2E0NU52cXJwVzVTMEZsdENyR3pJQVRDRjhjRm9uY0tBT0FaOWlkVF9FMGQ1OFc1cUpOZS1zN2ZyTzU2U3QxaFN3NjNBTHUxdk4tRDhXSS1qZWlPUk4zV3VMX3FqVlNPdlBkcXU5d1ppLUo1WUZya0gzSDl1d3J3?oc=5
@@ -30,12 +30,6 @@
 - 【受賞】美容のプロが運営する結婚相談所「メリエール」が【IBJ AWARD 2025「BEST ROOKIE」】を２期連続で受賞！ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9OeGxjNXFQRFRmOE10WkE3d3g4aWtIdWd0NG11dE9UbEtjYWlyVUR5SjVzeUpBelhYNXVYalJEaTE1ZDlzUjhmUGRJSlNBY3gzdGZpYWlrRmd3VjVaLVBaX0l2LThoUGZwc3c?oc=5
 
-- 「今の生活保護費では苦しい」切実な声 全国から 群馬を含む20都道府県の司法書士、相談会対応 - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE52YjdSQW5mR2ZuU25lY2Y3X2Q4VXVkMkVWZnVmbFVLM1EzWUxzSVpFcXNIbzAzb1poemRnQlVITWxSN1g2VGZ4c1RoQ2ZQZ1pyTkpJ?oc=5
-
-- 女性の7割が陥るサイレント退職の実態と上司に相談できない理由 - Forbes JAPAN
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVUWlLY2cxeEN1dDhaOGd4REpwVExWVkN6Uk1Ic3BwVTNhQ2VsdmdkSGplODNFUExMTFY1bjZ6QjBPOGRwZllzdlVwYjhkN3hUamRmUEZCa2Q?oc=5
-
 - 沼田町移住相談会【札幌ハローワークプラザ会場】を開催します - town.numata.hokkaido.jp
   https://news.google.com/rss/articles/CBMifkFVX3lxTE9PNUpoU2laUG1NMllaY2ZDeGc0ajZiQjhncmgwRV9FS0FvU3pmbG1UZzN6U0IxcGZqVE1LckJjTFFWWk13UmY0M1BocUdlc0k5OWp5OVBJcXVrWlpDbm0wTm5RQzBJTXE2cUdUUzFqWjBmM1phM0JLN0E3cGlHUQ?oc=5
 
@@ -45,11 +39,17 @@
 - 真岡市基幹相談支援センター（障害児者相談支援センター）のご案内／真岡市公式ホームページ - city.moka.lg.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1ZTNU1rdFhxc3BROW92ckpmTkVEaVFWMHgtelphWjd3UzlpSVBqZWRZaUhZc2JMY0RmeG8xbTE1VnRJMlpfbWJ0dWlKeGxpQjRLbjVRMkVud2N2NllqMFRibU1ibFJvM1gzZldUMEFjNGRsbXBtamNhTVJDbGlGMXIyZGdYMzZVRlE?oc=5
 
-- 能登被災者の悩み、法律で助言 金沢弁護士会 ６市町で無料相談 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aOHpnZkNlS3VvVkZydXBjd3M4QXhmWXpFWkhuVkxmMXpsSU9KcUNnLVg0Y3Q2Z2VISnF2MFY4VHlxSG12dlNpYmN5Yw?oc=5
+- 「今の生活保護費では苦しい」切実な声 全国から 群馬を含む20都道府県の司法書士、相談会対応 - 東京新聞デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE52YjdSQW5mR2ZuU25lY2Y3X2Q4VXVkMkVWZnVmbFVLM1EzWUxzSVpFcXNIbzAzb1poemRnQlVITWxSN1g2VGZ4c1RoQ2ZQZ1pyTkpJ?oc=5
+
+- 女性の7割が陥るサイレント退職の実態と上司に相談できない理由 - Forbes JAPAN
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVUWlLY2cxeEN1dDhaOGd4REpwVExWVkN6Uk1Ic3BwVTNhQ2VsdmdkSGplODNFUExMTFY1bjZ6QjBPOGRwZllzdlVwYjhkN3hUamRmUEZCa2Q?oc=5
 
 - 【2月20日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
+
+- 能登被災者の悩み、法律で助言 金沢弁護士会 ６市町で無料相談 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aOHpnZkNlS3VvVkZydXBjd3M4QXhmWXpFWkhuVkxmMXpsSU9KcUNnLVg0Y3Q2Z2VISnF2MFY4VHlxSG12dlNpYmN5Yw?oc=5
 
 - 「おいしい話」うのみにせず相談を 鶴岡東高でお金学ぶ「金融教室」 - 山形新聞
   https://news.google.com/rss/articles/CBMib0FVX3lxTE1rNV9HTWZLOHNWQ0FZWWFtckxTYzhPMlE5R3B6U3Z2aV84Rm5vSXNXSDd6YWZOS3FsRWRNVnRyUlJIRFlzY01TYUNYSm1senRTcC1KOVJoUHVZcVRxeG9rUHFIc2dPWk5kVHl1OG90VQ?oc=5
