@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-02 08:32) ===
+=== こまる相談 ニュースフィード (2026-02-02 09:36) ===
 
 - オンライン（Zoom）による子育て相談を開始します！ - city.shiroi.chiba.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1XSUdaM2QwZGJwMzBSb294YmxyUVFZbEpxQjdXLUxqRTBRY1BSUXB6R3J1TG1UMnB0RUJzNEVSY0c0cVI4eThQdGFhZG5MNlRBaC1oUTBjNGRza2IzX3RJeV80enpnTWFyazZkQw?oc=5
@@ -12,11 +12,11 @@
 - 親御さん向け結婚相談会を開催します - city.maebashi.gunma.jp
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzanBJc09EN0ZKYk9pVmVRUmlFczNqUTJPV2JPMkJrM2RSSkNVcFpCTTlmSFA0VklPREVJbXNCMERhMGxRaWdJbEkydDFuT3VrT09SaG4zRjlySEU?oc=5
 
-- あなたによりそうAI「さんのへAI（あい）」実証実験を2月2日より開始します - town.sannohe.aomori.jp
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0bThYanNPclpRSTBJUEtOWGxGdGdJRmhGWUpDTFBlTFZTcHcxcDNrQ24wcF9hV2xXZ3BoV1g3RHZvOVJNN1lYWjlKYmZXYlFWQlJEaUU4OC1CcDUxY0hMTUFpcw?oc=5
-
 - 奈良県内大学合同入試相談会 開催のお知らせ - 共同通信PRワイヤー
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzLUlHUHZnc2FQc1ZuN2ZwU05oOHZlTnY4SVZnVWhtM1ZCMVZ2bms2UEJOMnNidDFVSFUzUWhlY2NvMk8yQmE5WUI3TmQ3eHdRVzZIRFRMQWx6SG8?oc=5
+
+- あなたによりそうAI「さんのへAI（あい）」実証実験を2月2日より開始します - town.sannohe.aomori.jp
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0bThYanNPclpRSTBJUEtOWGxGdGdJRmhGWUpDTFBlTFZTcHcxcDNrQ24wcF9hV2xXZ3BoV1g3RHZvOVJNN1lYWjlKYmZXYlFWQlJEaUU4OC1CcDUxY0hMTUFpcw?oc=5
 
 - 上田準二のお悩み相談「議論がいつの間にか『論破合戦』になってしまいます」 - 日経ビジネス電子版
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03a3RtellnSmNrTVNOYzJBWG1rQmt0WDkxcWZEUzJJYWR2MjhoaGU4ZlFMVjZTWFlHOWRfcS03bk9QTUJ0T2ZKY1phcjZSZ29zclRxTElWWUpJdEF3YTYxU2N3NDhMeVU?oc=5
@@ -27,11 +27,14 @@
 - 埼玉県／地域連携による適正な取引に向けた相談支援を開始、取適法違反行為は国へ情報提供 - トラックニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE12UHZvWHpDai1yTWZGVFppRU16NFRFSGR5RTdnT3Jtdk5uVkJtemhRUTlzaUtBZ3h5M1NlNWNLN25UUlhvWk4wRlpKUERXWjhNS0U5OA?oc=5
 
-- 「用事がないと話せない……」 気が小さい上司ほど“相談”という名の「高度な雑談」を活用すべき（ITmedia ビジネスオンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBqeUNLc3l6OUJjY1dUaEtFRjM4MW9rQU1IUXRVN0ZnVDFqd1F1X1VqeFBqaDhwNzdicTRmSFV4bUxLUW1SMWxIWkdNTUdobW5lbFpHNGRrUTVMb3FOUXdHQjVadHZWVDAwWVZjenFtNWh1ejNLNUw0R08wdGhTLVE?oc=5
+- 広島 「難病相談ウィーク」始まる 今月６日まで - NHKニュース
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE00TGxOcmRETEQtRV9ZSU9HME1jVUFaQXFQVUhBZEFsOGRkOVJvMjJCajZUU1l6UVUyeXptenJ1TGl4dVpxV0x6UXA1LXdSMGplVUJTZmQwTW0?oc=5
 
 - 若者の悩みに寄り添います！ 群馬県が新年度、総合相談センターを開設 ワンストップで受け付け、専門機関も紹介 - 上毛新聞電子版
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VRXJtdUEzWkREbndIUVdjZElucVpiT3FxVUlrbWt0cURrVWhicHRPTnh4VUt2bDRxVklwSlRENmd0NndibGhLUkRzamVxbnFHNjg5c3JuQ0Y?oc=5
+
+- 「用事がないと話せない……」 気が小さい上司ほど“相談”という名の「高度な雑談」を活用すべき（ITmedia ビジネスオンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBqeUNLc3l6OUJjY1dUaEtFRjM4MW9rQU1IUXRVN0ZnVDFqd1F1X1VqeFBqaDhwNzdicTRmSFV4bUxLUW1SMWxIWkdNTUdobW5lbFpHNGRrUTVMb3FOUXdHQjVadHZWVDAwWVZjenFtNWh1ejNLNUw0R08wdGhTLVE?oc=5
 
 - プレスリリース：岡山に農業機械修理・購入を気軽に相談できる場所が誕生（PR TIMES） - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yTHhHck5HNHBXVjJrSWpOVGJUUWhtTnFURkZDeVBIaGl1MzVxVXljUzFkMUFZQ01JYVAxc0tqZVVMVklVeHdBZUZnYWY1WDRsTHlZZHNhdHZaNHhEQTdmZXBSd1FzOXVs?oc=5
@@ -42,6 +45,9 @@
 - 年金生活者のためのマンション管理・障害年金無料相談会 - 徳島新聞デジタル
   https://news.google.com/rss/articles/CBMia0FVX3lxTFBicU50VUJxM2VmRWlTYXY5WVpOS2sxNGxMZEQ3c3JfN3BnTDNDXzVDdnJEVHhDUlM2MXlwUzVsM2NFdGRqb3BEOE05enlONkVuclNpUkozSlJPOHdjaWlzNG50c1Y0TTVVcUQ4?oc=5
 
+- 『タイタニック』ヌード場面で女子生徒に「わお」 イライラしていると「生理なのか？」 児童相談所の60代男性職員 7つの不適切行為で停職処分に 熊本市 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE52MHpnUVhZZmZURjFDOW93Rm5QenRlSmktMnlhYWpRSDMtSXhNOHVtamZPS3JRSG4xRHJFb3ZhcUlTM2QzOVFtSXQwZWszTzVPeVFpdFNTU3psQQ?oc=5
+
 - しずおか補聴器の補聴器相談会 （会場：鳥坂自治会館） - at-s.com
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lSWdNdHR2T1hydE90TXN1dUhNTmVHVTQtMnNUWE5Fei1rblRBZEp0SlAzMmlWeThQUFd1aDJaSGdUMjg3TlBjYlNWZFhPYllINVFyYg?oc=5
 
@@ -50,12 +56,6 @@
 
 - 青森市雪に対する相談窓口0177710286自動音声で大変混み合っているまたおかけ直し下さいと... - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jQ3hrc0lCamg3RHRiTkgxSmlJQ3RpRWdoUmsxV1V3YmJJMk9KQVd2V0txZkZRQWlOeWNvMHNzM3QxdENBSEJCQVhHVjc3Tm12TE9qWGxuM29idnlBaVVr?oc=5
-
-- 『タイタニック』ヌード場面で女子生徒に「わお」 イライラしていると「生理なのか？」 児童相談所の60代男性職員 7つの不適切行為で停職処分に 熊本市 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE52MHpnUVhZZmZURjFDOW93Rm5QenRlSmktMnlhYWpRSDMtSXhNOHVtamZPS3JRSG4xRHJFb3ZhcUlTM2QzOVFtSXQwZWszTzVPeVFpdFNTU3psQQ?oc=5
-
-- 市川由衣　戸次重幸と結婚で考え方に変化「悩みを相談できないタイプだった」 - ｄメニューニュース
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxQUTMxYWRXcFNWUzhkd3RZRHhTa3h3alFTeEN6QmRVX1Y2MDhfdGJQRTlqV0hpVWczR0ViTFhESFF0clZXM3FRbDJGd0oxaFgxYy01djAtZlVkSFZsSzlWLUItYWtpQi1mYWprU0VNdWYwMHF0Zk9tdUxPeU1keWF0RnFDSFFIRlc5TUFZSlFR0gGTAUFVX3lxTE9veFNwVFVNSXdGLVI0Tl9hYlBvNkJfbGhQaDRnYlZMMGZiWkdOUkh5UDFZcEd1Sl9XaWNxa3l2Z3ItTXc5OVhLWmdwblVOOHVEN1ZKaGlhYWhEcUVZUmxYajhfaERiQldqQWQ0QWMydWlFM1lXOVpaVWdLdy1nbUlRMEw3MnNTWERnLU1xV05sQkUyZw?oc=5
 
 - 取適法違反抑止へ「埼玉モデル」 県、相談・通報のハードル下げ - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9Pa2c1c3RMUnAtNGx4RUpWNHd4SXB5QmR0VW8wREFERzVsa2RRUHRvMS1SblBkUDZUSnduWnd0YU93N1JHV2ROdTNJMVMwYXI2QzJadE1LLTZWUFIzVzZQa25XSGxGcGxEY1k0aQ?oc=5
