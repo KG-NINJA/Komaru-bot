@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-02 15:30) ===
+=== こまる相談 ニュースフィード (2026-02-02 16:27) ===
 
 - オンライン（Zoom）による子育て相談を開始します！ - city.shiroi.chiba.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1XSUdaM2QwZGJwMzBSb294YmxyUVFZbEpxQjdXLUxqRTBRY1BSUXB6R3J1TG1UMnB0RUJzNEVSY0c0cVI4eThQdGFhZG5MNlRBaC1oUTBjNGRza2IzX3RJeV80enpnTWFyazZkQw?oc=5
@@ -24,6 +24,9 @@
 - あなたによりそうAI「さんのへAI（あい）」実証実験を2月2日より開始します - town.sannohe.aomori.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0bThYanNPclpRSTBJUEtOWGxGdGdJRmhGWUpDTFBlTFZTcHcxcDNrQ24wcF9hV2xXZ3BoV1g3RHZvOVJNN1lYWjlKYmZXYlFWQlJEaUU4OC1CcDUxY0hMTUFpcw?oc=5
 
+- 困った時に頼りになる。“盛りすぎない”オールインワン充電器 - ギズモード・ジャパン
+  https://news.google.com/rss/articles/CBMia0FVX3lxTFBreUxpX2IwX2pIRE1YT0hxWUxjSjFCMHBjTFVtTHd5d3hkQVZ1NWY4SlgzbTQ2NVRrLUNxd0xZc1Y0bGJRYklqMjVGR3IzQ2M5RXpyV1dMMlZmLXN6bDN4N2JjZENTN3ZxYk5R?oc=5
+
 - ＬＩＮＥで相談、実証実験開始 ＡＩ活用、子育てや介護などの悩み対応／三戸町 - デーリー東北デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0TFJDYVQ4eG9JYm9mQW5uMzlNc2FIb2ZyVW1RSlVSSU9GVm41allBQnNKYWpjVUxyVmZNVU1DQWRFUmswREN2eUdlSEJwWG9QQzlNZm1RZ2k?oc=5
 
@@ -36,11 +39,11 @@
 - 今回は「お悩みドロップキック」！ - AuDee
   https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTOFRaam1zdXQ5OFVVMy1mUG1PTVJhQWZOdm91LVY5clRyYXVORXhlOFItOGdRZUlIdXZmT0REVkFHUnY2OFIydQ?oc=5
 
-- 女子中学生に「生理なの？」児童相談所で不適切行為の男性に停職処分（2026年2月2日掲載）｜KKT NEWS NNN - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQQlJGV1JWd0JSWDl0Z0lOVHBBNmRQMlh3eE1yNk1vT1dzdGYxMDJkT01QOXZ1WFRmb0JvSmRCMEdDWVlFdVlFS2pFRVkyRkFpMFFqZUYtaTBNSVhHSzNhZVUxYWR6OHlJRGdZQ2ZaRFlzQTUtbEhGSWRObHY5TGNlS2tUR0FXUWc?oc=5
-
 - 広島 「難病相談ウィーク」始まる 今月６日まで - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE00TGxOcmRETEQtRV9ZSU9HME1jVUFaQXFQVUhBZEFsOGRkOVJvMjJCajZUU1l6UVUyeXptenJ1TGl4dVpxV0x6UXA1LXdSMGplVUJTZmQwTW0?oc=5
+
+- 女子中学生に「生理なの？」児童相談所で不適切行為の男性に停職処分（2026年2月2日掲載）｜KKT NEWS NNN - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQQlJGV1JWd0JSWDl0Z0lOVHBBNmRQMlh3eE1yNk1vT1dzdGYxMDJkT01QOXZ1WFRmb0JvSmRCMEdDWVlFdVlFS2pFRVkyRkFpMFFqZUYtaTBNSVhHSzNhZVUxYWR6OHlJRGdZQ2ZaRFlzQTUtbEhGSWRObHY5TGNlS2tUR0FXUWc?oc=5
 
 - 「女のくせに夜勤なんかして」「46歳だけど2人産めます」婚活のプロをあ然とさせた「今年も絶対に結婚できない」人たち - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBUZlowakVJWi1fOXBRdjl5akdXMEx0MzI1UnpvbGlyWnRncmZjOXFoX0F0ZWF3Q1QtbFdKQ0YySVZyOWhFMDkyR2NDQzMzcU1FS2JGYjRINUwyalRKV0RldFBtN3BpVF85T2VleGNCaGhrRUFwQ2V6TUxNV0lKMG8?oc=5
@@ -53,9 +56,6 @@
 
 - 東京カメラ機材レンタル、「コンシェルジュサービス」を開始 — 撮影の悩みをプロが無料サポート/シェアカメ商品の店舗受け取りサービススタート - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFAxZTFxcTZJYzYxYWM5OVAtLWJYdml4eVVjWk1YOFN0cS1Ua2o5SnNXZ2Q3RWo1Mmx0MTJuR3lYVFNvTHcyMjU1dE5ueW9yelYwaHcwdlQ1Zy1DeU5iVm9YTl80TEs1SXBCUGc?oc=5
-
-- 市川由衣 戸次重幸と結婚で考え方に変化「悩みを相談できないタイプだった」（スポーツ報知） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE53TkdMOFJsc0dCalFnYkdXaE9lSWxHY2R5d3VkRTFEUWhySWMzT0NxTU9nY01fR2lvNmdLSFg1WkhOTHpTemlmMjdLOU5KVlo0ekRDUjkwV0hNSndaVWlQUkJKZGRUcEhKblkzS2FtMmxSUUdtS3pPUDRkcXlLNW8?oc=5
 
 - 岡山に農業機械修理・購入を気軽に相談できる場所が誕生 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFB5ak9rX3RQMUhSZzhfNmtuamx2eWl0ODZQbVR4R29JV1JYUUtseFFOOFBETllCcHlnM1RMLVBMRTVkY280UzJfNVhEOXJ3UlNZcmE4dThWSXZHQ3JJaEd4STkzbHdLanFPanc?oc=5
