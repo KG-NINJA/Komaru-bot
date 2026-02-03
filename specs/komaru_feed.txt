@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-03 06:38) ===
+=== こまる相談 ニュースフィード (2026-02-03 07:36) ===
 
 - となりまち移住相談イベント 栃木市×佐野市 「地方暮らし、ちょっと覗いてみよう」 - 佐野市
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EdVROSEZJMkNPbkdtWmJkNjkyeGY3RTVxUXQ0NWtjbnVJYjZfTDJzUm9MTHM5NlowRGtadm42b3EzLTRiWFlNNVk3N0F6aUFuSTRZWEJqdVpmMS1UTkE2T2VyOEE?oc=5
@@ -12,11 +12,14 @@
 - 悩み相談 AIが応答／三戸町実証実験、LINE通じ24時間対応｜行政・政治｜青森ニュース｜Web東奥 - 東奥日報社
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lUXBCcTNlY2pYa1BpcVc1MGdudXpXU2VTa2lIbG5ZczZsN3ZXd0NkLXZua3hKdFBwQXVEc2JmbVBpLU1lZXpNam5HMFItX2NuMDRUa08xUGs?oc=5
 
-- 法テラス 法律相談の支援のあり方 改善点ないか議論へ 法務省 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GMV9ZWjhvT21IUlBaUDN6RlJxQ1hqYlk5Z0ZVWmNOb0tDdFRuNjdhaUg2U0RuVWVEc3JQQUgwcFJET0xEeVpaeXEyV0RIVUpMMlZpV0dqUnV6MmJVWHN3?oc=5
+- 【英語のお悩み解決！春スペシャル ２０２６】 詳細決定！ - ラジオ英会話 - NHK
+  https://news.google.com/rss/articles/CBMid0FVX3lxTFBPc2tqUll5Ykc0M3FsTHRVcWpjeEtYQTRpR2VYV2RBcjB5YXhFTWRXUGdtOHlZNDlOQjZwVGZ1bkI0NE9taW1iVHZRdTVwZUpJRjhiczk1V1VVTk5BZUIyUFZrWE9Dek5DS1ZJSExCZEVZN2hZVDhj?oc=5
 
 - そのメイク悩み、小田切ヒロ子がズバッと解決！ 美をアプデするためのQ&A - ELLE
   https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjFvYk16Ny1rOG41M0hsdGQ5alM1eFZLQVFHQndTZS1NZ0FyMHFkQUVreThUWEs5dEgxUDdmT3BOZEZEd2JlcFE5QlhRUndiNE14VVdtNmVyQ2xjclBvb2FVdXEyT0R6M0NNYzNYTFNCNjVMVjNXVzhSY213M05vLVctNHdBSjhuQU1Odg?oc=5
+
+- 法テラス 法律相談の支援のあり方 改善点ないか議論へ 法務省 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GMV9ZWjhvT21IUlBaUDN6RlJxQ1hqYlk5Z0ZVWmNOb0tDdFRuNjdhaUg2U0RuVWVEc3JQQUgwcFJET0xEeVpaeXEyV0RIVUpMMlZpV0dqUnV6MmJVWHN3?oc=5
 
 - 【革新】ソニーが始めた、前代未聞の「相談ネットワーク」 - newspicks.com
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CdXFKX0Y0T3R5V2VlNTQwem1mVzEyYkE5SnpsaHpHLS0zRXVSOWFZOHR5dWhmZlgybERBSEFxVXRvbm9UaUlPUU8xZlBNUkh1dGVv?oc=5
@@ -27,17 +30,17 @@
 - オンライン（Zoom）による子育て相談を開始します！ - city.shiroi.chiba.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1XSUdaM2QwZGJwMzBSb294YmxyUVFZbEpxQjdXLUxqRTBRY1BSUXB6R3J1TG1UMnB0RUJzNEVSY0c0cVI4eThQdGFhZG5MNlRBaC1oUTBjNGRza2IzX3RJeV80enpnTWFyazZkQw?oc=5
 
-- 「こんなにもらっていいのか」の相談で発覚 1700人に年金上乗せの給付金を最大1万8000円の過大支給 データ作成業者のプログラムに誤り 長野・上田市 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE90SlF4eG9uZW5xUUd2RXE1U0MxOGtUVjdIRnJIYkZQLVdqZEVoOFZHVzl5UXBxelhjTktmVXVWek8tN0hDOHN0TFBwOGEzTHBhLTZzVXk1OTZmZw?oc=5
-
 - しずおか補聴器の補聴器相談会 （会場：みずほ公民館） - at-s.com
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE10MEZhaXpLVXp2RE1zMVc4dTNub2h0SUYyaWVxclduZklhQXdfdHdKclZEUVM0U3dobnVFOURKX1RrN1paRUJzbmpzY0lFTk0zOERmeg?oc=5
 
 - ペ ッ ト と の お 部 屋 探 し は ウ チ コ ミ - ウチコミ！
   https://news.google.com/rss/articles/CBMiREFVX3lxTE5NRW1XS3BLaWtGNllNSlYyZXVmS3BnaDZtb2F0YVRlWjBCcERUeGRFLW8tZDBGcUVnc2NudkRkaHp5NnhI?oc=5
 
-- 薬の通販、定期購入トラブル多発 返金や解約、分かりにくいケースも―国民生活センター「画面よく確認を」 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5Y2FRd0dYbEtXUEh2Q1hYanRSRHRLazZYaDZUOThJZUVVcVpiVndnNHBnTkJhelI1eWtUZHlCMDR1WEFaUlFrWnFqNXZHMnVLbFdxWUhxdG1EMDg3d0RtNTdWTQ?oc=5
+- 「借金・家計の悩みごと相談ウィーク」のお知らせ - 朝日新聞
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ubmJMWThoVVhhQ1RfY3E3aDVwNE8zdWtobUZHTXdSVEZGU3hFNzV6ekJVdE9CSEc4R05JRjZaVi1fUzQ3OFJPazBWcEJMSnJSbnVERG1VRXpmYk0?oc=5
+
+- 人気保育士てぃ先生が育児のお悩みを解決！ - TVer
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lZ29fN0pqRGktekcwVzRWbVhQRWRNSXVReWxHMnhGNkk5M244Y2M1MXY4V1ZPOGd2LVhIbE5WS2tnSGpZMXBiUlN1NA?oc=5
 
 - 帯広税理士会、 4～6日に所得税・相続税の無料相談会 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XYmloMDZNelhzUzN3dVNYQ0RLbWVWRDZ1RHdsT3paMTVid2hHVUZvcGFhdjZiREhMSHBCbkY3VFRTLTR6S1NxRE9FY2RIWHQ3MHJXLVB0M1ZrZw?oc=5
@@ -45,18 +48,15 @@
 - 東京エレクがキャリア相談AI 3日で質問1000件さばく - 日本経済新聞
   https://news.google.com/rss/articles/CBMijAFBVV95cUxQMjVET3JfX1BHVmhqQUxRZU9rYm1wd005UUxVSzZOTjlZakNrWWNIb3E4dm5SZVpVXy1TR0NRajlpSFVZczVSdUJkT3VwOEdQb2xSOXBRMVJBQlRCNUJiZk1IYnhEVXBRdFVJU1gzTXl0OXZiWXc3TWkwWnZDM1BsNnlwWVNWZEYyN2NrRQ?oc=5
 
-- 行政書士会が無料相談会 13日県庁ロビーで - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PQ3lZdzRHcVUwbTJWaTIwWmpLekp2WVlzZEdLWUtVaFowU0ZrV0JRdnhQczllWWRpcGQ2cTloU0Z3S2V6SUg4YzBIZzFjaXFMX2VKX2FSSDkyWVM4T0E?oc=5
-
-- 真岡市基幹相談支援センター（障害児者相談支援センター）のご案内／真岡市公式ホームページ - city.moka.lg.jp
-  https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1ZTNU1rdFhxc3BROW92ckpmTkVEaVFWMHgtelphWjd3UzlpSVBqZWRZaUhZc2JMY0RmeG8xbTE1VnRJMlpfbWJ0dWlKeGxpQjRLbjVRMkVud2N2NllqMFRibU1ibFJvM1gzZldUMEFjNGRsbXBtamNhTVJDbGlGMXIyZGdYMzZVRlE?oc=5
+- 【海外移住動向レポート】相談件数が3.3倍に急増、約8割が「国・時期未定」。特定の国への憧れより、教育と資産保全の“最適解”を模索するアッパー層の実態 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9SRlROU0JYdzE2eVhkdjlHYUtmamVQbkotRjJPaUV2cDAxNlp2NWlvNEhpN3kybm5fUUFUeVAtNFJ2bDl4MFpvVmxtR1l2bXRxbnc2Q1czTFF6NzRXV2lXVW1KdXJub2RqZ2c?oc=5
 
 - 「ことばの悩み」を抱えるすべての人へ、無料で繋がれる窓口を維持したい - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9fd3NmcnhaTF9HeTlyZ0xvaktDV2RWZWU0Y1ZuTHVlWkZyS01lbkFPeWNRWGtSbUloNUtKeEhGRkR3R2RTeXpnbHRydDdDNm83bTRjYWNqY2ZtemJuRWRQVEI3ekZGVkxfVmc?oc=5
 
-- 【海外移住動向レポート】相談件数が3.3倍に急増、約8割が「国・時期未定」。特定の国への憧れより、教育と資産保全の“最適解”を模索するアッパー層の実態 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9SRlROU0JYdzE2eVhkdjlHYUtmamVQbkotRjJPaUV2cDAxNlp2NWlvNEhpN3kybm5fUUFUeVAtNFJ2bDl4MFpvVmxtR1l2bXRxbnc2Q1czTFF6NzRXV2lXVW1KdXJub2RqZ2c?oc=5
-
 - 【2025年調査】大阪・兵庫・京都・奈良・滋賀でリースバック相談が多かった理由トップ5 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9wODJDUTJQcmdoRW1OY0dYZThGcVVsdXRFM0hBNF9hWC1yejhQLVVIZF9hcHlDNklyMzNkUzVBaFZuRVdUdFRheUtkb0pFOWRWOG5rc2hWQVVlcWFVM1V4WWxkYUE0Y3hrSlE?oc=5
+
+- 薬の通販、定期購入トラブル多発 返金や解約、分かりにくいケースも―国民生活センター「画面よく確認を」 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5Y2FRd0dYbEtXUEh2Q1hYanRSRHRLazZYaDZUOThJZUVVcVpiVndnNHBnTkJhelI1eWtUZHlCMDR1WEFaUlFrWnFqNXZHMnVLbFdxWUhxdG1EMDg3d0RtNTdWTQ?oc=5
 
