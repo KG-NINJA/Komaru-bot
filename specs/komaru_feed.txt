@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-07 13:37) ===
+=== こまる相談 ニュースフィード (2026-02-07 14:17) ===
 
 - くらしの相談窓口のご案内 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXVMUkVoVFJzVElBVkRjT0tzemIwRG5UV01MVHJCemhtN0JpM0Q5V0tiOWFQQmJxZFBMQ0RhVEY0SC01OGI5RjQxTnNlRC0zd1dqV3U5VHgtR2hKZm5MRHBYbzFqM0pWLVNuem52SS1CeHc4VU1jWG9Fa2pOTWhKd3FRUUc0dmlrSnR3?oc=5
@@ -12,26 +12,26 @@
 - 小松市事業承継LINE相談窓口／小松市ホームページ - city.komatsu.lg.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWZwVEF2RERkMzVqdF9WM2dQZ210TjNuSlZtVHRFYy1xeUVLMWNlak4zSkZGb1FsVm10UVc5VzgxeGpmaG5lVHhNc0h3VzZIb29ZRlBMWkl5YjAyUGRTUjJOclFEM25uSkV1Vzg1QXVybXh4TU02NXlfZ3M1ZjdWX0JnNmNWZDgxOHc?oc=5
 
-- 生成ＡＩがギャンブル依存の相談に回答、ＩＲ開業控える大阪府が試験導入…２６年度予算に５億円計上 - 読売新聞オンライン
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yYTQ4eHhXdG1JMDFITGI1T2Q3ZFVtUlJSbUd1RU9TX0RJVW1Sb3N5SS1PX0pVMEVjOHFSemR0Z3BmNEpqeFJvYXJ1ZjljRHdxR3dpRGxhS0ZTUzRmbGJlTzdaeFh3QQ?oc=5
-
-- 古舘伊知郎 中学生だった長女が夜中に電話で悩み相談していた大物「誰と話してるんだろうと思って」（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE53N25SR2JwS2ZHTE0yMlQ0czY0VHVEenpZTDZZYVNnSzYtOF9XaUlyTHdJSnNadVdwU2tORU1OZFlTNGIyZ2lmWW5VWFVCVFY2OW9FQ2JkUkR0TDVyXzlHNXJJeWs0d09xaXA5X3pra1UwbHFiZkkwWkZuVkozeXM?oc=5
-
 - 八尾市民総終活プロジェクト「相続・遺言無料相談会と終活セミナー」を開催しました。｜大阪府八尾市公式ホームページ - city.yao.osaka.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxQWU9nVm03cWRYVkY1UUJyUG9FZXNZWGdROFdkVXVSbFd6akp0dE5MblFwd2ZqWDlobTdfWUhTQjBiVmRZTVpsaGUzcnJqOS1zQTFZVUtLbERZRmZic05HdEJsTUlBaUIxUUZTWENaZnZBNnF0WWpWWGRXYUxsUHpqUg?oc=5
+
+- 生成ＡＩがギャンブル依存の相談に回答、ＩＲ開業控える大阪府が試験導入…２６年度予算に５億円計上 - 読売新聞オンライン
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yYTQ4eHhXdG1JMDFITGI1T2Q3ZFVtUlJSbUd1RU9TX0RJVW1Sb3N5SS1PX0pVMEVjOHFSemR0Z3BmNEpqeFJvYXJ1ZjljRHdxR3dpRGxhS0ZTUzRmbGJlTzdaeFh3QQ?oc=5
 
 - 小籔千豊がお悩みに即興で答える人気ライブ！「小籔大説教」 全国8か所で開催決定 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBhTVV4QVM3eFJJVlF4LTlLemFQR0pSMDdrcFlYRi05Q1VMWVRjd2t1M0Q5OU5KSExpUGNsY3J3VTFldlJNbkhobGl5bmNITHJuampCRFNFaHJ1YWxFbkxyeThxalFZd0o5bEE?oc=5
 
-- 最期に備え、相続や墓じまいなどを気軽に相談 「おきなわ終活フェア」16社出展 那覇で2月8日まで - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jU1JoRHB3NmJ3ZjZiRng2eTFZb2Z5RWEzUTVLZkxVWWFYbU96NkNaQURaekJ0cTJ1Uk53YkFhN25NNWg5U0pKamQ4cDdxTm1oM2lLXzVtVWVGQkR3N2c?oc=5
-
 - 令和7年度スマホなんでも相談会 - town.seika.kyoto.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5nM3JoVGpGdlFjNFJ5OE54dXRHbDZidm1CRm9jR3hQbFlPampxRDNDRFY5UC1QYUNqT0N6LXBhWDVNRFlpM1hfUHhpWDlVU0U4ZjhfMzY1YTVENHB6WGJjdWJKQktHN1VwejhJTQ?oc=5
 
+- 最期に備え、相続や墓じまいなどを気軽に相談 「おきなわ終活フェア」16社出展 那覇で2月8日まで - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jU1JoRHB3NmJ3ZjZiRng2eTFZb2Z5RWEzUTVLZkxVWWFYbU96NkNaQURaekJ0cTJ1Uk53YkFhN25NNWg5U0pKamQ4cDdxTm1oM2lLXzVtVWVGQkR3N2c?oc=5
+
 - 真面目ゆえ…安青錦から受けた意外な相談、安治川部屋のおかみ明かす 本人は「詳しく調べないと危ないな、と思って」 - 中日新聞Web
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE85ZTZDa1BSWTd4VE5LQ29Lc2NDT0tiRUFzdzNoaWFuZmZ0QWxGX0lJaEY1Mm5qeTBvNGxDaF92MGwxWVFnYVJjWFBpTXo0QkdzT1RrSQ?oc=5
+
+- 古舘伊知郎 中学生だった長女が夜中に電話で悩み相談していた大物「誰と話してるんだろうと思って」（スポニチアネックス） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE53N25SR2JwS2ZHTE0yMlQ0czY0VHVEenpZTDZZYVNnSzYtOF9XaUlyTHdJSnNadVdwU2tORU1OZFlTNGIyZ2lmWW5VWFVCVFY2OW9FQ2JkUkR0TDVyXzlHNXJJeWs0d09xaXA5X3pra1UwbHFiZkkwWkZuVkozeXM?oc=5
 
 - 行政相談委員の役割とは？ 小学校で出前教室 6年生17人が理解深める／岡山・津山市 - 津山朝日新聞社
   https://news.google.com/rss/articles/CBMiywJBVV95cUxQTVFKMmh4SzhPNU95c3Npa3Z0WlVqVGx2bjJGRXNsemwzTWs5S3I1U2xwbkluZ2VOVUJkaTZBS0lRRGQwOGk3OXVpNHdJQXVNSjc2STZpTnJXVkY3MUVNODJDNWJjaEpEbHRmQzBfSGxDcFVYRXo4Tk5xU3gwRWNhaDB2R0tkWE5Pdnd6OTMxckN6SVFTdTh2ekNOMVgzUVZtQzV0c1FBaUc0UnBRS3hsSWFKSFNkckcyVnA0UERLQl9MQXRCZnhJXzV2aW1DLUtib2l1bzhBdThhUjRXMXhsUTZ5NmNRRjZPbWphU3VOSmMtRG5BZzJRR09ROTEzSDJ5TXd5NVJOZFdtc3pWdVc2bnRJeDE5N29UbTE3UUx1OFVGYUtHNWNlRHZ0ai0zR0FxM2Q0TWZ5YURDdU03bC1mV2JDUjRQNk9oS0Jj?oc=5
@@ -45,14 +45,14 @@
 - 【LEE3月号】お悩み解決特集が目白押し！ラフすぎ問題、動けるハレの日、大人のスウェット - HAPPY PLUS（ハピプラ）
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBENEQxOXktZXYxSmVOc3d4TUdyLThucXhpa3RiUHloWUJZQkREckNlOWZaVjBnVndOWUVRM281WnRrb3FOT2hVWHNNd0ZQN0ZETWc?oc=5
 
-- 【コンシーラーの基本】シミ・肝斑を自然に整える、コンシーラーの選び方と使い方｜yumiの 大人メイク悩み解決塾Vol.44 - 美的
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE5iN0p3Q1gzQ0MzQlFaOGhhdEpBNWN6TTdxT1I2NWVLQ2x0MDVZalV6eTA2LW5BSlpPMHJBT1BQQ1UwdWJZNF9aNDVzWjlMUkEzb01yb2FjaVNraV93cklrQnllUlU0RzF2dWRz?oc=5
-
 - 真岡市基幹相談支援センター（障害児者相談支援センター）のご案内／真岡市公式ホームページ - city.moka.lg.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1ZTNU1rdFhxc3BROW92ckpmTkVEaVFWMHgtelphWjd3UzlpSVBqZWRZaUhZc2JMY0RmeG8xbTE1VnRJMlpfbWJ0dWlKeGxpQjRLbjVRMkVud2N2NllqMFRibU1ibFJvM1gzZldUMEFjNGRsbXBtamNhTVJDbGlGMXIyZGdYMzZVRlE?oc=5
 
-- 「宮内庁担当記者」の意外な悩み…経験者が語る「皇室記者としてぶち当たった壁」 - 現代ビジネス
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE53LTY1NWRiT2NzR1Z0N3p0WDhaVWF6MjlEeW9SMEVvQ3RvR2djMkthY2hoN1NOZzZGUG5LTHNlMDVra2JHMHB4Q2ZkTzN5QTA?oc=5
+- 【北九州市デジタル相談窓口】専門家紹介 - 北九州学術研究都市
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xS0J6UjAzOVY2aVRwU1dqT3NxMHVsbHRFSGI2SU5sd3hkT0xUeG5INS1wWWRDYkdRR1ZqY1dEUTFtYk8xTjlBalpTWTFKZ0sxTkJXQ21yQlVLd0Y0?oc=5
+
+- 【コンシーラーの基本】シミ・肝斑を自然に整える、コンシーラーの選び方と使い方｜yumiの 大人メイク悩み解決塾Vol.44 - 美的
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE5iN0p3Q1gzQ0MzQlFaOGhhdEpBNWN6TTdxT1I2NWVLQ2x0MDVZalV6eTA2LW5BSlpPMHJBT1BQQ1UwdWJZNF9aNDVzWjlMUkEzb01yb2FjaVNraV93cklrQnllUlU0RzF2dWRz?oc=5
 
 - ハラスメントは「相談窓口」だけでは防げない。法人パックが目指した「動ける仕組み」 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFB3NkhzSnBSMFpKeXo2OU9nc2JuUlFtaDZOUUJwVTNVaFNVTkphX2pMVHBIN0tIUldYY0VHZlJCcU4tWDZjLThnV0VpR1UwQTNySkxRQjgxdmtnTTRydDZzYlFCOXptZUZKdUE?oc=5
