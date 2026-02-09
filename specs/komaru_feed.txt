@@ -1,7 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-09 11:39) ===
-
-- 予約制による納付相談夜間窓口を開設します(4月) - city.kikuchi.lg.jp
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE0wMW9RZVRVU0hPQkpfN2EzMXk4U0hBU0FmejhyRjFvVk1OTlVQejFNMW9SWkVJTk1KQ09KdjRtVFJkeW5nZUhDS0FndGdtUlhFWjlMbmpzVHY3ZHBGTVh5N3Y3djdQTW1JWUdj?oc=5
+=== こまる相談 ニュースフィード (2026-02-09 12:44) ===
 
 - 埼玉県庁個別相談会 「“県庁で働く”を、もっと身近に」 - pref.saitama.lg.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWVkWmxmb1Y2NlhJU2FrazhJbjBRQUJiWWtkREZ0QW84Z01SOUIwSlBIZnhQbEE1WjR0RE1tOE1wbjR4TEZkWGVoU0ZKbThHal9sRVhoaDlKTGlNbURrNW5tODdvdFdabTE2aGJWT1NDN0hPTzhsVTNDcU8tOHR0Zw?oc=5
@@ -27,29 +24,32 @@
 - 「モっと！現場の味方」現場の“困った”に寄り添う モノタロウの新TVCM、2月8日（日）より全国で放映開始 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5nbGQ4ZDctNW1xSmI2dGp3d05tUmFMcU9BY3gwZ1gtOFpJUGxndjRtcnpFS0ZnV0dMRmxpY1ZXZnBHSkN1N0N3eTlIWEpHRlNLcEV0YVFQYXdzc0VlWDl4Mkl2V0VOa3hCc2c?oc=5
 
-- モノタロウ／困った時に気付く「現場の味方」新TVCM放映開始 - 物流ニュースのLNEWS
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE55Y21GTlFDZ2RrVjV5WUUtUk45Y1ZMbk1pTHZsMXNTaHByM2JHQ1otb2RtUEFvd1N2cXdlZ282MlB3M29FSm8yQVdpNTgyOWtyYTlDUQ?oc=5
-
 - 顔の見える関係構築へ合同研修 能代山本の介護支援・相談支援両専門員 - 北羽新報社
   https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LXzlhUXE3MTg3LTZSV3NESVg4Zm1hOHVRbWpSVzVLelIxaEJYSXVRcGg5R3pqaF8zOWJVbTZJX0JtR1BYSVBV?oc=5
 
 - 渡韓せずに韓国美容医療の相談が可能！バビトーク、東京でK-美容医療の大規模無料相談会を開催 - クレアウェブ
   https://news.google.com/rss/articles/CBMickFVX3lxTE1jRXAtS19LZ0tHOHFYakNzUWprTldrc0dnMmRjaTZsMkE2ZVJ3Q2Vha3lRYTg2MFJRZXFnaGRUbFJHZWRkQjlLbnBoRmNULTFvSUxJc01iT0RXdmRfQ3h6MS1pVHhUb2VIcnNLTkJ3OG56UQ?oc=5
 
-- 【下松】空き家相談をワンストップで 高山石油ガス「ハウスドゥ」を新規開店 - 新周南新聞社
-  https://news.google.com/rss/articles/CBMiekFVX3lxTE5iVW0wLUVWalI3YVNwdUVyM0p5VG5CRTFKVkNZZWdrWW04NmxsbGRqaV9YZXI2RUtJSHQ2WnNIcE1wMkt4UHdkM05jQUVyQzc4c19xV1RiZl9XRWlxQnpJWUlzYlhTMFNiQjZzb0VPZUF1VV9yZHBhUXhR?oc=5
-
-- 【社会で活躍する卒業生たち】知能検査を通して一人ひとりに向き合う～大分県こころとからだの相談支援センターで活躍するHさん（大分県立別府鶴見丘高等学校出身）｜卒業後の活躍｜心理学科｜人間関係学部｜学科 Today｜福岡女学院大学・短期大学部｜福岡市唯一の - fukujo.ac.jp
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RSl95YkJQUVBsaVBTMUVFaVItU3A1a2NCTlp1T1NYSkdnQzFxa0xvTGVTNUlPaV9qQjZJMUMxUjlNR0xXWlFobVBsQ29IckQyZTRHc1kzNnpOUmpqYmRDbHNLOVhjdw?oc=5
+- モノタロウ／困った時に気付く「現場の味方」新TVCM放映開始 - 物流ニュースのLNEWS
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE55Y21GTlFDZ2RrVjV5WUUtUk45Y1ZMbk1pTHZsMXNTaHByM2JHQ1otb2RtUEFvd1N2cXdlZ282MlB3M29FSm8yQVdpNTgyOWtyYTlDUQ?oc=5
 
 - 小松市事業承継LINE相談窓口／小松市ホームページ - city.komatsu.lg.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWZwVEF2RERkMzVqdF9WM2dQZ210TjNuSlZtVHRFYy1xeUVLMWNlak4zSkZGb1FsVm10UVc5VzgxeGpmaG5lVHhNc0h3VzZIb29ZRlBMWkl5YjAyUGRTUjJOclFEM25uSkV1Vzg1QXVybXh4TU02NXlfZ3M1ZjdWX0JnNmNWZDgxOHc?oc=5
 
+- 教えて清水先生！！住まいの相談室 ーマンションの価格は下がることはないの？（第1回：住宅価格の決まり方）｜PropTech-Lab - アットプレス
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RRHV6STFiSDRHRDVVak5SMnlUdXFmMU5raTdHc2xwWDBPYkxRZWpZX0NLZTNLQTJZMm9XaExuZVdsQUhDUEEtZ2l1RVJCU1k?oc=5
+
+- 令和7年度スマホなんでも相談会 - town.seika.kyoto.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5nM3JoVGpGdlFjNFJ5OE54dXRHbDZidm1CRm9jR3hQbFlPampxRDNDRFY5UC1QYUNqT0N6LXBhWDVNRFlpM1hfUHhpWDlVU0U4ZjhfMzY1YTVENHB6WGJjdWJKQktHN1VwejhJTQ?oc=5
+
+- 【社会で活躍する卒業生たち】知能検査を通して一人ひとりに向き合う～大分県こころとからだの相談支援センターで活躍するHさん（大分県立別府鶴見丘高等学校出身）｜卒業後の活躍｜心理学科｜人間関係学部｜学科 Today｜福岡女学院大学・短期大学部｜福岡市唯一の - fukujo.ac.jp
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RSl95YkJQUVBsaVBTMUVFaVItU3A1a2NCTlp1T1NYSkdnQzFxa0xvTGVTNUlPaV9qQjZJMUMxUjlNR0xXWlFobVBsQ29IckQyZTRHc1kzNnpOUmpqYmRDbHNLOVhjdw?oc=5
+
+- 【下松】空き家相談をワンストップで 高山石油ガス「ハウスドゥ」を新規開店 - 新周南新聞社
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE5iVW0wLUVWalI3YVNwdUVyM0p5VG5CRTFKVkNZZWdrWW04NmxsbGRqaV9YZXI2RUtJSHQ2WnNIcE1wMkt4UHdkM05jQUVyQzc4c19xV1RiZl9XRWlxQnpJWUlzYlhTMFNiQjZzb0VPZUF1VV9yZHBhUXhR?oc=5
+
 - 【3/17無料セミナー】ハラスメント相談が来ない会社で起きうる「3つの異変」 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE94clVobEo3NVFTbmd2YXQ3bGlWbk51VWJsbzFDb2loTzN1VV9xTVg3VHN3MHNFbUd1VEhfM0ZCX1E1b2hIOGNLWmJ6ck9ySnVhblpiZDAxVTE5dFFValpmb3Rvbk1OcE9BQ1E?oc=5
-
-- 「面白い選手が入ってきていい悩みが増えそうだ」日本ハム・新庄監督が期待以上の収穫ににんまり ルーキーの豪快な一打 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBhYXc4Ui1xaFRlOF9OdmJlQUMwTVdSU2d5cGRTZktRWGZNa1c2bTJDdlVnNnpkTTd3RW1rVFRHZU4zWDY3bGI5b285Tm9scXRTYmFnb2hYWkJkTUQ2V2MwbmVmaXdUaXAzSlhSM3NZc2JzZWhWUmp3cm9DRWpHdk0?oc=5
 
 - たるみ・乾燥…“肌悩み”を狙い撃ち！進化系「エイジングクリーム」4選｜VERY（magacol） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1iTWYxYjh1TTV0S1JFd0NPdkt5dHk3a0lKWHdrS0hFdTg0Vmxja01UX3VNakRZekV3SHVIOFQzV2kyQldDaF9SNlpoVXR6MUhaOE9EVnpLbXhmM3EyZERTbDFpTzZqZFVlY05WMXNUajJNeWlKUU52UHVHY2hueEk?oc=5
