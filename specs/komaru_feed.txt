@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-16 20:04) ===
+=== こまる相談 ニュースフィード (2026-02-16 21:05) ===
 
 - 相談相手は生成AIだけ 54歳の孤独 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YZk9tLS02QU00dWRTaVk1MC04bzM4dFR5QnBxSWhvS2xEcE5UTUsyNzZPMjhia2VBRDEwUzZncHJEVnlNUFVEVDlxcHZXUkla?oc=5
@@ -6,11 +6,14 @@
 - 女性相談支援員（会計年度任用職員）の募集について - 守口市ホームページ
   https://news.google.com/rss/articles/CBMingFBVV95cUxNV3Q2NWMtbUk2QVM2bnl5cmlkMTgzVk8tdmxzcWV1TE9uNFZnakJDVzFYdnhfcEVNNjEybmJyZThWbm5vaFRQelB1NGd3ak4zb3o3MmQzOXBJWVdqRm4xUXRwOXJxdnlaTVRPMjMzYkZRdzZaOGZxelpYY3JndGwtc05Cb05wemtxeDd5UkJXRnM3bmwydm5hYVJfVmszdw?oc=5
 
+- （「学び」の悩み相談室）「ボール遊び禁止」の公園ばかり - 朝日新聞
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE56b2xXY3dnLW1Xa2hPN0ZXUWZSdlVHTDI2NWlhTlBfMl92Z2p5TGo4LUJUbno1WmhPVnMzRHc4aXN2M3NQQ2lRaDRzT294VFZiaDZyWG03cURobHM2?oc=5
+
+- ニセ社長詐欺 県内相次ぐ 昨年末から相談増：日刊県民福井Web - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUVENSZUJ0bDZpdDc0dnd2ZlFYUVpaTHlYeFlHZ0lDYi1mOTAzNzVFSmdGSGp1ZlJfZnBMVUg2djdMaGtPMjl2b0RpUFRVaFk3ck9sV1JQZjViMTg?oc=5
+
 - 広島県立高再編案、市町トップ不満「相談ない」 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtaWx1cnBuYzdtcXpfYlVOS1pKV1pFTlBhRGRKc2xnNldxb2kyV29rZFdiYUxvRkRVaVBLajVXQUJHZVlWYkNHbk9nbmp3ZGo3TnE4cHFJMjdaZ9IBXEFVX3lxTE9LVzBxeWY3NTFnNlJNdTZITVRheWxpLU15eUltRVYxQ3dnU0VyWHU2X0NmaGRrNHVqdHhydmVoNE50WjFqc3FpMjdqc3pvNTlrbHJXbmFqalJ2ODBj?oc=5
-
-- 社会人のための新潟県職員キャリア相談会 - pref.niigata.lg.jp
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE1lS2ZZdU82d2ZEWk84a1FtSHEtdm5ENGg0Nm5lZHB6dEhMbl9DdmxoMmJpQVFEYW5vV2xTZDRfRXViSWhBZktoYW5NeUdRWUJTUlpmTEVlZ3kwenRqWGNXSUJra1dXV3ozb2pyaExB?oc=5
 
 - 犯罪被害者の電話相談10年で1.6倍、受ける活動員は半減…広島のセンター「このままでは対応できなくなる」 - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMickFVX3lxTE9tRWVQb3ctbkRHd0d5VFdXSnRzdkhuS1lBaWZVTzdaX1N3ZmdWUGtsanoxanJJRzNRZTdNYU1Ha0pXTno1Z0t3ZVN6UVEwUU1Hc3I2X1VWUzRjNkVua25vU25Dc1lkMUN2VkVublFEcVlTUQ?oc=5
@@ -18,20 +21,20 @@
 - 「いのちの電話」相談員を募集 28日まで 研修期間1年に短縮 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ITjRQN1hWOGpjTGMwU2p5UTEzM3BwTkgxcDFiUi1rakR6cHlYSWM5eVZ2SUZTT3ZSU2xuUVNMb29IWU1vY2drTE9HQmUwbDFNd0ZpUzRWMVFRZw?oc=5
 
-- 滋賀で一緒に保育しよ！保育のしごと相談会 - pref.shiga.lg.jp
-  https://news.google.com/rss/articles/CBMie0FVX3lxTFBSMl9admprMXpkVmhhWEhyclVONHJwM2VUend4NEdHaDIzLWpvTlVRVzlDdF8wMG5SMFVBNFdVRmpiZmVoMXllZ19yQ0luMnVoZWU0MXZEMUt0LXloRS1nNDVVTkdoSjVNMEdJbXl1OS02amdaLUVhVTdCaw?oc=5
+- 社会人のための新潟県職員キャリア相談会 - pref.niigata.lg.jp
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE1lS2ZZdU82d2ZEWk84a1FtSHEtdm5ENGg0Nm5lZHB6dEhMbl9DdmxoMmJpQVFEYW5vV2xTZDRfRXViSWhBZktoYW5NeUdRWUJTUlpmTEVlZ3kwenRqWGNXSUJra1dXV3ozb2pyaExB?oc=5
+
+- 〈６〉 母国語で相談「安心」提供 沖縄での生活 サポート 根路銘マリアさん 外国人と地域つなぎ、交流 - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE0weld5S1ZTMVhERVM4dHdoLTAyUzlCTjZEVnZxODFiSDNZMmY1UE9jUncxTXV2c3BMR1RkZVM1SzNmaFVaMldpMzByR0lXLWZiVUdxaXF1YnU0UnRhRUhQaA?oc=5
 
 - 横浜市の児童相談所、虐待疑いに関する通知書２通を紛失 家族に謝罪 - カナロコ
   https://news.google.com/rss/articles/CBMibEFVX3lxTE04cDRJZlB4SUNLMlUyQmk3aGthbkZZeWpQSlBzYmk5ZFBHZjNXTmUyQjB1MU9WOXRKcXlrazY4cEsxTHhEX1JXM0tScE13NkEtN0xxNUl1dHV0bjN4Yk9BUGxpcXl2bGZFYjlwMg?oc=5
 
-- 中古不動産の買取再販のM&A案件情報 - 日本M&Aセンター
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE41a0cwX2Y5S09EaTRoMWt6d0I0bTJlWnNYck1pbGJXTngtRkM3bHZ4UEFMNWMwcW1FN2VBcDcxcmtaRGprdkhydnc2OWdPUzBlU3J2ZnlqVDE4Qi11Y0ZVZURJTTdoNDJZQXBKZ2RXZTNZV0k?oc=5
-
 - くらしの相談窓口のご案内 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXVMUkVoVFJzVElBVkRjT0tzemIwRG5UV01MVHJCemhtN0JpM0Q5V0tiOWFQQmJxZFBMQ0RhVEY0SC01OGI5RjQxTnNlRC0zd1dqV3U5VHgtR2hKZm5MRHBYbzFqM0pWLVNuem52SS1CeHc4VU1jWG9Fa2pOTWhKd3FRUUc0dmlrSnR3?oc=5
 
-- 香川県司法書士会が相続無料相談会 2月28日 イオンモール高松 （KSB瀬戸内海放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9WTzAwY1hWLWo4OEx5a3pJSVNaVXhWdndRRVMyUy1sTUNpeVVLUjM2d3BBVVJqb1Z2OTFtSlZDSUx4UV9LVEFKN2J0b3FTTUZyUUJqV2hLVWdKRmQ3YXRBNlowYm5Eb2lMMERnajJMamR5ZWN4ZEdYclJSUDdTYjA?oc=5
+- 相談相手はAIだけ 平成不況で敗者復活ならず、孤独な団塊ジュニアがそれでも抱く希望（毎日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Znh2VmN5ZHNLcGRxUG1QTko0bkhuS3BKSlB4SkNQcFJDZmYtYnk4bFNKSVpvd2hEZDFvU2xnMzRXVkNLSUVMSXhUUkFvdUpfb1BwbDdmdG02YXNJY2RxeU9qaXQyUjVoNVZVX1N0NG9QSmlvSGE3NDU1UzkxclU?oc=5
 
 - 児童相談所の職員、最大月５万円の給与加算へ…離職防止へ政府方針 - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UZV8yTDhWZ1NqM2NvQV8yRWFpbWNQU3ZIeVExclF6R1ItbnozaWFvTndva3UzcEpOSVNpb1o5T003OFlYd2hhX0hmbjdxUnRpX0d4MTQ2ZWFtajRUbC1KY0p1amt3UQ?oc=5
@@ -39,8 +42,8 @@
 - 確定申告スタート 国税庁、ｅ─Ｔａｘを推奨 ＡＩで相談受け付けも - カナロコ
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sQkNDX1Y0Ylp6cHNWNFh2UmlETWNETkhfZFRQWGxCTHhkbTlRYTBfb0hMTC1SMGMzei1FcHlXYm5vWWNEVWNjMGZiVUFTZGgySEt4Q2xzeUZQQlV2eEtjemtrcXROUXRz?oc=5
 
-- 相談相手はAIだけ 平成不況で敗者復活ならず、孤独な団塊ジュニアがそれでも抱く希望（毎日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Znh2VmN5ZHNLcGRxUG1QTko0bkhuS3BKSlB4SkNQcFJDZmYtYnk4bFNKSVpvd2hEZDFvU2xnMzRXVkNLSUVMSXhUUkFvdUpfb1BwbDdmdG02YXNJY2RxeU9qaXQyUjVoNVZVX1N0NG9QSmlvSGE3NDU1UzkxclU?oc=5
+- 香川県司法書士会が相続無料相談会 2月28日 イオンモール高松 （KSB瀬戸内海放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9WTzAwY1hWLWo4OEx5a3pJSVNaVXhWdndRRVMyUy1sTUNpeVVLUjM2d3BBVVJqb1Z2OTFtSlZDSUx4UV9LVEFKN2J0b3FTTUZyUUJqV2hLVWdKRmQ3YXRBNlowYm5Eb2lMMERnajJMamR5ZWN4ZEdYclJSUDdTYjA?oc=5
 
 - 「コスメの魔法」の作者が描く、結婚相談所を舞台とした婚活ドラマ1巻（コミックナタリー） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5Md19VLTBLb0R4bHZ5dEszXzlsSFRhbVNXQWZMOW9icnlQanRWY3M3ZnIwTHZYRXJYdklxWDl5Q0ZHbUZCRldiUlFjRnFtT2JqMTk3WlpabkRBejRHb3J0SHBPR2E3bXEyaTEtN2FKLUtqVXYtUTFPZko1aEpIT1U?oc=5
@@ -56,7 +59,4 @@
 
 - 【“夫の友達”が嫌い】妻たちが抱える複雑な悩み…嫌いな理由3つが納得過ぎた（LASISA） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE51eURQM21LSXd2VUtrQ2JxdDRIQjFJMGI2aVpuN0lVd2FCQ1R0YXUxbWJ6eGJVTFJUZkMyc3Zvb29LS0o2MlU1RWI5eXcwY1MyR05ZVUg1TFdYazlHR0Z3TXpxdmpmUXJSQ3g3RXh6TGVTVTJEbDhwcXVOWWI1TkE?oc=5
-
-- ドルトムントに新たな悩みの種 エースのギラシが今年夏での退団を計画（theWORLD（ザ・ワールドWeb）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5OU3dSdjN6bVJNTmlqdWJoZ1R4c05DOE9QOG1PZDhNMVNxcGotcHRFSjNzSy16WHpFVTdPV1ZlNEltZmNza2dpdWFfZUdGZnM3OFR1MW5QbVU2S1FydE1pZEpEMWNObjFJc1hJVy1BN0VlZmJHVGwyOHZkQ1d6ekk?oc=5
 
