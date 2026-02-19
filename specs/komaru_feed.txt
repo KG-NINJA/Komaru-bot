@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-19 22:05) ===
+=== こまる相談 ニュースフィード (2026-02-19 23:07) ===
 
 - 埼玉・越谷児童相談所の職員が入所中の10代女性に性的暴行 「入所している児童が職員と性行為をした」と警察に相談 埼玉県警（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbUs2ZEo1cG5FbkVEMUNCaUpiZGVham1TSUd1LTdnSFBFUy1kU2dNV0FBUzdVQVRmNk80VlFlQkg3cVVWZTBWN2JwM0QwWW5vUHBWVGVjekU4U0RVaW10bld4NUJQQnh0WmVaRTRyQ3A5Y1JsMHFaOVowUWlPMlk?oc=5
@@ -6,8 +6,14 @@
 - 仕事･恋愛相談、AIにも相性 ChatGPTは真面目でGeminiは親身? - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5OOXdQaDFEM3FSVTlMemlZUEpEN0xJOU9CRUtJNEh5REdCQ3hCa0p6YjhrbTByeDFxMTIxdURLX0tnTkxqbHpka0lGOW1XcUxadkh1TkZyc2x0ZnRGbXNmT2hmZmpGZElvNmp2WQ?oc=5
 
+- 障害福祉の相談支援、新たに処遇改善加算の対象に 加算率は一律5.1% 厚労省 - 介護ニュースJoint
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE42dndsTVBWUFgyVFBnb0dWeWFiYTh2NjJQMGVaWk1pT0tGUkRPWjlodjh2WTNVcGF5NHdvaVQ2UHVveGhSR2xuWFAzZ0JJeVhycjJGd1hR?oc=5
+
 - 祝日の小児科医へのオンライン相談、平日・土日と比べ、増加する傾向 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE84Vm16dTVSbmFCSDdJQ2FObzNaY3BvVTM0SEdpNHE0V3NyZ3c4cW5ISkRLWHhwRDVrN1JoenZTYjMwTUsyS1VyNE51S01zaHpzeXBXZXFjR3JBNHJ2QWd5WktBajMwYVZWeVE?oc=5
+
+- 女子中高生 相談相手は生成AI 男子を圧倒 (1/2) - ASCII.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DSHM0ekVPMkRFMjROMkpNVXloclQxVmNRMnkzN2FZNmN3cmZoWEZvdGJnQWxRNEpvSElZcy1NLXhISW9lU3RadU04NjR6OGR2dlJkSg?oc=5
 
 - 子育て相談の窓口集約 稚内市、26年度からサポート体制強化 発達支援、機能拡充も - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hWkZ4ZldFdXEwWEJEWWJ5ZDl5UFVtQS0xWmkzelJ4VFZfSUV5ak9GdF81QU1YOFNoUnZWbDVtUWxNeTdHYmhIUENsVEJhcHZZLU5WVG91ZXEtZw?oc=5
@@ -21,8 +27,8 @@
 - 少雨で県が14ヵ所に相談窓口 - 徳島新聞デジタル
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OLWExU0xHeHA3MXJveFh5LUZFLVJVdUFBcW9fY3h1aFphSzMzR2E0UmdERnBiWHl2RzdwRXpwUDhLd00xRE9hUzRaWnlaa1ZvVjQ1TFdR?oc=5
 
-- マイオピニオン～若手研究員の意見～『「介護の悩みが職場に相談されない」を考える』 - 第一生命経済研究所
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcjFkMUhiV2hQSjdTM1NVMGMzR1ZIVDBRbEdaVmc1c2paR0VmSEVXcFdFMkljdlF2M3VyaGhacmFtV1hOc1Nza3FtajV6TUZuc193N1FpS1JUUQ?oc=5
+- 「一緒に解決を」年度末を控え連合が労働相談ホットライン｜ニュース - UMKテレビ宮崎
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WMTZhLTNnRkhadlVKYmFETjRBdW83RmlqSFBPZE9tcjZPMldhVHZDSFZlRGNuN1Q1UV9zSEx2TkhQU2lBUHZER1YtbGR1VmxxOFRESUIyUVVYMEVTdzdF?oc=5
 
 - 増え続ける相続関係の相談 : ブログ : 羽村市議会議員 いしい尚郎 - 公明党
   https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNzJ6YlN4LVpRZWlOUGJZM3pNNHkzY3dIdG5pcmk5eG1ZcnFsTk5RZ3g4ODJRdDhjSjI4enE0eHE2Z0pxNlRqVzM5blJ2U3hSN2JJWXRNakFtOTdMQkJJT0E1cDJJUlA4NU9QRkdzdWNaMFh3M293cnJrZjhiek5VcWtiN05pRDAzRWdTR0t3THZLOXdwWFFpQmRDb1JoZ2d1dEhuSk1zTzQzRkhwZTRkaUxqeEp3ZVRqLUU2WmNrNTZNZEZKLW9OWUZJaktRRUpCX0s1VDZVeklLLWh1MGsybHFsRjJzWDREQXB4dndRUmpqZWF6V2U1UVdB?oc=5
@@ -30,33 +36,27 @@
 - 弁護士の声で変わる相談受付 ──弁護士向けAI法務SaaS「AILEX」、2段階相談受付フォーム＋相談料請求書ワンクリック発行機能を追加 ～来所前の情報収集と相談料の経理処理を効率化～ - ドリームニュース
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Id0hTOU54UGQtaUI5OGFHRlg3Q1FFc3g4elMwQTN4YU5sU2FLYzZyRDVjdkNJU09IdXhDSXZJYldPblhGZ2dTTGx4QnctSnQ2NHFr?oc=5
 
-- 飲み会も社員旅行も「苦痛で仕方ない」…うまくやるコツは？ 小さな会社の同調圧力に悩む相談者へ共感・アドバイス続々 - TOKYO FM＋
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2NnN6X2dRaWRCM2NBOGduZUMzSHluU0NweGhqcFA1dTFFX0lCaWl3UDM3ZHBFbmpqWlBaa3BkUHBDRUszZ2Z1VVN2eGVMUk9PemFZdw?oc=5
+- マイオピニオン～若手研究員の意見～『「介護の悩みが職場に相談されない」を考える』 - 第一生命経済研究所
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcjFkMUhiV2hQSjdTM1NVMGMzR1ZIVDBRbEdaVmc1c2paR0VmSEVXcFdFMkljdlF2M3VyaGhacmFtV1hOc1Nza3FtajV6TUZuc193N1FpS1JUUQ?oc=5
 
-- 辻村相談窓口、「人生の複線」 - Design Stories
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XVWhhUEw4TzdSdEdFNnZrbmwxaEdRcGZNN0pEam1tOUQ1U3ZhcWtTdWRwNVBZd3g3V09aZWl2aEp3bHA0cmR6dW9ud3RtRDJuc1E1OVZWelI1MnBORTlqWHgxaW0tQQ?oc=5
-
-- ChatGPTにリフォーム相談！シミュレーションしてくれた！｜楽待新聞 - rakumachi.jp
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wd0c1cGg0RDRVMGVJaU5VY0t1RV9XTDZKeW9lYzJ4X0Z6MEtYSjM2YUk5UEwwYzR4ejN6VUJPU0dpeWVYTy1wTElOaGt6ZXVpNlNYdTByRTAxdw?oc=5
-
-- ITのお悩みを丸ごと解決！『うちのIT部長』のご紹介 - Newscast.jp
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PTTdnZzhHU2RtSldTMlpHdU9BR1RGMV9aZnA5MkRkYVVJalJQbWZqbzRyOXQ3VnNvamNaY1BWblNMTng5QWxtcVBiWEFQcjA?oc=5
-
-- 70代女性が1400万円騙し取られる「未納料金がある」電話をきっかけに次々に金品要求され 2か月に渡り現金1000万円以上を送付した後に 家族へ相談し詐欺に気づく 警察は金銭払う前に家族や最寄りの警察署に事前に相談するよう呼びかけ 青森県 | TBS NEWS DIG (1ペー - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QelA1bk5MNFpLM3lCU0JiNW9zNGlRZHVIN08zbHAwRUtldVlENGM1Sk9SS1d0d3V6cVNqNXB5elpxTUluOVhHbVJwcXg3U2stdHN6bVFYTVpJdVBJaXlzclctdVE?oc=5
-
-- 延岡で木村つづくさんが公開相談室 他人の困り事に知恵を貸す機会にも（みんなの経済新聞ネットワーク） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1kbDVZZDRERlhLcGxrZnYtdjI3cjZHcWNBTFZQZVg2X0pNOG5uYVVwS3BpV0p3OFp5dGh2Q1FMSzVBRXdWOVVZQ2lxWWhKV2s0eXQ4bU9fWmVwVFkxVXNKZGJ1ZUFpcjhHU05xMC1seVFISHhoVkM1ZmcxY1h4ZU0?oc=5
+- 相談してきたのに店員の提案を「全部否定してくる」お客さん…。「店にないものを言われても」困る事例を描く【作者に聞く】 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5hakwxSFhCQnJudEpqaXlNMmpGOTVUZ3Q1QXVfVTQwTkVKRGd5c2ZIc1lEZTNaQTNNclRVZFQ4eHRkdkNhU1FTUGk4T1J1eUlwckZRQTF5cDljZWQtd1NZUnZGVW5NWS1OenZTaTIyQ3ZaVFZLY0ZKZFM4V0hRX2s?oc=5
 
 - 学校行きしぶりや不登校のお悩みに答える連載記事、第4回は「キレる子どもに親もキレてしまう。どう接すればいいの？」。1対1で相談ができる「お手紙カウンセリング」についても詳しく - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9CT05mZGtzTktZM2R0SnA2QTV4WDMtTVdWQXlkY2d3UVJxSS1VUWJIY0JNR3BuNGRaV1BFTUt5WmEyaDMwUjRQOGJSQm1uOEdidC1jdFNiQ25aamVfR0VZN1d2LU9FWjBLSkE?oc=5
 
+- 月経・更年期・不妊治療…個人の悩みを組織の力へ。無料で学べる体験型フェスが3/6開催【名古屋市中区】 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHJnS243RkFKUThSbWRNZEFYTTA0dU5CQmh2Qjl5YkZGbHVLc0NBVm9fd1ZVVDJJRXRKRjZtRnJvVExCRWJZNjM2Wlh5SUU3NzlfNmU4c09JU2M0ZEJuc2UwcnRhUjV2bDdxajRjSlFmUXNBVjNWM0hDWk9veGlNM0dOblh0NDcw?oc=5
+
+- 延岡で木村つづくさんが公開相談室 他人の困り事に知恵を貸す機会にも（みんなの経済新聞ネットワーク） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1kbDVZZDRERlhLcGxrZnYtdjI3cjZHcWNBTFZQZVg2X0pNOG5uYVVwS3BpV0p3OFp5dGh2Q1FMSzVBRXdWOVVZQ2lxWWhKV2s0eXQ4bU9fWmVwVFkxVXNKZGJ1ZUFpcjhHU05xMC1seVFISHhoVkM1ZmcxY1h4ZU0?oc=5
+
 - 入所女性に性的暴行の疑い 児相職員の男 逮捕／埼玉県（テレ玉） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5rM3I5cUREYU40Zmp0Qmw3SU96OEZ3SUlMc3BRbWp1RXUwVmtveC1ZUGk1b0lPZFpaTFg0a0c1T3c2cGpMYmR0T09aQTI2RTVhMjZsZ19vZ0J0RFZaQVY2b1B5QkREb1V5NGtPYmR6el9qeEgyNjNDc3J5RE1sM3M?oc=5
 
+- 3月末に賃貸→戸建て引越し…どこから手を付ければいい？ 準備不足かもと不安を抱える相談者へのアドバイス続々 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBsMDZ6dkZvcUVXR2pKb25zWEo0ckMyRzA1QWRHd1d5NTNLOElkYVF1R3VOeTR6UEdzV1JBbVEycnFGakp4M0tOSGFPeEdiS3Q4c3ZmT0hoVWttVzcxWE9RdlZyZDVpX1ZZcGdhR25SOTIzMzNQMWhPMVprVzVIR3M?oc=5
+
 - 相談相手はAIだけ 平成不況で敗者復活ならず、孤独な団塊ジュニアがそれでも抱く希望（毎日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Znh2VmN5ZHNLcGRxUG1QTko0bkhuS3BKSlB4SkNQcFJDZmYtYnk4bFNKSVpvd2hEZDFvU2xnMzRXVkNLSUVMSXhUUkFvdUpfb1BwbDdmdG02YXNJY2RxeU9qaXQyUjVoNVZVX1N0NG9QSmlvSGE3NDU1UzkxclU?oc=5
-
-- 県内の去年のサイバー犯罪件数「最多に」 相談件数は減少も、SNS乗っ取り相談は増加 鹿児島（MBC南日本放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1pREhhN3RpWkVTWjVpM1F4WmhzYm91YVdUc2c2OFZ0dU5Ja0ZxM0pyTEJEcFFMR2ZxbU83V1RWSkN2d0J6TkFWTldjSEt2QnBNNDFnMXdiWEN5RFhfRW96ZDdBY3VqWnBubnRkTlphX2w5RVVzMW9iUjY2WUlJcXM?oc=5
 
