@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-19 07:20) ===
+=== こまる相談 ニュースフィード (2026-02-19 08:10) ===
 
 - 学校行きしぶりや不登校のお悩みに答える連載記事、第4回は「キレる子どもに親もキレてしまう。どう接すればいいの？」。1対1で相談ができる「お手紙カウンセリング」についても詳しく - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9CT05mZGtzTktZM2R0SnA2QTV4WDMtTVdWQXlkY2d3UVJxSS1VUWJIY0JNR3BuNGRaV1BFTUt5WmEyaDMwUjRQOGJSQm1uOEdidC1jdFNiQ25aamVfR0VZN1d2LU9FWjBLSkE?oc=5
@@ -6,35 +6,32 @@
 - マイオピニオン～若手研究員の意見～『「介護の悩みが職場に相談されない」を考える』 - 第一生命経済研究所
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcjFkMUhiV2hQSjdTM1NVMGMzR1ZIVDBRbEdaVmc1c2paR0VmSEVXcFdFMkljdlF2M3VyaGhacmFtV1hOc1Nza3FtajV6TUZuc193N1FpS1JUUQ?oc=5
 
-- 弁護士の声で変わる相談受付 ──弁護士向けAI法務SaaS「AILEX」、2段階相談受付フォーム＋相談料請求書ワンクリック発行機能を追加 ～来所前の情報収集と相談料の経理処理を効率化～ - ドリームニュース
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Id0hTOU54UGQtaUI5OGFHRlg3Q1FFc3g4elMwQTN4YU5sU2FLYzZyRDVjdkNJU09IdXhDSXZJYldPblhGZ2dTTGx4QnctSnQ2NHFr?oc=5
+- 「みんな不安に思っている」住民らガス会社設置の窓口に相談 札幌市手稲区５人死傷爆発火災 - HTB北海道テレビ
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaNTVBODdaXzdRS1NnLW5CUG1ZX2V3NUFiSTZVTFRXTS03bGFwdE1RUWJ6SUo0M0pNSk84dzM4RldJTUdncFVmNGlQOUhHMm80RXRIeUw1VldLZw?oc=5
+
+- AIリーガルOS「AILEX」、事務所HPに設置できる「相談受付フォーム発行」機能をリリース ― 相談者の入力情報を相談管理に自動反映、転記作業ゼロで事件化まで一気通貫 ― - ドリームニュース
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wSzRRU2dCck1yQVluTUItckdlMDdrckptODVHNlJrN3ZMZnJ2TkRrYkZfZG5LdndmeTd4alFHSmMwdUZFOWczOG1kU1lZTFE4SWxr?oc=5
 
 - ユニクロ史上最年少役員から「悩み相談」のプロへ 株式会社トーチリレー代表・神保拓也が説く「60点理論」のすすめとは？ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5SS2lmS0tiREJ3Sk9BLTdvMU0wR2FDUk01T2NOV1Y5SVp6VDRjV2plenpRclZvdnBQMUlEWGcxbGNHQUlNUEZ0a0VlQ2dmd3VDc1lnd09fekxoel9DMEQ0S1lqdnBlclZjWm5qLWdLRmIxMG1OX0laYldjVXNtc3c?oc=5
 
-- 栃木県 カスハラ防止条例案提出 相談事例も公表して啓発 - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE40LXlyR1pHMEhJaExtc0JOTVdBemY1UjdOLVY2OXVDVkFRYll6d1FUQnVhX2pQVGVMemxUR1ltNnNTNUtPV3Nha2otRm9KYVdpZlVz?oc=5
-
 - 解雇や雇い止めの無料相談会 2月25、26日、福岡市など4カ所の労働者支援事務所 - 西日本新聞me
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTC11MHVKeWNGZDc4azN4Tk9jbE9WaHFVb08yOG1sM2RPOW1uWVFtVWZaSzFSMTFsRG1wOUZNTER1T25CbkE0OFBlVVV4SGo1emN6aXd3?oc=5
 
+- 栃木県 カスハラ防止条例案提出 相談事例も公表して啓発 - 東京新聞デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE40LXlyR1pHMEhJaExtc0JOTVdBemY1UjdOLVY2OXVDVkFRYll6d1FUQnVhX2pQVGVMemxUR1ltNnNTNUtPV3Nha2otRm9KYVdpZlVz?oc=5
+
 - 不妊治療経験者らが当時の悩み語り合う - sannichi.co.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWcmpLNkgyeDFGV0o1YkpoTm84cElMT0x1cUJIa29mVFRMSUxwcTZldEQtQ3FGczByOWlHX1MwZVJXV0d0WHFGekFoS3RneEVmSndyNEVVdnpkRUhxYl8yek4yaEg?oc=5
+
+- 【速報】東京・赤坂の個室サウナ店夫婦死亡火災 店の運営会社社長「押し戸への変更を前社長に相談したが反対された」 きょう前社長の関係先を家宅捜索 警視庁 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WSWs3RHdWMFVxeTRvcUU3cEpLOGpvN19uS0hybkFWOS11cWZaR3d1aDJPcE5sSFdybDNvTXdDeTR6U0ZLSDFkcUdDYWpiUkt5aVI4Vy1qNA?oc=5
 
 - 21、22日「住まいの大相談会」／アルク｜生活お得情報 - 東奥日報社
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ES3RoMXlvQUd0ZUk1RnNORC0xZ08wNmtzUktwYVhzakFSSTRtdGoxckVvVmEwWVJEbjJtdWVUdkp4ZnZNNEVQMnFfUWV5dnVBRnI1clc3cjk?oc=5
 
 - 祝日の小児科医へのオンライン相談、平日・土日と比べ、増加する傾向 - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE91UjRKMmt2S1F4Sko3N2ZFUWJxSE1NMjlBVktKWHp3TVdFaHVmU1RNNWxhOXhDU09VTmdpQjQ2UzlHSE1ndUk1RkpsNzBMZw?oc=5
-
-- 解雇や雇い止めの無料相談会 2月25、26日、福岡市など4カ所の労働者支援事務所 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QU2paYlllQ3NzZkpCWjRMRGhJbWEwMDlCb0JnemtON0dXWG1qOG43ckxUOWpNUlhkZFlHNy1vOEhPd193LWdwLU9YMA?oc=5
-
-- 栃木県 「ヤングケアラー」の悩み相談にＳＮＳを活用して対応 - NHKニュース
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE53WTd0LUVvZ19DTUl0WkxBYzgwWFZNdkNqWHdwM3dWblluQlE1MkxMb3BkSFNlVlVJdFBzcTM1ZkxsSHZHdjJXaDJIQUVMZUltcV9VYkl4V0g?oc=5
-
-- AIリーガルOS「AILEX」、事務所HPに設置できる「相談受付フォーム発行」機能をリリース ― 相談者の入力情報を相談管理に自動反映、転記作業ゼロで事件化まで一気通貫 ― - ドリームニュース
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wSzRRU2dCck1yQVluTUItckdlMDdrckptODVHNlJrN3ZMZnJ2TkRrYkZfZG5LdndmeTd4alFHSmMwdUZFOWczOG1kU1lZTFE4SWxr?oc=5
 
 - マルシェや相談会、女性の仕事考える - sannichi.co.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLc1hqUzlqRW14OVhkcVBlc0NsTGFoS0IxT1U2OXJRMEdkSDNnNUR3QVNTS3Nxbm90cG1VVUoxWWxRczJwMXpsN0lsZFpMVGJUMDd1MkNlTUdwdk9qcURxTWY4aGE?oc=5
@@ -48,15 +45,18 @@
 - 相談相手はAIだけ 平成不況で敗者復活ならず、孤独な団塊ジュニアがそれでも抱く希望（毎日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Znh2VmN5ZHNLcGRxUG1QTko0bkhuS3BKSlB4SkNQcFJDZmYtYnk4bFNKSVpvd2hEZDFvU2xnMzRXVkNLSUVMSXhUUkFvdUpfb1BwbDdmdG02YXNJY2RxeU9qaXQyUjVoNVZVX1N0NG9QSmlvSGE3NDU1UzkxclU?oc=5
 
+- 悩み別洗車クリーナー誕生。コーティング前の下処理に最適 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFByWEFfeFVQN1ZuVy0tR0s2dmFqWWc0RGpINFVkRW9DRncyQVZRaW5YRVdJd0NHeWlOZVFoeWtNSVF5c19reTNwZWxDZ3lEdU1LRU1MU3FYMUM5RE5fdXh5VVhhSTBZWkhTTEE?oc=5
+
 - 山梨県、2024年度の児童虐待相談対応2200件 高水準続く（朝日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9iYjlVeml1eW92QmgtRGNsazZ5ajQ4M1FFcWFZVm5PVnpfajRJSFNwVmNvY0F4NnV5bnV4dldiTlNQM0djNWh6MVJ2NnBqdGd0eXdHT0RUOVd2bC11RW1uTm9DeFhhR2poSlZJeURoTExHV3VqQ0JOS1JoOFVxVTA?oc=5
 
-- 【2/26開催】CAD設計業務のお悩みを一気に解決！ベトナムCADサービス活用ウェビナー - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQnMwMU5STjdaV3o1cFYwUXdoakE5bUdPdjdnX25nMnNYVEdNOFFuTkdPc2JfdTYyQjYtbkt5SGltTVQ0cnNCV3F1UUlGdWU4dDBFSmR5UVFCZUxTV3FsTEhVS1VEU1NMU0E?oc=5
+- 海外旅行保険の付帯サービスとして「オンライン医療相談」を本格提供開始 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVzNYSHRHdHVvU0ZMRmJsSWxvUlI4bUsxRXZMeDFoQ2JLcU44Nm10aEVjWTByMEZ1RmMtQlVOUjl6V2pmb1pWRnpWSW5pZHktdFdDdHdoa1FPYUxJelA3d053QnA1QU4zcHc?oc=5
 
 - 札幌市手稲区５人死傷爆発火災 被害を受けたガス供給地区の住民に向け相談窓口を設置 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1wSmFoaUNmYzlRT2pELWxQcTliOW9oTU1uNTkxZDhTM2E0dEt5bS1pYU9ycDEzV1NpTE5JS3FDU2xuY1pYTEdVdVNpWXBLZ0h4TTduQjhNYzNjenYtc3M0VlprQjRFbzZScDR1RWRvS1BuM1hNX0FMWWllSXFLdk0?oc=5
 
-- プレスリリース：奈良県 性と健康の相談センター事業の一環として、高校生・大学生向けに、プレコンセプションケアに関する無料オンラインセミナーを3月8日(日)に開催します（PR TIMES） - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBUVhsOER5OFI1dHNSa3dWd2N0NmZESEJ2TW5DSDVCMFJKQ1gtMkpSM2RGS3kxZ0k1RVpYZkV6b09IWkIyRDZlVVJIMVBzcnlRTjNKVFNueXRFYms1dTZVTWVseXMwdUFp?oc=5
+- 解雇や雇い止めの無料相談会 2月25、26日、福岡市など4カ所の労働者支援事務所 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QU2paYlllQ3NzZkpCWjRMRGhJbWEwMDlCb0JnemtON0dXWG1qOG43ckxUOWpNUlhkZFlHNy1vOEhPd193LWdwLU9YMA?oc=5
 
