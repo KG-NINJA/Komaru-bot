@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-19 12:09) ===
+=== こまる相談 ニュースフィード (2026-02-19 13:28) ===
 
 - 祝日の小児科医へのオンライン相談、平日・土日と比べ、増加する傾向 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE84Vm16dTVSbmFCSDdJQ2FObzNaY3BvVTM0SEdpNHE0V3NyZ3c4cW5ISkRLWHhwRDVrN1JoenZTYjMwTUsyS1VyNE51S01zaHpzeXBXZXFjR3JBNHJ2QWd5WktBajMwYVZWeVE?oc=5
@@ -12,6 +12,9 @@
 - マイオピニオン～若手研究員の意見～『「介護の悩みが職場に相談されない」を考える』 - 第一生命経済研究所
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcjFkMUhiV2hQSjdTM1NVMGMzR1ZIVDBRbEdaVmc1c2paR0VmSEVXcFdFMkljdlF2M3VyaGhacmFtV1hOc1Nza3FtajV6TUZuc193N1FpS1JUUQ?oc=5
 
+- 増え続ける相続関係の相談 : ブログ : 羽村市議会議員 いしい尚郎 - 公明党
+  https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNzJ6YlN4LVpRZWlOUGJZM3pNNHkzY3dIdG5pcmk5eG1ZcnFsTk5RZ3g4ODJRdDhjSjI4enE0eHE2Z0pxNlRqVzM5blJ2U3hSN2JJWXRNakFtOTdMQkJJT0E1cDJJUlA4NU9QRkdzdWNaMFh3M293cnJrZjhiek5VcWtiN05pRDAzRWdTR0t3THZLOXdwWFFpQmRDb1JoZ2d1dEhuSk1zTzQzRkhwZTRkaUxqeEp3ZVRqLUU2WmNrNTZNZEZKLW9OWUZJaktRRUpCX0s1VDZVeklLLWh1MGsybHFsRjJzWDREQXB4dndRUmpqZWF6V2U1UVdB?oc=5
+
 - 弁護士の声で変わる相談受付 ──弁護士向けAI法務SaaS「AILEX」、2段階相談受付フォーム＋相談料請求書ワンクリック発行機能を追加 ～来所前の情報収集と相談料の経理処理を効率化～ - ドリームニュース
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Id0hTOU54UGQtaUI5OGFHRlg3Q1FFc3g4elMwQTN4YU5sU2FLYzZyRDVjdkNJU09IdXhDSXZJYldPblhGZ2dTTGx4QnctSnQ2NHFr?oc=5
 
@@ -24,11 +27,8 @@
 - 「一緒に解決を」年度末を控え連合が労働相談ホットライン｜ニュース - UMKテレビ宮崎
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WMTZhLTNnRkhadlVKYmFETjRBdW83RmlqSFBPZE9tcjZPMldhVHZDSFZlRGNuN1Q1UV9zSEx2TkhQU2lBUHZER1YtbGR1VmxxOFRESUIyUVVYMEVTdzdF?oc=5
 
-- Z世代の4割以上が生成AIに悩みを相談。「秘密の友達」として心の拠り所に - TABI LABO
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QNm1pRlIwQUxhdjVoanFXNzRYb3FBNHZkeFdYUGVTS04zTnA1NmFpLTh1QU91Mk83ZE9YY01pOW05QThnZi1ReTZCczZtY0cw?oc=5
-
-- 栃木県 カスハラ防止条例案提出 相談事例も公表して啓発 - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE40LXlyR1pHMEhJaExtc0JOTVdBemY1UjdOLVY2OXVDVkFRYll6d1FUQnVhX2pQVGVMemxUR1ltNnNTNUtPV3Nha2otRm9KYVdpZlVz?oc=5
+- 被害相談も多数 再逮捕の不用品回収業者‘価格つり上げ’被害者明かす手口 - KBC九州朝日放送
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE5sb2NuNE1iSmdNdzlJdlZNRmZKR0RpZlBHcDNKVnc0Q2FyQk5maE1GazljNlVabTBTV1Uwb0FEdl9ycTZuOW1Temk0bm1EaUdxVHZLTEliWEU3VXRjVExVaXlFSnNpZEhSWTNkdzNR?oc=5
 
 - 学校行きしぶりや不登校のお悩みに答える連載記事、第4回は「キレる子どもに親もキレてしまう。どう接すればいいの？」。1対1で相談ができる「お手紙カウンセリング」についても詳しく - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9CT05mZGtzTktZM2R0SnA2QTV4WDMtTVdWQXlkY2d3UVJxSS1VUWJIY0JNR3BuNGRaV1BFTUt5WmEyaDMwUjRQOGJSQm1uOEdidC1jdFNiQ25aamVfR0VZN1d2LU9FWjBLSkE?oc=5
@@ -36,27 +36,27 @@
 - 県内の去年のサイバー犯罪件数「最多に」 相談件数は減少も、SNS乗っ取り相談は増加 鹿児島（MBC南日本放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1pREhhN3RpWkVTWjVpM1F4WmhzYm91YVdUc2c2OFZ0dU5Ja0ZxM0pyTEJEcFFMR2ZxbU83V1RWSkN2d0J6TkFWTldjSEt2QnBNNDFnMXdiWEN5RFhfRW96ZDdBY3VqWnBubnRkTlphX2w5RVVzMW9iUjY2WUlJcXM?oc=5
 
-- AIリーガルOS「AILEX」、事務所HPに設置できる「相談受付フォーム発行」機能をリリース ― 相談者の入力情報を相談管理に自動反映、転記作業ゼロで事件化まで一気通貫 ― - ドリームニュース
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wSzRRU2dCck1yQVluTUItckdlMDdrckptODVHNlJrN3ZMZnJ2TkRrYkZfZG5LdndmeTd4alFHSmMwdUZFOWczOG1kU1lZTFE4SWxr?oc=5
-
 - 話題のヘアケアブランド「THE ANSWER」から、季節で異なる髪悩みに応える新ラインが登場 第一弾「THE ANSWER SEASONAL CARE SS」新発売 | 花王株式会社のプレスリリース - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE0xbk00c3JZSWh5YnI2akloYjdFZzR5NlctWnNMUzIxU21SOTd3bExvbXVjTXdHekpGNHNOOER5Nk5aYmxMQWhfNWxhWWdtbTVOZkJCbkx3WXZfeGlXMUhLQk5aTHhILTBBTlE?oc=5
 
-- 洗車時の悩み別で選べる「プロ級の洗浄力」、カーメイトがボディクリーナー3種を発売（レスポンス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9xSjF1NjZlb0dpV01kRllQOEhPRERWYmNQem1hQnlBWWNyRzQzQ2hBVWk2aUc3TXpOUjhpc1UyNlVWNEYyN1pYTmszUmhIV3RhaHZzYlNwbGJudm84TnhyRjRKREc0b1AxdTRKZDBXVnFhbDBZTV9HWHJqTXVFaFE?oc=5
+- 洗車時の悩み別で選べる「プロ級の洗浄力」、カーメイトがボディクリーナー3種を発売（レスポンス） | 自動車情報・ニュース - carview!
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWV0SHRXME51bEp6OTRGN3Rfb0V5Tlk4aDRKQ19wOTBWU0lvb0FZOEV5YUNWc283ZlV6X1Y4U290NFN2NEZzUUhXZTB4QUdwamtkcGljQUFEbjBZUklYZm02ckwxVU4wbGYwRllOeWU4OE93M29WbWIxR1ctZlpvWkhIVjZpal9J?oc=5
 
 - 海外旅行保険の付帯サービスとして「オンライン医療相談」を本格提供開始 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVzNYSHRHdHVvU0ZMRmJsSWxvUlI4bUsxRXZMeDFoQ2JLcU44Nm10aEVjWTByMEZ1RmMtQlVOUjl6V2pmb1pWRnpWSW5pZHktdFdDdHdoa1FPYUxJelA3d053QnA1QU4zcHc?oc=5
 
-- 【見えざる貧困】若者のホームレスが“増加傾向”か ネットカフェなど利用するため“見えない貧困”の姿に・・・ 支援団体が気付いた相談内容の変化は・・・「生育格差」 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1RZlFTWFhydmtUNHBnVlR6TWQzdGZ6b0FCb0NxODVkQmdmLUlGRTdmSUE1aVpUOUFUVHk2NTlKTUhCaUNxTjY5dkY1YTRBb3l5b0NyT3JjYlBnYU10RGMzTkJBN2h5V0xYLU9rVW9vV21IWWs5Ynp6eGw1dmdfSHM?oc=5
-
 - 悩み別洗車クリーナー誕生。コーティング前の下処理に最適 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFByWEFfeFVQN1ZuVy0tR0s2dmFqWWc0RGpINFVkRW9DRncyQVZRaW5YRVdJd0NHeWlOZVFoeWtNSVF5c19reTNwZWxDZ3lEdU1LRU1MU3FYMUM5RE5fdXh5VVhhSTBZWkhTTEE?oc=5
 
-- ユニクロ史上最年少役員から「悩み相談」のプロへ 株式会社トーチリレー代表・神保拓也が説く「60点理論」のすすめとは？ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5SS2lmS0tiREJ3Sk9BLTdvMU0wR2FDUk01T2NOV1Y5SVp6VDRjV2plenpRclZvdnBQMUlEWGcxbGNHQUlNUEZ0a0VlQ2dmd3VDc1lnd09fekxoel9DMEQ0S1lqdnBlclZjWm5qLWdLRmIxMG1OX0laYldjVXNtc3c?oc=5
+- 山梨県、2024年度の児童虐待相談対応2200件 高水準続く（朝日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9iYjlVeml1eW92QmgtRGNsazZ5ajQ4M1FFcWFZVm5PVnpfajRJSFNwVmNvY0F4NnV5bnV4dldiTlNQM0djNWh6MVJ2NnBqdGd0eXdHT0RUOVd2bC11RW1uTm9DeFhhR2poSlZJeURoTExHV3VqQ0JOS1JoOFVxVTA?oc=5
+
+- 渋谷凪咲にファンが相談「セフレの男がいまして…」 交際発展した“モザイク彼氏”の正体判明、共演芸人困惑「ええ？」 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZHN5VjAxc0ltU2JsTlZFYzJsY3BONkdjR2NZUzg0ZlQ0dnBtNFMzUi1WYWVaQWtoLTZ4MGVVNnNUcW5kU3Z0aG1mMHAyVXhraTZpWVQ5NzBtN0VHOUJ3MGI1QVJPYUQyRVphdUwtakE1YkI3eTlfT2lrM2dIWnM?oc=5
 
 - 相談相手はAIだけ 平成不況で敗者復活ならず、孤独な団塊ジュニアがそれでも抱く希望（毎日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Znh2VmN5ZHNLcGRxUG1QTko0bkhuS3BKSlB4SkNQcFJDZmYtYnk4bFNKSVpvd2hEZDFvU2xnMzRXVkNLSUVMSXhUUkFvdUpfb1BwbDdmdG02YXNJY2RxeU9qaXQyUjVoNVZVX1N0NG9QSmlvSGE3NDU1UzkxclU?oc=5
+
+- 謎すぎる…愛猫の“困った行動”ランキング 「狭いところに入りたがる」「突然走って急停止」…飼い主のトップ回答が「あるある！」 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1lSkhlUGhndHY2YkdXanV5NlNLQVVUY2lrcWlvQVhULWF5ekRPWjBiT3lqVUZGRTlGUkpTMWtEYzlWaW9JYzNwUGR1RlI5dGxkTWV5ZGU5eFF6XzNiLVRqWi0xOUxPTHhfU2g0dzN1RjRVWkRUeTVOeXh3aTliWUk?oc=5
 
