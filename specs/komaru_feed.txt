@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-19 04:35) ===
+=== こまる相談 ニュースフィード (2026-02-19 05:27) ===
 
 - 学校行きしぶりや不登校のお悩みに答える連載記事、第4回は「キレる子どもに親もキレてしまう。どう接すればいいの？」。1対1で相談ができる「お手紙カウンセリング」についても詳しく - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9CT05mZGtzTktZM2R0SnA2QTV4WDMtTVdWQXlkY2d3UVJxSS1VUWJIY0JNR3BuNGRaV1BFTUt5WmEyaDMwUjRQOGJSQm1uOEdidC1jdFNiQ25aamVfR0VZN1d2LU9FWjBLSkE?oc=5
@@ -6,8 +6,8 @@
 - マイオピニオン～若手研究員の意見～『「介護の悩みが職場に相談されない」を考える』 - 第一生命経済研究所
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcjFkMUhiV2hQSjdTM1NVMGMzR1ZIVDBRbEdaVmc1c2paR0VmSEVXcFdFMkljdlF2M3VyaGhacmFtV1hOc1Nza3FtajV6TUZuc193N1FpS1JUUQ?oc=5
 
-- 高崎市などが児童相談所向けシステム導入、情報共有の迅速化をAIが支援 - 日経クロステック
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZOW5aVmNiQ3dTeURld1Q3T2FyMjItR29wWTZlVUd2U3F4cXV3azA4Ty1jeFpGd2ZYb1JzeGlXSmQtdWhUSzZnZEtaMTg3LUJDRmRUQ0N6Um9nUEt4UmRRQ2tOY2lOWXc?oc=5
+- AIリーガルOS「AILEX」、事務所HPに設置できる「相談受付フォーム発行」機能をリリース ― 相談者の入力情報を相談管理に自動反映、転記作業ゼロで事件化まで一気通貫 ― - ドリームニュース
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wSzRRU2dCck1yQVluTUItckdlMDdrckptODVHNlJrN3ZMZnJ2TkRrYkZfZG5LdndmeTd4alFHSmMwdUZFOWczOG1kU1lZTFE4SWxr?oc=5
 
 - ユニクロ史上最年少役員から「悩み相談」のプロへ 株式会社トーチリレー代表・神保拓也が説く「60点理論」のすすめとは？ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5SS2lmS0tiREJ3Sk9BLTdvMU0wR2FDUk01T2NOV1Y5SVp6VDRjV2plenpRclZvdnBQMUlEWGcxbGNHQUlNUEZ0a0VlQ2dmd3VDc1lnd09fekxoel9DMEQ0S1lqdnBlclZjWm5qLWdLRmIxMG1OX0laYldjVXNtc3c?oc=5
@@ -24,14 +24,11 @@
 - 児童相談所の職員、最大月５万円の給与加算へ…離職防止へ政府方針 - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UZV8yTDhWZ1NqM2NvQV8yRWFpbWNQU3ZIeVExclF6R1ItbnozaWFvTndva3UzcEpOSVNpb1o5T003OFlYd2hhX0hmbjdxUnRpX0d4MTQ2ZWFtajRUbC1KY0p1amt3UQ?oc=5
 
+- 祝日の小児科医へのオンライン相談、平日・土日と比べ、増加する傾向 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE91UjRKMmt2S1F4Sko3N2ZFUWJxSE1NMjlBVktKWHp3TVdFaHVmU1RNNWxhOXhDU09VTmdpQjQ2UzlHSE1ndUk1RkpsNzBMZw?oc=5
+
 - 解雇や雇い止めの無料相談会 2月25、26日、福岡市など4カ所の労働者支援事務所 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QU2paYlllQ3NzZkpCWjRMRGhJbWEwMDlCb0JnemtON0dXWG1qOG43ckxUOWpNUlhkZFlHNy1vOEhPd193LWdwLU9YMA?oc=5
-
-- 栃木県 「ヤングケアラー」の悩み相談にＳＮＳを活用して対応 - NHKニュース
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE53WTd0LUVvZ19DTUl0WkxBYzgwWFZNdkNqWHdwM3dWblluQlE1MkxMb3BkSFNlVlVJdFBzcTM1ZkxsSHZHdjJXaDJIQUVMZUltcV9VYkl4V0g?oc=5
-
-- 【横須賀市】横須賀市障害福祉相談員相談会3月11日開催無料で身近な相談受付 - 湘南人
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9TNHdXcUFZZVJNa2wwVjJlUXdGWlNEWXVZazJUYXNtMVdNdHQ0ZjZjd0w3RDJCTmd3Rm1pandvN3VhVnd6ZXpTWVF1TFFkYldLaXBoUWhhTzNsVlZDMjBkNWkyRHQ3UHI5enkwZA?oc=5
 
 - 思いがけない転勤の打診。母に相談するも、大学浪人する弟を支えろと却下される【弟優先実母】 - TRILL
   https://news.google.com/rss/articles/CBMiT0FVX3lxTFBONFVsd2d1SWhMZXF3d182ZVp2eEFaLU1BZ3hpUTVUSVhnWGJ2TlFlbGVrSU1ucWhmVGd1Zkl1NnhoeVphc2dXd01tSmNMNE0?oc=5
@@ -39,24 +36,27 @@
 - Instagramフォロワー約20万人のフットケアリスト"山内まや"の初書籍『寝指１分ほぐし 足の悩みは全部、指で解決できる』刊行！ - KADOKAWAグループ ポータルサイト
   https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1l6WlloS21LMnRhQlpISkZxd1h1Y29qcXZUT09ESzFEWlZ4RHgxd3QwTmw5M0p4ZUtuTXJSOVZxX1ZDYVM3aWtiNWVGZEdqUlE0TWs5dUVhMnFhazdRNGY5blNfanhsakdYQ01HNFdXZ2JFS1lJYzRqRnNnNXFkbUJkWVI?oc=5
 
-- 祝日の小児科医へのオンライン相談、平日・土日と比べ、増加する傾向 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE84Vm16dTVSbmFCSDdJQ2FObzNaY3BvVTM0SEdpNHE0V3NyZ3c4cW5ISkRLWHhwRDVrN1JoenZTYjMwTUsyS1VyNE51S01zaHpzeXBXZXFjR3JBNHJ2QWd5WktBajMwYVZWeVE?oc=5
+- 栃木県 「ヤングケアラー」の悩み相談にＳＮＳを活用して対応 - NHKニュース
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE53WTd0LUVvZ19DTUl0WkxBYzgwWFZNdkNqWHdwM3dWblluQlE1MkxMb3BkSFNlVlVJdFBzcTM1ZkxsSHZHdjJXaDJIQUVMZUltcV9VYkl4V0g?oc=5
 
 - マルシェや相談会、女性の仕事考える - sannichi.co.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLc1hqUzlqRW14OVhkcVBlc0NsTGFoS0IxT1U2OXJRMEdkSDNnNUR3QVNTS3Nxbm90cG1VVUoxWWxRczJwMXpsN0lsZFpMVGJUMDd1MkNlTUdwdk9qcURxTWY4aGE?oc=5
 
-- 山梨県、2024年度の児童虐待相談対応2200件 高水準続く（朝日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9iYjlVeml1eW92QmgtRGNsazZ5ajQ4M1FFcWFZVm5PVnpfajRJSFNwVmNvY0F4NnV5bnV4dldiTlNQM0djNWh6MVJ2NnBqdGd0eXdHT0RUOVd2bC11RW1uTm9DeFhhR2poSlZJeURoTExHV3VqQ0JOS1JoOFVxVTA?oc=5
+- 青木さやか「若手芸人の悩みに昭和世代が歌を贈る『令和 歌の処方箋』。会場も若者も感動させたわたしの歌は…」 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRG5sLWVaWDlGQy1PTjc3cW5rblR0WDJwV3B1aG9BaGhXR0FXSzdIdHJSMGRReF9Uc1kwbENyVU5yQjVPRkw2VUFtbjNHanR2N3N2VXNiNktWdEhlMzd2T1NQYm1RSXBaZ2dndE5NU3htVU5jVXNSb2ppYUc2ZWM?oc=5
 
 - 話題のヘアケアブランド「THE ANSWER」から、季節で異なる髪悩みに応える新ラインが登場 第一弾「THE ANSWER SEASONAL CARE SS」新発売 | 花王株式会社のプレスリリース - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE0xbk00c3JZSWh5YnI2akloYjdFZzR5NlctWnNMUzIxU21SOTd3bExvbXVjTXdHekpGNHNOOER5Nk5aYmxMQWhfNWxhWWdtbTVOZkJCbkx3WXZfeGlXMUhLQk5aTHhILTBBTlE?oc=5
 
+- 山梨県、2024年度の児童虐待相談対応2200件 高水準続く（朝日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9iYjlVeml1eW92QmgtRGNsazZ5ajQ4M1FFcWFZVm5PVnpfajRJSFNwVmNvY0F4NnV5bnV4dldiTlNQM0djNWh6MVJ2NnBqdGd0eXdHT0RUOVd2bC11RW1uTm9DeFhhR2poSlZJeURoTExHV3VqQ0JOS1JoOFVxVTA?oc=5
+
 - 相談相手はAIだけ 平成不況で敗者復活ならず、孤独な団塊ジュニアがそれでも抱く希望（毎日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Znh2VmN5ZHNLcGRxUG1QTko0bkhuS3BKSlB4SkNQcFJDZmYtYnk4bFNKSVpvd2hEZDFvU2xnMzRXVkNLSUVMSXhUUkFvdUpfb1BwbDdmdG02YXNJY2RxeU9qaXQyUjVoNVZVX1N0NG9QSmlvSGE3NDU1UzkxclU?oc=5
 
-- 【恋愛業界専門のホームページ制作サービス開始】結婚相談所・マッチングアプリ運営事業者等の集客力を最大化する完全オリジナル設計 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBGR3NDZEdVY2thTjJxVW8yamYtYUhYbUI2UHJyUGlyU1RWYXh3MmhXSjR0eDR5SE82cDVIRjc2amptQ2hFZHpOM0ZwOS1xYjRXemlxemllRGVXOU4yT2ZldzFIN2tWREZZVWc?oc=5
-
 - 【2/26開催】CAD設計業務のお悩みを一気に解決！ベトナムCADサービス活用ウェビナー - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQnMwMU5STjdaV3o1cFYwUXdoakE5bUdPdjdnX25nMnNYVEdNOFFuTkdPc2JfdTYyQjYtbkt5SGltTVQ0cnNCV3F1UUlGdWU4dDBFSmR5UVFCZUxTV3FsTEhVS1VEU1NMU0E?oc=5
+
+- 【横須賀市】横須賀市障害福祉相談員相談会3月11日開催無料で身近な相談受付 - 湘南人
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9TNHdXcUFZZVJNa2wwVjJlUXdGWlNEWXVZazJUYXNtMVdNdHQ0ZjZjd0w3RDJCTmd3Rm1pandvN3VhVnd6ZXpTWVF1TFFkYldLaXBoUWhhTzNsVlZDMjBkNWkyRHQ3UHI5enkwZA?oc=5
 
