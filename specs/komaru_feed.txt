@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-19 23:07) ===
+=== こまる相談 ニュースフィード (2026-02-20 00:09) ===
 
 - 埼玉・越谷児童相談所の職員が入所中の10代女性に性的暴行 「入所している児童が職員と性行為をした」と警察に相談 埼玉県警（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbUs2ZEo1cG5FbkVEMUNCaUpiZGVham1TSUd1LTdnSFBFUy1kU2dNV0FBUzdVQVRmNk80VlFlQkg3cVVWZTBWN2JwM0QwWW5vUHBWVGVjekU4U0RVaW10bld4NUJQQnh0WmVaRTRyQ3A5Y1JsMHFaOVowUWlPMlk?oc=5
@@ -6,11 +6,11 @@
 - 仕事･恋愛相談、AIにも相性 ChatGPTは真面目でGeminiは親身? - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5OOXdQaDFEM3FSVTlMemlZUEpEN0xJOU9CRUtJNEh5REdCQ3hCa0p6YjhrbTByeDFxMTIxdURLX0tnTkxqbHpka0lGOW1XcUxadkh1TkZyc2x0ZnRGbXNmT2hmZmpGZElvNmp2WQ?oc=5
 
+- 地方自治体の空き家相談を支えるAI相談支援の機能向上― 行政が安心して導入を検討できる設計と運用 ― - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE8zamtPWjdnQnA2UDJMcEY2Nm5xbVVPYnJKMzJDeG9FVm9xZFR5TWxFNjhDZDZ2MWNsZndncVFDV3J4TWlPd1NYRlhtTFI4MXE5V3dkci1KbGh5YklPenJXU2pzcU5GaXhXLVE?oc=5
+
 - 障害福祉の相談支援、新たに処遇改善加算の対象に 加算率は一律5.1% 厚労省 - 介護ニュースJoint
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE42dndsTVBWUFgyVFBnb0dWeWFiYTh2NjJQMGVaWk1pT0tGUkRPWjlodjh2WTNVcGF5NHdvaVQ2UHVveGhSR2xuWFAzZ0JJeVhycjJGd1hR?oc=5
-
-- 祝日の小児科医へのオンライン相談、平日・土日と比べ、増加する傾向 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE84Vm16dTVSbmFCSDdJQ2FObzNaY3BvVTM0SEdpNHE0V3NyZ3c4cW5ISkRLWHhwRDVrN1JoenZTYjMwTUsyS1VyNE51S01zaHpzeXBXZXFjR3JBNHJ2QWd5WktBajMwYVZWeVE?oc=5
 
 - 女子中高生 相談相手は生成AI 男子を圧倒 (1/2) - ASCII.jp
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DSHM0ekVPMkRFMjROMkpNVXloclQxVmNRMnkzN2FZNmN3cmZoWEZvdGJnQWxRNEpvSElZcy1NLXhISW9lU3RadU04NjR6OGR2dlJkSg?oc=5
@@ -21,7 +21,7 @@
 - ノボテル沖縄で／来月結納相談会 衣装合わせや試食も - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RTjM0LUVTUDUzN2tTbHJ6bmtpTWRSMEUza3ZtY0xmMGgtOFRCT0lGTFNsN3RBNG53N08yazljMEdiNnJwOGY5dTB6MTVFZ3dOTXhreHpmLUVaNWllSnc?oc=5
 
-- ノボテルと沖宮 来月結納相談会 １日、試食や衣装合わせ - 琉球新報デジタル
+- ノボテルと沖宮 来月結納相談会 １日、試食や衣装合わせ - ryukyushimpo.jp
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pRzBWa3RJT2ZiUzh4Vm5kSHh6SDU5NDliaUlyZHFPd2xma3lsRk1yQzlkazZTRGI5bTJ6UEpSSm40eHBQbTZHQV93bjJnMnZnTGQ3dGRtSVhsUmJQejM4bmJB?oc=5
 
 - 少雨で県が14ヵ所に相談窓口 - 徳島新聞デジタル
@@ -36,17 +36,17 @@
 - 弁護士の声で変わる相談受付 ──弁護士向けAI法務SaaS「AILEX」、2段階相談受付フォーム＋相談料請求書ワンクリック発行機能を追加 ～来所前の情報収集と相談料の経理処理を効率化～ - ドリームニュース
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Id0hTOU54UGQtaUI5OGFHRlg3Q1FFc3g4elMwQTN4YU5sU2FLYzZyRDVjdkNJU09IdXhDSXZJYldPblhGZ2dTTGx4QnctSnQ2NHFr?oc=5
 
-- マイオピニオン～若手研究員の意見～『「介護の悩みが職場に相談されない」を考える』 - 第一生命経済研究所
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcjFkMUhiV2hQSjdTM1NVMGMzR1ZIVDBRbEdaVmc1c2paR0VmSEVXcFdFMkljdlF2M3VyaGhacmFtV1hOc1Nza3FtajV6TUZuc193N1FpS1JUUQ?oc=5
-
 - 相談してきたのに店員の提案を「全部否定してくる」お客さん…。「店にないものを言われても」困る事例を描く【作者に聞く】 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5hakwxSFhCQnJudEpqaXlNMmpGOTVUZ3Q1QXVfVTQwTkVKRGd5c2ZIc1lEZTNaQTNNclRVZFQ4eHRkdkNhU1FTUGk4T1J1eUlwckZRQTF5cDljZWQtd1NZUnZGVW5NWS1OenZTaTIyQ3ZaVFZLY0ZKZFM4V0hRX2s?oc=5
 
-- 学校行きしぶりや不登校のお悩みに答える連載記事、第4回は「キレる子どもに親もキレてしまう。どう接すればいいの？」。1対1で相談ができる「お手紙カウンセリング」についても詳しく - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9CT05mZGtzTktZM2R0SnA2QTV4WDMtTVdWQXlkY2d3UVJxSS1VUWJIY0JNR3BuNGRaV1BFTUt5WmEyaDMwUjRQOGJSQm1uOEdidC1jdFNiQ25aamVfR0VZN1d2LU9FWjBLSkE?oc=5
+- 株式会社ダイケン、マンション駐輪場改修工事の専用相談サイト「リニューアル相談室」を大幅刷新 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1mN0hPQ1JjY3JWQXZTQVV1MTI5LWJoVjZlbnBJbFJxS0MwR1VLLWVkZ2lNUlk5cmV2NWtSTFZzYmI3UVhlMWVtMWhKNWgyWTM0YzhaX3A1SFpiMURWX2F4QlZ4YWpXSWxoUVE?oc=5
 
 - 月経・更年期・不妊治療…個人の悩みを組織の力へ。無料で学べる体験型フェスが3/6開催【名古屋市中区】 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHJnS243RkFKUThSbWRNZEFYTTA0dU5CQmh2Qjl5YkZGbHVLc0NBVm9fd1ZVVDJJRXRKRjZtRnJvVExCRWJZNjM2Wlh5SUU3NzlfNmU4c09JU2M0ZEJuc2UwcnRhUjV2bDdxajRjSlFmUXNBVjNWM0hDWk9veGlNM0dOblh0NDcw?oc=5
+
+- 祝日の小児科医へのオンライン相談、平日・土日と比べ、増加する傾向 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE84Vm16dTVSbmFCSDdJQ2FObzNaY3BvVTM0SEdpNHE0V3NyZ3c4cW5ISkRLWHhwRDVrN1JoenZTYjMwTUsyS1VyNE51S01zaHpzeXBXZXFjR3JBNHJ2QWd5WktBajMwYVZWeVE?oc=5
 
 - 延岡で木村つづくさんが公開相談室 他人の困り事に知恵を貸す機会にも（みんなの経済新聞ネットワーク） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1kbDVZZDRERlhLcGxrZnYtdjI3cjZHcWNBTFZQZVg2X0pNOG5uYVVwS3BpV0p3OFp5dGh2Q1FMSzVBRXdWOVVZQ2lxWWhKV2s0eXQ4bU9fWmVwVFkxVXNKZGJ1ZUFpcjhHU05xMC1seVFISHhoVkM1ZmcxY1h4ZU0?oc=5
