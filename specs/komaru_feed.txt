@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-02-21 00:10) ===
+=== こまる相談 ニュースフィード (2026-02-21 01:31) ===
+
+- 管理職がハラスメントの相談受けたら報告義務 福井県が防止条例案を提出、特別職も対象 - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBscmduRHRRc2dTSFN4cDdvMW9uS3hTeXhDZ2Z3NlI3aEE1RmwwZEVTMlBNOHE2UG94Z2kycmFPNktISlFvNEFxb0xNT25iOVc3RTBNdA?oc=5
 
 - 神前結納式はいかが ノボテル沖縄那覇・沖宮が相談会 衣装合わせや和洋、琉球フレンチ試食も（沖縄タイムス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1oUkRpbFNRUjhoblVKY2VPWHplMUdTWW4zbElCYzZ4R1pVazc3aWxVaXdoSFJmbUJqRzVaRHFORFh1S0U4SHZGN25kRVNVOGpGT3FrVEZ5OTNGczVBaTNoMkx3eWVxZjlscmxKVHB0cUVKWmJfeF96ZlJDLXBKeVk?oc=5
@@ -6,17 +9,23 @@
 - 自転車でヘルメットかぶると髪形が崩れる…学生の悩みに警察が動く 福井県の学校で意外なレクチャー - 福井新聞社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uMW5UVDVPbEpPOFM3NlppTU1Db19HTmtZSjFpOU9yRi1ORGtwdElUSkRwdjZCc2Q3Q2p1ejRIQnBSYXFlMjc0QnRKZFloU21PMlo5R2Y3bnhNYTJSNnc?oc=5
 
-- 人生相談：自営業63歳、負けた気が＝回答者・高橋源一郎 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFByWXF6dDRicmxCTWRBNDdJZVhCTnp4TV82TUkySmxRNWJtVTVYdzcxQTY1bng5cHhKM18wZ01TMG1HNnlKVE5QczlCN0lkZzJLdm5YX1dvRkJBQ0FBWFFEbzExWmI5Zkpk?oc=5
+- 障害者作家が心の闇アートに 悩みや苦しみ、葛藤「内面に触れて」 桐生市内スナックで企画展 - 東京新聞デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VdmViUVdPei1TY3Q3cHZ3YmJuV0hsVWFFYVJFdHJmbmVSTlpjcGU1NGhHbTA0akFfTmpuM3V6cEZCUG1JOWRkREplUW9ZLUZPYVow?oc=5
 
 - （悩みのるつぼ）母親に多額の支援をする夫 - 朝日新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4Rlh2UkI2WG90UkxhTTE2V1FkWG94NnAyNm5XT2RtQVZLRnJJX3RpTWphUWF2VGpTZ0piQ2RVbjdzdGt4TlMwTjFnWTVNSzFlM09PMnBhUnNlUUVk?oc=5
 
-- いつもとちがう ー新年度の子どものSOSサインー - city.nagareyama.chiba.jp
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE9QV21XZkZsanh1SHd1WTgxM2hubW9oV3pGQkNCS0V2R0dfbWJWdE55YXNoQjNOMDRRQUJMTE5mUkI1LTJJck4tN3ZGaDRCWnp1dkFERW9mckRSX3lZU1l5dmN4dWVDcnd2RW1vR2xoZw?oc=5
+- 「情報得られ良かった」 外国人と企業向け相談会 参加役員ら手応えや笑顔 和歌山 ／和歌山 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZTDRaUHRBeG56WEwyZnRJT3ktTEVET3RuYS1LM0tMN0lqUmp0YV9YX1FXRlpKQkpwa1IwanhMVXMwUnJxVWZucGlZckhLc3BPWU5qT3Y4UzRUeGxTMjgyZnYwaEpSQWcw?oc=5
+
+- 金属アレルギーの相談が増加…国民生活センターが注意呼びかけ 品質テストで基準値超えも - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1KeTFlTVR2NEdFdF90dVJJdmdmVDFxYUlDT1ZGWG5oeWI0ajdreWlZa21nY05ZR2wtbnFoTURYcVI1T25tQTBsdmdUZE82aTFVWE9zVFZ0R2N1TjUxbUJDeUsxdk5mLTVUQ01nSWppYnZxZjJWblE?oc=5
 
 - 悩みに寄り添う「相棒」、広がるＡＩ相談◆人間より身近？依存のリスク避けるには - 時事ドットコム
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE94OFV1R2p1empmd2dyTW04WjU5RE5WNXZtbkZmTE1qeVJMd050TFdxTGplMTR0Q0N0ZjQ1MkxnZFd5M3hQa3ZWdGs0LVp2QlJFSkJsYmJDQXd3aVh5?oc=5
+
+- いつもとちがう ー新年度の子どものSOSサインー - city.nagareyama.chiba.jp
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE9QV21XZkZsanh1SHd1WTgxM2hubW9oV3pGQkNCS0V2R0dfbWJWdE55YXNoQjNOMDRRQUJMTE5mUkI1LTJJck4tN3ZGaDRCWnp1dkFERW9mckRSX3lZU1l5dmN4dWVDcnd2RW1vR2xoZw?oc=5
 
 - 学生相談所主催 坐禅ワークショップ - u-tokyo.ac.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1nUmtabDA0dGVpUzE4SGJFODFvdVJwTHNlME94QVdiZXBGLUVSRUVvdTRIWnF5MDBPeTVBVDVKSjZleUh1N1o4VXJ4dm11NHRDNzJjZkhnQmxzNlVJVTRZZUtfM3BrSk0teUE?oc=5
@@ -24,38 +33,29 @@
 - ■２４日各地で税理士会の無料相談会 - 琉球新報デジタル
   https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQbVVycTlrTVRaX3lfQmdhci1DUGo3UndYbTN3UHFFbFRRLUh1UmZSajc2ajNEUGU1Tk5laVBGTERWUmVmR1BTMENJMDRjVExEVjVpTmdjckktTW1DYTNNdlhB?oc=5
 
-- 3月21日渋谷開催 妊活の悩みを語る東京ウィメンズプラザトークカフェ|2月|都庁総合ホームページ - metro.tokyo.lg.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE13RU1oTkFJTExjcVdObGM3bmtBcmJBbjJMTzRkQmZZaVlpaFdqNGFGWkFtZGdCX2JsaE9RWnBETlZuemVfZ1Z2OG5MekZNdFQycHNLQ0ZYQ1AtNDZiX211cTFRN2x4LXd6WUdVbVlIMVFzUzNC?oc=5
-
 - 3県島しょ部で無料法律相談　司法書士会が28・3月8日 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMWZzRFR1V21oSUU4QUhBb1lCejM3WmluVlEzckxsQXBFX1hGeFUxdWVsUkRVVWwwRWc2dWZzcVp1RHBRRk5xTGtjQnZ1M0xFZnZ0ZkEtTlZKUdIBXEFVX3lxTE4wTFEtLVJLQm1sOU5qeDBNamxMOEFLM3VwQS0zQnVrcXVZR2ptUUJJS2pUZ1B3UDlPWTRkSUxoX0ZQVDNGOHFVWE9LTV90YUZEMUVfSEZ1Wk5iM3d4?oc=5
+
+- 3月21日渋谷開催 妊活の悩みを語る東京ウィメンズプラザトークカフェ|2月|都庁総合ホームページ - metro.tokyo.lg.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE13RU1oTkFJTExjcVdObGM3bmtBcmJBbjJMTzRkQmZZaVlpaFdqNGFGWkFtZGdCX2JsaE9RWnBETlZuemVfZ1Z2OG5MekZNdFQycHNLQ0ZYQ1AtNDZiX211cTFRN2x4LXd6WUdVbVlIMVFzUzNC?oc=5
 
 - 3月14日「土曜日保障相談会」を 実施します！ - zenrosai.coop
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE40WktsMVFQa0JoeEhJMmhnTW5adnJUT2xmN2hrVTJEWVRuM1dIMDdvUFVQTm85ancxTTN2TlRxMEZxVzZFUmFXU1JDUUwzemg5azVsd0c2VHR5bDJmWW4wUjNQLURadw?oc=5
 
-- 管理職がハラスメントの相談受けたら報告義務 福井県が防止条例案を提出、特別職も対象 - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBscmduRHRRc2dTSFN4cDdvMW9uS3hTeXhDZ2Z3NlI3aEE1RmwwZEVTMlBNOHE2UG94Z2kycmFPNktISlFvNEFxb0xNT25iOVc3RTBNdA?oc=5
+- 【3月14日開催】北海道の“農を知る”を東京・有楽町で。夜の相談会「北海道DE農業体験＆就農相談会 ～サタデーナイトフェア～」 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBHbzVkR082YXdfVGZaTzNDOU4tbEJpcGNPbHpyMFF3NTBId3o2MVBGblVXLWxhMnJwQkttY2ZteHE2NU1kUFM3UkhBTThlYnhWVDhVSnJTS1IwT3ZtY2tYWXBYMkViZktFd0E?oc=5
 
 - 2026年2月の天秤座フォローアップ「悩みやモヤモヤへの対応法」 - しいたけ占いのしいたけ.
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE42NE5NWndDd2lrckl5VVpoWlFIdXFRWHJ4aDI2eFQ2amlnblRQYVBESFNtVlBRTlFBUGlwUk1yNGdlcVZRbVRtbzQ0TDU0NlRZMTYzMklDTQ?oc=5
 
-- 【3月14日開催】北海道の“農を知る”を東京・有楽町で。夜の相談会「北海道DE農業体験＆就農相談会 ～サタデーナイトフェア～」 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBHbzVkR082YXdfVGZaTzNDOU4tbEJpcGNPbHpyMFF3NTBId3o2MVBGblVXLWxhMnJwQkttY2ZteHE2NU1kUFM3UkhBTThlYnhWVDhVSnJTS1IwT3ZtY2tYWXBYMkViZktFd0E?oc=5
-
-- 辻村相談窓口、「偉大なる死」 - Design Stories
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FZENuRm9uWUFIdkZ0dS1pVEtrTGI5YzdTeUJpVjZzejF2MWd4UmZIaklFbHJkVGlneHh4eWcyUU5YLUVJN0FMMU9GcTFkWWZpVE85d3FsbXE2YTBEcXJJQWVKVFZ5dw?oc=5
-
-- 税のお悩み丁寧に助言 中国税理士会が鳥取県内各地で相談会 - nnn.co.jp
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxcklWUFZobk5fXzlWVC0yNnhoTlV1QUEwdHVtWG94TnBjeE5ETmtlQWFmUU5LZFhkN0k5OEVaRXQxYXlXbGVpTTlVR2FtYTR2?oc=5
-
-- ハラスメントの相談報告義務化 福井県、条例案提出 - 岐阜新聞デジタル
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CSVd0SDVoS0hvdm9MQnY2NDJfeExFdTJDWkxURFdCUThQb2JTSnc0QVZXcmg1LV9laklWS2oteVdhR0tXMGdKSHlUNU1OZ3p5ZU9KOWRn?oc=5
+- 人生相談：自営業63歳、負けた気が＝回答者・高橋源一郎 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFByWXF6dDRicmxCTWRBNDdJZVhCTnp4TV82TUkySmxRNWJtVTVYdzcxQTY1bng5cHhKM18wZ01TMG1HNnlKVE5QczlCN0lkZzJLdm5YX1dvRkJBQ0FBWFFEbzExWmI5Zkpk?oc=5
 
 - ハラスメント相談報告義務、福井 管理職が担当部署に（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFB2ZHlzUXZlMzJUSkpjazUxWkJmWEtWUUhzWldhbFpVQ2poU2ZGVXN4RF9EQkVXdlZ6UExsZ0V3S2dFSlJKYnFSNlRoWUdHc3FTN0c5OHltaHJFaDZKX01yWE9CNkZOdHVPcTVFd3pVTVZxcFM3V3g0MHFqWFVOREE?oc=5
 
-- 【2026年冬季九州版実施】お住まいに関するお悩みアンケート調査結果【OB・新規顧客143名に調査】 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5tZUNJLVBEX3docGxwVWVsUVJrbTBEWjhsRmxNSFZPMUNuSDNMTHc3QUtINnF2SGtBNGNhc2lSRzZzT0Z2ZGdJZ0hfZEY5SVJVZE50RjRIRzlhSTlua1BBbC1FQkZDempMQXc?oc=5
+- ＳＮＳトラブル相談３６件 那覇市内中学、誹謗中傷本年度 - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Z0VDdVhwN01hWXZRSmZZY2c4MlJkdFZ4dmJkMEJBTlMzbWpqaWw2LUk4R1ktSzBpS1JaWk12WS0zejRzeEhEVHJKUXF6dEtZMXlRT2VCMFBxZGRZSzZhTA?oc=5
 
 - 埼玉・越谷児童相談所の職員が入所中の10代女性に性的暴行 「入所している児童が職員と性行為をした」と警察に相談 埼玉県警（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbUs2ZEo1cG5FbkVEMUNCaUpiZGVham1TSUd1LTdnSFBFUy1kU2dNV0FBUzdVQVRmNk80VlFlQkg3cVVWZTBWN2JwM0QwWW5vUHBWVGVjekU4U0RVaW10bld4NUJQQnh0WmVaRTRyQ3A5Y1JsMHFaOVowUWlPMlk?oc=5
