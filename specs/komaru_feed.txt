@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-02-22 21:04) ===
+=== こまる相談 ニュースフィード (2026-02-22 22:02) ===
 
 - 【在留外国人の悩み相談】ワンストップ総合相談会で悩める外国人にアドバイス（テレビ愛知） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9xb1RXUXFEb3FhZ0Z0MXJES2Rad3lBckcyZ21HUFM0NmlWTnFkNXZKZmgzS0I2aW85dEtKaXNtTDhHY3dTdWdnSktyNEUxQ1VEVWlfSm91cllxU2RhVklGVWU2NEFYOVFkaXpPbllRLVpTWm9lTnBELTZOa2xwM00?oc=5
@@ -21,29 +21,32 @@
 - 仕事･恋愛相談、AIにも相性 ChatGPTは真面目でGeminiは親身? - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5OOXdQaDFEM3FSVTlMemlZUEpEN0xJOU9CRUtJNEh5REdCQ3hCa0p6YjhrbTByeDFxMTIxdURLX0tnTkxqbHpka0lGOW1XcUxadkh1TkZyc2x0ZnRGbXNmT2hmZmpGZElvNmp2WQ?oc=5
 
-- 「嫌なら出て行って」 家賃値上げ相談、前年比2倍 対応どうすれば - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoaC1lZl9keU50TmVnTlFhdUNKQ21xZWJ0THJObFE2ZEZ3Sm9uX2Ntb2oxdGhIdDZXUk5odUZ0NEtJQkxmSjJnQ19KSXRRY3FmdVg2SV9xemV4aFhnZmdYUi1nSEp2ZVk?oc=5
-
 - 救急車か受診か、迷ったら「♯７１１９」 秋田県、相談電話を１０月スタート - 秋田魁新報電子版
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE45STVoRE1TajJhNXlpN2lWSW1YMVRTLXhmakVJaE44X3FVN2tRdzQtbUVkZnd4SnNYWTBORkhET01vTzEzaFd3cU9MTWo5MzZxdTFMV2oxenlSNHdyRFI4dC1n?oc=5
-
-- 補聴器調整で笑顔 「耳の日」前に函館で相談会 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRWlpeDdhZi1ldXpZb1JVeWNxUE9fSFpuQzU0Q2d0cnExbl9QOF9XRVRtamkyYVlwNEdDV0N2a0s1SlhBWkNPZEdEaw?oc=5
 
 - 学生相談所主催 坐禅ワークショップ - u-tokyo.ac.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1nUmtabDA0dGVpUzE4SGJFODFvdVJwTHNlME94QVdiZXBGLUVSRUVvdTRIWnF5MDBPeTVBVDVKSjZleUh1N1o4VXJ4dm11NHRDNzJjZkhnQmxzNlVJVTRZZUtfM3BrSk0teUE?oc=5
 
-- おくやみ相談窓口 - city.maebashi.gunma.jp
-  https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTRmZmpOZTlKcDF4RXhpR3lLYUFaR1hZbUpudjZYUDFVMzFUdmloX1hiOG8wc0d1eWYtX1VTTzVLYkg1LVFwSXBYWlFHNzNMRURmNmhIWmJtenFRN1hXREQ2ekgzTElqVzlaVXJhSENzeER4WnBNSE9acGQtenVjZm82VQ?oc=5
+- 「嫌なら出て行って」 家賃値上げ相談、前年比2倍 対応どうすれば - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoaC1lZl9keU50TmVnTlFhdUNKQ21xZWJ0THJObFE2ZEZ3Sm9uX2Ntb2oxdGhIdDZXUk5odUZ0NEtJQkxmSjJnQ19KSXRRY3FmdVg2SV9xemV4aFhnZmdYUi1nSEp2ZVk?oc=5
 
-- 辻村相談窓口、「子育て」 - Design Stories
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vSHNPNWlDZnhycjM5UnNheUVsekFxUUdqSVN6TlByWVhIalZwRGN2eDgtSmhodjhYNXNUSFBUZW5OZ2E5ekRyUEMyMER2QjlDcEFra2FkQ2ZneHFmODhubENmY1NKUQ?oc=5
+- AIは中古車選びの相談相手になる？ 活用意向は7割超---情報過多時代に支援 - レスポンス（Response.jp）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uX19hTGhjeko1MV9jMG5pN1luYVJBLWdsQlVCOThZcGZXVzRteUk2ZzRibGw4RjdVY1RVdUdqX1hjRmFjSzFydGZVT2pub0JZSHpWN0l4cWhGTDM2ZUcw?oc=5
+
+- 補聴器調整で笑顔 「耳の日」前に函館で相談会 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRWlpeDdhZi1ldXpZb1JVeWNxUE9fSFpuQzU0Q2d0cnExbl9QOF9XRVRtamkyYVlwNEdDV0N2a0s1SlhBWkNPZEdEaw?oc=5
 
 - 【大学生活とお金】月7800円の女子寮、児童相談所の夜勤アルバイトでやりくり 公認心理師を目指す（朝日新聞Thinkキャンパス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZ2dwLUpIU0I3cXc1NE4zbTh2THZZUkNTNGpWZHRoeVcyZ0twRmxpMFgzZURwN3R1cW9uOGI0NlFMa3BoV01lc1ROeDdOZ0l3OUdiMXJaczRQQjh6emYzR2xRRkQ2TncwWEdLSGpMd3VWRV9NT1lmMzBJa0I2T1E?oc=5
 
+- 辻村相談窓口、「子育て」 - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vSHNPNWlDZnhycjM5UnNheUVsekFxUUdqSVN6TlByWVhIalZwRGN2eDgtSmhodjhYNXNUSFBUZW5OZ2E5ekRyUEMyMER2QjlDcEFra2FkQ2ZneHFmODhubENmY1NKUQ?oc=5
+
 - 「交換しないと火事に」分電盤工事で27万円 点検商法の相談が最多 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3ZERnRXhQVHpWSUp1dXBlaktfUGlFcVhPLU5nbG5tQzlTX09UMXVUQzVlUVV5N1B4ZnlKN05DSmpmRUViNGZxZF9QVDV6N0ctU3plRksycGU4NjYwTmtGX0x2dmgxRlU?oc=5
+
+- 「全部、不合格かも」絶望する受験生の我が子に、親はどう声をかけるべき？ 切実な相談に共感の声、アドバイス続々 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1SbDVNeDJ1Qmh1OFo4U1cxWFQ3QVZhcDVFSEJnb0duWDNzY0ozaFVWUTZZMllpT0djUHJhNG5ibnVrWXk5eXJCR3JaY2VOeEoweGp6dWVJM1JCeWZOcVNyZ2JDYXZRNGpQdEU5QzFrQlpva0JQbmZKQ0Eyakt3MW8?oc=5
 
 - WBC代表に嬉しい悩み!?メジャー組合流間近…阪神主力2人が計9打点で本大会スタメン入りへ猛アピール！ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9vNmthaHY3VmRHYmh3cUYzeDNwZURtdXpZdGo3Z3hyRnVRb2dQWlpWUTlHazRjX21fRm1MbnBzd18xYTdYeGtQbE04M1ROMlREX2ZyOUJEaEdMd0JNazlqTHYtVEdPUVNHZnNsVFRyMGRyTWswX0x1cXhOVjZxYjg?oc=5
@@ -56,7 +59,4 @@
 
 - 『ベイビーわるきゅーれ』などで注目、スタントパフォーマー・伊澤彩織 俳優・佐藤健に“人生の悩み相談” （日テレNEWS NNN） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9pN3hlVFgxS2VDX3J0WVRzNVp2Y2tFV2RMelI4azJpODRfVHR3MHhPWTlYeHdUNnpyRE1wVDFMMVNlOENkR0VkUEV2MTdsQWRQX1pnTjU1M1RYRGdMWXQ1Z3U1NXVEYlVYM0RDeEs4MkNhaVpnZlFFcWpmN1p6V00?oc=5
-
-- ラテとミミが駆けて来ると悩みが吹き飛ぶ 大山悠輔の心に寄り添う愛猫たちの仕事（週刊ベースボールONLINE） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5QaXlJVWxoRXhCYVluamVJcFhYRDZBWDI5S3lwLS1sLVJ3ZVRGaXFacWtWNElvbXQzYWdkZjlEZEozVUZmVllkMVVua2RQbXg1bGhncklLcEs4YUt1SHJVTzVqM05wQWtTeHRkLV94a0ZtbENYSktBOGV5MDQ1V2M?oc=5
 
