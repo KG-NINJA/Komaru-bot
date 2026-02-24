@@ -1,13 +1,13 @@
-=== こまる相談 ニュースフィード (2026-02-24 15:17) ===
+=== こまる相談 ニュースフィード (2026-02-24 16:20) ===
 
 - 札幌市民のお悩み相談、AIで対応 市が3月9日から実証 対面に抵抗ある人の支援狙い - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQWR3ZFJ3eXozaXlkLVhSMWQwS2QxNDBVVlJRRFJwNGh1ZUszaG0yeVdzd0dqTXdJWmxhdVJTR0xPa3haVDN3NjRpMlhQNVNTeno3amVmMXpXQQ?oc=5
 
-- 自殺防止に電話相談 新年度から土日祝も対応へ 群馬（群馬テレビ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9NdHdYd2swMVpzOFM0RGtUaVlSM0hQM0pLV0JYM29vOVE4c2ZDNTR5RzJTWVFXZFBHMUZwTjluM0VFRXl6bnRlWE5TSFZiTmdFaGlTeGZweHBrbGdJWTJxY2RRbmpIMkFWMF9ITHoxQ183YUhyUDUwMkptY2g2MGc?oc=5
-
 - 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
+
+- 自殺防止に電話相談 新年度から土日祝も対応へ 群馬（群馬テレビ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9NdHdYd2swMVpzOFM0RGtUaVlSM0hQM0pLV0JYM29vOVE4c2ZDNTR5RzJTWVFXZFBHMUZwTjluM0VFRXl6bnRlWE5TSFZiTmdFaGlTeGZweHBrbGdJWTJxY2RRbmpIMkFWMF9ITHoxQ183YUhyUDUwMkptY2g2MGc?oc=5
 
 - 仏教AI搭載ヒト型ロボット、対面で悩み相談 京都大学が公開 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9FTFl0X0RlVno4dm9icEZjNVVnZ3NDMi0wd01QaEtQeTEtcnhVZzdlcEZkZUwtTHpKbHZyMEU0bHB2MzB5ZTljQjNjZTY4TmJxUDhpRTl2TDludmI2ZGhLMldVSW1Udk4wWHVXWQ?oc=5
@@ -15,17 +15,14 @@
 - ３月は自殺対策強化月間です - town.daigo.ibaraki.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE12V01DQ1JHMjhKd0VuNDhsUjVGV1pWLUVia1BqQzFEaEJXYnZXMDJzZHl1UXgwUXhxQnpsakN4bUFIYXJRMWxabEhuLWI1RzFsN04weFJ6NWJmeUh3Q293NEkzZE0?oc=5
 
-- 乳幼児の健診や相談 - city.komatsu.lg.jp
-  https://news.google.com/rss/articles/CBMiekFVX3lxTE5nMGJodmI2RExpUEtpeXRaOUgzMWtDaXRXWV9adUVyYXJxUUJIcHZIcTZZUWtEWWV3MUktUTlRU3FXZjFIaVpQYTNmcEc5WEdhWWhnR1gzdFUxVE4zUnV5X1hiNjNRME96TU5jV1c5dGhnV29oYlRQVF93?oc=5
-
 - 児童相談所スタディツアー（プレ企画）in 岡山県中央児童相談所 を実施しました - 美作大学
   https://news.google.com/rss/articles/CBMihgFBVV95cUxPZTM0aThWZWxhZWVjLUh1OFpfUmd0czlSalYxc0N5YlpmenN6bm1tSkxxQkRZUnZlZWdiYXotbGlUdlZXNFhXUzkyTjJjR3Nic3RrUXh0S214MzFHWnhmY1pGWWRWb0hxYVdfYWFZeDRVOUNQQXp3VVdseGhWa3NpeDR5OFdkUQ?oc=5
 
-- 令和8年度採用 会計年度任用職員の募集（福祉相談員） - hiezu.jp
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wS1ZyaVBld2pCVWpfdkpyMXkyOWtVTjlVZlFzd0NyMHZ4aXZpMWJFLTBZODFYeDFfOS05UkJOMGZMQlZ2bGpZQlpHS0k0eFZBbXBqSG01TEZSV2s?oc=5
-
 - 見守りと消防と市民相談で奔走 : ブログ : 泉南市議会議員竹田光良のホームページ - 公明党
   https://news.google.com/rss/articles/CBMimgJBVV95cUxORmFZSExWNE81NVZ6UmM2WmZUdlhiWHFBbXBXaXZVc2xSbW1SNVRlNzNHazlJYlgzY3F0NVBrNGh2SmtEN0tZblR1T3R6ZE12dFBtNDZmVUpZdHZqRkJXX3hJZHdXRE5wVzVfbDA0R2lNanFUMUU2QmtUWlRzbEkwMW5XSnl1OUU0X2JXeDlOb3ZwX2d3OERWcGwySFJyU0Q1Y3ZPc1c5Mm9yWDhpQXdmM012aFVsSWZ2TFg3bXVTZW9vODlSSy1HLTFTTHE4RUVzU3d2THFjaDlwNGhRRG14aEJ5RDVUME1tQmN1ZmFYRE9MaVBlQUJaajVtUmFfaDN1SExpNHNrUmZPN2owRmR2SElDOE4ydXFreFE?oc=5
+
+- 令和8年度採用 会計年度任用職員の募集（福祉相談員） - hiezu.jp
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wS1ZyaVBld2pCVWpfdkpyMXkyOWtVTjlVZlFzd0NyMHZ4aXZpMWJFLTBZODFYeDFfOS05UkJOMGZMQlZ2bGpZQlpHS0k0eFZBbXBqSG01TEZSV2s?oc=5
 
 - 3月3日（火）の「踊る！さんま御殿!!」は「娘を育てるママのお悩み相談会」 - 日本テレビ
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5TWGpFQWoxcmdHX3FCVHlpU0xWYWFmYUEwM0NkYXc1bGhTQkExSDNWNDRUWnA2M3JTSlN2bUJQUXI1X0UxLU1JMEZWQnM3NXUyOG1XQ1FwQVVibXlkTXptUXhONnhDOGo5Y1Q3aw?oc=5
@@ -39,14 +36,17 @@
 - ADI、「賃貸経営大相談会」に出展 “具体的な改善策”と“数字に基づく提案力”に高評価 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9XeDdYZFBySWRjRzhLY1luZENIRW50R2E1TDA1OVJqbXRpc0xfZFRQSXBpX0w2aHFGdWYzbjdsdEp1cnNfQ0VCNXBQVTVSMjhNYmJVeU1KNHlDcURVRkF3QjdLWGZ5ejVnT3c?oc=5
 
-- 悩みに寄り添う「相棒」、広がるＡＩ相談◆人間より身近？依存のリスク避けるには - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE94OFV1R2p1empmd2dyTW04WjU5RE5WNXZtbkZmTE1qeVJMd050TFdxTGplMTR0Q0N0ZjQ1MkxnZFd5M3hQa3ZWdGs0LVp2QlJFSkJsYmJDQXd3aVh5?oc=5
-
 - 仏教経典学習のAI搭載 悩み相談にこたえるヒト型ロボット開発 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE90MVFjTUdUUWItZ2ZhSEZYcDFKcWlNSEhYUjgyRlhCUncwMjAzeFZ4WW9HUERaS1lFajZKOWlGc0VCZmNSeGdMQjRYeWlOQ1hLTkdaSjNMSV9vZG4wX2Rn?oc=5
 
-- 「部下や後輩が自分の話に聞く耳を持たない。私は老害なのか」嘆く64歳に毒蝮三太夫がズバリ！アドバイス｜「マムちゃんの毒入り相談室」第81回 (1/1) - 介護ポストセブン
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWejFFTlBJVzljR3NhRTFER196VFlZZDRWUlcyRVZrU3h2NDJPUHVOa3VfRTJVWlZoajdXRUJxX21CYlBPSVJnc0ZB?oc=5
+- 地域金融機関が対面の相談機能を強化…個人資産の運用機運高まり受け - 読売新聞オンライン
+  https://news.google.com/rss/articles/CBMickFVX3lxTE90aElRWUIzNmxmampJNUlVcVdHbS0ycnZCZzNIbzYtajBEWWYtOHpWYV9KZ0FYOGd4OWdEbWItREtvN20wWFF5NVUydHhWVnkyRENicHFPWFVySHkzSmtNUUViRXd1SUhUQy1pUHV4VWxEdw?oc=5
+
+- 学校行きしぶりや不登校のお悩みに答える連載記事、第4回は「キレる子どもに親もキレてしまう。どう接すればいいの？」。1対1で相談ができる「お手紙カウンセリング」についても詳しく - 朝日新聞
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xQk9ya0NPcWpMODM1bVpNbE83VjB3VTk0RWpSM0M2VE9yTklmcUc4REJUVHJfXzI1cUgxcTBwWjJtb0ZQTTVxbElOOU01LUFkdXp4U3NUSlI1eFU?oc=5
+
+- 化粧品在庫処分相談ランキングTOP10を発表―ビューズが624商品のデータを分析 - コマースピック
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lZ3hGeVZRWW5MTFN5Wmp1WWUxLS1IemVoY0Z1cFlTSnhKNkdodHozM2tpT0hGdWptQVBHMVRwMUpQaERiY0RLSUllYXVoTG1yRnpmd0ln?oc=5
 
 - 移住相談、最多7万3千件 25年、希望地1位は群馬（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1TOC1oTU5OWHp2TU1lRE9aOHhKdEN3c3JNX09hY09iNEhZczNVVVNJaGR5UEhjZUx0TzduSnVnTnoxOXdRdDVXUEJXTVQtRkhreFpERWtfRExLQW92b01BVm8wUDY0LTNyWWdjbVN4SWF6QUxINjZiUUg3b2hCS28?oc=5
