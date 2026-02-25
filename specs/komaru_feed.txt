@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-02-24 23:07) ===
+=== こまる相談 ニュースフィード (2026-02-25 00:13) ===
+
+- （米国向け加工食品・酒類）実例から学ぶ海外展開セミナー&個別相談会を開催します！ - 大分県ホームページ
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE1Rd2dwVWw4SW1GVS1WemhSWHRRckE4V192NWd6LTA2SGtDQTFWZ3hteVVjdk9FVDRyNHNTVGw3UmRkNVhYbl9naEFHQ3FvNi0zVlMzV3llQ1VQdDFtTm44ZTJCR3pRWHhjSzlKVkNTdkFfUFhNLS1sOA?oc=5
 
 - 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
@@ -12,20 +15,17 @@
 - 京都府で「点検商法」の相談が2倍に急増！ 典型的な手口とその対策は - 京都新聞デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EY3ZMOUE4alNxdTBqOUt6VlkyOTBBZjFuTTFSWTZLaEo2WWFaX1RBQWRrMjNqSlBfNEJYQ2NOeFRXcWtzSXgwX2R1eF9kVmlXNDlubzVmUEw?oc=5
 
-- 仏教AI搭載ヒト型ロボット、対面で悩み相談 京都大学が公開 - 日本経済新聞 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9FTFl0X0RlVno4dm9icEZjNVVnZ3NDMi0wd01QaEtQeTEtcnhVZzdlcEZkZUwtTHpKbHZyMEU0bHB2MzB5ZTljQjNjZTY4TmJxUDhpRTl2TDludmI2ZGhLMldVSW1Udk4wWHVXWQ?oc=5
-
 - 乳幼児の健診や相談 - city.komatsu.lg.jp
   https://news.google.com/rss/articles/CBMiekFVX3lxTE5nMGJodmI2RExpUEtpeXRaOUgzMWtDaXRXWV9adUVyYXJxUUJIcHZIcTZZUWtEWWV3MUktUTlRU3FXZjFIaVpQYTNmcEc5WEdhWWhnR1gzdFUxVE4zUnV5X1hiNjNRME96TU5jV1c5dGhnV29oYlRQVF93?oc=5
-
-- 移住相談、最多７万３千件 ２５年、希望地１位は群馬 - 福井新聞社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GR3M0dVpWWGJWT01NektBZmZQNHgtOTg2UmJjMkpQeHY3SXlJUnBhRlpLWmJLc2oyWERWU2JsZmhjcHRYbnNnbDlzazFxd2dhTkZnd1JKbzY2dEhrWkE?oc=5
 
 - 移住相談、２５年は初の７万件超に 農への関心も後押し ふるさと回帰・移住交流推進機構 - agrinews.co.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zZjJ1dW1VQUxaRjRLRUcyS2E3bGY0Rzl3T2NmbDRocHAyZjVLYmtGRFg0V2pfeFZLNzlLVWNYZ1RYc2F5bVNmenhGNjUzRkh6S2N0OGg2dw?oc=5
 
 - ３月は自殺対策強化月間です - town.daigo.ibaraki.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE12V01DQ1JHMjhKd0VuNDhsUjVGV1pWLUVia1BqQzFEaEJXYnZXMDJzZHl1UXgwUXhxQnpsakN4bUFIYXJRMWxabEhuLWI1RzFsN04weFJ6NWJmeUh3Q293NEkzZE0?oc=5
+
+- 悩みに寄り添う「相棒」、広がるＡＩ相談◆人間より身近？依存のリスク避けるには - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE94OFV1R2p1empmd2dyTW04WjU5RE5WNXZtbkZmTE1qeVJMd050TFdxTGplMTR0Q0N0ZjQ1MkxnZFd5M3hQa3ZWdGs0LVp2QlJFSkJsYmJDQXd3aVh5?oc=5
 
 - 神奈川：りそな銀行 相談特化店舗を横浜の商業施設に 日常課題解決の場へ協力企業とイベントも：地域ニュース - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMidEFVX3lxTE44RE9MWFBtTDZfcElHalE1TmdRZmhFeUlaXzVPelVRdTJWdkZPNzBpMjdMRzBzM3Vvb3BZcHNxT1RjUTBwTFo1Ny02Z0VaTTNzYWRlN1hYYkdXc0RkM3lyMmF4d2VDQXVFeWttUVdSOWdBWkFq?oc=5
@@ -36,14 +36,14 @@
 - 令和8年度採用 会計年度任用職員の募集（福祉相談員） - hiezu.jp
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wS1ZyaVBld2pCVWpfdkpyMXkyOWtVTjlVZlFzd0NyMHZ4aXZpMWJFLTBZODFYeDFfOS05UkJOMGZMQlZ2bGpZQlpHS0k0eFZBbXBqSG01TEZSV2s?oc=5
 
+- 仏教AI搭載ヒト型ロボット、対面で悩み相談 京都大学が公開 - 日本経済新聞 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9FTFl0X0RlVno4dm9icEZjNVVnZ3NDMi0wd01QaEtQeTEtcnhVZzdlcEZkZUwtTHpKbHZyMEU0bHB2MzB5ZTljQjNjZTY4TmJxUDhpRTl2TDludmI2ZGhLMldVSW1Udk4wWHVXWQ?oc=5
+
 - 平愛梨とアルコ＆ピース 最近の子育てお悩み相談会 - TVer
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nWmpjZmxMU3J2bEdvSkl3bU43dU5TcGNQSTNWYUVWQXloZUh5QmxHRkdBQ2ZBeUhqY0hROUdua1pJeGpad2FqbGdPNA?oc=5
 
 - 中学受験が終わっても“課金ゲーム”はまだまだ続く！スマホに部活、塾代、お小遣い…想定外の出費が家計を圧迫 - JBpress
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBweW1mQ3dZTUxSUGNzdkVqNkZucWU4TDZzNTVLdV8tb2hsanNDazRZRTliNDJZWDNBVEw2VTNtS2p3LWI1VW5GbU1oYUU2WGhMcDh6b25R?oc=5
-
-- 見守りと消防と市民相談で奔走 : ブログ : 泉南市議会議員竹田光良のホームページ - 公明党
-  https://news.google.com/rss/articles/CBMimgJBVV95cUxORmFZSExWNE81NVZ6UmM2WmZUdlhiWHFBbXBXaXZVc2xSbW1SNVRlNzNHazlJYlgzY3F0NVBrNGh2SmtEN0tZblR1T3R6ZE12dFBtNDZmVUpZdHZqRkJXX3hJZHdXRE5wVzVfbDA0R2lNanFUMUU2QmtUWlRzbEkwMW5XSnl1OUU0X2JXeDlOb3ZwX2d3OERWcGwySFJyU0Q1Y3ZPc1c5Mm9yWDhpQXdmM012aFVsSWZ2TFg3bXVTZW9vODlSSy1HLTFTTHE4RUVzU3d2THFjaDlwNGhRRG14aEJ5RDVUME1tQmN1ZmFYRE9MaVBlQUJaajVtUmFfaDN1SExpNHNrUmZPN2owRmR2SElDOE4ydXFreFE?oc=5
 
 - 自殺防止に電話相談 新年度から土日祝も対応へ 群馬（群馬テレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9NdHdYd2swMVpzOFM0RGtUaVlSM0hQM0pLV0JYM29vOVE4c2ZDNTR5RzJTWVFXZFBHMUZwTjluM0VFRXl6bnRlWE5TSFZiTmdFaGlTeGZweHBrbGdJWTJxY2RRbmpIMkFWMF9ITHoxQ183YUhyUDUwMkptY2g2MGc?oc=5
