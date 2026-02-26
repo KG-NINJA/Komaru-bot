@@ -1,16 +1,19 @@
-=== こまる相談 ニュースフィード (2026-02-26 16:16) ===
+=== こまる相談 ニュースフィード (2026-02-26 17:21) ===
 
 - ３月は『自殺対策強化月間』です - city.noboribetsu.lg.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VTXNiVnU5cFdSRVJXcGNlcnFJU3JCS0pvY2tJOEhzVmx4Z183NGx2UTZqZDNjVjhhaHFiTmw2YzNITjNSVGh4a0h5MW1GSmFiVlFYTnNxenNPbk1iOFNqNS1sSkpfYktJ?oc=5
 
+- 辻村相談窓口、「嘘と人間」 - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE51MkRLU0xRLWh4eFBZOXBFcGl5OTFoYTVvdjdqWTg3dkoxbnBNTFExdDM3VUZtMDN2SExHaGwyRmpzTUswYXphOWtuRVpVU2JITGt3QUJ3cE9aZVhkaFNTSURLcV9FUQ?oc=5
+
 - 無料特別相談 「若者のトラブル110番」を実施します！ - my.metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE41U2otLW1yT3ZlVFl5S096ZU0zRUNheEZ2YUdqOHJVWkczeGlzX0ZHbjVtM2JXMHlUYmM1SjFsc2FDV3JPTXNhaDhma0xpSEZlRDloLWNWMHRfUEgxa0RGZ0FRRllxSzNU?oc=5
 
-- AI相手に悩みを話してみて 札幌市が3月から実証実験 [北海道] [AIの時代] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92OFZ3SndEdE1LOXk2R1kwLXBJLVozcVpUVEVCUlYyVGJKU19vX0RIZHg2S3M1dG5LTUtaM2lmSF9Rd3dycmZYRVQ4LUhkWFJUclA1VFNPOEFueVRCMTh2WlpMeGI3MUE?oc=5
-
 - 「やりたいことが見つからない…」20歳大学生の悩みに共感の声殺到、大人からの“実体験”やアドバイス続々（TOKYO FM＋） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9paUpBb0NmTHdSVFVMMUF5UGlzOFF5X0MyLVEyTGNpc1gwV1A3Y3lLUGxiT0ZfN0RLanNuaFh1ZTBsNEZoV2czOFBsYnpVSTduMzV0YWJiMTVfd3g3ZUpZOWJsN3IweTdXMTllN3RNdFlTT3Q0Q0llcGpVUGpFNHc?oc=5
+
+- AI相手に悩みを話してみて 札幌市が3月から実証実験 [北海道] [AIの時代] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92OFZ3SndEdE1LOXk2R1kwLXBJLVozcVpUVEVCUlYyVGJKU19vX0RIZHg2S3M1dG5LTUtaM2lmSF9Rd3dycmZYRVQ4LUhkWFJUclA1VFNPOEFueVRCMTh2WlpMeGI3MUE?oc=5
 
 - 「リニアに関する相談会」 3月2～8日、長野県が飯田市で開催 - 信濃毎日新聞デジタル
   https://news.google.com/rss/articles/CBMicEFVX3lxTE1BTTE5eFh3ZFh1a0tGb09xVlRHQmw1ZVhqamhBV05iWU5jVk95S3NTb291OVNQNmExalBuOFRXSmdRSW1zVE5IaFVyTFU4YU1MSDBEd3BkQ1FCQUoxTUlwQThYbUwzWXNpT3dJLTdwVUM?oc=5
@@ -21,17 +24,20 @@
 - 遺言・相続に関する無料相談会を開催します。 | イベント | お知らせ - 新潟県弁護士会
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE92el9qYWpYNWM5RTRXb3FBQnlzLWhMYVNPZXQzeUJSR3FWVlhWZnhPTW9qT0JMemtQd3phaU9sMTdZY1FWXzM2TnV0VjhMY3BwX1dSME9fci1IeDlrNUcyU0VUYU0?oc=5
 
+- ３月オンラインいきいき健康サロン「その悩み、どこからきているの？」 〜人との関わりから見えてくるこころのパターン - フランス日本人会
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsUEJhXzBMaDVQb09YZkpZaUlYQ0NnUTE0QnJyaHJkOHhFOW1ZT0VFODRIWktkQzExc01nVjN0WWhzWEQ4ZmhZY3FGLUhQVmFmVzZPUzV3ZjBoOVBBX0E?oc=5
+
 - 雇い止め、ハラスメント、残業代未払い…「差別的」扱い続く非正規公務員 全労連に1日で172人電話相談 - 東京新聞デジタル
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRGR4NENHSlFtdFE1dHhhTFA5UktrR3pRM01VWXJQTHJCUVVPaUYtYmdlUzZNTU9YOEU1XzlCVDgzS0UwMm5wQzB3UmdWc1RDNW1N?oc=5
-
-- 【人生相談！ヨシトミ先生に聞け】突然下の名前で呼ばれるように…職場の先輩が気になる20代女性に柴田善臣が一発回答！ - 東スポ競馬
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xTzNXYURIYWp1cDBNenI0T0pJYWlKeElGVElkMFdtejkzLTlMRl9lMmVSNmZZWkp5ajd6R3VxMGxkVEhaMV9id0RqTHdYVDlzaXJGQl8xWEY?oc=5
 
 - 「禁止看板あっても…」ダム湖内に無断立ち入り　水不足の宇連ダム水位上がるも新たな悩み - nagoyatv.com
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVEg5R0lGQlVsV2t2bjF1RUxURnlCS1F2QWhlc0tMQlZxX3NTdUpENXhESU9SUF9CU1FabmJON3dpci1UNklYczNhS0UyNkFja0HSAWRBVV95cUxOQmh1WlVpQjgtWWVZd25MdzJoMTNCSUN0UVcwMGl2X1FkRG1YSGxOVktZSGVZMnhCU2I5d0R0SW4ta2tFdXA3c3FlbFRoLWx6MFMtcTNrLUdCcGY4bGFmX1FMeTV6?oc=5
 
 - キャッシュレス決済活用＆相談会 - city.taketa.oita.jp
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5QRENvNFlDUDMwczN6cE1MbGhZSmtFdjR1bmtnVlpnMWNQOHRKTU1kSWszVXpUUm9XUHFjaXNHSEJiaG9hZXgtcWRhZ0Y2RUM4cTJWTFVRcDIwaXRaMnc1ZWF3ZzI2U2RNVDZUbDVfbzM4aFRaSWtfY0hqMGpGaWc?oc=5
+
+- 【人生相談！ヨシトミ先生に聞け】突然下の名前で呼ばれるように…職場の先輩が気になる20代女性に柴田善臣が一発回答！ - 東スポ競馬
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xTzNXYURIYWp1cDBNenI0T0pJYWlKeElGVElkMFdtejkzLTlMRl9lMmVSNmZZWkp5ajd6R3VxMGxkVEhaMV9id0RqTHdYVDlzaXJGQl8xWEY?oc=5
 
 - “クロッチが短い”という悩みに応える！下着インフルエンサー「ちーちょろす」さん監修の[デリケートゾーンをつつみこむショーツ]を「ワコール マタニティ」から新発売 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9qQ2JSLTNxa096a2p1d2xPeGx2djVqWWpsT3JMNTQ5WlR4cFBReWZWc2dUb3V5ZDNXUVpXMjFEdDRqdzF6R3dJeGdSQjJEcEdYdFRjVVdIczU5Ukg1dkRGanY3cHBZTTBwMUE?oc=5
@@ -53,10 +59,4 @@
 
 - 「若い人の悩みに気づき支援を」 高校生が啓発動画（ＯＡＢ大分朝日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFAyazdVNHVEQ2JlM2lMWTl5eGdLQU5HNWtXZFpRbUI0V0ppY2tTRjY5T3A4a3JEMDB1eHhiSDdmc0FfaFlZTUt5Y0VTNXVIVUktaDY1Nk5LYTY2bXZzNTNuUzllUUVHbTBZeTRwNWQ4Q3VYQVMtX2tlUU5LSzBxX3M?oc=5
-
-- 相川七瀬“兄”を悼む「悩みは、いつも真矢さんに…」 TUBE前田亘輝も感謝つづる（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBJckxpcDFIYWdBUmFCUGNHYUM2NTdSUVAtOVNlOHpLdFE2QUNWTVBtZGpfV1Q1ZktBSUhLWXRxWmhxM2s4Q3c4bFRxdlo2WmxyckY0emw4NmZucERxaWtNUFdsbFRmbm1CSzh5ZkVYa1Y1NFg4dF9aNUhZcC04clk?oc=5
-
-- ヤングケアラー、相談して 「平成ノブシコブシ」徳井さんら、山形南高で講座（山形新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSjlaVjRzeEhHb2RidFNLRUkyWkEwNmVWRl9uc1czUUx5alV4UVljX3ZEMGRKZnhIck5rUlB6Z0wteHRYSGl2UURDY3diajRtUEJKY2R6R1hod1F2ZkxPUzY0cW96VzJxS3kyN1BNNXhjdDlZMDk0WUtNaXhCeGs?oc=5
 
