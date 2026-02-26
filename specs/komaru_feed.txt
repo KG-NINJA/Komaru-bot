@@ -1,13 +1,13 @@
-=== こまる相談 ニュースフィード (2026-02-26 05:26) ===
+=== こまる相談 ニュースフィード (2026-02-26 06:18) ===
+
+- AI相手に悩みを話してみて 札幌市が3月から実証実験 [北海道] [AIの時代] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92OFZ3SndEdE1LOXk2R1kwLXBJLVozcVpUVEVCUlYyVGJKU19vX0RIZHg2S3M1dG5LTUtaM2lmSF9Rd3dycmZYRVQ4LUhkWFJUclA1VFNPOEFueVRCMTh2WlpMeGI3MUE?oc=5
 
 - 投資トラブルなどの電話相談に弁護士が対応 全国一斉「投資被害110番」 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGem9LWk1LRHRlTk1MTk1hSGhOUmo4RXdWc19hMndvZFJlOVlKSjJPX0YtMnRuSEJYWm0yUDdhQXp3clMzVE5PZ0NCOHpjeEVfaC1KMzR2X0VCUQ?oc=5
 
-- 3月は「自殺対策強化月間」です - city.iwade.lg.jp
-  https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkVrSG50WUZqWGFESWtDNWs3eG9DRlJBYlVOUzMyMUNsTTBLZnU0RjRvZmQ4N2ViYk1LdHlEMkNRRkp2aW1qZmdyLWRib0c0VXgwaTZUWEZUQXh1dHFHN0d0TXBPX1pMS1NqLTNGOVdQblBjVGZ2akpTZFF1Mkp6OWwyWVlYVHVHdmxkSTY5ZWZ4TllS?oc=5
-
-- AI相手に悩みを話してみて 札幌市が3月から実証実験（朝日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5Bb3M0NVFkYWRwNFJCal93MzNIQ2lKMHRlTW1CcDQ2ZVVtQWJTbFpRZWNwd1liNGVtME1kbHVGQU80OGlzTWlQemwxZ3Q2MEY4ZzZSb1hLTGNDeTVHYUNVNEQzOGczanlpVG5MZk01ckF1Q1FVNjBYMGx6R19sWjg?oc=5
+- ヤングケアラー、相談して 「平成ノブシコブシ」徳井さんら、山形南高で講座（山形新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSjlaVjRzeEhHb2RidFNLRUkyWkEwNmVWRl9uc1czUUx5alV4UVljX3ZEMGRKZnhIck5rUlB6Z0wteHRYSGl2UURDY3diajRtUEJKY2R6R1hod1F2ZkxPUzY0cW96VzJxS3kyN1BNNXhjdDlZMDk0WUtNaXhCeGs?oc=5
 
 - 加除式書籍「福祉・医療関係 相談支援マニュアル」好評につき再入荷いたしました！ - アットプレス
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jb0w3Z2wzQmpkeldtdTlSbzU4cmVETlNKTk1YTXhfMFlhMEdScVptbF9McVo5MndrTzhWdFZGLUo4RS1FTERObjl4dGdVM0E?oc=5
@@ -15,23 +15,29 @@
 - ヤングケアラー、相談して 「平成ノブシコブシ」徳井さんら、山形南高で講座 - 山形新聞
   https://news.google.com/rss/articles/CBMib0FVX3lxTE0zNXVVZXU5SGx6Z0pJSHJPVXlvRHhTc2pab3lRU2NlcGlrRE50bGpFUEZ2XzJrazExdW1fWUxwWnB6ejRfd0VobG9IaFQ3VGJ1OGtyVnV0WnNRQjR3SGhjYWhxTkhOLWxMMXNoZTZRQQ?oc=5
 
-- 辻村相談窓口、「人生の岐路」 - Design Stories
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1COEtpZGFoUFczQVdVaHZ6V1UwVmxiQWNKd3ZNaDNLc0NydkV5QmwxR0lYOEFfSnBhOU91NnZETnNwUm9UcVdvUTlUdkxuX2ZmTktJY0xGRGJTN2dReWZTMmNPa1Exdw?oc=5
-
 - サイバー犯罪相談、被害額とも過去最多 2790件、不正送金被害は1億5776万円 沖縄県警 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrYUJ1RG5BdW5HMXV2Qkpqd2NyYVZpcmtpTy1qUF9NWHhjVFVXdjI0WFVQakRGOUF1eWJlUXBpTEd6RHRhMUhQUXJaOUdKMTlNaVdPNHJNR0t2WUFOVlE?oc=5
 
 - 性の悩みはどのように語られてきたか - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5KeGF1RG9pRmxJRjdIa1JFem1vYmhyS1Nkd21BcDZKVGplRGVIamtfUHBiN0xzMmMzUXZaZldJNmtkZmo3Um1tTEI5UGh6SGpoU0U0T0Q2R2szZVRvazdvaTR4Q2lPMm1vaGc?oc=5
 
+- 辻村相談窓口、「人生の岐路」 - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1COEtpZGFoUFczQVdVaHZ6V1UwVmxiQWNKd3ZNaDNLc0NydkV5QmwxR0lYOEFfSnBhOU91NnZETnNwUm9UcVdvUTlUdkxuX2ZmTktJY0xGRGJTN2dReWZTMmNPa1Exdw?oc=5
+
+- 【女性500人“おりもの”に関する調査】おりものに悩む女性5割以上、その9割が「相談できない」実態 - Digital PR Platform
+  https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBlU3lEYXE5MTlQbU53QWh6d3F2dklrQmg0WFp6aGxzOHA4ZnU4aDZ5ZmU5MkF2eU92Zll3VjVRY3RlS3c?oc=5
+
 - 無料特別相談「若者のトラブル110番」を実施|2月 - metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBnX2ViUGhfUmNPYWM0bUdNak0xMzY5VVR2dlJOVG5UMzE5b25vaXd1ZkMtcUtaTW81NVZDclE5OXdTcTFIRk42N1czQm1XZVdDOUxxc2N6RklFNUxsVXRlcnQ0TEwwdHA0TW9PSmthUWlTVUc5?oc=5
+
+- 名古屋ハロワで運送業界就職相談会、紹介率64％ - LOGISTICS TODAY
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE54dHNWSG5NLXNIdm9Pbk9Yc04xTEE3QzhUclo1dGpXVVBpSWM2WGtNa0xNSEJ4Z3ZvVE5EWTExWHFueTdtSjRNaA?oc=5
 
 - 進路の包括的な相談会 ３月８日 あじさい会館で | さがみはら中央区 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iT3Bxd0JScTJlV3FOWC13cGl1V2pTYjZaN2RxVGlhOHpnWk1jbVpjT3FCQzlablBlSVJzbWdCb2owQnc1MENrOHp1TEtKOHVjSmJHUU5XdFBkV3dXVUt2Y05NRmo?oc=5
 
-- ヤングケアラー、相談して 「平成ノブシコブシ」徳井さんら、山形南高で講座（山形新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSjlaVjRzeEhHb2RidFNLRUkyWkEwNmVWRl9uc1czUUx5alV4UVljX3ZEMGRKZnhIck5rUlB6Z0wteHRYSGl2UURDY3diajRtUEJKY2R6R1hod1F2ZkxPUzY0cW96VzJxS3kyN1BNNXhjdDlZMDk0WUtNaXhCeGs?oc=5
+- 「若い人の悩みに気づき支援を」 高校生が啓発動画（ＯＡＢ大分朝日放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFAyazdVNHVEQ2JlM2lMWTl5eGdLQU5HNWtXZFpRbUI0V0ppY2tTRjY5T3A4a3JEMDB1eHhiSDdmc0FfaFlZTUt5Y0VTNXVIVUktaDY1Nk5LYTY2bXZzNTNuUzllUUVHbTBZeTRwNWQ4Q3VYQVMtX2tlUU5LSzBxX3M?oc=5
 
 - 20〜30代の毛穴・キメ悩みに、肌土台から整える Amazon限定美容液『メディバイオセル ポアセラム』発売 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE53R0QybWlsbGVqdkRxTWhTWUxuMW9Fd3RnOHB0T2VXNVhqVjQ3NlY2YmJZaHlDQUlJelZ2bjR0aW9KNEhkekxqNjRZOTdzdzJ2dlhIaXRTTDRiUjB1VzJUcUZycjQzZXJDelE?oc=5
@@ -41,9 +47,6 @@
 
 - 水分蒸発による髪悩みにアプローチ！うるおい持続シャンプー「emplir」からシャンプー・トリートメント・ヘアエッセンスのセットが数量限定で登場！ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBMMk1iU2xtZjVuYVpDelpQVG1XWHpoTFYtQzVLNk5zd1o4cVlLWmdtUmVpQURxNFJIV25aOVFhWS01UXhDRnFFaHo2NzNPRVFlWlJtTkJTOURRZWxNZlZBalBSeGJZMm9OQkE?oc=5
-
-- 「若い人の悩みに気づき支援を」 高校生が啓発動画（ＯＡＢ大分朝日放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFAyazdVNHVEQ2JlM2lMWTl5eGdLQU5HNWtXZFpRbUI0V0ppY2tTRjY5T3A4a3JEMDB1eHhiSDdmc0FfaFlZTUt5Y0VTNXVIVUktaDY1Nk5LYTY2bXZzNTNuUzllUUVHbTBZeTRwNWQ4Q3VYQVMtX2tlUU5LSzBxX3M?oc=5
 
 - 【中学受験】 私立中学合同相談会「夢限大」4/19、品川（リセマム） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBGUG81QkpVS2lHd3JwOVY5ZmZ0aEdmd3pndnJWaHJzR2VqcUVUZG9RWDF2SW9OYkhhXzRNTldCNDA1RVRVR3RPMF9GSGZlNXNaTWRmUldvdlRMcTNzdktxYV9JaFBYNjBWSlN0b1ZKY1NvTGw2a21CUkR2MXNVdVU?oc=5
@@ -56,7 +59,4 @@
 
 - 弁護士が無料で投資被害の相談受付 26日まで 香川（KSB瀬戸内海放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1sMFVMcjdEcXpVdXZEOHMwcmxRUGNzQ191NVNaRDUtVGp6cGdpNWdNcjhqM2x3QkR2Ml83Z2Z2X0lySHM4Wk13NUNJNlhKTm5CVy1jellXWVhJcnZPdENWRjRILW93b1Z0ekJsREdId3NGRF84SXlHdDdTNGtEN00?oc=5
-
-- M-1王者・たくろう AIに解決してほしい悩み 「パーマで目立つので…」（日テレNEWS NNN） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9RQjFRVE5WajRBeWE4ZGZ6M2VBRXdCYlFreEV4VUlSc3UtdTZtYkFFM0RWekxSRjREMlVlb3pxTjAyXzNYWnVnOTYyeEdfLUpNQ2M5UWs2Xzc0ZmgwM09hdXM3eS0tdDFvOTlFTXcxRHNTbUhud3VsNFNPWjN5OTA?oc=5
 
