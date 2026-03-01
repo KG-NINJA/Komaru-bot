@@ -1,10 +1,13 @@
-=== こまる相談 ニュースフィード (2026-03-01 02:59) ===
+=== こまる相談 ニュースフィード (2026-03-01 03:57) ===
 
 - トラブル相談など消費者からの情報、集まれば社会を動かす大きな力に - 朝日新聞
   https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEhnZUZTbXhkTlhScHc0WjhzMkFteTdIaUdaSVI0QUJ6cC1YcWl6OTEzRzc1Nkg5c0gwOTB0OHU2UTZzZjJIRnl5NEdhRmZnWldZOEVpbkw5X2w5RTdEaHI2aEh6bUxfQlZIZkwxT21oanY3d0VWck1KSnBRZmJOSzZBZw?oc=5
 
 - 3月は『自殺対策強化月間』です - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFa0k3ZWVMdGJjTDhMS1E4TzdMRkp3OVhCMmZqSEFfdm5PRzYwbW9JWjhPWUhDZ21mVWxGTG5BTDBYUGpEbzFKSS1kRzdVVXltMkk2MlZQTmpKNFZPZV9IZUxtQkJlMlc5?oc=5
+
+- 全国でここだけ、自治体直営の「天気相談所」を訪ねて 「同じ空」を見上げてみれば - 東京新聞デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kZm5scHlDdEw0SnB3eThEZzMyVklQVnMyTnUzMkdUOVdyUG9qNDV6dTJDdHNrVHIzMzNvNUNOcWhJeEIyT3AxM1FRMWZqMzNTbnJR?oc=5
 
 - 親御さん向け結婚相談会を開催します - city.maebashi.gunma.jp
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzanBJc09EN0ZKYk9pVmVRUmlFczNqUTJPV2JPMkJrM2RSSkNVcFpCTTlmSFA0VklPREVJbXNCMERhMGxRaWdJbEkydDFuT3VrT09SaG4zRjlySEU?oc=5
@@ -15,11 +18,14 @@
 - 【干場編集長のお悩み相談室】この春おすすめの腕時計を教えて下さい！「SSブレスレット編」（FORZA STYLE） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE42UU1kWHVUNFZXTjhrbW1NQjFrYVU1X3Nuc3VZUVRkTnNnUVRMTkFkVzE0ZWJ1RUwybkJob0JjTnkyTjduYmVmRkxOZ3V4dkFPY2kxVjB5RUxBYy1UOVJqWGFxMXZELVZTaTNIM0xEV3EzZzZxQm9iQVd6UVl4bEk?oc=5
 
-- ＡＩへ相談 小中高生５割 人には理解されず… 「しんどさ感じる」子 民間調査｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0aWk2anNvbElqdnRtUmhiOC1RbU9yZl9fMEZXR29vTFpCX3hyOVZfS0FrM2U3OUJlZWhlQVBycng4RGlpdUhyRFJGaWlnN1NvdUZxX3d5S2NLRFk?oc=5
+- 小早川明子さん６６歳で死去…ストーカー被害者支援、応じた相談１５００件超 - 読売新聞オンライン
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6Wmhrb2cxQXVpUE81YnMzTGN4NEJGZjJQcGlfS3NKb01XZkRrTXZKcm4yMnhISFBCTF9rWld5TTRkeGFJUDJTSVB5eTBESmxad2hKdnpaYzZGc18xN1V1cERSaUxXUQ?oc=5
 
 - ドカ雪頻発の新時代 除排雪費急増困った 北海道内12市、10年で1.8倍 経費削減「限界」 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qLWZPN1Q5dGZDU2tyQ1RXODVuUFlHY1FhXzQtUTZCbHdCR01DdURVUVNhRkRQdWZlMkhJVEw5SDN6d2ZWeXZ6UFAybElGZ1BHSDNsSjQ4YVR5Zw?oc=5
+
+- ＡＩへ相談 小中高生５割 人には理解されず… 「しんどさ感じる」子 民間調査｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0aWk2anNvbElqdnRtUmhiOC1RbU9yZl9fMEZXR29vTFpCX3hyOVZfS0FrM2U3OUJlZWhlQVBycng4RGlpdUhyRFJGaWlnN1NvdUZxX3d5S2NLRFk?oc=5
 
 - 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
@@ -27,23 +33,17 @@
 - 「乃木坂配信中」にて「【お悩み相談会開催!?】小川先輩が後輩の増田と森平と「くら寿司」へ！」を公開！ - 乃木坂46公式サイト
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LRDVlSDFWTlE5bUhUY0ZubTFrTlV2cVFGdFBucFlCZk9FUHBpZ2VIa3Zrek1zNkJVUERiUE8wd1hqdFU2ZUhTQ3JZTTJYd3RKLUN3V2EtT3VqYUtXYm5aTw?oc=5
 
+- インターネット上の誹謗中傷や差別等に関する相談窓口について - pref.hyogo.lg.jp
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aMDF5X0lkQ0dzOUNmcTZaaHhrRlZjcWp6d2F4Z0dqcFN5X1VZdWJlQUdfSEIyU3A3cnN2NER1QVdzc2t5OWFUdjhueWI3WUh1QzdQVTBqc3lFLXRPV3pwRkx4SQ?oc=5
+
 - 筋肉や体脂肪、基礎代謝量測定 健康づくりイベント 相談も―伊東・デュオ - 伊豆新聞デジタル
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tSTJIa2ZFb3NVSnRvb0tGWTNmTkQ4TkRTZlRtMWM2eW9na0FCMVY3cW5pZGp5OW0wUjV4NnVmelJtZHpHV3hKWXhDMThObktCWC1xYk9WektPZmVS?oc=5
 
 - 滝沢眞規子「シモ」の“爆弾発言” デリケートな悩み、赤裸々告白へ - オリコンニュース
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE55dERHZGVDNU1CblAtSEh0eFQzTmZIajQxU0VycHY4R1lCQjBPWG1HYVgtdDRjb05KWjljaUl2cjZ1T1dFZmEtY2VmdThqTmg5U3ZCdlh3?oc=5
 
-- インターネット上の誹謗中傷や差別等に関する相談窓口について - pref.hyogo.lg.jp
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aMDF5X0lkQ0dzOUNmcTZaaHhrRlZjcWp6d2F4Z0dqcFN5X1VZdWJlQUdfSEIyU3A3cnN2NER1QVdzc2t5OWFUdjhueWI3WUh1QzdQVTBqc3lFLXRPV3pwRkx4SQ?oc=5
-
-- 小早川明子さん６６歳で死去…ストーカー被害者支援、応じた相談１５００件超 - 読売新聞オンライン
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6Wmhrb2cxQXVpUE81YnMzTGN4NEJGZjJQcGlfS3NKb01XZkRrTXZKcm4yMnhISFBCTF9rWld5TTRkeGFJUDJTSVB5eTBESmxad2hKdnpaYzZGc18xN1V1cERSaUxXUQ?oc=5
-
-- ５９社が魅力発信 就職相談・面接会 沼津でｊｏｂフェア - 静岡新聞DIGITAL
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE82bUlNT3lYNi1VZ3YwQXNkaXNXSzQ4Q3NqYklzM1FJRGJiZUlNSXViMUFwM1paNjdXSjJ5aFhkZmlISy1iazRWTUtMemlGdw?oc=5
-
-- 無料特別相談「若者のトラブル110番」を実施|2月|都庁総合ホームページ - metro.tokyo.lg.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTFBnX2ViUGhfUmNPYWM0bUdNak0xMzY5VVR2dlJOVG5UMzE5b25vaXd1ZkMtcUtaTW81NVZDclE5OXdTcTFIRk42N1czQm1XZVdDOUxxc2N6RklFNUxsVXRlcnQ0TEwwdHA0TW9PSmthUWlTVUc5?oc=5
+- 止まらない大量の汗「多汗症」の深刻な悩み - TVer
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yVzVfVmhEOXhUb3FWVWpLb1prdzBiTE95WTM0Nm9qMGRKcGlWZmYtWktwVkE1WFVSeGNCd3BSTUktVkFzTC1CRlh1WQ?oc=5
 
 - 移住希望ランキング、山形県は17位 20～30代から人気集める - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZR1JGaXBsV0cyNWh0c1B3SUt0WE1IV3RhaUxpWEg5NGE1SGlBZnZJQnEyRVozRVp5Vy1jX1BQd19zR1VoQV8wUWxaeE5CTXY2YkxmNEt2am93dUpWZDhnSHZiUENZOVk?oc=5
