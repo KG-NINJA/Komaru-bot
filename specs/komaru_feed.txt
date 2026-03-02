@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-02 09:13) ===
+=== こまる相談 ニュースフィード (2026-03-02 10:14) ===
 
 - 【英語学習のお悩み解決Q＆A】#4 長文の読解力、スピードアップの秘訣は「音読」にあり！ - NHK出版デジタルマガジン
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSE5fcHpEVE5nbWRodmNud2hqWVJ6SU9BYm5MN3pOd1FtMTRHMUhrYXNiOWJfQXJ0TVhSRVlkTHFOSWkyNGM3cl9QS0sxT2o2enc?oc=5
@@ -6,11 +6,11 @@
 - 【SNS相談は終了しました】孤独・孤立を感じている人を対象にしたLINEを活用したSNS相談窓口（公民連携実証プロジェクト推進事業） - city.sakai.lg.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTFBqR0k3eGcxRkVYNEZwMko2OXZQM1Y5cDFIZFJlVmhsRmU3ZWxZMEhMeVlLcUQ4VDBla25nWVptNEhLS2xKLXQ5b2FtbWpOTk5RX0twTDIyT2RLeUp5aHNwbDhCR0prUXJmSzg0YVVSRFY3X05lQWY0Zkw3SQ?oc=5
 
-- 駅から相談へ。JR東日本と連携し、チャット相談につながる取り組みを開始 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5LUE1XZ3VXc2syU1EtYV9uT3JvX0tSa2NzYXo1ZW9SVlhDeUtXa2FoazliM1Q5VDhMRHlHT1h0SWkzZE5wR3BXSnNSSk95cmFDa09GejRTWUY4NF9hNXBwZUNXbl9YZ3J3WFE?oc=5
-
 - （Ａｎｏｔｈｅｒ Ｎｏｔｅ）心のケア、ＡＩは相談の「入り口」に 五十嵐大介 - 朝日新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE45RVlLUGpfbkZDVFJhcEdNaG43VnhTTHRZVmwyaG95YmZ0YjJHRlVQTUhwN0cyX2FjRm9zMzVmVDB2RXQyYUFCNmZJOEk2eXg5Ym5GTnVIMWFjOEZB?oc=5
+
+- 駅から相談へ。JR東日本と連携し、チャット相談につながる取り組みを開始 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5LUE1XZ3VXc2syU1EtYV9uT3JvX0tSa2NzYXo1ZW9SVlhDeUtXa2FoazliM1Q5VDhMRHlHT1h0SWkzZE5wR3BXSnNSSk95cmFDa09GejRTWUY4NF9hNXBwZUNXbl9YZ3J3WFE?oc=5
 
 - 辻村相談窓口、「時間の使い方」 - Design Stories
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZejBXWWJfaUxzUWEwT2xqVy02MW9KVUZPQ0NsSlNJVW0wWnBxUWp6S2c5MlNtMFRBQWZSdElIQU5pMU5YY2tGRHByYU9NeHpibXlXR2tVYkpPQ0Zhck5LUElFOVJZUQ?oc=5
@@ -30,33 +30,33 @@
 - 「健康相談できる店に」調剤薬局で米粉スイーツ 岐阜と大垣の3店で販売 - 中日新聞Web
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FTzM2XzZpdXFocUNPWWRYRS1vMVU4cC1NZEdLV3BDV0NUWUpaTTVNbV9iOWhhdjAzYjA3UVJTcnJRUlp1LWFLY1ZEeVdQU1FMYlR4YWFqVGQzT0RSVjdPag?oc=5
 
-- 融資相談課を新設 幕別町農協 - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sRDZUcGdLV0pnME5FMHRoLUJqZU5USk1COGRyVF9Bc29mTlF4QmhKVm9mbDFTWENOUXdUWjFPM3lSN29waTg2SFNSVjRMN2ZtOGJhVXcxUldwZw?oc=5
+- 親御さん向け結婚相談会を開催します - city.maebashi.gunma.jp
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzanBJc09EN0ZKYk9pVmVRUmlFczNqUTJPV2JPMkJrM2RSSkNVcFpCTTlmSFA0VklPREVJbXNCMERhMGxRaWdJbEkydDFuT3VrT09SaG4zRjlySEU?oc=5
 
 - 3月は「自殺対策強化月間」です - city.fujimino.saitama.jp
   https://news.google.com/rss/articles/CBMisgFBVV95cUxQVERGUGgyUzRHWmZ1bW5ZekdaaGliUVdXdDN3b2tCcHpkS25pNVp6YnVORC1RWnhtVDhzZWNlaWdDckxaaFdMQURiNk9XMnp4bnYwTW1CY2RWLVhGZF8tR1U3OWFGMlNBMXhPdGdjblg2ejloX0hCRE9jakdfUDAwZXV0c1o2TlhJcndvbkMybmNKRG1VdURWRzJJa3RPd0dzRS1Gek44VThmREdvUDV1VFV3?oc=5
 
-- 親御さん向け結婚相談会を開催します - city.maebashi.gunma.jp
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzanBJc09EN0ZKYk9pVmVRUmlFczNqUTJPV2JPMkJrM2RSSkNVcFpCTTlmSFA0VklPREVJbXNCMERhMGxRaWdJbEkydDFuT3VrT09SaG4zRjlySEU?oc=5
-
 - 吃音の悩み語り合おう、3月8日に広島で中高生向け講演会 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN2lkVEdpQzZlUWhYeHN6cEg3REhjdW4zYTktQlNxdDZsb0lEdVhRb1ZfQWFpWnVJQ3hUNEI2WWZqNFg1VUxfOTRONzlWSThmVzRtbkpBXzNCUQ?oc=5
 
-- Sansan、名刺アプリ利用者に副業紹介 相談1時間で数万円 - 日本経済新聞 - 日本経済新聞
+- ワゴン車巡回、三笠「移動市役所」2年 行政相談70件、図書館好評 認知度不足が課題 - 北海道新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBURk1ONUJmNTBod1gxTDlhTDFOdXVrbi1GdGZDb3pXbS1qQ1ZHMTcwc2lTVVNaNXo3NmViYXFQNWtHa0ZpbGdWOHRxTUtRTm4xMHlldWdOeTJFUQ?oc=5
+
+- SNS・インターネットで投資めぐるトラブルの電話相談…年間100件近く相談・投資被害増加傾向 山形 - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE12cGtMcXJTNzdJeFpPdjNCTEdieGhxWGVXVVcxWFczUjR0QXQwS0dYSEwxSlR6bklIZHNvWDA0N1ZvemxGYjhnVXNtS2xrUQ?oc=5
+
+- Sansan、名刺アプリ利用者に副業紹介 相談1時間で数万円 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9CRF93REs5S1BKUC1FU0ZhT2ZpZzQ4eDZxeU5NWDlfcTdhMVBIdmcxaEZ4U3hVd3RXOXdVaFFhWXo3dXFyUldNSmhrdGNMUl9YWW9aV1ZncWF5dlBtaTRIbG9YM3RVRGpodDZMRg?oc=5
 
 - 都市再生機構、団地に見守り相談員配置 - 全国賃貸住宅新聞
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YLXd2UWEtTkVaUjZPMWxQZThpR05vUThZQlVXZmpRWkNUS1ZFb2lmYXlsbWk0ZmtjejFyY1NZQkVJSXlhTDdna1NkRE43QVdReVVhdE1KX2I?oc=5
 
-- 投資に関するトラブルや被害が増 県弁護士会による投資被害の無料相談会（山形） - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtZUdCUW40UEJkanF1WmdXS0Y2WGJQRnBqSEFkSlhtNERnXzFJSFdFTC1jSnZVUVU1Rzh5ZXVQX2wxSGNkcTc2YnVCUFhrZTVFbnR4SkE0MFUyUQ?oc=5
-
 - 月間50件超の相談が寄せられる「おうちの相談室」、底地・借地問題の“円満解決”への取り組み - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBQZkNpZm85M2FnYU9Cc29MNGp6b29uYzNPc3RfejlxSXl1WHJuU3pQRnRnUlZBX1dqY3M3LTBCcjhSNkstbUg0cGx2LUIxbWloZFhlRkFYcF9YVEtkYmFsUXg0X21rXzV6a2c?oc=5
 
-- 小中高生の5割、AIに相談 しんどさを感じる人へ調査（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5IdFg3eGluQ01sdXpNVi13RW54NDVSdVVhdTFBMDhnUTZwZE9hU0daZEtMTzlEWGl1Q0ZCZW9mNmowY01mZVljZlQ2T3VZa2NYYUJOZkRhVXZOOFVONkZaX01BWHhjWVZNaUg1VVZtdjFvc2hGSDM0ekI2T1Q4eGc?oc=5
-
 - 立憲神奈川、中道合流は「悩み苦しみ模索」 牧山代表は慎重に検討（朝日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9hRkJoYVVLT01WcERFNlJrdDFLRklRZXNmM0RYaGozS0E5X0Y5NWJSQW5hb1FtNzUzM2t6YkxsQUVWenUxbG5wVFNwU2ZteEFfMzMyX2hmS19pbUJuSjJoeks5TnI3emI4R2lQcE0xcERNNnNuLWtUdHNQWGE0Yk0?oc=5
+
+- 海外旅行保険の付帯サービスとして「オンライン医療相談」を本格提供開始 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZYWFGV3Foejh0elA0bkZRRVNKcndNSGpYWFdCN0lGVFd4aTNhREYzM1FnNkpTeHd1aUU3ek00MGEwSm9BM2EycGx1R0ZUTF9KRmNaRUNTN0xhTDA?oc=5
 
