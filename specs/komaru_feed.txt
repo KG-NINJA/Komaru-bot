@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-02 22:05) ===
+=== こまる相談 ニュースフィード (2026-03-02 23:03) ===
 
 - 受け付け窓口から相談まで、進む！自治体の「生成ＡＩ」活用 - 公明党
   https://news.google.com/rss/articles/CBMi_AJBVV95cUxQX2g4eGZFT0pjTXplX2p1X05IcHVSbm1hUnlXeHRMOE50UUF4cS0ySG56UDBMU2ZNazdtbHdoenZrN054ei1oWmY5ejBoa3ZraWxwb0JWUTVhc0FRWGhURU5aTUZ1SUgxdXZMOEgwTmxqUElGWlVLS2UxOUExekVlNGRGQUlBSXg4NFNPb29mU3Q4bzlwN3AyVzYwNElmc3RsOGM2ck9CQ1lRQXQ2NVVfVTE1N3hFc21MUVpaZW5DWjZEa3k2NDBwMTRsNVZMc3ZsR2NpTDJZN0s2Z2M2dlpkSmpCWnMzU0ptSEgyVE4zRlh6N1IxUGVLYVFMYWNNSjVYRko2aTJwWEFoRElnSHdocmpENVp0QW1jVV8wTlR0dk1hOGVYM2FFR3FxZHV3aXREWXZodGNOMzBBa3NsNWVVYmtfbUhzMFlfRk1zRDZTY01kczNWS2JPcHJHZnVYZndYZ2pmbWhuUmtJRGdULVQ0c1BnVndvZzh3NFktTg?oc=5
@@ -12,11 +12,11 @@
 - 日常生活の悩み、解決支援 網走で8日、精神対話士の相談会 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjMVgwTHUyS0o1ZzNlWkJaN3pjT0JGYTZEY0dzbUx4MXpNQWhaWmZfMF9ZQ3MxeG9lRlROcEZmemJYc0ZYUmtEd3hfZ25oVnNfTHp1eHlkdE9Ydw?oc=5
 
-- 『子育てDX』の「伴走型相談支援サービス」が福岡県直方市で導入！ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1aaGNiZi14ajBxX1RMbV9qUnl5cksxbV9WMkNaWXZTblNVVE40ZUZYYUR6RDhkUGNkMVBoS3o1UWlzcklwdWZFZzQ0S2phMDVTb3pIQWZGRTVuNl9pYXFZU1REQWxPYjJzSlE?oc=5
-
 - 島根県など、三菱マヒンドラ清算で相談窓口 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOLUMtRXhSemx3U2RhR3YzVHZDSkRpaUxoNVl0MjZYSDNMTHRaSy1OSHlwNUczdmZTZy1yeUFaMDdvQXoyekM1RFlkUHRybXgzOEpIMXJxVlRyQQ?oc=5
+
+- 『子育てDX』の「伴走型相談支援サービス」が福岡県直方市で導入！ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1aaGNiZi14ajBxX1RMbV9qUnl5cksxbV9WMkNaWXZTblNVVE40ZUZYYUR6RDhkUGNkMVBoS3o1UWlzcklwdWZFZzQ0S2phMDVTb3pIQWZGRTVuNl9pYXFZU1REQWxPYjJzSlE?oc=5
 
 - 介護業務支援ソフトのクラウド化で業界の悩みである「時間」と「人手不足」を解消：株式会社ささや木 - J-Net21[中小企業ビジネス支援サイト]
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lN1JXV05FS1h5bXhUSXFiajQwaEQ2S1RlaUtHVGdleWpkWllyYkVKUktxY1dQbnl5NC1teW9MN3FaNWZjaEZURFlPRExfbWxLaGdGUUU4WlhTX0V1MXBSbkVqak0?oc=5
@@ -30,6 +30,9 @@
 - 3月は「自殺対策強化月間」 宮崎市で街頭キャンペーン｜ニュース - UMKテレビ宮崎
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yMDBKMFd5aXJyWkg0ZllJRXdBTkN5Mnp0YmF3SEtvbEZsd3VmYktERTlKNUNMdW9HV2E1QVdBZ3Y4WUNQWEhsRUt2U3lUWHFiXy14YU9aS2d0R2Jqangw?oc=5
 
+- 医療的ケア児家族 相談会と交流会/山口県など、２２日にオンラインで - 山口新聞 電子版
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1nWUFSOGpwRFMyZ1h4U0ZHblJDeHVTZ2owZlQ4SUN2c3JUa3kxRzBWQUhWX0dyT0hJMFVJNW0yOUZMQ0w4eTFnY3dqbU43Q2V2a09LVGQ4TjRZdXVTR3VBRDRKeWpxR1E3elE?oc=5
+
 - （Ａｎｏｔｈｅｒ Ｎｏｔｅ）心のケア、ＡＩは相談の「入り口」に 五十嵐大介 - 朝日新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE45RVlLUGpfbkZDVFJhcEdNaG43VnhTTHRZVmwyaG95YmZ0YjJHRlVQTUhwN0cyX2FjRm9zMzVmVDB2RXQyYUFCNmZJOEk2eXg5Ym5GTnVIMWFjOEZB?oc=5
 
@@ -39,11 +42,11 @@
 - 予防法が進化する「糖尿病」気をつけたい習慣や最新の治療法は｜更年期のお悩み相談室 - 婦人画報デジタル
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWJuNDUzYnRGZG5wQjkzejNFeFRrS2hBREhCYzBHOEJDZ3lSeUVTdnRVTFh0eGwwWDdNYU50eFNfc3Zwb0hZNElhcnJtajIwRU1heVY5OVU4YlhuWERKVWxUM1hoZGtNZ3gzdXFLbnZCdWloUlhxWUl2Z3pJMnAyVmM2cENna2kwTUZhblUzRGM?oc=5
 
+- 「悩み抱えず相談して」 活センで自殺対策展、１４日まで - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2blBzanFOaGJyUGZISW1RSzRZWG5pNE82bVlqbEhKR3FnVnRUZ1RxaXM0MVRrX3VKclg1ajNXVHpQYXRacEczQVYwMA?oc=5
+
 - ＤＸに懸ける〈84〉入倉結婚相談所（甲府市） - sannichi.co.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE13MmNlbTJOcWlyb0FYamp5RkYzTFNOMjNuOU53UldvSHExTWlXa2ZLOTJqV0tHaUlXcGNRWE5VZUwyZXg3UHhlZVVFSDNYM21BRVBjTjVOWVVHNjNyNFVsZ0NGWEU?oc=5
-
-- 辻村相談窓口、「時間の使い方」 - Design Stories
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZejBXWWJfaUxzUWEwT2xqVy02MW9KVUZPQ0NsSlNJVW0wWnBxUWp6S2c5MlNtMFRBQWZSdElIQU5pMU5YY2tGRHByYU9NeHpibXlXR2tVYkpPQ0Zhck5LUElFOVJZUQ?oc=5
 
 - 融資相談課を新設 幕別町農協 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sRDZUcGdLV0pnME5FMHRoLUJqZU5USk1COGRyVF9Bc29mTlF4QmhKVm9mbDFTWENOUXdUWjFPM3lSN29waTg2SFNSVjRMN2ZtOGJhVXcxUldwZw?oc=5
@@ -53,9 +56,6 @@
 
 - 「気兼ねなく相談を」 置戸で1人暮らし高齢者向け交流会 防災などで講話 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KNU1jcXRuNE91ekZQb2ZJbTNuemJONDM5Tk5YWDFMbnMxY1FLS3FUdkw5TU9STmg2QnI3bnI2U2Z2OHdRbE9oNVU2Nk5CWG52UldCUmN2QmctQQ?oc=5
-
-- 駅から相談へ。JR東日本と連携し、チャット相談につながる取り組みを開始 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5LUE1XZ3VXc2syU1EtYV9uT3JvX0tSa2NzYXo1ZW9SVlhDeUtXa2FoazliM1Q5VDhMRHlHT1h0SWkzZE5wR3BXSnNSSk95cmFDa09GejRTWUY4NF9hNXBwZUNXbl9YZ3J3WFE?oc=5
 
 - ワゴン車巡回、三笠「移動市役所」2年 行政相談70件、図書館好評 認知度不足が課題 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBURk1ONUJmNTBod1gxTDlhTDFOdXVrbi1GdGZDb3pXbS1qQ1ZHMTcwc2lTVVNaNXo3NmViYXFQNWtHa0ZpbGdWOHRxTUtRTm4xMHlldWdOeTJFUQ?oc=5
