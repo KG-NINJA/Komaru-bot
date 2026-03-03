@@ -1,4 +1,10 @@
-=== こまる相談 ニュースフィード (2026-03-02 23:03) ===
+=== こまる相談 ニュースフィード (2026-03-03 00:11) ===
+
+- 福祉（中央児童相談所・木佐貫 勇弥） - pref.gunma.jp
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwZm1Rank2WDVqRHFRaDl2X3RseUN2c2VnWFFSekdORHRkaWppQWpxd2Z5N3pTVTFZc0ptaWZJeWZ4eEZwMDROQ3VydDlINVVMTlI1RV93YzhOWnczTmc?oc=5
+
+- 悩みや失敗や後悔があるのは当たり前 〈日めくり青春対話〉3 - seikyoonline.com
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE5DVlhvM0hMZC1PcGFDU1VPOWtFVzRyR2JQSlNIejlvNlFjVm0wVDBmRjZ3Ul8zUExEVkJqbUJnM3lCd21Oc1NLZ243ZW9OWWxmSDVjaWdaZUxJYjVYX25aUml4ZzNoNjRmR1ZuZDRwVktaT19aVWFtSw?oc=5
 
 - 受け付け窓口から相談まで、進む！自治体の「生成ＡＩ」活用 - 公明党
   https://news.google.com/rss/articles/CBMi_AJBVV95cUxQX2g4eGZFT0pjTXplX2p1X05IcHVSbm1hUnlXeHRMOE50UUF4cS0ySG56UDBMU2ZNazdtbHdoenZrN054ei1oWmY5ejBoa3ZraWxwb0JWUTVhc0FRWGhURU5aTUZ1SUgxdXZMOEgwTmxqUElGWlVLS2UxOUExekVlNGRGQUlBSXg4NFNPb29mU3Q4bzlwN3AyVzYwNElmc3RsOGM2ck9CQ1lRQXQ2NVVfVTE1N3hFc21MUVpaZW5DWjZEa3k2NDBwMTRsNVZMc3ZsR2NpTDJZN0s2Z2M2dlpkSmpCWnMzU0ptSEgyVE4zRlh6N1IxUGVLYVFMYWNNSjVYRko2aTJwWEFoRElnSHdocmpENVp0QW1jVV8wTlR0dk1hOGVYM2FFR3FxZHV3aXREWXZodGNOMzBBa3NsNWVVYmtfbUhzMFlfRk1zRDZTY01kczNWS2JPcHJHZnVYZndYZ2pmbWhuUmtJRGdULVQ0c1BnVndvZzh3NFktTg?oc=5
@@ -15,11 +21,14 @@
 - 島根県など、三菱マヒンドラ清算で相談窓口 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOLUMtRXhSemx3U2RhR3YzVHZDSkRpaUxoNVl0MjZYSDNMTHRaSy1OSHlwNUczdmZTZy1yeUFaMDdvQXoyekM1RFlkUHRybXgzOEpIMXJxVlRyQQ?oc=5
 
+- 介護業務支援ソフトのクラウド化で業界の悩みである「時間」と「人手不足」を解消：株式会社ささや木 - J-Net21[中小企業ビジネス支援サイト]
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lN1JXV05FS1h5bXhUSXFiajQwaEQ2S1RlaUtHVGdleWpkWllyYkVKUktxY1dQbnl5NC1teW9MN3FaNWZjaEZURFlPRExfbWxLaGdGUUU4WlhTX0V1MXBSbkVqak0?oc=5
+
 - 『子育てDX』の「伴走型相談支援サービス」が福岡県直方市で導入！ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1aaGNiZi14ajBxX1RMbV9qUnl5cksxbV9WMkNaWXZTblNVVE40ZUZYYUR6RDhkUGNkMVBoS3o1UWlzcklwdWZFZzQ0S2phMDVTb3pIQWZGRTVuNl9pYXFZU1REQWxPYjJzSlE?oc=5
 
-- 介護業務支援ソフトのクラウド化で業界の悩みである「時間」と「人手不足」を解消：株式会社ささや木 - J-Net21[中小企業ビジネス支援サイト]
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lN1JXV05FS1h5bXhUSXFiajQwaEQ2S1RlaUtHVGdleWpkWllyYkVKUktxY1dQbnl5NC1teW9MN3FaNWZjaEZURFlPRExfbWxLaGdGUUU4WlhTX0V1MXBSbkVqak0?oc=5
+- SCI、大学・専門学校が一堂に会す進路・進学相談会 13日さいたま・16日横浜で開催 - ICT教育ニュース
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWVXBxVnY5emd1UGlRQW9BYkUwLXZocFFhNk1SVFhTclkzWENoQ1cwMnJBX24yeU1uSmYwRXU2VG9MdlVvSW1hME1fVUs?oc=5
 
 - 【英語学習のお悩み解決Q＆A】#4 長文の読解力、スピードアップの秘訣は「音読」にあり！ - NHK出版デジタルマガジン
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSE5fcHpEVE5nbWRodmNud2hqWVJ6SU9BYm5MN3pOd1FtMTRHMUhrYXNiOWJfQXJ0TVhSRVlkTHFOSWkyNGM3cl9QS0sxT2o2enc?oc=5
@@ -33,20 +42,11 @@
 - 医療的ケア児家族 相談会と交流会/山口県など、２２日にオンラインで - 山口新聞 電子版
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1nWUFSOGpwRFMyZ1h4U0ZHblJDeHVTZ2owZlQ4SUN2c3JUa3kxRzBWQUhWX0dyT0hJMFVJNW0yOUZMQ0w4eTFnY3dqbU43Q2V2a09LVGQ4TjRZdXVTR3VBRDRKeWpxR1E3elE?oc=5
 
-- （Ａｎｏｔｈｅｒ Ｎｏｔｅ）心のケア、ＡＩは相談の「入り口」に 五十嵐大介 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE45RVlLUGpfbkZDVFJhcEdNaG43VnhTTHRZVmwyaG95YmZ0YjJHRlVQTUhwN0cyX2FjRm9zMzVmVDB2RXQyYUFCNmZJOEk2eXg5Ym5GTnVIMWFjOEZB?oc=5
-
 - 区有施設を活用し、児童相談所開設へ - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ia3F1UkMyM0xudUpZMkQxT1hEclJUQXV6cFloRUR3VGNNMk9XYmFVamZjeDV3NEZ1amZBVnJvYTRGQkVPT3kyV25lRlJnU184MC1UQ1g1eTdTcFZoYlE?oc=5
 
-- 予防法が進化する「糖尿病」気をつけたい習慣や最新の治療法は｜更年期のお悩み相談室 - 婦人画報デジタル
-  https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWJuNDUzYnRGZG5wQjkzejNFeFRrS2hBREhCYzBHOEJDZ3lSeUVTdnRVTFh0eGwwWDdNYU50eFNfc3Zwb0hZNElhcnJtajIwRU1heVY5OVU4YlhuWERKVWxUM1hoZGtNZ3gzdXFLbnZCdWloUlhxWUl2Z3pJMnAyVmM2cENna2kwTUZhblUzRGM?oc=5
-
-- 「悩み抱えず相談して」 活センで自殺対策展、１４日まで - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2blBzanFOaGJyUGZISW1RSzRZWG5pNE82bVlqbEhKR3FnVnRUZ1RxaXM0MVRrX3VKclg1ajNXVHpQYXRacEczQVYwMA?oc=5
-
-- ＤＸに懸ける〈84〉入倉結婚相談所（甲府市） - sannichi.co.jp
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE13MmNlbTJOcWlyb0FYamp5RkYzTFNOMjNuOU53UldvSHExTWlXa2ZLOTJqV0tHaUlXcGNRWE5VZUwyZXg3UHhlZVVFSDNYM21BRVBjTjVOWVVHNjNyNFVsZ0NGWEU?oc=5
+- 障害者就業・生活支援センターわーくさぽーとが『たてばやしサテライト相談室』を開設しています！ - pref.gunma.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qOVROckFMLU85VTZqNl9CVVk5alF0ZV9CQ3Q1dFFkMmg5ekJIRm40MjVyQkVmLVRwVHc4eG12VE1COFFzUlFLQzcyM2paMWZWckFqVg?oc=5
 
 - 融資相談課を新設 幕別町農協 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sRDZUcGdLV0pnME5FMHRoLUJqZU5USk1COGRyVF9Bc29mTlF4QmhKVm9mbDFTWENOUXdUWjFPM3lSN29waTg2SFNSVjRMN2ZtOGJhVXcxUldwZw?oc=5
