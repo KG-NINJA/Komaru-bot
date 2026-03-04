@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-04 22:05) ===
+=== こまる相談 ニュースフィード (2026-03-04 23:06) ===
 
 - 「有料老人ホームなんでも相談会～住まいの悩み相談室～」のご案内 - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ0JHSXRFaFZPWUdjQ3d6WTJWcEtfeGNVYnlsTUVld3libEpaaWozTVZpNVFkMWlWamEzT1YyU0hDOUNaeHREQTl2UkRqQ1dCLUlqYzYydzUxNGZpMjZZX1FDRDJNMEtvbVlNeldLWjhzZmd5TmptYWNSRWNLa0hONQ?oc=5
@@ -15,6 +15,9 @@
 - オンライン相談窓口新設 松本市が新年度 芳川出張所・梓川支所に - 市民タイムス
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aSU82WDBNQWF3UEtVUE9qVFp0ZVNhTm42amprMnMwNUVabGtEelM2dnRiMGRGSVBoRTd4WTQ2c1ozMzRDam50NEw3RU41Y3dQTFc5U2V5SkdOOHF6VzNFb2NkTQ?oc=5
 
+- 旧統一教会に解散命令 相談窓口で手続き周知など支援へ 政府 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHY0dFeVZPT2FFUGN5VWV5ZUV1cUl3eUFfcHZmeGh2dEFtQ3BUQzZwWDhyamZheERCejE0d1dRZGpfS0hsbXB3UF9COG9ZYjV3VXJUY25uaGhBRG1EUUdV?oc=5
+
 - 登別・旧婦人センター跡地利活用 企業相談受け公募へ - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YRkVoQ0lRem1oT2JGSXh4TG04NEI3SXdJT3RQeGJhN3Z0QkMyQnVWZFlNSDBhbWY4WUgxUmdWMGxzeElpQXpuTUU2RHBCVUFBVndDSGk0YnR6QQ?oc=5
 
@@ -30,23 +33,17 @@
 - 若手教員の悩み語り合う 新潟・上越教育大が交流サロン - 琉球新報デジタル
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE42QXVGXzJYTGhXaW42MFFWZWNYckl6RGJia1BES08zaFJmVGNPdkJwOXVBN0hUQ3UxM0lqZXJlMFVDT3dELV9PRU5vd2c5ckR6YTl1V0JQdzJhLUdWX1A0YnVn?oc=5
 
-- 若者の大切な命を守りたい - 公明党
-  https://news.google.com/rss/articles/CBMihAJBVV95cUxPbnFIZFFfdDRxZTZtMkZrR3VWUzg0NEk4Nnp5RVpsSm8ySWxCQWFDb1NnajBwdC1Ydkp1blJwdU84d1U3bWxFb0kyTDRSZW90WjFzOG5lM2hBZW5QT3J0TUQ0YWZUTDBCM3hVVlhkWXM3bzJhWkZrZ0RmclZNUjJfMUlfSURvaVVMaFdERk9TU1RtWjVxblRhc0ZKcFlTd2hPQ1Q0WGtBa3Z0ODlUUUphY1F6YjE3Tl9hQk95RHBNT25Jc1dHSHN4TmFReU11d3I0NVZmeVBGbWpfUnBESzRFQjhreEZTOFZLX1VLUHlwWEx1ekNIRzdXSktBTEVsVy01TlJaWg?oc=5
-
 - Date（ダテ）care（ケア）お気軽電話相談窓口を開設します - city.sendai.jp
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUx3LWxBR2p4X2VGU2FoaEd0ZkZLMGsxVURCSTVuOU5mXzdqaXMxcWthclBCYU9kY2t5T1VWNlBvNVpUWVJaZmtDNDd4bUp6ckNpMFAwU1l3ZzNmczFueGNZZW9lemJCaURSZXBQMVloUHFQeUllbS1zSzRTbDQwQVg4WGpQSThkMG9PWFNldGphaDczZVhxcmlGYzh5WEthaXk1dHhleG8?oc=5
+
+- 若者の大切な命を守りたい - 公明党
+  https://news.google.com/rss/articles/CBMihAJBVV95cUxPbnFIZFFfdDRxZTZtMkZrR3VWUzg0NEk4Nnp5RVpsSm8ySWxCQWFDb1NnajBwdC1Ydkp1blJwdU84d1U3bWxFb0kyTDRSZW90WjFzOG5lM2hBZW5QT3J0TUQ0YWZUTDBCM3hVVlhkWXM3bzJhWkZrZ0RmclZNUjJfMUlfSURvaVVMaFdERk9TU1RtWjVxblRhc0ZKcFlTd2hPQ1Q0WGtBa3Z0ODlUUUphY1F6YjE3Tl9hQk95RHBNT25Jc1dHSHN4TmFReU11d3I0NVZmeVBGbWpfUnBESzRFQjhreEZTOFZLX1VLUHlwWEx1ekNIRzdXSktBTEVsVy01TlJaWg?oc=5
 
 - 被爆を隠した過去・出産の悩み・がん闘病「苦悩は一生続く」 沖縄の体験者、核廃絶を訴え 那覇市でビキニデー講演会 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RYVVrV0JqeEhaV2drOV83YmowTWxOZ1lnZENlMm5hdUZBNGYwODBiSHJkaWZOdkJaazQ3M1ZTNmdWMUN4U0VKa3RHWEpOT3g1NGd2ZU5xX3BObkpfbXc?oc=5
 
-- 発表！【入園の悩み調査】入園前子供の半数が“キョトン”？ 心配事1位は「登園しぶり」入園準備のリアル＆「新生活を乗り切るサービスランキング」／ファミリーの3月の過ごし方トレンド調査第5弾 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5lTWY2aE95Ry1lT3M5c1VFRlNDbG1pU3Jrd2lDRFVLRDcyS1AtcHJoWm10RU9YRktrUTBTajRCbml3Z3J1ZXlKVFFMQm5CV3l0VlJsUFBsYmlJTmRXT2d5X19rS1dDX0ZnR3c?oc=5
-
-- ＜独自＞宗教虐待の訴えも…2世らに関する相談が過去最多 令和4年設置の法テラス窓口 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9vQzhFSTQ3ZnhHWXkxY05id281aVpUamJ3VTVVdVZ5cS1HTFZSeFFVZk9SNzlORkdoVFNzUVBKNXJvSWVkSjBZWlh5NkM2NV9zdjJsNGFVb3F1Q002QkVrMGdXSEpDdURoVURXNTlnN3JWcHozWlE?oc=5
-
-- 【メール募集中】関根勤・関根麻里の親子で担当！身近なワンちゃんが抱えているお悩みやワンちゃん目線での相談を募集します！ | ワンてこった！ちょっと聞いてよ！ワンでも相談所～！！｜クレデリオ錠 presents コラボレートニッポン | オールナイトニッポン.com ニッポン放送 - allnightnippon.com
-  https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXZwRDVoaGhzUjZJYkRIbGdxYXJKWUphZ2pPWllUeHF3eG5rOS1xTFRPMERqeHh2RHM4TGt1NFdkZEdzSGI2RTVTb1BzM1JvWG96WHFGUXpDU25MR0xxbnNlSjNqODQyeVMwZlJaYXlHb1I1MUdUOUpjMHlzMWJJanpFeUNFNXFmaDg0dQ?oc=5
+- 不登校の電話相談ダイヤル開設へ 仙台市教委 支援センターの利用低調 - 河北新報オンライン
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQ090MTBqNWV2X3hrR1hhSlVqN0ltQjRoUGNJZ291Q0J3aVd6UmMwYzNKN0VvcTZTZVRPYnZiWDl6Z0hQTXByZU84Z090WnV0T1NvamQ1OHp0ME5PYUZuRA?oc=5
 
 - イラン情勢鑑み 商工会議所などに相談窓 設置／埼玉県（テレ玉） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1CRXhCZUZ6MUJ3VUY3ZGNlTjc5QW5JS0F3bXMzVS1ZZEJFSThpRUQyOE1aWTlaRzBSc3pXWm5sME1iR1Azd1hENHlZWnR1c29tcXpvTlh3T3Y3NkJ1MGFZUEdMVzBRZDFyenVMam1xNlc5U05HVWtlNmJNdnhvZms?oc=5
@@ -54,9 +51,12 @@
 - 埼玉県、米・イスラエルのイラン攻撃受け企業相談 88カ所の窓口で - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5GclVIeVd1aHRJeTBQTzB6LVRaMWt2VEFWbWh6YVpyTEcyd19sVnpRRnhkSEluTDlkalV6Mi04ajBsM1VZYXpBRUJDNjd2Mjhwa2RLbTRIM3g1LUh3RFZaUEE0WnRPTXdhT2QxUA?oc=5
 
+- 「発注遅延爆弾」も炸裂か…韓国産業界にとって悩み深まる中東情勢（中央日報日本語版） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9LTHgzZlh3QnBHaERPOVlnWlZwVUluYV83bTB5Y0w2X1BlWk1sVDY0M3FsRXBWeUZaTWhZRTFrZTV5eDM0cE5hRHpYdTN0RFI5UlIzTnl0cmtqb0pYd1NmNVJnR3V0bXFuSjFUUkxPdWxhc2otbTFac3pFU2Zubm8?oc=5
+
 - 不登校の未然防止へ 市教委、個別の悩みに寄り添い支援【山陽小野田】（宇部日報） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1yTkxLamM3U2hfb2NRQ3FiZFp6M29Za09RNEMtTGNxVFZnWTltY2s4QnJ1aWZjZEJzODhhTmtnQ3dJVjBkczU4b0JPLVQ5TzFtTjZ6UERQY0lNU1dKbFZxR1hndGFKM2RwODUteHotR0g3am5SWDh5a3JKa2pPSG8?oc=5
 
-- 不登校の電話相談ダイヤル開設へ 仙台市教委 支援センターの利用低調 - 河北新報オンライン
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQ090MTBqNWV2X3hrR1hhSlVqN0ltQjRoUGNJZ291Q0J3aVd6UmMwYzNKN0VvcTZTZVRPYnZiWDl6Z0hQTXByZU84Z090WnV0T1NvamQ1OHp0ME5PYUZuRA?oc=5
+- 【メール募集中】関根勤・関根麻里の親子で担当！身近なワンちゃんが抱えているお悩みやワンちゃん目線での相談を募集します！ | ワンてこった！ちょっと聞いてよ！ワンでも相談所～！！｜クレデリオ錠 presents コラボレートニッポン | オールナイトニッポン.com ニッポン放送 - allnightnippon.com
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXZwRDVoaGhzUjZJYkRIbGdxYXJKWUphZ2pPWllUeHF3eG5rOS1xTFRPMERqeHh2RHM4TGt1NFdkZEdzSGI2RTVTb1BzM1JvWG96WHFGUXpDU25MR0xxbnNlSjNqODQyeVMwZlJaYXlHb1I1MUdUOUpjMHlzMWJJanpFeUNFNXFmaDg0dQ?oc=5
 
