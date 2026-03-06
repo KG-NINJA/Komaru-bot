@@ -1,7 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-06 20:05) ===
-
-- 女性の仕事の悩みAIが可視化 “相談のしにくさ”解決へ - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EZ0FjelZRNldIRjNwMFBsaU5HWE5MNVZzQzFEblNwTTA1YnhlTHREcVNYYUJUSktvQ2I0cnNjNWdSNVB6WDBwSy1SQkt6UQ?oc=5
+=== こまる相談 ニュースフィード (2026-03-06 21:05) ===
 
 - （悩みのるつぼ）プロフェッショナルになりたい - 朝日新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CRDhCeEh3MklKeWIzdTl3M2JFTkxWUnN5R2lWRnI4UVFrMnNWWDRyUWRkZDRYZ0RWeUlZV0ttRjExSm5pUHNSWXBpWEFQa21hWVVWSzA1OFNsVHp5?oc=5
@@ -9,23 +6,26 @@
 - 「電話を取る人が足りない」 心の悩み相談受ける“いのちの電話” 相談員確保に課題（ＯＡＢ大分朝日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTnhKbEJRNkt2d1RRZXJLNkFvS3Q4eHNlZlhyV3c5bmRkZWVOSUVBcmNVZ00wdUt2UzVBSXNXYW1oTWRWWHNlSVBBNUtIU0lpWXpKdjBaVUREN2R4bThyQjdnWU1FYVU1ajBtSHhSRjJla2xFQU1sTWV2MjVFblU?oc=5
 
-- 【福山地区会館開催】市民講座『相続で「困らないため」と「困ったとき」』 - 広島弁護士会
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LeTdtTTgwS1hlY0hLdGlIcUxfRExOa3lEdGdTUi1FT09YV05GbUFyZFJGeDVOd3E3M2Z0R3U0ay04XzZ0WkxHLUxBaXlyMlVWNmJ3WA?oc=5
+- 女性の仕事の悩みAIが可視化 “相談のしにくさ”解決へ - FNNプライムオンライン
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EZ0FjelZRNldIRjNwMFBsaU5HWE5MNVZzQzFEblNwTTA1YnhlTHREcVNYYUJUSktvQ2I0cnNjNWdSNVB6WDBwSy1SQkt6UQ?oc=5
 
 - 【相談対応Q＆A】図書館の本をなくしてしまった - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mWW5tRG1yZ1ZWUGNyRHFDSXhXckFjS1hoaENRbndEdUZDRkNtbUkzc3YtSnZqWEZZaWV6NlA1TVl0eEtSV3pLckYwTU5WN1ZqU3lFdGFCZnFBYVdYd2taOS1INUZYdw?oc=5
 
-- 千葉県、中小事業者向け相談窓口開設 中東情勢緊張受け - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1DZ2FkSm83SjhDNEloOHBJZUFzZWVFd3ZVSTN4YnpHWWdFaVdVblFkZm5GWE9WZ0NwenlYc3JFMzlCYTN4MjY3a0JqTUMySWlKbkxQNDNEczFaa1Q5d0lBeWg1eXVKMWlnX09WNg?oc=5
+- 【福山地区会館開催】市民講座『相続で「困らないため」と「困ったとき」』 - 広島弁護士会
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LeTdtTTgwS1hlY0hLdGlIcUxfRExOa3lEdGdTUi1FT09YV05GbUFyZFJGeDVOd3E3M2Z0R3U0ay04XzZ0WkxHLUxBaXlyMlVWNmJ3WA?oc=5
 
 - 信ヨビ説明会＆個別相談会実施 信学会信州予備学校 - 市民タイムス
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ib01tMVpJb1RaN2E4WVVXNm93Zk1VOEFGT3dpR21yak1iSWtNaEJxS1pCTHBST2ZMcHdYbmcyWVF3YTFDVndXbXJKZEhXWG1LZUVXaXRDaHVZaTlOTWIwcF9Sdw?oc=5
 
-- 孤独な女性救いたい カフェで相談気軽に／十和田｜青森ニュース - 東奥日報社
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwWEUwZXpSc0tCNGY3akxIcExKMXVMd2gwM3FuczJDMmdLdllIeGMySEw1dm42SmhYMTFmU0ptaFpLcXRBQTdaTERaQ2Vrd1JPamMtSEZ2SFU?oc=5
+- 千葉県、中小事業者向け相談窓口開設 中東情勢緊張受け - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1DZ2FkSm83SjhDNEloOHBJZUFzZWVFd3ZVSTN4YnpHWWdFaVdVblFkZm5GWE9WZ0NwenlYc3JFMzlCYTN4MjY3a0JqTUMySWlKbkxQNDNEczFaa1Q5d0lBeWg1eXVKMWlnX09WNg?oc=5
 
 - 第5回 「お金を借りる場所」から「商売の相談相手」へ －２－ - nikkinonline.com
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wOFAyWGVxU19uanlZQXEzMk9zY01iS0ktUzhkU2RDNmp2TEU1VEduZTVoSERxZU00UnN4M19MQXVtNElEcTNHdThoYnNKRUszUkhFcEFn?oc=5
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpcFNHSUl3NzdBMmpjcEtDODJScFd1WDZXenhISnVxUmJpdHFHOWVJMDZfdHBob242R2JlLXluQUthZVFjX2ZYd0JPUzNIbFVVcThPZUIydlpHaVhDcjZ5Rw?oc=5
+
+- 孤独な女性救いたい カフェで相談気軽に／十和田｜青森ニュース - 東奥日報社
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwWEUwZXpSc0tCNGY3akxIcExKMXVMd2gwM3FuczJDMmdLdllIeGMySEw1dm42SmhYMTFmU0ptaFpLcXRBQTdaTERaQ2Vrd1JPamMtSEZ2SFU?oc=5
 
 - くらしの情報（2026年4月の無料相談日程） - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lNTFSR1hjdENtd3ZDeXg3U2hCckpRNHhhakJyVnB3SGs0WUVfMEVjR3R0VEFNcHY3SW0wSGNWRnh1Zkl5YUEwSS1PZzI0Q2FMQWIwb1VLVW1HT25yRjFra3Y4aFQtZVcw?oc=5
@@ -42,17 +42,17 @@
 - 困ったときの心の寄りどころ 大阪の頼れる住職たち（其の一） - 週刊大阪日日新聞
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE85dnpjM0RCU0ZFNnd1TWxzUUZQU3JmM0pZZVFpczJhSmNxXzlWd0lZTnpOVGgxS05RQUxtRk45ZjJlcjBUT2cwMTllTFM0cWRVc3BIREJpcUI?oc=5
 
-- AIが「心の相談相手」になるとき──聞いてもらいたい欲求とテクノロジー - Forbes JAPAN
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE85VkxPcmxnc2FOQ0w0U0NEWThRVjFDNlh0NkRLdTNPZnRDNk5tMkUzc19DUUxDZDBYS25Rel9UMXVXLV96YWRGNUNWNjZXcTFLSkhOeUNaWDQ?oc=5
-
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
+- AIが「心の相談相手」になるとき──聞いてもらいたい欲求とテクノロジー - Forbes JAPAN
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE85VkxPcmxnc2FOQ0w0U0NEWThRVjFDNlh0NkRLdTNPZnRDNk5tMkUzc19DUUxDZDBYS25Rel9UMXVXLV96YWRGNUNWNjZXcTFLSkhOeUNaWDQ?oc=5
+
+- もしも自分や身近な人が悩みを抱えたら？知っておきたい、「相談」の大切さ - 47NEWS
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lVkhKQXVjdFJkWHJJVEFoT3Jpb3N5MlA2ZGEzZHlHNFF0bE1FWk9ZdVlGRVNjNE5FQVR5OXhyeGs2UFg3VTJPc0R6enpQaGFrT0hFcQ?oc=5
+
 - アテニア「スキンクリアクレンズオイル」から新作 大人の毛穴悩みにアプローチ - fashionsnap.com
   https://news.google.com/rss/articles/CBMie0FVX3lxTFBiYURUeDVaazhJZXB2cE85S1JMcktMR0o4dkFIVDJ0aGFEZEtQN282UU9USTFKdEN5OE9sZXNCcW5URkUxNENOdFhrTmd1UUZhT0Vqa2Q1S20wS2FENDhrU3NXbFBoMHhQMGh2dzRMN0dIQ3o4SklSdGJ1RQ?oc=5
-
-- 女性の仕事の悩みAIが可視化 “相談のしにくさ”解決へ - au Webポータル
-  https://news.google.com/rss/articles/CBMie0FVX3lxTE5XcHZLRTdtRXFwZzRTQXRXWWJkMGZDRFR3QjZ2dF9GckJrMk1XeVM1bTZGY3JnTHBQZlgzakdxZ1RsOUxlajZMTm95Uk9xUFNjZ2RyVUVQSzhDenhOVW40UG1SUTVFSzl0M2RmUXVxZVBJb19rZXNHeW9Qaw?oc=5
 
 - あなたの悩みはなんですか？あやかしの商店街に誘われる、心の不安定な人間たちの物語（コミックナタリー） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE84SjY3UGhJRUQxbmVEZ1pCb19QT0ZjY0h4bTkwVkFZN3NlTWcxeHIwNTVUZjI1Wmk0UEJkRTdrOUFnSXp6dmwwaklRQnFhMFliWHhKNTVPR01XSVhUam1SbVJzWHNlREY5QzZjZUpnS0diWUxvTHpZSVh3NVYyX2c?oc=5
