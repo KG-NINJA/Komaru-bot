@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-06 21:05) ===
+=== こまる相談 ニュースフィード (2026-03-06 22:04) ===
 
 - （悩みのるつぼ）プロフェッショナルになりたい - 朝日新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CRDhCeEh3MklKeWIzdTl3M2JFTkxWUnN5R2lWRnI4UVFrMnNWWDRyUWRkZDRYZ0RWeUlZV0ttRjExSm5pUHNSWXBpWEFQa21hWVVWSzA1OFNsVHp5?oc=5
@@ -9,6 +9,9 @@
 - 女性の仕事の悩みAIが可視化 “相談のしにくさ”解決へ - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EZ0FjelZRNldIRjNwMFBsaU5HWE5MNVZzQzFEblNwTTA1YnhlTHREcVNYYUJUSktvQ2I0cnNjNWdSNVB6WDBwSy1SQkt6UQ?oc=5
 
+- 千葉県、中小事業者向け相談窓口開設 中東情勢緊張受け - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1DZ2FkSm83SjhDNEloOHBJZUFzZWVFd3ZVSTN4YnpHWWdFaVdVblFkZm5GWE9WZ0NwenlYc3JFMzlCYTN4MjY3a0JqTUMySWlKbkxQNDNEczFaa1Q5d0lBeWg1eXVKMWlnX09WNg?oc=5
+
 - 【相談対応Q＆A】図書館の本をなくしてしまった - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mWW5tRG1yZ1ZWUGNyRHFDSXhXckFjS1hoaENRbndEdUZDRkNtbUkzc3YtSnZqWEZZaWV6NlA1TVl0eEtSV3pLckYwTU5WN1ZqU3lFdGFCZnFBYVdYd2taOS1INUZYdw?oc=5
 
@@ -17,9 +20,6 @@
 
 - 信ヨビ説明会＆個別相談会実施 信学会信州予備学校 - 市民タイムス
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ib01tMVpJb1RaN2E4WVVXNm93Zk1VOEFGT3dpR21yak1iSWtNaEJxS1pCTHBST2ZMcHdYbmcyWVF3YTFDVndXbXJKZEhXWG1LZUVXaXRDaHVZaTlOTWIwcF9Sdw?oc=5
-
-- 千葉県、中小事業者向け相談窓口開設 中東情勢緊張受け - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1DZ2FkSm83SjhDNEloOHBJZUFzZWVFd3ZVSTN4YnpHWWdFaVdVblFkZm5GWE9WZ0NwenlYc3JFMzlCYTN4MjY3a0JqTUMySWlKbkxQNDNEczFaa1Q5d0lBeWg1eXVKMWlnX09WNg?oc=5
 
 - 第5回 「お金を借りる場所」から「商売の相談相手」へ －２－ - nikkinonline.com
   https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpcFNHSUl3NzdBMmpjcEtDODJScFd1WDZXenhISnVxUmJpdHFHOWVJMDZfdHBob242R2JlLXluQUthZVFjX2ZYd0JPUzNIbFVVcThPZUIydlpHaVhDcjZ5Rw?oc=5
@@ -39,11 +39,11 @@
 - 住宅の悩みや欲しい情報…専門家がお答えします 上越市で3月7、8日にｉｅｎｏｍａフェア開催 - 新潟日報
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LSmo1N0k1Z3lXM29ZaTVBbkpleTZWcjJ5bzdCc25QUHFLTHQzRDhoSktVWklTVmUtTElhWEFicVppc0VhQVc0QXo4RkRrbEVPalN1ZEptU3Zkc3BIMHc?oc=5
 
-- 困ったときの心の寄りどころ 大阪の頼れる住職たち（其の一） - 週刊大阪日日新聞
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE85dnpjM0RCU0ZFNnd1TWxzUUZQU3JmM0pZZVFpczJhSmNxXzlWd0lZTnpOVGgxS05RQUxtRk45ZjJlcjBUT2cwMTllTFM0cWRVc3BIREJpcUI?oc=5
-
 - 生活相談などの相談窓口一覧 - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
+
+- 困ったときの心の寄りどころ 大阪の頼れる住職たち（其の一） - 週刊大阪日日新聞
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE85dnpjM0RCU0ZFNnd1TWxzUUZQU3JmM0pZZVFpczJhSmNxXzlWd0lZTnpOVGgxS05RQUxtRk45ZjJlcjBUT2cwMTllTFM0cWRVc3BIREJpcUI?oc=5
 
 - AIが「心の相談相手」になるとき──聞いてもらいたい欲求とテクノロジー - Forbes JAPAN
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE85VkxPcmxnc2FOQ0w0U0NEWThRVjFDNlh0NkRLdTNPZnRDNk5tMkUzc19DUUxDZDBYS25Rel9UMXVXLV96YWRGNUNWNjZXcTFLSkhOeUNaWDQ?oc=5
