@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-09 19:15) ===
+=== こまる相談 ニュースフィード (2026-03-09 20:05) ===
 
 - 大人気特番がついにレギュラー化決定！ MCかまいたちで贈る、悩める人々のための情報バラエティーがスタート！ 超速60秒でお悩みをサクサクッと解決！ - fujitv.co.jp
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QWhNemNrVlphZ0Y5djNsZVJETFdYQVUydlJBR3ZFX0FIcnpmMWJGeXlFY2NZaXRCcllKcE40V3l6b3N3bG5OazdvbC1MR1V6N01VdG8xd3dlbWxwU293?oc=5
@@ -9,14 +9,17 @@
 - 北海道初、札幌市が傾聴AIを活用した悩み相談窓口の実証実験を始動 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE96MGI4Qlo0VkJ1V2IzbkhPYzBxRThiZzJGNTQ4UHZuWXhJNTdJN0dUOU9mVUg5ZVNKVmZWMWx0a0VkMWM4LVRBa1hKTk01YkQ1akpPUDJ6NWMxenE5QUVqc0hVQnZGbFZKU0E?oc=5
 
-- 外国人材採用マッチング相談会を3月12日に開催 - J-Net21[中小企業ビジネス支援サイト]
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hdGFsdUJqS1BJOFRmcjNseF9VNjB2LWo1MEhFZ1BlSkh5SlNYbDBGZXpqSFBud0M4QVJrYkdYaFdvdFhFVldxbVNNblRQdDJYbmRSTTFqT09yVGVMYUc2N0lNaw?oc=5
-
 - 【中区】保育所・幼稚園等について相談したい（保育・教育コンシェルジュ） - 横浜市
   https://news.google.com/rss/articles/CBMifkFVX3lxTFBUMWdQbDVwMXBvOVRfMnBDRlRQcDBXd20yWHVGMl8zNFJuaG8wZXIwcWNMdVlDZHhJRzFBSTRyRDM3VkpQdVVvaGFldjJwRjU2NkkwVVByY0htXzB0b29TbjkzNjJzSlRFRzVJUUVXalJyTFNndG9rSjEtSEVCQQ?oc=5
 
+- 外国人材採用マッチング相談会を3月12日に開催 - J-Net21[中小企業ビジネス支援サイト]
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hdGFsdUJqS1BJOFRmcjNseF9VNjB2LWo1MEhFZ1BlSkh5SlNYbDBGZXpqSFBud0M4QVJrYkdYaFdvdFhFVldxbVNNblRQdDJYbmRSTTFqT09yVGVMYUc2N0lNaw?oc=5
+
 - 対面相談が苦手な人もAIにおまかせ！「AIお悩み相談」札幌市が実証実験スタート“職場や学校の悩み”も24時間匿名で受け付け～専門の相談窓口の紹介も…6月7日まで実施〈北海道札幌市〉 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE4zWFpLVjFVWnhpbDhENTkzUWNRV05YOG45R0JyN041bGlPeG1BNUVrSlcyUzQxblNUalJ3ajJNWjl3SHJxN1R5alE4djNkMnhiWlM2ZXNNdU9paVFVYktSUEIzUEJwaG41bG5RX2YydnlKVGVwR3c1b2J6cFhrWXc?oc=5
+
+- 札幌市AIお悩み相談（実証実験） - 札幌市
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
 
 - 「なんJ語」うますぎAI現る→ワイ、悩み相談を“なんJスレ風”にして救われる：NEWS Weelky Top10 - ITmedia
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1wOWJ6UUJnck92Nm5wcnBXWDNXV2M1VlB4THJDbUVKQ3hkZy1YanpVUm8wRGtLVzc5TUZMbGQ5Y2ZtUXNZNHcwdEhLSVFiUVdPdzhLLUc3c3NiaERFaHlDY1VHc1BxZ1ZIR3Y5WA?oc=5
@@ -24,11 +27,17 @@
 - 3月19日（木曜日）、にいがたＵ・Ｉターンセミナー＆個別相談会（新発田市、十日町市、妙高市）をオンラインで開催します - pref.niigata.lg.jp
   https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDJEeGN5clZMQ0FlNHVOMUpvZXZOOHBoUVdMdlpMU1hNZVFBN3ZwN2EzZUdsN1dJVHZLaTh2LWVxbVhwbll2T0JoYXJyUENqZVpCVXRRaVFtcEllTEttazhOUVJ2X1dCbzJ3S1VwQkp2eUJ3QW8xZVJCdzlBUEszdWhHZ0JtY1lURXdTTkdoRUljZTQ?oc=5
 
+- ミラノ五輪でアンバー・グレンが語った生理の悩み 女子アスリートが避けられない課題 元競泳日本代表の伊藤華英さんに聞く - Deep Edge Plus
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFB6T2M1UHU4M2hncDlGeHhQLWkwaGREaUc1YmFWekxMVGFHR2xRV3daenVxRDBqVXpBcHdRNnVpR3RsODY0dm0xdmZUbWFpdWhSOF9nMkl2LXN6OHkyRkxZX3NUTHZVX2lIN3Bzb081Q0FobUpTUVE?oc=5
+
 - 辻村相談窓口、「あすなろ」 - Design Stories
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQmh0NGwwWWl6WkVNX2FoclVRYjh4UEU4bTNjUGIzSlRyRTdlWnJNZkVMb2lmUmVVTHVkNFRQakd0Y01oNmF0ZGw5OFI2VEhES1ZmTXhtajJiZEVTTlNPYUxpZzNWZw?oc=5
 
-- ミラノ五輪でアンバー・グレンが語った生理の悩み 女子アスリートが避けられない課題 元競泳日本代表の伊藤華英さんに聞く - Deep Edge Plus
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFB6T2M1UHU4M2hncDlGeHhQLWkwaGREaUc1YmFWekxMVGFHR2xRV3daenVxRDBqVXpBcHdRNnVpR3RsODY0dm0xdmZUbWFpdWhSOF9nMkl2LXN6OHkyRkxZX3NUTHZVX2lIN3Bzb081Q0FobUpTUVE?oc=5
+- 市民相談日程 - city.hachinohe.aomori.jp
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkVYMUJOaEt3N0x2X0x4c0pvSi1IUDRxREZUbTN1Sk5Yak5Xd0pxaU9NNUZTMVhrVnAxOE1raEJUVm9wOXdJcHd0ajFMc1h6ZjA1bVZsTjRSRlN4ZjFpTEFBYktxcEFCNlBWaUNZSHU3QkRIT0xQZVdKOVM4YXU5T1kwZFVkNHYwbTNOV3VIZWRPcFFRa0Y2VFZ2T3h6Q3FnMlRrMFVxTjlNS3hIcE9wVw?oc=5
+
+- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
 - 「女性にもっと優しくしようと思った」男性も生理痛や妊婦の苦労を“痛感” 女性特有の悩みに寄り添う 国際女性デーにあわせて催し 福岡 - 福岡TNCニュース
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiZ2F5NE1lRkFBME1WWEtoV29zMVNpNVdfUFdJVVlXdEs4clUwTWF5MUdZSjYtMDNkV0ZRVk5WbDl2TV9rRURaRUFLWUdobHBwZGZJemVqclZsTkt5TmpyY1owOA?oc=5
@@ -36,27 +45,18 @@
 - かまいたちMCの新番組『かまいたちの瞬間回答！ ～60秒でお悩み解決～』4月スタート! - Fany Magazine
   https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFY2NQQmQ0SkRsSG1jellfa21hT1VUZGM2TGs5dlJfdGhGa0RnSEVneXdVcy0wSlU1eU96S1pScjFqY2ZCZE1qTw?oc=5
 
-- 移住相談は「福井暮らすはたらくサポートセンター」へ！　毎月第2・第4金曜には東京・銀座で参加費無料の「福井県定例移住相談会」も開催【福井県】 - ｄメニューニュース
-  https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2s4X3h4NmtTM2VtVUZKV2QySUV2Uk9TdUlZdHZrb0FXOWo1MUtjTC1aT2hHcXB5N1BST3B4WUk0dzAzeHdOWUxaMW9fV0VmOHVIZklqWmlpQkhjUXl1M3Y5Uk1fb3R0Zk9uSy12MU5qSWwyNHdsaU5PRWF1V3NVVjJMME5HeGJrUnfSAY8BQVVfeXFMTjM3bjFfYlpNYUFLNkp3ZFVnNUlzZjY3TnpzcHZGNUhNaWJUUjdERnpWa1JTYXgtWnpxNkNmejQ3NTZrVHJIT1Rqb2w3bmh6Z29tUTNjYko2SVh2ejBSbkJxaFpBVXV6Vk90ZlBzaFBDX3phVDRJeFA3NXV0SXpHWDVDVEFXcm0yc2tBN2kyWlU?oc=5
-
 - 【3月19日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
-
-- 夫婦のお悩みに、お悩みドロップキック！？ - AuDee
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oVDR3eFlpUjhCbGMtU3E3LUR6am1VaFBOZTlRbmVYNm1pNXpvc0tnS09hOUpOamVTZFoyY2U5NUd2U2dSTEZsc0NB?oc=5
 
 - 佐藤健 お悩み相談に真剣回答「その先の人間をちゃんと想像できるか」 SNSとの付き合い方を語る（日テレNEWS NNN） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5MU0JkNjRmVTAwYmVQQ3ZJd21oNWNXcFA2Q01XWnpDWHJPMTU1cFRXRE5CbExOVk5QSGo0M3p2TmRXLUt0a0JORjJKelRDUUZVaVp3QVNpVmc0ODdySFc1Y2x5QVFzNHI5aWUwU3VLN1lDbERhOXdQM3pZbEtCWEE?oc=5
 
-- 【3/19】海外ビジネスセミナー＆個別相談会「海外展示会で『成果につなげる』商談の進め方と注意点」 - スタートアップポートヨコハマ
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jeFJfeEFPXzFFclU4QWhzLWs2S2hlRGV6aWRGeGU0R0U1MXQ1VmJ3X3NYS3hKVUh5QUszeEtlRXgyRy1DeFV5Ukk1eEt2OGVUaFhVZ0duS0w4eW8xbVcyYlVYTmRDbEk?oc=5
-
 - 「広さは満足だけど、床がツルツル……」お部屋の悩み、プロが手を加えると…… ホテルのような仕上がりに「過去イチ好きな部屋」「憧れすぎる！」（ねとらぼ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE43ZHJXam0xZ0ZrODlKUUxHNm9ULTAyMGtWYXZyMk9DWmFXZmNrd2RQblFRRDVVSDBTN1VUMDl0S19rVTJ2LXF3NjRyeHZpaklNQ1lvakN2Z3dpYk1DVE1Ma0IycXVHY3R6eDVpY3FjX0h5RTh0dUFaWktoVGRGVmc?oc=5
 
-- 生徒間の性暴力など27件 千葉県教委に相談・報告 25年度（毎日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM29MNlhnT3p6OTdVX2NMZzRSNV9zTFBoR05qZ2V4YVQ5TlE5SUI5SzY3V0t0U2hCdndlSzNPcHl2UEhHcnpiZVN1R0h0RHdYUDJNMWIxRHhjakNJUDJZekM3NEZ3Q1gzUGpGQnhvQnlST0V3UmNkeXBrYUs2SGs?oc=5
-
 - 佐藤健 新ＣＭでラジオパーソナリティーに 悩み相談で回答も「トーク力のなさを痛感」（デイリースポーツ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1VQW41ZV9lQ3dPTWVjZjN5QWJBS2pWZlVOV2FvYmhOTnl5YVZXd0dMdktGcllrT1FUcEFOZ2NsakFTc081WV8zdkhXaDdERTlyNWZFWktody0xQk8yWkhCR3lCUDRjU3dDbHZIRzYwd2NUOWU4OU5UWG9FNGJyU0E?oc=5
+
+- 生徒間の性暴力など27件 千葉県教委に相談・報告 25年度（毎日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM29MNlhnT3p6OTdVX2NMZzRSNV9zTFBoR05qZ2V4YVQ5TlE5SUI5SzY3V0t0U2hCdndlSzNPcHl2UEhHcnpiZVN1R0h0RHdYUDJNMWIxRHhjakNJUDJZekM3NEZ3Q1gzUGpGQnhvQnlST0V3UmNkeXBrYUs2SGs?oc=5
 
