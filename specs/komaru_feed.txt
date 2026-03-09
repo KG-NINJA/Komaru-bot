@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-09 03:51) ===
+=== こまる相談 ニュースフィード (2026-03-09 04:34) ===
 
 - 辻村相談窓口、「あすなろ」 - Design Stories
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQmh0NGwwWWl6WkVNX2FoclVRYjh4UEU4bTNjUGIzSlRyRTdlWnJNZkVMb2lmUmVVTHVkNFRQakd0Y01oNmF0ZGw5OFI2VEhES1ZmTXhtajJiZEVTTlNPYUxpZzNWZw?oc=5
@@ -21,6 +21,9 @@
 - うんなんコミュニティ財団、遺贈寄付の相談・受け付けを本格スタート（みんなの経済新聞ネットワーク） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE42Vm9ULWVyZ1Q1UjhTMDRLaFJfRmpTemRSa2RMUEN6T3NTbllPUUM4elRWc1lKNVA2Q0NYUnVsOWxtUm9LcUM1Q0pwQ01CRnEtWmVFUnFnRmQ4cElueXcwR0JWWnhlSG50bklHRmpTNmJwWWRfdW1RVHF2aC1aVG8?oc=5
 
+- 大人気特番がついにレギュラー化決定！ MCかまいたちで贈る、悩める人々のための情報バラエティーがスタート！ 超速60秒でお悩みをサクサクッと解決！ - fujitv.co.jp
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QWhNemNrVlphZ0Y5djNsZVJETFdYQVUydlJBR3ZFX0FIcnpmMWJGeXlFY2NZaXRCcllKcE40V3l6b3N3bG5OazdvbC1MR1V6N01VdG8xd3dlbWxwU293?oc=5
+
 - 医療法人設立 個別相談会2026 開催のお知らせ［4月：新宿・横浜・大宮］｜お知らせ・ニュース - 辻・本郷 税理士法人
   https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZV2h0VzUtbXF5SmRLQURUTVZfRVdiNlFFcF9hWktwcVBjcExNOEZPVTlQUGpqckJNc01rQ05XV1k5R2kzWUV0WFNXWnpfbE5o?oc=5
 
@@ -42,11 +45,8 @@
 - 教えて清水先生！！住まいの相談室 ーマンションの価格は下がることはないの？（第3回：住宅は投資なのか、それとも生活なのか）｜PropTech-Lab - Newscast.jp
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TX1lEVWpJU2NaY1J6X0ZPdDg3YVBzSW1SczdmRV9sc2llaDVVWEp2SHJhaWhpTkZFY0R3R0l2azdUWEhmRG5hNm1LMDdhVXM?oc=5
 
-- 小籔千豊「それを見失っている」、妻の昇進に悩む夫の悩み相談に辛口助言【芸能動画】 - khb東日本放送
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zUUV5b0dJTmwxeWRQclIydDh2Yy1YVHlLdl9xOTdvdHhIbGJzeThNQUNOaTlzU0FmbHVvTlNQYXJSOG4wU0tkclVVSllBSEU?oc=5
-
-- くらしの情報（2026年4月の無料相談日程） - city.maizuru.kyoto.jp
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lNTFSR1hjdENtd3ZDeXg3U2hCckpRNHhhakJyVnB3SGs0WUVfMEVjR3R0VEFNcHY3SW0wSGNWRnh1Zkl5YUEwSS1PZzI0Q2FMQWIwb1VLVW1HT25yRjFra3Y4aFQtZVcw?oc=5
+- 【冷え込みも小雨も対応】春の釣り、悩みがちなウェア選びにこの一着。シマノ新作「バリアパンツ」 - lurenewsr.com
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE12MjVkMjBaUUNQQmc2MUlQeDB0ekJ6SHJNSGNwaFFGdXBqczhSSnQwckRqc2lkbWJua3J4QmIwMF9YTU5RcU5zdg?oc=5
 
 - 中東情勢の緊迫化を懸念 千葉県・千葉市が金融・経営など中小企業の相談窓口設置（チバテレ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBiWmdVcWtEWjRoU0hDRTl6MjljdHZqSG9JUkxJMXJ0U3A3YVltT196XzhVR0tUZ3o0c1owZ2NfZ0pvak0xRjhXSEV1Zkh5aUNHRVlyWnp1WFE2Mi0tamZBZVd5dW5JMERNcWZUbXpPbmIwSFRfMXdNOXpCRmtudkk?oc=5
@@ -54,9 +54,9 @@
 - 【3/19】海外ビジネスセミナー＆個別相談会「海外展示会で『成果につなげる』商談の進め方と注意点」 - スタートアップポートヨコハマ
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jeFJfeEFPXzFFclU4QWhzLWs2S2hlRGV6aWRGeGU0R0U1MXQ1VmJ3X3NYS3hKVUh5QUszeEtlRXgyRy1DeFV5Ukk1eEt2OGVUaFhVZ0duS0w4eW8xbVcyYlVYTmRDbEk?oc=5
 
-- 大人の髪悩み。エディターが本気で選んだ、頼れるヘアケアアイテム！【Marisol編集部の“トリコ”】 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUmNGbE51SVVHcnBZNXAtc19YcU5kT29Dak1IM3VaUC1qcXZqREZXUHBFNkcybGJJQ1FzV0UzSGo3Znlzb1l6Nl96SkVEdW5RTTRfS0dUb0l3aHY5b0UwdG9QYjV2T29NUDYwcmVuWXU2bXI0QjRPc0FqbmJTZHM?oc=5
-
 - 孤独死予備軍のリアル〉「結婚相談所に入れる層は婚活優等生」なぜこんなに結婚は難しくなったのか「年収200万円でも、独身でも人生は笑えるけど…」（集英社オンライン - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA4WW5tMTVZQ3VscWdoRG44SlJQVEZoTGxtMGpNNVkzdE8ydzQ2a214TkRCQWcwUDVnNE5EVE5qZVpjQ2VseE1NeUdTa2JwTFlqYWRKTlBlb3pNb0dEdVNNYjMwQ25pREdoZk8zWjhzUzNzeUtDTTBMQnhOMm1EWnc?oc=5
+
+- 大人の髪悩み。エディターが本気で選んだ、頼れるヘアケアアイテム！【Marisol編集部の“トリコ”】 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUmNGbE51SVVHcnBZNXAtc19YcU5kT29Dak1IM3VaUC1qcXZqREZXUHBFNkcybGJJQ1FzV0UzSGo3Znlzb1l6Nl96SkVEdW5RTTRfS0dUb0l3aHY5b0UwdG9QYjV2T29NUDYwcmVuWXU2bXI0QjRPc0FqbmJTZHM?oc=5
 
