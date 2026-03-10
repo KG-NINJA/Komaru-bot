@@ -1,7 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-10 10:11) ===
-
-- 予約制による納付相談夜間窓口を開設します(5月) - city.kikuchi.lg.jp
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE5CY2lfdXRBUzhLUnl6cmpEcFBRMk0zTU54OFBVa3NXTVZFbnMycXc0YS1GZUZuRDdLdjNoYlpneHhrdkxpS05QRHlTNlRQazJlV2JUQjMtcW9kWjhzX1BORHVhYUQ3NVdqemhZ?oc=5
+=== こまる相談 ニュースフィード (2026-03-10 11:10) ===
 
 - さいたま市、悩み相談に生成AI活用 24時間受け付け - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9ORGstbHIzT2ZEQkpPOUx4dFhseDN2Njdla3BERDBVZmtoaEl1V3F2ajRYbl90N0lXZ1AzWFRnbnZlRExJcENmV3BWdFBsbVlXWmxoRlF0OXdYdjM3UlVVUDNIejl4aW44bWNVSQ?oc=5
@@ -18,14 +15,14 @@
 - イベント情報 - 国立大学法人 電気通信大学
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sLXVpb282dXVGZXRLN1N5SUFzdUpBeWlxamtZV2NDU05ucTY3b3otaW5sbU1vOUw2alRnZG53cjFDMDZVM2ZGQmtNVmtwX0VqYVN3TWt3NlgwZU1UbTFiRWhOWXdLSW8?oc=5
 
-- 窓口専門家スケジュールを掲載しました（２０２６．４月） - 仙台商工会議所
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sbHVuX3NnNnZiQTg1SGRwMXV4elB1N3lTem9iaTkyNnJ6T2NKbW9abGlwX0dVeWd1NDFpRmhvQWlhdTJsSDZBUHpQY3lIaDZyMml3c2RxMkZJNjlabTZ2dklqOWo?oc=5
-
 - 【中区】保育所・幼稚園等について相談したい（保育・教育コンシェルジュ） - 横浜市
   https://news.google.com/rss/articles/CBMifkFVX3lxTFBUMWdQbDVwMXBvOVRfMnBDRlRQcDBXd20yWHVGMl8zNFJuaG8wZXIwcWNMdVlDZHhJRzFBSTRyRDM3VkpQdVVvaGFldjJwRjU2NkkwVVByY0htXzB0b29TbjkzNjJzSlRFRzVJUUVXalJyTFNndG9rSjEtSEVCQQ?oc=5
 
-- PFAS相談窓口 沖縄県が2026年度設置へ 看護師らが助言、健康不安に対応 - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kQ3VDS2VHODF2VU41dEJvOUMwYmZKSmNfd1NzaW9EX0NJeXFGSmVSMk9YOUxYcXc2X0h0OGxSdi1iZmdERjZoZlpVQVBJUHpmQlNwWUM5bm9kalhMYnc?oc=5
+- 窓口専門家スケジュールを掲載しました（２０２６．４月） - 仙台商工会議所
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sbHVuX3NnNnZiQTg1SGRwMXV4elB1N3lTem9iaTkyNnJ6T2NKbW9abGlwX0dVeWd1NDFpRmhvQWlhdTJsSDZBUHpQY3lIaDZyMml3c2RxMkZJNjlabTZ2dklqOWo?oc=5
+
+- 岡山市、里親の不安・悩みに対応 支援員配置 家庭訪問や電話相談 - 山陽新聞
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wczNDUDJyR0lSU2NHNm5lc3VXamN0SEx3YzZkNzZqbXd4OW42UnU1eEQzMkkzWjJfOUE5dGhHUm56dm5jZ3Q0c3kwTHdPQzQ5Ync?oc=5
 
 - 「スポーツチケットを返してくれない」自ら警察に相談し発覚！交際相手をLINEで脅迫した疑い、29歳男を逮捕 - HTB北海道テレビ
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rMzVuYjBoLTNOdC1OcFNfTk80V1ZkM3dpUXZkN2lja2QxOFFrRlVtLUIxVGczZHNja0gxY29kT1lkZzU1WmJZRWF6RW5UMXZfN3lQeXk2MldLZw?oc=5
@@ -39,14 +36,14 @@
 - 東三河県庁推進のフェムテック商品完成報告会 女性特有の悩みを製品やサービスで解決へ - 東愛知新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMa0F3R2FSTnZrX0t4ZG1vQzNqZ2RQYXUtVWlPdThuYWM1YUtWMUxfVG9aSVd3akx4SW5hNnVSSjRFZVI3bmJXQ2FPM2NpYkJ4TWlDSDB0OFREbWpj?oc=5
 
-- 【スウェーデンハウス】オンライン相談会開催のお知らせ - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zUmE3c1gxVk91SHhxbFNXRmE1WTl0VWwwYlRqZTM1TEVMWUc1WHVLQUNXaVY3T0JoOHY5clVoNGRCQkU5YmtzZHBHNlcxbXJWa0Mybnc5TDhlbVJUT1RzdllyR2U?oc=5
-
-- ＜東日本大震災＞痛み分かち合う15年 被災者に寄り添った生活支援相談員に区切り #知り続ける - 福祉新聞Web
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE95OVpQSGJNSFBXMmRoQUtkYXkwZEVfSGM3SzhZY1ZLS3VENWs0UmdaMDQ4RVdXdnhETHVsZVdVd3BXMWxQa281dENtY2xqXzZlT0FKbXY4ZUY?oc=5
+- PFAS相談窓口 沖縄県が2026年度設置へ 看護師らが助言、健康不安に対応 - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kQ3VDS2VHODF2VU41dEJvOUMwYmZKSmNfd1NzaW9EX0NJeXFGSmVSMk9YOUxYcXc2X0h0OGxSdi1iZmdERjZoZlpVQVBJUHpmQlNwWUM5bm9kalhMYnc?oc=5
 
 - 非正規公務員の労働相談、ハラスメントが最多 雇い止めなど重複 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rbUJ3Vmo3NVFrLWNIdi16TXBCY1pwcENrSml1aWNBRDd0Q3lMZmVhU3VoRnlJa2pYMG1na1p2Y09BVlVycE1zOVBUOVNacVdkV1hGYWlzLTFadkRPS0VTVzJtSHItVWJa?oc=5
+
+- 【スウェーデンハウス】オンライン相談会開催のお知らせ - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zUmE3c1gxVk91SHhxbFNXRmE1WTl0VWwwYlRqZTM1TEVMWUc1WHVLQUNXaVY3T0JoOHY5clVoNGRCQkU5YmtzZHBHNlcxbXJWa0Mybnc5TDhlbVJUT1RzdllyR2U?oc=5
 
 - エスエス製薬が「AIメンター」、女性のキャリア相談を6人のキャラが指南 - 日経クロステック
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XXzR2SDZjR2tZaV9uUV9uTE9XV29iUDRZa00tTFhkMGRjbDBVSjJYYkNqdUJTVU15QjV2c0pROEwxbDBVcnBHQ0FlN2d4b3owcGdHYm04c3U5ZFBMY01yd0RTeGxHTEE?oc=5
@@ -59,4 +56,7 @@
 
 - 仙台いのちの電話、24時間体制維持へ相談員募集 高齢化進み震災直後から3割超減少（河北新報） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9fZmRlNW9wREFrWFdvMzRtSDVPNWNGSmwtLTJfcUROT0tlSUJydUhuVy1wNzQxMW4tTWZ0MHRqUE5QX09IWGo1TU15VkZZUVIzTW13LVZ2OFcxX2xxdkh4WVRGMnBSdUZvLXNLcXNsVmVMV3dmSGRBb2hRRW5VYm8?oc=5
+
+- 「仲間なんだから相談してあげれば…」松井一郎氏が述べた吉村氏への『思うところ』 都構想議論めぐり維新内部で温度差?市議団は「選挙で公約にしていない」 法定協議会設置議案めぐり足踏み?維新内部で起こっていることとは【解説】（MBSニュース） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZWxkcFZYMzhWOEJ4czUxNS00OU1ZSDV0TnlnODItanpnXzZlSGp2bGFoM1NDV0xDY1BMQ3ZzV2FJRk8zS0JlVkt1LUhaNUt2M3E5SV8xSU41TWJtNkRBRFdnMjFqMDVnQVBSS3NOUlRINllkZWtMUmJlVW9WRjQ?oc=5
 
