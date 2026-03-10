@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-10 19:14) ===
+=== こまる相談 ニュースフィード (2026-03-10 20:05) ===
 
 - さいたま市、悩み相談に生成AI活用 24時間受け付け - 日本経済新聞 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9ORGstbHIzT2ZEQkpPOUx4dFhseDN2Njdla3BERDBVZmtoaEl1V3F2ajRYbl90N0lXZ1AzWFRnbnZlRExJcENmV3BWdFBsbVlXWmxoRlF0OXdYdjM3UlVVUDNIejl4aW44bWNVSQ?oc=5
@@ -9,9 +9,6 @@
 - 繁華街に集まる若者のソーシャルワークを担う、相談対応スタッフ募集！精神保健福祉士・社会福祉士の方歓迎！ - 認定NPO法人D×P
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE15NkwtWm5vZmlOZXdHbW1FM09UajdwLXlvNVIwbVNvN1FMdFZnT0xCV09fQUp2dHd2clZkYnEteF9zNGU1NzJnNGJVQ0QzOFdiSlc0R3c0TQ?oc=5
 
-- [みんなのケータイ]確定申告に必要な利用明細が期限切れ？ ちょっと困ったau PAY - ケータイ Watch
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1ES1NKSGlVVnc0NHNZUjNxZE5IeG1Lc3cxSHNQa0xBZG5lNk94ckltbi1STXhaTXBsV1FxZWI0X210ZGVFeFFjMlZQQVdEdDNKaWlUV2xfVUJuU0o0QWUxSVZmSllieFhrV0txZ1VMeThmZw?oc=5
-
 - 【中区】保育所・幼稚園等について相談したい（保育・教育コンシェルジュ） - 横浜市
   https://news.google.com/rss/articles/CBMifkFVX3lxTFBUMWdQbDVwMXBvOVRfMnBDRlRQcDBXd20yWHVGMl8zNFJuaG8wZXIwcWNMdVlDZHhJRzFBSTRyRDM3VkpQdVVvaGFldjJwRjU2NkkwVVByY0htXzB0b29TbjkzNjJzSlRFRzVJUUVXalJyTFNndG9rSjEtSEVCQQ?oc=5
 
@@ -21,14 +18,20 @@
 - 岡山市、里親の不安・悩みに対応 支援員配置 家庭訪問や電話相談 - 山陽新聞
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wczNDUDJyR0lSU2NHNm5lc3VXamN0SEx3YzZkNzZqbXd4OW42UnU1eEQzMkkzWjJfOUE5dGhHUm56dm5jZ3Q0c3kwTHdPQzQ5Ync?oc=5
 
+- NEDO未来展望 イノベーションを社会へ（65）地域に支援・相談窓口設置 - 日刊工業新聞
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpOHQyMncxMWhmQjI3dmVxVm8wSWRBbE4yM0JNSVVoNzYtSS1EUHNBc0VJbHZuS3g4STZDQVpXQlFkZWJibWZFenRKR2o3REEzcThwU3JxcFVQMjA?oc=5
+
 - 相談窓口混雑で19日まで延長 根室市生活支援給付金オンライン申請 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPM1JPM0lmSDBaMk1qd3llS0l0WTh6Z3ZYTEJpcmNIa29tNlp4dF83a2VZUldJeGRXZGlibW52Y3I3WS04MDVUQUxLb1c4MGhRQU1uSnFydzlUZw?oc=5
 
-- 窓口専門家スケジュールを掲載しました（２０２６．４月） - 仙台商工会議所
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sbHVuX3NnNnZiQTg1SGRwMXV4elB1N3lTem9iaTkyNnJ6T2NKbW9abGlwX0dVeWd1NDFpRmhvQWlhdTJsSDZBUHpQY3lIaDZyMml3c2RxMkZJNjlabTZ2dklqOWo?oc=5
+- [みんなのケータイ]確定申告に必要な利用明細が期限切れ？ ちょっと困ったau PAY - ケータイ Watch
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1ES1NKSGlVVnc0NHNZUjNxZE5IeG1Lc3cxSHNQa0xBZG5lNk94ckltbi1STXhaTXBsV1FxZWI0X210ZGVFeFFjMlZQQVdEdDNKaWlUV2xfVUJuU0o0QWUxSVZmSllieFhrV0txZ1VMeThmZw?oc=5
 
 - イベント情報 - 国立大学法人 電気通信大学
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sLXVpb282dXVGZXRLN1N5SUFzdUpBeWlxamtZV2NDU05ucTY3b3otaW5sbU1vOUw2alRnZG53cjFDMDZVM2ZGQmtNVmtwX0VqYVN3TWt3NlgwZU1UbTFiRWhOWXdLSW8?oc=5
+
+- 窓口専門家スケジュールを掲載しました（２０２６．４月） - 仙台商工会議所
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sbHVuX3NnNnZiQTg1SGRwMXV4elB1N3lTem9iaTkyNnJ6T2NKbW9abGlwX0dVeWd1NDFpRmhvQWlhdTJsSDZBUHpQY3lIaDZyMml3c2RxMkZJNjlabTZ2dklqOWo?oc=5
 
 - こども家庭センター会計年度任用職員募集について - city.kai.yamanashi.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1KLW5nU19PLVQzb19RUTE2M2huT2poMWR3VklFMVFuUVo3T24zYjJqaWgtN292anh1Nm5GTmYySHdiOFJiZlhVYk9TcG5ReTYxWGZoekNGYTdEbHZ5VHFtbGZ4ano0aEw4RUE?oc=5
@@ -48,15 +51,12 @@
 - 北海道初、札幌市が傾聴AIを活用した悩み相談窓口の実証実験を始動 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE96MGI4Qlo0VkJ1V2IzbkhPYzBxRThiZzJGNTQ4UHZuWXhJNTdJN0dUOU9mVUg5ZVNKVmZWMWx0a0VkMWM4LVRBa1hKTk01YkQ1akpPUDJ6NWMxenE5QUVqc0hVQnZGbFZKU0E?oc=5
 
-- 東三河県庁推進のフェムテック商品完成報告会 女性特有の悩みを製品やサービスで解決へ - 東愛知新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMa0F3R2FSTnZrX0t4ZG1vQzNqZ2RQYXUtVWlPdThuYWM1YUtWMUxfVG9aSVd3akx4SW5hNnVSSjRFZVI3bmJXQ2FPM2NpYkJ4TWlDSDB0OFREbWpj?oc=5
+- 生活相談などの相談窓口一覧 - city.himi.toyama.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1YR3BtSUx3SC1qLUhoVEVudGRQQm1LWUk3WnNEcVFkcy1LWXV0aU1HYjRNOVNvUks0cU5GeVdrS2hxZWM2RXFTSV9BVldhRTJoOEc0blV1UkpqWWpTOFc2bElOb1o4ZVBiY1ZTVl9hWDVwdXlh?oc=5
 
 - 【防犯カメラ】「修理費は200万」自転車がシャッターを破壊し逃走…家人は警察に相談 ふらついて突っ込むもすぐに立ち去る（山形市）（テレビユー山形） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1PV0x6ekxkUC13Uzhrd1JiR053Y3BJOTdVOE85bzVvTUkzYUIySFVHakJzbU5ybks0TzlpWWRyX3htaldqTHoycGhmOUQtOTROT3JvZVJqanl2SDlzNmtya2FqV0JIRy16TXJSLTVpRXprdGxzb3ZheXZaSlN6R3c?oc=5
 
 - 「仲間なんだから相談してあげれば…」松井一郎氏が述べた吉村氏への『思うところ』 都構想議論めぐり維新内部で温度差?市議団は「選挙で公約にしていない」 法定協議会設置議案めぐり足踏み?維新内部で起こっていることとは【解説】（MBSニュース） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZWxkcFZYMzhWOEJ4czUxNS00OU1ZSDV0TnlnODItanpnXzZlSGp2bGFoM1NDV0xDY1BMQ3ZzV2FJRk8zS0JlVkt1LUhaNUt2M3E5SV8xSU41TWJtNkRBRFdnMjFqMDVnQVBSS3NOUlRINllkZWtMUmJlVW9WRjQ?oc=5
-
-- 仙台いのちの電話、24時間体制維持へ相談員募集 高齢化進み震災直後から3割超減少（河北新報） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9fZmRlNW9wREFrWFdvMzRtSDVPNWNGSmwtLTJfcUROT0tlSUJydUhuVy1wNzQxMW4tTWZ0MHRqUE5QX09IWGo1TU15VkZZUVIzTW13LVZ2OFcxX2xxdkh4WVRGMnBSdUZvLXNLcXNsVmVMV3dmSGRBb2hRRW5VYm8?oc=5
 
