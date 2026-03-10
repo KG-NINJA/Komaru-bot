@@ -1,13 +1,13 @@
-=== こまる相談 ニュースフィード (2026-03-10 18:12) ===
+=== こまる相談 ニュースフィード (2026-03-10 19:14) ===
 
 - さいたま市、悩み相談に生成AI活用 24時間受け付け - 日本経済新聞 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9ORGstbHIzT2ZEQkpPOUx4dFhseDN2Njdla3BERDBVZmtoaEl1V3F2ajRYbl90N0lXZ1AzWFRnbnZlRExJcENmV3BWdFBsbVlXWmxoRlF0OXdYdjM3UlVVUDNIejl4aW44bWNVSQ?oc=5
 
-- 繁華街に集まる若者のソーシャルワークを担う、相談対応スタッフ募集！精神保健福祉士・社会福祉士の方歓迎！ - 認定NPO法人D×P
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE15NkwtWm5vZmlOZXdHbW1FM09UajdwLXlvNVIwbVNvN1FMdFZnT0xCV09fQUp2dHd2clZkYnEteF9zNGU1NzJnNGJVQ0QzOFdiSlc0R3c0TQ?oc=5
-
 - アルカラスに悩みの種「全員がフェデラーのような異次元のレベルで挑んでくる」 逆転で5年連続の16強入り[BNPパリバ・オープン]【テニス】（Tennis Classic） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE96QjViNUJOaENPLXVtdFVDNTUyV20yOExacnU2RXB2bU9JWjgxSElkelBZbkVXR1VrYTcxeE5qaGhvaWJiaVhkb3JoLUdNN3gwWnJad2ZlZ0UwTnhSR2h6VVVUZFZYQWJQYnZ6ODM0bl9Lb2RtLTNzdFVqbEZfNkE?oc=5
+
+- 繁華街に集まる若者のソーシャルワークを担う、相談対応スタッフ募集！精神保健福祉士・社会福祉士の方歓迎！ - 認定NPO法人D×P
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE15NkwtWm5vZmlOZXdHbW1FM09UajdwLXlvNVIwbVNvN1FMdFZnT0xCV09fQUp2dHd2clZkYnEteF9zNGU1NzJnNGJVQ0QzOFdiSlc0R3c0TQ?oc=5
 
 - [みんなのケータイ]確定申告に必要な利用明細が期限切れ？ ちょっと困ったau PAY - ケータイ Watch
   https://news.google.com/rss/articles/CBMickFVX3lxTE1ES1NKSGlVVnc0NHNZUjNxZE5IeG1Lc3cxSHNQa0xBZG5lNk94ckltbi1STXhaTXBsV1FxZWI0X210ZGVFeFFjMlZQQVdEdDNKaWlUV2xfVUJuU0o0QWUxSVZmSllieFhrV0txZ1VMeThmZw?oc=5
@@ -15,17 +15,14 @@
 - 【中区】保育所・幼稚園等について相談したい（保育・教育コンシェルジュ） - 横浜市
   https://news.google.com/rss/articles/CBMifkFVX3lxTFBUMWdQbDVwMXBvOVRfMnBDRlRQcDBXd20yWHVGMl8zNFJuaG8wZXIwcWNMdVlDZHhJRzFBSTRyRDM3VkpQdVVvaGFldjJwRjU2NkkwVVByY0htXzB0b29TbjkzNjJzSlRFRzVJUUVXalJyTFNndG9rSjEtSEVCQQ?oc=5
 
-- 岡山市、里親の不安・悩みに対応 支援員配置 家庭訪問や電話相談 - 山陽新聞
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wczNDUDJyR0lSU2NHNm5lc3VXamN0SEx3YzZkNzZqbXd4OW42UnU1eEQzMkkzWjJfOUE5dGhHUm56dm5jZ3Q0c3kwTHdPQzQ5Ync?oc=5
-
 - 新開設のハラスメント専用窓口に相談7件 県会特別委、条例案は審議継続 - 福井新聞社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mM0pHYlQ5d3dwM3FzcW9rU09PSzNrNWJvckdiT1FxQlJkMWt3aEl2ekVyZG5wU3JKLXExYjgtemp6dEVIMzNRalJlcU90UnVEVzlFcUlGelg1ZkFIRXc?oc=5
 
+- 岡山市、里親の不安・悩みに対応 支援員配置 家庭訪問や電話相談 - 山陽新聞
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wczNDUDJyR0lSU2NHNm5lc3VXamN0SEx3YzZkNzZqbXd4OW42UnU1eEQzMkkzWjJfOUE5dGhHUm56dm5jZ3Q0c3kwTHdPQzQ5Ync?oc=5
+
 - 相談窓口混雑で19日まで延長 根室市生活支援給付金オンライン申請 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPM1JPM0lmSDBaMk1qd3llS0l0WTh6Z3ZYTEJpcmNIa29tNlp4dF83a2VZUldJeGRXZGlibW52Y3I3WS04MDVUQUxLb1c4MGhRQU1uSnFydzlUZw?oc=5
-
-- 言語発達相談（ST）の予約 - 加東市
-  https://news.google.com/rss/articles/CBMimgFBVV95cUxNblpjRUgzTnRod0NUYXZWR1JHTklTQUpLUmZyT0ZzWnhZMlNkV1pweUtUTVh3VDctTVZiU3dUSDJHRWNiSVVDdkUzektWT0FzS1Z3SHJiWm1QRnBNVnQ2Q25CVE01a2FzbTZEM0RBT3dJV2FiQ3NncTB3OUs0OG9HeV9UOEJ5T1J3SDlnaTRpdzlFNnNHRFhCeTdn?oc=5
 
 - 窓口専門家スケジュールを掲載しました（２０２６．４月） - 仙台商工会議所
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sbHVuX3NnNnZiQTg1SGRwMXV4elB1N3lTem9iaTkyNnJ6T2NKbW9abGlwX0dVeWd1NDFpRmhvQWlhdTJsSDZBUHpQY3lIaDZyMml3c2RxMkZJNjlabTZ2dklqOWo?oc=5
@@ -39,17 +36,20 @@
 - 「スポーツチケットを返してくれない」自ら警察に相談し発覚！交際相手をLINEで脅迫した疑い、29歳男を逮捕 - HTB北海道テレビ
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rMzVuYjBoLTNOdC1OcFNfTk80V1ZkM3dpUXZkN2lja2QxOFFrRlVtLUIxVGczZHNja0gxY29kT1lkZzU1WmJZRWF6RW5UMXZfN3lQeXk2MldLZw?oc=5
 
-- PwCジャパン、東北でプロボノ「なんでも会計相談」を10年超 - alterna.co.jp
-  https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tcnQxZVlzNUs0NGNHX2xURmJBcWsxTExubkNlNUczVlExUWNYVHhWOXVQa1U5MDl5ZFMxN3RBWVFRZnBPVENwZQ?oc=5
-
-- 札幌市AIお悩み相談（実証実験） - 札幌市
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
+- 大人気特番がついにレギュラー化決定！ MCかまいたちで贈る、悩める人々のための情報バラエティーがスタート！ 超速60秒でお悩みをサクサクッと解決！ - fujitv.co.jp
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QWhNemNrVlphZ0Y5djNsZVJETFdYQVUydlJBR3ZFX0FIcnpmMWJGeXlFY2NZaXRCcllKcE40V3l6b3N3bG5OazdvbC1MR1V6N01VdG8xd3dlbWxwU293?oc=5
 
 - ３月２２日「よみうりＧＥＮＫＩフェスタ」で個別相談ブース…芝 - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNclVBX1ZWNklLa1MtSngyYlpUSXFmLTcwRTZENmN2X1M0YnVxaXd5TVJlSFZUcnVEX29aM3B0NHB3S1ZYTTdNOVFlTDh2RFJWMk1qM19wcnpxcGkzZmduWGJONVFUVkNNS1dqdVhka2Z6V3lJTHREYlF5R192RjB2d0llWEZ2TjVHaUE?oc=5
 
-- 大人気特番がついにレギュラー化決定！ MCかまいたちで贈る、悩める人々のための情報バラエティーがスタート！ 超速60秒でお悩みをサクサクッと解決！ - fujitv.co.jp
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QWhNemNrVlphZ0Y5djNsZVJETFdYQVUydlJBR3ZFX0FIcnpmMWJGeXlFY2NZaXRCcllKcE40V3l6b3N3bG5OazdvbC1MR1V6N01VdG8xd3dlbWxwU293?oc=5
+- PwCジャパン、東北でプロボノ「なんでも会計相談」を10年超 - alterna.co.jp
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tcnQxZVlzNUs0NGNHX2xURmJBcWsxTExubkNlNUczVlExUWNYVHhWOXVQa1U5MDl5ZFMxN3RBWVFRZnBPVENwZQ?oc=5
+
+- 北海道初、札幌市が傾聴AIを活用した悩み相談窓口の実証実験を始動 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE96MGI4Qlo0VkJ1V2IzbkhPYzBxRThiZzJGNTQ4UHZuWXhJNTdJN0dUOU9mVUg5ZVNKVmZWMWx0a0VkMWM4LVRBa1hKTk01YkQ1akpPUDJ6NWMxenE5QUVqc0hVQnZGbFZKU0E?oc=5
+
+- 東三河県庁推進のフェムテック商品完成報告会 女性特有の悩みを製品やサービスで解決へ - 東愛知新聞
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMa0F3R2FSTnZrX0t4ZG1vQzNqZ2RQYXUtVWlPdThuYWM1YUtWMUxfVG9aSVd3akx4SW5hNnVSSjRFZVI3bmJXQ2FPM2NpYkJ4TWlDSDB0OFREbWpj?oc=5
 
 - 【防犯カメラ】「修理費は200万」自転車がシャッターを破壊し逃走…家人は警察に相談 ふらついて突っ込むもすぐに立ち去る（山形市）（テレビユー山形） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1PV0x6ekxkUC13Uzhrd1JiR053Y3BJOTdVOE85bzVvTUkzYUIySFVHakJzbU5ybks0TzlpWWRyX3htaldqTHoycGhmOUQtOTROT3JvZVJqanl2SDlzNmtya2FqV0JIRy16TXJSLTVpRXprdGxzb3ZheXZaSlN6R3c?oc=5
