@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-13 05:20) ===
+=== こまる相談 ニュースフィード (2026-03-13 06:13) ===
 
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
@@ -18,9 +18,6 @@
 - ブッダに悩み相談もＡＩ活用、ブータン導入 京都大教授ら開発、搭載の人型ロボットも - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KaEVmQXJTbWV4LTRkQ2xNXy12X04yOXVMMFU3dlNWYXpEMDVNOWJiOHhiZ2dDSW9nYjE1dXo4Y3FPVUhCVDd5TmxORHFKdG5zZm5tOTA2MlBLYVJfbWc?oc=5
 
-- 30～40代女性の半数以上がデリケートゾーン悩みを実感。イガリシノブ監修「洗うフェムケア」の提案 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE52R2Zmdk5FNTNkUG9jeHNncFRqT1p3bEVlZGJMb2Z6aU8zdkJ1MDNxVFVYNjBMNXVfNG83eUU0LUVmTnpKYWxIR1gwdml1d1pJb3ZaMjh4MFU4aEhfWjdZcGswZDEwOUV1ckE?oc=5
-
 - 性的暴行…泥酔した20代女性と性交、朝コンビニ裏で 恐怖の25分間 襲った男逮捕、同意ない疑い 女性の夫が警察に相談、防カメで特定された男は28歳 コンビニで買い物した女性、座り込むと…体を抱えられ悲劇（埼玉新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1DWFZlajJ1MFlNVm5ucEV2dGVTZ2cwR2x4TGRTWTN0eU1mcUl1TW1Nc3J4cG0wUTFzR0NBZWl0Q3daRDJ5WmlsdzJTVExsUU8wcmhLUFNuM0p5dnJFODlzN05pbTJWY0pfSjFXSjJCQTJsVXFrRHd6ZmZnNHZKcXM?oc=5
 
@@ -30,14 +27,17 @@
 - 不登校に悩む子ども、保護者向け 相談、支援の手引書作成 高山市連携会議 - 岐阜新聞デジタル
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BNkwxcXlOVXQyYjBGeFNyRk1TYjdiWEYtNEhsc1A1NEQ5U0NZLUxyMGJ2Wi1iOEhOZk9NV2tfZEczVHpJalpnT3BTX2dDanhqYUdvbTdB?oc=5
 
+- 京都市が3カ所目の児童相談所を新設へ 2027年度以降「きめ細やかに対応していく」 - 京都新聞デジタル
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRkMyY284bGF1QUpNN2l0QXJhbGp4VXluR0Q4c3VkdnR4anJpUUI0QUV2UERMVDJCa0NobkRaQW11ekY1UlRJcnp0VGVPZEROWHpkMnNGMWs?oc=5
+
 - 導入前の相談からトラブル解決まで完全伴走！情シスがヤマハ機器を「安心して買える」理由 - ASCII.jp
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE03aDcwd1pHYmgxenBndEpTOEF0eFNDODRfeUxaSU1YZnM0UWpFTV92c1pDX0dTc1JYckFYWmk2SHFENTZkckQzNE1FUC1hZnJDcWdjZQ?oc=5
 
+- Salesforceの導入・運用に特化して18年目のクオンツが、完全無料の「Salesforceお悩み相談窓口」を新設しました - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE54VXZrSDZ5U2V2elFOU25XY3BNaXpqcHRjVWJDcFdBbmNyR0FoTkxKUFhPU2hwM1BIUXVtYUU4QUN1MnRXdXRILTBnd1B0SktXTmsxdE9wTV9rUFhtWFBZNGpaTFZJVG9IbUE?oc=5
+
 - 「県民くらし相談センター整備事業」 困り事、ワンストップで対応 - 未来への責任 奈良県26年度予算(1) - 奈良新聞
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsNnNTb2NLcVFVaGlZUDU0TzEta3ltNmRyWVpiZkpCR2RhLTlHNzRvTFpOdVpVNFBMa1VTQ0dVcUJIWXBucVJxY2VMNUJUb1ZZM0g0MEVCYTh3WHNPYlVr?oc=5
-
-- 京都市が3カ所目の児童相談所を新設へ 2027年度以降「きめ細やかに対応していく」 - 京都新聞デジタル
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRkMyY284bGF1QUpNN2l0QXJhbGp4VXluR0Q4c3VkdnR4anJpUUI0QUV2UERMVDJCa0NobkRaQW11ekY1UlRJcnp0VGVPZEROWHpkMnNGMWs?oc=5
 
 - 鹿児島銀行、中東情勢緊迫で相談窓口 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1zR25uUWZoeGtkTFc4ZC1MYTJDaC1rUGlzeFdkaVZnVUFVUFJIWENRbHdLUXB1ekcwcXNjM0ZpNjZGVmZnYXZSM1Fqa2loR3Fual9ZTEFUUGk2V3dyNDFzX29FMDNPNFVzVGlzUg?oc=5
@@ -48,15 +48,15 @@
 - 長岡市内のひきこもり「10年以上」が4割超…「29歳までに経験」8割弱、相談できない当事者の支援課題 市が初の実態調査 - 新潟日報
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE0waGZrdy1YYmM2ZXBvOVdQZWhMTTY4bzNxVWpZdnhvZTN2RlZtajBZMThlY3luZ0Z1Q3hpX3NpSXhxWGoyYzNJMlVsMnlnem01bmhDWldOdm9pUkFfTVE?oc=5
 
+- カインズ／今夏「モザイクモール港北」に新店舗オープン、リフォーム相談カウンターも設置 - 流通ニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LcV8za3RtMnVmblVkOExSVzlBZVdlRjV6NG9NN2FUOXRNc3hqczRsOEsxVEUyWTN5Tzg3cFkwdGQ2RUh1dHUwMWVMTGJaemlpd19BTw?oc=5
+
+- SNSフォロワーが増えない原因とは？SNS運用相談の傾向から見る初期集客の課題【調査報告】 - ドリームニュース
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aU3VDWVFBU2pjQXQyN25OWXlaVDBxQl9DLVVDaDN1Z3dGWC1BTTRQVHZBRWQ3TmV2c2U4NjFyUUEtT2xhcEdIMl91alB4SVdhVmE0?oc=5
+
 - 「いつ結婚できるか」から激変した相談、細木かおりが母・細木数子の六星占術を現代版へ進化、人生100年時代の羅針盤へ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE05T0hrakZmY1dFZHBicmZtU3JoUDdRUGEzaHk0RFl3YmZFQjl3NkpEV3h5NWpMY1d1Uk03TDh2UnJnNzNycjlmczQ5d2lzT3BvQTZ2V3NoWjE1d1V4ejh2aW9Hell4X1VnTEdGY2FjaWlNUEZZSy00VWNhXzZ6bUk?oc=5
 
-- Salesforceの導入・運用に特化して18年目のクオンツが、完全無料の「Salesforceお悩み相談窓口」を新設しました - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE54VXZrSDZ5U2V2elFOU25XY3BNaXpqcHRjVWJDcFdBbmNyR0FoTkxKUFhPU2hwM1BIUXVtYUU4QUN1MnRXdXRILTBnd1B0SktXTmsxdE9wTV9rUFhtWFBZNGpaTFZJVG9IbUE?oc=5
-
 - モデル・吉村ミキさん（54歳）が語る、50代の悩みで「やめて楽になったこと」｜美ST（magacol） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFByV1hpeTAyRFNCZ1dhekNxZ1V4RmJjV21PZ2t5dWRvbzFPbVBmRW5xWUhIMVVIZ0R1X09lcklLOFpCSlpsZGk0bWxqNHhYUVBCYlF4bllrd0tSc29rR0pTWEhOa2twcnQ1QzNkSXhTQlNHNkd6OU5Wc1dUaEJYX2c?oc=5
-
-- 「AIの回答を信頼している」大学生は社会人より圧倒的少数！ 相談内容が影響？【マイナビ調べ】（Web担当者Forum） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5td3I0RTZ0SmY3T1VpQkJENUlkUEE1cE91VmgyR3JlSFlZbU96UHlpUWdldzBHZDNuSVBHanlTVjdFSDFRRjJJTm5hQk9VRU9scWZoRnNrU01GVjVNU2NpWi01Y0lQYjl0VEtEMTBnN2pSd2o1LWRGc05Md1h0MXc?oc=5
 
