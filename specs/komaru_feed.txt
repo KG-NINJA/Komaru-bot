@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-13 01:31) ===
+=== こまる相談 ニュースフィード (2026-03-13 02:54) ===
 
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
@@ -6,14 +6,20 @@
 - 身近な人が自死、残された法律問題の無料相談 14日昼から24時間 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPT1hzYUtlNGpjUHFaUWhIbWVLbEh2ZzA5eDBYdFNQSW8zdVBQOHVVbGJyVDl0R2tBR0hxeERYRkhpcktZNndlaC1tZW5qdjRxRk1RWkZsWVRpRVZWaGJkd1FLUjlMd00?oc=5
 
-- プライベートクレジットに新たな悩みの種、米銀行が特定の融資抑制も - Bloomberg.com
+- プライベートクレジットに新たな悩みの種、米銀行が特定の融資抑制も - Bloomberg
   https://news.google.com/rss/articles/CBMid0FVX3lxTE45YTR0S1hVTVRYU2hYYjBfMzUzTVV3OHBfZXpORWlkOVdfejVzXy1FXzRVTmU1Q1BwZkJqdmRsbjFndF9lM2RfbDU2dUZUeUNiclZrOUw0NkxHc2RyRmNLX2g2c0pINnZJTlIzNmJkNFV5NEdlTGl3?oc=5
 
 - 専門家による相続個別相談会 相続の窓口 - 市民タイムス
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHNXRRbGY4VGxNdG1JUUhBenZHOUFFbmRySWVHVURlRm9RN1M1aGRQM1hLV05RT295b3lFQVpQb1ozNDNjeUlxUkxmdVhhVVREeDJKLUljcm9hVnZUS3pIN0swRQ?oc=5
 
+- ＜イオン＞ “光・熱・音”の悩みを解決！気になる“すき間問題”に対応した、新生活を快適にする高機能カーテン「ホームコーディ 遮光１級・遮熱・遮音・すき間対策４枚組カーテン」新発売 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1xbE5pM2R4VjFPdW9VMkdvbmhsa1hUY1B2RkhnVjRCd05wMDhLNjJIOGowS2FCRGFHam4zN3cxSlRMbWk2UzR5TUZJMGlRdHpXcjJ5ZWtWNzNJMnlMbnBlNFg0U2M2bjJJeVE?oc=5
+
 - ブッダに悩み相談もＡＩ活用、ブータン導入 京都大教授ら開発、搭載の人型ロボットも - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KaEVmQXJTbWV4LTRkQ2xNXy12X04yOXVMMFU3dlNWYXpEMDVNOWJiOHhiZ2dDSW9nYjE1dXo4Y3FPVUhCVDd5TmxORHFKdG5zZm5tOTA2MlBLYVJfbWc?oc=5
+
+- 「いつ結婚できるか」から激変した相談、細木かおりが母・細木数子の六星占術を現代版へ進化、人生100年時代の羅針盤へ - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE05T0hrakZmY1dFZHBicmZtU3JoUDdRUGEzaHk0RFl3YmZFQjl3NkpEV3h5NWpMY1d1Uk03TDh2UnJnNzNycjlmczQ5d2lzT3BvQTZ2V3NoWjE1d1V4ejh2aW9Hell4X1VnTEdGY2FjaWlNUEZZSy00VWNhXzZ6bUk?oc=5
 
 - 京都市が3カ所目の児童相談所を新設へ 2027年度以降「きめ細やかに対応していく」 - 京都新聞デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRkMyY284bGF1QUpNN2l0QXJhbGp4VXluR0Q4c3VkdnR4anJpUUI0QUV2UERMVDJCa0NobkRaQW11ekY1UlRJcnp0VGVPZEROWHpkMnNGMWs?oc=5
@@ -21,41 +27,35 @@
 - 「県民くらし相談センター整備事業」 困り事、ワンストップで対応 - 未来への責任 奈良県26年度予算(1) - 奈良新聞
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsNnNTb2NLcVFVaGlZUDU0TzEta3ltNmRyWVpiZkpCR2RhLTlHNzRvTFpOdVpVNFBMa1VTQ0dVcUJIWXBucVJxY2VMNUJUb1ZZM0g0MEVCYTh3WHNPYlVr?oc=5
 
-- Salesforceの導入・運用に特化して18年目のクオンツが、完全無料の「Salesforceお悩み相談窓口」を新設しました - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE54VXZrSDZ5U2V2elFOU25XY3BNaXpqcHRjVWJDcFdBbmNyR0FoTkxKUFhPU2hwM1BIUXVtYUU4QUN1MnRXdXRILTBnd1B0SktXTmsxdE9wTV9rUFhtWFBZNGpaTFZJVG9IbUE?oc=5
-
-- モデル・吉村ミキさん（54歳）が語る、50代の悩みで「やめて楽になったこと」｜美ST（magacol） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFByV1hpeTAyRFNCZ1dhekNxZ1V4RmJjV21PZ2t5dWRvbzFPbVBmRW5xWUhIMVVIZ0R1X09lcklLOFpCSlpsZGk0bWxqNHhYUVBCYlF4bllrd0tSc29rR0pTWEhOa2twcnQ1QzNkSXhTQlNHNkd6OU5Wc1dUaEJYX2c?oc=5
+- 導入前の相談からトラブル解決まで完全伴走！情シスがヤマハ機器を「安心して買える」理由 - ASCII.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE03aDcwd1pHYmgxenBndEpTOEF0eFNDODRfeUxaSU1YZnM0UWpFTV92c1pDX0dTc1JYckFYWmk2SHFENTZkckQzNE1FUC1hZnJDcWdjZQ?oc=5
 
 - 鹿児島銀行、中東情勢緊迫で相談窓口 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1zR25uUWZoeGtkTFc4ZC1MYTJDaC1rUGlzeFdkaVZnVUFVUFJIWENRbHdLUXB1ekcwcXNjM0ZpNjZGVmZnYXZSM1Fqa2loR3Fual9ZTEFUUGk2V3dyNDFzX29FMDNPNFVzVGlzUg?oc=5
 
-- 導入前の相談からトラブル解決まで完全伴走！情シスがヤマハ機器を「安心して買える」理由 - ASCII.jp
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE03aDcwd1pHYmgxenBndEpTOEF0eFNDODRfeUxaSU1YZnM0UWpFTV92c1pDX0dTc1JYckFYWmk2SHFENTZkckQzNE1FUC1hZnJDcWdjZQ?oc=5
+- 耳、鼻、喉の病気について専門医が答える インターネット無料相談 ３／２２まで - kochinews.co.jp
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wTFVULU85dEk3RDFVSW5ONW5JUkExLTdHYW5kUHlJWDEwZTMzYXZ6Sm96alcxMmZaQlpkVmw5VzRHc0RpSlNEa0ZhWGRocHZVVkpIM1ZqZlpQeGNNMXc?oc=5
 
-- 結婚相談所Louis(ルイ)、2026年4月にリニューアル再始動 - アットプレス
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBYmhiRXBvcVBObEFTZldzQl9XVEYzemdGUTdNSWhKajMwV2dpc045OVBQbG1lVGEwT1BKcGZkTlZfOXRDMTh1eXBiQ0E1Zw?oc=5
+- カインズ／今夏「モザイクモール港北」に新店舗オープン、リフォーム相談カウンターも設置 - 流通ニュース
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LcV8za3RtMnVmblVkOExSVzlBZVdlRjV6NG9NN2FUOXRNc3hqczRsOEsxVEUyWTN5Tzg3cFkwdGQ2RUh1dHUwMWVMTGJaemlpd19BTw?oc=5
 
-- ブッダに悩み相談もAI活用、ブータン導入 京都大教授ら開発、搭載の人型ロボットも - 信濃毎日新聞デジタル
-  https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVUJJYWk5YjU5emtUOHpKa0NKTk5sVUM1d0FWcWJzRmI5b1pCSzRNNW9kSFNjbDlPcngtVy1jaGFrQ0ZHSEdpUWZmTkpITXNMMVotT0s0aDhud2s1ZFRkcko5eE4tWkhEbFBZ?oc=5
+- Blue Ocean（ブルーオーシャン） - TOKYO FM
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qYjdWdDNhV29mTzNYbXRJUHhTT0JGLU4xT2Fia0JUcERqaFhWNnVWa1k0QUhMZVB6eTJYdXktUkRVTU1Lazl1b0lGNWNHZw?oc=5
 
-- 不登校に悩む子ども、保護者向け 相談、支援の手引書作成 高山市連携会議 - 岐阜新聞デジタル
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BNkwxcXlOVXQyYjBGeFNyRk1TYjdiWEYtNEhsc1A1NEQ5U0NZLUxyMGJ2Wi1iOEhOZk9NV2tfZEczVHpJalpnT3BTX2dDanhqYUdvbTdB?oc=5
+- 結婚相談所Louis(ルイ)、2026年4月にリニューアル再始動 - Excite エキサイト
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFNWhqeVdTbml6ZDdzWDNPZGljN29RMlpWbUFsM2YtZ0cxc2RybTgzeVZtN3lFZE9hM1Y0MWNiOUVSdldkR0lJSkFjdWpTNnFRZlRIM19QTXI2dGFDdlNQN3AtNA?oc=5
 
 - 岡山：福島で講師時被災 相談に耳傾け心のサポート 岡大・神田教授 県内避難者寄り添い続け ：地域ニュース - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMic0FVX3lxTE51bmZlM3hZc2NNSmJOZkU2Rzk3SWlwam5jeEM0MmJobTNqM1dYOTJLMmNXakhPcjZjX0pSUjdvdHZwX0ZfQjUtN0stVGFqa0U4WWRZNHFqRkJ2NUpMTXJqZjRuUkZBS2lVTEpmODc2Z3RwSTA?oc=5
 
-- 鳥取県薬剤師会の薬事情報センター 相談減、高齢化で休止へ - nnn.co.jp
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZUUF3UnctUjVsREJLbWFhNzc2N1Jjd090WENlV2tZZml5RXdiMldZMXkyUkFkQWtXSjdmMnRjNVdydlNrbS15dnJfS3NXOWZZ?oc=5
+- モデル・吉村ミキさん（54歳）が語る、50代の悩みで「やめて楽になったこと」｜美ST（magacol） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFByV1hpeTAyRFNCZ1dhekNxZ1V4RmJjV21PZ2t5dWRvbzFPbVBmRW5xWUhIMVVIZ0R1X09lcklLOFpCSlpsZGk0bWxqNHhYUVBCYlF4bllrd0tSc29rR0pTWEhOa2twcnQ1QzNkSXhTQlNHNkd6OU5Wc1dUaEJYX2c?oc=5
+
+- Salesforceの導入・運用に特化して18年目のクオンツが、完全無料の「Salesforceお悩み相談窓口」を新設しました - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE54VXZrSDZ5U2V2elFOU25XY3BNaXpqcHRjVWJDcFdBbmNyR0FoTkxKUFhPU2hwM1BIUXVtYUU4QUN1MnRXdXRILTBnd1B0SktXTmsxdE9wTV9rUFhtWFBZNGpaTFZJVG9IbUE?oc=5
 
 - 「AIの回答を信頼している」大学生は社会人より圧倒的少数！ 相談内容が影響？【マイナビ調べ】（Web担当者Forum） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5td3I0RTZ0SmY3T1VpQkJENUlkUEE1cE91VmgyR3JlSFlZbU96UHlpUWdldzBHZDNuSVBHanlTVjdFSDFRRjJJTm5hQk9VRU9scWZoRnNrU01GVjVNU2NpWi01Y0lQYjl0VEtEMTBnN2pSd2o1LWRGc05Md1h0MXc?oc=5
-
-- 自死遺族向け無料相談 14～15日、支援弁護団（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ESlV3X2I2NXRNOWdsdWlGODhWdDVfRHRWbDdRLVdXWlNrOFcwNUdEbXk4dFNRcjV3ZW1JTXBybDJMQVpOaFkwcnI3cHplcHlsMjZ6YmFpN0NCVnVndW1VcHpJcUh1enpWcEFWazRWUU1TaUhtRmJ2VHdvdFFfUk0?oc=5
-
-- 「いつ結婚できるか」から激変した相談、細木かおりが母・細木数子の六星占術を現代版へ進化、人生100年時代の羅針盤へ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE05T0hrakZmY1dFZHBicmZtU3JoUDdRUGEzaHk0RFl3YmZFQjl3NkpEV3h5NWpMY1d1Uk03TDh2UnJnNzNycjlmczQ5d2lzT3BvQTZ2V3NoWjE1d1V4ejh2aW9Hell4X1VnTEdGY2FjaWlNUEZZSy00VWNhXzZ6bUk?oc=5
 
 - フジテレビで新たに小澤陽子アナ＆勝野健アナが退社 新設〝お悩み相談〟部署に不満の声（東スポWEB） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBSdm1jQUF6anZtZDZsOTJIT0RGSTJFeVNTMzk5T0R4U0VhYnBsVkNUVVZtZ3FkdEkwMW90QmxUY05sQVJoeGxzNDd0T0RnV3ZOOXRGWTdpWmNfWW5sZzJLb3VVZ2xPLTNmWnA5aGhQYk8tWE1mNy1Rc0xmWHo1QjQ?oc=5
