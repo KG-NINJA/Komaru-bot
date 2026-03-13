@@ -1,10 +1,13 @@
-=== こまる相談 ニュースフィード (2026-03-13 00:10) ===
+=== こまる相談 ニュースフィード (2026-03-13 01:31) ===
 
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
 
 - 身近な人が自死、残された法律問題の無料相談 14日昼から24時間 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPT1hzYUtlNGpjUHFaUWhIbWVLbEh2ZzA5eDBYdFNQSW8zdVBQOHVVbGJyVDl0R2tBR0hxeERYRkhpcktZNndlaC1tZW5qdjRxRk1RWkZsWVRpRVZWaGJkd1FLUjlMd00?oc=5
+
+- プライベートクレジットに新たな悩みの種、米銀行が特定の融資抑制も - Bloomberg.com
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE45YTR0S1hVTVRYU2hYYjBfMzUzTVV3OHBfZXpORWlkOVdfejVzXy1FXzRVTmU1Q1BwZkJqdmRsbjFndF9lM2RfbDU2dUZUeUNiclZrOUw0NkxHc2RyRmNLX2g2c0pINnZJTlIzNmJkNFV5NEdlTGl3?oc=5
 
 - 専門家による相続個別相談会 相続の窓口 - 市民タイムス
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHNXRRbGY4VGxNdG1JUUhBenZHOUFFbmRySWVHVURlRm9RN1M1aGRQM1hLV05RT295b3lFQVpQb1ozNDNjeUlxUkxmdVhhVVREeDJKLUljcm9hVnZUS3pIN0swRQ?oc=5
@@ -15,6 +18,12 @@
 - 京都市が3カ所目の児童相談所を新設へ 2027年度以降「きめ細やかに対応していく」 - 京都新聞デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRkMyY284bGF1QUpNN2l0QXJhbGp4VXluR0Q4c3VkdnR4anJpUUI0QUV2UERMVDJCa0NobkRaQW11ekY1UlRJcnp0VGVPZEROWHpkMnNGMWs?oc=5
 
+- 「県民くらし相談センター整備事業」 困り事、ワンストップで対応 - 未来への責任 奈良県26年度予算(1) - 奈良新聞
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsNnNTb2NLcVFVaGlZUDU0TzEta3ltNmRyWVpiZkpCR2RhLTlHNzRvTFpOdVpVNFBMa1VTQ0dVcUJIWXBucVJxY2VMNUJUb1ZZM0g0MEVCYTh3WHNPYlVr?oc=5
+
+- Salesforceの導入・運用に特化して18年目のクオンツが、完全無料の「Salesforceお悩み相談窓口」を新設しました - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE54VXZrSDZ5U2V2elFOU25XY3BNaXpqcHRjVWJDcFdBbmNyR0FoTkxKUFhPU2hwM1BIUXVtYUU4QUN1MnRXdXRILTBnd1B0SktXTmsxdE9wTV9rUFhtWFBZNGpaTFZJVG9IbUE?oc=5
+
 - モデル・吉村ミキさん（54歳）が語る、50代の悩みで「やめて楽になったこと」｜美ST（magacol） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFByV1hpeTAyRFNCZ1dhekNxZ1V4RmJjV21PZ2t5dWRvbzFPbVBmRW5xWUhIMVVIZ0R1X09lcklLOFpCSlpsZGk0bWxqNHhYUVBCYlF4bllrd0tSc29rR0pTWEhOa2twcnQ1QzNkSXhTQlNHNkd6OU5Wc1dUaEJYX2c?oc=5
 
@@ -24,39 +33,30 @@
 - 導入前の相談からトラブル解決まで完全伴走！情シスがヤマハ機器を「安心して買える」理由 - ASCII.jp
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE03aDcwd1pHYmgxenBndEpTOEF0eFNDODRfeUxaSU1YZnM0UWpFTV92c1pDX0dTc1JYckFYWmk2SHFENTZkckQzNE1FUC1hZnJDcWdjZQ?oc=5
 
-- 広がる企業内介護サロン 社員同士 悩み、情報共有 気軽に話せる雰囲気を - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE42bWI5aFUxY0ZHS1FtUEkwT0hudEJqeUhlLW11ZVZPS0hXRmNQcmU3ZEVIbExiZ3JQYnFxZU9RLWRYSnlxNmJ6ZVRPNWFlbi15ajM5V2ZtdEE0WWxBaFhB?oc=5
-
-- 鳥取県薬剤師会の薬事情報センター 相談減、高齢化で休止へ - nnn.co.jp
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZUUF3UnctUjVsREJLbWFhNzc2N1Jjd090WENlV2tZZml5RXdiMldZMXkyUkFkQWtXSjdmMnRjNVdydlNrbS15dnJfS3NXOWZZ?oc=5
-
-- 岡山：福島で講師時被災 相談に耳傾け心のサポート 岡大・神田教授 県内避難者寄り添い続け ：地域ニュース - 読売新聞オンライン
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE51bmZlM3hZc2NNSmJOZkU2Rzk3SWlwam5jeEM0MmJobTNqM1dYOTJLMmNXakhPcjZjX0pSUjdvdHZwX0ZfQjUtN0stVGFqa0U4WWRZNHFqRkJ2NUpMTXJqZjRuUkZBS2lVTEpmODc2Z3RwSTA?oc=5
-
-- 自死遺族向け無料相談 １４、１５日に電話とラインで - 琉球新報デジタル
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IZ2JJUVdJbDhrWHdhNHZHWFE5amU1UUtEYVhRem5jMHFPM1AzbG1lSEFqTTlhckplbjE5bnludmpYVi1qQUh3aHRFbTBYY3J5RzdDdXNub0s2WWRFdzc2ZQ?oc=5
+- 結婚相談所Louis(ルイ)、2026年4月にリニューアル再始動 - アットプレス
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBYmhiRXBvcVBObEFTZldzQl9XVEYzemdGUTdNSWhKajMwV2dpc045OVBQbG1lVGEwT1BKcGZkTlZfOXRDMTh1eXBiQ0E1Zw?oc=5
 
 - ブッダに悩み相談もAI活用、ブータン導入 京都大教授ら開発、搭載の人型ロボットも - 信濃毎日新聞デジタル
   https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVUJJYWk5YjU5emtUOHpKa0NKTk5sVUM1d0FWcWJzRmI5b1pCSzRNNW9kSFNjbDlPcngtVy1jaGFrQ0ZHSEdpUWZmTkpITXNMMVotT0s0aDhud2s1ZFRkcko5eE4tWkhEbFBZ?oc=5
 
+- 不登校に悩む子ども、保護者向け 相談、支援の手引書作成 高山市連携会議 - 岐阜新聞デジタル
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BNkwxcXlOVXQyYjBGeFNyRk1TYjdiWEYtNEhsc1A1NEQ5U0NZLUxyMGJ2Wi1iOEhOZk9NV2tfZEczVHpJalpnT3BTX2dDanhqYUdvbTdB?oc=5
+
+- 岡山：福島で講師時被災 相談に耳傾け心のサポート 岡大・神田教授 県内避難者寄り添い続け ：地域ニュース - 読売新聞オンライン
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE51bmZlM3hZc2NNSmJOZkU2Rzk3SWlwam5jeEM0MmJobTNqM1dYOTJLMmNXakhPcjZjX0pSUjdvdHZwX0ZfQjUtN0stVGFqa0U4WWRZNHFqRkJ2NUpMTXJqZjRuUkZBS2lVTEpmODc2Z3RwSTA?oc=5
+
+- 鳥取県薬剤師会の薬事情報センター 相談減、高齢化で休止へ - nnn.co.jp
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZUUF3UnctUjVsREJLbWFhNzc2N1Jjd090WENlV2tZZml5RXdiMldZMXkyUkFkQWtXSjdmMnRjNVdydlNrbS15dnJfS3NXOWZZ?oc=5
+
 - 「AIの回答を信頼している」大学生は社会人より圧倒的少数！ 相談内容が影響？【マイナビ調べ】（Web担当者Forum） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5td3I0RTZ0SmY3T1VpQkJENUlkUEE1cE91VmgyR3JlSFlZbU96UHlpUWdldzBHZDNuSVBHanlTVjdFSDFRRjJJTm5hQk9VRU9scWZoRnNrU01GVjVNU2NpWi01Y0lQYjl0VEtEMTBnN2pSd2o1LWRGc05Md1h0MXc?oc=5
-
-- 外資系IT勤務彼氏、バツイチの悩み - 朝日新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UZFFBcXlMTzI2cHk4cFhJSkh4ZjVoaVAzY1Frekk0aXpVZWFsdVpXWk91eGZPNWpsTFFfQVBfSktSaS1VWHZmSm9BOEhoMUU0QnRhNTVueUNsNmU5?oc=5
 
 - 自死遺族向け無料相談 14～15日、支援弁護団（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1ESlV3X2I2NXRNOWdsdWlGODhWdDVfRHRWbDdRLVdXWlNrOFcwNUdEbXk4dFNRcjV3ZW1JTXBybDJMQVpOaFkwcnI3cHplcHlsMjZ6YmFpN0NCVnVndW1VcHpJcUh1enpWcEFWazRWUU1TaUhtRmJ2VHdvdFFfUk0?oc=5
 
-- 不登校の子どもに影響する親の関係。4000組の親子を見てきた相談員が語る、「話し合い」より大切なこと（FRaU） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5BamhfOFBPelJjZzZTYW1TR1RzVTRPZ3pOY0RYNWswSnBKRXpOcnNrcWVQSnEzaW95WVZDNVBxYVBYRUxYNWM1aURGM2JEQ05uekx2eWhDMzhwQXFxV2xDc1JrRzVod3FmSUVGWVd6VGlkTEJHdGcyeVBkbWtobkU?oc=5
-
-- フジテレビで新たに小澤陽子アナ＆勝野健アナが退社 新設〝お悩み相談〟部署に不満の声（東スポWEB） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBSdm1jQUF6anZtZDZsOTJIT0RGSTJFeVNTMzk5T0R4U0VhYnBsVkNUVVZtZ3FkdEkwMW90QmxUY05sQVJoeGxzNDd0T0RnV3ZOOXRGWTdpWmNfWW5sZzJLb3VVZ2xPLTNmWnA5aGhQYk8tWE1mNy1Rc0xmWHo1QjQ?oc=5
-
 - 「いつ結婚できるか」から激変した相談、細木かおりが母・細木数子の六星占術を現代版へ進化、人生100年時代の羅針盤へ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE05T0hrakZmY1dFZHBicmZtU3JoUDdRUGEzaHk0RFl3YmZFQjl3NkpEV3h5NWpMY1d1Uk03TDh2UnJnNzNycjlmczQ5d2lzT3BvQTZ2V3NoWjE1d1V4ejh2aW9Hell4X1VnTEdGY2FjaWlNUEZZSy00VWNhXzZ6bUk?oc=5
 
-- 「欲しい。けど高い」修学旅行生の悩みと、70代木彫り熊作家の願い「話題のグミ」に託す工芸品の未来（CHANTO WEB） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFB3WndoS241MmVLdDU5aHZ0N2NsN0ViMThzM3lfN3FlRnVYc1Y1akxFZng0dkYzY0c5RVBKbkltLVN4SmhjS0tjOVRYdWtXR1FNMWRaU2FiRjZmdUNVZ0t1S1NDM2lNU1NiMFZOSEhnOUFsYTI3ZWltMHpYLWNEVnc?oc=5
+- フジテレビで新たに小澤陽子アナ＆勝野健アナが退社 新設〝お悩み相談〟部署に不満の声（東スポWEB） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBSdm1jQUF6anZtZDZsOTJIT0RGSTJFeVNTMzk5T0R4U0VhYnBsVkNUVVZtZ3FkdEkwMW90QmxUY05sQVJoeGxzNDd0T0RnV3ZOOXRGWTdpWmNfWW5sZzJLb3VVZ2xPLTNmWnA5aGhQYk8tWE1mNy1Rc0xmWHo1QjQ?oc=5
 
