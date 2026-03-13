@@ -1,13 +1,10 @@
-=== こまる相談 ニュースフィード (2026-03-13 22:05) ===
+=== こまる相談 ニュースフィード (2026-03-13 23:05) ===
 
 - 北部12市町村連携無料消費生活相談室について - town.kin.okinawa.jp
   https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWm1PT3gzaVpxMTRfQVVoRlF3YnBPTlVubDNVaEExZ0d1OUhBckJSZjJGN1pEX1R6elhDMVczcXRLdFNtMENvcmxoelFLSTl1NENuSURVT09kV0pZVjVLT1RxMVI5WmhkRHdZM25GZw?oc=5
 
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
-
-- （悩みのるつぼ）もう会えない人たちへの謝罪 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fSFFKN2FSM0NCa0FaX1FEUVctQ1dTY092SUJmNUFudlBGbnRLRUZMY3gwVmJoRHV0bGFjWjlmYmM4X3J6dldubVgtRVpkTFFHMl9zUEVyRE9xSDRj?oc=5
 
 - 化粧品や健康食品など 定期購入のトラブル相談 過去５年で最多 - ABA青森朝日放送
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wMHJDVWRRZ1hKRU5DNzRjU2t1cUpvR2tlb3BFX0lpaS1kMW9uWjFyU0RvWWlTU3QzalRhczRVTENEMTdSanBHLVpvSnFpUXpZLXlGNVQ0SEs?oc=5
@@ -24,11 +21,11 @@
 - 新築やリフォーム…住まいの悩み相談を 長岡市で3月14、15日、ｉｅｎｏｍａ（いえのま）フェア - 新潟日報
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbjN1bUtQTXN4NHJpaFpPbXpjbk9GR1VuQkY2LTNTd21MVjJLUGpxRk13RXF6TEIzOUNfdEZNWWZXVUxFaS10dnhGR2lmVXB0OW5IZGpVWEhna1dUYkE?oc=5
 
-- 琉銀と沖銀が 相談窓口設置 中東情勢で対応 - 琉球新報デジタル
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aaHJsU3BRRWg0V2pRRTRoM3hnVUU4TUNsMHdQWEEyUFVDZVFNVWpSWWt4enhvT2d0TEVuaGtxVXJJdVhQNjg2dUN5dmtVc0pKUTZJaW96Y3h4WEN6eE9wUHZn?oc=5
-
 - 【相談対応Q＆A】長期休みの学習はどう進める？ - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ucUxLN3lMYmR1N3Rod3dhMkdDSG1SMzg1ZFBfMTlscGlpN2pDSUx3VlJ0UVVwZXhVNXFiZ1oyQ0poUmRoSTBiYVkzdUZkY3BUSmhabmJtNmZSUVpUdDZUNmY3ZXBxUQ?oc=5
+
+- 琉銀と沖銀が 相談窓口設置 中東情勢で対応 - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aaHJsU3BRRWg0V2pRRTRoM3hnVUU4TUNsMHdQWEEyUFVDZVFNVWpSWWt4enhvT2d0TEVuaGtxVXJJdVhQNjg2dUN5dmtVc0pKUTZJaW96Y3h4WEN6eE9wUHZn?oc=5
 
 - くせ毛の悩み 対処学ぶ 髪に自信つき笑顔 首里でワークショップ - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ueUlmMGFxbE5qZ05MUEtjSjhQYkhuV3RYUkUzblRCV2pJT3FCbVJub1hUaW1jUllqckY1Vks5LW9nbDlPTThFY1hDaXRfSGhnaVd0c0h3ZEdTUVBPY3c?oc=5
@@ -36,23 +33,26 @@
 - 京都銀、中東情勢受け相談窓口設置＝5億円以内の特別融資も開始(時事通信) - Yahoo!ファイナンス
   https://news.google.com/rss/articles/CBMihwFBVV95cUxPUExaVGlucUxwcnJzM2hsb0k0bTJsbHJqRk1hSk1aUVZpc1JvQ1dmbS01SmRuVHJ1YmRjaks1UjBicTBGWHVEYVdBSk5GWXhYR1NPQWdLM0Z6Q1VhUzZjTE5LOVpnb1pmRjZTdUlPdXdma3ROaHFwVXZObElaS183dlJTcDc2cGs?oc=5
 
-- 相談できる大人、３人見つけて 秋田商業高で「ＳＯＳ講座」、悩みへの対処法考える - 秋田魁新報電子版
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HUmdwSWY5M0FST19EQzdHLVpoZHJpNzBncTVTeW0yWmpMV3Z1THV4ZzJKdng1MVhwNjJ4YkNOSTBad2NUNUhhRGk3d0V1Sm9uNDVJcFEwcHNuMm1JUzZpU293?oc=5
-
 - ふくおかFG、中東情勢緊迫化受け相談窓口 福岡市も中小向け - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5EZ0NBaHBHZEZlZ2Z1VkV3STl1RmttT1NHMDJKNjNKeUE5Nl9ZRnIyUExsQWo0RnFEMGxSTTZpbkhaYTNDNy1URDJHQ2JONEJOWm5pNENuTXc2eXZ5QWpYTXhHRXN6TWt3ZFMxVA?oc=5
+
+- 相談できる大人、３人見つけて 秋田商業高で「ＳＯＳ講座」、悩みへの対処法考える - 秋田魁新報電子版
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HUmdwSWY5M0FST19EQzdHLVpoZHJpNzBncTVTeW0yWmpMV3Z1THV4ZzJKdng1MVhwNjJ4YkNOSTBad2NUNUhhRGk3d0V1Sm9uNDVJcFEwcHNuMm1JUzZpU293?oc=5
 
 - 身近な相談窓口を知ってほしい 山口行政監視行政相談センターが周防大島高校で出前授業 - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGFfTDVtR2ZLVXJoTXBYTWZFekFQZmxpSU01ajBEMTdGMG54QUFwSlI0YnV6VUtHbGxubl9nd0ZMaFVJYXpSSmJrUjB5STRSMVROc0JWSFpOQVM5Z19oTGVkTmlaYVlncDVRV0N4dzJHTHQzWkpuUGoyNFZVZXpkRE5sV1NDeDg?oc=5
 
+- 株式会社オルバイ 確定申告無料相談イベント「その場で税理士に相談しながら確定申告を終わらせる！」を開催 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QZXpBalNsQU5fTmlVcmkteEVUaVBHd19jdllWcEo4c1pzc0RnVXFRdWJFbGxRZFpydURzMTJIRlNac2NXbXl3UE4ybXllS1U4a1JkQVd6cExFYU0?oc=5
+
 - 新入生 住居相談34件 名桜大物件不足で施設提供 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2X1NnU1NtLWpTN1R0T3M3eXpLR19tOTR0U1VWem94eXBCZThtclcyVnBOekcxdWJmOVhZLWVibmNjb3dvYzZULV9Cb0ptaW1zZXJyaDAxTnNpOFIySEE?oc=5
 
-- 大阪シティ信金、中東情勢受け相談窓口 支援融資も - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1nXzI1amkyTmZDWXlCekVfNUdsX0tBeGlUbkNsSTc3ODU3UnNDZk91aU5NSWY0Rm9PYk5iM1UyLXZMTm43cXdyanlBektwTXgzS3J5NHF1NXFHTVEwWG1WYlA1SHJ3MV9uTkJiaA?oc=5
-
 - 京都銀、中東情勢受け相談窓口設置（時事通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1mdklkdFB3dVQyOTd3clFJMkVHN0ZtenlRZG5kWkZTTzMxb3VpOXE4RHVfU3lnVFlPM09SZXhnNTNFTTBOaklPU0lJdVNoczZZZU9jbERWRjNSa29ZY3d5cC1IVG1HUVBVZ1JfenBXRmJlUkRtaEY0Z0gtc29tNTA?oc=5
+
+- 大阪シティ信金、中東情勢受け相談窓口 支援融資も - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1nXzI1amkyTmZDWXlCekVfNUdsX0tBeGlUbkNsSTc3ODU3UnNDZk91aU5NSWY0Rm9PYk5iM1UyLXZMTm43cXdyanlBektwTXgzS3J5NHF1NXFHTVEwWG1WYlA1SHJ3MV9uTkJiaA?oc=5
 
 - スケートボードで福井市中央公園や駐車場に破損被害か…市が警察に相談 警備員が少年ら目撃 - 福井新聞社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QYkI3UE81dFhTXzNUTmtWeVNjdV8ycWltQmxOczNCQm1MZk55LXVieWJxS1JKcnNqSnkyWENtYXhhdmtZSlg4R256LWtObEVwbTZtUDd1cy1MUnVCX1E?oc=5
