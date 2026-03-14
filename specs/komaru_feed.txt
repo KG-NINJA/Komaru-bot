@@ -1,10 +1,13 @@
-=== こまる相談 ニュースフィード (2026-03-14 07:14) ===
+=== こまる相談 ニュースフィード (2026-03-14 08:05) ===
 
-- 北部12市町村連携無料消費生活相談室について - town.kin.okinawa.jp
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWm1PT3gzaVpxMTRfQVVoRlF3YnBPTlVubDNVaEExZ0d1OUhBckJSZjJGN1pEX1R6elhDMVczcXRLdFNtMENvcmxoelFLSTl1NENuSURVT09kV0pZVjVLT1RxMVI5WmhkRHdZM25GZw?oc=5
+- 令和8年度特設人権相談所開設日程 - city.seiyo.ehime.jp
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxQdVF3cU9EZ0JCXzFBLXNYVGVyb0l1NFBlcUZNZGdyeWdyb0hITVQwcHNqRThjMFZNUWo0X0JIeGlva0xfSVYtOWluemRIMU9MR0VtMVE5VHNkVjIybE1wLXh6X2VoUDFia0dXak83T29ieDBCOUs2Q25wVTMzc05SS3VzTUJzTzBia1RoSVNGaWpNNHFHdTlNZ09R?oc=5
 
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
+
+- 北部12市町村連携無料消費生活相談室について - town.kin.okinawa.jp
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWm1PT3gzaVpxMTRfQVVoRlF3YnBPTlVubDNVaEExZ0d1OUhBckJSZjJGN1pEX1R6elhDMVczcXRLdFNtMENvcmxoelFLSTl1NENuSURVT09kV0pZVjVLT1RxMVI5WmhkRHdZM25GZw?oc=5
 
 - いじめ相談した親「こちらがモンペ？」 カスハラ対策への複雑な思い - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RMWpnTlJQUVB3bFdoeVBRdENPRUZQaG5BdG1aYTExbnJDRVdUU192OUZnUFMwS0NFN2pMZzBrWkNGX2hUcFFIOHhqcW9mQlprQnlzWjB3eGlFUndQSVRNSmJMby16ZVk?oc=5
@@ -30,11 +33,11 @@
 - FP相談会 楽しく資金計画をしよう！｜松本稔 - mbp-japan.com
   https://news.google.com/rss/articles/CBMicEFVX3lxTE5RU3ZvZl9ZQml5bkFLdkM5eXF2eURfNGxoWWJXc3RCTWNYYmtheVlDQ1V3Sk0wT0RaTnpZektVRWEySENiR1lTLUhRQ1ZPQ09iVUs2XzdoTWVuR0s5YlkwbTlDd0haSWNTWlZKVXJ0aHM?oc=5
 
-- 辻村相談窓口、「死にたくなる時」 - Design Stories
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxaHJ5OFRhbkczam5sSlF0R0x6c01GVzRWb2dobTJZVTNrQVNxZ0VFQk9uV0hvakw2cVVwNkF5bU1OUzdmTlJYVmdaVzJ2ZXJCbHdvX25QZmVlY3RsYnN1YnZSZm50QQ?oc=5
-
 - ひげ剃り後も快適！メンズの毛穴悩みにおすすめの“時短×高機能”な化粧水 [毛穴撫子 男の子用 ひきしめ化粧水N] - MEN'S NON-NO WEB
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE54ZnR6a0tEVnlZQzQyOFpxSkI5Z25JclJVd2VUa2xLMVdIdl94SkRXbkJNbk45R2NreG5HcFZGbTVoN3VUNldWZ1gwQXUxQkR2M2FWZF94TzNGR0s3?oc=5
+
+- 辻村相談窓口、「死にたくなる時」 - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxaHJ5OFRhbkczam5sSlF0R0x6c01GVzRWb2dobTJZVTNrQVNxZ0VFQk9uV0hvakw2cVVwNkF5bU1OUzdmTlJYVmdaVzJ2ZXJCbHdvX25QZmVlY3RsYnN1YnZSZm50QQ?oc=5
 
 - 子ども支援 方策探る 「悩み１１０番」１００回記念シンポ 福 井 | 学校・教育 | 福井のニュース - 福井新聞社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9scWJNWGQ3R0U2NjVOZVpJT3h2c29WekFnTkt5VkZCRXUtS2Q0U0tLT3Y1RmNQenIwTThMdnQ4MjNQRWROaE5fallpYmNKLXNwcUZCeXpBXzRlUHpzMmc?oc=5
@@ -42,20 +45,17 @@
 - 琉銀と沖銀が 相談窓口設置 中東情勢で対応 - 琉球新報デジタル
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aaHJsU3BRRWg0V2pRRTRoM3hnVUU4TUNsMHdQWEEyUFVDZVFNVWpSWWt4enhvT2d0TEVuaGtxVXJJdVhQNjg2dUN5dmtVc0pKUTZJaW96Y3h4WEN6eE9wUHZn?oc=5
 
-- 新築やリフォーム…住まいの悩み相談を 長岡市で3月14、15日、ｉｅｎｏｍａ（いえのま）フェア - 新潟日報
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbjN1bUtQTXN4NHJpaFpPbXpjbk9GR1VuQkY2LTNTd21MVjJLUGpxRk13RXF6TEIzOUNfdEZNWWZXVUxFaS10dnhGR2lmVXB0OW5IZGpVWEhna1dUYkE?oc=5
+- 「胸があると…」夏菜、悩みへの解決策にネット反響「参考になる！」「真似します」「スタイルいい」 - ENCOUNT
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE82dTFud2o1VHdkajV5Y3dZRVN5emdSQm9oVGQ2bkVUMWw1dTlubHlmckktTXVGZVcwandUajNXSXVmS0pmc0RRWFZfcUp5TE8xQ0E?oc=5
 
 - 【相談対応Q＆A】長期休みの学習はどう進める？ - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ucUxLN3lMYmR1N3Rod3dhMkdDSG1SMzg1ZFBfMTlscGlpN2pDSUx3VlJ0UVVwZXhVNXFiZ1oyQ0poUmRoSTBiYVkzdUZkY3BUSmhabmJtNmZSUVpUdDZUNmY3ZXBxUQ?oc=5
 
-- 〈おくすりの相談〉花粉症の根本治療について 花粉に慣らし体質改善 アレルゲン免疫療法 ３～５年継続で効果 - 上越タイムス社
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tSzZCbWs5ak1COWhOOXl5Q3FNa3Bnb2NVZ3NMemNKTkU3dndiUEVVVnIzeXdCdnJRdzhMNjEwZmdoeXJHRmdPTEtR?oc=5
-
-- カネボウ化粧品「トワニー」から新ヘアケアシリーズが登場 大人の髪悩みに着目 - WWDJAPAN
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ESW03Ny1lSDNoaGxRakUxQ3ZiWXMxVXB3eFhsQzhxdzd2VUU0Z05OekRpaHVzQ0ZHY1NiQk5oVW9fMG9qTWdZZ2hIVUsxcjhNZ3ZJ?oc=5
-
 - AI×家事〉「10年分の悩みが解消されました」３児の母が家事・育児にAIを活用 一番画期的だった実践法は（集英社オンライン - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9xUk9ueVFNcUlvTU1YNlRRVzltV1R1ZUZZOGJYazY3TFNyMk1YY29uMlUxcGhmdTNWNUJGUDBFTUZkbEt4RXVpV2NFZmNJaGxsTVowLTBJS2JIcWh1dmJKVmd6UUhrNUJpXy1BaGF4MW1OWFNqN0hVazZ4U05mU2s?oc=5
+
+- 身近な人が自死、残された法律問題の無料相談 14日昼から24時間 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPT1hzYUtlNGpjUHFaUWhIbWVLbEh2ZzA5eDBYdFNQSW8zdVBQOHVVbGJyVDl0R2tBR0hxeERYRkhpcktZNndlaC1tZW5qdjRxRk1RWkZsWVRpRVZWaGJkd1FLUjlMd00?oc=5
 
 - 「胸があると…」夏菜、悩みへの解決策にネット反響「参考になる！」「真似します」「スタイルいい」（ENCOUNT） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9UbjF3Y2lHYVVHampUQmozcW1iYkpuSzdLb0tIUkpheFFqc3lWdDdvUFdlQ3dZUExFV1dBUHlCX0FBMnZXMHNNeWlkNlRSN0l0VURhX3dXS25Wc095VDVfRXRoOGRuZEU2RDFGV2tWcm1JTVUxYTgwdWRPc3ZvT00?oc=5
