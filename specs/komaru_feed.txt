@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-14 04:31) ===
+=== こまる相談 ニュースフィード (2026-03-14 05:19) ===
 
 - 北部12市町村連携無料消費生活相談室について - town.kin.okinawa.jp
   https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWm1PT3gzaVpxMTRfQVVoRlF3YnBPTlVubDNVaEExZ0d1OUhBckJSZjJGN1pEX1R6elhDMVczcXRLdFNtMENvcmxoelFLSTl1NENuSURVT09kV0pZVjVLT1RxMVI5WmhkRHdZM25GZw?oc=5
@@ -9,8 +9,8 @@
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
 
-- AI×家事〉「10年分の悩みが解消されました」３児の母が家事・育児にAIを活用 一番画期的だった実践法は（集英社オンライン - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9xUk9ueVFNcUlvTU1YNlRRVzltV1R1ZUZZOGJYazY3TFNyMk1YY29uMlUxcGhmdTNWNUJGUDBFTUZkbEt4RXVpV2NFZmNJaGxsTVowLTBJS2JIcWh1dmJKVmd6UUhrNUJpXy1BaGF4MW1OWFNqN0hVazZ4U05mU2s?oc=5
+- 【山形】イラン情勢緊迫 県が中小企業支援へ相談窓口（YTS山形テレビ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1GTzhxaVUxdGtOMXk4dDlvdlVBcjRMQlU5c2ZEeWtGSkt2MUZkZXFUaER3eWJMWWpSN1NNbWdlM05TR2EzVF9uREFadTlxZUNNQkE1cExaUHphLXlEaHN4OGk1WGtVZGhGQWF2R1hPN042MGZ3LUlWQkxOVDV3SjQ?oc=5
 
 - エミリン＆タナカガ参戦! ディープな恋愛相談室『お昼なのにこんなこと話しちゃいます by #コイワラ』開催決定! - Fany Magazine
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PdzYzN0FoaU5UMVktYnk1VkZZQWYwTW1ZeHVQN0lXZ2NOTGZTZjZjWjcteHZHT1dUclRHcFg0TzdGTDFNenlCcw?oc=5
@@ -36,23 +36,23 @@
 - 子ども支援 方策探る 「悩み１１０番」１００回記念シンポ 福 井 | 学校・教育 | 福井のニュース - 福井新聞社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9scWJNWGQ3R0U2NjVOZVpJT3h2c29WekFnTkt5VkZCRXUtS2Q0U0tLT3Y1RmNQenIwTThMdnQ4MjNQRWROaE5fallpYmNKLXNwcUZCeXpBXzRlUHpzMmc?oc=5
 
-- 新築やリフォーム…住まいの悩み相談を 長岡市で3月14、15日、ｉｅｎｏｍａ（いえのま）フェア - 新潟日報
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbjN1bUtQTXN4NHJpaFpPbXpjbk9GR1VuQkY2LTNTd21MVjJLUGpxRk13RXF6TEIzOUNfdEZNWWZXVUxFaS10dnhGR2lmVXB0OW5IZGpVWEhna1dUYkE?oc=5
-
 - 琉銀と沖銀が 相談窓口設置 中東情勢で対応 - 琉球新報デジタル
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aaHJsU3BRRWg0V2pRRTRoM3hnVUU4TUNsMHdQWEEyUFVDZVFNVWpSWWt4enhvT2d0TEVuaGtxVXJJdVhQNjg2dUN5dmtVc0pKUTZJaW96Y3h4WEN6eE9wUHZn?oc=5
+
+- 新築やリフォーム…住まいの悩み相談を 長岡市で3月14、15日、ｉｅｎｏｍａ（いえのま）フェア - 新潟日報
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbjN1bUtQTXN4NHJpaFpPbXpjbk9GR1VuQkY2LTNTd21MVjJLUGpxRk13RXF6TEIzOUNfdEZNWWZXVUxFaS10dnhGR2lmVXB0OW5IZGpVWEhna1dUYkE?oc=5
 
 - 【相談対応Q＆A】長期休みの学習はどう進める？ - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ucUxLN3lMYmR1N3Rod3dhMkdDSG1SMzg1ZFBfMTlscGlpN2pDSUx3VlJ0UVVwZXhVNXFiZ1oyQ0poUmRoSTBiYVkzdUZkY3BUSmhabmJtNmZSUVpUdDZUNmY3ZXBxUQ?oc=5
 
-- 〈おくすりの相談〉花粉症の根本治療について 花粉に慣らし体質改善 アレルゲン免疫療法 ３～５年継続で効果 - 上越タイムス社
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tSzZCbWs5ak1COWhOOXl5Q3FNa3Bnb2NVZ3NMemNKTkU3dndiUEVVVnIzeXdCdnJRdzhMNjEwZmdoeXJHRmdPTEtR?oc=5
-
-- 「胸があると…」夏菜、悩みへの解決策にネット反響「参考になる！」「真似します」「スタイルいい」（ENCOUNT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9UbjF3Y2lHYVVHampUQmozcW1iYkpuSzdLb0tIUkpheFFqc3lWdDdvUFdlQ3dZUExFV1dBUHlCX0FBMnZXMHNNeWlkNlRSN0l0VURhX3dXS25Wc095VDVfRXRoOGRuZEU2RDFGV2tWcm1JTVUxYTgwdWRPc3ZvT00?oc=5
+- AI×家事〉「10年分の悩みが解消されました」３児の母が家事・育児にAIを活用 一番画期的だった実践法は（集英社オンライン - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9xUk9ueVFNcUlvTU1YNlRRVzltV1R1ZUZZOGJYazY3TFNyMk1YY29uMlUxcGhmdTNWNUJGUDBFTUZkbEt4RXVpV2NFZmNJaGxsTVowLTBJS2JIcWh1dmJKVmd6UUhrNUJpXy1BaGF4MW1OWFNqN0hVazZ4U05mU2s?oc=5
 
 - くせ毛の悩み 対処学ぶ 髪に自信つき笑顔 首里でワークショップ - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ueUlmMGFxbE5qZ05MUEtjSjhQYkhuV3RYUkUzblRCV2pJT3FCbVJub1hUaW1jUllqckY1Vks5LW9nbDlPTThFY1hDaXRfSGhnaVd0c0h3ZEdTUVBPY3c?oc=5
+
+- 「胸があると…」夏菜、悩みへの解決策にネット反響「参考になる！」「真似します」「スタイルいい」（ENCOUNT） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9UbjF3Y2lHYVVHampUQmozcW1iYkpuSzdLb0tIUkpheFFqc3lWdDdvUFdlQ3dZUExFV1dBUHlCX0FBMnZXMHNNeWlkNlRSN0l0VURhX3dXS25Wc095VDVfRXRoOGRuZEU2RDFGV2tWcm1JTVUxYTgwdWRPc3ZvT00?oc=5
 
 - 【第24週のばけばけ】10年が経ち東京で暮らすトキらだが、悩みを抱えるヘブン（日刊スポーツ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1td1hfV1N2cmZvTlBnMTVqcy1uUzV3TFFtYW5nbWF0SHdlYjRoUTV3Z1dPNW9Kb1plc2wzclF1WHhNWlZRdG9lWGwtcWJZVG44NGppekpEVTdtVVJjdi1CYVExdFdLRWZPOWJGaTQ3N3A1LTdlZWVTVDRudHFlalE?oc=5
