@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-15 12:05) ===
+=== こまる相談 ニュースフィード (2026-03-15 13:18) ===
 
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
@@ -18,14 +18,11 @@
 - 困った人に寄り添う大切さ 震災後、地元に戻った警察官が得た信念 [東日本大震災] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBldjFIMFpOZG9aaFVyd1ZaRkJjbkhycTNIdjZCR1dyaVNNR1NMQW1jbFRCcUNTeFBDOGtHaU54XzV3UklCTzFYNGFHWVczVzI3cnR6ZV9ueHBfWjFBc2J6dC0wQkFEcWc?oc=5
 
-- 「卒業入学のケーキ選びの悩みを解決」シャトレーゼの2900円限定デコレーションはWEB予約OK「当日受取も可能」 - LIMO | くらしとお金の経済メディア
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE84dXZlVnQyUENKWGwzdWVETlpGTDV2enlkU1M3bFJZRDZLZ0JtZzRwd3FWWEZpVUNkNlBIMThTMGhUTFI1RGZZcnNINTk?oc=5
-
 - 「子どもは『言えない悩み』あると知って」 精神科医・香山リカ氏講演 士幌で教育を考える集い - 十勝毎日新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1scklld3hMMFNPWXRQQTFsX0NXaW5CSnVGUnk1S3UwTkFvOFpoQkZlVUgxQ25TRXF1Z2ZVcFkzVGMtOTU5NHRpT3M0dXVjSVF3aDlkZExfYWNFT1FycV8xUDFMeGlDZw?oc=5
 
-- 心身の状態 確かめ 悩みは早めに相談を 自殺対策強化月間 沼津で街頭活動 点検項目や窓口 周知 - 静岡新聞DIGITAL
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zTjVlUkV3WFhVMEEzNl9XLU1EY0VESllPTjlRY1RSVWY5YnlpWHpwaHJsNmNNdWZVcWY5ZnoySGdyU1RrOEZBSE5zeWNMUQ?oc=5
+- 「卒業入学のケーキ選びの悩みを解決」シャトレーゼの2900円限定デコレーションはWEB予約OK「当日受取も可能」 - LIMO | くらしとお金の経済メディア
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE84dXZlVnQyUENKWGwzdWVETlpGTDV2enlkU1M3bFJZRDZLZ0JtZzRwd3FWWEZpVUNkNlBIMThTMGhUTFI1RGZZcnNINTk?oc=5
 
 - 【SNS相談は終了しました】孤独・孤立を感じている人を対象にしたLINEを活用したSNS相談窓口（公民連携実証プロジェクト推進事業） - city.sakai.lg.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTFBqR0k3eGcxRkVYNEZwMko2OXZQM1Y5cDFIZFJlVmhsRmU3ZWxZMEhMeVlLcUQ4VDBla25nWVptNEhLS2xKLXQ5b2FtbWpOTk5RX0twTDIyT2RLeUp5aHNwbDhCR0prUXJmSzg0YVVSRFY3X05lQWY0Zkw3SQ?oc=5
@@ -33,17 +30,20 @@
 - 姫路市 不登校相談リーフレット - city.himeji.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE52R0pOd2U5QlZzb2t3NUQ5Z1BZX2tfOGR2NEE3MDAyajhtS0VGMzRHNmc3R0hpZnlJSkgwa2NpZXFXR1o1OGw3T3FMQzNVWGdQLW8waUU3OTVobzJqOVZCZHBQZw?oc=5
 
+- 心身の状態 確かめ 悩みは早めに相談を 自殺対策強化月間 沼津で街頭活動 点検項目や窓口 周知 - 静岡新聞DIGITAL
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zTjVlUkV3WFhVMEEzNl9XLU1EY0VESllPTjlRY1RSVWY5YnlpWHpwaHJsNmNNdWZVcWY5ZnoySGdyU1RrOEZBSE5zeWNMUQ?oc=5
+
 - 京都市が3カ所目の児童相談所を新設へ 2027年度以降「きめ細やかに対応していく」 - 京都新聞デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRkMyY284bGF1QUpNN2l0QXJhbGp4VXluR0Q4c3VkdnR4anJpUUI0QUV2UERMVDJCa0NobkRaQW11ekY1UlRJcnp0VGVPZEROWHpkMnNGMWs?oc=5
 
 - 空き家・空き地の相談窓口 - city.sanjo.niigata.jp
   https://news.google.com/rss/articles/CBMingFBVV95cUxQTUdJLUNNbjMtNi1iZlp6cWZxNVpoeHBfS2dMa3laMHlqMWxOc1htYWFqTzQ5dDIzbHgwclJFbHhqUnZXQW9mOFloNnJHVDQzak5TNUg3QVFfQ0tCUjdxNVlsUzNXNFZoNUlTMHVfU0tIdDc0Y21WMHFiUFVpSzRNTW9leXlpUjhOamN3UW5YTmxfWG54b3l5X1hveFVLdw?oc=5
 
-- 茨城県内障害者虐待 24年度最多148人 相談・通報も 施設内被害4倍増 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wNWZMOFNtUC1qV3lpMWg3N2Q3MkF0OEE2VUFCaDRoQ0h6bEdYSEEtRndtTnR5Nmp6NWVncmFZRjEyWHZ0bmdwZmpJOA?oc=5
-
 - 相談できる大人、３人見つけて 秋田商業高で「ＳＯＳ講座」、悩みへの対処法考える - 秋田魁新報電子版
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HUmdwSWY5M0FST19EQzdHLVpoZHJpNzBncTVTeW0yWmpMV3Z1THV4ZzJKdng1MVhwNjJ4YkNOSTBad2NUNUhhRGk3d0V1Sm9uNDVJcFEwcHNuMm1JUzZpU293?oc=5
+
+- プライベートクレジットに新たな悩みの種、米銀行が特定の融資抑制も - Bloomberg.com
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE45YTR0S1hVTVRYU2hYYjBfMzUzTVV3OHBfZXpORWlkOVdfejVzXy1FXzRVTmU1Q1BwZkJqdmRsbjFndF9lM2RfbDU2dUZUeUNiclZrOUw0NkxHc2RyRmNLX2g2c0pINnZJTlIzNmJkNFV5NEdlTGl3?oc=5
 
 - 2児のパパ・小池徹平、幸せな悩み告白「子供たちが『パパ遊んで』って…」（サンケイスポーツ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1wOFJsdjJFNjZfU1c5cDY1RmNIZ0t4NXBtNTh6UlRBWEtvMXpXMVJmazZzT01nWWxJejFlM2RMV0R6RWJYVDN6OWZ2SGZTb0JuM3VpaVBlelcyXy1mamJDRTRfV0h6ODZjMzhCcmRHMHhBdk9TaVdCYTZrSTItZVk?oc=5
@@ -52,7 +52,7 @@
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RMWpnTlJQUVB3bFdoeVBRdENPRUZQaG5BdG1aYTExbnJDRVdUU192OUZnUFMwS0NFN2pMZzBrWkNGX2hUcFFIOHhqcW9mQlprQnlzWjB3eGlFUndQSVRNSmJMby16ZVk?oc=5
 
 - 法の力で若者を守りたい、弁護士らがＮＰＯ法人設立を目指す…家庭環境の問題で非行に走った子どもたち対象「そうなる前に相談できる場所を」（読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBONDUyeXNtaEQzVGdla3Q4d1Y4czdZem1aNUpVUWl5MVBjc2hFNUhTOFZUREZDUkRScUFlUEl0ek5xbW1vdjIwdlh6NU4yR1FoR0RpSk5sdk1Ydnh1ZnpqM05RdnZmZFZrYk9xbmRBdnFEWF9Yc0F3NTlrRzgzRWM?oc=5
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdko5eHlXNlBzcmdIWWdaMHI4X19YYjMtZml4MWg3NURVUkhxMjB0VmUtd21xdzJLeElldXBfMmptRS01WHFoUXJ1ekViLU1wbTVqTTJrbkEtcllvZlYyaEJHM0xhMmdiN096d2UtbzNMcWxYNzI0alYzS3ZNdmJWSE52cjVsVk9U?oc=5
 
 - 【ＮＨＫ朝ドラ『ばけばけ』今週は】ヘブン（（トミー・バストウ）はある悩みを抱えていた（中日スポーツ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1ObVdlVEZjdUViNVJPdkYwSzJ6TEVRVU5HRU8xaW41aS1YQTl2cVdZcmdHM3F0Nlg3OUl0TXItdTdOeGU4b3FDVVhfVl9DM3dYcUhzQUdRZmxrekg1blFQZHN4X1Z2d1lkbk1vZGhFRURpZlJEOVVmSXZmQ0pmN0E?oc=5
