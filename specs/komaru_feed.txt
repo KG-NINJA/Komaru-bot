@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-15 14:08) ===
+=== こまる相談 ニュースフィード (2026-03-15 15:06) ===
 
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
@@ -8,6 +8,9 @@
 
 - 北部12市町村連携無料消費生活相談室について - town.kin.okinawa.jp
   https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWm1PT3gzaVpxMTRfQVVoRlF3YnBPTlVubDNVaEExZ0d1OUhBckJSZjJGN1pEX1R6elhDMVczcXRLdFNtMENvcmxoelFLSTl1NENuSURVT09kV0pZVjVLT1RxMVI5WmhkRHdZM25GZw?oc=5
+
+- 令和8年度特設人権相談所開設日程 - city.seiyo.ehime.jp
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxQdVF3cU9EZ0JCXzFBLXNYVGVyb0l1NFBlcUZNZGdyeWdyb0hITVQwcHNqRThjMFZNUWo0X0JIeGlva0xfSVYtOWluemRIMU9MR0VtMVE5VHNkVjIybE1wLXh6X2VoUDFia0dXak83T29ieDBCOUs2Q25wVTMzc05SS3VzTUJzTzBia1RoSVNGaWpNNHFHdTlNZ09R?oc=5
 
 - 南城市、ハラスメント相談体制を強化 4月施行、派遣職員も適用へ 前市長セクハラ問題の提言受け「規則」に格上げ - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jTFpidnJJdmJPR09WRkJuOGhTVWp5UV9ndEY4US01ZDFYcDhQOV91OE90TXVtNmtRYUxkR3hrUzZRYy1remZMT2NmajVfU1BDTE5DM0FFYXQ1TDVWR2c?oc=5
@@ -21,11 +24,11 @@
 - 「子どもは『言えない悩み』あると知って」 精神科医・香山リカ氏講演 士幌で教育を考える集い - 十勝毎日新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1scklld3hMMFNPWXRQQTFsX0NXaW5CSnVGUnk1S3UwTkFvOFpoQkZlVUgxQ25TRXF1Z2ZVcFkzVGMtOTU5NHRpT3M0dXVjSVF3aDlkZExfYWNFT1FycV8xUDFMeGlDZw?oc=5
 
-- 「卒業入学のケーキ選びの悩みを解決」シャトレーゼの2900円限定デコレーションはWEB予約OK「当日受取も可能」 - LIMO | くらしとお金の経済メディア
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE84dXZlVnQyUENKWGwzdWVETlpGTDV2enlkU1M3bFJZRDZLZ0JtZzRwd3FWWEZpVUNkNlBIMThTMGhUTFI1RGZZcnNINTk?oc=5
-
 - 身体の健康や防災について考える「カラダいきいきフェスタ」 女性特有の悩みについても理解深める - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vMThWNHd6R0IweVdyazdmcjlzaXFnTXUzRjcybFU4MUJEdTBZU3J6dGFncDg5dlV4dzgwd29LLUlCQnR0RVdYM3ozbENCV2JSc3BESjhwSl84ZzBaeFpzai1HdENldzA?oc=5
+
+- 「卒業入学のケーキ選びの悩みを解決」シャトレーゼの2900円限定デコレーションはWEB予約OK「当日受取も可能」 - LIMO | くらしとお金の経済メディア
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE84dXZlVnQyUENKWGwzdWVETlpGTDV2enlkU1M3bFJZRDZLZ0JtZzRwd3FWWEZpVUNkNlBIMThTMGhUTFI1RGZZcnNINTk?oc=5
 
 - 【SNS相談は終了しました】孤独・孤立を感じている人を対象にしたLINEを活用したSNS相談窓口（公民連携実証プロジェクト推進事業） - city.sakai.lg.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTFBqR0k3eGcxRkVYNEZwMko2OXZQM1Y5cDFIZFJlVmhsRmU3ZWxZMEhMeVlLcUQ4VDBla25nWVptNEhLS2xKLXQ5b2FtbWpOTk5RX0twTDIyT2RLeUp5aHNwbDhCR0prUXJmSzg0YVVSRFY3X05lQWY0Zkw3SQ?oc=5
@@ -42,9 +45,6 @@
 - 心身の状態 確かめ 悩みは早めに相談を 自殺対策強化月間 沼津で街頭活動 点検項目や窓口 周知 - 静岡新聞DIGITAL
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zTjVlUkV3WFhVMEEzNl9XLU1EY0VESllPTjlRY1RSVWY5YnlpWHpwaHJsNmNNdWZVcWY5ZnoySGdyU1RrOEZBSE5zeWNMUQ?oc=5
 
-- 相談できる大人、３人見つけて 秋田商業高で「ＳＯＳ講座」、悩みへの対処法考える - 秋田魁新報電子版
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HUmdwSWY5M0FST19EQzdHLVpoZHJpNzBncTVTeW0yWmpMV3Z1THV4ZzJKdng1MVhwNjJ4YkNOSTBad2NUNUhhRGk3d0V1Sm9uNDVJcFEwcHNuMm1JUzZpU293?oc=5
-
 - 2児のパパ・小池徹平、幸せな悩み告白「子供たちが『パパ遊んで』って…」（サンケイスポーツ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1wOFJsdjJFNjZfU1c5cDY1RmNIZ0t4NXBtNTh6UlRBWEtvMXpXMVJmazZzT01nWWxJejFlM2RMV0R6RWJYVDN6OWZ2SGZTb0JuM3VpaVBlelcyXy1mamJDRTRfV0h6ODZjMzhCcmRHMHhBdk9TaVdCYTZrSTItZVk?oc=5
 
@@ -57,6 +57,6 @@
 - 【ＮＨＫ朝ドラ『ばけばけ』今週は】ヘブン（（トミー・バストウ）はある悩みを抱えていた（中日スポーツ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1ObVdlVEZjdUViNVJPdkYwSzJ6TEVRVU5HRU8xaW41aS1YQTl2cVdZcmdHM3F0Nlg3OUl0TXItdTdOeGU4b3FDVVhfVl9DM3dYcUhzQUdRZmxrekg1blFQZHN4X1Z2d1lkbk1vZGhFRURpZlJEOVVmSXZmQ0pmN0E?oc=5
 
-- プライベートクレジットに新たな悩みの種、米銀行が特定の融資抑制も - Bloomberg.com
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE45YTR0S1hVTVRYU2hYYjBfMzUzTVV3OHBfZXpORWlkOVdfejVzXy1FXzRVTmU1Q1BwZkJqdmRsbjFndF9lM2RfbDU2dUZUeUNiclZrOUw0NkxHc2RyRmNLX2g2c0pINnZJTlIzNmJkNFV5NEdlTGl3?oc=5
+- 相談できる大人、３人見つけて 秋田商業高で「ＳＯＳ講座」、悩みへの対処法考える - 秋田魁新報電子版
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HUmdwSWY5M0FST19EQzdHLVpoZHJpNzBncTVTeW0yWmpMV3Z1THV4ZzJKdng1MVhwNjJ4YkNOSTBad2NUNUhhRGk3d0V1Sm9uNDVJcFEwcHNuMm1JUzZpU293?oc=5
 
