@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-15 17:05) ===
+=== こまる相談 ニュースフィード (2026-03-15 18:05) ===
 
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
@@ -9,23 +9,20 @@
 - 北部12市町村連携無料消費生活相談室について - town.kin.okinawa.jp
   https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWm1PT3gzaVpxMTRfQVVoRlF3YnBPTlVubDNVaEExZ0d1OUhBckJSZjJGN1pEX1R6elhDMVczcXRLdFNtMENvcmxoelFLSTl1NENuSURVT09kV0pZVjVLT1RxMVI5WmhkRHdZM25GZw?oc=5
 
-- 令和8年度特設人権相談所開設日程 - city.seiyo.ehime.jp
-  https://news.google.com/rss/articles/CBMimgFBVV95cUxQdVF3cU9EZ0JCXzFBLXNYVGVyb0l1NFBlcUZNZGdyeWdyb0hITVQwcHNqRThjMFZNUWo0X0JIeGlva0xfSVYtOWluemRIMU9MR0VtMVE5VHNkVjIybE1wLXh6X2VoUDFia0dXak83T29ieDBCOUs2Q25wVTMzc05SS3VzTUJzTzBia1RoSVNGaWpNNHFHdTlNZ09R?oc=5
-
 - 【鎌倉市】鎌倉出身・養老孟司先生の人生相談番組「虫展」エピソード配信開始 - 湘南人
   https://news.google.com/rss/articles/CBMif0FVX3lxTE4ySm9QblV1MUJ2SF9aM0EyWFo0QmZCRDBvZUlINEg5Um5HWFhEdHlHU0NLN3JiNC1oQ09kWklWeUZoS2NFTkE5ZXBGdHl4TlN2aXQ0TkhxWXE0TElTV21HbnBYNUZZWkpkWW50NVVYS09PQnREWVVfWFp4MEwzUzA?oc=5
+
+- 「不登校」など問題を抱える子どもたちは、愛情だけでは変えられない。行き詰まっている方に知ってほしい「子育て技術」とは？【きのぴー先生の新連載】 - OTONA SALONE
+  https://news.google.com/rss/articles/CBMiREFVX3lxTE54WmlqVU1mdDBqYUNYZmhXcXhFWHFncjFMUVZTa2pMQWdiYlZtRmFlUTUwWmtQRWJ5LUx3ZWRjbXczeEtC?oc=5
 
 - 南城市、ハラスメント相談体制を強化 4月施行、派遣職員も適用へ 前市長セクハラ問題の提言受け「規則」に格上げ - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jTFpidnJJdmJPR09WRkJuOGhTVWp5UV9ndEY4US01ZDFYcDhQOV91OE90TXVtNmtRYUxkR3hrUzZRYy1remZMT2NmajVfU1BDTE5DM0FFYXQ1TDVWR2c?oc=5
 
+- いじめ相談した親「こちらがモンペ？」 カスハラ対策への複雑な思い - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RMWpnTlJQUVB3bFdoeVBRdENPRUZQaG5BdG1aYTExbnJDRVdUU192OUZnUFMwS0NFN2pMZzBrWkNGX2hUcFFIOHhqcW9mQlprQnlzWjB3eGlFUndQSVRNSmJMby16ZVk?oc=5
+
 - 【巨人】山﨑伊織の故障離脱に阿部監督「今で良かったと思うしかない」開幕投手は「ピッチングコーチと相談して」 - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMie0FVX3lxTE9femhBdk1HZjU0U3RGYzlwNEx4SXdhaVFrTDl2eXE4SDcwRGhZc0xYank3N1pmcTNlZzhSaVlOc1VmNFVBUG1aZkVKOTZINy1PNFZEMlpScTdlRF8wNEVtUWt6c3p1ZXdZUE5WaHB1V2k2STB5V3ZQdlVTNA?oc=5
-
-- 困った人に寄り添う大切さ 震災後、地元に戻った警察官が得た信念 [東日本大震災] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBldjFIMFpOZG9aaFVyd1ZaRkJjbkhycTNIdjZCR1dyaVNNR1NMQW1jbFRCcUNTeFBDOGtHaU54XzV3UklCTzFYNGFHWVczVzI3cnR6ZV9ueHBfWjFBc2J6dC0wQkFEcWc?oc=5
-
-- 「子どもは『言えない悩み』あると知って」 精神科医・香山リカ氏講演 士幌で教育を考える集い - 十勝毎日新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1scklld3hMMFNPWXRQQTFsX0NXaW5CSnVGUnk1S3UwTkFvOFpoQkZlVUgxQ25TRXF1Z2ZVcFkzVGMtOTU5NHRpT3M0dXVjSVF3aDlkZExfYWNFT1FycV8xUDFMeGlDZw?oc=5
 
 - 【SNS相談は終了しました】孤独・孤立を感じている人を対象にしたLINEを活用したSNS相談窓口（公民連携実証プロジェクト推進事業） - city.sakai.lg.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTFBqR0k3eGcxRkVYNEZwMko2OXZQM1Y5cDFIZFJlVmhsRmU3ZWxZMEhMeVlLcUQ4VDBla25nWVptNEhLS2xKLXQ5b2FtbWpOTk5RX0twTDIyT2RLeUp5aHNwbDhCR0prUXJmSzg0YVVSRFY3X05lQWY0Zkw3SQ?oc=5
@@ -33,8 +30,8 @@
 - 姫路市 不登校相談リーフレット - city.himeji.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE52R0pOd2U5QlZzb2t3NUQ5Z1BZX2tfOGR2NEE3MDAyajhtS0VGMzRHNmc3R0hpZnlJSkgwa2NpZXFXR1o1OGw3T3FMQzNVWGdQLW8waUU3OTVobzJqOVZCZHBQZw?oc=5
 
-- 身体の健康や防災について考える「カラダいきいきフェスタ」 女性特有の悩みについても理解深める - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vMThWNHd6R0IweVdyazdmcjlzaXFnTXUzRjcybFU4MUJEdTBZU3J6dGFncDg5dlV4dzgwd29LLUlCQnR0RVdYM3ozbENCV2JSc3BESjhwSl84ZzBaeFpzai1HdENldzA?oc=5
+- 「子どもは『言えない悩み』あると知って」 精神科医・香山リカ氏講演 士幌で教育を考える集い - 十勝毎日新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1scklld3hMMFNPWXRQQTFsX0NXaW5CSnVGUnk1S3UwTkFvOFpoQkZlVUgxQ25TRXF1Z2ZVcFkzVGMtOTU5NHRpT3M0dXVjSVF3aDlkZExfYWNFT1FycV8xUDFMeGlDZw?oc=5
 
 - 空き家・空き地の相談窓口 - city.sanjo.niigata.jp
   https://news.google.com/rss/articles/CBMingFBVV95cUxQTUdJLUNNbjMtNi1iZlp6cWZxNVpoeHBfS2dMa3laMHlqMWxOc1htYWFqTzQ5dDIzbHgwclJFbHhqUnZXQW9mOFloNnJHVDQzak5TNUg3QVFfQ0tCUjdxNVlsUzNXNFZoNUlTMHVfU0tIdDc0Y21WMHFiUFVpSzRNTW9leXlpUjhOamN3UW5YTmxfWG54b3l5X1hveFVLdw?oc=5
@@ -42,17 +39,20 @@
 - 京都市が3カ所目の児童相談所を新設へ 2027年度以降「きめ細やかに対応していく」 - 京都新聞デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRkMyY284bGF1QUpNN2l0QXJhbGp4VXluR0Q4c3VkdnR4anJpUUI0QUV2UERMVDJCa0NobkRaQW11ekY1UlRJcnp0VGVPZEROWHpkMnNGMWs?oc=5
 
-- 「卒業入学のケーキ選びの悩みを解決」シャトレーゼの2900円限定デコレーションはWEB予約OK「当日受取も可能」 - LIMO | くらしとお金の経済メディア
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE84dXZlVnQyUENKWGwzdWVETlpGTDV2enlkU1M3bFJZRDZLZ0JtZzRwd3FWWEZpVUNkNlBIMThTMGhUTFI1RGZZcnNINTk?oc=5
+- 身体の健康や防災について考える「カラダいきいきフェスタ」 女性特有の悩みについても理解深める - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vMThWNHd6R0IweVdyazdmcjlzaXFnTXUzRjcybFU4MUJEdTBZU3J6dGFncDg5dlV4dzgwd29LLUlCQnR0RVdYM3ozbENCV2JSc3BESjhwSl84ZzBaeFpzai1HdENldzA?oc=5
 
 - 相談できる大人、３人見つけて 秋田商業高で「ＳＯＳ講座」、悩みへの対処法考える - 秋田魁新報電子版
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HUmdwSWY5M0FST19EQzdHLVpoZHJpNzBncTVTeW0yWmpMV3Z1THV4ZzJKdng1MVhwNjJ4YkNOSTBad2NUNUhhRGk3d0V1Sm9uNDVJcFEwcHNuMm1JUzZpU293?oc=5
 
+- 「卒業入学のケーキ選びの悩みを解決」シャトレーゼの2900円限定デコレーションはWEB予約OK「当日受取も可能」 - LIMO | くらしとお金の経済メディア
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE84dXZlVnQyUENKWGwzdWVETlpGTDV2enlkU1M3bFJZRDZLZ0JtZzRwd3FWWEZpVUNkNlBIMThTMGhUTFI1RGZZcnNINTk?oc=5
+
 - 2児のパパ・小池徹平、幸せな悩み告白「子供たちが『パパ遊んで』って…」（サンケイスポーツ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1wOFJsdjJFNjZfU1c5cDY1RmNIZ0t4NXBtNTh6UlRBWEtvMXpXMVJmazZzT01nWWxJejFlM2RMV0R6RWJYVDN6OWZ2SGZTb0JuM3VpaVBlelcyXy1mamJDRTRfV0h6ODZjMzhCcmRHMHhBdk9TaVdCYTZrSTItZVk?oc=5
 
-- いじめ相談した親「こちらがモンペ？」 カスハラ対策への複雑な思い - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RMWpnTlJQUVB3bFdoeVBRdENPRUZQaG5BdG1aYTExbnJDRVdUU192OUZnUFMwS0NFN2pMZzBrWkNGX2hUcFFIOHhqcW9mQlprQnlzWjB3eGlFUndQSVRNSmJMby16ZVk?oc=5
+- 困った人に寄り添う大切さ 震災後、地元に戻った警察官が得た信念 [東日本大震災] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBldjFIMFpOZG9aaFVyd1ZaRkJjbkhycTNIdjZCR1dyaVNNR1NMQW1jbFRCcUNTeFBDOGtHaU54XzV3UklCTzFYNGFHWVczVzI3cnR6ZV9ueHBfWjFBc2J6dC0wQkFEcWc?oc=5
 
 - 法の力で若者を守りたい、弁護士らがＮＰＯ法人設立を目指す…家庭環境の問題で非行に走った子どもたち対象「そうなる前に相談できる場所を」（読売新聞オンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdko5eHlXNlBzcmdIWWdaMHI4X19YYjMtZml4MWg3NURVUkhxMjB0VmUtd21xdzJLeElldXBfMmptRS01WHFoUXJ1ekViLU1wbTVqTTJrbkEtcllvZlYyaEJHM0xhMmdiN096d2UtbzNMcWxYNzI0alYzS3ZNdmJWSE52cjVsVk9U?oc=5
