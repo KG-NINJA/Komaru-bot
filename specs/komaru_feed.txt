@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-16 04:50) ===
+=== こまる相談 ニュースフィード (2026-03-16 05:35) ===
 
 - 中東情勢受け福岡市が中小企業向け相談窓口開設（九州朝日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE4zNFItRnQzUm9XNGhlSGwzUUJnRWxYanhLNDYtSXV6SE94MngxZVFtOF9wQzFBOXZwU2psZS1Kc25oRDBxaFlOQnkxYUF1UGp6OWNPcTc4d0JVVnlydGhBMnNoV3NJZHJIMTk2dUxzZklXcHQ0ZVVHd0tPZmt2Smc?oc=5
@@ -18,6 +18,9 @@
 - 府中市 府中市が空き地・空き家ワンストップ相談窓口を開設へ、「空き家ガイドブック」も全戸配布へ（府中市議会議員 国民民主党 ゆうきりょう） - r-yuuki.jp
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hbTVEbm9TNGhOblY5dE5ZNU1kTmtqX05xbnJuTDYwS0RTRTMtdEk4am5rTEVzVi14OU8wakJsY1Q3TS1tMkxxVmxuYWY3QQ?oc=5
 
+- 犯罪被害者遺族に30万円給付 花巻市が4月から支援条例、相談窓口も - 岩手日報
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CRlk4dmJubS0tdlphaDJMbTRZZ2xQSGNYUW85dWdCbE1nekh5UWVPZGZwa1NEUEtKVlZzOWYxUkJWakJmMTdzMmhFeGFaLWh2a3hYRC1VU1ZLVXYzQUVRNQ?oc=5
+
 - 20代におすすめの結婚相談所ランキング！婚活のしやすさや料金体系を徹底比較【2026年最新】 - 東愛知新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lT2lwNFhfU3k5bC1leW9IMElvVVZPcl90NXZuZ2dKVnkyVUFmYklSVWN4SHJRRl9VeXI2d0VidU5tVk9XdEZrNnc5bm85M013WVUzbE9NT2R3R3JQQm9qVDZHZVlZdw?oc=5
 
@@ -27,14 +30,11 @@
 - 酒井若菜さん（45）40代の美容悩み、どう受け止める？「清潔感は担保しつつ〝大人ならでは〟を堪能して」 - storyweb.jp
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pTGUwRTgxaWx2eVR0ejMtaUtQcjF5Y2JCaHJMSGJfdXZlQXZGMzg2bjltOS14SHRzUUJpQkdLX1lXSTJDeHFaSjN1OWEwUQ?oc=5
 
-- 札幌市AIお悩み相談（実証実験） - 札幌市
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
-
-- 「少子化の現状知る貴重な経験」 各務原高生作、結婚相談所の看板を市へ - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5velJKRk5pX2o4RVVyeXkwNnhyejZINjMtQ0JLc09uTlB6dzRSemd3MHdCV2NwZ19Pb08yUGtTNkJ1S2RPWTVfa1lERW1HSDEyZEl2VzFHMzZQc1hMUUlfWA?oc=5
-
 - 北部12市町村連携無料消費生活相談室について - town.kin.okinawa.jp
   https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWm1PT3gzaVpxMTRfQVVoRlF3YnBPTlVubDNVaEExZ0d1OUhBckJSZjJGN1pEX1R6elhDMVczcXRLdFNtMENvcmxoelFLSTl1NENuSURVT09kV0pZVjVLT1RxMVI5WmhkRHdZM25GZw?oc=5
+
+- 札幌市AIお悩み相談（実証実験） - 札幌市
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
 
 - 【妊婦相談先事情調査データ公開】働く妊婦や不妊治療経験者の2人に1人が「24時間健康相談窓口」を希望 - 朝日新聞
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TV0ZRcm1jcWN2RFI2QzhaOURZRmk0dGpIZUJrN3N5U0tRZzVRRlVJa1ZKeU9rdVZ6dG1uNnItTW9NcFFZTThXWVpRaHRlYVBva3Z6ak9aMDFWT3c?oc=5
@@ -44,9 +44,6 @@
 
 - 中東情勢緊迫 福岡市が中小企業向け「特別相談窓口」を開設 追加融資や融資期間の延長など提示（RKB毎日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBtWUNsZ3RlSlNoY3lRd0NTTDF3WFlrNERsbXFCS21aNlZjbU5GbExjUHk3SnktR0k0VDJKYkQwN1FEb2lsUi1zaF9yU2ZNb2xETnRYUmh0d0p0NlhFZ0xIY1pndnllUWFSV3JlZ1NYSFdEQmY1YjZJSGxRVDdBYXc?oc=5
-
-- 「美容室に行くのが怖かった」 くせ毛の悩み、対処法学ぶ 那覇市首里でワークショップ - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ueUlmMGFxbE5qZ05MUEtjSjhQYkhuV3RYUkUzblRCV2pJT3FCbVJub1hUaW1jUllqckY1Vks5LW9nbDlPTThFY1hDaXRfSGhnaVd0c0h3ZEdTUVBPY3c?oc=5
 
 - timeleszが思春期の悩みにカッコよく回答！NEWS増田貴久、とにかく明るい安村も奮闘（音楽ナタリー） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBFU0NrQzBTTVc5cnBMendTNVRZN0FwX2hHb0JPNFVaRklES0JvVVR1X2pLdGFOb1FYYnN1SVd0TmlmMW9MWWNPdTF4akFQaGlBTTltdW1XVnBwUmhjbmRiNmhNQlE3T1JadGt5Y1FXTDB3RjJwS21VWTJUUFBHcDQ?oc=5
@@ -59,4 +56,7 @@
 
 - 「そんな使い方あるんだ？」ヘッドレストを活用して悩みが解決。「結構スゴいじゃん」ちょっと感動したカー用品。 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1WNUJkQUNuZjdFNlR2M1JyMlpDTTdVcFJ4OWk2T1BWUEhqZTZYMXIzWUFrcUJnTVpJTDBhVkg0Vzk1MmZXZTd0TUNMd2lvYkxxbXVFeUdROV8wbm5HVTJWUkNTcUlTYW94XzRCNW5tTXdRM3owV0pXNm45MXhjUE0?oc=5
+
+- 「そんな使い方あるんだ？」ヘッドレストを活用して悩みが解決。「結構スゴいじゃん」ちょっと感動したカー用品。 - carview!
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxONXZZdG9RTjNBSW55dXlhdGZGcHoxYlVDNVZ6R3FHLWpteWd3cVJaNm92ZHhtR1JTdmNheXo4ZWRub3BqUk90aFUweEtTSk5oVTdrN0xkbkstdzhGRXk1aTBjM3RlZENLaThoZERVS2FaREhndlY4MWRrTjllQ2E2bWtnOWxhM1Vq?oc=5
 
