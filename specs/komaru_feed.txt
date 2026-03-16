@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-16 13:29) ===
+=== こまる相談 ニュースフィード (2026-03-16 14:25) ===
 
 - 就学相談 - city.kobe.lg.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2NUOHlMaEo4M2hsbVJSQlZBeUJMOGVwTWE4QXd4c294WTlwWkRVN3FEM3dOVWVueDEyN1FqM2UydGEwZTlMVTdnc3NSZzQzY1VqMU54RUFzWmpCVW8zdWpocV9wSlNJOHNOSk5aVW16WEJtOHpuYks4X3RKUVgwRA?oc=5
@@ -8,6 +8,9 @@
 
 - 池田泉州銀行と南都銀行、中東情勢受け相談窓口設置 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQmEzZ0NaNEZnVTJtLUZfUFFneVduQzhxY2VzRmlCMWVsNVBXclcwaEg5NjVYamdEenQ2Q0syR0JfRmRGLWVpaGxubVQyTjJfdGJxYTVDUlU1eHQzdXppY0trZVFKOVRnR1BhaA?oc=5
+
+- timeleszが青春の甘酸っぱい悩みに即興回答！NEWS増田貴久＆とにかく明るい安村も参戦 - 日本テレビ
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE9wakpGalZsOEk0Yk5fY1BkVEJZeE5IVHNVU2pINWc5c2hOVENGNUNaaWxfV2RoX1VWWGZyOTJER003Q1pmSzlTeUt1U2JDV1ZXVjZXcFRZcW1pYVZRRU1VbWkxR3V2RDQ4alc1LWRNemtQbGVidkxZaDRrbDZRUQ?oc=5
 
 - ぴあ応援団 浜松市児童相談所 里親研修会～当事者の声から学ぶ、これからの里親家庭 - asahi-welfare.or.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEVHlDLWwyRXlzdWRpUi1idXF6VXIzMXlSTm81VkNwMVMzS0o2eWNpYU1oY2tRX1U3dkxRSXVVUlJyeURSaXV2VDJTQWhSNXFVUTd1VWNUdzJVOGkyZXc?oc=5
@@ -21,11 +24,11 @@
 - 路線バスの乗り方 旭川で22日相談会 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XNXBmckxkcENqWHJWRUhpVzg4UzV6anRVMzI2cXFfelY2blZwV3dRYXFMcjdUOWptVFRSc0wyQlBCMUl5Z2tscXVaSE5LanV6NmVGRTZuSElGQQ?oc=5
 
-- OTC薬、相談者に応じ単剤提案 - PHARMACY NEWSBREAK
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zSTcwaTZ1Wm1BT3ZNS01wcTlQRlJzNllURUt6NHdDSnBEMkZiOU1sQW1sX1l6dlc5S1JBdUpXVDVsaUdsdFNLYjl30gFPQVVfeXFMTlRYT2M5RkJqVW80ZHBVRUY2a0Z6b3BRMjdGOGRYVG9VTzZ4VGFnVXZlWUFrN1JUaXFybVBFTnhtQlY3VnlZYVhBaVZtS1RqMA?oc=5
-
 - 少年の悩みにかっこよく即興アドバイス！「timeleszファミリア」本日3/16放送 - 推し楽
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1WGxrSVRQRHl5V3JGNl9oeUluckRYTzctWmZTalo0eXNhcWpmeHdZbEN0UFJXY1hMMDVhVVo4di05Yk5wdGZUUUllX0p4TkFxOUp0ME96RjY?oc=5
+
+- OTC薬、相談者に応じ単剤提案 - PHARMACY NEWSBREAK
+  https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zSTcwaTZ1Wm1BT3ZNS01wcTlQRlJzNllURUt6NHdDSnBEMkZiOU1sQW1sX1l6dlc5S1JBdUpXVDVsaUdsdFNLYjl30gFPQVVfeXFMTlRYT2M5RkJqVW80ZHBVRUY2a0Z6b3BRMjdGOGRYVG9VTzZ4VGFnVXZlWUFrN1JUaXFybVBFTnhtQlY3VnlZYVhBaVZtS1RqMA?oc=5
 
 - 北部12市町村連携無料消費生活相談室について - town.kin.okinawa.jp
   https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWm1PT3gzaVpxMTRfQVVoRlF3YnBPTlVubDNVaEExZ0d1OUhBckJSZjJGN1pEX1R6elhDMVczcXRLdFNtMENvcmxoelFLSTl1NENuSURVT09kV0pZVjVLT1RxMVI5WmhkRHdZM25GZw?oc=5
@@ -33,17 +36,14 @@
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
 
-- 犯罪被害者遺族に30万円給付 花巻市が4月から支援条例、相談窓口も - 岩手日報
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CRlk4dmJubS0tdlphaDJMbTRZZ2xQSGNYUW85dWdCbE1nekh5UWVPZGZwa1NEUEtKVlZzOWYxUkJWakJmMTdzMmhFeGFaLWh2a3hYRC1VU1ZLVXYzQUVRNQ?oc=5
+- 性や体の悩み気軽に相談を ハッピーママベル、２６日に「カフェ」開設 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxT2lSOWc3WUdJazFfTWtnOHJ5THhXZ0RiZHBTZlMydzNoMW5fWnA0SlQzbEFSY1pkNTRrSHhNd0RPS290eVJtZHNiNA?oc=5
 
 - 杏さん「学びたいけど、時間が……」、読者の悩みにどう答えた？（Hanako Web） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9QN3JkS0Y5NHpMZ2I1SzVZNmJhd0pjX2ZBMkJkckVOU0pyMW1CcEZjd2hkY1VkRS1FdHFLYzg3cWMtYzdnN2lNZlNfLThmTlZBQ2VyNm5xUFBwcjk4Y1dxeTF2S0g0dERnTFlLNXFPWWtVMnpZaGlCRDFwOWVNRkE?oc=5
 
-- ライバルから“助け求める”相談も…ガソリンスタンドで今何が？「前例なし」イラン攻撃後の“産業用燃料の供給ストップ” - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NSGQ4aTlTNm9pQVVnY2JBVmlTTlIwTk1adFV6OVBSSktSTjI2WUYxR19MRzJPQ3lqdHlTQWxUSnhfNGRVczZsNkM4QXQ4QkpJYWdqNEoyNzJqa0MzMGUwYU5VNVI?oc=5
-
-- 県が原油の価格高騰を受け、相談窓口設置 ガソリンなどの値上がりは”死活問題”（山形）（テレビユー山形） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9penA0eFlqUmtzZ3VGNmNnUjlpdjFZWDMzMUhBQjNXbVhkTVNzV2cxRW9YM2tJYS1nR3RPMHp0QU5oVFoybU51VV9FUzVpUjBGRDZDVXhLWXRwT2hKOXlBZmZpcUlmRW5mTGhCcmREWjFDR0kwUkhQUklwczFqeEE?oc=5
+- 県が原油の価格高騰を受け、相談窓口設置 ガソリンなどの値上がりは”死活問題”（山形） - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IMlp3SU1JOXl6U1JSSl9iWlJQUno0VW80cWwzNkU4Zjg0eU1nY0NKRGIzTk4zQXpFejlwLXBKZ204VVlSWDhsRDNQckozUVEtdXQyTFhKM204bVI5bVVIQ0R0TU1fdmc?oc=5
 
 - 中東情勢緊迫 福岡市が中小企業向け「特別相談窓口」を開設 追加融資や融資期間の延長など提示（RKB毎日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBtWUNsZ3RlSlNoY3lRd0NTTDF3WFlrNERsbXFCS21aNlZjbU5GbExjUHk3SnktR0k0VDJKYkQwN1FEb2lsUi1zaF9yU2ZNb2xETnRYUmh0d0p0NlhFZ0xIY1pndnllUWFSV3JlZ1NYSFdEQmY1YjZJSGxRVDdBYXc?oc=5
@@ -57,6 +57,6 @@
 - 「卒業入学のケーキ選びの悩みを解決！」シャトレーゼの2900円限定デコレーションはWEB予約OK「当日受取も可能」（LIMO） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1PTXdteVhlYkhDWkhZdGhmVzIyMUJuWEpXU2ZrMkxDeGl5dndMUS1XODl1dWlCOWZqZ1FtWk9yY0tCQXFMX0Nra3ZYQ1F4YXU5Z0FpdnlMV3RmbzEwZTlIX0djTTBSOWtzZjBPV0JrbU9LNm0xbFZpVjc1NWE1Mkk?oc=5
 
-- 性や体の悩み気軽に相談を ハッピーママベル、２６日に「カフェ」開設 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxT2lSOWc3WUdJazFfTWtnOHJ5THhXZ0RiZHBTZlMydzNoMW5fWnA0SlQzbEFSY1pkNTRrSHhNd0RPS290eVJtZHNiNA?oc=5
+- ライバルから“助け求める”相談も…ガソリンスタンドで今何が？「前例なし」イラン攻撃後の“産業用燃料の供給ストップ” - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NSGQ4aTlTNm9pQVVnY2JBVmlTTlIwTk1adFV6OVBSSktSTjI2WUYxR19MRzJPQ3lqdHlTQWxUSnhfNGRVczZsNkM4QXQ4QkpJYWdqNEoyNzJqa0MzMGUwYU5VNVI?oc=5
 
