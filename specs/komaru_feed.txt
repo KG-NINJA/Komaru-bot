@@ -1,13 +1,13 @@
-=== こまる相談 ニュースフィード (2026-03-18 13:29) ===
+=== こまる相談 ニュースフィード (2026-03-18 14:26) ===
 
 - 県東京事務所が「東京本部」に ハラスメント外部相談窓口も（青森放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1XMlVQaG85TEpMZ3JBZlloVnl2UUNBUnJtSTFzbFRLM3NRWVlEME1qTjNKSEhiU3lQUDBhMm5mWklhVlVVZUVTaFBKVW9QZng4Zl9uR2lLdUZyZjJSV21XOXlvOFRoN09HcmlpbzJ3TjZZVDEyV1Q4TUFyVFpremc?oc=5
 
-- 筑波銀行、中東情勢緊迫化で相談窓口開設 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5MZUZUVGZHbVU5dWZWX1JRN25jU0tFSjA1bW51anNwbWtiSU43REIxU2NBT2ZYdGphNDdiN2Q1cHFxRmhLN1JaZnRvVVhPdTZVamFBaWFBbUprSjVFRFczdEVVVFBqNU9vR0RQMg?oc=5
-
 - （おにクルぶっくぱーく）みんなのお悩み、みんなで解決「名迷回答掲示板これもええんちゃう」 - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUVVazg1cjJ6MVBmQ0JWWDZaTUtEQ3hfaGhsWEg0U21idmk4ZjdmUlc3eTgwSVdmQjlCblQzd0wwLW9WYWdZbjRpc1dORE13NXBESDBnTVY4ankyZkpEbkFJQ3p3UVoxUFNMdU1kR2hFZlkwSlBZM0NDLVNoYWhObzUtVXRaWDhXX1RmS2hFUG04c3pXN19scWNxMXFjQUhCQkhLTzU1Rjh3SHJoekh6Mmozbw?oc=5
+
+- 筑波銀行、中東情勢緊迫化で相談窓口開設 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5MZUZUVGZHbVU5dWZWX1JRN25jU0tFSjA1bW51anNwbWtiSU43REIxU2NBT2ZYdGphNDdiN2Q1cHFxRmhLN1JaZnRvVVhPdTZVamFBaWFBbUprSjVFRFczdEVVVFBqNU9vR0RQMg?oc=5
 
 - 防府市、原油高で特別相談窓口を設置 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wMDM0VkROZ0M4cW92N0dncEZlS1JmYzk3NjFNM2NfaGp1SjhCcl9ucVVXWVVDNWVDTm93RVJZTXBIZUJvS2c2dVBGZlVjbUZDcXFVa2J5NFFFUQ?oc=5
@@ -27,17 +27,11 @@
 - 悩みや揺らぎを、連帯の入り口に。女性たちの等身大を伝える書籍『「自分のかたち」のまま、これからもわたしは』 - IDEAS FOR GOOD
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE12d0M4Q2lJRVpkbzd1VVRtYWtHMnFsTXp4RUs0d0d3aC1EeWMyYVhlTi1qdTJaT0FCS0tpU1VTWU5rdDBfWC1KNHhPUk04TlJINTVQY25XcDhOWXBrVlNZ?oc=5
 
+- NTTPCの技術者が紹介するテクノロジー「技業LOG」の新着記事紹介 【生成AIによる業務変革LOG #10】現場の「困った」をAIで解決：インサイドセールスの見積もり対応を高速化｜インフォメーション｜ニュースリリース｜【公式】NTTPC - nttpc.co.jp
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1oMjhSYjhnMl9TaU9na1JxOGlNaDNNS2FTNG5uSHZmaGd3U25WcUlDeUpKa2FfYUtpZGo2TXM2dlBseDBXcnMtOVZjbGdweFpUYzNneWdMVUpMRHl4U3RYVTZOOW92OFZEdFE4Nw?oc=5
+
 - Mujin、岡崎市で自動化システム見学&相談会 - LOGISTICS TODAY
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE1qMkZObXItenZ4REVrTTBOUmU0VTVuaGZHZlZJTVQ1M3FyRk9uWTBoSVlNZXZ4X215aExpdXYtVnpRcWVyckR1cg?oc=5
-
-- 3月17日 夜の広報無線 - vill.hakuba.lg.jp
-  https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWRuOEdMM1RGUEl6U2Z1Q3pHRzFUX1k4S3FZRG9WUG9GUTl4RnpUYjRwQXZLSm95Nng2cTFEWjBmYzhsbW0wZHdfMHhjWVY0c0RwTHdTUXczTTNac1FyaEw3dWNLUnVFU0psaXNXVTNLd0NOTU1ySHg0ZGtCR3luUUtyZ2l2dkNPNlkyeFB6eU5QTHZwS0pTbm5UTTc0MzIyd0hVX0V4SQ?oc=5
-
-- 防府市、原油高で特別相談窓口を設置 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TbmxiWlRHcnFsc2ZpdUtMbmg3aEswWVFjaFlOX2hlYzJfbUwtYjNORnd6NzNLa1pYMXU3ZEh0eDdZNnc4WDl3ajRYOA?oc=5
-
-- 中東情勢緊迫化で相談窓口 熊本市 - 熊本日日新聞社
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VcWJtU08tM0ZjVFBEeC1NRTVBTy1GWG9zR2ZsQmZPOUc3aXhLbjVzRF9OVDZLQndINElUemZJSnBxaHpvZzVpRlQxMGs5X1k?oc=5
 
 - 中東情勢の緊迫化で熊本市が特別相談窓口設置（TKUテレビ熊本） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9BWTd5LVJYWTNmcl8zb25QNktWVURiV2RQdnI0OS1qUWpjWjZBWHE1dFpSdDk4NkNHQkloeHRTTzExS1UzcVFhTFFXVHl5R2FzeHRGRmJnYzFSSjM3VTFZcWVsTDl4LTE1S3VEal96UFBka0RzQXROeDhiby1kMTA?oc=5
@@ -51,12 +45,18 @@
 - 佐賀銀行と佐賀共栄銀行、中東情勢緊迫で相談窓口設置 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE8zbkxLQjc3Ni1ldzZSSmFlMmtKMS1wd2ppdzN4VExKNHlkVWpPVVFjd0ZHdGRsVUxrUFhQeHV2eDlyeHA5bDEyOV95eUhRSUtNRTVHOG1Qbms5S0lNNWgxMHo4YnZnQXNmdVpiRw?oc=5
 
+- 虐待から子どもを守れ 千葉県内に児童相談所4つ開設へ 定員100人以上増（チバテレ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE8ySzR5eVNyelVHNGdnZm83S1diY2tHYzQtTkNoclFuUElKelZmYl9IU2ZVZm56Qy1VOVJ5WmVDeGZTaEtLWExyNHdvMldIRU11Vk9sMTBBd1FlRHdNbV9qN1FNQnJWQ3FxTms1RDlsSGpjMzVvZlIyRUV6aWo4eTg?oc=5
+
+- 「相談受け不適切な関係に」30代女性教師が教え子の男子高校生と関係持ち懲戒免職 「テレビの取材で足の裏を診断」女子中学生の足の裏触ったわいせつ教師も（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBQU1lBX1RrajRGeV9uQ2xCc0V1bnRRS2hGdWVxRFFXQU9RQjVvbW9NWU5PNUcybzBjZHRpczVqUjlWMHIyVXI0U01YMEZwZUFPa3VNckhCSXVvQkRnRUNtVjJpN0FRelhjMFNmQkl0MXZENGd0cXNnZEpRUjd2Njg?oc=5
+
 - 広島銀行、中東情勢緊迫化で特別融資＝1億円以内、相談窓口も(時事通信) - Yahoo!ファイナンス
   https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmFyazNOT1o1OHhmMkZyZ0czMnhjNjhJQU0wY0tDa1FIQTlCYUUwMERIbDdfZ0JxZWZTYkplSDNQM3pNMzdrX3hUSklfYWRSXzZwNmw0a2toRWdsQkc0QmM2WFlacUNseUJnSnJtMDhuZ2Rkcmp2azVWbVloRFJER3VBVlBVdms?oc=5
 
 - 中高年から「点検商法」の相談が急増中！ 知っておくべき巧妙な手口、必要な対策とは（京都新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE14YTJkUnZKSTFRdTdPSkxhSk5UVXVoV2pEc2VTVEZlRUtUM3hGeFhNbXVYOWR1N2RTa3ZmclpOeEZwR2YtcnhtNnM4S2UtLWo4WTRieG55RWdob0h1SWtaVnRpYzhjeGlMUGk5NlNxS1BWcURfQkZaUktxeVNwZDA?oc=5
 
-- 札幌市AIお悩み相談（実証実験） - 札幌市
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
+- 3月17日 夜の広報無線 - vill.hakuba.lg.jp
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWRuOEdMM1RGUEl6U2Z1Q3pHRzFUX1k4S3FZRG9WUG9GUTl4RnpUYjRwQXZLSm95Nng2cTFEWjBmYzhsbW0wZHdfMHhjWVY0c0RwTHdTUXczTTNac1FyaEw3dWNLUnVFU0psaXNXVTNLd0NOTU1ySHg0ZGtCR3luUUtyZ2l2dkNPNlkyeFB6eU5QTHZwS0pTbm5UTTc0MzIyd0hVX0V4SQ?oc=5
 
