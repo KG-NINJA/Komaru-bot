@@ -1,4 +1,10 @@
-=== こまる相談 ニュースフィード (2026-03-21 23:04) ===
+=== こまる相談 ニュースフィード (2026-03-22 00:11) ===
+
+- 辻村相談窓口、「チャレンジ」 - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQbHJ2Um5hMVNhRWp5Mkw2MGVBWC05UThLbzBaYm5fNkFGa2FnNV9yX3RST2g4RWJReVdNMzNpVGpEUVpWSE5qSVMtUzUzMHJGazkxc0lMODRYVzdHZXduMVcwOHVwUQ?oc=5
+
+- 神戸市 発達障害者 相談窓口を4月から3カ所（兵庫、垂水、北区）に再編～名称・開所日・開所時間を統一 - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6UjUtYlZGclZHaEZYNjYyWDd1Q1VfLWQ1TWc1YmhVNzBYNDRHVXVIZ0JZVEsyRDdIODlBeDlPRUkzWkphVlpCMDVXUlo0eHFNZDhtSDlxU1p5TnJoY3k0?oc=5
 
 - 英語のお悩み解決!春スペシャル2026 - ラジオ英会話 - NHK
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QNnNFN0pLczR2b29XdFJ0R3QtWmZBMEJIOG5xNFVZb0x2UmhJQTBaWmRWTTh2QV9BZEpURGx0NnhtYkxoY283b2RjOWdhbkRwbGZEX0RHYzlnUVdqV2VYWEpYMzBoY2Nw?oc=5
@@ -9,32 +15,35 @@
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
 
-- 時代の風：全人代に表れた中国の悩み 安定を確保できるのか＝高原明生・東京女子大特別客員教授 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QblktZVhQT21qREJhakNmMnpTOHhoMmdXSTNOOUp2RkU1Qmxqa0dIckZ3SWF1MnpJdDBKSXp0bWhUTUdYV2IxNkxuQWRRMVJ3RE5Ia0c4VUtWV1NUNHJxZ05uVWtkT3lQ?oc=5
-
 - 保育相談窓口を一本化 室蘭市、コンシェルジュ開始 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE11TzJ2Tk03RWxDTmdtOGFnVnFnVEdwb2VUdjRpdlJ6cmVKUVpqaEVkdFo5ZXFwejRncVZOQjE0U1pxcUU0cmRGR3hqZw?oc=5
-
-- 悩みのある人を地域で支える 池田高辻校でサポーター養成講座 - 徳島新聞デジタル
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uU2RyQTdKWDBqRi1LQ1UzZUlaYmR3WTJleG1fSDVwOUlUN2JpNFFiaDBFUndocTB6RDdZeWY2SEtYU3NYNVc0MVZWZGdFdVlabi1wLVdR?oc=5
-
-- “公務員ハンター”連携で協議会を設立…相談窓口設置や専用アプリによる情報蓄積で連携【長野】 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWdfRnBSU2lVeUIxMmxVVGNlbWhFbFVWdUVXdkhEUGlVdWtjZmpIQTFqUGpEcExrWmxwejUyTjh2MGJfd2lUZy1BdDNvRG8zRXdzMTBJdlpISUpLZE5pby1NVGdIU0pVOTUxdGVLWTBJMDdXUm9CRXEzeGxYTy1Zbm5iY3ZMSlU?oc=5
 
 - スマホのきほん相談会 - city.ikoma.lg.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbDRDRWxHWkg3eWlYa0dCUWxxQnVDZ3RFdEpLaWttQXNHcC1rMzkwdU9SemZxQW5iS0xRUUFfVjdxZW9pZFZIN3NkU1dPcm9jbXBURV9OQQ?oc=5
 
+- 就学相談 - city.kobe.lg.jp
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2NUOHlMaEo4M2hsbVJSQlZBeUJMOGVwTWE4QXd4c294WTlwWkRVN3FEM3dOVWVueDEyN1FqM2UydGEwZTlMVTdnc3NSZzQzY1VqMU54RUFzWmpCVW8zdWpocV9wSlNJOHNOSk5aVW16WEJtOHpuYks4X3RKUVgwRA?oc=5
+
+- 時代の風：全人代に表れた中国の悩み 安定を確保できるのか＝高原明生・東京女子大特別客員教授 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QblktZVhQT21qREJhakNmMnpTOHhoMmdXSTNOOUp2RkU1Qmxqa0dIckZ3SWF1MnpJdDBKSXp0bWhUTUdYV2IxNkxuQWRRMVJ3RE5Ia0c4VUtWV1NUNHJxZ05uVWtkT3lQ?oc=5
+
+- 悩みのある人を地域で支える 池田高辻校でサポーター養成講座 - 徳島新聞デジタル
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uU2RyQTdKWDBqRi1LQ1UzZUlaYmR3WTJleG1fSDVwOUlUN2JpNFFiaDBFUndocTB6RDdZeWY2SEtYU3NYNVc0MVZWZGdFdVlabi1wLVdR?oc=5
+
 - 横浜・鶴見　児童相談所が来月開所　内装や前室…心和らげる工夫 - ｄメニューニュース
   https://news.google.com/rss/articles/CBMic0FVX3lxTFBWVjktckdhSTBiT2pEV3dab1RTMkM5Z2QtTjJheDVBMi1Yei12WXoyMkZIMzBORTIzUWxwcVRwWXlNSFlrdGh2WWlYU0d6X0FfU05kMjFCUDlxQnp5VUVfWHRXMDNOZXVRSzlteVpQbVRrMFHSAXhBVV95cUxPd1VSZnN3eVBfV1Y1ckRRYy01MHlBTGdYTUlITzMwUmNFTzJvbGM5UE5zWk1FNjV1elNIZEVxb2JTZGlady1Oc05QZjY2cDBXZkZJR3BPYV9MZC1PYzdlazZ4T1FFMnYxYTh1NTM3U2FrM0d0dmlLbEI?oc=5
+
+- 「第83回おおた介護のお仕事相談・面接会」の実施について - city.ota.tokyo.jp
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnVCNG1uVEhnUlVTeFVLQkRTcmdnd0JBTHBMVXRtTGw3bUhyclNBNkZ6NXZPTk54N3VyOEotaXM0MWxjZW95TUZ2UFJIbDFJMDQ2REVKZkZsaW8xR2RLWGJkTUk4Y0x4LTlKQktIVHNXOEo0Yy0ySjRSdHJoWWhMVFZiR3M5VmhqWWlMNzBn?oc=5
+
+- “公務員ハンター”連携で協議会を設立…相談窓口設置や専用アプリによる情報蓄積で連携【長野】 - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWdfRnBSU2lVeUIxMmxVVGNlbWhFbFVWdUVXdkhEUGlVdWtjZmpIQTFqUGpEcExrWmxwejUyTjh2MGJfd2lUZy1BdDNvRG8zRXdzMTBJdlpISUpLZE5pby1NVGdIU0pVOTUxdGVLWTBJMDdXUm9CRXEzeGxYTy1Zbm5iY3ZMSlU?oc=5
 
 - 主な悩み相談窓口 - 自殺への偏見「ある」8割 遺児対象の全国調査、岡山県立大 - 写真・画像(2/2) - 西日本新聞me
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1T2o4OWh3dGhEZmp3YnJzLVpicHkwMjVqbXQ5NmsxTzFHRXJMUHM1ZTlnaUJPdHlENFJFbV9uX0RmYk94ZG9iUWhyZllvaU9BRFQ2a3lsdw?oc=5
 
 - 着物を洋服に再生 南砺の呉服店で相談会｜地域｜富山のニュース｜富山新聞 - 北國新聞
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1RWVodEJvNUxWdWxCREZoMnBpNnZyTzNuaVBTQXZzbWNaQTBCdV9ZaXoxT1JYdzUzRWtoZHhlVHBPcWVvWHpqSi00RG8zSERUUk5Wd0NjNk02dw?oc=5
-
-- 「第83回おおた介護のお仕事相談・面接会」の実施について - city.ota.tokyo.jp
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnVCNG1uVEhnUlVTeFVLQkRTcmdnd0JBTHBMVXRtTGw3bUhyclNBNkZ6NXZPTk54N3VyOEotaXM0MWxjZW95TUZ2UFJIbDFJMDQ2REVKZkZsaW8xR2RLWGJkTUk4Y0x4LTlKQktIVHNXOEo0Yy0ySjRSdHJoWWhMVFZiR3M5VmhqWWlMNzBn?oc=5
 
 - 先生への暴言、長時間の相談控えて 教育委員会が保護者に理解求めるポスター 福島（TUFテレビユー福島） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFByVmZZWGpXN3dHcVpudHFMN0daMmNqSy1jN0RSSUgzR3hBc1VES1lZWk5xX0dDbXFvNVFGTnlvaWVUbDhveko2MmxvTlNsTlVac1MwZm9SbEV5Sll5N1FUMlZjQnFRaXVoY1hYTlI0UVI4dFAzUEI0bVo2Snh1VGs?oc=5
@@ -50,13 +59,4 @@
 
 - 仕入れ・燃料高騰 中小企業を支援 荒川区が相談窓口 - 東京新聞デジタル
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DcGlxT2dabTJoYU9HRXBJb3FnTE5IbGlaVGc5b2JMOEFFSUpWY3psNEItZFg2MHMzMkhrUnlyeEZGY0pmakplSUFZQjN0ZFhXTGNj?oc=5
-
-- 就学相談 - city.kobe.lg.jp
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2NUOHlMaEo4M2hsbVJSQlZBeUJMOGVwTWE4QXd4c294WTlwWkRVN3FEM3dOVWVueDEyN1FqM2UydGEwZTlMVTdnc3NSZzQzY1VqMU54RUFzWmpCVW8zdWpocV9wSlNJOHNOSk5aVW16WEJtOHpuYks4X3RKUVgwRA?oc=5
-
-- 佐賀県や銀行、原油価格高騰受け相談窓口 - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5ZjV5X0pnZ29vWThhM0laOUp5WXhMVk13ZkVrSXk5aTNNVEtRNnZ4c1VZdU1RbENDcWNYUTJiVFNQbjRRclVUNTVwemxya1pVUXNRQ0dR?oc=5
-
-- 「紛失防止タグ」悪用したストーカー行為の相談が前年比約2倍に 殺人事件の被害者側に取り付けられたケースも 警察庁 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wZDg2VnlGaEhfRjdLRFl6OU1fZVY1RnN0d19KX3hQczhhczliX2ZzdDJIRnR5a2tZZmN4cnB1OVJzenRMcUNtdUd6SW84eFR1ZG5nQjRxNA?oc=5
 
