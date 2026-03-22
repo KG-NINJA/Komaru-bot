@@ -1,7 +1,10 @@
-=== こまる相談 ニュースフィード (2026-03-22 02:59) ===
+=== こまる相談 ニュースフィード (2026-03-22 03:54) ===
 
 - 辻村相談窓口、「チャレンジ」 - Design Stories
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQbHJ2Um5hMVNhRWp5Mkw2MGVBWC05UThLbzBaYm5fNkFGa2FnNV9yX3RST2g4RWJReVdNMzNpVGpEUVpWSE5qSVMtUzUzMHJGazkxc0lMODRYVzdHZXduMVcwOHVwUQ?oc=5
+
+- 柏市、独自に児相設置へ 親子、若者 幅広い世代支援 中核市の特色生かし「気軽に相談できる場に」 - 東京新聞デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE92Q0QzRVJDcUVzUW1qQ2tkWEVaS1g5SXAyTk9UUWg2SU5qaXpjTUZyUUo1MTFfalF1SjUyMFZldjk0YkpkZDkwYzdUQzJUMC1RMXVB?oc=5
 
 - 神戸市 発達障害者 相談窓口を4月から3カ所（兵庫、垂水、北区）に再編～名称・開所日・開所時間を統一 - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6UjUtYlZGclZHaEZYNjYyWDd1Q1VfLWQ1TWc1YmhVNzBYNDRHVXVIZ0JZVEsyRDdIODlBeDlPRUkzWkphVlpCMDVXUlo0eHFNZDhtSDlxU1p5TnJoY3k0?oc=5
@@ -15,14 +18,14 @@
 - 斎藤工「たまに2500円とか入る」監督業だけじゃ「家賃払えない」悩みを相談する仲良し芸人「一樹」とは（スポニチアネックス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRDZjSl9LbVZKY3J6OTA2djVhNUtQX1VaMzdMTmR4dGZiSVFMdEU1U3g4VEdJb0tLUWt5cllSYXdLYlBSamx5Wnl0SDdubm80SEczWlZzLUFMbmZHd2U2S1FzM3BKVXNWaXJYWmIwRkFjakJuZHdTblZOcU8wN2s?oc=5
 
-- 「眠たくなったら、そのまま寝れる」車中泊ファン共通の悩みを解決する、軽バンベースのキャンピングカー！写真6枚目 - Motor-Fan[モーターファン]
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wNFcxRXhDemdKTklZWFgtWGVpSFZsOVBaYlN2d214TkI1cnZpekRoZlQxbUdqYl9oVVlUZXdSQUNGdGFycG8wNGZkM202bzVHR0FsUGtNcU5vb3BqemN4Q1Y2bnFNV0Nn?oc=5
+- 浜田・江津で広がる「優しい投票所」 縁の太い用紙や相談ボードで障害者の1票を支援 - 中国新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3V1Rfck0zeUFZN3FFcjRWY2o1SnFKaC1VY2Y4eWxnUWhkcHRFNTFzYVJ3QUV0RDg2NDMtY2xPdmlJUG9oUkpGTndGby1hRVhYdWZJLXdLeW83Zw?oc=5
 
 - 札幌市AIお悩み相談（実証実験） - 札幌市
   https://news.google.com/rss/articles/CBMifEFVX3lxTE45SG9aX0lDRDlkODRHemVsMWR2b20zbnhKTmw4RkZSS0piazd2SXlHVmtlR0lGTmlZSzUyVDFiYk1vZUF1czVhRnowT2ZoTGJ2aDRYOC1hS1U5dThIRnNEZGhPZ09CVlI4Ylc0LXZmQkdtemFXcDc1c1Y5SjA?oc=5
 
-- 悩みのある人を地域で支える 池田高辻校でサポーター養成講座 - 徳島新聞デジタル
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uU2RyQTdKWDBqRi1LQ1UzZUlaYmR3WTJleG1fSDVwOUlUN2JpNFFiaDBFUndocTB6RDdZeWY2SEtYU3NYNVc0MVZWZGdFdVlabi1wLVdR?oc=5
+- 「眠たくなったら、そのまま寝れる」車中泊ファン共通の悩みを解決する、軽バンベースのキャンピングカー！写真6枚目 - Motor-Fan[モーターファン]
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wNFcxRXhDemdKTklZWFgtWGVpSFZsOVBaYlN2d214TkI1cnZpekRoZlQxbUdqYl9oVVlUZXdSQUNGdGFycG8wNGZkM202bzVHR0FsUGtNcU5vb3BqemN4Q1Y2bnFNV0Nn?oc=5
 
 - スマホのきほん相談会 - city.ikoma.lg.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbDRDRWxHWkg3eWlYa0dCUWxxQnVDZ3RFdEpLaWttQXNHcC1rMzkwdU9SemZxQW5iS0xRUUFfVjdxZW9pZFZIN3NkU1dPcm9jbXBURV9OQQ?oc=5
@@ -30,17 +33,14 @@
 - 就学相談 - city.kobe.lg.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2NUOHlMaEo4M2hsbVJSQlZBeUJMOGVwTWE4QXd4c294WTlwWkRVN3FEM3dOVWVueDEyN1FqM2UydGEwZTlMVTdnc3NSZzQzY1VqMU54RUFzWmpCVW8zdWpocV9wSlNJOHNOSk5aVW16WEJtOHpuYks4X3RKUVgwRA?oc=5
 
+- 悩みのある人を地域で支える 池田高辻校でサポーター養成講座 - 徳島新聞デジタル
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uU2RyQTdKWDBqRi1LQ1UzZUlaYmR3WTJleG1fSDVwOUlUN2JpNFFiaDBFUndocTB6RDdZeWY2SEtYU3NYNVc0MVZWZGdFdVlabi1wLVdR?oc=5
+
 - 「第83回おおた介護のお仕事相談・面接会」の実施について - city.ota.tokyo.jp
   https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnVCNG1uVEhnUlVTeFVLQkRTcmdnd0JBTHBMVXRtTGw3bUhyclNBNkZ6NXZPTk54N3VyOEotaXM0MWxjZW95TUZ2UFJIbDFJMDQ2REVKZkZsaW8xR2RLWGJkTUk4Y0x4LTlKQktIVHNXOEo0Yy0ySjRSdHJoWWhMVFZiR3M5VmhqWWlMNzBn?oc=5
 
 - 保育相談窓口を一本化 室蘭市、コンシェルジュ開始 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE11TzJ2Tk03RWxDTmdtOGFnVnFnVEdwb2VUdjRpdlJ6cmVKUVpqaEVkdFo5ZXFwejRncVZOQjE0U1pxcUU0cmRGR3hqZw?oc=5
-
-- 横浜・鶴見　児童相談所が来月開所　内装や前室…心和らげる工夫 - ｄメニューニュース
-  https://news.google.com/rss/articles/CBMic0FVX3lxTFBWVjktckdhSTBiT2pEV3dab1RTMkM5Z2QtTjJheDVBMi1Yei12WXoyMkZIMzBORTIzUWxwcVRwWXlNSFlrdGh2WWlYU0d6X0FfU05kMjFCUDlxQnp5VUVfWHRXMDNOZXVRSzlteVpQbVRrMFHSAXhBVV95cUxPd1VSZnN3eVBfV1Y1ckRRYy01MHlBTGdYTUlITzMwUmNFTzJvbGM5UE5zWk1FNjV1elNIZEVxb2JTZGlady1Oc05QZjY2cDBXZkZJR3BPYV9MZC1PYzdlazZ4T1FFMnYxYTh1NTM3U2FrM0d0dmlLbEI?oc=5
-
-- 時代の風：全人代に表れた中国の悩み 安定を確保できるのか＝高原明生・東京女子大特別客員教授 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QblktZVhQT21qREJhakNmMnpTOHhoMmdXSTNOOUp2RkU1Qmxqa0dIckZ3SWF1MnpJdDBKSXp0bWhUTUdYV2IxNkxuQWRRMVJ3RE5Ia0c4VUtWV1NUNHJxZ05uVWtkT3lQ?oc=5
 
 - 「眠たくなったら、そのまま寝れる」車中泊ファン共通の悩みを解決する、軽バンベースのキャンピングカー！ - Motor-Fan[モーターファン]
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yYlNIZzMzeEFSNkFxMGhjZ2gzSDRoNTZVeEhZalRjNjdwbXBHMlQtUkRIV3QwS1lrWmFFWE1ibjdqYVZwSnVfcGxVazI5OW5XTndyYXNMbHI5ZmV6dGV0SU1vX2taUVQ0?oc=5
@@ -48,14 +48,14 @@
 - 生理のつらさ、小学生も婦人科で受診を 学校行事や部活、受験…子どもならではの悩みも（47NEWS） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9UVGNtYktoNTdMSEJ3V201ZFhqb2tTSmEwd2NQb3BaeHQzMjU1RGp6RGtmTUEzdmNNNlM3OGQ5RHVUWHp2OHh0dXNMZGpGdDNWaWVDcS10THN5ZXN4NWhKTllQOVVQY2JmZFZ4SWEtWUNmYVYwbVBJbVJsNGpiNDA?oc=5
 
-- 高校時代に買ったブラは20万円、胸を小さくする手術の相談に行くと…Lカップ人気セクシー女優の苦しみの過去【インタビュー】 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5sM3VjcG1sUWtxSnh6cjdXRHRGMkJDNDhzeWwyNktqUXROdHR3MjFLcnRaV2VZdGRTT29qSkxXV1UzMnBGZExxSGE4TFVpMk1GcFM0QmxjYkYzSTBoR0g0Z2V6S1VFXy1aQnNuLTRPbG1wXzMyRjFpQ00zME1LbTA?oc=5
+- 「眠たくなったら、そのまま寝れる」車中泊ファン共通の悩みを解決する、軽バンベースのキャンピングカー！写真2枚目 - Motor-Fan[モーターファン]
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5USGRac20zSFpDZ3pTd0tkY3B3cS1scTBTWmxFUWg3Q1NZaTFrcUs0ZXFlWWdETGdxU0pyYXRoR0ZPVWZQajJneWRmNzBzNnNiTWlIX3VNQnUtNUtPaGI4V0FBYkdjdTNm?oc=5
 
 - 「眠たくなったら、そのまま寝れる」車中泊ファン共通の悩みを解決する、軽バンベースのキャンピングカー！写真9枚目 - Motor-Fan[モーターファン]
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSWHZvQk1vWFVIZUFRR1RVU0dCakVNWldTbEtBLXJwaWpiYTY3OUc3d3pEN0ZYcklEbzdPWTZHZTJfYXVremJFakR3RWJZaEJpMU45Sm83YWVfNEtTeUJOc3kyektUMVJG?oc=5
 
-- 「眠たくなったら、そのまま寝れる」車中泊ファン共通の悩みを解決する、軽バンベースのキャンピングカー！写真7枚目 - Motor-Fan[モーターファン]
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmVGtRRDlBemJfbWFZQUY4ZnhTazJydnp0a0JBQXR4bWRhcUJuQUZpbWdmZXlEZC1XQ2k2bU5QNXlEeUVYemNEN2E4WW9iQW1DOVBBOEVXU19SQnFyOWM3QmhCN0ZxMERz?oc=5
+- スマホ相談会「スマチャレみなみ」 - city.sakai.lg.jp
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzFLclRNU2RJVXJDZXVIRmZIY2FHX1BpeXYwMG9kVlpYQy03cFQzRkwwVGVpX1F6NzJpYTg3Y2I3cGNXMTJMaFQ5ZzR5NDVwdmcxajFVdUVMNklxNVRjelN5d19FV1pRcW14M3J4eFRKQkJJalVrMWpnOVFJN0JwREpfUXhsZw?oc=5
 
 - 「楽天アカウント」乗っ取り不正注文、被害広がる…相談４００件に上り警視庁が注意喚起 - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4cnZzNlhnd1EyMGw2X1ZBU0kwV3k1SW9xOUtVU3ZVMVNHRGZUWFQ1M0d6RkUyNktYbjVISVJLZEZPU1l5RHR5N1RjV09xVzNnNE9FSXBma1pmMzd3dUh0NFFkWVdFUQ?oc=5
