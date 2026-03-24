@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-24 15:22) ===
+=== こまる相談 ニュースフィード (2026-03-24 16:21) ===
 
 - ローソンに「Pontaよろず相談所」が順次開設中｜ローソン公式サイト - LAWSON
   https://news.google.com/rss/articles/CBMia0FVX3lxTE5LNnFVc2F6OC0yYjdEakZrOXpXZnhzVEppYUNlMUdJTjVoX1U1elRBcGM0VE45WE10SjV3alZyS2wtNjZQQ01wNDV0UWFQVUxSMFJVWUZaWWI4YXlleXhmTHFxY3Njb0xGcW9R?oc=5
@@ -21,17 +21,20 @@
 - 森香澄、悩み相談相手はAI「気を使う必要がない」 - サンスポ
   https://news.google.com/rss/articles/CBMidkFVX3lxTE1hQWhiLVhreGR4RXUwOEhmcjU4M2xsZlJsaUxHZF9UV05vV2Qwck1YRHlOdW5GVDJIaDEyMlVwNkZRRFE3d2Z4VjZaWHFEMFVEaFhKa3dsSHRETkdKNWt2bDZNOUVsQkFTZFZqZUlSMUNsdEdNdEHSAYoBQVVfeXFMTVozZkhuY25ENWFmWnlDSkpWWmo2WjM5cDNDUVBPNlpVcVRtbXhka3p0azRqWjY1OF9RYXZublg3VVo2dG5WSmt0a1hUZUx1bkMzZkRzVkNTa2VtcnJqaGJ6OWhEWXVqaVFjSWFBRVBxNnNMY1NWNTYyaHlYd3VUYjJUa3FrdjZVdGJB?oc=5
 
-- 森香澄 お悩み相談は「ポジティブなことを言ってくれる」とAI頼る 次世代型AIイヤホン発表会 - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LbFoyQTBzOC1JWWJZbUtUXzl5Y0RZTDloRFlwVmhGLVkxbVpoR2hoSkdMS3ZDMUxRR0o1LTdnbnhxNUtIRUZ4NEJ4NTU0WVRiNk1wcw?oc=5
-
 - 中東情勢影響 三重県が相談窓口…中小企業や小規模事業者向け ：地域ニュース - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMicEFVX3lxTE5ScVpCVHRxbks4V3M0VzYxZ2hodm1tandqUllvbkN1bXpmNlE4Q2lGN3VSclE4dDVfeE9JQTU0dUNNZGVNV3lLa1A2bVRaMUs1eXhYc3FzQ2VzbmJwY1o0MWZwR1g2dnFBNlYtRHBXaGc?oc=5
+
+- 森香澄 お悩み相談は「ポジティブなことを言ってくれる」とAI頼る 次世代型AIイヤホン発表会 - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LbFoyQTBzOC1JWWJZbUtUXzl5Y0RZTDloRFlwVmhGLVkxbVpoR2hoSkdMS3ZDMUxRR0o1LTdnbnhxNUtIRUZ4NEJ4NTU0WVRiNk1wcw?oc=5
 
 - ウクライナ、中東情勢受け 岡山商議所が相談窓口設置 - 山陽新聞
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rU0NzMzhIeVE3aGl3c3JhYVRGV3oyMzRRand5Wk5HQ1l0SDdLUDFyRjlLT0g1eWk0X0hwWjZrM0w2alo2MFBlWG5rQ2FsS2phcXZBRDZLOEc?oc=5
 
 - 中小企業庁／中東情勢で中小企業向け「特別相談窓口」や金利の引下げで対応 - トラックニュース
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TZEJWaHZfUmVqVlhxM01jVVJkb2JUMExBeTlYMmR0V3pDQ19LX1gyd0VYLWJZUm9YbXItNklMSGZzeTZrcmxOUTV4SzRqcGJCZXlNNQ?oc=5
+
+- 保育の相談、まとめて対応 室蘭市がコンシェルジュ事業開始 - 北海道新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TRGNONFRtWUpSRlAtTUxHdFhtX2d6NTJWR3VZZ1lXWWVOWFVpbHJqa2k2aWF5TURFQ0w5WUdMMl9BdElyenRldzBtYW4wNy1CaDh5eFFNRUZWQQ?oc=5
 
 - 原油価格高騰 広島県が企業の相談窓口を開設 横田知事「県内経済に与える影響大きい」 - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKcFFQYUJTazEwVVRZU1lnMFFOWjBhWXg1QUYwd2dlUU9QR0FsYk1ISU51bTl1bHV6S0gyRWdUQ09GS1BRS1A4cW9XR3Rxdw?oc=5
@@ -45,18 +48,15 @@
 - 【2028年までに義務化】3人に1人が高ストレス経験も、約5割が対処せず。ストレスチェックの形骸化と社内相談の限界が浮き彫りに - prtimes.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTFA0SFdMSUNyQ0Q1eVNaakRlUFhIbHh0WEdQN29HVzZfSjNzd1F2b0pORzA1QzZCNGtWNmtWZU5UdEtBRzQ3MHhRNnQ3c2Q2VXB2blFrNTd5czc3UXdFRFlSa1VtSlFZSkdwaEE?oc=5
 
-- オンラインの「不妊相談」開始 徳島大学病院【徳島】（JRT四国放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRURkZFNkWmw0SGs2a1BqUmFPcHgyeHh6VENvWEs0VldVb2VNdTZfM0EwTGI4X1NNVTB0ejFXU1dTM0pxMnl2dXBBYmphVzA0T0ZjN0pEdjFSNm15b3BKMkpwT3JXVktvQXItLUd2V3daQ1BZMGw5U0xhbHI1ZVk?oc=5
+- 神奈川県、中小企業支援へ資金繰り相談窓口を設置 中東情勢の緊迫化や原油価格の高騰受け（産経新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9HR240VXVNTEU5Y0lIQjcxTW5GaUN4eExIdmhsYXFQUEhMajJpaHh5UngtbFdhRnVjbE5jMmxQNEczOVhvQnVRU21qdDluVWxhV0RrTkJnOVhLdmRPRWg0Z1R5WDR4UDJsdG95UGhTWWQyZ1RySC1UTzFyUjM1Z1k?oc=5
 
 - ポールトゥウィン、AI開発時代の品質課題を可視化する診断サービス 「ドクターQA」を展開 『Japan IT Week 春2026』で無料相談を実施 - prtimes.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE93RXR2bDBlNV9nemtoLUpQRkZ3dDdDYkh6bWx4T0tXTTFpWFAxU1hta1l1czh0U3JaQzN2UnJxa3U2akpKT0ZZZllIUnQwT213Ukw2MTJMNzdiMXhGWDZLYlZpRUxPMk9kNUE?oc=5
 
-- 神奈川県、中小企業支援へ資金繰り相談窓口を設置 中東情勢の緊迫化や原油価格の高騰受け（産経新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9HR240VXVNTEU5Y0lIQjcxTW5GaUN4eExIdmhsYXFQUEhMajJpaHh5UngtbFdhRnVjbE5jMmxQNEczOVhvQnVRU21qdDluVWxhV0RrTkJnOVhLdmRPRWg0Z1R5WDR4UDJsdG95UGhTWWQyZ1RySC1UTzFyUjM1Z1k?oc=5
+- オンラインの「不妊相談」開始 徳島大学病院【徳島】（JRT四国放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRURkZFNkWmw0SGs2a1BqUmFPcHgyeHh6VENvWEs0VldVb2VNdTZfM0EwTGI4X1NNVTB0ejFXU1dTM0pxMnl2dXBBYmphVzA0T0ZjN0pEdjFSNm15b3BKMkpwT3JXVktvQXItLUd2V3daQ1BZMGw5U0xhbHI1ZVk?oc=5
 
 - 民間にも支援の輪広がる産後ケア 悩みを抱え込みがちなママや家族をサポート（テレビ静岡NEWS） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE90aFlBdkRLOFhnXzNOWk9SQnV4d0lDVzdka3VSVjI1Z3FMdk50Q1h5YmNnYkwzZlNFUVhucEJtX0VfX3FPQnIxU1pQYkJCelJrYVJ1NmJuMnltSEJ3ZDZYQzRGS0xZTUxzSHJSaEk5M0VTdXZROUNlRjdZVGVkQVU?oc=5
-
-- 【中東情勢対応】中小企業や農林水産など各事業者の経営・資金繰り相談窓口を県庁内外7か所開設（静岡県） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1OY2pYV3hDTS1DNXZfNm9JbnlLMlNBMlpab2ZoclMzZDFYUU83c1A3SDJuOW9DbUFxRlNFYlhVajBzV3N4clRkSWhYTldzMlpyd0lYRlI1X3RuaW1qdzFpaWx3aXM5ZkZxbnpaZnc3c1ZsVDBpUENLeE9PVUc3ZFU?oc=5
 
