@@ -1,10 +1,10 @@
-=== こまる相談 ニュースフィード (2026-03-24 03:48) ===
+=== こまる相談 ニュースフィード (2026-03-24 04:35) ===
 
 - 中東情勢の変化に伴う相談窓口 - pref.hiroshima.lg.jp
   https://news.google.com/rss/articles/CBMid0FVX3lxTE5IZDVJSi01ZW1NV2RnNEdSTTBkcTh0VmZRMFI1b1lBRV9tVHBzd2pSb2ROYV9oWURZa0sxUHNnUWVGMWp0QmRvM1JJdUpRRUdWWkRuSEk0MFJxbk42ZnFsZ193ZDFzbFRheUdodnBLVlg1MFdnTUxZ?oc=5
 
-- 森香澄、悩みは「あります」 AIへの相談を告白…人と比べて「気を遣わなくていい」（ENCOUNT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5ITFZpR01MRFRxN1NPXzhqNER5SFZnektLYXl4LVNvQTBuX1otYlFyYkk0Y0llYVUtRUFkV0hWY2hKcDhma2N4cE1lYy16cFI3WEJMb2RLUHRObXhETnJxZVlsZjY2QnNFYmt6RGxtOFVfQWlTNDF1OF8tNWJ2dk0?oc=5
+- 中東情勢巡る経営相談、千葉の地銀3行が窓口設置 国内全営業拠点で（朝日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9VbFdFRXR4TUlnUXNXRERpR19uMzNNamJBN3pyYU0ySzEzOXd0TjBPOTB4MTgyZTZwdk43U08zUmd3ekF4bjgyejBJNldUNVp1WEtZQnI0MzNxbGxHUFYydVhiMEZ5ZmFTZktSb3lpSHB3NEhIRUdOc1Y1Z2tiakE?oc=5
 
 - 中東情勢影響 三重県が相談窓口…中小企業や小規模事業者向け ：地域ニュース - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMicEFVX3lxTE5ScVpCVHRxbks4V3M0VzYxZ2hodm1tandqUllvbkN1bXpmNlE4Q2lGN3VSclE4dDVfeE9JQTU0dUNNZGVNV3lLa1A2bVRaMUs1eXhYc3FzQ2VzbmJwY1o0MWZwR1g2dnFBNlYtRHBXaGc?oc=5
@@ -30,6 +30,9 @@
 - 令和8年度行政相談所開設のおしらせ - city.takashima.lg.jp
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEFlQndMMXNLcGVUQW1nVEtZS291ZTUtS1ZfTUtxd1ppb1RCSnhIaFVZZVR1MEZRcFdCMnJPQ2tQYzhEMmd1N19YYVFVeUczbDQwQWNVTTU0YmI1U0JuUkhfUVc4QzAwTTNObU5EM0JqQkZJZWw4OU11WkR2cnpRS2piRHYxV2c?oc=5
 
+- 森香澄の悩み相談相手はAI「気を使う必要がない」「ポジティブなことを返してくれる」 - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2NqbVdfdDRjZm1qYzJ2eUpBRFljNmYxZ19yWnhTYUJYSkdxMlFoUGUxY0tzaWdTeTM1Q1FCRVV4NTJBemFLbFlfdDhwY1R6RVJaOHFJRV9KVUJDUUY1WDZjV2FIbU51VmRfMkFoalZySzRDQ2luMDBzTFhUU19sSUhGVGJrOVNXUWVjRTRqa2ZjaGVBbTkyVUQ0WlVJaV9nSE9kVEoydWx3Z1RQN1MyYVNB0gGkAUFVX3lxTFAxaGlYRHJrUkZsR3FRN09ZQTlNdTJJekZjNWVHdVdSTm5GQTNIeFp6M3JoQ2FITlRHNVIyYlF6OTJncms2TElkVW5SZWsxZlh1NXJzMWxORUpaR2czbjVtSnQzSzRWa1QwMnRTTHdQUzdkdWV1Y2pVcTh6N3Rtb0pzNzhiRGJ4TzBPb3lVejB0VkpCVTMyeENITTBQak00Z2lyUm1N?oc=5
+
 - 米ファストフード店の悩み：牛肉高騰でもバーガーを安く - WSJ
   https://news.google.com/rss/articles/CBMipAFBVV95cUxQanJHY1U3R1ZWTjlyQmQ0aHpCVXZKdEo2RTJURjBoZGNIc3BGM1BjVFVjV3ZLQmV2NTlHUGRTUy0tdkNSNVdYeFh5MjRhaDY2NlNyY09VeG1JVXpaaTFVVEI3SERUT1BVT1JKZmVtb01wN2NVeGt2c2hmYkEyVVFpdW9tSmZPY1paRk9JMnRBel9MZmJBUVlPOE1feGhKN2xmd3RtMw?oc=5
 
@@ -45,14 +48,11 @@
 - 中東情勢の緊迫化に伴う相談窓口開設/西京銀行全店に - 山口新聞 電子版
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBRTFllY05QM0RDR0l4N2RaZmhhbHNGazluSVpvcUlsN3Z6VW5MYXJsYmE0ZVRYVUs4Zl9sZGNGcWVXTDVLRDktNlREOGNJRy03ai1FbElFTHNfN3RnM2QyclFRd3dNQXZkS1E?oc=5
 
-- 中東情勢巡る経営相談、千葉の地銀3行が窓口設置 国内全営業拠点で（朝日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9VbFdFRXR4TUlnUXNXRERpR19uMzNNamJBN3pyYU0ySzEzOXd0TjBPOTB4MTgyZTZwdk43U08zUmd3ekF4bjgyejBJNldUNVp1WEtZQnI0MzNxbGxHUFYydVhiMEZ5ZmFTZktSb3lpSHB3NEhIRUdOc1Y1Z2tiakE?oc=5
+- 森香澄、悩みは「あります」 AIへの相談を告白…人と比べて「気を遣わなくていい」（ENCOUNT） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5ITFZpR01MRFRxN1NPXzhqNER5SFZnektLYXl4LVNvQTBuX1otYlFyYkk0Y0llYVUtRUFkV0hWY2hKcDhma2N4cE1lYy16cFI3WEJMb2RLUHRObXhETnJxZVlsZjY2QnNFYmt6RGxtOFVfQWlTNDF1OF8tNWJ2dk0?oc=5
 
-- 雑談から悩み相談、本格的な仏教相談まで。AIブッダ禅 for iOSが正式リリース。世界初※の10,000偈句を超える経典データベースを備えたRAGシステムで、経典の誤情報・誤引用を防ぐ。 | VeritasChain株式会社のプレスリリース - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9pOHM1YzJNSWQ0MmJJZVR4UV9OTjB6cEM1c2lkR29Ock9PMFN0aGxfdnBCN21seW9zX3hUYV9YNlh2QmhQZGVabWdiSkFyVVRaalJtQkVZQmZ1akx6NVVNYkVDRHZaWUd0V2c?oc=5
-
-- 第1子妊娠中・出産後に「引っ越し」した人は約4割 引っ越しの際、妻が困ったのは？ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9HRjJxd3Q4elkxN0VxOUpZX29pSW9yLTgwRlR2Nm9Ed2R0NlVhSHJTQ0ZmTWo5Z3BhSzBRZ09VbFNrVnZpQzdFVUJ3RmFibXIyaHJmX09rX0RocTZaR09aZmlwTTFGMDRHbXRyLS1XRVM4QTFwYlNrT0pUTTF5cjQ?oc=5
+- かまいたち濱家隆一、子どもに「勉強やったか？」連呼 親の悩み告白「自分は全然やっていなかった」（ENCOUNT） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1iXzM0OERVS1BlQ2ZDX3RTTVJkWmVKbFB2NGhSajRZNDV5cFlTbTRPamIxMDkzMi1MQ2lTV1poZVA4cVphcWF1blN0U0tocVlvcXpEWDJmQ1FaUGhVNGVleF9LY1dRdUx0Z0w2d3djWHhzVHk0ZEFfN1l5cjZkeVU?oc=5
 
 - 金尽き銀行に融資相談で発覚 ＳＮＳ型投資詐欺で４千万円超被害（九州朝日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUFZoNk9MRWxlY0pkV2FtSUVVSUpjb3V5Nl9FNFNDUnVkZnYySXExMXhmaGg3dHdwUmM1c3lmckxUdFpZSVRYZ1RmRWdOODNfV1JjM1JIcTA1dzVJYmFPcHZxb2hyUWMxTk1mTUl1aUlPaHhpWDh2clVfZnhtaEk?oc=5
