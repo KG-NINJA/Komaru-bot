@@ -1,13 +1,10 @@
-=== こまる相談 ニュースフィード (2026-03-25 06:19) ===
+=== こまる相談 ニュースフィード (2026-03-25 07:21) ===
 
 - 【大田区】相談窓口：【プレスリリース】中東情勢の変化に伴い特別相談窓口を設置しました - J-Net21[中小企業ビジネス支援サイト]
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Fdk1TdjRpN2pZVHZYSmF6Q3dZa3dENXlHUF9lUTVCRm0tenQ1MVIyOGRIeEVjYTVHeVNJaDdVaEU1bU82R0pkQnVOMXhwS1lHUWhEeUJnc1RqR1pRNUE?oc=5
 
 - 令和8年度河内長野市経営相談会のご案内 - city.kawachinagano.lg.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE52VTJILUtrLXdzQ1hLTjc2QXBrd1psd0RLYkJ6Y0JLeUdEUWk2dkJtRzlESWJGajhlSEFJMEhSaGU2U1BSYmdENTByLVdVbFdmVWwxdXoteURiV1Z5WVRuYXhDbUdUaFBWUDI4?oc=5
-
-- こころの相談窓口について－3月は「自殺対策強化月間」です－ - city.kasaoka.okayama.jp
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQQXFQVFVaOTVKSllMc2ZEMDJQQlVseUFQUVZGQ3kwLVBPRTdnNmZxUTB3QjQ4LWhqT2VBbnVEQWFSLWdWeHdQN25Qd1cwc05wbXQ2MTJLNlc3SnhqNnFMM2xIRVJTTlJU?oc=5
 
 - 福島信金、中東情勢緊迫化受け特別相談窓口設置…全24店舗に:地域ニュース - 福島民友新聞社
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDMlhoOVBURzcyRy1JRlRhMlhfSnJYaUVVLXZmZ3k4Njl2TUJWNDhGWFhVNmR3dWt4Q3YyNDhzRUliMlNQSEZfT2xacTVtZFJoWHZJZUJic3lFbFhjdHFTX3Q5YUVyeEhz?oc=5
@@ -21,8 +18,14 @@
 - 中東情勢悪化受け相談窓口 県が中小企業センターに開設 - 山陽新聞
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wcHZQcXM4STJpVGo3Yl94YUlGd2VPVmJZbFJzM1QyXzBfbHp5eDItRGozdGhMMk4zOUIzWndvWWxkaTNFVVdoMlNhSHpkb3VCbXc?oc=5
 
+- 思春期の“性の悩み”に応える「ユースクリニック」とは？ ワンコインで看護師に相談、繁華街に相談ブースを設置など、敷居を下げる工夫も - AERA DIGITAL
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TTEZCNENZcHFweEJfNkVXai1mLUlScTB4MXNtT29tYlpxOTFyWk5nOUNxN240NU95OC1HeExSMzNvVnJLdXJ2NmtScHdCUWNlQXZwQ0R1T1hqLV9S?oc=5
+
 - 白シャツの”透け”と”襟汚れ”の悩み解決？ 襟のファンデや皮脂汚れが洗濯で落ちやすいシャツが登場（オリコン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9KNi1yM2lWVER2N0J6LVhZblpKcEo5dzBLam1EbGpPWEQtMXVvdWowMjlBTU90UElQQk1MeFgtU044UWRuWTlkWDNqLVVVX2pHUFQ4ZDhlc1RCdk9EVGtkVUVkZS1qOUZydlpDa3p4cnFfcEdsRmFSbTNaM08wanc?oc=5
+
+- AI導入で生まれた時間が相談数増加を実現 ──接客品質の向上と工数削減を両立した LIFULLのベルセールスAI活用事例を公開 - アットプレス
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pbC0yTG1DaHgxajRQWDAxbDlIQXpRMWp6YmJXUllESGZ2ZmtZOVJraXBjLUphb0lDMU85V3JXbzlaaUpaRURZb0JTamE3Zw?oc=5
 
 - 中東情勢の変化に伴う相談窓口 - pref.hiroshima.lg.jp
   https://news.google.com/rss/articles/CBMid0FVX3lxTE5IZDVJSi01ZW1NV2RnNEdSTTBkcTh0VmZRMFI1b1lBRV9tVHBzd2pSb2ROYV9oWURZa0sxUHNnUWVGMWp0QmRvM1JJdUpRRUdWWkRuSEk0MFJxbk42ZnFsZ193ZDFzbFRheUdodnBLVlg1MFdnTUxZ?oc=5
@@ -33,30 +36,27 @@
 - 災害対策委員会のご紹介 - aiben.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxNcHVadkVHU1g2TlJWd2RGMGNsQzRTZXdnLVJwcE5waVVjamJTUHptQjl5cFA3dXZqMVZZUUo4NFFvZ1BpbDZpMjFMaTdUR3hXem5UU1QwQ1VwSHJpQmVCZHVkU29adndLcXBKLVlpaWFyTDBTQzFuZlAtQ3lORlVvYg?oc=5
 
-- 岡山市 障がい者賃貸住宅入居相談｜宮本裕文 - mbp-japan.com
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEeGU2NzEtVmlBcU11N2hRM1Awb25NaWkwRHFlYUFmX1JRZ05PbEUteXE5OU9KUVlCTFFDMGNrck1Pdk5tWkI2c1lyLXM0M09SWGJLRlZic3pKaVdzWFVIM3N1VQ?oc=5
-
 - 子どもとどんなお家で暮らしたい？スーモカウンターで相談しよう！ - cozre[コズレ]
   https://news.google.com/rss/articles/CBMiREFVX3lxTE9ZNVp2R2dxckt0RlJPWl9FZzNFQk1ZSS05cDVZdHp4UWhEZlhnb3BrMnFQMmVYOHJsejgxU1RDQWVrdlJE?oc=5
 
-- 教員支えるスクールロイヤー 増える相談は保護者対応の「交通整理」 [千葉県] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1RcUt6UUN4M1FmQThaejlSbFREaDhJNG1EYV9YbWVJOERnNEJnam91aVBFd015MXVSWGhvQXpVTVRYU2pMZlNzdkRhQXlDYkx5cERXMUlzdnE4RDVUbExyS05fSGdaZlItdUE?oc=5
-
-- 中東緊迫化で経営相談窓口 三重県が開設、資金繰り支援など - 伊勢新聞
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNT0ZhOTBYNUVrZktNbjhaNE04QV9DVkhISmI1aW9TaG5zR0M3UDd1Z01XSzB5YU9ldDAxRmVKbldrdFNuVGhtWl8yX1dhZEdZNXFTMQ?oc=5
+- 岡山市 障がい者賃貸住宅入居相談｜宮本裕文 - mbp-japan.com
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEeGU2NzEtVmlBcU11N2hRM1Awb25NaWkwRHFlYUFmX1JRZ05PbEUteXE5OU9KUVlCTFFDMGNrck1Pdk5tWkI2c1lyLXM0M09SWGJLRlZic3pKaVdzWFVIM3N1VQ?oc=5
 
 - 中東緊迫化で経営相談窓口 三重県が開設、資金繰り支援など - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uaEkxYTdyeHNzNjdDRnJNSTZkQTRzVVB0T3VJSEFoa3AxX0d3UWxqUExwRHRoYkVTcExheFVDQ1ZubUpKNGdKc2x5OA?oc=5
 
-- 保育の相談、まとめて対応 室蘭市がコンシェルジュ事業開始 - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TRGNONFRtWUpSRlAtTUxHdFhtX2d6NTJWR3VZZ1lXWWVOWFVpbHJqa2k2aWF5TURFQ0w5WUdMMl9BdElyenRldzBtYW4wNy1CaDh5eFFNRUZWQQ?oc=5
+- 中東緊迫化で経営相談窓口 三重県が開設、資金繰り支援など - 伊勢新聞
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNT0ZhOTBYNUVrZktNbjhaNE04QV9DVkhISmI1aW9TaG5zR0M3UDd1Z01XSzB5YU9ldDAxRmVKbldrdFNuVGhtWl8yX1dhZEdZNXFTMQ?oc=5
+
+- 「彼氏がコンドームをつけてくれない」「学校に行きづらい」 思春期の子どもたちの拠り所“ユースクリニック”に寄せられる悩みとは - AERA DIGITAL
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hMWg5NDBVNU1QMlpaamZLNEozZkdIMC1USFJKRHFsSV85VHE1TWd6WVRYemI2RVVFNGJXZWVJbzdXTWJRN0RZMUJMZWlGTm13bEFpdHBqWm5KSGp6?oc=5
 
 - 性的暴行…女性と性交、夜勤中に何度も 男性主事を懲戒処分、16歳未満だと知っていた疑い 勤務する児相で夜、一人部屋にいた女性を襲う…生活指導を担当していた28歳（埼玉新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5sdzNjQjlsU0tqTUIzWGU4QUdiQzE4RXFKSTJNb2gya3FHWTJUWnRUNUl5dVh2VkpJb2RMbXFwQms5S3NRb3p0THFyelVKeEpGMEJlb1psNU5BajNDYnFTbDA0WVNOaWF0NXZGUDFwV0RxTl83X2t2TERURjFkQmM?oc=5
 
+- 教員支えるスクールロイヤー 増える相談は保護者対応の「交通整理」 [千葉県] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1RcUt6UUN4M1FmQThaejlSbFREaDhJNG1EYV9YbWVJOERnNEJnam91aVBFd015MXVSWGhvQXpVTVRYU2pMZlNzdkRhQXlDYkx5cERXMUlzdnE4RDVUbExyS05fSGdaZlItdUE?oc=5
+
 - 「10年で外国人倍増」相談件数急増の世田谷区から見る日本社会の歪み、“排外的な風潮”が日本人をも傷つける皮肉 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE15T0dVLVlfMVJteDdjTHpERzVQY09mTW5xUW9USHYyamtrdXJMRFhEYm16WEYzTFVOYllaeHdRcTZHQjBHdlNvTjdodlpIZTF6OFVNbVZLY3dTU096SDRJTnJXLVNHd2ZiU09PTlhyNENHVGdhcWR2Z2s2QWhBQkk?oc=5
-
-- 原油高騰相談 京都府が相談窓口を開設 - 京都新聞デジタル
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVLXF0b0R3b01VdE12SUZWSmdrQm9SS005OXQ2ZVd6a0xZRlRkcnhQTE9VampYLWdCRDRVYlA3RVhwbXZubDF3RVlLM25MR21xV0Ezdm5KZGJVX28?oc=5
 
