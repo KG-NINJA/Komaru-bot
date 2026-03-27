@@ -1,7 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-26 23:05) ===
-
-- 池袋で女性が死亡、刺した男は自殺か 警察にストーカー相談の情報 [東京都] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zOGtjblBaVkY5RklBYW5uQjctUjVyaV9tNGhmSWdXN0VTSUlWSlFGY0xXbURta1Rhd0VKZDRjOURmbHBBeG4xQjB4LS1tTHE4U2IyeTZ5aEg3TWt2bWpvYnBHSmV2Vzg?oc=5
+=== こまる相談 ニュースフィード (2026-03-27 00:13) ===
 
 - 女性の健康相談窓口「なごエール」 - city.nagoya.jp
   https://news.google.com/rss/articles/CBMiekFVX3lxTFA0WTVMUXplVEJGVkgzT2dsN2FZNENjUkR0ZFI0Y0FvSm11cXZsamM2OTlxWlJNaFlXaC1jQ0xmMXRTLWd4cnZkai1zRENQTXdRZmVsQUVyTk1LeHNWeXRIUFc3ZjQtRmI1bGgwM0Rld0xpUmRjZW5mOUVB?oc=5
@@ -9,11 +6,8 @@
 - 教職員のハラスメント被害、悩みの8割を占めたのは 相談したら「悪化した」人も…福井県立学校の実態調査結果 - 福井新聞社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zR19YXzNwWnZULVNJWUxyRTdvZVVJWFpUSUpNTlJiSF92cy1TYVI1RTluV1FSVjNTUWpDU1VZY2hIZjBvYkNMek5VLVlJYzJrMmlTOVlDTm1OYnRHT3c?oc=5
 
-- 池袋刺殺 警察にストーカー相談 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLWTVVOW5kRUVGdF9RbjgwV1VaMFpuWTZZWElTQjZQVDZLU2Z0anFfZU95VWc5ZDBpNmpDcER3NG9vNTdVWFdWSzBoM29NQjVX?oc=5
-
-- 中途採用者がチームに溶け込めないという悩み - 日経クロステック
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoOXAxeFNCcUNvQTdyd0s4YmV5R0FvdG9OX3JOaHRVMnB3bEtDbE9tei0tTXUxS2xVY1E0RTcwWmo0M01NdnVIRVZZVE5aMTAxNTAtSDZ6Ti1ENzdaYl93eHVoT09QT1k?oc=5
+- 働く女性の悩みを受け止める企業横断型コミュニティが好評 - alterna.co.jp
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JZ0gzQ2wxXzNDNXFCRkV5QzV4aVBIMnVmRGM3MmV6Y0pQeEJzWkVkdHJrMFdQUzdaR2JnMko1SnJSdGszV1Q0bQ?oc=5
 
 - 池袋ポケセン刺殺 去年「付きまとい」で相談 過去に“ストーカー”で逮捕も - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jWk5Wd1ZRa2o2Q0ZVSzFDNlBFaVdtZS03d1Q2ZmxXZFA4d3ExVTZwYkJwY1NfR2MtbHBBa3diWDRNVHlkTHY5Rk5ZQlJGdw?oc=5
@@ -21,42 +15,48 @@
 - (1)松下洸平さんとお悩みに答えます - web.nhk
   https://news.google.com/rss/articles/CBMibkFVX3lxTE1PQ1h6WFpOWU40ZWlORy1kXzBMV1ZLRUdSTFpuNUw5Ync1MWxMN2hSVGZ2dVFTcEpkeFRfVzlNM0Z5LWJvLS1mQ2VjRm5HZFE0OVlONkRpN0xuaWhXamV2a2c5SkIyN3ptTE5CZVR3?oc=5
 
+- 中途採用者がチームに溶け込めないという悩み - 日経クロステック
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoOXAxeFNCcUNvQTdyd0s4YmV5R0FvdG9OX3JOaHRVMnB3bEtDbE9tei0tTXUxS2xVY1E0RTcwWmo0M01NdnVIRVZZVE5aMTAxNTAtSDZ6Ti1ENzdaYl93eHVoT09QT1k?oc=5
+
+- 池袋で女性が死亡、刺した男は自殺か 警察にストーカー相談の情報 [東京都] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zOGtjblBaVkY5RklBYW5uQjctUjVyaV9tNGhmSWdXN0VTSUlWSlFGY0xXbURta1Rhd0VKZDRjOURmbHBBeG4xQjB4LS1tTHE4U2IyeTZ5aEg3TWt2bWpvYnBHSmV2Vzg?oc=5
+
+- 死亡女性、付きまといを警察に相談（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE11cmtidlhmWEN6RXBjQUZwaHlfWW9QU1VzQU9ZZFdvaVNpazhwTExMY3lsVG56ZXdTNDgyQlFGa2VpZ1VBQk02OG1HMG1iN0tWSGFPLWI2LXltQWVnU2ljRVFIeElmVVplemVDNlRjZDI4Um1YVWhsNWM1OWdHSHc?oc=5
+
 - こころの相談窓口について－3月は「自殺対策強化月間」です－ - city.kasaoka.okayama.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQQXFQVFVaOTVKSllMc2ZEMDJQQlVseUFQUVZGQ3kwLVBPRTdnNmZxUTB3QjQ4LWhqT2VBbnVEQWFSLWdWeHdQN25Qd1cwc05wbXQ2MTJLNlc3SnhqNnFMM2xIRVJTTlJU?oc=5
 
 - 令和8年度河内長野市経営相談会のご案内 - city.kawachinagano.lg.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE52VTJILUtrLXdzQ1hLTjc2QXBrd1psd0RLYkJ6Y0JLeUdEUWk2dkJtRzlESWJGajhlSEFJMEhSaGU2U1BSYmdENTByLVdVbFdmVWwxdXoteURiV1Z5WVRuYXhDbUdUaFBWUDI4?oc=5
 
-- 春休み・新年度前の孤立に寄り添うAIと相談員が24時間対応するLINE相談「クルハウス相談」を実施 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFB2UDhPQWx5ck5XcFdsT1BXamFFaTIzcEVQc1k5MVpiS29YSDJJNm9rYTJacS1ZSFZPSWU4TmN2NzNic0RvRkt0c0hqdnc3RXVsb3cxUUpHZ25SbnlOZHBBanhkN0EzSFIzQkE?oc=5
-
 - 浜松いわた信金、キャリア支援体制を強化 相談窓口やサイト新設 - nikkinonline.com
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVVV4UHdrUGV1TFBVWDFMWlBhaEk0R013WW1rT2RQVzBDOFhzQ2FFZGhCTGQ3VHE1N21KWHhTRzhIdmNhX1NpbmJkM1lqbDlkM0FNYmpn?oc=5
+
+- 春休み・新年度前の孤立に寄り添うAIと相談員が24時間対応するLINE相談「クルハウス相談」を実施 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFB2UDhPQWx5ck5XcFdsT1BXamFFaTIzcEVQc1k5MVpiS29YSDJJNm9rYTJacS1ZSFZPSWU4TmN2NzNic0RvRkt0c0hqdnc3RXVsb3cxUUpHZ25SbnlOZHBBanhkN0EzSFIzQkE?oc=5
 
 - ローソンに「Pontaよろず相談所」が順次開設中｜ローソン公式サイト - LAWSON
   https://news.google.com/rss/articles/CBMia0FVX3lxTE5LNnFVc2F6OC0yYjdEakZrOXpXZnhzVEppYUNlMUdJTjVoX1U1elRBcGM0VE45WE10SjV3alZyS2wtNjZQQ01wNDV0UWFQVUxSMFJVWUZaWWI4YXlleXhmTHFxY3Njb0xGcW9R?oc=5
 
-- 山口県、中東情勢の悪化受け事業者向け相談窓口を拡充 資金繰り支援 - 中国新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLY0JRV0xYS0RTNG5UVkZRYTNCeDJ5LVhoQWZPUExWN2xzSnFST3ZCWTh5dnJRWVNWMkNOdXktZjc3V0cwdER2WDB0SDNMdEF6UmRBbzFCWkc0QQ?oc=5
-
 - 中東情勢の変化に伴う相談窓口 - pref.hiroshima.lg.jp
   https://news.google.com/rss/articles/CBMid0FVX3lxTE5IZDVJSi01ZW1NV2RnNEdSTTBkcTh0VmZRMFI1b1lBRV9tVHBzd2pSb2ROYV9oWURZa0sxUHNnUWVGMWp0QmRvM1JJdUpRRUdWWkRuSEk0MFJxbk42ZnFsZ193ZDFzbFRheUdodnBLVlg1MFdnTUxZ?oc=5
 
-- 「あなたの本」出版相談会 先着６人限定、参加無料 | 横須賀・三浦 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0cjF5bk9ibUswVVdkWlNLTmN5ZHk4bF9QNXk2dU42UDVVU2NqWTRkcE5ac2x3c0o3SjhoMTFfaGZleGZ5b25SVW1FM05NNUs3Q3NRQUNab3I2c0V4N1FhZjBFcks?oc=5
+- 福島県、原油高騰巡り「相談窓口」 中小企業など資金繰りや経営支援 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wczIycU0xMFJ0X0dFSlFXTEJ1OXVKb3RrNlM4NjlhZy02djRmVXFQZGt1NlpkMWtBZVRYb1RqYjMwc2NHVkF6TVBtUQ?oc=5
 
-- 過去に警察相談、男はストーカー規制法違反などで逮捕 サンシャインシティ女性刺殺 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBQMGlDT081eEw5U0xhckZHR3BBMHBTdXZSRVpUY0RpZ1cyZHZ5TXAtcWFqcFpFTEg0UVh5R05KOHBJT0pSUmMtOXlrUmNvWGc4TTBSR0lZX0dyWmhpbHRnNTdDTGhuX0pUdUZEMzUxRzNaejZXVXc?oc=5
+- 山口県、中東情勢の悪化受け事業者向け相談窓口を拡充 資金繰り支援 - 中国新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLY0JRV0xYS0RTNG5UVkZRYTNCeDJ5LVhoQWZPUExWN2xzSnFST3ZCWTh5dnJRWVNWMkNOdXktZjc3V0cwdER2WDB0SDNMdEF6UmRBbzFCWkc0QQ?oc=5
 
-- 【人生相談！ヨシトミ先生に聞け】思い出せない馬がいる…50代男性の質問に柴田善臣が40年前のレースを振り返る - 東スポ競馬
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE54VFAzZUp6dG4xenhvS2VwNE5UOVdJT0ZrZHVmZWl6VXVsTFU5RF9GS2xWUlYtdnJSY0ROZ0Q5R25FLTRFYWQxVmczQlpiQXNsVFpSMXZjSjQ?oc=5
+- 池袋2人死亡、刺した男は元交際相手 相談当日ストーカー容疑で逮捕 [東京都] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aTkxzcEJPY2w0YnNpX3RJS3VHSDloQlNQWmFvcGpPZzRpTGNrSnJLZTU1ZmVvS1lTdHZfcW0yVXE0X1ZVQnVGeHhvWW1XcUIyTDlQS3hLUjB5SW9yZGtPQlN6TkR2aVE?oc=5
 
-- 死亡女性、付きまといを警察に相談（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE11cmtidlhmWEN6RXBjQUZwaHlfWW9QU1VzQU9ZZFdvaVNpazhwTExMY3lsVG56ZXdTNDgyQlFGa2VpZ1VBQk02OG1HMG1iN0tWSGFPLWI2LXltQWVnU2ljRVFIeElmVVplemVDNlRjZDI4Um1YVWhsNWM1OWdHSHc?oc=5
+- 池袋刺殺 警察にストーカー相談 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLWTVVOW5kRUVGdF9RbjgwV1VaMFpuWTZZWElTQjZQVDZLU2Z0anFfZU95VWc5ZDBpNmpDcER3NG9vNTdVWFdWSzBoM29NQjVX?oc=5
 
 - 杉本前知事セクハラ、職員４４人「相談、見聞き」 県実態調査 大半対応せず 全庁ハラスメント ２６２人申告 - 福井新聞社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Od0FTTHdueFYxZUNyQ2hESHpkMlFBS01PMm90b1NQZkVBeXNZc1dycEgxb3ViM1RkckhqN211M1BZV0Nzd2pjSldnWU9ibDBkR3JvRDZjY0lBakp3eEE?oc=5
 
-- プリクラ不足の悩みを解決？十和田市に本格セルフ写真館「ソロピック」 若き移住者が込めた「地域貢献」の思い（青森放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5YQTUtSlg0SWRPY1o5VUJodHFoeFBLaWxkS1k4RS1Jbno0ZUJqRHM5NWRhcDhEajFuazc2WTM0MWlxRUFydVBiRGhMUG5ZWDlSNWZiclE0NmhJY05kdnZsN0hLY2VBRU9pQm9IRFRLQzc3RzdpQzlGYVFqYVFINGM?oc=5
+- 9つの市と町を管轄する印旛児童相談所が千葉・印西に開所 子ども守る体制強化へ（チバテレ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE0tQTIwZDYwQ1RHdVAzYVhhTWZ5cHlJa2JEZldaOHN2ZWxvbXlXMU9rNkNVbUFhazBsZGl0em5mTTgyVm1KWnl3N0UwcGNjWW5rUEZtbE5iMEViY2U0eUJPNjJVRHQwaHh6VnNuWHJzRzFOenIxNWNrMlRNYmNoRmM?oc=5
 
