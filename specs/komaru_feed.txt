@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-30 01:32) ===
+=== こまる相談 ニュースフィード (2026-03-30 03:00) ===
 
 - ひらめきでお悩み解決！芸人プランナー - ktv.jp
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hcnR6bkNXWk5WMVRGcmE0YndScXpSLXpSQUd2anl1SE5YZS1kbzhfR1RpUmctWWtiUG4tbU95Tjd5NHdtcnktQQ?oc=5
@@ -6,17 +6,20 @@
 - 萩市スマホよろず相談所 ～令和８年度も相談を受け付けます！～ - city.hagi.lg.jp
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xeEpMSVVBUXRJTUNEa2RrZnNKVERLeWNoX29sejQwVkNIYWVCVjZIVjg4aFRYY0ZNMEJMQlNGenIwaTNLU0FtUF9UVmszTmJsVjB2cVdZaGEzaktSeGlF?oc=5
 
-- AI電話×医療トリアージAIで「受診前相談」を自動化 2026年4月、全国提供へ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBEakRUeURUd1RrS08zcDV0Yk1CLUtEOTZHTDZVcnNNTnJMRUVua1pBMUlPSUVVNklmUFF2RDVDc1lwcVJncGQ1OFJ0WEluRVU5QWxRWHQ1c09TWko2YllIa1gzZER1dXl0TEE?oc=5
-
 - くらしの相談窓口のご案内 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXVMUkVoVFJzVElBVkRjT0tzemIwRG5UV01MVHJCemhtN0JpM0Q5V0tiOWFQQmJxZFBMQ0RhVEY0SC01OGI5RjQxTnNlRC0zd1dqV3U5VHgtR2hKZm5MRHBYbzFqM0pWLVNuem52SS1CeHc4VU1jWG9Fa2pOTWhKd3FRUUc0dmlrSnR3?oc=5
+
+- AI電話×医療トリアージAIで「受診前相談」を自動化 2026年4月、全国提供へ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBEakRUeURUd1RrS08zcDV0Yk1CLUtEOTZHTDZVcnNNTnJMRUVua1pBMUlPSUVVNklmUFF2RDVDc1lwcVJncGQ1OFJ0WEluRVU5QWxRWHQ1c09TWko2YllIa1gzZER1dXl0TEE?oc=5
 
 - 神奈川県不妊・不育専門相談センターについて【令和８年度】（県民向け） - pref.kanagawa.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE92VkxjZjQyUFAtTUIxcFRMZU1XZlJUTWFaWjJzak9pOC1uU29HUWowVWlXVVktNmZZb0JCb3plZ2FFcU9nWHAzME9ILUVKeTlFd001RENWVkJ6MGdia0NBYUs5SC1fQVMx?oc=5
 
 - ひらめきでお悩み解決！芸人プランナー - TVer
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JNGVjNzc3RXgxSTloamQ5SS05TnRUM0FVR0pUX0Jnc0NuNGFLUHU5TUN1cGtuRXpYZTc2V0wyTG1lbnJleVhodw?oc=5
+
+- 日本ツアーとは“逆”の悩み 石川遼が米下部で払しょくしたい「苦手意識」 - GDOゴルフニュース
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmTUtQV0FqQVNFcWI4VGluNjIzSkVFQTRHRmczZzlPN1JKMGYzVzFPU3d6c3VaVUQzWE1wMGY2RkYzNW5UNTN6Nm5KSGwtYWw0NVRSTkxKMjcwM29rWTVuemR2TU5Qc2_SAXtBVV95cUxPc093V2JHWENudDJFX1dtNjZnV0hmN1BrRVdTZDhsdzNJeUJrWjczcmFRdWFqNTcyYTNUWjFmOXh2NVlJOG9tZWZOSTl6akRUUVpxNHh5bDJ4aE5Qd1ozb3Bmd2hOdlNLNHZvaEpxdW1LMUxXM0VzekFuRzA?oc=5
 
 - 認知症に関する相談窓口「知らない」半数超 高齢者らへのアンケート - ryoutan.co.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SNzFvWkg1MFNfSG54OXNVaUxIQUNrRGZYNzVYV2VaRUJPQjBhLWR4WTAteFF1UEgwNXF5S0dta0Q0VG9vaFpfTnBMN05NUDk4eEJYSGp2YnRiUE9KQVE?oc=5
@@ -33,20 +36,17 @@
 - 家族の介護 制度学ぶ うるま 認知症相談も紹介 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFByX3ZkUkh1QXc2S0J1ZmZHajRNM0lBU1kxYldENTFNM2E3Zm1uRmxDc2lUY282NmpPcjZtTHVaMTZSRS1wQkdaODVUdktEY2dyell0QTFZczdHY2dNT3c?oc=5
 
+- ママタルト、ヤーレンズ、きしたかのが、 企業のリアルなお悩みを“芸人のひらめき”で解決！ ピザハットのお悩みには、上田竜也にドッキリ作戦『芸人プランナー』 - miyoca.jp
+  https://news.google.com/rss/articles/CBMiREFVX3lxTFBfMzBBMVZ2VDZScVFyVTdQaHMwQ2dqSkhjcnc1c3ROU0dRdEFGUll1RzBscDVjY0xsNnFubGdiVXUyUFpT?oc=5
+
 - 愛情は後から芽生えるもの？結婚前提の交際を進めるか迷っています - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwMFBZQ0lLaUg3Zm5RT2Y4dld3azJYek5DYmpReDBfdGJ4aFdHNmR5ZGtlT0NPN2dqRURPdzNLTHh6Y1dmTWljTHREdDNMeXJKek83c3JsSlF3MkM5S0J4Q3hWcUhxSnht?oc=5
 
 - かまいたちの瞬間回答！～60秒でお悩み解決 - fujitv.co.jp
   https://news.google.com/rss/articles/CBMioAFBVV95cUxQZFdaVGpYeWtoZEk4eGozOThtWnF1d3d1N1F5MlV1dk1qV2I4NWlXYmhsd3ZhRExRUG9ZWExVemVpQWRBZ2VYQVl1d3pZMHlmN1JXeWdIWGdkbGl4UnBLeUtsdUhwUHVPejJsR2lwSzNBVHl6c0hNOHFuek4tOWJid0c4c0NDSDRQTnF6TWZxcm53SWVwdjcxV0FhbFRzTUdQ?oc=5
 
-- 女性の健康相談窓口「なごエール」 - city.nagoya.jp
-  https://news.google.com/rss/articles/CBMiekFVX3lxTFA0WTVMUXplVEJGVkgzT2dsN2FZNENjUkR0ZFI0Y0FvSm11cXZsamM2OTlxWlJNaFlXaC1jQ0xmMXRTLWd4cnZkai1zRENQTXdRZmVsQUVyTk1LeHNWeXRIUFc3ZjQtRmI1bGgwM0Rld0xpUmRjZW5mOUVB?oc=5
-
-- キャリアに関して若手社員の相談相手は生成AI 一番の理由は「否定されないから」（オーヴォ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBJQkx2blpaM3E2QWpRRndsZnpvcmozVk1vTXAxOXUwaF9nQk1ic0h4RmFEM2dpTHlMUVI0Nmlmck53Rm5MVXhhNktyVjFyNGwyR2d2SmF5ZHBzX3d0YjVFQzgyRkJianZCZzNfVXRxbGQtYVZSUUVNQjdGamIxNk0?oc=5
-
-- 相談月30件超の「実家じまいの相談窓口」、公式サイト・LINEを開設 相続・空き家の“最初の相談先”へ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBkZ0R3dENXdkU0aU5TM3pzOG9hbUFwZk1xdHZ2VnpiVDJncXNmY0pKd01ROFlGNWxwZU9hU1N5MENwTG8xZmptZXRPay1yam5WblNPcVlBMGU4MzBJZHI0ZVl0aWVGcmt4SlE?oc=5
+- 児童相談所の「労働環境改善」訴えた裁判が約4年を経て和解 千葉県が全職員の「休憩実態把握」などを約束 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE11SDAwQkxDY3BWM3U1MzBFeEpOTjNJb29zaUg3T3M4b25NOWwyaHJVX1d6eEhvUmV0R3RzSjAxZHZkRm9VZ3VsTFhLWW9CZmlyTzRCX2d2LVFxa01aWDlFUm16SjB1aEQzWENneVQ0WVlXa2tZWGNjRWVnekRmM1k?oc=5
 
 - 阪大アイスホッケー部監督が深める悩み 47年ぶり七帝戦制覇の裏で [大阪府] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lOFMybndxRldKVmFyWEVHR2JSWlhabTRhOWZVNXVIczJDU2xHRXNaRWRubXRNdW9HZnBIWVNCME1XSE5mVDR1SWcxOTM0Q2YwNHI0bzhmR0FwZVFZRVFoR2dwcDZIUTA?oc=5
@@ -54,9 +54,9 @@
 - M-1戦士たちが元KAT-TUN上田にマル秘ドッキリ！ - TVer
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qZi1feURhTWR3ZUl4V3NqV2N5NGF4Mjg4YTNlWGxHR0ZjNlk0ajNCWEdmdXVOS0g5by1qU0VyemNYdjdmQTZCODFiVQ?oc=5
 
-- 「正直、内定の決め手って何でした？」 2027年就活生が2026年卒内定者に聞く、就活お悩み座談会 - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVSnIzUWJQYV9NVllncFdVNnJSVHNZeUJENU8tUTdRMHE5Mm9SaUVtdHVnRFNPSFNwZ1k5QUZBTXNVbTBoRGtNWC05VjZENTBvRHItajlaNUs4MXBpWWc?oc=5
+- キャリアに関して若手社員の相談相手は生成AI 一番の理由は「否定されないから」（オーヴォ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBJQkx2blpaM3E2QWpRRndsZnpvcmozVk1vTXAxOXUwaF9nQk1ic0h4RmFEM2dpTHlMUVI0Nmlmck53Rm5MVXhhNktyVjFyNGwyR2d2SmF5ZHBzX3d0YjVFQzgyRkJianZCZzNfVXRxbGQtYVZSUUVNQjdGamIxNk0?oc=5
 
-- 「家賃2万円値上げ」通知にどう対応？都内で相談倍増「一方的な要求に慌てず、冷静な対応を」呼びかけ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE54Z0F6amJnblNkZlMwQ3VyTGtBdEpfLUxOSERHbVRpYk9uTEFmRVZmMkQtSHMyR2RGWXB5U1hlVkJSYktpQmx6cUlPWEJ0Q01kajhTR0lJVm5seG9TZlpZSnJIdEx4OU9kVDI4SEpBWU9OZDZmMl80djJfdTlGQXM?oc=5
+- アマゾンで購入→楽天から届く 「乗っ取られた」被害相談400件（朝日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9fOFBoTUhKRGw4TUw1OG94MmI5YnBKNFZQSExLNnRWWGR0ZG9PaURkRGZ0Z2lMYno5WUFmczhNWENfM1A4anVicTFQOVBiRUZ3ZmZzelZKTWlpclFHNS1jcTRtREpjLWxNSUNjeTRRX21jRWNudFc3SG5wMlNKSVU?oc=5
 
