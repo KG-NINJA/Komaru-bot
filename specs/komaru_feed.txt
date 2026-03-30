@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-30 05:41) ===
+=== こまる相談 ニュースフィード (2026-03-30 06:32) ===
 
 - 萩市スマホよろず相談所 ～令和８年度も相談を受け付けます！～ - city.hagi.lg.jp
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xeEpMSVVBUXRJTUNEa2RrZnNKVERLeWNoX29sejQwVkNIYWVCVjZIVjg4aFRYY0ZNMEJMQlNGenIwaTNLU0FtUF9UVmszTmJsVjB2cVdZaGEzaktSeGlF?oc=5
@@ -21,11 +21,8 @@
 - 【話題のライブ】『銀次先生のお悩み相談室～小橋の一言を添えて～』 - Fany Magazine
   https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2MlBlb3RhTWZWUUxTZklGZGpvNS0tRS1xU3Y5ejRtQ0hzc0xveXhKbGltYmV6dFhpaC1nNG1tdXNrcER6dU5HRg?oc=5
 
-- 電気ガス、契約トラブル絶えず 相談３３００件―小売り自由化１０年・国民生活センター - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRQTZ4YzlUU0s0V0R6dk9sTFprQVhVLWVRQnZFUjlpMEVOMVBNV2Ficy1lYUZMTGtJR3ZCa1JhYlp3YzVjQ3RoQkJVQ0JJQlpYVzMzOEY2aUlDRS1iZkN0dFowaw?oc=5
-
-- キャリアに関して若手社員の相談相手は生成AI 一番の理由は「否定されないから」（オーヴォ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBJQkx2blpaM3E2QWpRRndsZnpvcmozVk1vTXAxOXUwaF9nQk1ic0h4RmFEM2dpTHlMUVI0Nmlmck53Rm5MVXhhNktyVjFyNGwyR2d2SmF5ZHBzX3d0YjVFQzgyRkJianZCZzNfVXRxbGQtYVZSUUVNQjdGamIxNk0?oc=5
+- 【図解】電気ガス、契約トラブル絶えず＝相談3300件―小売り自由化10年・国民生活センター（時事通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE0tN2ctLUF5TndHdkJ2NjlwdkU1RDIyZGlTOFFEaWszZFNlVVUza0s3TW5wV1YweGM3VGdMeW5jSzhrbURIcGJ3bF9jS1FIempTbkhLSnJRWDdYQWRmWFczMmowYnZUZlRQc05RbXlXWVFEVlB3TS12QWk2eERpV2c?oc=5
 
 - 日本ツアーとは“逆”の悩み 石川遼が米下部で払しょくしたい「苦手意識」 - news.golfdigest.co.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmTUtQV0FqQVNFcWI4VGluNjIzSkVFQTRHRmczZzlPN1JKMGYzVzFPU3d6c3VaVUQzWE1wMGY2RkYzNW5UNTN6Nm5KSGwtYWw0NVRSTkxKMjcwM29rWTVuemR2TU5Qc2_SAXtBVV95cUxPc093V2JHWENudDJFX1dtNjZnV0hmN1BrRVdTZDhsdzNJeUJrWjczcmFRdWFqNTcyYTNUWjFmOXh2NVlJOG9tZWZOSTl6akRUUVpxNHh5bDJ4aE5Qd1ozb3Bmd2hOdlNLNHZvaEpxdW1LMUxXM0VzekFuRzA?oc=5
@@ -36,27 +33,30 @@
 - 「話せない英語教育」に悩み 「話したい！」が生まれた教材の工夫 [埼玉県] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44aHY2RTNKeTUtYldrbFh3OXoyS3RTYXFsQkdEYzZNVG5iNktTd2dFRXRFbE52ejdVLVd5eGp3WGIxMlBIQjVrSm5mcDg0STA1cExxRWdvWUdIOHBGdEgtak1aZEMzMDg?oc=5
 
+- 電気ガス、契約トラブル絶えず 相談３３００件―小売り自由化１０年・国民生活センター - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxNQWlXZVdyVGxBRGQ4YjZuSms5YXJKaUR5N1JSR2JhdWd1Q1QtaGI4Q0NMLVpmdU5pNGlEeU9kSmNaZjhEQmMzNFdkYkdQcWZYc3lrN2lYOVViU2VIOHRyeDZOdWpQUF9PZ3NIbGhwLWcwcU9DWV9fSUdtdmh4dzlXem1n?oc=5
+
 - 【横須賀市】横須賀市の就学相談で子どもの学校生活をサポート - 湘南人
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WYXRGMUp5ZXF2MEs0ZG5jNDRBLVZkXzFNRkdDSDlrYkhuQWRFYWpCeTJZSzhYXzYya21PMEtrQy13VHpvcS12bUtIeWZMekV6bEdqbXFxVVlXMUkyaXpTY2xGS2JXeDg?oc=5
 
 - 空き家の相談窓口・磐田「かけラボ」、関心高め終了 市民有志ら引き継ぐ：ニュース - 中日BIZナビ
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWOTV4a2dVRHZuRmxsQUNIVDF3a0wxSjNCUHF5dWZDZWsxOUt2SDMxTVNlWG40NjYtRE9pNUpXbzI2a1JlM0xLZk02ZVNnNjVIZ19aTXhnYWVWWjNMa3BZ?oc=5
 
-- ビビる大木、AIに人生相談したら「有吉、矢作に本気で伝えること」 - サンスポ
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFB2Mk1ZZ0p3MlRiU1BmZUlDRXZQNDNYQXJOUjJlSFpUdXhkWGtPUlNZclJJMVBBSG1lRU9vQkhQaEJ6TTgtWXFrYkxjLUpOXzhGaXJPMmxvQTZ6TGZVY0NuRmtaeUpTRzc5UnJ6MXBHNzhCaDNRZGfSAYoBQVVfeXFMTkdMLXhjUDE5X0dMdUNBd1BCc09tX3lpY2c1enVlNGRsSldDTEtaMmUwcjl2cTJtblhITVZBUU14RnByMlZEdE9Pa0YxTE5PR0FtaVRHOVFWOHlEWjYycjk0bGIzQy0wSHVXaW5xWENxTWxZcUlXc2t2cVU5SGtUdmJjdU1oQmdUd3F3?oc=5
-
 - 京都銀行、AIアバターで接客研修 100種類の相談で訓練 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1WM1ZqblJTazF1ZFJUMmFPckhRZFU5MDI4Nlk1XzJGQnItbHphRm5lN1gyZHE4UUZaajV6cGtBNGQzTWxhNmdvaGlwcnhQLV9DUG1LTVB5UF9PR3BneWZZb040NUNjd2diclZpWA?oc=5
 
-- 【図解】電気ガス、契約トラブル絶えず＝相談3300件―小売り自由化10年・国民生活センター（時事通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE0tN2ctLUF5TndHdkJ2NjlwdkU1RDIyZGlTOFFEaWszZFNlVVUza0s3TW5wV1YweGM3VGdMeW5jSzhrbURIcGJ3bF9jS1FIempTbkhLSnJRWDdYQWRmWFczMmowYnZUZlRQc05RbXlXWVFEVlB3TS12QWk2eERpV2c?oc=5
+- 電話相談センターを開設、厚労省 最高裁判決巡り、生活保護補償 - 北海道新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RSHhXaTlUZ3ZHU3NtbnpSWnpMVjBZVnllMnlzcVdmRlB4by1IWnFXUU13RUl1bDVGbk11cHkxN0VIaWExVUdCTG9WT2pGVHNsQjlrLWEtNHZ1QQ?oc=5
+
+- キャリアに関して若手社員の相談相手は生成AI 一番の理由は「否定されないから」（オーヴォ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBJQkx2blpaM3E2QWpRRndsZnpvcmozVk1vTXAxOXUwaF9nQk1ic0h4RmFEM2dpTHlMUVI0Nmlmck53Rm5MVXhhNktyVjFyNGwyR2d2SmF5ZHBzX3d0YjVFQzgyRkJianZCZzNfVXRxbGQtYVZSUUVNQjdGamIxNk0?oc=5
 
 - 交通事故の「最も信頼できる相談先」として、75%が「弁護士」と回答。アトム法律グループがのべ17,000件以上の回答を集めたアンケート調査を実施 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9qTVM4bFBjSjNFREVVTE9fZm8tUVRnbXdXUzJSZHdqdnVSR0YtSmt2RXhIbjlXbllhYVI5VFVUSDY2RVNTQVZFSkJhZmJIOG9KRUlWRjZONk01cjBiNzEzNGhMOTBSTkdNSkE?oc=5
 
-- M-1戦士たちが元KAT-TUN上田にマル秘ドッキリ！ - TVer
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qZi1feURhTWR3ZUl4V3NqV2N5NGF4Mjg4YTNlWGxHR0ZjNlk0ajNCWEdmdXVOS0g5by1qU0VyemNYdjdmQTZCODFiVQ?oc=5
-
 - 保護者相談にアドバイス 障害者支援団体、亀山で座談会 三重（伊勢新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBTQW14S1ZIMTBXcHdOYkptdFZUb3VKajVHcTRRSF9DcGFoWlJqQUV4bVd3LVRGVDh1QTBzNVNlOXRUd0h5NXFEc0FVQ1RKUTdHM2JvbGFPZldQZGFVc0Y5YnNLajR3d2Y1X3psZFpLN2x3TGpoYlN0cVBCQTdrcnM?oc=5
+
+- 児童相談所の「労働環境改善」訴えた裁判が約4年を経て和解 千葉県が全職員の「休憩実態把握」などを約束 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk43NHBVZmlaZ0NPNDBzam1ZVDI1OUdLVzZnXzk5Wm5kQ0lTTFZ5bldwMDh6eGJhOTQxLXBOYmk2TURZUEYtYWZjc2tfLXIySVhUUHNMNTJYVkp6R3NGV1pvcXUyT21hdGtjTTlrUlJDdmI0UTQ5eU14eHV1U09mYlh1eFRZZ1lqUXpaMFdB?oc=5
 
