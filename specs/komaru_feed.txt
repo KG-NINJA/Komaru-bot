@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-03-31 21:10) ===
+=== こまる相談 ニュースフィード (2026-03-31 22:08) ===
 
 - 大分県相談支援従事者人材育成ビジョン - 大分県ホームページ
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XQVpqZTh0S2RyMUJqOWVGanpNUm1WVmdmZ0F2TjA1RTJ3YlJfdmlGLUo4bS1RLV9ybVpnYVZOZ2RxMnBVMUlHMjhfLUpCaWdtMGwtTDdUYUE0M0hHTzNBU0VNQklqaXM?oc=5
@@ -12,19 +12,22 @@
 - 令和8年度 チビッ子歯科相談室（東区 歯と口の1日健康センター）｜東区公式ウェブサイト - city.nagoya.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTE1ydFRvZ2lDWFFNb2Y1V29XYlptSV9yUkQyOFZzOU5QTjhtRk9tcWpwZnNvQnV3a3RuVXpRa2NVYno0Qk9ULVBJRi05YWpZblplZXpxNkwyeUxydlQyTFBObVFSeDJyNXBCYnJSWV9lV0JvUQ?oc=5
 
+- ［長崎県］自殺対策NPOと連携 平戸市、電話相談の周知強化へ - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJQ0ctci1PRmxwUFhsQ2t4WG5mTmRseWxLd3pyTTFBaFZtZUEwQ2FkQ3hmTDlXaHFJaG1LODFLZklDSDlsbzRmOHRXLTRlaHRXbG1yM2pB?oc=5
+
 - 神奈川県不妊・不育専門相談センターについて【令和８年度】（県民向け） - pref.kanagawa.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE92VkxjZjQyUFAtTUIxcFRMZU1XZlJUTWFaWjJzak9pOC1uU29HUWowVWlXVVktNmZZb0JCb3plZ2FFcU9nWHAzME9ILUVKeTlFd001RENWVkJ6MGdia0NBYUs5SC1fQVMx?oc=5
-
-- 性犯罪・性暴力被害者に関するLINE相談窓口の開設 - pref.hyogo.lg.jp
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE15WGUyUzc2MTh2dG4zdUY1dUFySWY5dEh3bnBrQ0s1MVlMelVGQjgyMEJlR1VZRW4yZ3FpdHNOaTBNNExXUDYzVWI4ZVB3VTdSZWgzVVBCNWhUX1VzN1N4UGwycw?oc=5
 
 - くらしの相談窓口のご案内 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXVMUkVoVFJzVElBVkRjT0tzemIwRG5UV01MVHJCemhtN0JpM0Q5V0tiOWFQQmJxZFBMQ0RhVEY0SC01OGI5RjQxTnNlRC0zd1dqV3U5VHgtR2hKZm5MRHBYbzFqM0pWLVNuem52SS1CeHc4VU1jWG9Fa2pOTWhKd3FRUUc0dmlrSnR3?oc=5
 
+- 性犯罪・性暴力被害者に関するLINE相談窓口の開設 - pref.hyogo.lg.jp
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE15WGUyUzc2MTh2dG4zdUY1dUFySWY5dEh3bnBrQ0s1MVlMelVGQjgyMEJlR1VZRW4yZ3FpdHNOaTBNNExXUDYzVWI4ZVB3VTdSZWgzVVBCNWhUX1VzN1N4UGwycw?oc=5
+
 - 燃料油や石油製品等の供給に関する相談窓口の設置について：近畿農政局 - maff.go.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tREY1V1RpUGphVTE0QlJIX2ZOajdoOGVQRFN4aEFkRXBkVUcwMm5PeU91UVI3ZDhOYzJtOUNUenlEUHU3ZXB5ckJuRC14LWVFNzhUdnBhbkFCVmdkWk1IY3p5dw?oc=5
 
-- 不動産個別無料相談会開催 カナデリー不動産 - 市民タイムス
+- 不動産個別無料相談会開催 カナデリー不動産 - shimintimes.co.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRVlhzc0F2c3MxMzFGVWpnWUx6MGZ5ekl5YWt2QnJlblcxUGN1ZkxueDItMVE3WlNFdm16WDhwTVA5M1RJWTduYjFFTkc1dWhjRVctUHkxcW01UXI3eFJyRXV2WQ?oc=5
 
 - ハラスメント４分の１悩み、能美市全職員アンケート 無視、感情的な叱責、悪口…｜社会｜石川のニュース - 北國新聞
@@ -33,29 +36,26 @@
 - 〜４月は「若年層の性暴力被害予防月間」です！〜 - city.kikuchi.lg.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE9OeTZzeF9LWnZ5b0EwN2xNb2t0OXlYNkszMnpGQlVFYklMTTJGQ3dZZTU3T0MwZTh3Mnh5WXh6cjJGWEV4T1lITEFBNnliZVRRZzdlcDhkaXhnWnpFUHcyRU1pMmc4dW1VY3Q0?oc=5
 
-- 石川県能美市職員の２４％がハラスメントに悩み 市職員アンケート - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE84dnRuRWJZTy1xWGRFZDVaaVV6LWVudENyRl80aDJxUmhJZm1JemlOdmlZN1B1MlhFRm1PeHdvX1ZJX2hHb1didGpuZERCVF82c3N4Tw?oc=5
+- 「絆ホールディングス」利用者らの相談応じる窓口設置、障害者就労加算金不正で…４月末で４事業所閉鎖 - 読売新聞オンライン
+  https://news.google.com/rss/articles/CBMickFVX3lxTFB0SnRUVU4zc1BpUFlfSmwySHl5ZWJNZ1ZNRVFIeWtxMm4wa0QwTk9uNlo5Zm9yMDNRaEE4WFZJQnF0WEMza1NNejFiTHVKemgtd3RGbUl2X1RBcl9wVmFrZ3EtSUpVX3hyQnRqaUM0SzFZdw?oc=5
 
 - フライヤー[323A]：AIを活用した「AIお悩み解決サーチ（β）」の提供開始に関するお知らせ 2026年3月31日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
   https://news.google.com/rss/articles/CBMizAFBVV95cUxQbG9ERkNka2x3RUxvRW8tUDZvSkhrWE9tQ3pXTTQtX2d5NUplakhGeGZidVdaQlo5aHNxbzJjb0EzNXNFWl9mU3ZRdEZPVml6UkhfMUtoR2FLMWlQOGZ0N2NBTC1MQk94NlBwaENYVDZpS1pUU1VCdF83T2VocFNUcURaOFpEMFNMOGVIdU9BdlFYYXR1YVBxdnZyX3EyMWhlSENVemZ6SzYwazducmpCcDQ5ejA5dXBYRVNRVGRfWmhTelRaVnAwNkV4R3o?oc=5
 
+- 石川県能美市職員の２４％がハラスメントに悩み 市職員アンケート - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE84dnRuRWJZTy1xWGRFZDVaaVV6LWVudENyRl80aDJxUmhJZm1JemlOdmlZN1B1MlhFRm1PeHdvX1ZJX2hHb1didGpuZERCVF82c3N4Tw?oc=5
+
 - 年間15万件超の相談実績を持つSNSがNPO法人化しAI相談機能を搭載！悩み相談・愚痴アプリ『いぇる』 - TRILL
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE81RjZXTFZMNW5uNklpYmRoV1NZNERVWmVqdGF4WUlablJhaFcyVlh0bXhMMVdoSzdibUxyMnlNUGVzWVZNbmYzM3FGR2xRakU?oc=5
-
-- 鹿児島：昨年サイバー犯罪最多２３６件 相談は減少傾向に ：地域ニュース - 読売新聞オンライン
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9sWjJqeXZwZFJ2ZHVhcVNPVHpfMXBjUDQyNHNBU1BZN2FlZHFmd3ZiT1dHckkyMUVZVFhvWEpuLTFNcU9FUXp6Y1NsNlJqLUlCdDRzSVA2dUxqTWVOSVlvZ3pPZHdkZ3NkQWtDREFlcktzcE5PUXc?oc=5
 
 - 早めの相談を！ ストーカー被害 ５年連続増加（奈良テレビ放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE56cUc1T0tXTVFpUnBCY3VSSjFEbW1MSnk1TU5hYmY1dE5vTWhOYV9NdWlvLThHcEZuanhlcnVsbndveTV1ZkxwUW9wYy05SVhtLUFSNmZocWlLVElfZzVhamYyam9ackw4eUhYdHZnd1VtMFM4YkJudlpVakxsMFk?oc=5
 
-- ［長崎県］自殺対策NPOと連携 平戸市、電話相談の周知強化へ - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJQ0ctci1PRmxwUFhsQ2t4WG5mTmRseWxLd3pyTTFBaFZtZUEwQ2FkQ3hmTDlXaHFJaG1LODFLZklDSDlsbzRmOHRXLTRlaHRXbG1yM2pB?oc=5
-
 - 秋田県と秋田銀行、中東情勢関連の相談窓口を開設 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1IUDc5Z1NDNWZ0UHRSTDBSM2dVQjlPa1RZdkVqZzhYanlSckZhQkkydlNIOGxlU192WVR3OXhnazNCMHBTTEIxVURqWU1idXZ5NlNYODlySlZUSDVUZG9PS3RkcWFmWkZkc0JvVg?oc=5
 
-- 「絆ホールディングス」利用者らの相談応じる窓口設置、障害者就労加算金不正で…４月末で４事業所閉鎖 - 読売新聞オンライン
-  https://news.google.com/rss/articles/CBMickFVX3lxTFB0SnRUVU4zc1BpUFlfSmwySHl5ZWJNZ1ZNRVFIeWtxMm4wa0QwTk9uNlo5Zm9yMDNRaEE4WFZJQnF0WEMza1NNejFiTHVKemgtd3RGbUl2X1RBcl9wVmFrZ3EtSUpVX3hyQnRqaUM0SzFZdw?oc=5
+- 鹿児島：昨年サイバー犯罪最多２３６件 相談は減少傾向に ：地域ニュース - 読売新聞オンライン
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9sWjJqeXZwZFJ2ZHVhcVNPVHpfMXBjUDQyNHNBU1BZN2FlZHFmd3ZiT1dHckkyMUVZVFhvWEpuLTFNcU9FUXp6Y1NsNlJqLUlCdDRzSVA2dUxqTWVOSVlvZ3pPZHdkZ3NkQWtDREFlcktzcE5PUXc?oc=5
 
 - 職員の25％がハラスメント悩み 「残業三兄弟」の石川・能美市（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9kNWZVU0xHTS00MWpudTRld05CVE1nQW9KVldQWEl3V2pFaEw5V1RqalBabXdtMm5UamtDdGdSRl9nb2QybEJZbUpYcFRWdXlvU2xOLUxwXzhWRlJWdkpxbDdqQWR6R1BKUTFieFd0d0gwNFpia0hCdENvdjg4X2M?oc=5
