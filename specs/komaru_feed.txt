@@ -1,10 +1,7 @@
-=== こまる相談 ニュースフィード (2026-04-01 13:30) ===
+=== こまる相談 ニュースフィード (2026-04-01 14:30) ===
 
 - 【4/4(土)鹿島戦】「出張空き家の相談窓口」実施のお知らせ - 水戸ホーリーホック公式サイト
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mSkJIdnlZX3ZJZHVfaHoxeHNDX3owODgzYWZJNmZ0RS1pRjBMT2NmRjRWeUx4aVBmZTE4MWpJNEFNbzlwbmhOdThVQVoyQ3F2TjNrWldZOA?oc=5
-
-- 行政相談 - city.kanuma.tochigi.jp
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE0tTzBndHlfRXN0RGhoX0IyX0pYSTh2R1M1NUk1SHFZQ2dxZVFFX0g1dVFjdjRvajZuNVYtSFo1dW9ZNFFyQW9lek9USUp2ZU52SUVRRGtxLVh0eFZ2NWRZaG0tWklkY0tabU4zQ3hCbw?oc=5
 
 - 令和8年度中小企業デジタルコンシェルジュ 相談受付開始|4月 - metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBvU3AyYjVSVTJMOXJESVNxNWNrUU03VFkwdnNZbFBVSkdXblhUcHBvMlJ3Tm15REIwazcwWks5c2FmNVh1OUNYcDN1dV9DYW1YS1dWb0hGMktlX0Z4OHRxVkNsWEQxU2owT2lKZW45SE1HYzBU?oc=5
@@ -12,17 +9,11 @@
 - 東京都や23区、中小企業の相談窓口設置 中東情勢の悪化で - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE51bEd6bnNVa3N1NnAxOGgxck1zX01tMTBlNDQ5Q0NhTnZMUnNOU1BrOXFzZ0dmSjZuTUlLSkNzRUYtNnBDMkMwcWl2cnVzZTV1LXM1R3Y4NUlQOVMycHNSMmdPSzA5d3BXeE5rOA?oc=5
 
-- 大分県相談支援従事者人材育成ビジョン - 大分県ホームページ
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XQVpqZTh0S2RyMUJqOWVGanpNUm1WVmdmZ0F2TjA1RTJ3YlJfdmlGLUo4bS1RLV9ybVpnYVZOZ2RxMnBVMUlHMjhfLUpCaWdtMGwtTDdUYUE0M0hHTzNBU0VNQklqaXM?oc=5
-
 - 神奈川県不妊・不育専門相談センターについて【令和８年度】（県民向け） - pref.kanagawa.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE92VkxjZjQyUFAtTUIxcFRMZU1XZlJUTWFaWjJzak9pOC1uU29HUWowVWlXVVktNmZZb0JCb3plZ2FFcU9nWHAzME9ILUVKeTlFd001RENWVkJ6MGdia0NBYUs5SC1fQVMx?oc=5
 
-- 長岡市障害者基幹相談支援センター機関誌「KIMIOTO」 - city.nagaoka.niigata.jp
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5welZtenYtVklvLXJjSmxTUlVmQVhPOEFkbUpWc3ZtQjFuenhOb05LVHFURVRYQ2VycHd4akNGTnEydjNjZHhzOHBXRVluMzN2cFF3RE53LXF6RFFvdklEU1hBcGhMT1dQc2YwTXM3ajEydw?oc=5
-
-- 災害復興住宅融資に係る相談窓口のご案内について - city.niigata.lg.jp
-  https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkl1aVVCNDZIZ3A2MmtXYjJuQkhUalFsWnJiRk5ZWEVNdUU1MVlfc1dBSk5ycmV3UFY2WnRyd05rRU1Bc3BZdzVzalBDZE9QSVpaTFBETUo1NG1jR2s2cGF1bjhteXJBX0x1NVd2bVEwVllnR3FfcFlqN210eE83U3lPS3dreFlla2ZxMEotbjZRR0NaMjRTSQ?oc=5
+- 大分県相談支援従事者人材育成ビジョン - pref.oita.jp
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XQVpqZTh0S2RyMUJqOWVGanpNUm1WVmdmZ0F2TjA1RTJ3YlJfdmlGLUo4bS1RLV9ybVpnYVZOZ2RxMnBVMUlHMjhfLUpCaWdtMGwtTDdUYUE0M0hHTzNBU0VNQklqaXM?oc=5
 
 - 杉咲花 事務所の後輩・谷原七音の〝お悩み相談〟にエール「自分を信じて突き進んでください」（東スポWEB） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9PZmg0cHlXa2xhZWlxbi1BS21vZVpVSmhjQWw2a1JCUFlkRl9PZHcxa3lvOFprVU1zQzdUMzBIUV9PSUM5RW5DWjdYcVRZNl9Ud01fdHBvU29vRlNUUC14RUdfNWY0Sm1JMmJObEh3OWNnLUZRZk1pdU53RnR0LTA?oc=5
@@ -36,7 +27,13 @@
 - 井原市「空き家相談センター」を開設 スタッフ常駐し対応 - 山陽新聞
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UODAwZW04SHU4aFo5eFdoRWk5LW8wd0RkcGpIQ01NUGc5eDM4Y0VwYnhQXzgydTd0engwZS03dTZEV211UGhyVFdpSUoxdjBlSFE?oc=5
 
-- 千葉県富里市、『産婦人科・小児科オンライン』（「妊産婦・子どもオンライン相談」）を2026年4月より本導入 - PR TIMES
+- 夫「君は毒親一歩手前だった」相談なしに、同時に家を出た子どもたち。私の何がいけなかったのか - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVZFd1c4d194UjV0RXQxUnNsRklNZGVLMncxa2dveTJ3akZncG1LNnBWWGJiZ0ZvcmI4Q3RXLU1hZjhaX0U2N3VKSzBobC1vUmpMZWFleDRFWDVTSDZUX2tLdklnclBLLWtqejNzTy1ZT0NwMHlESzgyVlo1WGxEamRmeV9ndmlYb3BlemtqdmFmandoeW9uOEFxQXhfWlVMSkHSAacBQVVfeXFMTnJhc2RGcW5kQ2laY09RTjBFQ1NBZzM5ZS10XzJvb202V3BPTkI0Yjc4OVJTTWRFNXNKdm05Wk5OalFoZVhETXFxT2tKYkxvVGtKUnp6OUZHelZ2T21aUjRwbXlUa0poaFhfT3RXR2tUdzNkand2Q0lkOHlQNWpVcUNsMnZxTEVZb0JGTDBkWURJd2I1eEMzNksySFhqakZNOGRXZ24wVGs?oc=5
+
+- 性犯罪・性暴力被害者に関するLINE相談窓口の開設 - pref.hyogo.lg.jp
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE15WGUyUzc2MTh2dG4zdUY1dUFySWY5dEh3bnBrQ0s1MVlMelVGQjgyMEJlR1VZRW4yZ3FpdHNOaTBNNExXUDYzVWI4ZVB3VTdSZWgzVVBCNWhUX1VzN1N4UGwycw?oc=5
+
+- 千葉県富里市、『産婦人科・小児科オンライン』（「妊産婦・子どもオンライン相談」）を2026年4月より本導入 - prtimes.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9BR0lRWFV4YWI3V0VON2F5ZUZmRTFJR1BVYVdXblI5RHBxMXNYdkN4Ml8wRzF2R3BaU1YzLV9PRE82alRVZ0pCenFtQmZoN2xodHk0TEprTmRrVzJIdi01cGIzRnRJbkw5b3c?oc=5
 
 - 多摩信用金庫、中東情勢緊迫化で相談窓口 80店舗に設置 - 日本経済新聞
@@ -45,7 +42,7 @@
 - 精神保健福祉の相談、延べ90万人超 市区町村などで - 24年度 厚労省（医療介護ＣＢニュース） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE05T0tubXpFenlwODRLM3EyYmhGNGRQNFljNXZlbTFQOEJjRmV0WkQ4c2pnU2hKd2NDUW5zYThLeWx3eXY2QXpGTHF5eGM0clVuZm95T1IzUGdJbTZkTUp6V1V0cDQ4Z19fdXNBWWNMQVR5S1NYMmQ5eHpQdFg0VHM?oc=5
 
-- 情報があふれる時代に、肌の悩みを気軽に直接相談できる価値を、もっと広げていきたい #April Dream - PR TIMES
+- 情報があふれる時代に、肌の悩みを気軽に直接相談できる価値を、もっと広げていきたい #April Dream - prtimes.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTFA2a0pGWHl2NlQ5NTlQSURZemlXUU9zT2dVYms1RkV3RzU0bTd1czUwSDljMkRrY01SOHg0M2RpdHlLQ0ZwaHNVb1NJUmx5UUdsenlKcjJ5TG1zcV9icV9lRTd0ZjA3ZnZKa0E?oc=5
 
 - 浮気や依存、恋愛絡みの悩みをぶった斬る「マダム表裏の恋愛サロン」1巻発売（コミックナタリー） - Yahoo!ニュース
@@ -59,4 +56,7 @@
 
 - 60年ローン利用も？ 「実家に住まない」相談増加 神戸・須磨の不動産事情、地元業者が明かす（ラジトピ ラジオ関西トピックス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE8wc1hjZGxVT3NMdkVRVU50R085WENkY19MUzIxRUxKVy12REhhYXR4ZWQ5REdiYURxbUw3OGdpTVh0Qk5WSDVLdF95Smt4UGRBNmlER1JDYW9WTU9pOExWbmU0SlctWVFGVFg5Z0lKVXpBV0F1MnQybnRLSFhKMlk?oc=5
+
+- 八嶋智人、視聴者の深刻な悩みに真剣回答 「前にお進みなさい」に込めた真意＜メシドラ～兼近＆真之介のグルメドライブ～＞ - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE96bThCUERjN1UyRzlCRnM1WEU5WTFLZVZOcUhpTmdvREFncTN6bzcwVk1TR2xSREJHNVVJbWlVdUJYakVibzlObHpnQzBCdUlnM21CLWQ1REpsaTEwRVNJa3ZCbWlHa1dDQVNsNkE2cVM4SThDSU12QnVuX1Rqcnc?oc=5
 
