@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-04-01 19:23) ===
+=== こまる相談 ニュースフィード (2026-04-01 20:11) ===
+
+- オンライン移住相談はじめました！ - city.hachinohe.aomori.jp
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxQVXM2UzJDRzc2OEgwQWpnN0t4MEFYclFRbXVwY0hZcnJRLUItV3ZDOG5jTFVDNHZ1NUVwMTRfRDJRYU5fMjJ6alFkV0ROTVBoQ3V2aTIwWDBhd2JVeEVRVTBMMVRLdjBjMnJma3lOWnh0XzZ1ZmVpOERvdl9BZGVZT2RIMzh1WG9hSHc?oc=5
 
 - 【4/4(土)鹿島戦】「出張空き家の相談窓口」実施のお知らせ - 水戸ホーリーホック公式サイト
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mSkJIdnlZX3ZJZHVfaHoxeHNDX3owODgzYWZJNmZ0RS1pRjBMT2NmRjRWeUx4aVBmZTE4MWpJNEFNbzlwbmhOdThVQVoyQ3F2TjNrWldZOA?oc=5
@@ -9,25 +12,31 @@
 - 令和8年度中小企業デジタルコンシェルジュ 相談受付開始|4月 - metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBvU3AyYjVSVTJMOXJESVNxNWNrUU03VFkwdnNZbFBVSkdXblhUcHBvMlJ3Tm15REIwazcwWks5c2FmNVh1OUNYcDN1dV9DYW1YS1dWb0hGMktlX0Z4OHRxVkNsWEQxU2owT2lKZW45SE1HYzBU?oc=5
 
-- 【横須賀市】横須賀市が大型連休中の生活困窮相談を実施！5月3日・5日・10日の3日間 - 湘南人
+- 【横須賀市】横須賀市が大型連休中の生活困窮相談を実施！5月3日・5日・10日の3日間 - shonanjin.com
   https://news.google.com/rss/articles/CBMibkFVX3lxTE11bVhveGk3NjJaV0ctN0pyOGFWbU1yNnVqQzl1Q1VfSVplWWUwV3lQdk9USVFzbUhLNEZhOTQyOTNCWTdaelUwenJESm9rYTlxb1NsWTZJQm13MGlvYzctanlrdkU3bzQ4TFBYa1ZB?oc=5
 
-- 盗品は「いくらで売れる？」 逮捕の男ChatGPTに相談か - khb東日本放送
+- 宇都宮市、社会福祉士を初採用 2030年度の児童相談所開設へ体制強化 - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE96b2luRXlUN29DSm9jWHFzdE1CRkZLSXh5ZWZYZmE3eVFiZFFHZ1lmMXRtYWdOdzFaZWlBQTFiVm1JU0twUHJrQ0o4aXQzdHJSdDBXY214cjV6TEU?oc=5
+
+- 長岡市障害者基幹相談支援センター機関誌「KIMIOTO」 - city.nagaoka.niigata.jp
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5welZtenYtVklvLXJjSmxTUlVmQVhPOEFkbUpWc3ZtQjFuenhOb05LVHFURVRYQ2VycHd4akNGTnEydjNjZHhzOHBXRVluMzN2cFF3RE53LXF6RFFvdklEU1hBcGhMT1dQc2YwTXM3ajEydw?oc=5
+
+- 盗品は「いくらで売れる？」 逮捕の男ChatGPTに相談か - khb-tv.co.jp
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE83Q1RrNnd6ajR5ZHZvUk9TMm1QQ21CY0JHNmVMeTBlYU4xZm8talk5ZmpZZ0R0dkFncXpZS05aZDJLeWdycEFPN1hta3QzOWs?oc=5
 
 - 神奈川県不妊・不育専門相談センターについて【令和８年度】（県民向け） - pref.kanagawa.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE92VkxjZjQyUFAtTUIxcFRMZU1XZlJUTWFaWjJzak9pOC1uU29HUWowVWlXVVktNmZZb0JCb3plZ2FFcU9nWHAzME9ILUVKeTlFd001RENWVkJ6MGdia0NBYUs5SC1fQVMx?oc=5
 
-- 長岡市障害者基幹相談支援センター機関誌「KIMIOTO」 - city.nagaoka.niigata.jp
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5welZtenYtVklvLXJjSmxTUlVmQVhPOEFkbUpWc3ZtQjFuenhOb05LVHFURVRYQ2VycHd4akNGTnEydjNjZHhzOHBXRVluMzN2cFF3RE53LXF6RFFvdklEU1hBcGhMT1dQc2YwTXM3ajEydw?oc=5
-
 - 東京都や23区、中小企業の相談窓口設置 中東情勢の悪化で - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE51bEd6bnNVa3N1NnAxOGgxck1zX01tMTBlNDQ5Q0NhTnZMUnNOU1BrOXFzZ0dmSjZuTUlLSkNzRUYtNnBDMkMwcWl2cnVzZTV1LXM1R3Y4NUlQOVMycHNSMmdPSzA5d3BXeE5rOA?oc=5
+
+- 【パワハラの背景 ある能美市職員の死から】（上）相談窓口も労組もない - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5WUwxekVGeWt6U1RlaEJnc3NFSTFHZDN0a24zZVZsV1FuYWs3aExDX1dITzVmd1ptN0hrQ1FUdnlGWnpadmsxYXdEQUk2VzVMbzFlWEJ6RE1mNUVkQ29KX3dsTS1Delhf?oc=5
 
 - 学生生活相談会（新入学生対象・自由参加） - univ.gakushuin.ac.jp
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZU3lxbmFzY3EtMWVIaWVidVpCLUZNdVpYbm94dmJjV1A4d3F2UTA3U3RlamhkWmdfbWhheFJIMk15SDdTU1R4MzY5MWphdXN0YTJPaFZ4T1EtZ0FmeE9R?oc=5
 
-- AIへの恋愛相談はNG？ スタンフォード大が指摘する「迎合性」の罠 - Yahoo!ニュース
+- AIへの恋愛相談はNG？ スタンフォード大が指摘する「迎合性」の罠 - news.yahoo.co.jp
   https://news.google.com/rss/articles/CBMif0FVX3lxTE8xTHc3eUU4M011YzVtalJnNXBlWlB3Y0FfTVhlYmhwYzRLSWtNMVhUR0VxVG1oU3RFcnE5d3c0Mm5LbC1TRDV2VWZYQ0hTZzZPT1ktazVLMjNabWE5cWFKZ3BjQl9iTnd2ZE14RUNZa3VrUXpJREtPRnNTTFBqLVU?oc=5
 
 - くらしの相談窓口のご案内 - city.kadoma.osaka.jp
@@ -42,21 +51,12 @@
 - timeleszがスマホ充電の“あるある”な悩みを解決！「CHARGESPOT」新CM放映開始 - 推し楽
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mY2w3al9Pa1JZTmtiVGUtb0poTU9lcll6MDNPQk1ORGZSQ0k5LTBrUTdhaHNLOGVuSk9DS3hMRXhGY09JQ1BPNkZkbTYxbkFGX0h0a2lrVWs?oc=5
 
-- 性犯罪・性暴力被害者に関するLINE相談窓口の開設 - pref.hyogo.lg.jp
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE15WGUyUzc2MTh2dG4zdUY1dUFySWY5dEh3bnBrQ0s1MVlMelVGQjgyMEJlR1VZRW4yZ3FpdHNOaTBNNExXUDYzVWI4ZVB3VTdSZWgzVVBCNWhUX1VzN1N4UGwycw?oc=5
-
 - 企業相談窓口を全80店舗に設置 多摩信金 - 日本経済新聞
   https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVA5Q1RUWGdWMkZYdnd3cmxueGlHS29nYlhWbnJkMUs5SGx4NkgzWW56MHhTbU5RRTBFRFBYakJNaXVuNG02N3ZBXzAxV1loNDdwNVl1M0xxYmZ5SFdvQlFUMS1vTklCd3JrejFMeEZKb3JTVFJzVWM1bjZVV1dfYlp1RGlSSVpSWE9IVjk1Zk9sRnlKYW00TWRLNWNMcVBFOHJpWHN3?oc=5
 
-- 杉咲花 事務所の後輩・谷原七音の〝お悩み相談〟にエール「自分を信じて突き進んでください」（東スポWEB） - Yahoo!ニュース
+- 杉咲花 事務所の後輩・谷原七音の〝お悩み相談〟にエール「自分を信じて突き進んでください」（東スポWEB） - news.yahoo.co.jp
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9PZmg0cHlXa2xhZWlxbi1BS21vZVpVSmhjQWw2a1JCUFlkRl9PZHcxa3lvOFprVU1zQzdUMzBIUV9PSUM5RW5DWjdYcVRZNl9Ud01fdHBvU29vRlNUUC14RUdfNWY0Sm1JMmJObEh3OWNnLUZRZk1pdU53RnR0LTA?oc=5
 
 - 多摩信用金庫、中東情勢緊迫化で相談窓口 80店舗に設置 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5XTHhKZVVVbGhxT0QzUENSMEhJWlZTalE2aXJFTDd0a05aMW90MjNNZmgtdkJmb2lDQkNaUVVOa1c3T3lmOGM2N21ZMzh5cmttOXZpRmJjc005OGx1NGZDUnVlVzdKOTBqUERERQ?oc=5
-
-- 精神保健福祉の相談、延べ90万人超 市区町村などで - 24年度 厚労省（医療介護ＣＢニュース） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE05T0tubXpFenlwODRLM3EyYmhGNGRQNFljNXZlbTFQOEJjRmV0WkQ4c2pnU2hKd2NDUW5zYThLeWx3eXY2QXpGTHF5eGM0clVuZm95T1IzUGdJbTZkTUp6V1V0cDQ4Z19fdXNBWWNMQVR5S1NYMmQ5eHpQdFg0VHM?oc=5
-
-- 浮気や依存、恋愛絡みの悩みをぶった斬る「マダム表裏の恋愛サロン」1巻発売（コミックナタリー） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9sdDZNSklHdGFhQjFCV19LeTRMUXo0MzQ5WkxFRmM4bVdUbkN1UngzQlMtNEhfbXp5Xy1OSXdhdjc2cVVGU09EM09ja2IwVkk4ZkRWREY0RTNmdWVIRkhvWEZJVGhzeUxYS00wZk1HVnV1cklnQTEyeklqSzM3OWc?oc=5
 
