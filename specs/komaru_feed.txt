@@ -1,7 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-01 06:31) ===
-
-- 行政相談 - city.kanuma.tochigi.jp
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE0tTzBndHlfRXN0RGhoX0IyX0pYSTh2R1M1NUk1SHFZQ2dxZVFFX0g1dVFjdjRvajZuNVYtSFo1dW9ZNFFyQW9lek9USUp2ZU52SUVRRGtxLVh0eFZ2NWRZaG0tWklkY0tabU4zQ3hCbw?oc=5
+=== こまる相談 ニュースフィード (2026-04-01 07:30) ===
 
 - JTBの結婚相談所「ふたり紬」、オンライン相談を本格始動 トライアル期間を経て全国の皆さまへオンラインで提供開始 - jtbcorp.jp
   https://news.google.com/rss/articles/CBMid0FVX3lxTE1scUg2S1pEcVFGbmYyOWhKZnRaNVlwMUhXWWV3ZGVMZno5QjZ1Y2xoWklJdEZhZDVNVjFlZnl5Z0RnTHlMR1B3WE8xeHMxbjFqRE83ZWJERHRfbm5LaTFULTZfYjZLdi1NaDdPcHE2MDZ0dTZzajEw?oc=5
@@ -12,11 +9,14 @@
 - 大分県相談支援従事者人材育成ビジョン - 大分県ホームページ
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XQVpqZTh0S2RyMUJqOWVGanpNUm1WVmdmZ0F2TjA1RTJ3YlJfdmlGLUo4bS1RLV9ybVpnYVZOZ2RxMnBVMUlHMjhfLUpCaWdtMGwtTDdUYUE0M0hHTzNBU0VNQklqaXM?oc=5
 
+- 東京都や23区、中小企業の相談窓口設置 中東情勢の悪化で - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE51bEd6bnNVa3N1NnAxOGgxck1zX01tMTBlNDQ5Q0NhTnZMUnNOU1BrOXFzZ0dmSjZuTUlLSkNzRUYtNnBDMkMwcWl2cnVzZTV1LXM1R3Y4NUlQOVMycHNSMmdPSzA5d3BXeE5rOA?oc=5
+
 - 災害復興住宅融資に係る相談窓口のご案内について - city.niigata.lg.jp
   https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkl1aVVCNDZIZ3A2MmtXYjJuQkhUalFsWnJiRk5ZWEVNdUU1MVlfc1dBSk5ycmV3UFY2WnRyd05rRU1Bc3BZdzVzalBDZE9QSVpaTFBETUo1NG1jR2s2cGF1bjhteXJBX0x1NVd2bVEwVllnR3FfcFlqN210eE83U3lPS3dreFlla2ZxMEotbjZRR0NaMjRTSQ?oc=5
 
-- 東京都や23区、中小企業の相談窓口設置 中東情勢の悪化で - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE51bEd6bnNVa3N1NnAxOGgxck1zX01tMTBlNDQ5Q0NhTnZMUnNOU1BrOXFzZ0dmSjZuTUlLSkNzRUYtNnBDMkMwcWl2cnVzZTV1LXM1R3Y4NUlQOVMycHNSMmdPSzA5d3BXeE5rOA?oc=5
+- 杉咲花 事務所の後輩・谷原七音の〝お悩み相談〟にエール「自分を信じて突き進んでください」（東スポWEB） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9PZmg0cHlXa2xhZWlxbi1BS21vZVpVSmhjQWw2a1JCUFlkRl9PZHcxa3lvOFprVU1zQzdUMzBIUV9PSUM5RW5DWjdYcVRZNl9Ud01fdHBvU29vRlNUUC14RUdfNWY0Sm1JMmJObEh3OWNnLUZRZk1pdU53RnR0LTA?oc=5
 
 - 長岡市障害者基幹相談支援センター機関誌「KIMIOTO」 - city.nagaoka.niigata.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTE5welZtenYtVklvLXJjSmxTUlVmQVhPOEFkbUpWc3ZtQjFuenhOb05LVHFURVRYQ2VycHd4akNGTnEydjNjZHhzOHBXRVluMzN2cFF3RE53LXF6RFFvdklEU1hBcGhMT1dQc2YwTXM3ajEydw?oc=5
@@ -27,36 +27,36 @@
 - くらしの相談窓口のご案内 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXVMUkVoVFJzVElBVkRjT0tzemIwRG5UV01MVHJCemhtN0JpM0Q5V0tiOWFQQmJxZFBMQ0RhVEY0SC01OGI5RjQxTnNlRC0zd1dqV3U5VHgtR2hKZm5MRHBYbzFqM0pWLVNuem52SS1CeHc4VU1jWG9Fa2pOTWhKd3FRUUc0dmlrSnR3?oc=5
 
-- 「絆ホールディングス」利用者らの相談応じる窓口設置、障害者就労加算金不正で…４月末で４事業所閉鎖（読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1xeWJRWTY5bmd2TXBEbkZzUzlOOGVqblk1THdMY1BZTzdRQzlhRFdtcDFNZlVHSXFTb1hYQ2wzM2pRQ09CTkhvVkJxLWgxenB5RmhoX3pORzFQVmd1ejQ4YTJSTFlNN0tOMHVxcms4VDAxdnBqemI0RDhtbDVrVkk?oc=5
-
 - 令和8年度 チビッ子歯科相談室（東区 歯と口の1日健康センター）｜東区公式ウェブサイト - city.nagoya.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTE1ydFRvZ2lDWFFNb2Y1V29XYlptSV9yUkQyOFZzOU5QTjhtRk9tcWpwZnNvQnV3a3RuVXpRa2NVYno0Qk9ULVBJRi05YWpZblplZXpxNkwyeUxydlQyTFBObVFSeDJyNXBCYnJSWV9lV0JvUQ?oc=5
 
-- 【神奈川県山北町】『産婦人科・小児科オンライン』を導入 町外受診の負担をオンライン健康医療相談でサポート - prtimes.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5rTVlUWjNPclQtS2VrMGQ4djhJeEhRczNCTXRDb3BJb2dsdHBJdTdlazBCdHdaLW92eGpGb2tqR01KQnFvbmlTak5KQ281UlhtU1BUQmQxdlR4ZERPLUZ1T3JnVUZKN3FycHc?oc=5
-
-- 『魔入りました！入間くん』48巻 /『トントンの相談飯の夜明けぜよ』購入特典 紀伊國屋書店限定ペーパー - store.kinokuniya.co.jp
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVHVJaUN3Y2s3Ym5uNEpKRXBjTE5zVGdqcGtGVnl5T3A3aDV4RjhNcTBpenBmSDVtV1E2TlpKNVB1NXZCZWFra3RmdUlRRWp0MEwxN2hLaE9lSFMy?oc=5
-
-- 佐賀県が精神医療の相談電話を開設 4月1日から夜間や休日に対応 | 行政・社会 | 佐賀県のニュース - 佐賀新聞
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE94eGtRVE5JdWhpRHU3dmkyUXRia2tPR1A0czhEZFdCMGc2MDRKV0xSYVpkcWlzeEZfTF9NVTlDR1p2T19yRmVqQlpFRG4tS0JIaUVXaHdR?oc=5
+- 【April Dream】どんな小さな肌悩みも、置き去りにされない社会を目指しています - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5Oem9LSjRiU1BnM2Q0bkswNm5NeFk1M0E0ZUpXZ1dnalZMSWhyaVROZnVEX1NfUUlmckRVcVByb1FnQkhiNHVpUDhlLVdoNndmRkpxcEVnQUl2N2kwRHVhU1V3MkVFdVNTRUE?oc=5
 
 - ［長崎県］自殺対策NPOと連携 平戸市、電話相談の周知強化へ - 西日本新聞me
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJQ0ctci1PRmxwUFhsQ2t4WG5mTmRseWxLd3pyTTFBaFZtZUEwQ2FkQ3hmTDlXaHFJaG1LODFLZklDSDlsbzRmOHRXLTRlaHRXbG1yM2pB?oc=5
 
-- 幼稚園等の職員による虐待が疑われる事案に関する相談窓口について - pref.hiroshima.lg.jp
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQlJiQld1RlBZSGdfY2lxXzRMdTdLZGg4Mk5pOUVTeFQ1QUhaVXlCeEpmeENBQXl3b0FneWl4R3k3TGVpR0xHV1J4T3QxYjR3Zmkwek9HLVJ3THkyalVUdVQ1YzNoY2tBNkhMVnFkMkhfNTJ6cnc?oc=5
+- 佐賀県が精神医療の相談電話を開設 4月1日から夜間や休日に対応 | 行政・社会 | 佐賀県のニュース - 佐賀新聞
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE94eGtRVE5JdWhpRHU3dmkyUXRia2tPR1A0czhEZFdCMGc2MDRKV0xSYVpkcWlzeEZfTF9NVTlDR1p2T19yRmVqQlpFRG4tS0JIaUVXaHdR?oc=5
 
-- 【April Dream】どんな小さな肌悩みも、置き去りにされない社会を目指しています - prtimes.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5Oem9LSjRiU1BnM2Q0bkswNm5NeFk1M0E0ZUpXZ1dnalZMSWhyaVROZnVEX1NfUUlmckRVcVByb1FnQkhiNHVpUDhlLVdoNndmRkpxcEVnQUl2N2kwRHVhU1V3MkVFdVNTRUE?oc=5
+- 『魔入りました！入間くん』48巻 /『トントンの相談飯の夜明けぜよ』購入特典 紀伊國屋書店限定ペーパー - 紀伊國屋書店ウェブストア
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVHVJaUN3Y2s3Ym5uNEpKRXBjTE5zVGdqcGtGVnl5T3A3aDV4RjhNcTBpenBmSDVtV1E2TlpKNVB1NXZCZWFra3RmdUlRRWp0MEwxN2hLaE9lSFMy?oc=5
+
+- ＩＢＪ[6071]：株式会社 IBJ（結婚相談所事業）2026年3月KPIについて 2026年4月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBfSlNoOGd3OE9RdC1TMkJIOVZPbEFNZnFjeDFURHhoWmk1UnliNGZ5WGFKcWotdXNrVERDMURyaC12REtTWGdDcHRFZV9jVS0tUnVZRUVwWF92ckpBVktIaFRJTG1TQ2RjZ2c?oc=5
+
+- 保育園より遅い登校時間の悩み「小1の壁」を解決 愛知県大府市が地域の高齢者と進める小学校の早朝開放（テレビ愛知） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFA3SG50aDZLOUNrZWNuUnpzUWx5eGdzU2pmM1FNaVR5bm1Idk80ckJaR0hGY1gyekhiNVFSM3VodWYxREt6WFV5dzYzYzVxM0ktM3ZlYUlNNUYxV1ZhVDYycmlJYS1LcVhrWDlqNnpyS0pDZGdRVXQzMG1TMlh0N3M?oc=5
+
+- 【神奈川県山北町】『産婦人科・小児科オンライン』を導入 町外受診の負担をオンライン健康医療相談でサポート - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5rTVlUWjNPclQtS2VrMGQ4djhJeEhRczNCTXRDb3BJb2dsdHBJdTdlazBCdHdaLW92eGpGb2tqR01KQnFvbmlTak5KQ281UlhtU1BUQmQxdlR4ZERPLUZ1T3JnVUZKN3FycHc?oc=5
 
 - AIへの恋愛相談はNG？ スタンフォード大が指摘する「迎合性」の罠 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE8xTHc3eUU4M011YzVtalJnNXBlWlB3Y0FfTVhlYmhwYzRLSWtNMVhUR0VxVG1oU3RFcnE5d3c0Mm5LbC1TRDV2VWZYQ0hTZzZPT1ktazVLMjNabWE5cWFKZ3BjQl9iTnd2ZE14RUNZa3VrUXpJREtPRnNTTFBqLVU?oc=5
 
-- 日々の眠りの悩みにあわせて選べるサプリメントシリーズ - prtimes.jp
+- 日々の眠りの悩みにあわせて選べるサプリメントシリーズ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBrc1Vodkk0aGNlSnpLZlpROW5FX0lENE93dGpoeXBHZWRkQXFjRlZyc1EzbFZaM0hQWkw1VzRORzRFaGhUN3VKNVRmUU9JMEZnVUdCeHFzTThoLTdDQmF2bW5zb19VQjhsWUE?oc=5
 
-- 千葉県富里市、『産婦人科・小児科オンライン』（「妊産婦・子どもオンライン相談」）を2026年4月より本導入 - prtimes.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9BR0lRWFV4YWI3V0VON2F5ZUZmRTFJR1BVYVdXblI5RHBxMXNYdkN4Ml8wRzF2R3BaU1YzLV9PRE82alRVZ0pCenFtQmZoN2xodHk0TEprTmRrVzJIdi01cGIzRnRJbkw5b3c?oc=5
+- 幼稚園等の職員による虐待が疑われる事案に関する相談窓口について - pref.hiroshima.lg.jp
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQlJiQld1RlBZSGdfY2lxXzRMdTdLZGg4Mk5pOUVTeFQ1QUhaVXlCeEpmeENBQXl3b0FneWl4R3k3TGVpR0xHV1J4T3QxYjR3Zmkwek9HLVJ3THkyalVUdVQ1YzNoY2tBNkhMVnFkMkhfNTJ6cnc?oc=5
 
