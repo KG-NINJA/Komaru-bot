@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-04 06:18) ===
+=== こまる相談 ニュースフィード (2026-04-04 07:21) ===
 
 - 【イベント・講座】乳幼児の食事相談・教室 - 横浜市
   https://news.google.com/rss/articles/CBMikAFBVV95cUxPeV9QdVJaRW9ndHdaZGlYcGpsS0c1TjJNeXg0TTYyNm50X3pPZy1EZ1pENEtwaDVvRTJsTnBfQWJwMjJkU2xBRlEtV3F1SXZ5UlM0NW1CRVhRMlIzTjN2TEhZWlR6a0JwS2pjRm5LSGczcDBQb2RJek9hb0M1aDZOLUR1X2JVS1h4WjVhTGVVY2E?oc=5
@@ -6,29 +6,32 @@
 - 辻村相談窓口、「和を乱す者への向き合い方」 - Design Stories
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHNy05WEVTNVk4OVhVd0hubW50QW5ubEYtRmlVcHFPZHlqLTlsc0l2TDRGQmtrUndvTER0a0h1RDFYeHRld0xjUVZ6T1FRRm10OVNNRVM5ajlxTzJBS2RqdmEzYkUtZw?oc=5
 
+- 親身に考え助言、工夫重ね 飛騨地域3市1村で運営の「結婚相談所」 - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE15Z3FDaHNVYXQxNTNYUVREdzZtdG0teDQ1Y293TlZVRXVSTXhrRDUyMHZ4SjJsbFBFSzBQT2xWZHlQYjNWMmo0ODNTdVpMeDhIVndPRWtwNWtYX1NFSHJRUg?oc=5
+
 - 「死にたい」令和の小中高生、相談相手は大人よりも生成AI 過度な依存は危険もはらむ - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE90NHBQaXBJQmc0ZnJDa1U4TFFhZkVINzlxRmtodW5YSkM2SGRuaDJYRjlldkYtamU5ckVScEM0QjB5UHBkRzNacU92U0pHNUZieXIxV3NHZ3haSkhLZ0prRWFrYXpqRmdDVjVvTzFETl9qX1JEZ0E?oc=5
 
 - 伴走型相談支援と妊婦のための支援給付について - nishi.or.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTFBjb29YR184SzAzcGNyN2d5RDk0cG9xU2Y3Mlo3THpPNWd6SFFYMUY0WGtHZmM3RFYzX3RSRU13SDdlTUVvM3hMb1l0bU9RQzZlU1JyaHhHWndoRVZoWmFSTlVFRnBlVFhWRkpaU0lCMi1pX2thdFVYaW4zdw?oc=5
 
-- 【横須賀市】横須賀市が耳の聞こえ相談を開催、言語聴覚士による聴力検査と医療機関紹介 - 湘南人
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ObW5valVxbThLd1F2LVlWVHQ1MTZFUTZUY2NmV3I0TW82RlpDWlBCYXBBalRTMVVTNnBGMHZialNkbWMyVG15V3loQWJMdUkzajZvS3NPLWc3d2puUHEwQ1BDMWM3TElk?oc=5
-
-- 「人間に相談すべきだ」——AIはユーザーに同調しすぎる Science誌に掲載の研究、謝罪や関係修復の意欲低下を確認 - Ledge.ai
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE10UVFXRlVmVVhFS2h5OFo1czNPMnZJUEpVMlN3cEVuNDNxOHhMeHlWT3BkamNpYVpzeDZWdDJzcnpyeXJrYWhTUGVudzZ3a0R4QlJaYnZ4cWZ1bzZMSHg2QUgtaUIzU1BxWmdtS0ZKUGpZczVBR1E?oc=5
-
 - 無料空家等相談会の開催 - city.osaka-izumi.lg.jp
   https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmR5U3lJdmFyakJaZzVLLTFubHYxRGh6SHpMVGp1alJ1c2VpR3FMUFYzLW1zOU1DaWtHbUtXal9NRW12OVlpcVN3YmttdDlDMUlTUnFnLUh0aXlvYlA4NlVzQXRSQ1ZzZ2dFeXlhR2RGSlUteXJvb1ZhOExadl9KVHVqbDdqMEZUTVNLbDh0X0ZMazFmdUhGc0ZWMFlxRkZIb2RlTlIydnhPc1hDdU1wQ2RkOA?oc=5
+
+- 【横須賀市】横須賀市が耳の聞こえ相談を開催、言語聴覚士による聴力検査と医療機関紹介 - 湘南人
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ObW5valVxbThLd1F2LVlWVHQ1MTZFUTZUY2NmV3I0TW82RlpDWlBCYXBBalRTMVVTNnBGMHZialNkbWMyVG15V3loQWJMdUkzajZvS3NPLWc3d2puUHEwQ1BDMWM3TElk?oc=5
 
 - こども・若者家庭センターでは様々な相談を受け付けています。 - city.katsuragi.nara.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTE9scUpWQlAyWVJmVUd2WVhSWkUxNnFiSWluZnhSX1FrbVhUXy14dUQ2UTVmTW10Z1MxOFRlZkNNc0dNbFBpYS1vSTJLdk55WXgydzg0TWdWeXl6WHJpVG9OSlFMSUNMNWpUMVc1QWVMTVY5d1hjb29aRHhpTQ?oc=5
 
-- バルミューダかアラジンか、トースター選びでガチ悩み。ChatGPTに比較させたら良い買い物ができました【TinyHack】 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBYak9zZWdNYUp2QWNjWUdfOTVKd3ktRGMwenh4SUhZTE0tZE0xLU5Za2NWYjJZVVo3eW5wbjd6WDYtOWNDSjRQSDJ6OUlqT21nQ2VNUEFKSEVoT2d0ZjNCTjNuTUtlbzdKOXlCa1EzM0NDYXpHOTI1UDJvWlZMcFk?oc=5
+- 「人間に相談すべきだ」——AIはユーザーに同調しすぎる Science誌に掲載の研究、謝罪や関係修復の意欲低下を確認 - Ledge.ai
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE10UVFXRlVmVVhFS2h5OFo1czNPMnZJUEpVMlN3cEVuNDNxOHhMeHlWT3BkamNpYVpzeDZWdDJzcnpyeXJrYWhTUGVudzZ3a0R4QlJaYnZ4cWZ1bzZMSHg2QUgtaUIzU1BxWmdtS0ZKUGpZczVBR1E?oc=5
 
 - 2026年3月14日(土曜日) 『八戸市出張移住相談デスク』を開催します！ - city.hachinohe.aomori.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1NHTXNtSkxxamN6THJweFNTbWlheW5TWFpnelRkRlBSM2piZzVDWDZpdGZQMUItRmhoOWdnM1Rva3pPVkM3dDc0U0FkOUNudmNja0c3QUZ1NlZJQkpfOU9QZXNtdDZkS2N2azJIZjM5Tng2aE9fSXNIQ0d2LXEzR2ZseEV2MGMzMXc?oc=5
+
+- バルミューダかアラジンか、トースター選びでガチ悩み。ChatGPTに比較させたら良い買い物ができました【TinyHack】 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBYak9zZWdNYUp2QWNjWUdfOTVKd3ktRGMwenh4SUhZTE0tZE0xLU5Za2NWYjJZVVo3eW5wbjd6WDYtOWNDSjRQSDJ6OUlqT21nQ2VNUEFKSEVoT2d0ZjNCTjNuTUtlbzdKOXlCa1EzM0NDYXpHOTI1UDJvWlZMcFk?oc=5
 
 - フランス＆スリランカで日本の便利グッズが大活躍！ - TVer
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xWmRibk53bEFCdWp5dkFoOVBIdVlIemNQSmpkSm05NHZVWjFndktRcDdTVUJCWHluV1AyOEU2SFBVX0NwbFNxV3ctcw?oc=5
@@ -42,9 +45,6 @@
 - 大阪弁護士会と災害時における相談業務等の協力に関する協定を締結 - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjRLZmZwNzVPaFlFSGtDY0JYbzA3N3JCclMxS2ZuRklUS2tJX2ZUcGRMOFBwXzNJQzljVUF1ZTJGSmdfNnItSUtVUnFGckpYaDZxTFljMks0OUFNcEZaTnd1QXpfTXNSZUNYUkMzZUtHODFjbl9GWHZjWTFFSlpmd1VZUmFmTm1mLUltdENwbkt1bVFEWHFyRm00Xzl3anN3SXNLeW53OFJueHA2?oc=5
 
-- 「憲法週間」無料法律相談会開催のお知らせ - town.hirokawa.fukuoka.jp
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxObVRYdFF4UC1kbXo0dS1TaG9xdnFnSzVUcWlzbG55RFBiaU5wczlPY3RUXzQ2NEdJdjFNakV3bHhFU1hvbERJMS1XTG9MRjhZNDVhREdMcUNtdWVwaEw5N2tsTS02dkpMVkd5NXhvZVctWU1EckM1N0hWUEh2ZEc2TlVTQ1ZhaUpsR1ZCR25n?oc=5
-
 - 【茅ヶ崎市】小和田公民館で乳幼児健康相談 8月29日～2月27日 - 湘南人
   https://news.google.com/rss/articles/CBMib0FVX3lxTFAwaGIzVkdXSEZxbTlPTEE5cXRIbFhnUUFwVy1YbXRKbW5LMGJheHVncUM1YTA5TXIxa0VCaWVUX25XVlkzTlFLaXhXejNUY3QzbDJXRzFnaW11VTFYY3FDWmVlTjNyd3hYdC1OZU81RQ?oc=5
 
@@ -57,6 +57,6 @@
 - 【鎌倉市】6月5日(水)就職支援相談 - 湘南人
   https://news.google.com/rss/articles/CBMicEFVX3lxTE1jREFlaXl3aXExQm1iNGxQZi1relFqYW5ZbEZBRXNpVTJ3M21KSG5qZ1RkRXh4RG10UzJpamRhTnJOeGEtdWVZaFVaeHZVa1NHRmR4Rm9SVHFXeW03bzAxNGt6ODljak1XaGZfQmt1RVY?oc=5
 
-- キャラが悩みを聞く「アニメ療法」 “お互い理解しあう”新たなカウンセリング 若者の“孤独な心”に寄り添う一歩に？【news23】 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qSVY1SnZidkZfeXRfVUNDNFpVVVctbU9NSmZRdVNpVzEtVEVCVXdlb1lSdU92VFhwdno0ajFwX3pVZkpWdlB4TlN2WXJGMm1sODROdC1BWQ?oc=5
+- ごみが多すぎて困った中国が、今や「ごみ不足」問題⋯ごみ発電大国の皮肉な悩み - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGxNUjVxQUw1aGVrUUFhUmkyVW50bEJCLVRhN3hBYjJqOEtEVjJKUExvRnI5VnVSQWVtVkprYlFDMEFLMlA3aWRacTFvWVNpWFhrdEVhc213QlBnb2ZYMzZFaDZFazZoRTVqeTdvc2s3T2xsalU5U0stZHFyWF9NU3FHV2xsZWdhaWRtc0V3?oc=5
 
