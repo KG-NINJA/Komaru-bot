@@ -1,10 +1,7 @@
-=== こまる相談 ニュースフィード (2026-04-06 09:25) ===
+=== こまる相談 ニュースフィード (2026-04-06 10:22) ===
 
 - こども発達相談センター 巡回相談 - city.funabashi.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTE1yd2tDTV83RUtkd2wtUlNBb2VtUmpkVmFsaS1kcXFjZWo4ODd6TU4ta2ZzQ0N1UW05WU9qUW42ZW9mVHVfNENFZVExemk4dlZ0cVhYZzA3emgtMmcxMUU0cmJfNDRxZk9xU3dpWUpSUEFFbTA?oc=5
-
-- 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
 
 - 認定がん専門相談員 | 国立研究開発法人 国立がん研究センター がん対策研究所 - ncc.go.jp
   https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRVBMeHJHY2FQU0pMcHFqVU9ndWZ4aHhGUUdCdlVYNFhPNmc3V2JlVGl6cUc4SDl2UEFobnZ0RHV0RmwyaENDZ2YwR0Vub2dBcU9fUXpBVUZqMFRvMG1kRlBsRjVvREI3bVBiYVZiVHpQUC1EZGRCQUJvbVlrb2VkaGNWTDNlNWlRbnhV?oc=5
@@ -18,35 +15,38 @@
 - 韮崎市移住定住相談窓口について（相談窓口のご案内） - city.nirasaki.lg.jp
   https://news.google.com/rss/articles/CBMinAFBVV95cUxQeUtqUzRwWlhRVzdWei0zRFVzWjRiZlFWbDNyaXhiUWxoSXpVeGZ1N1EzZmFIYTNqXzZ6SllHQ0x2VzZFVVNnSnIxVkZGaDVLcnF4clZrY2NLYW9CTzc5dUVqN3p2WHNlbGJYZU1vYkVGMmZOZkY5cGo1b0k3R3p5OF9jbGMxSUlNRjNaa1FRWTlScmZMNFdxaW9hdnU?oc=5
 
-- 小山市が子育てサイト「にこまる」開設 支援情報や相談先など紹介 - 下野新聞社
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxV0tsNm5xM29objJYQ0FOWGtJLXhUVzhtRmJDbVUxZjQzWWFIVlA2V2ItYVROWm5jNTV0T1RrM1RWQ3oxZkhtWF85NFE5T2JHZWgyOTBzM25xRTQ?oc=5
-
 - 令和8年4月千代田区認知症本人ミーティング「実桜の会」開催のお知らせ - city.chiyoda.lg.jp
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DQTl6NlgtQ2ZkSWVHVGgzT2pJdWRsNzRxMGw1MkxxZklfbzh6Z0hZc1I0eGxDeXRFNXZFRkR4MC1lQXpjWDZDTnVVb19LdVBOTnRmdFFuRjZycUVCRG9sZS1SdDZNdw?oc=5
+
+- 小山市が子育てサイト「にこまる」開設 支援情報や相談先など紹介 - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxV0tsNm5xM29objJYQ0FOWGtJLXhUVzhtRmJDbVUxZjQzWWFIVlA2V2ItYVROWm5jNTV0T1RrM1RWQ3oxZkhtWF85NFE5T2JHZWgyOTBzM25xRTQ?oc=5
 
 - 経営・創業に関する相談窓口「ビジネスサポートセンターこしがや」のご案内 - city.koshigaya.saitama.jp
   https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXhhY1QwWi1OY0ZWTEdCSENRZ0NoeTN1WTN0cHhYcjk0TGJELUdaRmJVVjZfSDhGZU5oOHdZLXRpaWJVeDFnQnBQMmt0S0MzZk12Wl9mSmdPTzRDOXVmNGZweXB4Sm8zbU1hNmZUV3ZoYTlmQzNzelFCangxRkt2R3dzYklfalppVjBMaEdFS19qTVA4MEFz?oc=5
 
+- 中東情勢緊迫化、経営や資金繰りの相談を 秋田県や金融機関、事業者向け窓口開設 - 秋田魁新報電子版
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vT2U1OGlJUk51UkFpYTFaeG1TQldOaWFHT2pETUs5ODlsaUh6em9Ka21NNGZKeWxrRTJsNFpDb3dxdzM3aUkybXRzeXAwWUJQWkwyVmFLYlFic1hzcWEzV05n?oc=5
+
 - 事業者向け相談窓口「いばらき経営サポートデスク」を開設しています - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxONVMzdnZYRUtKbmJhdmxwNzFEbEg0MlN1TllFcHFKTE44ejV2X3F2QmpDbEJiMkc5QnFTdEdLWUdtNi1wZDR4MlFiVTNEckd1ZzRseHFtc3VKcW51a3BJYUNpNjlVb2RKck9lMVRTSlZQX0kxWmFqX2JUclF6QUVjUU9qVEJiejU1dURXQQ?oc=5
 
-- BOKUJOB2026 サポートデスク（広報＆相談コーナー）を中山競馬場で開設！ - jra.go.jp
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vQzZQSVNFWTc1X1ZRZUp5NW50TFVock1WWUhLcTc4UEI2eE1NWlE0alFhRWFxY0VfNWNaYTljNV9fRmJab3VOUGFJS3ljOVQ5SDN4WFloX0c?oc=5
-
-- 吃音の悩み分かち合う、福島県内初、当事者団体発足へ:地域ニュース - 福島民友新聞社
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LODZWeHlWejlGRkJoajRNak5COS1iaXJCUjFWcmo5YkttT3JsNVdTUFkxdWo1cXVwa1FJVXYyTGplVjNLZTVDalhyakpJbGVGRlFVcXRSVk1sUDhyYm1WM05sc3I1V1Z1?oc=5
+- こころの悩みAIに相談を 熊本市が開設 公認心理師らの応対補完 - 熊本日日新聞社
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE90SVFQaU4tWlRwQmxUUk1PWlh6N0dkbHZwUVpRM2tNd1JqREQ1RjJQRVdUQ25sbEl0bGRzcXNrYk94STg5T3dVR3JqZEZrVUU?oc=5
 
 - 【イベント・講座】乳幼児の食事相談・教室 - 横浜市
   https://news.google.com/rss/articles/CBMikAFBVV95cUxPeV9QdVJaRW9ndHdaZGlYcGpsS0c1TjJNeXg0TTYyNm50X3pPZy1EZ1pENEtwaDVvRTJsTnBfQWJwMjJkU2xBRlEtV3F1SXZ5UlM0NW1CRVhRMlIzTjN2TEhZWlR6a0JwS2pjRm5LSGczcDBQb2RJek9hb0M1aDZOLUR1X2JVS1h4WjVhTGVVY2E?oc=5
 
-- 木村拓哉が雨の日に練習場へ ゴルフの難しさに悩みながらも「だから、面白いのか…」 - ALBA Net
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE4wdGwxTUN6RzRRSGo4dDRJZ3M2SXJMazQybHNNZG03UU9tdi1kR0ZJVnpxaFpCdGh3bmRHa0x3NmlSSGpHYzRxTE1MbGZaUnJjX0dwc1BRTkZYS0JjaDBDYWljczl4b3RUSHVvMTVwQkRuaWlx?oc=5
+- 吃音の悩み分かち合う、福島県内初、当事者団体発足へ:地域ニュース - 福島民友新聞社
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LODZWeHlWejlGRkJoajRNak5COS1iaXJCUjFWcmo5YkttT3JsNVdTUFkxdWo1cXVwa1FJVXYyTGplVjNLZTVDalhyakpJbGVGRlFVcXRSVk1sUDhyYm1WM05sc3I1V1Z1?oc=5
 
-- 小柄女性の椅子の悩み解消 豊橋木工が新ブランド「ピオニア147」立ち上げ クラファンサイトで7日先行発売へ - 東愛知新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TUVprbE9LbXM4QkdPbG5SZDljQzdpal9ONlFQVFNVRHJyQTFWMll1X2NGWC1EQTB1bnZXSVJxeS1Fenl2d3dFU3R6RTNVUW4yYkwwSkR2eUlqdk8x?oc=5
+- BOKUJOB2026 サポートデスク（広報＆相談コーナー）を中山競馬場で開設！ - jra.go.jp
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vQzZQSVNFWTc1X1ZRZUp5NW50TFVock1WWUhLcTc4UEI2eE1NWlE0alFhRWFxY0VfNWNaYTljNV9fRmJab3VOUGFJS3ljOVQ5SDN4WFloX0c?oc=5
 
 - こども・若者家庭センターでは様々な相談を受け付けています。 - city.katsuragi.nara.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTE9scUpWQlAyWVJmVUd2WVhSWkUxNnFiSWluZnhSX1FrbVhUXy14dUQ2UTVmTW10Z1MxOFRlZkNNc0dNbFBpYS1vSTJLdk55WXgydzg0TWdWeXl6WHJpVG9OSlFMSUNMNWpUMVc1QWVMTVY5d1hjb29aRHhpTQ?oc=5
+
+- 小柄女性の椅子の悩み解消 豊橋木工が新ブランド「ピオニア147」立ち上げ クラファンサイトで7日先行発売へ - 東愛知新聞
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TUVprbE9LbXM4QkdPbG5SZDljQzdpal9ONlFQVFNVRHJyQTFWMll1X2NGWC1EQTB1bnZXSVJxeS1Fenl2d3dFU3R6RTNVUW4yYkwwSkR2eUlqdk8x?oc=5
 
 - 無料空家等相談会の開催 - city.osaka-izumi.lg.jp
   https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmR5U3lJdmFyakJaZzVLLTFubHYxRGh6SHpMVGp1alJ1c2VpR3FMUFYzLW1zOU1DaWtHbUtXal9NRW12OVlpcVN3YmttdDlDMUlTUnFnLUh0aXlvYlA4NlVzQXRSQ1ZzZ2dFeXlhR2RGSlUteXJvb1ZhOExadl9KVHVqbDdqMEZUTVNLbDh0X0ZMazFmdUhGc0ZWMFlxRkZIb2RlTlIydnhPc1hDdU1wQ2RkOA?oc=5
@@ -54,9 +54,9 @@
 - 「50代おじさん、画質は満足、でも悩みもある」ミラー型ドライブレコーダー、使ってわかった本音レビュー - モーターファン
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ib2hIUWY4eTMxMEF5bktyQzI0REE2VFZrUWdERTBSWXNCWkRJOUNKNHpfd2hYenJ4cTB2aWZfTmE0SzhfNHFSWEk4bEFreGFzWE4zOThzRFlhSnhOa1RsTXgxQV9PWTg?oc=5
 
-- 「携帯にタグの反応が」 相談数5倍に、急増のGPSストーカー - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ySFp2aGFlOHhMTnNTSk1qT1Q4b054clJJdlZ1d0c4dHZMekZlZnYxd2hlY2F3TGVkQVlzYUFCdUYwMDZqdDlLLVRvSXRqUWR5aFBfaG5TOUpWb2pQVDh2UDZELW16Y0tj?oc=5
+- 木村拓哉が雨の日に練習場へ ゴルフの難しさに悩みながらも「だから、面白いのか…」 - ALBA Net
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE4wdGwxTUN6RzRRSGo4dDRJZ3M2SXJMazQybHNNZG03UU9tdi1kR0ZJVnpxaFpCdGh3bmRHa0x3NmlSSGpHYzRxTE1MbGZaUnJjX0dwc1BRTkZYS0JjaDBDYWljczl4b3RUSHVvMTVwQkRuaWlx?oc=5
 
-- オーケーで偽商品券10枚使用か 神奈川の店舗、警察に相談（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9fY293UHZ4N1U4Wkw1MzhiUy0wdWNhVXZ5NThoT0drQVMtSERQZ2lQeEhWeVAwUzFyMnpiMmR4NFRNMU9QQXlpdHAxZ0VkdkxFeDVCTXhRLU9CY2lBaHlDQlNUZkc2LUwxdGZxemJyd0EwUW51ZzE2UUhmalAxMTA?oc=5
+- 伴走型相談支援と妊婦のための支援給付について - nishi.or.jp
+  https://news.google.com/rss/articles/CBMie0FVX3lxTFBjb29YR184SzAzcGNyN2d5RDk0cG9xU2Y3Mlo3THpPNWd6SFFYMUY0WGtHZmM3RFYzX3RSRU13SDdlTUVvM3hMb1l0bU9RQzZlU1JyaHhHWndoRVZoWmFSTlVFRnBlVFhWRkpaU0lCMi1pX2thdFVYaW4zdw?oc=5
 
