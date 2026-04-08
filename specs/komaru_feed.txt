@@ -1,10 +1,13 @@
-=== こまる相談 ニュースフィード (2026-04-08 15:27) ===
+=== こまる相談 ニュースフィード (2026-04-08 16:24) ===
 
-- ［取手市］AIを活用した相談窓口カスハラ対策を試験実施（政治山） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTVYwYnVncU5NUjdSUEUzMElkZ1lLTU82SDIwM1pERXQ0WjdObV9URG1USnVfcE5fTWNNXzRrU0d4UjZMbkRSQVdtY2xZVzBtVjBqT01venJKejlGZTN5V1JCak9wOTRyNFFPZHhBNG5Eb3RIRVNDalJSR3VycmM?oc=5
+- 辻村相談窓口、「愛されたい」 - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FcTBIeGlKanFpQWJIem1vSWhUSmUyMTk4NmdBb1lDWnlQd2NDUjVtMGJNeDFCZGI4RU1FWHN5ejZlLXRyZWt1cDQ4SkZ0T3pldmt6YnhUdzYyWmlzcWRYNU1QcGpXZw?oc=5
 
 - こども発達相談センター 巡回相談 - city.funabashi.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTE1yd2tDTV83RUtkd2wtUlNBb2VtUmpkVmFsaS1kcXFjZWo4ODd6TU4ta2ZzQ0N1UW05WU9qUW42ZW9mVHVfNENFZVExemk4dlZ0cVhYZzA3emgtMmcxMUU0cmJfNDRxZk9xU3dpWUpSUEFFbTA?oc=5
+
+- ［取手市］AIを活用した相談窓口カスハラ対策を試験実施（政治山） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTVYwYnVncU5NUjdSUEUzMElkZ1lLTU82SDIwM1pERXQ0WjdObV9URG1USnVfcE5fTWNNXzRrU0d4UjZMbkRSQVdtY2xZVzBtVjBqT01venJKejlGZTN5V1JCak9wOTRyNFFPZHhBNG5Eb3RIRVNDalJSR3VycmM?oc=5
 
 - 豊中市居住支援協議会、市役所に居住支援の相談窓口 - 全国賃貸住宅新聞
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1YzUzOFdxenUzQ0xVX2hrVFZGdDU0QjNWdjUtdzJBR0NLNW05dktlbUtjZ3EyVEZMU1ZBVEM3OUttM3VpWXlsMDEwNDlKcGR3X2xoRXZpdlE?oc=5
@@ -18,11 +21,14 @@
 - 北広島市が 子育て相談機関を設置 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJaTlDb0xrSjEtZ0F2dFdVOHp3b1AtSDNDMUhBanpueFFQd3VlbWo0LUZRSVRSQ3lUa0NSZlYybURhX0VoT0JHV0tQUzc4SDJmdVZTLW9OQTZhdw?oc=5
 
-- 【呉市】「もしもし相談LINE」が運用はじまりました！若者が気軽に相談できる窓口へ - 選挙ドットコム
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZ3FMMWMtVnkxeC11YlJxX015MVR5OTRaSkFOb2RjZmJSV2gydzhpSXZuNVgxY2VUN05HVU9UQzZXM1A0czk1MlZXdnZGTnZ3QkozOEUwWWhDNWZxUWE4?oc=5
+- 【諫早市】子どもの遊び場リニューアル「すくすく広場ぷらす」子育ての相談も受け付け《長崎》 - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2VZUVAtd3FIOE9oVThXaERHdFpZY2YwVl9rdUxmczJfZUlXVmtoUkcyTFpoTEg2M2xjOHFHandnVGNReFNsZzRkd2Z5aTFSb2NqOUpxWWtyeENSVHVjb2hNb05wZWViTGw4WndFM3pSQjl5aGs1YzR1SDRvWmppaUZiV0VVeW8?oc=5
 
 - 新潟市児童虐待防止等のためのSNS相談事業委託にかかる公募型プロポーザルの実施について - city.niigata.lg.jp
   https://news.google.com/rss/articles/CBMif0FVX3lxTE4tQ25oZEU5NTFMQnA0eEJNS0ZielpvcFA1dmMwYWgzOGdQa0RfZkV3UTJ5aWM4WnZPdjJ6NnZHd1hYVmp3QjNMdFcycXJBN0lFRWd3Q0tBamMwOTBwSFIzajJ5YlJuSFZ2T2JmVG9aVHhJazlQWFhMM3o1UWttZDg?oc=5
+
+- 【呉市】「もしもし相談LINE」が運用はじまりました！若者が気軽に相談できる窓口へ - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZ3FMMWMtVnkxeC11YlJxX015MVR5OTRaSkFOb2RjZmJSV2gydzhpSXZuNVgxY2VUN05HVU9UQzZXM1A0czk1MlZXdnZGTnZ3QkozOEUwWWhDNWZxUWE4?oc=5
 
 - 通信制高校・サポート校進路相談会 奈良会場 - 奈良新聞
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6RzdSM1FGT0tsc1FxMUhQMGo0Y2FkRGhDOWs1UnI3SHZDMlBnVXhLVGRjZ2I1YUpUeWVfdlFJZjJUWk5QWHAwTGk3dG1lekdUejUyaFQtaWpabFJjdlE?oc=5
@@ -30,20 +36,14 @@
 - 個人情報誤廃棄か 子どもの心理相談、利用者220人分 熊本市 - 熊本日日新聞社
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xZjYzUElSV0tDNXlrLWEyVXcwSU0zWUlfUUN5Mlh1YXJaYkhrS3JyQ2FZQzhSTDQxUUNTUHZkQTZjb0RGZjgtdnl1d09GdGs?oc=5
 
-- 【諫早市】子どもの遊び場リニューアル「すくすく広場ぷらす」子育ての相談も受け付け《長崎》 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2VZUVAtd3FIOE9oVThXaERHdFpZY2YwVl9rdUxmczJfZUlXVmtoUkcyTFpoTEg2M2xjOHFHandnVGNReFNsZzRkd2Z5aTFSb2NqOUpxWWtyeENSVHVjb2hNb05wZWViTGw4WndFM3pSQjl5aGs1YzR1SDRvWmppaUZiV0VVeW8?oc=5
+- 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
 
 - スポーツを将来の仕事にする総合スポーツ専門学校アップルスポーツカレッジ（ASC） - アップルスポーツカレッジ
   https://news.google.com/rss/articles/CBMimwJBVV95cUxONlhWXzZqa0RhdUNJVTQzNGZpTldkMWcxNHFDcmJEM2FKRmsySlIwZFU1eUxZejZza0ZoNGVvQXI3RlhFYTY0aUtsMVlyOWczbXlJT0UyMUJsUkVDbk53ZmtkNGR0MGgwbFBFZGZONHdJVE5yeUZIdVRhZmthRVI0U0U3Wk9IdjNGMHNiWkIwUU8xQzZKRld1UktFTkl2anBGY2VDdE1KYXpDd3gwUEJycGtpclp5QUthSHVmM0xCc0I2eFZIXzVrbTRxTGdxTV9KdmpvSFlpVXIteDBmS2h0VzJCNkdkYXhKd0cxdGZnc2VGbHp5am1iTnFrV3I3aHYxMjh6cmUzMVdhcFZnSHFQYUxLUmpLMFFMbVE0?oc=5
 
-- 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
-
 - 筋トレ中のお悩み～その１～（2026.04.08） | 福島市のジム - アッティーボジム福島店 - gurutto-fukushima.com
   https://news.google.com/rss/articles/CBMidkFVX3lxTE9oamxYT1R0bEhBMUFuQk9fN1JGNVg0RE5JMUxmQXBNOTNQcC0tckhXYW1oQlR0eGRWaTZuZWVmbXFjMlZzNy1HYnBzU3VaQTZjQkU0ek5Ebm8wc1JINVVOdV85ekVTdVZhdGpyb2NrM0xpNlIwcUE?oc=5
-
-- 小児、産婦人科医、助産師にオンライン相談 高梁市本格運用、妊産婦や１８歳までの親子が対象 - 山陽新聞デジタル｜さんデジ
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jZkprLXc1Sk1WMVlDcWJTR3Fwa3dxWkRQczYxdVhyLVZvWEhDYWdJdGtWNG1DMlJUdXl5WU1xdGZFcTFWSHNxOWt2RmZvaWVUNkE?oc=5
 
 - こころの悩み、AIに相談を 熊本市が開設 公認心理師らの応対補完（熊本日日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBUN0Q0M3l5TzFWdGVqY2RqbkdUMk5EcnJMQ3gxRzhGRVdQeEFFUVdueUtVQm9sa3kwZG94NjNzR25DU2dQa2pmWUJHYWpycnV0aURwZURrU25QRzM4WndnTURmNFJPTEJZNWV5al9VMnVZRE5qOEwweG42cF81MlE?oc=5
@@ -57,6 +57,6 @@
 - 「魔界の主役は我々だ！」の特別編「トントンの相談飯の夜明けぜよ」単行本が発売（コミックナタリー） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE16Z1RHY0tDamhXUXpIcVNVbW5KalNjX1Nzd1dzRnB5U2VudVUzN3hWc3dWbkhwa0w0WG90a3dwaEM5NWVKT194M1hMcTJjOEVobWhFUlZRNmhnMVBZVmdVaHpjZ1lqNzFjMExtQ05LY3c0X0llY2dfR1pPNFRxaXc?oc=5
 
-- 4年前に自殺した男子生徒 第三者委が国に提言 “悩み相談できる環境を” 生徒の自殺を防ぐために（CBCテレビ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE0weUVJZTM1ZFlOTDltWUtoT3U5THFiT2NrMWhpTG5heHRhOUxtT2JvZmREVzB0aE5QSnZWUnhuZ0ZJOFVjZjVmRy0tTmo4NUpIaV9pTmQzal9wVGxHQWZSekNWYlZzN3RBMVAwa0VHUWNmbHExdDZpcFI4MTFIMFU?oc=5
+- 50歳になった乙武洋匡氏が悩み告白「薬ばっかり飲んでる。あとは頻尿」（東スポWEB） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5nd3RJNG05S1k2TDZQcXlDTkh5ZjRYMjZXZlBIekdLYjVjMFV1VlBCcHpFRk5BQW1kZjRqeTF4NTdOVnhsVWJ1dnhJdjEyWDh2ZUJibnZyVFIzQVl1cnp3MGJmNzVMdXJfTTdfQ2RqZG0tX3BrX3ZKc3c1STJDOGM?oc=5
 
