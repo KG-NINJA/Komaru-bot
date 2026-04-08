@@ -1,10 +1,10 @@
-=== こまる相談 ニュースフィード (2026-04-08 04:47) ===
+=== こまる相談 ニュースフィード (2026-04-08 05:32) ===
 
-- 中東情勢巡り相談窓口開設 郡山信用金庫 - 福島民報デジタル
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NRHhpR2o1SGgyeElBMkJDQnZjdUV6djIza0FWY29IQkh1VVZ4N0MzQ0taREs0NWVENWR4YUxKZXI3SWNUX1laaWVJMmpNbnM?oc=5
-
-- こころの悩み、AIに相談を 熊本市が開設 公認心理師らの応対補完（熊本日日新聞） - Yahoo!ニュース
+- こころの悩み、AIに相談を 熊本市が開設 公認心理師らの応対補完（熊本日日新聞） - news.yahoo.co.jp
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBUN0Q0M3l5TzFWdGVqY2RqbkdUMk5EcnJMQ3gxRzhGRVdQeEFFUVdueUtVQm9sa3kwZG94NjNzR25DU2dQa2pmWUJHYWpycnV0aURwZURrU25QRzM4WndnTURmNFJPTEJZNWV5al9VMnVZRE5qOEwweG42cF81MlE?oc=5
+
+- 中東情勢巡り相談窓口開設 郡山信用金庫 - minpo.jp
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NRHhpR2o1SGgyeElBMkJDQnZjdUV6djIza0FWY29IQkh1VVZ4N0MzQ0taREs0NWVENWR4YUxKZXI3SWNUX1laaWVJMmpNbnM?oc=5
 
 - こども発達相談センター 巡回相談 - city.funabashi.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTE1yd2tDTV83RUtkd2wtUlNBb2VtUmpkVmFsaS1kcXFjZWo4ODd6TU4ta2ZzQ0N1UW05WU9qUW42ZW9mVHVfNENFZVExemk4dlZ0cVhYZzA3emgtMmcxMUU0cmJfNDRxZk9xU3dpWUpSUEFFbTA?oc=5
@@ -42,8 +42,14 @@
 - 【解説】恋に、人生に。悩みに寄り添う、江戸のコンシェルジュ――『菜の花の道 千成屋お吟』藤原緋沙子【文庫巻末解説：理流】 - カドブン
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE10cTZndXNkbUZxakFvTEktcDBVRmx3Q0U4SHZMV3VvT1haOFhpVnhvdy1uNDQtblBrZUM1RXU4XzhwZHZ1b05hbTFWeWp2cVNxTE8tdGNuVlJIUEtMXzd3?oc=5
 
+- 府中市 不登校児童、生徒をもつ保護者の悩み、不安の共有できる場を・・横浜市でも実施へ（府中市議会議員 国民民主党 ゆうきりょう） - r-yuuki.jp
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xYlVzdHV2Rzk4LTJuWmhBMGV2THp5ZzNCNzdaUTU2Y3pYNWFhMjJxVVlHVmlNWHI0NkRyWDVUc1Qxb0JueldtR1dEU1hfdw?oc=5
+
 - 「いつの世も悩みはつきまじ」朝井まかてが『豆は煮えたか』で描いた“占ってほしい”気持ちと占者の心 - 文春オンライン
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BOVhIUkVQSXpHaDZXanVWWlF2bndsUkJ3eHFhM295WjZIa0tWNTBJSjk3Um16V2RrR0h4cFd4dFhwamNienFBUDctMA?oc=5
+
+- かまいたちの瞬間回答！～６０秒でお悩み解決～東京ディズニーシーＳＰ▽裏技連発 - OHK 岡山放送
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tZFNkdDl1WHBxNVJKUzQzbGNHZDdNY0VFekRCckY4Tm10QmxHT0twWG1YM2lCOXEwNTVhVzJxUldGZVh2SWVFM1NFbGlmYkU4?oc=5
 
 - ４月２６日に中学説明会、トークセッション・個別相談も…大阪明星 - 読売新聞オンライン
   https://news.google.com/rss/articles/CBMiigFBVV95cUxObnh4S3R5ZU5RcGhMNjBQYUJZdXM0dHRwamdBUU5hc2RQV1VWd2ZXVi1JeVV3aGMyZDE2ZHlxQUUtTzBWNTFsbTNNQld0REhfRkYzeVA2QUVTWDFlMzhRWWUxVHZHeUFtQXAwSGppc01FbFZHREw3c0I5WjR3U01ieFRLbktHbkF5RkE?oc=5
@@ -53,10 +59,4 @@
 
 - 北海道に移住、悩みは「年収下がる」 転職前と「同等以上」の特徴は [北海道] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfSVMzMnlZU1FnZ3JJSHFISlI0bW1yUWFrcVUzbGJyU2hRVFZXenZuTzlYa0dBQ1RKZG90UDQtUlNiYkhSVWhVSTlYZE51TVRaSDJGVk9SQ09BaXRweXpsQ3VmQUxxSVU?oc=5
-
-- 220人分の個人情報含むファイルを紛失 子どもの発達などを相談する予約簿 不正利用の被害は確認されず 熊本市中央区役所 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5pR0dJMDJ1WU8yeU5KODZwNnlqVE5CSjE3NWNVTkwtXzZqMXJFVUstbnJZOXZEUWpzM2M0RGgxUGhqOURkdkNNTzg2QmN5aTlWZ1ZQZVhVNnVVUkszejZCYUN6c1dRUEtHQUo5dThscEpvZGFxcV9wMzBwbkJGM3c?oc=5
-
-- かまいたちの瞬間回答！～６０秒でお悩み解決～東京ディズニーシーＳＰ▽裏技連発 - OHK 岡山放送
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tZFNkdDl1WHBxNVJKUzQzbGNHZDdNY0VFekRCckY4Tm10QmxHT0twWG1YM2lCOXEwNTVhVzJxUldGZVh2SWVFM1NFbGlmYkU4?oc=5
 
