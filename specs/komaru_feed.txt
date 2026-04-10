@@ -1,22 +1,19 @@
-=== こまる相談 ニュースフィード (2026-04-10 08:28) ===
-
-- 農水省に中東情勢に伴う対応チーム 相談窓口への件数はすでに200件超 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rYTZTUWJMZllVXzlXbGZlVDFGeFZlV2pnQ18xLXVfbHI4azJqWFd1WlNSYThtSnhtOEM2VDZKMFZnR0c2V2ZDcEVCV1g3cGVKRnQ2NnVmQQ?oc=5
-
-- アルバイト就業者の仕事におけるAI利用の調査レポート - マイナビキャリアリサーチLab
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFB0R1hFYzdETUY3cVNpbFdpZTlaS3NvTXRKT1o5ZzlWYWU5WktBaGlXdXJUUFAzb2xJU01Fcmxvb0dGREh3N0xxTDh6eFdXYUVGeDVIVjR3UWxpUnlMOWZMRmlMSUFEazBkaHc?oc=5
-
-- 栃木いのちの電話の相談件数、高止まり 自殺傾向も2024年過去最高 相談員の真摯な活動に胸打たれ - 下野新聞社
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EQTdvVlNYMGQwV1JmN1Zsa3dVSmdQQVBfanJNbGFnemJsUGI2YS1FU2paYUJlakpzMzdQSnpNR3RyZy1zQi1sRmp0SVBDN1hTYXJlU0xiQ01QLXM?oc=5
-
-- 【神奈川県】５/３(日·祝)「県職員採用説明会＆相談会」を開催 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE16T1RPMjdVMks2T1BiLW9YT2NmZWxmb1FNMl9CMVlZcFdLeFdmTmtEZkNLb1NDZGpKZThhd2tEZWJCUWlPQ0tySWFJdkFGMUJuRnBiRGRMZTR5TnRVaVJVOXRsa29TSmpRd1E?oc=5
+=== こまる相談 ニュースフィード (2026-04-10 09:25) ===
 
 - アルバイトの相談相手、2割が「職場の先輩よりAI」 マイナビ調べ - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE55TTJEclJOZFNvdXRmSXJoWmIxYXNRNzlpQkxpVlJaaXFGWTV0aGJTNWx5LXA3bWp0QjJIcktKTmVNUlFHVDBkbmdyX1ZrZkhVVk1fZFV2eXAwSmdiTTVqaG8zM2VNeXFvdFBlcA?oc=5
 
-- 政府、原油高騰で中小企業支援 相談対応や貸付緩和など 関係省庁と連名支援も - 観光経済新聞
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwZjFqNWN1a2NOanlqNEZGaUttZnhYOGZGMEJMbWYwTThjYWNUMGoyXzlGSWFHNlQxVGFHLXpJeHZBd043N1BBMXNKWGZZY3NVM2RMQw?oc=5
+- 農水省に中東情勢に伴う対応チーム 相談窓口への件数はすでに200件超 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rYTZTUWJMZllVXzlXbGZlVDFGeFZlV2pnQ18xLXVfbHI4azJqWFd1WlNSYThtSnhtOEM2VDZKMFZnR0c2V2ZDcEVCV1g3cGVKRnQ2NnVmQQ?oc=5
+
+- 近畿日本ツーリスト、教育旅行のオンライン相談窓口新設 全国の学校支援可能に 社員の柔軟な働き方にも対応 - 観光経済新聞
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xblkzUldLUHJJX2NJMzhtN2FvaWUzbWgzcVNoeHYzRDRQMUowQVlsVlRPWWxwcF9XSE56TFdwVFRrUEh0cE9SY0NIeXRSUzBiWVphWA?oc=5
+
+- アルバイト就業者の仕事におけるAI利用の調査レポート - マイナビキャリアリサーチLab
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFB0R1hFYzdETUY3cVNpbFdpZTlaS3NvTXRKT1o5ZzlWYWU5WktBaGlXdXJUUFAzb2xJU01Fcmxvb0dGREh3N0xxTDh6eFdXYUVGeDVIVjR3UWxpUnlMOWZMRmlMSUFEazBkaHc?oc=5
+
+- 【神奈川県】５/３(日·祝)「県職員採用説明会＆相談会」を開催 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE16T1RPMjdVMks2T1BiLW9YT2NmZWxmb1FNMl9CMVlZcFdLeFdmTmtEZkNLb1NDZGpKZThhd2tEZWJCUWlPQ0tySWFJdkFGMUJuRnBiRGRMZTR5TnRVaVJVOXRsa29TSmpRd1E?oc=5
 
 - 中東情勢対策本部 医療物資等の供給不安で相談は543件 上野厚労相「流通の目詰まりを丁寧に解消」 - ミクスOnline
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzNFB1MEd1ei1YRk9XVW5RRE1UMGZWTHB0WUdURXZ0RzNtc3BzNG1CX3hieGxBTlFGREctUGhsU2MteklxYlYxVjR3d0tLa3czeTFZanBpSjNZNGlORXc?oc=5
@@ -48,15 +45,18 @@
 - 令和8年度『こころの健康相談』のご案内 - town.iijima.lg.jp
   https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWVJYTJfR2x4cG43akdkOWtSMHR5MG5GeG5SSm4wMHVoNVhtZWdVbXp6aFEtQ1EzR3pwcUFyMjhzcEx3bG1aeHNjUVRTaEhQcVh5YW9uTDhiNUVrek5yaW05RXVtQklGVThqemp1U0dMRi1PZkVUUGdhQWFRWGFydVZ6VjRRTGM5ZG9TcFFoaW5lTzhNRGFB?oc=5
 
+- 起業・経営相談窓口 - city.ichikawa.lg.jp
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0MGZuZ2FReXZvVlhpWjVpRHNVbXI0NmJjMFpkX3F1dHdoUGNmSXZjbWdNdmNaaEdPYXJuSGZwNTVkZnd4TzJlTHdjU3lmcHRFeUZiTDBPeEdyUQ?oc=5
+
+- 注意すべき深刻トラブル＆相談先【2026年度入学記念号】 - waseda.jp
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSZDZkUEtjeGdRN3hacTFqMTNNVjh2S2dzalgzbk9mU0Q4TWhwVm1Bb1gzUDN1dGplZ0hGOEdzZEdaT1lpalQ0SHVweE93WFVrNGd2NnVTOVF2M0dNUGlQcmNLUVlVN2x5?oc=5
+
+- 政府、原油高騰で中小企業支援 相談対応や貸付緩和など 関係省庁と連名支援も - 観光経済新聞
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwZjFqNWN1a2NOanlqNEZGaUttZnhYOGZGMEJMbWYwTThjYWNUMGoyXzlGSWFHNlQxVGFHLXpJeHZBd043N1BBMXNKWGZZY3NVM2RMQw?oc=5
+
 - 暗号資産の確定申告、悩み1位は「税率の高さ」：クリプタクト調査(NADA NEWS) - Yahoo!ファイナンス
   https://news.google.com/rss/articles/CBMihwFBVV95cUxQbG91RlRqNHJsR3h3a1J0ZUM4RTJfamJqZURLTWVHMEZBaVB3VjNTN201cEM0aG4zVnNtY0FjalRSampKT2h3a3ZaMGhUN0FGZjg4djJjTHp6dU5JcXlORU5jRW5JVmpvTVFkc0xodzc0WG5zUFJ5MU15MDdrZGI3dUwtc1hlU2M?oc=5
 
-- パーソル系、AIカウンセラーが心理相談 メンタル不調での離職防止 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1Kcll0N21pTTZYUm8tYVJSNjBsZjIxRXJRTTk1cUhXNlNVRkpZOFBId1JrcEJMYU1JQmhvR2J5VlQxMlNpVVo3eVdzNTdZdGgybEFCb1p4aWQ3eGV3QjVCTF9heXRqU3pTb00zWg?oc=5
-
 - 4月は要注意 大学で新入生に性犯罪への対策を呼びかけ 24時間の相談窓口も 福岡（FBS福岡放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBXTjE0U21wcmNDenlFMmRodDZ1QWx2Y2F0QWNYcjJNcTBiazdKRjRDVTlQU0R2NUMxeDJSd0RSeVh4dnpKLXd0ZjNLTzZIeFJKVWNIWkIxb0lXNTUzSDZBVnM2a3N3dmlSTlUzeFdLTWx0T2c3ZVhMYXdCQTc0cGc?oc=5
-
-- 【園芸相談室】アエオニウムの葉がなくなった 松岡修一さんが原因と対処のポイントを解説 (みんなの趣味の園芸) - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxQbThVclM5OE9jeXZ4cnN0ZThibFNpWHoxb0x5dTQ2MWR3VEVWTnFCQ19xYUxDU013amZfak00TEU5eHp4dDlqZ3Bvck5RdUQ5Q0xoRnctcUlxaG1sZDhmd3lweHAwNVd2enhxTWlOdWhRMUQ1aHNCWDhrc19pLXMzSmNzbVV4V01NQVVvX3Z3?oc=5
 
