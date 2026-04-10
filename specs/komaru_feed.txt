@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-10 14:22) ===
+=== こまる相談 ニュースフィード (2026-04-10 15:15) ===
 
 - 子どもの権利相談室「なごもっか」への相談について（令和8年1月実施） - city.nagoya.jp
   https://news.google.com/rss/articles/CBMiekFVX3lxTE5OWHhXcURoSndGZ0lDOU9VNXBGT2xYSWRXMXAzYUFlNEp3bzFVbnJKVWd6c01Ca0UzaVRQOXhLeGMtOUJfWDhVYmF3bmdxdEdJOUtsYWpjUzN5Z2R6Sms3WHlHY0hhdUs4R1dyZ09DSC1CZ0M5RnJ1V25R?oc=5
@@ -12,6 +12,9 @@
 - 農水省に中東情勢に伴う対応チーム 相談窓口への件数はすでに200件超 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rYTZTUWJMZllVXzlXbGZlVDFGeFZlV2pnQ18xLXVfbHI4azJqWFd1WlNSYThtSnhtOEM2VDZKMFZnR0c2V2ZDcEVCV1g3cGVKRnQ2NnVmQQ?oc=5
 
+- 近畿日本ツーリスト、教育旅行のオンライン相談窓口新設 全国の学校支援可能に 社員の柔軟な働き方にも対応 - 観光経済新聞
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xblkzUldLUHJJX2NJMzhtN2FvaWUzbWgzcVNoeHYzRDRQMUowQVlsVlRPWWxwcF9XSE56TFdwVFRrUEh0cE9SY0NIeXRSUzBiWVphWA?oc=5
+
 - アルバイトの相談相手、2割が「職場の先輩よりAI」 マイナビ調べ - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE55TTJEclJOZFNvdXRmSXJoWmIxYXNRNzlpQkxpVlJaaXFGWTV0aGJTNWx5LXA3bWp0QjJIcktKTmVNUlFHVDBkbmdyX1ZrZkhVVk1fZFV2eXAwSmdiTTVqaG8zM2VNeXFvdFBlcA?oc=5
 
@@ -21,11 +24,11 @@
 - 健康おしゃれ相談IN上市町健康文化振興財団｜高須佳美 - mbp-japan.com
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QaUNzOW5SM0dzX21IMkpGNGV6WnhTQmh2R2hRMjFyangxV1BmaVdjWmdVTF9GMG04QlFwLXZ1TExMc1BKVXptLTlUSkRaQ3llMDg0aktKM1Etd00tOTRmYmhySQ?oc=5
 
-- 近畿日本ツーリスト、教育旅行のオンライン相談窓口新設 全国の学校支援可能に 社員の柔軟な働き方にも対応 - 観光経済新聞
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xblkzUldLUHJJX2NJMzhtN2FvaWUzbWgzcVNoeHYzRDRQMUowQVlsVlRPWWxwcF9XSE56TFdwVFRrUEh0cE9SY0NIeXRSUzBiWVphWA?oc=5
-
 - アルバイト就業者の仕事におけるAI利用の調査レポート - マイナビキャリアリサーチLab
   https://news.google.com/rss/articles/CBMiakFVX3lxTFB0R1hFYzdETUY3cVNpbFdpZTlaS3NvTXRKT1o5ZzlWYWU5WktBaGlXdXJUUFAzb2xJU01Fcmxvb0dGREh3N0xxTDh6eFdXYUVGeDVIVjR3UWxpUnlMOWZMRmlMSUFEazBkaHc?oc=5
+
+- 【#仕事の悩み】安定か挑戦か？ 大人になってからの転職、どうしたらいい？【コットンきょんの愛とユーモアでお悩み解決！】 - SPUR（シュプール）
+  https://news.google.com/rss/articles/CBMifEFVX3lxTFAtZjRxZnNJdHFBNUlrWXM0VWlmWkhSc04wT3dyUzlQQkZnVDNHcy1rOXFSQlBRMDgyYTVEQ1A1a2N4Tnl2amx5bUlYRENVX3B3LXhva0V1bTB6bjR2SXIwaEJ6NTNxakxlMGllbWZNSHNBSWVmTzlDRnAwRkU?oc=5
 
 - 三菱マヒンドラ撤退でＪＡ奔走 農機点検や修理、金融相談も - 日本農業新聞
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHT09GN3dQR3VWc2RqVVFyUnJOSWtDZ1NHVWYzZjRhQUVDVzRKTGNJblh6blE4UG1FaGU4TG9EVEkzRGxQZ05hRllpc2o1QkR1TkRseTU5OA?oc=5
@@ -33,20 +36,17 @@
 - 介護の悩み打ち明けて 30日当別で「ケアラーズカフェ」 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbHZ2ekowaUUwSkp3bjJuZ01YVnp1ZzI1MU5keHlJbHg4TmhMb3VTM2VuS1NQc3FQU0dxcTEtNWI3Q1FxeC1HUzdJczBlY25Fejl3YzZVcExoQQ?oc=5
 
-- 備前市スマホ無料貸し出し終了 継続使用希望の市民へ相談会 - 山陽新聞デジタル｜さんデジ
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MSEk3MDR0d3hTc3F4dGFINmxLUTJrRExuc0szRWlTWW9rcWgtSW51bllfcEFUTTRmM0FpcHpoOE16V052Q3lZYnJDNFJnaVNnRHc?oc=5
-
-- 【新製品】猛暑の「ドロドロ化粧崩れ」・「ベタつき悩み」に終止符‐W冷感×崩れ防止×UVカットを1つの凝縮したフェイスパウダー誕生 ウィルミナ｜薬事日報ウェブサイト - 神戸どうぶつ王国
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBieGxkdFQwc1ZzRGZ2QWI0OEJnanAzUk5ZRjhwMnZYMGhBUTdkblhJR1l5bHhNcnczbm9WeGhYWVVCQlR0N19VNFB3Sm1ReEc3T3pV?oc=5
-
 - 初回2時間SP！上戸彩驚き服の畳み方！ - TVer
   https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDc1kzRC05RFZBV1BaUnQ0WVY1QTBIQW1JaDhQVGYxbHZIMWVaODdaZkZ1dk16MGlhYnFvTVhnRXpzSzU0MUNwakMtSQ?oc=5
 
-- 【#仕事の悩み】安定か挑戦か？ 大人になってからの転職、どうしたらいい？【コットンきょんの愛とユーモアでお悩み解決！】 - SPUR（シュプール）
-  https://news.google.com/rss/articles/CBMifEFVX3lxTFAtZjRxZnNJdHFBNUlrWXM0VWlmWkhSc04wT3dyUzlQQkZnVDNHcy1rOXFSQlBRMDgyYTVEQ1A1a2N4Tnl2amx5bUlYRENVX3B3LXhva0V1bTB6bjR2SXIwaEJ6NTNxakxlMGllbWZNSHNBSWVmTzlDRnAwRkU?oc=5
+- 備前市スマホ無料貸し出し終了 継続使用希望の市民へ相談会 - 山陽新聞デジタル｜さんデジ
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MSEk3MDR0d3hTc3F4dGFINmxLUTJrRExuc0szRWlTWW9rcWgtSW51bllfcEFUTTRmM0FpcHpoOE16V052Q3lZYnJDNFJnaVNnRHc?oc=5
 
-- 石油製品関連の相談543件 医療機関などから 8日時点 中東情勢受け - 医療介護CBnews
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfVXlBM0QwUnJId3ctbFBOYk5GS1hGcDJuN2F2RXRNcHJFQVVDUmtoYnQtMTc3Q1N5NVJhRXowTWx1YnlFME9jR0ljaTRoWUJBQ2dVY0tranloVm8?oc=5
+- 栃木いのちの電話の相談件数、高止まり 自殺傾向も2024年過去最高 相談員の真摯な活動に胸打たれ - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EQTdvVlNYMGQwV1JmN1Zsa3dVSmdQQVBfanJNbGFnemJsUGI2YS1FU2paYUJlakpzMzdQSnpNR3RyZy1zQi1sRmp0SVBDN1hTYXJlU0xiQ01QLXM?oc=5
+
+- 【新製品】猛暑の「ドロドロ化粧崩れ」・「ベタつき悩み」に終止符‐W冷感×崩れ防止×UVカットを1つの凝縮したフェイスパウダー誕生 ウィルミナ｜薬事日報ウェブサイト - 神戸どうぶつ王国
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBieGxkdFQwc1ZzRGZ2QWI0OEJnanAzUk5ZRjhwMnZYMGhBUTdkblhJR1l5bHhNcnczbm9WeGhYWVVCQlR0N19VNFB3Sm1ReEc3T3pV?oc=5
 
 - 医師向け専門医相談サービス「Medii Eコンサル」、回答協力するエキスパート専門医が2,000名を突破 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZlNnUVFNV25WOUpXall4MlZXSWdndHRlTmE4bjlVS3BEN1ZFOUQ1YUFCZmh6azdCNVhuWFIzejNiSk1LcEVHOEtyQ0VqR1lmYjJSVGE5VkR5NF80RWFNdThVNmpjSGtSZFE?oc=5
@@ -57,6 +57,6 @@
 - レインボー池田参戦決定! 恋愛や性の悩みを語りつくすライブ『お昼なのにこんなこと話しちゃいます by #コイワラ』チケット好評発売中 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZMldOWE5jRXVScE1Ud1BYYVc4MkJMeWpZM3A1WVo0U1FtY2RNWVpuU1d1V0hrazNkX0ZwU0RiQnlDWms2R2RYUE42NVViMkVOX2Y2OGhZQnhUTnhGV0JMa1JxV3Foc0l2UHc?oc=5
 
-- 【大変身】前髪のくせが気になる女性のお悩みをヘアカットで改善！「スッキリしましたね」と笑顔の仕上がり（LIMO） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5mcmNsVXJwcFRmcGdTVGtJNEoxWi1ZNHlJT2FHN3FsaVlKU2R0LVBQLUtJeGJLeGxobEl1SkZtSTBEc0g4eng0X2ppNEtqMjJOcmQtX2h3bEJLNnJ4eDlrWURmSlFFRS1QOWJmLURkR2Y1LUJrX19NMVdWbmJpdG8?oc=5
+- 「カーデはかさばる、ストールは落ちる」悩みを解決。冷えとストレスから守る“着るストール”をパジャマブランドが発売｜パジャマ屋IZUMM - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVHFQdjNRU19LVk1rMWVFVmJPenBrTUN1RzNKUzdRelN0WnVUU2JRWEQwNmlxLTdDRThvLXRkREtmWkpfZV9fMkZHVlotVW5iWkRZWFhzaWJySWtpTk1rQjlTR3FaZDVKNWc?oc=5
 
