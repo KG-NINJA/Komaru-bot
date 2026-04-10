@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-10 07:30) ===
+=== こまる相談 ニュースフィード (2026-04-10 08:28) ===
 
 - 農水省に中東情勢に伴う対応チーム 相談窓口への件数はすでに200件超 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rYTZTUWJMZllVXzlXbGZlVDFGeFZlV2pnQ18xLXVfbHI4azJqWFd1WlNSYThtSnhtOEM2VDZKMFZnR0c2V2ZDcEVCV1g3cGVKRnQ2NnVmQQ?oc=5
@@ -9,6 +9,12 @@
 - 栃木いのちの電話の相談件数、高止まり 自殺傾向も2024年過去最高 相談員の真摯な活動に胸打たれ - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EQTdvVlNYMGQwV1JmN1Zsa3dVSmdQQVBfanJNbGFnemJsUGI2YS1FU2paYUJlakpzMzdQSnpNR3RyZy1zQi1sRmp0SVBDN1hTYXJlU0xiQ01QLXM?oc=5
 
+- 【神奈川県】５/３(日·祝)「県職員採用説明会＆相談会」を開催 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE16T1RPMjdVMks2T1BiLW9YT2NmZWxmb1FNMl9CMVlZcFdLeFdmTmtEZkNLb1NDZGpKZThhd2tEZWJCUWlPQ0tySWFJdkFGMUJuRnBiRGRMZTR5TnRVaVJVOXRsa29TSmpRd1E?oc=5
+
+- アルバイトの相談相手、2割が「職場の先輩よりAI」 マイナビ調べ - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE55TTJEclJOZFNvdXRmSXJoWmIxYXNRNzlpQkxpVlJaaXFGWTV0aGJTNWx5LXA3bWp0QjJIcktKTmVNUlFHVDBkbmdyX1ZrZkhVVk1fZFV2eXAwSmdiTTVqaG8zM2VNeXFvdFBlcA?oc=5
+
 - 政府、原油高騰で中小企業支援 相談対応や貸付緩和など 関係省庁と連名支援も - 観光経済新聞
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwZjFqNWN1a2NOanlqNEZGaUttZnhYOGZGMEJMbWYwTThjYWNUMGoyXzlGSWFHNlQxVGFHLXpJeHZBd043N1BBMXNKWGZZY3NVM2RMQw?oc=5
 
@@ -18,11 +24,11 @@
 - 【新製品】猛暑の「ドロドロ化粧崩れ」・「ベタつき悩み」に終止符‐W冷感×崩れ防止×UVカットを1つの凝縮したフェイスパウダー誕生 ウィルミナ｜薬事日報ウェブサイト - 神戸どうぶつ王国
   https://news.google.com/rss/articles/CBMiU0FVX3lxTFBieGxkdFQwc1ZzRGZ2QWI0OEJnanAzUk5ZRjhwMnZYMGhBUTdkblhJR1l5bHhNcnczbm9WeGhYWVVCQlR0N19VNFB3Sm1ReEc3T3pV?oc=5
 
-- 「困りごとはためらわずに相談を」法テラス山梨が街頭キャンペーン【社会／山梨】 - sannichi.co.jp
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fTWJFbGJ3b0dnQU1XU3ZzNEltMkwwa3BHSTlBQXp1Wjc4am8tcHRfc1JOWTNRVEwyYkpiZEd5Qnl4YVJ4U1pXTGxpcmlrelVfVF9vX1RjUG1FUE9GNW1RMU5UbnQ?oc=5
-
 - さて何贈ろう？ と困ったあなたに達人がオススメする“いつもと違う”大人の「手土産」6選（Web LEON） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE92MERXZFBYX0loczRFM3c2cllxTEwzX1A0OFl4WXpESEliOV85UTB5V0RGdE0ybGJkX3dEMlE1UWNIempDZmpBYVNQWi1PaGNwZktQdmxzd1I0MXh3a3dlQnpFbDRlU01MWVU2OW52UFdpaWo1X3Z2eldUSlZaYkk?oc=5
+
+- 「困りごとはためらわずに相談を」法テラス山梨が街頭キャンペーン【社会／山梨】 - sannichi.co.jp
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fTWJFbGJ3b0dnQU1XU3ZzNEltMkwwa3BHSTlBQXp1Wjc4am8tcHRfc1JOWTNRVEwyYkpiZEd5Qnl4YVJ4U1pXTGxpcmlrelVfVF9vX1RjUG1FUE9GNW1RMU5UbnQ?oc=5
 
 - 子育ての悩みに総合的に対応 本別町が「こども家庭センター」設置 - 十勝毎日新聞
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RX3NUYnkxdjV5TUd4TGZEVWVtMUk5NlFWYXRLb1dMcVllX1lCOWZKWThfc0NpS0J3WXcxZzFvaVhQeUY3ZnJXdDNGTVM0Q3FLMzFQVEE2NUhORFVhZW11aU82Rkk?oc=5
@@ -39,24 +45,18 @@
 - 次期知事選は「よく相談して検討」 奈良県の山下知事 - 奈良新聞
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3Z2FtYkFkR01ZZnV6alZtTV8tRnJNUnh5b2ZTbTFWS1NKUXlPUnk0S0ZvaU94N3hkR0xiZWRIY1Y2QjFzYWdqckNjR2JtZ1NkMEpWWktyY2VUZ3FLVHJn?oc=5
 
-- パーソル系、AIカウンセラーが心理相談 メンタル不調での離職防止 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1Kcll0N21pTTZYUm8tYVJSNjBsZjIxRXJRTTk1cUhXNlNVRkpZOFBId1JrcEJMYU1JQmhvR2J5VlQxMlNpVVo3eVdzNTdZdGgybEFCb1p4aWQ3eGV3QjVCTF9heXRqU3pTb00zWg?oc=5
-
-- 「法テラス兵庫」無料の法律相談会 25日、神戸で|社会 - 神戸新聞
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE9PQTY2VjJEZHZPaGM5RVFDUnBvS3ZhNmFDQ2FBS1VESTRpdFdOd1I2d19Mb2RaM1ZRbVV2UWR0QWoyd3UtR0gwcWR1bHRhaVRSWEY1X2JZNGVMR3FmdThraXg2VE8zRm1WVGxGM1hn?oc=5
-
 - 令和8年度『こころの健康相談』のご案内 - town.iijima.lg.jp
   https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWVJYTJfR2x4cG43akdkOWtSMHR5MG5GeG5SSm4wMHVoNVhtZWdVbXp6aFEtQ1EzR3pwcUFyMjhzcEx3bG1aeHNjUVRTaEhQcVh5YW9uTDhiNUVrek5yaW05RXVtQklGVThqemp1U0dMRi1PZkVUUGdhQWFRWGFydVZ6VjRRTGM5ZG9TcFFoaW5lTzhNRGFB?oc=5
 
-- 起業・経営相談窓口 - city.ichikawa.lg.jp
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0MGZuZ2FReXZvVlhpWjVpRHNVbXI0NmJjMFpkX3F1dHdoUGNmSXZjbWdNdmNaaEdPYXJuSGZwNTVkZnd4TzJlTHdjU3lmcHRFeUZiTDBPeEdyUQ?oc=5
+- 暗号資産の確定申告、悩み1位は「税率の高さ」：クリプタクト調査(NADA NEWS) - Yahoo!ファイナンス
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQbG91RlRqNHJsR3h3a1J0ZUM4RTJfamJqZURLTWVHMEZBaVB3VjNTN201cEM0aG4zVnNtY0FjalRSampKT2h3a3ZaMGhUN0FGZjg4djJjTHp6dU5JcXlORU5jRW5JVmpvTVFkc0xodzc0WG5zUFJ5MU15MDdrZGI3dUwtc1hlU2M?oc=5
 
-- 注意すべき深刻トラブル＆相談先【2026年度入学記念号】 - waseda.jp
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSZDZkUEtjeGdRN3hacTFqMTNNVjh2S2dzalgzbk9mU0Q4TWhwVm1Bb1gzUDN1dGplZ0hGOEdzZEdaT1lpalQ0SHVweE93WFVrNGd2NnVTOVF2M0dNUGlQcmNLUVlVN2x5?oc=5
+- パーソル系、AIカウンセラーが心理相談 メンタル不調での離職防止 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1Kcll0N21pTTZYUm8tYVJSNjBsZjIxRXJRTTk1cUhXNlNVRkpZOFBId1JrcEJMYU1JQmhvR2J5VlQxMlNpVVo3eVdzNTdZdGgybEFCb1p4aWQ3eGV3QjVCTF9heXRqU3pTb00zWg?oc=5
+
+- 4月は要注意 大学で新入生に性犯罪への対策を呼びかけ 24時間の相談窓口も 福岡（FBS福岡放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBXTjE0U21wcmNDenlFMmRodDZ1QWx2Y2F0QWNYcjJNcTBiazdKRjRDVTlQU0R2NUMxeDJSd0RSeVh4dnpKLXd0ZjNLTzZIeFJKVWNIWkIxb0lXNTUzSDZBVnM2a3N3dmlSTlUzeFdLTWx0T2c3ZVhMYXdCQTc0cGc?oc=5
 
 - 【園芸相談室】アエオニウムの葉がなくなった 松岡修一さんが原因と対処のポイントを解説 (みんなの趣味の園芸) - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMijgFBVV95cUxQbThVclM5OE9jeXZ4cnN0ZThibFNpWHoxb0x5dTQ2MWR3VEVWTnFCQ19xYUxDU013amZfak00TEU5eHp4dDlqZ3Bvck5RdUQ5Q0xoRnctcUlxaG1sZDhmd3lweHAwNVd2enhxTWlOdWhRMUQ1aHNCWDhrc19pLXMzSmNzbVV4V01NQVVvX3Z3?oc=5
-
-- 暗号資産の確定申告、悩み1位は「税率の高さ」：クリプタクト調査(NADA NEWS) - Yahoo!ファイナンス
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQbG91RlRqNHJsR3h3a1J0ZUM4RTJfamJqZURLTWVHMEZBaVB3VjNTN201cEM0aG4zVnNtY0FjalRSampKT2h3a3ZaMGhUN0FGZjg4djJjTHp6dU5JcXlORU5jRW5JVmpvTVFkc0xodzc0WG5zUFJ5MU15MDdrZGI3dUwtc1hlU2M?oc=5
 
