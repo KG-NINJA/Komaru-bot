@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-11 14:10) ===
+=== こまる相談 ニュースフィード (2026-04-11 15:08) ===
 
 - こども発達相談センター 巡回相談 - city.funabashi.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTE1yd2tDTV83RUtkd2wtUlNBb2VtUmpkVmFsaS1kcXFjZWo4ODd6TU4ta2ZzQ0N1UW05WU9qUW42ZW9mVHVfNENFZVExemk4dlZ0cVhYZzA3emgtMmcxMUU0cmJfNDRxZk9xU3dpWUpSUEFFbTA?oc=5
@@ -12,11 +12,11 @@
 - 【人生相談】「90歳の母に優しくなれない」と悩む60代娘の罪悪感。柚木麻子さんが提案する、“親孝行ハードル”の下げ方 - 婦人画報デジタル
   https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0ZjcWh0ZGF6VmtubVhBU09nclZIOUZRYnNOU3dGa1JtY3RDZFJ4eWhSWHdTNjlEc0RtY252SWJsdW5SRjhDeHJ4MHk2cjRUNG1FeXpqeFVEM2w0QTNGNGFBS2NWc3VQbkxSWFRrX2dsRll4QzEzV3dLTF9QX0NCaGh1YlNnSkJfdXVQc1ExZ2s0QkJWc1pBVk56aDM5bmJzYUE?oc=5
 
-- 悩み相談できるＡＩ公開 宮崎市の久保田さん「娘が笑っていられる社会に」 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE04TWJNVURxT3ZkaGZaRkJMWmkzNzdPNUlXZ2lpS05ncHk4QVpuTEI0RTRHVk41U1d0aVV5RXNYYWtZQmRSSXpOaWJKVQ?oc=5
-
 - 行政相談は“AIの時代”へ――市民サービスを次の段階へ進める - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tN3RfNVdndG1MbGRWV01Bc1MwdFVFZEo0T1JrelVFdklUVThKVTR1YnBmTFNOQi1QOHY0RmRWR1QxVUN0bWFFTzdxWVVVVkI0Z01kQmtQRHlmRHJSRXBJ?oc=5
+
+- 悩み相談できるＡＩ公開 宮崎市の久保田さん「娘が笑っていられる社会に」 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE04TWJNVURxT3ZkaGZaRkJMWmkzNzdPNUlXZ2lpS05ncHk4QVpuTEI0RTRHVk41U1d0aVV5RXNYYWtZQmRSSXpOaWJKVQ?oc=5
 
 - 栄養や健康について相談しながら歩く 管理栄養士によるウォーキング大会開催 山口（ｔｙｓテレビ山口） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9vaDg0ZzFPajNyWFQ5LVd1OXRnUVhHNUZzOXl3OHBiZVU2bnJUcV9hTWUzMW5sTXYwdzZpNXlsUDlIU3FTUzhuRU9yc3VERS1UeWlrMVZGeXZpUTdBQlpGMkZvcEN4RDFhQm52UmNhMHJEMGlNTWwzQzdtN3dJVGc?oc=5
@@ -30,11 +30,14 @@
 - 井原市、空き家相談センターを開設 売買や管理の相談に応じる - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTDhVN3RaejFTbU9zTWstc2dDWE9FY2FZUGNzZ3dFWHZ3S1owMmpiQUJaNWs4eGlUdzI3SnV5dXdzb2pNTThtRTVrZjdhNkdOVFVLelFzTWVuUQ?oc=5
 
-- 「バイク女子の悩みを解決！」新ブランド「AMBOOT」のバッグ＆ヘルメットが凄い!!｜モーターサイクルショー2026写真14枚目 - モーターファン
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwb1ppaE14WE94ZkhwNU9BWjQ3T1JyZGd0QU5qREZQNGo2SWNVN2pTM0dqNkdjN184TXZvQTRkZjU4MjcxQkxobHNVMEZnWXUtYmFPZF9nbw?oc=5
+- 「バイク女子の悩みを解決！」新ブランド「AMBOOT」のバッグ＆ヘルメットが凄い!!｜モーターサイクルショー2026 - モーターファン
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uSjdBODB0SHJYeXhFOGFhNGdqN2JkLWI1NVppZ1RxT1Fwai1pelJpZjdWc2xVdDlpcDlUT2s4ZUpCRWhWWElyVW5YUFB5OVpxTjBiZ3IxTQ?oc=5
 
 - 『テレフォン人生相談』加藤諦三、相談者に「悪魔と言われたことも」50年の軌跡と“裏側”を語る（週刊女性PRIME） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHAtUlE5WElLaWdFaFFmVnRxZjd5TFItOWdjT1hxN1paenA5bDVzVXBUZ2VjeG9lLUx4N2tPS3RvUy1keUZUSjZNUERTb1Y0RGdOWERzNEpjUTBuTkpFOExBTlR5Qm9IRExHbVZMWEhRdV9vN1c3QTNSd0Fsd25memVvNmpJZU1z?oc=5
+
+- 起業・経営相談窓口 - city.ichikawa.lg.jp
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0MGZuZ2FReXZvVlhpWjVpRHNVbXI0NmJjMFpkX3F1dHdoUGNmSXZjbWdNdmNaaEdPYXJuSGZwNTVkZnd4TzJlTHdjU3lmcHRFeUZiTDBPeEdyUQ?oc=5
 
 - 緊急資金繰り相談会開催 公庫館山支店 物価高・中東情勢受け（千葉県）（房日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9TYS1MdDBnbzJST0I0RE9zWXRETXd3MzhrcUtLejlMbmRINk4wQjdHMzZiMnVDTGZoNkxJNFhDN0czRXNRT2JBNmI2a0xrdDQ0U3EzcWVVUU91ZkJXREVQd1dZUEtsNHJpT2ZtQzNJRC00b3FIOGJndUdTYmJPemc?oc=5
@@ -42,8 +45,8 @@
 - 性犯罪被害の電話相談窓口 若い世代に紹介 鹿児島 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mcFpjcFhlY2JxdnJNclJPbl8xalV6dldyZTBuMXJGSkFZa1R1MXRCTUxtZGxsZ3hFRDhRNHVndTFHTjI4dlZWRWx0TnhsQklTbUtGSjd3bGo?oc=5
 
-- 起業・経営相談窓口 - city.ichikawa.lg.jp
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0MGZuZ2FReXZvVlhpWjVpRHNVbXI0NmJjMFpkX3F1dHdoUGNmSXZjbWdNdmNaaEdPYXJuSGZwNTVkZnd4TzJlTHdjU3lmcHRFeUZiTDBPeEdyUQ?oc=5
+- 令和8年度『こころの健康相談』のご案内 - town.iijima.lg.jp
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWVJYTJfR2x4cG43akdkOWtSMHR5MG5GeG5SSm4wMHVoNVhtZWdVbXp6aFEtQ1EzR3pwcUFyMjhzcEx3bG1aeHNjUVRTaEhQcVh5YW9uTDhiNUVrek5yaW05RXVtQklGVThqemp1U0dMRi1PZkVUUGdhQWFRWGFydVZ6VjRRTGM5ZG9TcFFoaW5lTzhNRGFB?oc=5
 
 - 【バイクお悩み解決】 「ハイカム」って何がスゴイの!? の件 - モーターファン
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WQmtrOU55b3hKU0RYdU1kQlVVTzFfa05sYlVMckM3Z0twYWp6MmNhU3ZJZUM4MTE3YmREWXp5LVkzeDl4RW9kZmdwWXZPdw?oc=5
@@ -54,9 +57,6 @@
 - 中東情勢緊迫化に伴い全店舗に特別相談窓口 甲府信金、事業者向け - sannichi.co.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OaDZKWERPTmNpbGl1TG53Xy1UZDJDVjkzdWtxRGdObmdZQ084V1Uyc0szeWptdldMLUlOanlZZF9nSW9XRnRxcGlxbGt4clB1YmZOYkZOSEtRc2gzSjVPNHJQNEw?oc=5
 
-- 令和8年度『こころの健康相談』のご案内 - town.iijima.lg.jp
-  https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWVJYTJfR2x4cG43akdkOWtSMHR5MG5GeG5SSm4wMHVoNVhtZWdVbXp6aFEtQ1EzR3pwcUFyMjhzcEx3bG1aeHNjUVRTaEhQcVh5YW9uTDhiNUVrek5yaW05RXVtQklGVThqemp1U0dMRi1PZkVUUGdhQWFRWGFydVZ6VjRRTGM5ZG9TcFFoaW5lTzhNRGFB?oc=5
-
-- ”子ども第三の居場所”飯島町で開所式 相談対応や学習支援へ - 信濃毎日新聞デジタル
-  https://news.google.com/rss/articles/CBMicEFVX3lxTFA2elZHbWEzX0hEdk05ZEhoV05BbExYdS11VkNtVm14R0szRDk3NjBwTWZ3VVJaM05wcE9idUd6RnJUc1lBQWRETnBhWFdqZ2JDU2VCazY0R0ttZTBwdTVkelBvUkU5VTZfZFhiMUNkMjc?oc=5
+- 【4月17日】労働相談 - city.tokorozawa.saitama.jp
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
