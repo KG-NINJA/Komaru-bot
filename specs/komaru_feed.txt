@@ -1,13 +1,13 @@
-=== こまる相談 ニュースフィード (2026-04-11 05:29) ===
+=== こまる相談 ニュースフィード (2026-04-11 06:19) ===
 
 - こども発達相談センター 巡回相談 - city.funabashi.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTE1yd2tDTV83RUtkd2wtUlNBb2VtUmpkVmFsaS1kcXFjZWo4ODd6TU4ta2ZzQ0N1UW05WU9qUW42ZW9mVHVfNENFZVExemk4dlZ0cVhYZzA3emgtMmcxMUU0cmJfNDRxZk9xU3dpWUpSUEFFbTA?oc=5
 
+- がん治療中の相談、AI患者仲間がいつでもLINEで回答…「家族や友人には『しんどい』と言いにくい」（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9ybzFBLXJGR05SSEwyMlp4SmtlTnBSVHh6b3ZhWUJZd19lZ2xCN1ItaW0wV3NvQVZIRWpSVm1scVVSVzBBQWh4enZwY3FUVVhvb01LUFNjMkZJclFxNkI5UFRyUTczc3VyZWUtbXFNY08tYk05OVB5TGxBQmJtNDQ?oc=5
+
 - 井原市、空き家相談センターを開設 売買や管理の相談に応じる - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTDhVN3RaejFTbU9zTWstc2dDWE9FY2FZUGNzZ3dFWHZ3S1owMmpiQUJaNWs4eGlUdzI3SnV5dXdzb2pNTThtRTVrZjdhNkdOVFVLelFzTWVuUQ?oc=5
-
-- ブッダに悩み相談もAI活用、ブータン導入 京都大教授ら開発、搭載の人型ロボットも (共同通信) - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3dWRDZoN20yNkJROHZhMjFKRFhaTThFNVJKRFUtaU9NMGRxc3hrdzQwamFJWktGWEstMEhvVzVxckJLS1R6dkRHYThNeVpzWXRoam9IUnVzNEVuWVR1U1ZCZEx4M2hCMjhzaWg5SUZzVUJCd2k4QnlkRkYzVUFYakJmYUE0QmxyQURHMGdB?oc=5
 
 - 子どもの権利相談室「なごもっか」への相談について（令和8年1月実施） - city.nagoya.jp
   https://news.google.com/rss/articles/CBMiekFVX3lxTE5OWHhXcURoSndGZ0lDOU9VNXBGT2xYSWRXMXAzYUFlNEp3bzFVbnJKVWd6c01Ca0UzaVRQOXhLeGMtOUJfWDhVYmF3bmdxdEdJOUtsYWpjUzN5Z2R6Sms3WHlHY0hhdUs4R1dyZ09DSC1CZ0M5RnJ1V25R?oc=5
@@ -42,21 +42,21 @@
 - 注意すべき深刻トラブル＆相談先【2026年度入学記念号】 - waseda.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSZDZkUEtjeGdRN3hacTFqMTNNVjh2S2dzalgzbk9mU0Q4TWhwVm1Bb1gzUDN1dGplZ0hGOEdzZEdaT1lpalQ0SHVweE93WFVrNGd2NnVTOVF2M0dNUGlQcmNLUVlVN2x5?oc=5
 
-- ｢薄くなってきた｣…相談しにくい"女性の薄毛"の悩み､40･50代の｢抜け毛が増えた｣｢ボリュームが落ちた｣は早期対応が大切 - 東洋経済オンライン
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CNHBZUW1ma2NkSmlFQlA1NER2T1FlWWZLbjhwbDNyYk9SSFA1TXFvWFhuUGx4Mks0N3V3eWw2Sy1BZGlVNGdabXd3ZW94T1A2dmc?oc=5
-
 - 【4月17日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
+- 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
+
 - 県内の最新ニュース - テレビ愛媛
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CSUM5M1hZTTNYMGswSm41TjNhSTlvbTFhRThYSU9NNXhXVUdGenFSc2Z4SVVqYzJpWDZPZGl0bVJpV1BuQ0FLS1oxWU5YYllGVWc1UXFPeTFuUXFsT3lpcnl3?oc=5
-
-- 介護の悩み打ち明けて 30日当別で「ケアラーズカフェ」 - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbHZ2ekowaUUwSkp3bjJuZ01YVnp1ZzI1MU5keHlJbHg4TmhMb3VTM2VuS1NQc3FQU0dxcTEtNWI3Q1FxeC1HUzdJczBlY25Fejl3YzZVcExoQQ?oc=5
 
 - 緊急資金繰り相談会開催 公庫館山支店 物価高・中東情勢受け（千葉県）（房日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9TYS1MdDBnbzJST0I0RE9zWXRETXd3MzhrcUtLejlMbmRINk4wQjdHMzZiMnVDTGZoNkxJNFhDN0czRXNRT2JBNmI2a0xrdDQ0U3EzcWVVUU91ZkJXREVQd1dZUEtsNHJpT2ZtQzNJRC00b3FIOGJndUdTYmJPemc?oc=5
 
 - 三菱マヒンドラ撤退でＪＡ奔走 農機点検や修理、金融相談も - 日本農業新聞
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHT09GN3dQR3VWc2RqVVFyUnJOSWtDZ1NHVWYzZjRhQUVDVzRKTGNJblh6blE4UG1FaGU4TG9EVEkzRGxQZ05hRllpc2o1QkR1TkRseTU5OA?oc=5
+
+- ブッダに悩み相談もAI活用、ブータン導入 京都大教授ら開発、搭載の人型ロボットも (共同通信) - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3dWRDZoN20yNkJROHZhMjFKRFhaTThFNVJKRFUtaU9NMGRxc3hrdzQwamFJWktGWEstMEhvVzVxckJLS1R6dkRHYThNeVpzWXRoam9IUnVzNEVuWVR1U1ZCZEx4M2hCMjhzaWg5SUZzVUJCd2k4QnlkRkYzVUFYakJmYUE0QmxyQURHMGdB?oc=5
 
