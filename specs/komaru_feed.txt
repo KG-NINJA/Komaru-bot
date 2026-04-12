@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-12 04:55) ===
+=== こまる相談 ニュースフィード (2026-04-12 05:38) ===
 
 - こども発達相談センター 巡回相談 - city.funabashi.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTE1yd2tDTV83RUtkd2wtUlNBb2VtUmpkVmFsaS1kcXFjZWo4ODd6TU4ta2ZzQ0N1UW05WU9qUW42ZW9mVHVfNENFZVExemk4dlZ0cVhYZzA3emgtMmcxMUU0cmJfNDRxZk9xU3dpWUpSUEFFbTA?oc=5
@@ -27,11 +27,11 @@
 - 起業・経営相談窓口 - city.ichikawa.lg.jp
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0MGZuZ2FReXZvVlhpWjVpRHNVbXI0NmJjMFpkX3F1dHdoUGNmSXZjbWdNdmNaaEdPYXJuSGZwNTVkZnd4TzJlTHdjU3lmcHRFeUZiTDBPeEdyUQ?oc=5
 
-- 悩み相談できるＡＩ公開 宮崎市の久保田さん「娘が笑っていられる社会に」 - 宮崎日日新聞
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE1wa2h0amtfZElPXzVpZk1ic3NWVUV4RkgyRnJvUXlVY0lCMjlvcVhlS2xoZW5qQ2hLQmVMZWwxZ25fMExLamhaQzlpZXJwaXBpaUJiU3l1WEQ5UEpVd2FMSHhDTzdrQUgyd3h3Skx3?oc=5
-
 - 「植物」「鳥」「心と体」 11時台 - 子ども科学電話相談 - NHK
   https://news.google.com/rss/articles/CBMic0FVX3lxTE9hSmQtU2xBN18wVDRyZkNUZnJyTzNCVGt1SE9Sb01zWnQ5M3pmaEVyNVNEbDlQR1Uwc3psa3FEUUw2bUZwSUd4ejNMOUZTNlNxMFp3ZDhZaDlXLUdUb1NfOHdIYk04Vzhsd0M5X2NDVDRKN00?oc=5
+
+- 悩み相談できるＡＩ公開 宮崎市の久保田さん「娘が笑っていられる社会に」 - 宮崎日日新聞
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE1wa2h0amtfZElPXzVpZk1ic3NWVUV4RkgyRnJvUXlVY0lCMjlvcVhlS2xoZW5qQ2hLQmVMZWwxZ25fMExLamhaQzlpZXJwaXBpaUJiU3l1WEQ5UEpVd2FMSHhDTzdrQUgyd3h3Skx3?oc=5
 
 - 【著者来店イベント】もう悩みに振り回されない“思考のクセ”改善ワークショップ - 蔦屋書店ポータル
   https://news.google.com/rss/articles/CBMibkFVX3lxTE5HTU9DM0JLLTJHZ1E1T2E2VUd4Xzhyck1PQnJLNjhHcjBLWGFOdzRLYnliWWJLMS1xS0piV1RoSkhMZWRRWkFDTHJrdjg4TmltTkdfd1E5OXR3bzY1aXo3VjMxQjhiY0F4c1pVTVFB?oc=5
@@ -45,17 +45,17 @@
 - 働き方改革関連特別相談窓口について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dFRSaDdRbnF5ZWNXdW4ycng4NkgtRloyNkFub0RwbG8wRWVXb05aNXBuQmoySFFoQTViWWFTV2FkeWJmeHRnb3NQVDRBNUNpZ2dIMm5RWWlOTDgzTHc?oc=5
 
-- 正解なく、悩み尽きず（小崎恭弘／大阪教育大教育学部教授）【未来への投資 習い事を考える①】 - 静岡新聞DIGITAL
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IMVZvRV9aMndWZFJTQ1NNZzRobm5YTUJuMnVteVBkeDYxdVBaWkk0U050cm1rZFRlVzVkdnBOSWR1cXlPSHIyLU5xRTZnZw?oc=5
-
 - 韮崎市移住定住相談窓口について（相談窓口のご案内） - city.nirasaki.lg.jp
   https://news.google.com/rss/articles/CBMinAFBVV95cUxQeUtqUzRwWlhRVzdWei0zRFVzWjRiZlFWbDNyaXhiUWxoSXpVeGZ1N1EzZmFIYTNqXzZ6SllHQ0x2VzZFVVNnSnIxVkZGaDVLcnF4clZrY2NLYW9CTzc5dUVqN3p2WHNlbGJYZU1vYkVGMmZOZkY5cGo1b0k3R3p5OF9jbGMxSUlNRjNaa1FRWTlScmZMNFdxaW9hdnU?oc=5
 
 - 行政相談をご活用ください - town.minamiaizu.lg.jp
   https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0kxWkRWWGVUVDhPczBCeEttM1h5YkQwVTB4RmI0cVQ3WUN5aE1saEItR25JMDhjQ0dMdGFSbmRmXzczWFlnU2J0WFlXVF8zeDJMajA1VFQ2NDYtaDJITjliQUtKX3ZtMDN1NTZfSFMtdXpjR2REa3UxejMxaTB3cjY0NnpxX0NqREJpY1hUTFQ5VjJmTFE?oc=5
 
-- ［よろず支援拠点 カルテ＠沖縄］CASE573 債務重く事業継続が厳しい 財務把握し早期相談を - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtQjUxc1FxczF3SGs1QUNDallKQU9od2ljOVlyeFNLeTFUMk9VUi1DUEVCVlVjSlVQNjd5MnJGVnZ1NENsVElwRVR3Mk5oMEJTazlQWEczd1lJc3Vnc3c?oc=5
+- 注意すべき深刻トラブル＆相談先【2026年度入学記念号】 - waseda.jp
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSZDZkUEtjeGdRN3hacTFqMTNNVjh2S2dzalgzbk9mU0Q4TWhwVm1Bb1gzUDN1dGplZ0hGOEdzZEdaT1lpalQ0SHVweE93WFVrNGd2NnVTOVF2M0dNUGlQcmNLUVlVN2x5?oc=5
+
+- インターネット上の誹謗中傷や差別等に関する相談窓口について - pref.hyogo.lg.jp
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aMDF5X0lkQ0dzOUNmcTZaaHhrRlZjcWp6d2F4Z0dqcFN5X1VZdWJlQUdfSEIyU3A3cnN2NER1QVdzc2t5OWFUdjhueWI3WUh1QzdQVTBqc3lFLXRPV3pwRkx4SQ?oc=5
 
 - 高知弁護士会が遺言や相続で無料法律相談 ４／１４・高知市 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUZWxvQ3ozVnRNc3ZocEFYdEVKSmdFbFRldlF3M09mNGxTcWJZV0wwMV9OaDFDdWhnNUJMWENVU1hNTzNzRnAwdlpZVQ?oc=5
