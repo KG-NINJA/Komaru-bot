@@ -1,10 +1,7 @@
-=== こまる相談 ニュースフィード (2026-04-20 03:01) ===
+=== こまる相談 ニュースフィード (2026-04-20 05:00) ===
 
 - SNSを活用した相談事業について - pref.tochigi.lg.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTFAyVzdZWjlrbThYMDljQjkxZ1hJZGw3MXVtbjVWamROVjU3ZmJpd3RnbHQ4d0tDMFFzVEIydmQ0S2F4Z2pkbVVnR2pQWlY2bzdjWVdqdTN5R3BmSjJTZnZtd0pUejktVVVoa3RsSlZGWXdOUQ?oc=5
-
-- ゴールデンウィーク中のお客様相談室の休業について ｜お知らせ - 有楽製菓株式会社
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2VUV1eFRzbnoxaWtsVl8za3ZYaUdqZUJLTmZ1RnN3dVNBNm5veW9VOHluREI0ZS1ldG81OC1LRGc3anE1TXhUVE5tUDhqaDdHdFE?oc=5
 
 - 令和8年度 子どもの心配ごと長岡市内の相談機関一覧 - city.nagaoka.niigata.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTE8tR1NLbmdrMHFTdG9BbzZGVlkzZm0zeFRFZDQzWnRFb2JYbFN5QVlCYlFvMEtTQ0pvOU1lSGo3eThwNGJfYVZSYkZPSUl4SFA1eFRCVzd1b2VCRm40c2hvVTNmN2hFbDhjTkhRMWpoWmNCQk9XbXM4T1FqRQ?oc=5
@@ -12,51 +9,54 @@
 - 6/11国立大学だけの進学相談会 に参加します - gunma-u.ac.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzQWN2THpjc3lBSXEzYzRnMnctT1ViU0hDSGN2Mkc3TkZreEVTd2hHc1dOMG9GU09CZVA2Tk15QlF3QllRVElhMUxNMV9hV1pmZmRyNm5ITQ?oc=5
 
-- 青森県六ヶ所村の『つながる・ろっかしょLINE相談事業』として、令和8年度（2026年度）のファミワンの提供継続が決定 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE51cl9oMjJrc3JRTDY5NWhraU5GLVoxV0ExMEtacTd6ZlJVcl9qRzU0Wlplemo4NnhwX0U1S25SN0doRFN3R3ZMQU1XT2tkWUxpdkwxTTdiZ0ZVUGFidUZNTW1iVUh6NUxPa3c?oc=5
-
-- 東京都、介護・障害福祉職員向けのカスハラ相談窓口を開始 20日から - 介護ニュースJoint
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE83aGJjcUhDZ1pxQV9mTXhKVm9LcTY2aHBVTENBZXlTa2NKSllfNE9PSHV5UG9qRHJic0YwOHNpRUY3NE5NTEhXZnh5d0o4YVp2blFRRTRR?oc=5
+- ゴールデンウィーク中のお客様相談室の休業について ｜お知らせ - 有楽製菓株式会社
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2VUV1eFRzbnoxaWtsVl8za3ZYaUdqZUJLTmZ1RnN3dVNBNm5veW9VOHluREI0ZS1ldG81OC1LRGc3anE1TXhUVE5tUDhqaDdHdFE?oc=5
 
 - 辻村相談窓口、「悩みごとがある」 - Design Stories
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaa0Q1RTNrMm9lVkVIY183ekF5MzNwNElfQjJNa0czdnJfeXRwSHp0dUI1S0JuN1Vhd19BUlpzTlhXMWF0M2l4ak1aTk5Zb3BNcjlWUlBJc2Z2TGJrN200ZHNkWHJ1dw?oc=5
 
-- 銀行の店舗を「実効性の高い相談・連携のハブ」へ ― 地域金融機関における店舗・チャネル進化の次なるステージへ ― - abeam.com
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTmlpd3VSR0F1ekIyZE9RMVJKM3NnakxyMWQxRnV4YmVzMmRpMzJzS3JkWF9ULXBaaFREcUNreFBRZU1ia0hCR2l5cmpHVExRMW9Z?oc=5
+- 東京都、介護・障害福祉職員向けのカスハラ相談窓口を開始 20日から - 介護ニュースJoint
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE83aGJjcUhDZ1pxQV9mTXhKVm9LcTY2aHBVTENBZXlTa2NKSllfNE9PSHV5UG9qRHJic0YwOHNpRUY3NE5NTEhXZnh5d0o4YVp2blFRRTRR?oc=5
 
 - 東京都消費生活相談2307件 健康食品42％増、若者相談も大幅増加 - ウェルネスデイリーニュース
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pYU1KcXRRdVk2dXRiZTBVczFmSDJIcDM5YTdUNU9VNVZFV05xVmJOYVhvejBTV0U5b3RPSVpScGxMM2NkMUh1NWVOQkltM0JSYnVaOWRR?oc=5
 
+- 銀行の店舗を「実効性の高い相談・連携のハブ」へ ― 地域金融機関における店舗・チャネル進化の次なるステージへ ― - abeam.com
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTmlpd3VSR0F1ekIyZE9RMVJKM3NnakxyMWQxRnV4YmVzMmRpMzJzS3JkWF9ULXBaaFREcUNreFBRZU1ia0hCR2l5cmpHVExRMW9Z?oc=5
+
+- 「複数の要因が重なり合って起きている」2025年の長崎県内の自殺者数は198人 統計開始以来最少に「一人で悩まず相談を」 - ktn.co.jp
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qeDBQdGN4d2UyT1VZbmJjU21WSkYwSlp5U19WUXZaUmwtZWQxRjUtNWJEOUdOOThRUks5U19yUkFSZERWSmx1RVlOTnRpQ09hdGtfRzQ5ZXBYOWdSNTB4X0Vn?oc=5
+
+- 住宅の耐震化について考えるセミナーと個別相談会 参加者募集 岡山（KSB瀬戸内海放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBBMmpjaG9Yd244NkNsY1p6anJZODRfVlhEQm1KeHdIN0s3UXFoWHR0V3habXg4dHc0c2RKZ1Zrb1VLUFhxbkxENC1LbG1QVmw3RFRKYWRLVnhhOGdJN1ZIUXF5dXY3V0E5UW9PZHlsUUV4MVF1bXNjdC13eWJJN1k?oc=5
+
 - 2040年見据え生成AI活用…スタディポケットが相談窓口 - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMDc4NFJxRFpsSE9zY0xNQm1PY3UweVltVEp2NVZfVExJdTYxQnRvVGsxRV9PckQtalZZLTI4N2RKRWlDSy1LTzVNRGhhUFZmdmhTXzFnMDRxUXRFdUhQVVh6bmxPUQ?oc=5
 
-- 児童相談所職員の対応を心理的児童虐待と認定 三重（三重テレビ放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9GTHl4TUlnM0tpWVU5ZllfNnBkR2gyWHU1YUkzdWEtbUdvZVFJTkR0WGF6R0hnMU12Nml2RjljUXBJZTZkMmRlNjVaUWs5aURpdGVLc2k2MDZTbWxTT29TN252YzZ5WHE0Ty1USzFzWlpjWjZ5STFDYk9ZYUZLbk0?oc=5
+- 青森県六ヶ所村の『つながる・ろっかしょLINE相談事業』として、令和8年度（2026年度）のファミワンの提供継続が決定 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE51cl9oMjJrc3JRTDY5NWhraU5GLVoxV0ExMEtacTd6ZlJVcl9qRzU0Wlplemo4NnhwX0U1S25SN0doRFN3R3ZMQU1XT2tkWUxpdkwxTTdiZ0ZVUGFidUZNTW1iVUh6NUxPa3c?oc=5
 
-- 人に化けて暮らす｢威圧的な嘗女｣の"意外な悩み" 漫画｢化けの皮のヒトバケ｣（第2集 第15話） - 東洋経済オンライン
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tN29pUzZoVkhSTXdUSjRRejY0aVdDVHFXcHNza3M4a09rT2cyNDJHaG1yOHFtSGhZaVYzR2dvbjJ5SmlDZzR0ZVY5a2MtUEMyWmc?oc=5
+- 【町田市】相談窓口・市民の広場・スポーツ情報まとめ 暮らしに役立つ4月15日号7面を解説 - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3QTFranE2bmJoVXVjVlNKaWlob2ZOMDZmLUM2MzQzYTQzb1BYRjZCWGtrSVlJU2l6aC1IclpRTnMtTTVKTm1pTzVFMnN1Q21tOG1LdTYwNEd1dHRoTnlJ?oc=5
 
 - 国際経済情勢に係る事業者相談窓口について - city.fukuroi.shizuoka.jp
   https://news.google.com/rss/articles/CBMifEFVX3lxTE5IMVNTbUlhbjFJMVFlUHdmb3huWjZVUzJSQ2EwWnZ6Qm9aeTFwT3FLTHJrTWxSTk9HbHlhQmZUYzN3YjRueHMtNkZ3dGtGTzRzRnNIVXkySk5Nb1JVTGhCRWtOeG5QT3lfZzhneDZpVndFbHY2MEtiSDFyU3k?oc=5
 
+- 人に化けて暮らす｢威圧的な嘗女｣の"意外な悩み" 漫画｢化けの皮のヒトバケ｣（第2集 第15話） - 東洋経済オンライン
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tN29pUzZoVkhSTXdUSjRRejY0aVdDVHFXcHNza3M4a09rT2cyNDJHaG1yOHFtSGhZaVYzR2dvbjJ5SmlDZzR0ZVY5a2MtUEMyWmc?oc=5
+
 - 教えて清水先生！！住まいの相談室 ーマンションの価格は下がることはないの？（第6回：“住む価値”と“投資リスク”をどう両立させるか）｜PropTech-Lab - newscast.jp
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tUVFCUW1oVTRkVUZrdXNWbTREN1RYblNNLS1lUS1vUFF0QjF5aElyODd3VDdISXVfSnpxdFVyN2R4eTNuanNEckdMb0ZyTGc?oc=5
 
-- オンラインの相談事業開始 粟国 産婦人科・小児科 - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zZzR0Z2QzUVVvbkhFZE0yTU5kbnhESmhGLWtFOXFKSGN0QVltOGRWYkJmQ3VOb0xhMGVUU0kzaDdvMnRqeGY1NmFROU9POEJITngzdTFGcU5LNWpmWWc?oc=5
-
-- やまぐち暮らし・しごと出張相談会in博多 2026年5月21日(木) 〜 2027年3月18日(木) | 福岡おでかけ・イベント情報 - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnRGgxbTNWU1NXUGgzblMzSDlOeTAwUDJwTmxSaEpSWlNqSjRzb0ZiVXV2SnBhY1JPYUFDUGRCT01TcUp5UHpadjZrRGRJOGRhcjBqQWV3NU1PVUVQQkE?oc=5
-
-- 結婚相談所を運営する会社社長（40）を“ロマンス詐欺”で逮捕 70歳男性から現金をだまし取ろうとしたか（CBCテレビ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1PVUktUzlScFVXZk1UVjZNUFJ1emNuSzdHVjRTb081Tm5LdDJUSVpnSXg1MGc4X3ZlUmVnelNpMFc0N3N3dXJtQmlnX3FTM1Y0dWhCWkRWLW1XSmNQQW5Lek9qbzRiZGhJOGFrM0pKZlB1Q25weUw3aFpkV0JkOEE?oc=5
+- 児童相談所職員の対応を心理的児童虐待と認定 三重（三重テレビ放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9GTHl4TUlnM0tpWVU5ZllfNnBkR2gyWHU1YUkzdWEtbUdvZVFJTkR0WGF6R0hnMU12Nml2RjljUXBJZTZkMmRlNjVaUWs5aURpdGVLc2k2MDZTbWxTT29TN252YzZ5WHE0Ty1USzFzWlpjWjZ5STFDYk9ZYUZLbk0?oc=5
 
 - 【中学受験】【高校受験】多摩地区30校「東京私立中高合同相談会」5/24（リセマム） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5HNWs5X3JMc1ZDcllBdGtycXVkSlhHamtIamRmRk5QU1NhcGJxeTRSaWpoTV9na0p3c3AyQzdhRTVDSS1jTzVscVpFcWMwdXQ1S0txMUVETC1fQ1RSdFY5YjZDN1laZDUwUnlYQ29BWGhncVFHc21MRmRvTVlfSUE?oc=5
 
-- ヒロミ Ｚ世代への対応に悩み「どう触れて良いのかわからない」「老害にならないように…」と苦笑（デイリースポーツ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5LekswbWFUcXJfX216Z3BpMXlqY0tNT25TS0YtWFZQSUU2bWprN2k5VDNPOUMySmU5LXR2dmZtdDYzSlhHX3BPSHNsX1ZnQ2ZiX1hRaGtNc2lteklOWEx3SUtEZ0dNWkJmOVRXenRod1NlX1VqaWRYWGFZYVl2WFE?oc=5
-
 - 新年度、その要望はちょっと困る…保護者からの「困った要望」と保育園の事情（はる） - エキスパート - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDE5MFZqNXV5NnFhN2duaXFHaGdXaU9tUGdKSjBPTk53SG5YdFE4bmo3U1BwVTRYLW9DUHdCaE1iUFhzZGQ3MTZEazBEMXk3OEEtOE1RUGxubVJ0RW1TTVozdjFmdmpscDlfUmRaUkhpcmN6bjJVX0x4MXpob184TWUxcGg4cFZW?oc=5
+
+- ヒロミ Ｚ世代への対応に悩み「どう触れて良いのかわからない」「老害にならないように…」と苦笑（デイリースポーツ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5LekswbWFUcXJfX216Z3BpMXlqY0tNT25TS0YtWFZQSUU2bWprN2k5VDNPOUMySmU5LXR2dmZtdDYzSlhHX3BPSHNsX1ZnQ2ZiX1hRaGtNc2lteklOWEx3SUtEZ0dNWkJmOVRXenRod1NlX1VqaWRYWGFZYVl2WFE?oc=5
 
