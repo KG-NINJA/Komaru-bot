@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-23 08:32) ===
+=== こまる相談 ニュースフィード (2026-04-23 09:31) ===
 
 - 「空き家相談会」を開催します！ - pref.kyoto.jp
   https://news.google.com/rss/articles/CBMiekFVX3lxTFAxM1JvbGYxYWN0TFVScjlubUFya0xTSEw2aGxpU0RGQ2ZRSWxWZ1ljSmQzZ19DcHcxY0tsWjJBdy03c2lWazVOZlN5Um9mQVlPVVVBRFlsd1FFNy12dFVsaEpyMlA5bXd1Z1pPZmpIVzNQUTk0bGh4SEVR?oc=5
@@ -6,14 +6,20 @@
 - 情報セキュリティ安心相談窓口の相談状況［2026年第1四半期（1月～3月）］ - ipa.go.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTE1KandfYnlTa1NPQ01PVXVJQkhaTC1GLXhFQjNsX2dCVFk2a0duZ0d0SF9oTWpsTFQwaXZFeU1SZXNEQ09UX08wRERlVlNfQkw2ZElRMERCTEZpNmYwVUpIcTlqVVVYMlNkT1Y2U1FWUXF4Zw?oc=5
 
-- 介護の悩み、話してすっきりして 高山「ほっとする談話室」開設10年 - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PVkVsUm1GTmpDQWxaLTlHVDZnTVNISmJTaUpnRzBOenlONFNGVXJ1VDUzaHRRSjBLcE94ZUZHeEF4OVRXdUlRMk03N2hONl9wUlFhZnRINDFSWjZRWTdmMA?oc=5
+- 愛知県支部まちづくりフォーラム開催～暮らしの相談から課題解決へ～ - UAゼンセン
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE04Sk5vd194ZDZDbEkxUU1LeFY5ZXNsdGlSZ1QxR0ZDcjNvUDNxbjQ4b2dhV1QxSlhtVWp4eWdGcXFlaHlxQzZtVzBnUU1nczA?oc=5
+
+- 悪質ホストで143人摘発 処分・相談も減少、改正風営法の効果か - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TNG5oSzdzWUJjSWZ4MGZuVzNEMjRfeGlsT3lIMHJFTWdBZnJQa3lRaFNNdmg5TU85UkJkUnAySGpHVmFHYXpHTjgtcGRZdmZnRDA2SlZ3LV9pY1FyOFAwWE1KeUF4eHM?oc=5
 
 - プレスリリース：奈良県の『性と健康の相談センター「ならはぐ」』として、ファミワンの相談対応提供を令和8年度（2026年度）も継続します（PR TIMES） - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYVFNZdGZ5MktYY1JIdmIyYW5qZW0yWlJLLVVhYmVTSTVmSHF2X2t4R0RFbTFsV2dpRVZhNm5UeWtFemlqbGZ2TlhzbXJFc1Rwclc5VGVIQjJ1dFV6RGRMVVBhTUNCWENT?oc=5
 
 - 【中学受験】【高校受験】【大学受験】多摩地区「進学相談会」5/10（リセマム） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUnNwRV9zdGFLeTZ5X1J3QkwyUkJEWFBnTTEwN09wX3hBRGY4d2VzRTdLemtvdVRxSUtRR0FuNGtzTVZZdVdSNXlxNmNnWHVNczVLMXJzY3luRkRHT29XaWlTVDFxa1hyOVJ4LUt0dUxzam5nRTM2RGY4aS1MWm8?oc=5
+
+- 介護の悩み、話してすっきりして 高山「ほっとする談話室」開設10年 - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PVkVsUm1GTmpDQWxaLTlHVDZnTVNISmJTaUpnRzBOenlONFNGVXJ1VDUzaHRRSjBLcE94ZUZHeEF4OVRXdUlRMk03N2hONl9wUlFhZnRINDFSWjZRWTdmMA?oc=5
 
 - 買い物ついでに免許相談！「アイルモータースクール博多の森」が博多マルイにオープン！ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1vcTBrRmdqQ0F1MkVTaGFlQzAxbGNRZWk1NVNTUU9FdGNhb1h6NGcxUDNzaFB5YUFxWjFtbWFUbDhNUUtYMmZ0T0Q0Tlg4R29ZOFEwVjhkbTA2dmlyYzVKTDlBV1pNc0lzX1E?oc=5
@@ -30,33 +36,27 @@
 - 「中東情勢の緊迫化に伴う金融特別相談窓口」の設置について - city.himi.toyama.jp
   https://news.google.com/rss/articles/CBMifEFVX3lxTE5jUDZ2eG1LVU1jc3FFMU9CbDg4TTN0dERqb2lfNVA4eWQ5a2VHd0MzRnJ6a3dRWGlPenBWZEt6MEpQSTlQeUxZQnN4YWhISXBNOGxubWFSUlhIVGxodEh0XzczWkJ1SHRGSk92aVVOTWpVYVNFNmtiYWoxdFY?oc=5
 
-- 辻村相談窓口、「空想ごっこ」 - Design Stories
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE91WVZQUmI0OVM5Y2xNZGp3R2pEZXc2QmRBMlpfVkt4V2Q0OVdmSHowbGZaSUEwc3BfdUhpVi1CbExQLTFDdzJKV0Z6NnFrSVdMWjFkbHhTTXpSOU44WnA5bGExT25ZZw?oc=5
-
-- 悪質ホストで143人摘発 処分・相談も減少、改正風営法の効果か - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TNG5oSzdzWUJjSWZ4MGZuVzNEMjRfeGlsT3lIMHJFTWdBZnJQa3lRaFNNdmg5TU85UkJkUnAySGpHVmFHYXpHTjgtcGRZdmZnRDA2SlZ3LV9pY1FyOFAwWE1KeUF4eHM?oc=5
-
 - 東京都大田児童相談所及び大田区おおたこども家庭センター開設|4月 - metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE9CRm5IWktjVjZlV3BzWDdpZ0p0M2gyQWEwUl9Xa09XdXZ2WFRna0VNQU1hYVlqUlpDa240MEhkV2tFaGwwSE4wTG53TkZ0RmJCLW1vd2E2ZUFCWC1WMm5ReXd1Z3RmbzNVWUVTUmFXN1ZPNzJ1?oc=5
+
+- 辻村相談窓口、「空想ごっこ」 - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE91WVZQUmI0OVM5Y2xNZGp3R2pEZXc2QmRBMlpfVkt4V2Q0OVdmSHowbGZaSUEwc3BfdUhpVi1CbExQLTFDdzJKV0Z6NnFrSVdMWjFkbHhTTXpSOU44WnA5bGExT25ZZw?oc=5
 
 - ネウボラ相談窓口「あのね」では、妊娠から子育てまで切れ目のない支援で子育てを応援します！！ - city.fukuyama.hiroshima.jp
   https://news.google.com/rss/articles/CBMidkFVX3lxTE1VVE1PeDVDREtWZ2Y4TUFaOGJacGFxU21XemVDaHpQT3VuOXVmcXNqcENYYXJOOGhQUGdzVzk0Y3ZfRnF2emlreWR1c1NNS0pGb2NqRUF5VVpXMmJoUXMtLThLQUx2Vm5mVVdpUkNmZGxheF8tNWc?oc=5
 
+- ジョブメドレーの相談窓口「キャリアサポート」とは？よくある問い合わせと対処法を紹介 - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZy1lZ2VaWHhfbjd2V29VeEJISjdIRTl6Vmx4aGFyV1h4c3FPVkRUTkJibmZTMEFPUEFFaDZuX3pkLThWc21DNFQxaFFHUk1jaG9XM0JaTWpqNXFWa2xlTkEwQTZSMEpvZEo3WnFTdjBKR2JYaTVudm1CcVBnbWRqUWNUbXhyRVZzbjg5ek5wUVZvR01mT1lVeTdiYndfZFQ0QW5KRzEtYmstdHhoMmlpNUZ4YV80QV83bnF1dEVTejJlajdFc2JUQWQ2OFlCRVdzUzlCeGNONWLSAYgBQVVfeXFMUHM0dWV2cndkakhXUUFaUVhINk9kUXBnUnhYb0VnTmUwMDJIWEtHMU9Vd2NkRmtrVGJlbnVYMm50WnBmelpnUE10XzI1OHk0dHNwZHZiVElDdnBkSGl3TnNCekxsSlF4X3dibl9sMXhjb2t0c0dNRFJkZ3ptdDg2cGRMekZ0Q2g3MA?oc=5
+
 - サイバーセキュリティ相談窓口の相談状況［2026年第1四半期（1月～3月）］ - ipa.go.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTE5qN19kZk1MSW9jVjFYUms5RGJ2UEJtSzQ3ZXctb1dnMTRoUFRFbWtwSThkZVVicEdSZzhCZW1DV1FHaUhPVzN6bUJ3RkFZUHo2YngxRmhLX0xyZmkzeU00WU9UYlFnM0xibjBydTZ2bzQtSTA?oc=5
-
-- ブラマヨ吉田 グラビアアイドルの悩みをバッサリ DMの迷惑行為に「その気にさせてんのやろ？」（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5NS1p2QW1XNVRmZHNXR0w1UWdnTUstLVVmZVZZZWlpSXI2bDl1Q0t5V29kSm45UDZteEc4WE91WFc1aWJoZTdmaUdGdWhIMldybGxVR0hWMHFwX0RkZlhMNS1qWTR4a01fNHpkazFpTUhELTNKandvTWpLUF9OV1U?oc=5
-
-- プレスリリース：HRbase、専門家監修の労務相談AIを弥生へOEM提供。「弥生のいつでも労務相談AI」が弥生ユーザー向けに登場。（PR TIMES） - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrNlFtOVppVG9YNXBrdVo3cXItWVFIU1RodnBhNGE1WXFhRzFfRHJkeVdlTXVJXzhZcXZQZTM1VUFPSU8wZmZSREhpZmJCLURYMEhld0JGTFlIZDgybmR1Y1p4YllEVkZv?oc=5
 
 - 「泣き寝入り・恥じることなく」ボーイズバーで90万円支払わせられたケースも ぼったくり無料電話相談・弁護士が相談に 仙台 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1YMnFpaTZOUDVNZDBxRDdRYVR0YUNmRkZ6T05tWDJzREdpbV92SlJMWXlwZjI1WEdDd3Q5ejJWaHJzX1FpaWwyQWgzdVRRWVpXSVB4QXVBR1hvRlhaNjl4dFcxXzlvUlZkX0lFa3gwQ2d3TjQ4ZUJ2dHU0NWFxUmc?oc=5
 
+- プレスリリース：HRbase、専門家監修の労務相談AIを弥生へOEM提供。「弥生のいつでも労務相談AI」が弥生ユーザー向けに登場。（PR TIMES） - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrNlFtOVppVG9YNXBrdVo3cXItWVFIU1RodnBhNGE1WXFhRzFfRHJkeVdlTXVJXzhZcXZQZTM1VUFPSU8wZmZSREhpZmJCLURYMEhld0JGTFlIZDgybmR1Y1p4YllEVkZv?oc=5
+
 - 相談ナシの 《独断買い物》、パートナー関係の崩壊も…？ 相手が勝手に買ってきた「一番要らないモノ」とは（LASISA） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9aUXEwN2tjVDQ5cGt3ZGxRTG1sNXZ2N1p0WEJwVFlvaG05RU5hTTJ3MXpmcmNIYU16bzUxdGxwRk5xTExnZ0YtajZTd0pYR21IUEV6bkl2QmZBcnpQV1BrSTVybm1NdXpkX0FZMEdvVEVTdEtjWVJvV2VuZWlKdnM?oc=5
-
-- 「A-Studio＋」宮近海斗との関係性を親友・神宮寺勇太が激白「悩みを相談できる数少ない存在」（TVガイドWeb） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE03X3RsVFNiazJjMXNRYVJUQU1IVG0zc0RwTU9WbHl1c0w3RmJnbk1SN0MtbGNxSUJyR1J4Qjg2Z2tTbURWc3V4N051MFc0ZkhiR3p3eUdDX0RodHJsTGtUOUdmd3hYWG9KcWxtWFBiZHFkanM1S3hYNEdobjNfaG8?oc=5
 
