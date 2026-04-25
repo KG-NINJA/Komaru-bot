@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-25 19:16) ===
+=== こまる相談 ニュースフィード (2026-04-25 20:09) ===
 
 - 城南区 育児相談会（母子巡回健康相談） - city.fukuoka.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE5wOHRrVzF3VlZtS0tlNDJkMTVYSFpSakZIaFlNNkN6ZE8yS25OZGtoZGxTTDlUdFpseUZsQXcweVBsc241VlBuaU05S3h1TWRGb19GRGEwMDhQMWcwQ0tCRzJOeWFZQnFjTHRoSVA3R3hpTWpZ?oc=5
@@ -27,9 +27,6 @@
 - 情報セキュリティ安心相談窓口の相談状況［2026年第1四半期（1月～3月）］ - ipa.go.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTE1KandfYnlTa1NPQ01PVXVJQkhaTC1GLXhFQjNsX2dCVFk2a0duZ0d0SF9oTWpsTFQwaXZFeU1SZXNEQ09UX08wRERlVlNfQkw2ZElRMERCTEZpNmYwVUpIcTlqVVVYMlNkT1Y2U1FWUXF4Zw?oc=5
 
-- 東野に指原MC楽しくない・・・本音暴露！悩み相談 - TVer
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qajdBQkVSSWFGaHp0NXJQZ2Z1TkowNWZTMjdudUUwWUxXT2w2ZFRqa1dINUJzNHA2RXJNMFk5MHZzT1BGU1BRLWREZw?oc=5
-
 - プレスリリース：墨田区主催の区民税務相談に専門家として参加｜相続税に関するご相談を中心に対応（PR TIMES） - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RMnNkTlN2ajZtSTZUeWphTlBtVlBWdFV5b2ZxMGdsT0J4RmdWcm5yRU9WWEdwT20td3M3c1JZRWktUDltbWJqWTJsc0p4c2toVHczVk1Kc0xLS0h3X0dpenM5WGRBclJj?oc=5
 
@@ -39,14 +36,20 @@
 - 令和8年度 子どもの心配ごと長岡市内の相談機関一覧 - city.nagaoka.niigata.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTE8tR1NLbmdrMHFTdG9BbzZGVlkzZm0zeFRFZDQzWnRFb2JYbFN5QVlCYlFvMEtTQ0pvOU1lSGo3eThwNGJfYVZSYkZPSUl4SFA1eFRCVzd1b2VCRm40c2hvVTNmN2hFbDhjTkhRMWpoWmNCQk9XbXM4T1FqRQ?oc=5
 
-- 「モヤモヤ気分」ウェブで相談 さいたま市が「傾聴AI」実証実験 - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRa1JEb3dBMnB3YnF4Uk1ISEdWVm9GUHhPa1dWaDRoOVNkNWI2TnZ5Q3NaQ2dQTmM2UDRxeVNRMHREZ1p3dFpWX2l6alBRNkhiRVkw?oc=5
-
 - ネウボラ相談窓口「あのね」では、妊娠から子育てまで切れ目のない支援で子育てを応援します！！ - city.fukuyama.hiroshima.jp
   https://news.google.com/rss/articles/CBMidkFVX3lxTE1VVE1PeDVDREtWZ2Y4TUFaOGJacGFxU21XemVDaHpQT3VuOXVmcXNqcENYYXJOOGhQUGdzVzk0Y3ZfRnF2emlreWR1c1NNS0pGb2NqRUF5VVpXMmJoUXMtLThLQUx2Vm5mVVdpUkNmZGxheF8tNWc?oc=5
 
 - こども発達相談センター 巡回相談 - city.funabashi.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTE1yd2tDTV83RUtkd2wtUlNBb2VtUmpkVmFsaS1kcXFjZWo4ODd6TU4ta2ZzQ0N1UW05WU9qUW42ZW9mVHVfNENFZVExemk4dlZ0cVhYZzA3emgtMmcxMUU0cmJfNDRxZk9xU3dpWUpSUEFFbTA?oc=5
+
+- 「モヤモヤ気分」ウェブで相談 さいたま市が「傾聴AI」実証実験 - 東京新聞デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRa1JEb3dBMnB3YnF4Uk1ISEdWVm9GUHhPa1dWaDRoOVNkNWI2TnZ5Q3NaQ2dQTmM2UDRxeVNRMHREZ1p3dFpWX2l6alBRNkhiRVkw?oc=5
+
+- 江戸川区 面接相談員 公営施設入居で生活困窮者に誤った説明 - NHKニュース
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE15WlpkeFpoM2ZJT1lYVVZNOG1xdEFwZnptSFVTNzZ1XzlXM08wT0RnMEttUEkxcWp4M2dKYTJzalJ0RmUteW5YUksxV1lHMk5NWWNUR29zbm0?oc=5
+
+- 愛知県支部まちづくりフォーラム開催～暮らしの相談から課題解決へ～ - UAゼンセン
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE04Sk5vd194ZDZDbEkxUU1LeFY5ZXNsdGlSZ1QxR0ZDcjNvUDNxbjQ4b2dhV1QxSlhtVWp4eWdGcXFlaHlxQzZtVzBnUU1nczA?oc=5
 
 - 小島瑠璃子 突然涙声に…死別した男性からの相談に涙をこらえながら回答「絶対幸せになってほしい」（スポニチアネックス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFAzSGNTRzVlRzRreVZXTU9GVW1FMEhQMVpDVjFxZE9nRGd6VGotZ2R6bEc5eXNGbGU4ak1Fa0MtaXJVaGhTSG5WWnhHeU03MjR6TzVGUmk2RElTNm52WVdIakJFUEFHeDhwb3pUQ054dWdDRWE2enl6Y3dncmpQQ0E?oc=5
@@ -56,7 +59,4 @@
 
 - 【独自】旭山動物園職員の30代男性、妻に対し"危害"を予告するような言動していたか 妻「夫から脅迫を受けていて怖い」と相談も 妻は3月末から行方不明 | 北海道のニュース｜HBC北海道放送 (1ページ) - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jZ3JhdHY0QkxpLW1WWFVtOFN6SV8tYk1EN1J0QUFDaXVHbUJkalVpeDY1akQ3em5vdUFaUWxnNTdkMUZ2RlhGUmgzOGVkUGo4MVBtUTBDcFB6MV9Jak1EUTU2ZHNqRWM?oc=5
-
-- 江戸川区 面接相談員 公営施設入居で生活困窮者に誤った説明 - NHKニュース
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE15WlpkeFpoM2ZJT1lYVVZNOG1xdEFwZnptSFVTNzZ1XzlXM08wT0RnMEttUEkxcWp4M2dKYTJzalJ0RmUteW5YUksxV1lHMk5NWWNUR29zbm0?oc=5
 
