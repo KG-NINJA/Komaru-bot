@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-27 10:37) ===
+=== こまる相談 ニュースフィード (2026-04-27 11:31) ===
 
 - 東京・江戸川区 生活困窮の相談で誤った説明 面接相談員 国が求める研修の受講は？ - nhk.or.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NTWVGT0E3Vzg4WEVVdUpjYUlmR1hUenNXWHZfSThiWDg0dWJnTFhSdUg5QzZnSS1mUEhGRlZIOHQxSU1jWjVYQ2Y4NFFkd19xdWQ0Qi1OX1pzV2RHbUNULXNkQ0JyMzQ?oc=5
@@ -11,9 +11,6 @@
 
 - 釧路で5月10日講演 女子アスリートの悩み「誰に相談？」 無月経リスクを医師解説 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LeVhpMnNNejBCUzRGcjlTUTRTOVloMF9Ma3lPR0xfdWVQbkZBcUU1YlJlcmg4M1RQTi1fRURmb214aU9oRlhEcjBKYW1mbFIwTDR3VjZmUmt4UQ?oc=5
-
-- 「困ったときに助けてもらえる人」の親が必ず教えていた、たった1つのルール - ダイヤモンド・オンライン
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE54SUMwTlhPaXpPdFVpQ1JtcDBmSFcwMTBPaWx0MVFCeW5qbm9yMkVjZnp3QVFENDdIUzgzcnVURVBQMXdJNEFWMGFqS3nSAU9BVV95cUxObXNOMTFPZkc1OHVsbDM4cUlRUUQzV2dfRkJ5eXliTWNCek5KeE1FVVhJbDBqN242NGRiVlN3QUZwaTAyLTRTZ19wbEl3TDZZ?oc=5
 
 - 「中小企業の相談制度などを充実させていきたい」熊本県弁護士会の新会長に東 健一郎 氏が就任（TKUテレビ熊本） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5PaElJUmctV2U2d29TRVdMQzVKVTNmSDEyb3o1RmJuWU9INWdHZTk4djVKem4zcTFNM1FXaEJGaEdBNXM3SDI2VXFVaUpLdW96SXh6SHFENDVNUENTQk1iclQ0UjhkTW5KQjRpZklDYzh1MU41UEdYWlhyVzJaN1E?oc=5
@@ -36,11 +33,14 @@
 - 子どものための養育費相談会 ２９日、岡山県司法書士会など - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xcEpVOGt3SVlhVGptektPeVBLem9DTG1JaGxXLXFrTHBHZF9ra0pzeHJoSjIyWmw5bVhWWl91dktRUmlXNXAyME1NMA?oc=5
 
+- 「健康相談お気軽に」 専門家らが月１回商業施設で 「まごころ保健室」 - 丹波新聞
+  https://news.google.com/rss/articles/CBMixwJBVV95cUxOOTlIOHJnTVpBR2tIQ2FKLWs2MzJyMkVydmItd2VseHFEc0FqQlZDYktQN05ndFNzVW1QWVhkbEFIZ0F0TENBWEdieElvTGNUeVlnQXltdFFVQ1ZYb2dsR1FGQlRxZ1lYa2RnT1I0Um1oN1hxa3lwRGRSYVZMU3FkYlYzZXN6WGFLOU9KdHJITUg2LUhRaFVVd1ExbDBnWk5jak93NVY1SzBqY21SQTNhdEs2YW1kaGJKUlk0SEdzTVZWRFJqOXlLWVlYcFNReDlpOHItWTNhc1dTd2NfdHdDWkNLNEwxQUdFbUpYVTJCaXlfX0p1T0dsbzRJODlZX3pOTzk4MnpDYk9UekEyeG9PQmhXNFFSU2lJSG5KWkZkdUpVVUFVTE5pOW81Z0d6MEFqYnBJNEw1d2tyeHFEdHJfb0lQTXhFQzA?oc=5
+
 - “孤独”な若者などの相談支援センター 事業内容を説明 高松 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lYm1iZnNhM3BBMUdLOTA4MlhnQ1ZPUzhqWkY4MU1ZNmdxa3YwZTBqTU9SLW5lejhyc3VsOGlMVzY1MWFBbEIwbTkyS214VjNaYmdLeVR1RGU?oc=5
 
-- 「健康相談お気軽に」 専門家らが月１回商業施設で 「まごころ保健室」 - 丹波新聞
-  https://news.google.com/rss/articles/CBMixwJBVV95cUxOOTlIOHJnTVpBR2tIQ2FKLWs2MzJyMkVydmItd2VseHFEc0FqQlZDYktQN05ndFNzVW1QWVhkbEFIZ0F0TENBWEdieElvTGNUeVlnQXltdFFVQ1ZYb2dsR1FGQlRxZ1lYa2RnT1I0Um1oN1hxa3lwRGRSYVZMU3FkYlYzZXN6WGFLOU9KdHJITUg2LUhRaFVVd1ExbDBnWk5jak93NVY1SzBqY21SQTNhdEs2YW1kaGJKUlk0SEdzTVZWRFJqOXlLWVlYcFNReDlpOHItWTNhc1dTd2NfdHdDWkNLNEwxQUdFbUpYVTJCaXlfX0p1T0dsbzRJODlZX3pOTzk4MnpDYk9UekEyeG9PQmhXNFFSU2lJSG5KWkZkdUpVVUFVTE5pOW81Z0d6MEFqYnBJNEw1d2tyeHFEdHJfb0lQTXhFQzA?oc=5
+- 銃撃事件の容疑者「チャットGPT」に犯行を相談 把握していたものの通報しなかったとしてオープンAIのアルトマンCEOが謝罪 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUUXJLVXY4eHh0UE1vd0lsMmItajZrRHNGLWx5WGFoVFBZNDk2ekZGYXl3TlNMcVE3alBHM1kwSmFIY0drTUpnc0NuUVR6WnY4R1NZLXN2bw?oc=5
 
 - 悩みは先輩との会話で切り替える（2025年4Q ベストプレーヤー賞・門口さん）#Picks＆Tipsー社長賞受賞者に聞く活躍のヒントー - ensoku!
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHQnBUZWhoeXg5OU5YZ2FYT0hyTUlXWS1Ga0VTN2VOZlhaRkRqRkwwUlhQdmJwY1V1MWxxMUliRjlWTDdYUzVxQzFOUWRhdFU0bTk5Vw?oc=5
@@ -48,15 +48,15 @@
 - 【藤沢市】テラスモール湘南「エースコンタクト」学校健康診断後のコンタクト相談受付中 - 湘南人
   https://news.google.com/rss/articles/CBMifkFVX3lxTFA4ZjdzcXlNNzhBRXNPTm9LcTFFOE02Y19tX3MxcGlxTzBvUU5pamo2QzdOWGJiSkxFNkZiOVZsTkJfV3RvbDJoZXBBemVRekJqblJETnRnMzNzbkdqWFpCYjdUanRlakpHOC01WF9pLVRvOXk4TTBaRjJDMEFaQQ?oc=5
 
-- 銃撃事件の容疑者「チャットGPT」に犯行を相談 把握していたものの通報しなかったとしてオープンAIのアルトマンCEOが謝罪 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUUXJLVXY4eHh0UE1vd0lsMmItajZrRHNGLWx5WGFoVFBZNDk2ekZGYXl3TlNMcVE3alBHM1kwSmFIY0drTUpnc0NuUVR6WnY4R1NZLXN2bw?oc=5
+- 結婚のご相談は福島市マリッジサポーターへ／福島市公式ホームページ - city.fukushima.fukushima.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBQS3ZMX3Fvb09WMjY0Q0hjTDZmR3ZyOHNwN0tkdHBTZWNfS3JCRk11R21CYlFINE1GaHFGQnBjZ2NreE1KZ0l6bklYUkZjWmEtU3ZIR2MtQVdiMVhRY1RlaUEwa0VEaG1SVDRNWG1XMWUySl9w?oc=5
+
+- 壇蜜が悩み告白 夫・清野とおる氏のマンガにサイン求められ…夫は「出てる人がサインするのはあるんじゃない？」 映画「旅立ちのラストダンス」トークショー（デイリースポーツ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5kbFNxT1EtTTB6Y3JzdFd2UHdqaGVkLWdrOFhXem5yaHQtbVZELXpCTEFlRE5MTGUydUxpWmRhU3RKbjBkZXI0SUxXS0RudjFLOVlkenNpTGpWTHpZbl9QM2RESTBtenJGNEZWTmpMaFlwNTBHME1pRDRHQ241RlE?oc=5
 
 - "DVは犯罪" 「浮気」の口論で交際女性の顔を殴る 25歳大学生を傷害容疑で逮捕 バイト同僚が警察への相談を勧め、事件解決の決め手に 熊本 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yTDhyWmZSbDhaZnRfcldmUzN6U1ZaRThfS0FIM2FDLVpldTBubWpBbXlsam9SczJjbHRxbkQ3Zk1BMXpqVkJsZ2Z3U0QxT3k1cXgxVU5UdW5WMS04TEZzYVQ1RXF3ZGM?oc=5
 
-- 結婚のご相談は福島市マリッジサポーターへ／福島市公式ホームページ - city.fukushima.fukushima.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTFBQS3ZMX3Fvb09WMjY0Q0hjTDZmR3ZyOHNwN0tkdHBTZWNfS3JCRk11R21CYlFINE1GaHFGQnBjZ2NreE1KZ0l6bklYUkZjWmEtU3ZIR2MtQVdiMVhRY1RlaUEwa0VEaG1SVDRNWG1XMWUySl9w?oc=5
-
-- 「ググる」より早い？ 中小企業の「労務の悩み」をAIで解消する、弥生の新サービス - キーマンズネット
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KTHdYamZTb3FEaDRacG9TTGlmZXNEZzZsSjEyUjJPRDFuU3c0VjNfT0d1c2ROQW5BMGNOYUc3ZHBHRk11akk4VjExOEZEaGNZT0FoaUpGelo5dm8waUZDYlg4REZ3T3hV?oc=5
+- おやこあんしん相談 - city.nagareyama.chiba.jp
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE54dUZDTTh6cE5tWnJualoxZVpQUU9CQmJVWGtEQkg1dzZxdHFmWXhtLXA1end2UW1MYVI3WVNVVlVnMDdDbHlTNFlxUTVlcktLTlBURHRTcjlYaElKTi0tcjRfUS1rMTdTb3dhWE1PR1JBdHJYWGVVUWZB?oc=5
 
