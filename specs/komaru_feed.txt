@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-27 20:21) ===
+=== こまる相談 ニュースフィード (2026-04-27 21:20) ===
 
 - 東京・江戸川区 生活困窮の相談で誤った説明 面接相談員 国が求める研修の受講は？ - nhk.or.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NTWVGT0E3Vzg4WEVVdUpjYUlmR1hUenNXWHZfSThiWDg0dWJnTFhSdUg5QzZnSS1mUEhGRlZIOHQxSU1jWjVYQ2Y4NFFkd19xdWQ0Qi1OX1pzV2RHbUNULXNkQ0JyMzQ?oc=5
@@ -12,6 +12,9 @@
 - ＜困りごと相談所＞介護 母の世話 施設に要望したが改善されず - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OU0RWQkZTXzNQclk1Qmg0M3EtbVdhNGw5ZHdNYjZ2aGtiQW1lNjVPMkI0bUZrandsSzhQNHZNQkhvM1RyT3VvLWkyZUlPWFZscVFxNGFhMjF4QQ?oc=5
 
+- 郵便局で30万円を振り込もうとする70代男性、不審に思った局員が上司に相談 詐欺被害防ぐ - 京都新聞デジタル
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXV1laUXhzS2NnSDlOa3I4VmQ4d2J6b3FoVFNFXzFXNDBHbnJGZ1pSZFBiWFN1U3hIS1VHTFN5N3p6Sy0xb1l5RFdSZVNfaDFNTDA0WERma0k?oc=5
+
 - 変わる不登校の常識｜相談先・居場所・フリースクールの選び方ガイド（ベネッセ教育情報） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE55QUZ6LVdlOHVBbHBxRWo5MklXbWZCNDFVQ0R3b2RmbTRQZWNpRlpRZi14b19RcWhnemxia2lwWEg2bUFIdU1MUWVWT2Vhdm04c3FXcnVLMWdZWm53RkZJQzdRcVFxaHBWR1NpYThaN3lpSF83OXZrZGZwODdJZ2c?oc=5
 
@@ -21,14 +24,20 @@
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxQNi0xWEJDQnRJMXBRQV85NUNycm5ucS1rcU43eGNVQjJYeENKNkJ4WjhnbVVqY014cWZPX2VQcXFMWFdHN2I1NElFRmp1cnQtQ2lCN1AxWkQxdVoyWkwyU1FDbzNfM1Q1U3dBN3NFQlRuTVJVQVh0NWZ0bnJRSjIzd1U5b2F6V3ZtUFE?oc=5
 
+- 孤独抱える若者支援 高松、相談センターオープン - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MnlJRnprXzFlV01jUjZINzFvNVpWU25saDZYOFQzLUdMbXdUY3lpVEc2Rm9fVDk5NEk5U3ZEYUpRUHAxSjJTRUJpWQ?oc=5
+
+- 失語症の当事者ら悩みを語り合う 仙台でイベント - 河北新報オンライン
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aemk5VzJ3ZVVCOEJvdVJpcC1yRy1tMXB3bzZBZjN2WDlqLXZUb19BMGFGcVZEelFzb0xVQ0Z5YjR3ek5Va0dENTVYeHNHX2p3dXlKc0ZaVENBUlZKTWg1RQ?oc=5
+
+- 不登校35万人超､｢3人に1人｣が家庭で孤立《どこに相談すればいい？→まずは自治体》民間含めたサポート体制構築の道筋 - 東洋経済オンライン
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWVjlpVXJRT0ZGc1ZVcXdrV2JrSWt4QzZrNW9ESjBoNERrY3c4cjRMMnJWdndBY2FtYkxFWDB6bUtib3dOTjVibnpOcWhRWWpJNVE?oc=5
+
 - 「身体知的更生相談所」から「更生」削除 - QAB 琉球朝日放送
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNaTM0SDBFUWpqRnl2YnFJeVdBMGtXQm5UZ2h6Vjc1VWU4YkJUWnlHYWlPdGViY0QwWDdFUjZEQ0tkSDFlYnlZVl90S2FjYWpqaEVNSDdwZzBrdw?oc=5
 
 - スポーツを将来の仕事にする総合スポーツ専門学校アップルスポーツカレッジ（ASC） - アップルスポーツカレッジ
   https://news.google.com/rss/articles/CBMi2gJBVV95cUxOSGVQb1ZIb3VQWlU4OW1ORVhUU2dwY0dkSklZWkdpZHNFWXRsRmtjSVdOLUZiOFdGLVpzVlNoT1dPU0JVT0hpQUtrb3pkZG1DSXd2V0ZwMkVVWHZTbVhyWDNVLTM5NFY1YUY0TDRvSy1ObkMycnN5MHpuU0U0TjJJNUJfQ3d4aXIxVWw0SW1xYkNCVV85b0dWX2J1Rk02X2NBbk5IR0tpVExRRFl4OEZQS3N1d2psbE04NGpxMTJvSW1EZUVoQ2NEMGgzNVhORkVLNDRvR2ljTGplQU5IcWx3M3VWT25vRlJFUHJ2LWZWY2wyRU4zcWUxcUlJckh1cnF6YXo1Tm1OZmVLbkpBX290X0RmWC1LYTdQQ2txTmxmZmM1WnFPTWVKc3B0MENzQUQ0dUthRmd2eUR0V1kwMG9KQ2ZYR1hXdjRfeEFPR1lLeEI4bVpydDI0WG9n?oc=5
-
-- 子どもの養育費、電話相談を 4月29日通話無料 青年司法書士協議会 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ySUw0a1dBOHd4Y3JYQ3pPS3lmaE8zRGR1UHJpeHRwV3dJWUl6MU9PbHgweGJFX0h0M2xmVFVVSGx0VFc2OEdJamZpSQ?oc=5
 
 - 銃撃事件の容疑者「チャットGPT」に犯行を相談 把握していたものの通報しなかったとしてオープンAIのアルトマンCEOが謝罪 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUUXJLVXY4eHh0UE1vd0lsMmItajZrRHNGLWx5WGFoVFBZNDk2ekZGYXl3TlNMcVE3alBHM1kwSmFIY0drTUpnc0NuUVR6WnY4R1NZLXN2bw?oc=5
@@ -39,17 +48,8 @@
 - おやこあんしん相談 - city.nagareyama.chiba.jp
   https://news.google.com/rss/articles/CBMiekFVX3lxTE54dUZDTTh6cE5tWnJualoxZVpQUU9CQmJVWGtEQkg1dzZxdHFmWXhtLXA1end2UW1MYVI3WVNVVlVnMDdDbHlTNFlxUTVlcktLTlBURHRTcjlYaElKTi0tcjRfUS1rMTdTb3dhWE1PR1JBdHJYWGVVUWZB?oc=5
 
-- 令和8年度 子どもの心配ごと長岡市内の相談機関一覧 - city.nagaoka.niigata.jp
-  https://news.google.com/rss/articles/CBMie0FVX3lxTE8tR1NLbmdrMHFTdG9BbzZGVlkzZm0zeFRFZDQzWnRFb2JYbFN5QVlCYlFvMEtTQ0pvOU1lSGo3eThwNGJfYVZSYkZPSUl4SFA1eFRCVzd1b2VCRm40c2hvVTNmN2hFbDhjTkhRMWpoWmNCQk9XbXM4T1FqRQ?oc=5
-
-- 人生相談 千原ジュニアの質問に古舘伊知郎が名回答 - ABEMA
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyNHhaU2ZmNC1uR2tuYUxMLUhzaF81Y1lHTklmOFFDdTRGU1BxNmUzdjh3aWxmbVJKRmNybFZYMUw0NXkxdmNxSlpRcW9CanBodXd3Q0xWbkFBZw?oc=5
-
-- 小牧市障がい者基幹相談支援センター - city.komaki.aichi.jp
-  https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXdiVnNlSGc5WGg4SVZ4YnItRmZBQXJFQTZUd2s4eFBLMS1Oa2ExRUFpTGgtU3hTT2lEQjhhZ3F2Vk9sVkpzTUFMTEV0WTgxQk5PQXZzNVlnVFZjczRtV2YtYWFOMkllTG1WUEROSkZLWERhanc3ckZSamoyRUZTSk5RUzNDM0dIS2FFdG14akxDb1JPeFdOZUgyaU1BclVaSWRV?oc=5
-
-- 情報セキュリティ安心相談窓口の相談状況［2026年第1四半期（1月～3月）］ - ipa.go.jp
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1KandfYnlTa1NPQ01PVXVJQkhaTC1GLXhFQjNsX2dCVFk2a0duZ0d0SF9oTWpsTFQwaXZFeU1SZXNEQ09UX08wRERlVlNfQkw2ZElRMERCTEZpNmYwVUpIcTlqVVVYMlNkT1Y2U1FWUXF4Zw?oc=5
+- いじめ「すぐ相談」 石川県警が啓発動画 星稜大生が出演 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fSkh2UndfZ19TV2pRaGItd0J3RERnT3NaV1NvNXhtRkVSM00yeWVCVlh3MG9ndlgxRlE0eEV2U09FOVVQU1ZaZFNuYw?oc=5
 
 - 釧路で5月10日講演 女子アスリートの悩み「誰に相談？」 無月経リスクを医師解説 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LeVhpMnNNejBCUzRGcjlTUTRTOVloMF9Ma3lPR0xfdWVQbkZBcUU1YlJlcmg4M1RQTi1fRURmb214aU9oRlhEcjBKYW1mbFIwTDR3VjZmUmt4UQ?oc=5
@@ -57,6 +57,6 @@
 - 「中小企業の相談制度などを充実させていきたい」熊本県弁護士会の新会長に東 健一郎 氏が就任（TKUテレビ熊本） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5PaElJUmctV2U2d29TRVdMQzVKVTNmSDEyb3o1RmJuWU9INWdHZTk4djVKem4zcTFNM1FXaEJGaEdBNXM3SDI2VXFVaUpLdW96SXh6SHFENDVNUENTQk1iclQ0UjhkTW5KQjRpZklDYzh1MU41UEdYWlhyVzJaN1E?oc=5
 
-- 孤独抱える若者支援 高松、相談センターオープン - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MnlJRnprXzFlV01jUjZINzFvNVpWU25saDZYOFQzLUdMbXdUY3lpVEc2Rm9fVDk5NEk5U3ZEYUpRUHAxSjJTRUJpWQ?oc=5
+- 子どもの養育費、電話相談を 4月29日通話無料 青年司法書士協議会 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ySUw0a1dBOHd4Y3JYQ3pPS3lmaE8zRGR1UHJpeHRwV3dJWUl6MU9PbHgweGJFX0h0M2xmVFVVSGx0VFc2OEdJamZpSQ?oc=5
 
