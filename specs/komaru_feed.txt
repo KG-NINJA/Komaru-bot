@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-28 22:17) ===
+=== こまる相談 ニュースフィード (2026-04-28 23:17) ===
 
 - 【福祉DX・M365】 悩みに寄り添うAIチャットボットが、「相談しやすい窓口」づくりの礎に - 自治体通信Online
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zclR3d29TX2Zzb0RhX1RWbWhXenA5NV9mcHFCbWZPOF9KeFdCS29iSHA5aGptTG43NjRLYmxmbXdOaHRjNGpTY1YzbG1ibXN0QUxLVXVhaFlZaFp4ZkdJZ3NOOENhd1U?oc=5
@@ -27,9 +27,6 @@
 - 中東情勢の影響で資金繰り等の相談が増加…香川県が高松市、経済団体ら関係機関と情報共有の初会合【香川】 - OHK 岡山放送
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KMG5PVWJlaDJiSm5vUjY5NC02ajd5eGVSVHMtbjl5VUNsTzQzWTdxbGo3aGlIeGhOUVFNaGhPMDRzNFRJdU41akJQajhFXy1M?oc=5
 
-- サイバーリンクス、江戸川区で東京都内初となるオンライン相談サービス「Open LINK for LIFE みんなの窓口®」運用開始 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE83UVZSZ0dKOE9ILVF0Mjc0QzNiZ0RFLTU2UkRPWWZaS0lTUU5FNmw1QVA3cEVaYUFZYS1PQ0R5ajFWdTJJdTItdHIzU1hDdjdxdXJPaWFSX2pzQV9JZ0c5Y0ZQaVNaYzFYSFE?oc=5
-
 - 定額で人気のカーリース、返却時の相談増加…中途解約不可知らず「レンタルとの混同多い」 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IcndqNm9ORExqcGxwR01nZG5HRzllSjRFWUpXMWRzS1YyWFQ2bGJZV3lXZS16YWlEazVHR1lURFZmQU5Yc2hIRzJ5bEE4d3R0bU50Um1FdEhid0xWSTNleVJVeTRNdw?oc=5
 
@@ -41,6 +38,9 @@
 
 - 【セキュリティ ニュース】2026年1Qのセキュリティ相談、「偽警告」相談が約1.5倍に（1ページ目 / 全2ページ） - Security NEXT
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NZ3Y1MGhJSWxWdVc4cE9jT0lKTDhOam9KeVNCUnl3TU5GSzVGc3FXaklhckxkM1FUSl9pb1NLb0RzSGxKTUpnUHV5eGs?oc=5
+
+- サイバーリンクス、江戸川区で東京都内初となるオンライン相談サービス「Open LINK for LIFE みんなの窓口®」運用開始 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE83UVZSZ0dKOE9ILVF0Mjc0QzNiZ0RFLTU2UkRPWWZaS0lTUU5FNmw1QVA3cEVaYUFZYS1PQ0R5ajFWdTJJdTItdHIzU1hDdjdxdXJPaWFSX2pzQV9JZ0c5Y0ZQaVNaYzFYSFE?oc=5
 
 - 『こうのとりのゆりかご』専門部会で報告 昨年度の妊娠に関する相談６０００件超【熊本】 - TKU テレビ熊本
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ma3Nrcm1TV0hHQ1VGQl9vQ0puRi03TXI4UXFLZGt5d3V3U05VTXd2RjR4OUdwTHRBeGVBVl9zNEpwSW9xaXRrYWFJYjVCSVFnM3JWVjM2VXhjMlM0SmFoRDVSMA?oc=5
