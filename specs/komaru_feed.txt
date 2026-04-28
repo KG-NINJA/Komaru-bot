@@ -1,7 +1,10 @@
-=== こまる相談 ニュースフィード (2026-04-28 13:33) ===
+=== こまる相談 ニュースフィード (2026-04-28 15:47) ===
 
-- プロジェクションマッピング等 助成金募集と総合相談窓口|4月 - metro.tokyo.lg.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE9iVzdvalNMZTR1WURqQ1lTcjE0Zjd5LXl2cWV6SnJKU1NkaVZOYTUzQXRLLTdWdFJoOFhGbjFVWGtqdVR1aHdDQW5GVVdGYnh5WjFvWE5XckgwYjduV3M4d0Z1OXNTRVVPRzJpOVV5SU9mWHRu?oc=5
+- 【福祉DX・M365】 悩みに寄り添うAIチャットボットが、「相談しやすい窓口」づくりの礎に - 自治体通信Online
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zclR3d29TX2Zzb0RhX1RWbWhXenA5NV9mcHFCbWZPOF9KeFdCS29iSHA5aGptTG43NjRLYmxmbXdOaHRjNGpTY1YzbG1ibXN0QUxLVXVhaFlZaFp4ZkdJZ3NOOENhd1U?oc=5
+
+- プロジェクションマッピング等 助成金募集と総合相談窓口|4月 - sangyo-rodo.metro.tokyo.lg.jp
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1hhOUpLUktCRUpicnVlenhjLURXZGREMjRBN0tkbUlMbnY4Zm5NVS1aWWYtTFl6QUVhWi1GemQxcktCS3pvZWQ5UVZLdVA0STZ6TGZlc016ZmtHX0hhcUVGX0FZUEhwVVZuNlo2aVhxa3YybTg5NE81OTJyTF9ySVNHQ2g?oc=5
 
 - 5月28日(木)「社会保険労務士による相談会」開催のご案内 - 信州大学医学部附属病院
   https://news.google.com/rss/articles/CBMieEFVX3lxTE9Rc01LSUpMbnpGei1sX0czTG9TdGlDRkQ2MDdwaUlLWDlOUFRsV2JIQnhNbm1RdDBhVkw3azNzXzBnMG9UaDVDclRmbWh4djB3SFBzdkN2cURfeWN1dnN6Zk1QalNac0xwUTNaSzJEa3J0VWxQbUZ4QQ?oc=5
@@ -21,29 +24,23 @@
 - 定額で人気のカーリース、返却時の相談増加…中途解約不可知らず「レンタルとの混同多い」 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IcndqNm9ORExqcGxwR01nZG5HRzllSjRFWUpXMWRzS1YyWFQ2bGJZV3lXZS16YWlEazVHR1lURFZmQU5Yc2hIRzJ5bEE4d3R0bU50Um1FdEhid0xWSTNleVJVeTRNdw?oc=5
 
+- 城南区 育児相談会（母子巡回健康相談） - city.fukuoka.lg.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE5wOHRrVzF3VlZtS0tlNDJkMTVYSFpSakZIaFlNNkN6ZE8yS25OZGtoZGxTTDlUdFpseUZsQXcweVBsc241VlBuaU05S3h1TWRGb19GRGEwMDhQMWcwQ0tCRzJOeWFZQnFjTHRoSVA3R3hpTWpZ?oc=5
+
+- 訪日外国人旅行者の受入環境に関する調査を実施しました ～前回調査に引き続き、旅行中の困りごとは「ごみ箱の少なさ」が最多～ | 2026年 | 報道発表 | 観光庁 - mlit.go.jp
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE56TEtCZXdDdDI1ZmxGcGRscEJvZHV1NElaZHdiUWRqRVlxQTEzSlNSeEZtTjJTNmRUT1NjNURwVVA4c0gzUXBNSkZqeW9FWjhIcHlEcWxxcWJZa1pVQVE?oc=5
+
 - 性犯罪と性暴力被害のLINE相談窓口を開設 兵庫県 毎月4回、若者の早期支援へ|社会 - 神戸新聞
   https://news.google.com/rss/articles/CBMid0FVX3lxTE4weGM2d2Q3TExnOENMZ3F2bTUxbm5OVlRmdTRxejRQSW03ck9UMkFzcWhKQW9WU3EzbDc0VXFtRi03UDBmVDZtN1hrLVdxVEd3ekxHRUFCQ28zMzFCNkVyck5FWENjVTgzZnRjVzE2dnUxM1FETEVR?oc=5
 
 - 【セキュリティ ニュース】2026年1Qのセキュリティ相談、「偽警告」相談が約1.5倍に（1ページ目 / 全2ページ） - Security NEXT
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NZ3Y1MGhJSWxWdVc4cE9jT0lKTDhOam9KeVNCUnl3TU5GSzVGc3FXaklhckxkM1FUSl9pb1NLb0RzSGxKTUpnUHV5eGs?oc=5
 
-- 訪日外国人旅行者の受入環境に関する調査を実施しました ～前回調査に引き続き、旅行中の困りごとは「ごみ箱の少なさ」が最多～ | 2026年 | 報道発表 | 観光庁 - mlit.go.jp
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE56TEtCZXdDdDI1ZmxGcGRscEJvZHV1NElaZHdiUWRqRVlxQTEzSlNSeEZtTjJTNmRUT1NjNURwVVA4c0gzUXBNSkZqeW9FWjhIcHlEcWxxcWJZa1pVQVE?oc=5
-
-- 城南区 育児相談会（母子巡回健康相談） - city.fukuoka.lg.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE5wOHRrVzF3VlZtS0tlNDJkMTVYSFpSakZIaFlNNkN6ZE8yS25OZGtoZGxTTDlUdFpseUZsQXcweVBsc241VlBuaU05S3h1TWRGb19GRGEwMDhQMWcwQ0tCRzJOeWFZQnFjTHRoSVA3R3hpTWpZ?oc=5
-
-- 「北海道・三陸沖後発地震注意情報」呼びかけ終了 情報の認知度や今後の地震活動は？ - nhk.or.jp
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HaG9CY0JMV1VXUTdCR29tZ1BpdWVEUWR2MUdxcXZGSXlHRWRDSmNtNTREY2NvTVlmcjE2RWdQMF95cjcwUTlaY0VXOERsbTJ1dnNYLUZaUjhPS3o3OTVaVXhhamRoazQ?oc=5
-
 - 熊本市への妊娠葛藤相談が過去最多の4368件 「こうのとりのゆりかご（赤ちゃんポスト）」検証会議で報告 SNSでの周知が奏功か 預け入れに違法性なし - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbDBoVWU4SG5jWFNhb1BSai1vY3RzX0xYVnVKV096c1ZydVZTTm1QQjlsT0JualpkN1czS3l6QS1qU1VodVNsdDZ3ejY4Zjh3WTlUOTZ1OUtBUQ?oc=5
 
-- 「神戸市こころといのちの電話相談」 大型連休中も開設 - NHKニュース
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ca3dVenZKaEdlaXNxaENLenNvQXpmNGdTRlRGNnR4ZndCR01rdm5tYjRVY0ppeGhvRnNxd0pQTWRNUHpwcjRRdDEtRlg1bjZWVXNJbzFTbmQ?oc=5
-
-- プロジェクションマッピング等 助成金募集と総合相談窓口|4月 - sangyo-rodo.metro.tokyo.lg.jp
-  https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1hhOUpLUktCRUpicnVlenhjLURXZGREMjRBN0tkbUlMbnY4Zm5NVS1aWWYtTFl6QUVhWi1GemQxcktCS3pvZWQ5UVZLdVA0STZ6TGZlc016ZmtHX0hhcUVGX0FZUEhwVVZuNlo2aVhxa3YybTg5NE81OTJyTF9ySVNHQ2g?oc=5
+- 【相談記録・効率化】 電話内容の「可視化・文字起こし」で図る、児童相談業務の「負担軽減」と「質向上」 - 自治体通信Online
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE5MOFNZaTA0U3N1ZlN5LVkwaWV6dUV4eWxhVW1zN0Rncm9IV2lHWkFhUlVndzFPRzkzTXI4Y0ZFWDA3UGlfVzRuUWhPcE1PUmpURFFZT1JMYlAzVDZKNVZoMFlLNjc4b2huYlkw?oc=5
 
 - ハローワーク松本による就職相談会のご案内 - 信州大学医学部附属病院
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1nTHFIdmRBUldKdkMwTWItVG0tVmhNNk9PLWlkY3k4SUhGbkZGdkJoMUZNWk9KVkxQVXBNaTkxR3NGYnVzVHpQYU9UX1c4Ukx0eUJiT25nTUQ0LXl3VjladFV6ZEhxZEV3UURKNWNkck5tSWF6?oc=5
@@ -51,12 +48,15 @@
 - 「安心して相談してもらえるような職員になりたい」県警察学校 一般職員の卒業式（ＯＡＢ大分朝日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE12LXZRaER3bmk3bFl0ZW12LV9LZ1hxRHJrTzE2UGFacm1wQnQ1NnhtMWNNTWdOeTFDUFJidWtJUEo4d0JpSW15dnJCZ0syWTgzX3dKbDZTTXotaW9iMDJvQXRTVUc5anExMmF0N0lZMzhkVHhJYVU0cUVPeGRVWTQ?oc=5
 
+- 青森県三沢市の『妊活・不妊相談サービス事業』として、令和8年度（2026年度）の「ファミワン」の提供継続が決定いたしました - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE4xaFFzc2d1dUhLMEpZSllLRjZXWVYtV3ZzdG45RHIyaDNzLWo2cEpxMF9mZE1xbVM5VzhHZFFDcktHTGc0UzVKTDdLeEdYWFNTajN0Z2dGazNRdDVXc3M3LVBNeUVzT3dSanc?oc=5
+
+- 【児童相談・システム】 対面相談にタブレット端末を活用し、児童・保護者に最適な支援を届ける - 自治体通信Online
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQVEZTSlRGR01WWTF5QnE1d2d3R01vUmxCQ2sxWGo5MjNiWEY4LU1XbUhuZHpvRkxsOGhhajUweTI2MWtRTW5tcGlHcXdxcXIyVjRXVFJPVGxpczNla1RfMDdEYVE?oc=5
+
 - 養育費の疑問や悩み相談を 29日、司法書士が電話対応（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5kZzZGdjJmSTNHTm9tUmlSVV9YdDFOeWhOLS02Q0NPdVhfLXR3bllqQkM4T2Jwdy15U2NJLWdBdUEza3VhRjE0eTN3N1dMUW9fdkY1dmN2elNrU2l3dGptQmhsbzFDdnZxZFNxOHdRZnMzSmt4X04zR2lfVXJwa1E?oc=5
 
-- 「エス トラスト第二紬木保育園」開園式 保育と発達・相談支援が一体化 山口・下関（ｔｙｓテレビ山口） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBOYUtlYjFzaVZsYUZCTjJEbmNyM19JWjNRdDFldGcyU2Q0QmRRaWtHQV9iblZpNTNteldXd3FVYXhpajhOakJQMnZoM1V3djM4SFExcVZvRXFtNEVSN0N0RjRPM0o2dXM5elZFZUZkblRsaHR2RGFmdE92RkdkMjg?oc=5
-
-- 青森県三沢市の『妊活・不妊相談サービス事業』として、令和8年度（2026年度）の「ファミワン」の提供継続が決定いたしました - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE4xaFFzc2d1dUhLMEpZSllLRjZXWVYtV3ZzdG45RHIyaDNzLWo2cEpxMF9mZE1xbVM5VzhHZFFDcktHTGc0UzVKTDdLeEdYWFNTajN0Z2dGazNRdDVXc3M3LVBNeUVzT3dSanc?oc=5
+- 「北海道・三陸沖後発地震注意情報」呼びかけ終了 情報の認知度や今後の地震活動は？ - nhk.or.jp
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HaG9CY0JMV1VXUTdCR29tZ1BpdWVEUWR2MUdxcXZGSXlHRWRDSmNtNTREY2NvTVlmcjE2RWdQMF95cjcwUTlaY0VXOERsbTJ1dnNYLUZaUjhPS3o3OTVaVXhhamRoazQ?oc=5
 
