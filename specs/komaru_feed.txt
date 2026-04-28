@@ -1,13 +1,22 @@
-=== こまる相談 ニュースフィード (2026-04-28 20:26) ===
+=== こまる相談 ニュースフィード (2026-04-28 21:21) ===
 
 - 【福祉DX・M365】 悩みに寄り添うAIチャットボットが、「相談しやすい窓口」づくりの礎に - 自治体通信Online
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zclR3d29TX2Zzb0RhX1RWbWhXenA5NV9mcHFCbWZPOF9KeFdCS29iSHA5aGptTG43NjRLYmxmbXdOaHRjNGpTY1YzbG1ibXN0QUxLVXVhaFlZaFp4ZkdJZ3NOOENhd1U?oc=5
 
+- 孤独や孤立対策へチャット相談窓口サービス実証実験スタート 福島県白河市 東北の自治体初 - 福島民報デジタル
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OTEwwcW5WUEt5bS01NUJYZHd6d2M4NWZUVkVfUHpSRnNNSVVpSFVOZERyR3NfNjRUQlNZc3pkbWlGVzc5czEweHZFTkJiR28?oc=5
+
 - プロジェクションマッピング等 助成金募集と総合相談窓口|4月 - sangyo-rodo.metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1hhOUpLUktCRUpicnVlenhjLURXZGREMjRBN0tkbUlMbnY4Zm5NVS1aWWYtTFl6QUVhWi1GemQxcktCS3pvZWQ5UVZLdVA0STZ6TGZlc016ZmtHX0hhcUVGX0FZUEhwVVZuNlo2aVhxa3YybTg5NE81OTJyTF9ySVNHQ2g?oc=5
 
+- ２５年度 相談４１８回で過去最多 不登校多く内容複雑化 巡回活動を廃止し注力 大館市少年相談センター - 株式会社 北鹿新聞社
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE44WUUtbmdmN21WWkM4Sy05Mjc4MzNFTzZxMlVQd0dzZFFQazVwQlJYbWJDZC1kSlpqd09ydWNZdnNQYWZSNGhNTXdmU0FKZ3RqX2hoUTVIOHlaYU42dHFia2ZHVV9mcHd6d3RJNktjVTVVUGxk?oc=5
+
 - 5月28日(木)「社会保険労務士による相談会」開催のご案内 - 信州大学医学部附属病院
   https://news.google.com/rss/articles/CBMieEFVX3lxTE9Rc01LSUpMbnpGei1sX0czTG9TdGlDRkQ2MDdwaUlLWDlOUFRsV2JIQnhNbm1RdDBhVkw3azNzXzBnMG9UaDVDclRmbWh4djB3SFBzdkN2cURfeWN1dnN6Zk1QalNac0xwUTNaSzJEa3J0VWxQbUZ4QQ?oc=5
+
+- 【干場編集長のお悩み相談室】今春買うべきオススメのセットアップを教えてください！ (FORZA STYLE) - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxNclAyY0l2bXFYdWo5cFlmZUYwTWlqQmp2MGRnbmE4ekpUODBrd0ItTWJuNW9MREpkb3Z3SEhwU09SbXZMUTkwcFFodXhPaWttTXR0b2tUajJjOUVMN2tMN2JJT3kzZTRmSzhZWG02QTFGVUVES1RQUzBVUzFsVXZycmp3YWthOUNiTGQxSkdB?oc=5
 
 - 墨田区主催の区民税務相談に専門家として参加｜相続税に関するご相談を中心に対応 - 税理士.ch
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DaWlTaWlUX1BoME9PdUN0Z3M3TGJFV2RZdlROTHFMcmxIb01vd2x2aXdRb1ZPeDI1d2lIWDdMR1NUV2pOTFo4X0ZGVzZPQ1BWZFFiak01MA?oc=5
@@ -20,9 +29,6 @@
 
 - サイバーリンクス、江戸川区で東京都内初となるオンライン相談サービス「Open LINK for LIFE みんなの窓口®」運用開始 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE83UVZSZ0dKOE9ILVF0Mjc0QzNiZ0RFLTU2UkRPWWZaS0lTUU5FNmw1QVA3cEVaYUFZYS1PQ0R5ajFWdTJJdTItdHIzU1hDdjdxdXJPaWFSX2pzQV9JZ0c5Y0ZQaVNaYzFYSFE?oc=5
-
-- 熊本市への妊娠に関する相談 2025年度は4368件で過去最多に（熊本ニュース KAB ONLINE） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5ISW9CTjZfSUJDcVlHX3FlaDN4UDZPdTM4Yl9CY2pkUkZTVGItZWlOQ1JkQmItRW0xMXFhbkc1NXg3UER6cGVkTThmQS1HVmNYNnBaRWZiWDkwcW1EQzdON25rbi1YT1lpemFwNEJuM2IwYjNsNndFV0Q2SXFnX2c?oc=5
 
 - 定額で人気のカーリース、返却時の相談増加…中途解約不可知らず「レンタルとの混同多い」 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IcndqNm9ORExqcGxwR01nZG5HRzllSjRFWUpXMWRzS1YyWFQ2bGJZV3lXZS16YWlEazVHR1lURFZmQU5Yc2hIRzJ5bEE4d3R0bU50Um1FdEhid0xWSTNleVJVeTRNdw?oc=5
@@ -39,24 +45,18 @@
 - 『こうのとりのゆりかご』専門部会で報告 昨年度の妊娠に関する相談６０００件超【熊本】 - TKU テレビ熊本
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ma3Nrcm1TV0hHQ1VGQl9vQ0puRi03TXI4UXFLZGt5d3V3U05VTXd2RjR4OUdwTHRBeGVBVl9zNEpwSW9xaXRrYWFJYjVCSVFnM3JWVjM2VXhjMlM0SmFoRDVSMA?oc=5
 
-- 事業者相談窓口、青森県庁内に設置へ 原油供給不安で宮下知事 - デーリー東北
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qYi13dkoteWlaWktFcGoxRG9UbFo1WDkzRHF5NjZ2OW9ISlNmb2txZDNEYWhBdDMxazd4SlBzVExVNEx6UmlSdDV5ZjMxQ3BIMkxfSG11VGxZR2JaNGFjanJBWmxhMFU?oc=5
-
-- 東京・江戸川区 生活困窮の相談で誤った説明 面接相談員 国が求める研修の受講は？ - nhk.or.jp
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NTWVGT0E3Vzg4WEVVdUpjYUlmR1hUenNXWHZfSThiWDg0dWJnTFhSdUg5QzZnSS1mUEhGRlZIOHQxSU1jWjVYQ2Y4NFFkd19xdWQ0Qi1OX1pzV2RHbUNULXNkQ0JyMzQ?oc=5
-
 - 【相談記録・効率化】 電話内容の「可視化・文字起こし」で図る、児童相談業務の「負担軽減」と「質向上」 - 自治体通信Online
   https://news.google.com/rss/articles/CBMia0FVX3lxTE5MOFNZaTA0U3N1ZlN5LVkwaWV6dUV4eWxhVW1zN0Rncm9IV2lHWkFhUlVndzFPRzkzTXI4Y0ZFWDA3UGlfVzRuUWhPcE1PUmpURFFZT1JMYlAzVDZKNVZoMFlLNjc4b2huYlkw?oc=5
 
 - ハローワーク松本による就職相談会のご案内 - 信州大学医学部附属病院
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1nTHFIdmRBUldKdkMwTWItVG0tVmhNNk9PLWlkY3k4SUhGbkZGdkJoMUZNWk9KVkxQVXBNaTkxR3NGYnVzVHpQYU9UX1c4Ukx0eUJiT25nTUQ0LXl3VjladFV6ZEhxZEV3UURKNWNkck5tSWF6?oc=5
 
-- 中東情勢の影響で資金繰り等の相談が増加…香川県が高松市、経済団体ら関係機関と情報共有の初会合【香川】 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTzNZRXVCVkVmVEFvaVRNVlNUMnhkRE5NellreWVDa0tSbFZuR2NHOXJ4RVh6OG9Ga2tuQy1Bb043YmtmOXFZZW9SelR1YXpNYUZ5LUtncy1lcWk0V0lxVFVHV3FtX0IyM1ZqckNWRUlhSnp4S09nYTlleHlQZm8?oc=5
+- 熊本市への妊娠に関する相談 2025年度は4368件で過去最多に（熊本ニュース KAB ONLINE） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5ISW9CTjZfSUJDcVlHX3FlaDN4UDZPdTM4Yl9CY2pkUkZTVGItZWlOQ1JkQmItRW0xMXFhbkc1NXg3UER6cGVkTThmQS1HVmNYNnBaRWZiWDkwcW1EQzdON25rbi1YT1lpemFwNEJuM2IwYjNsNndFV0Q2SXFnX2c?oc=5
 
 - 【児童相談・システム】 対面相談にタブレット端末を活用し、児童・保護者に最適な支援を届ける - 自治体通信Online
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQVEZTSlRGR01WWTF5QnE1d2d3R01vUmxCQ2sxWGo5MjNiWEY4LU1XbUhuZHpvRkxsOGhhajUweTI2MWtRTW5tcGlHcXdxcXIyVjRXVFJPVGxpczNla1RfMDdEYVE?oc=5
 
-- 「長野産業保健総合支援センターによる仕事と治療の両立支援相談会」開催のご案内 - 信州大学医学部附属病院
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE82ZDc5a3V3QVc5VFdnYnkyMmJYYVRkLUJwVXBXeWZpRmlRZUZtYUV4S2xYUGtIVWRuektiY0xyMnJOb1pwSWtfbDlNanBxQVVaUEpfZGFUelIzU3BCa0pGek53RXRwV0FtaEp4eEd2WTJUbjdZ?oc=5
+- 事業者相談窓口、青森県庁内に設置へ 原油供給不安で宮下知事 - デーリー東北
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qYi13dkoteWlaWktFcGoxRG9UbFo1WDkzRHF5NjZ2OW9ISlNmb2txZDNEYWhBdDMxazd4SlBzVExVNEx6UmlSdDV5ZjMxQ3BIMkxfSG11VGxZR2JaNGFjanJBWmxhMFU?oc=5
 
