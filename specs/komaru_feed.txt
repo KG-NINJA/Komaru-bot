@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-04-29 13:32) ===
+=== こまる相談 ニュースフィード (2026-04-29 14:42) ===
 
 - 全国青年司法書士協議会 子どもの養育費 電話相談会 - khb東日本放送
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE92aXhVQmFVbmpvUXNtVEJaVDRBazNPeGdVYTBLd0lwbTN6T19xTzA5Y0ZCSS1UZkhlcDhoSHk5OThtaEh1YTBmR2VYYzQwUHc?oc=5
@@ -21,11 +21,11 @@
 - 「一件でも…」 ストーカー事件で娘亡くした父、相談窓口設立へ - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3T01tb1NKTzBPeFA4UFFCOHQwY2ZybDBSTkR1WmNhQUYtSDc4dHBMNC1HR19rQkdXQk1XS1VqckVsOVk0WlpqcDZ6Zl9MSUN4OTZtem1KbDVmMHRKT1kzeE5FVUFabUtS?oc=5
 
-- 【福祉DX・M365】 悩みに寄り添うAIチャットボットが、「相談しやすい窓口」づくりの礎に - 自治体通信Online
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zclR3d29TX2Zzb0RhX1RWbWhXenA5NV9mcHFCbWZPOF9KeFdCS29iSHA5aGptTG43NjRLYmxmbXdOaHRjNGpTY1YzbG1ibXN0QUxLVXVhaFlZaFp4ZkdJZ3NOOENhd1U?oc=5
-
 - 【日本最大級の園芸イベント】横浜フラワー＆ガーデンフェスティバル2026「黒谷友香、お庭つくります」出展決定 黒谷友香さん、三上真史さんらによるスペシャルトークステージも！ - BS11
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE94cW44UHMyNXNZdFdsMVBqMUFKTU5QUEF2NmxjemduWlV4LW10T3BGM29IZnNtbFNvOEdEQngzNFpvczNUZHNWZWlGSkZpY3NIVFB4ekRJdVRCUQ?oc=5
+
+- 【福祉DX・M365】 悩みに寄り添うAIチャットボットが、「相談しやすい窓口」づくりの礎に - 自治体通信Online
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zclR3d29TX2Zzb0RhX1RWbWhXenA5NV9mcHFCbWZPOF9KeFdCS29iSHA5aGptTG43NjRLYmxmbXdOaHRjNGpTY1YzbG1ibXN0QUxLVXVhaFlZaFp4ZkdJZ3NOOENhd1U?oc=5
 
 - 城南区 育児相談会（母子巡回健康相談） - city.fukuoka.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE5wOHRrVzF3VlZtS0tlNDJkMTVYSFpSakZIaFlNNkN6ZE8yS25OZGtoZGxTTDlUdFpseUZsQXcweVBsc241VlBuaU05S3h1TWRGb19GRGEwMDhQMWcwQ0tCRzJOeWFZQnFjTHRoSVA3R3hpTWpZ?oc=5
@@ -33,14 +33,17 @@
 - 【毛穴】悩みは化粧品で解決できる？毛穴のプロが徹底検証 - VOCE
   https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jYlpsTW1sZWthWC16MkJQaHRBeC1tckFib3hCUVZTSHN0ZUhJWHlXak10aThKSjhNT0s0NUkySzZpVk0tQ0E?oc=5
 
-- ２５年度 相談４１８回で過去最多 不登校多く内容複雑化 巡回活動を廃止し注力 大館市少年相談センター - 株式会社 北鹿新聞社
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE44WUUtbmdmN21WWkM4Sy05Mjc4MzNFTzZxMlVQd0dzZFFQazVwQlJYbWJDZC1kSlpqd09ydWNZdnNQYWZSNGhNTXdmU0FKZ3RqX2hoUTVIOHlaYU42dHFia2ZHVV9mcHd6d3RJNktjVTVVUGxk?oc=5
-
 - 5月28日(木)「社会保険労務士による相談会」開催のご案内 - 信州大学医学部附属病院
   https://news.google.com/rss/articles/CBMieEFVX3lxTE9Rc01LSUpMbnpGei1sX0czTG9TdGlDRkQ2MDdwaUlLWDlOUFRsV2JIQnhNbm1RdDBhVkw3azNzXzBnMG9UaDVDclRmbWh4djB3SFBzdkN2cURfeWN1dnN6Zk1QalNac0xwUTNaSzJEa3J0VWxQbUZ4QQ?oc=5
 
+- 認定がん相談支援センター - ncc.go.jp
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxQNi0xWEJDQnRJMXBRQV85NUNycm5ucS1rcU43eGNVQjJYeENKNkJ4WjhnbVVqY014cWZPX2VQcXFMWFdHN2I1NElFRmp1cnQtQ2lCN1AxWkQxdVoyWkwyU1FDbzNfM1Q1U3dBN3NFQlRuTVJVQVh0NWZ0bnJRSjIzd1U5b2F6V3ZtUFE?oc=5
+
 - 「妊娠に関する悩み相談」熊本県・熊本市・慈恵病院に６１４６件…２０２５年度は前年度の１・５倍に（読売新聞オンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5ESXM3Vm9GM0tSZ3VXRThfNUY4STNPa0ZENHVkWHBSUWE4LVNOUU5BS3JEcXYxckw4ZjhFdEZkVDcxRzJUdTJsN2NEejNLNFhmbVNHUWNqUXFrYjF4cVppYkRVRWJtOVBUYUxFVWxlM0ZQRThCZnZOenF5T1FpZ1E?oc=5
+
+- 「一件でも…」 ストーカー事件で娘亡くした父、相談窓口設立へ [写真特集1/13] - 毎日新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WWm04MFdkM0JpSm11YWJ1M3M4VEs2T0FlZVo2NVNTZWtlLTQxY1hpZnZfOFRxOS1GbmhZczRkN0R1TXJHWkZReHhGUU9tT0ctZm1ObTlhendpREFGM0M2Ylg5NFpsUQ?oc=5
 
 - 【相談記録・効率化】 電話内容の「可視化・文字起こし」で図る、児童相談業務の「負担軽減」と「質向上」 - 自治体通信Online
   https://news.google.com/rss/articles/CBMia0FVX3lxTE5MOFNZaTA0U3N1ZlN5LVkwaWV6dUV4eWxhVW1zN0Rncm9IV2lHWkFhUlVndzFPRzkzTXI4Y0ZFWDA3UGlfVzRuUWhPcE1PUmpURFFZT1JMYlAzVDZKNVZoMFlLNjc4b2huYlkw?oc=5
@@ -51,12 +54,9 @@
 - 熊本市への妊娠相談が昨年度過去最多 複雑な状況で相談継続するケースも（ＫＫＴ熊本県民テレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE84aDU5ZkVSSlQ4UTFsS3piUW9hRmNNTVFiLXlNMER2QlVIQkxTQmhEQXFxQ2owT2kxTnZIeDg3d2l4a0ZZbFRUb1RlSV9FVV9YZlcwU21GRUhWdXlBTmxSNG5zdkJhbE42a2tQU3VzdnYwc1ZGZWt4UW9hNjZveUU?oc=5
 
-- 【児童相談・システム】 対面相談にタブレット端末を活用し、児童・保護者に最適な支援を届ける - 自治体通信Online
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQVEZTSlRGR01WWTF5QnE1d2d3R01vUmxCQ2sxWGo5MjNiWEY4LU1XbUhuZHpvRkxsOGhhajUweTI2MWtRTW5tcGlHcXdxcXIyVjRXVFJPVGxpczNla1RfMDdEYVE?oc=5
-
 - 融資の相談、詐欺かも… 被害防いだ信用金庫職員、宮崎南署が感謝状（朝日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZVd6Y2lzYVdjZlBGNGpIVDFOWWduVUVQMnFvdFJHZDBRWHlmd2VhUEEwcjRVdjZ6djY5bGp2U3MzNU92ZmZEd0I0MXhzckpiTmF2MFB3LThXRG5oZ1hEa3g0UUc4SmFQNHpLWS1NMTB6X2lLbGRCdjk0Z3ZUb00?oc=5
 
-- 群馬県立学校のスクールロイヤー制度 相談件数が100件超 2026年度に導入 弁護士が学校の問題にアドバイス - 上毛新聞電子版
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE41Z2hKX0JyajBHSndod0ZoLUxkTzJtNWhvNnl6OTBna0JINHczQzFQcGxWQ2d2eExDLTlrODZkYlRNRW1HcmJwTDhZOU5xX2g5Um9WU1NrbVg?oc=5
+- ２５年度 相談４１８回で過去最多 不登校多く内容複雑化 巡回活動を廃止し注力 大館市少年相談センター - 株式会社 北鹿新聞社
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE44WUUtbmdmN21WWkM4Sy05Mjc4MzNFTzZxMlVQd0dzZFFQazVwQlJYbWJDZC1kSlpqd09ydWNZdnNQYWZSNGhNTXdmU0FKZ3RqX2hoUTVIOHlaYU42dHFia2ZHVV9mcHd6d3RJNktjVTVVUGxk?oc=5
 
