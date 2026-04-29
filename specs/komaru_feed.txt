@@ -1,13 +1,19 @@
-=== こまる相談 ニュースフィード (2026-04-29 05:03) ===
+=== こまる相談 ニュースフィード (2026-04-29 06:45) ===
+
+- 死傷事故の後悔と伝統のはざまで悩み続けた11年間 100畳敷き大凧が再び東近江の空を舞う - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtRldEOGVza1VoaHVrcGwwaGtoS1lPaEFpbkw1c0kxdlFaZnRwUXZ3VVV4ekhSeUU2T2xtb195b193bXlBNUI3ZFNybGN3QkhnMkVkLQ?oc=5
 
 - 【福祉DX・M365】 悩みに寄り添うAIチャットボットが、「相談しやすい窓口」づくりの礎に - 自治体通信Online
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zclR3d29TX2Zzb0RhX1RWbWhXenA5NV9mcHFCbWZPOF9KeFdCS29iSHA5aGptTG43NjRLYmxmbXdOaHRjNGpTY1YzbG1ibXN0QUxLVXVhaFlZaFp4ZkdJZ3NOOENhd1U?oc=5
 
+- 共同親権制度や養育費問題の無料相談 全国一斉で司法書士が対応 - サンテレビ
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyamxlZkNkM2xIR1Z6SzJvWlFhT3FDWWRuQzd3aTZDNkJ0TTQ5SmRBNlNxZmZrcXNLTExEZXd3d0dDZjBadG90TzVEZEtYdFJGTEs1c3lFeFQtVVFnWjFzeFBMUjBzZUM5?oc=5
+
 - 孤独や孤立対策へチャット相談窓口サービス実証実験スタート 福島県白河市 東北の自治体初 - 福島民報デジタル
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OTEwwcW5WUEt5bS01NUJYZHd6d2M4NWZUVkVfUHpSRnNNSVVpSFVOZERyR3NfNjRUQlNZc3pkbWlGVzc5czEweHZFTkJiR28?oc=5
 
-- 共同親権制度や養育費問題の無料相談 全国一斉で司法書士が対応 - サンテレビ
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyamxlZkNkM2xIR1Z6SzJvWlFhT3FDWWRuQzd3aTZDNkJ0TTQ5SmRBNlNxZmZrcXNLTExEZXd3d0dDZjBadG90TzVEZEtYdFJGTEs1c3lFeFQtVVFnWjFzeFBMUjBzZUM5?oc=5
+- 「こころのAI相談」白河市が実証開始 チャット24時間対応、26年秋本格導入目指す:地域ニュース - 福島民友新聞社
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5COF9Nd0dacXFTaExKRHJSUWZxVlZibE5DUkRVTTByYmRqTnQwUHd6TlVXWUF0TUVjb3o4T1ZKMHlNR2hRSHhGWFltdkRXM0dKZl9hdDNXWm1Vb0tGd3ZxVkl2WnJzUTFi?oc=5
 
 - 熊本市への妊娠相談が昨年度過去最多 複雑な状況で相談継続するケースも（ＫＫＴ熊本県民テレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE84aDU5ZkVSSlQ4UTFsS3piUW9hRmNNTVFiLXlNMER2QlVIQkxTQmhEQXFxQ2owT2kxTnZIeDg3d2l4a0ZZbFRUb1RlSV9FVV9YZlcwU21GRUhWdXlBTmxSNG5zdkJhbE42a2tQU3VzdnYwc1ZGZWt4UW9hNjZveUU?oc=5
@@ -15,26 +21,23 @@
 - 「こども電話相談室」公開収録の参加者募集！ - tbsradio.jp
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pRmloU1BObkxXRi12Q3k1b3E2Q3pIN2pDY3o0aFlVdVhoR2M1Q1ZaRHlxVVFmbDVkZkVteThhOWpIbzBndE5FdlNwcmxzbl9NdVE?oc=5
 
-- 「こころのAI相談」白河市が実証開始 チャット24時間対応、26年秋本格導入目指す:地域ニュース - 福島民友新聞社
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5COF9Nd0dacXFTaExKRHJSUWZxVlZibE5DUkRVTTByYmRqTnQwUHd6TlVXWUF0TUVjb3o4T1ZKMHlNR2hRSHhGWFltdkRXM0dKZl9hdDNXWm1Vb0tGd3ZxVkl2WnJzUTFi?oc=5
+- 「妊娠に関する悩み相談」熊本県・熊本市・慈恵病院に６１４６件…２０２５年度は前年度の１・５倍に：地域ニュース - 読売新聞
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1WZXlHXzM1MTIwMWQtOXl2aUtWZUFvcDB0YWZjSzBGY1N4dkppNm03WEJGNldVWFN0RXNFUzlPX2hRa1RfdnlGd0ZUY0JDdlNPZjF3TmdwYjg2TzFnd1k4amZrTi1mNVFuU3JDTzBGQVBNUQ?oc=5
+
+- 「盗撮しているかもしれない」相談で発覚…施設トイレに小型カメラを設置し20代女性を盗撮した疑い 塾経営の男(34)逮捕 盗撮動画やカメラも押収 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hLW4tNFJ4U19DMU9NZDNfdkZMWHo5UFA3V0RFX1JxU1FRWDBXNDRka1pBeTE2MmY2aVQtOW5rVk11RHFyYS1DbXJNcFZzeDVac2xNdjc0N25xN0VCZ2g5X0N6TnlldUk?oc=5
 
 - 【毛穴】悩みは化粧品で解決できる？毛穴のプロが徹底検証 - VOCE
   https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jYlpsTW1sZWthWC16MkJQaHRBeC1tckFib3hCUVZTSHN0ZUhJWHlXak10aThKSjhNT0s0NUkySzZpVk0tQ0E?oc=5
 
-- 「妊娠に関する悩み相談」熊本県・熊本市・慈恵病院に６１４６件…２０２５年度は前年度の１・５倍に：地域ニュース - 読売新聞
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1WZXlHXzM1MTIwMWQtOXl2aUtWZUFvcDB0YWZjSzBGY1N4dkppNm03WEJGNldVWFN0RXNFUzlPX2hRa1RfdnlGd0ZUY0JDdlNPZjF3TmdwYjg2TzFnd1k4amZrTi1mNVFuU3JDTzBGQVBNUQ?oc=5
-
-- プロジェクションマッピング等 助成金募集と総合相談窓口|4月 - sangyo-rodo.metro.tokyo.lg.jp
-  https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1hhOUpLUktCRUpicnVlenhjLURXZGREMjRBN0tkbUlMbnY4Zm5NVS1aWWYtTFl6QUVhWi1GemQxcktCS3pvZWQ5UVZLdVA0STZ6TGZlc016ZmtHX0hhcUVGX0FZUEhwVVZuNlo2aVhxa3YybTg5NE81OTJyTF9ySVNHQ2g?oc=5
-
-- 4月28日 昼の広報無線 - vill.hakuba.lg.jp
-  https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkRsTDhzWXc1ZWd6YU9fd3ZwT2RnQnVrT1F3c3FJQnI1OU11UDlPR2dMR1ZZSU5BNW02RC1fZlZETUg3cC1URF9UUERFZ0NBS0xndmZVWVZJRVVUZnVseHVCUjBMaG9xaWN6ODgxWDIxdVE4OXR0QTUwQmFUZGNyQUtPUkxUUkRvdkZNYmRKbWZDMEZOWkVsWnVtMFZLTXVRRjZORDQyOA?oc=5
+- ［女性の働きたい!を応援します～出張就職相談～］福岡県には4つのエリア（福岡、北九州、筑後、筑... - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwWDNNbXNoZ1VxR1UzSUtxSmZtcXZybFotTGdWdElOWEdQcmFieWRfMmQzTXNOUDRya2hWMDNEZ0MxTXJmY3g3cGh1OGxhc3RMeEpWUjQzbzlDVkMtTXRJ?oc=5
 
 - 城南区 育児相談会（母子巡回健康相談） - city.fukuoka.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE5wOHRrVzF3VlZtS0tlNDJkMTVYSFpSakZIaFlNNkN6ZE8yS25OZGtoZGxTTDlUdFpseUZsQXcweVBsc241VlBuaU05S3h1TWRGb19GRGEwMDhQMWcwQ0tCRzJOeWFZQnFjTHRoSVA3R3hpTWpZ?oc=5
 
-- 墨田区主催の区民税務相談に専門家として参加｜相続税に関するご相談を中心に対応 - 税理士.ch
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DaWlTaWlUX1BoME9PdUN0Z3M3TGJFV2RZdlROTHFMcmxIb01vd2x2aXdRb1ZPeDI1d2lIWDdMR1NUV2pOTFo4X0ZGVzZPQ1BWZFFiak01MA?oc=5
+- プロジェクションマッピング等 助成金募集と総合相談窓口|4月 - sangyo-rodo.metro.tokyo.lg.jp
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1hhOUpLUktCRUpicnVlenhjLURXZGREMjRBN0tkbUlMbnY4Zm5NVS1aWWYtTFl6QUVhWi1GemQxcktCS3pvZWQ5UVZLdVA0STZ6TGZlc016ZmtHX0hhcUVGX0FZUEhwVVZuNlo2aVhxa3YybTg5NE81OTJyTF9ySVNHQ2g?oc=5
 
 - 【相談記録・効率化】 電話内容の「可視化・文字起こし」で図る、児童相談業務の「負担軽減」と「質向上」 - 自治体通信Online
   https://news.google.com/rss/articles/CBMia0FVX3lxTE5MOFNZaTA0U3N1ZlN5LVkwaWV6dUV4eWxhVW1zN0Rncm9IV2lHWkFhUlVndzFPRzkzTXI4Y0ZFWDA3UGlfVzRuUWhPcE1PUmpURFFZT1JMYlAzVDZKNVZoMFlLNjc4b2huYlkw?oc=5
@@ -42,21 +45,18 @@
 - 融資の相談、詐欺かも… 被害防いだ信用金庫職員、宮崎南署が感謝状（朝日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZVd6Y2lzYVdjZlBGNGpIVDFOWWduVUVQMnFvdFJHZDBRWHlmd2VhUEEwcjRVdjZ6djY5bGp2U3MzNU92ZmZEd0I0MXhzckpiTmF2MFB3LThXRG5oZ1hEa3g0UUc4SmFQNHpLWS1NMTB6X2lLbGRCdjk0Z3ZUb00?oc=5
 
+- 市民の皆様からのご相談 - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FY3RNeHN1aEY4ZVJqS2x6NVMxbG5wbzEyOVR6S2VMU09fV2w1OXdVNGh4RUNLVm45STJ6dUk5d3dfRm8wc1BzRXp1aklqd0NZYndyX056azQzemxWVkFZ?oc=5
+
 - 【児童相談・システム】 対面相談にタブレット端末を活用し、児童・保護者に最適な支援を届ける - 自治体通信Online
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQVEZTSlRGR01WWTF5QnE1d2d3R01vUmxCQ2sxWGo5MjNiWEY4LU1XbUhuZHpvRkxsOGhhajUweTI2MWtRTW5tcGlHcXdxcXIyVjRXVFJPVGxpczNla1RfMDdEYVE?oc=5
-
-- 苦境ともにした2人…移籍するか「相談も受けました」 戦友が明かした“試合中の涙”（FOOTBALL ZONE） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE01M3lvSmxaRDUzQlpuMVUwUHBKUUxvZi1kb3hGeE50dlhJRTVRQlhNazVONkRNdHQyUHloOEN4QzBrLTFUeVNUemMtV29FZm1aR3hfNUxfWEJ5UWpDTHdKaHUwNzZpRk1pQmJsa3BuNERmWmFIU3E1WmlGaC1xMGM?oc=5
 
 - 車通勤の私には「ガソリン高騰」は悩みの種。「リッター30.9円」の補助金はいつまで続くの？ 「激変緩和措置」のこれからを解説 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE11ZnNVdmZ2MldzNXgwWFJaSE5ITDk4SmM1cUFVYmJLZlB5QjVkQWUwZWs2YXFvZThCOS1yUDYzalNkV3VBQnRBdlhLc2dmU0VCc2hiaXE5TUxuMDRPWWhINEtJLVE1cGhVZFJkTktuTW9YVmpwbmtjMzJZMnVaUmc?oc=5
 
+- 苦境ともにした2人…移籍するか「相談も受けました」 戦友が明かした“試合中の涙”（FOOTBALL ZONE） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE01M3lvSmxaRDUzQlpuMVUwUHBKUUxvZi1kb3hGeE50dlhJRTVRQlhNazVONkRNdHQyUHloOEN4QzBrLTFUeVNUemMtV29FZm1aR3hfNUxfWEJ5UWpDTHdKaHUwNzZpRk1pQmJsa3BuNERmWmFIU3E1WmlGaC1xMGM?oc=5
+
 - 【干場編集長のお悩み相談室】今春買うべきオススメのセットアップを教えてください！ (FORZA STYLE) - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMijgFBVV95cUxNclAyY0l2bXFYdWo5cFlmZUYwTWlqQmp2MGRnbmE4ekpUODBrd0ItTWJuNW9MREpkb3Z3SEhwU09SbXZMUTkwcFFodXhPaWttTXR0b2tUajJjOUVMN2tMN2JJT3kzZTRmSzhZWG02QTFGVUVES1RQUzBVUzFsVXZycmp3YWthOUNiTGQxSkdB?oc=5
-
-- 「困ったときに助けてもらえる人」の親が必ず教えていた、たった1つのルール（ダイヤモンド・オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBUNngtbXM3TmdoSjJEeWJqRXlmOXE0T3NDMWxzblZncUtGVnBuSG5ZMzg0d0NLTmVrQjZiZmtranlJU2N6LTM4clNpTVctc1lIV3Y5Mjdyc0FzeE1JcFNBYkRRcW1abm1UaHVmc0lOcXZVejgyTU5Ca0YzaTdJdU0?oc=5
-
-- あなたの「終活」・「家じまい」どうしますか？トラブル防止へ身近な人と相談…情報共有を（島根）（TSKさんいん中央テレビ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBNZUZmejBfcFc2SzBZNzNEWEVjaWN6OEpteWVhT2h1ZmdOZGEwa1A3a3Y2TWNFbnJXaEp3YlFoeGhzcXVnUnBfN1o5R1BDYnFJNjZvQzJDWG1BcmNqdFZncHNZX0lsdUhwRjNzMWo2Z3ZvWEVGREJpcXRkX2tUbjg?oc=5
 
