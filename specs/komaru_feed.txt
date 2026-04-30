@@ -1,19 +1,22 @@
-=== こまる相談 ニュースフィード (2026-04-30 15:32) ===
+=== こまる相談 ニュースフィード (2026-04-30 16:28) ===
 
 - 大阪府が結婚相談所とタッグ ６月から婚活支援事業「なにわ縁結び」開始へ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMWJSdUZIRnFORFotSTNZX3hXMlNVaGlGaWpuR3N6cS1LeVVUZTY1b3VrWF9UYXNURjl6bnJsbDVyc2Q2RndpYXZPX0V2Tnp1M2FPd1Q2Q3djUGVyd1V6STM3dUo0bWF3dWhpc0NaejFJeGg2ZGVlc1dxQkNBbkU?oc=5
 
+- 「ケア労働者のための全国いっせい5.31労働相談ホットライン」実施の記者会見を開催 - 全国労働組合総連合（全労連）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Z1lKc1U5UzZ3UmhaSTRRLWtpUElNY25HdW55cFBZT2RTbklyRFhmOXJfaVl3c2FqQnNGS0V6ak5fODhDWlFTdW5ta2NEWGlpS1Jr?oc=5
+
 - 令和８年度都立中学校等合同相談会を開催します|4月 - kyoiku.metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMifkFVX3lxTFBqMXNQZzU0SkVTMXR0WUpkV2xqMUFQNF9ITG1Rb08wMk1hbDVGTUVwRjFWNDRkVC1YdXBnRTROa0RHTmFTY1JLa2Vab2JXanpSa3BpUGgxVlVERXlpRDhJU1lTdkpJS1lRRVJENmY0VFVHYk9WbGlMN3llRTZiQQ?oc=5
 
-- 「ケア労働者のための全国いっせい5.31労働相談ホットライン」実施の記者会見を開催 - 全国労働組合総連合（全労連）
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Z1lKc1U5UzZ3UmhaSTRRLWtpUElNY25HdW55cFBZT2RTbklyRFhmOXJfaVl3c2FqQnNGS0V6ak5fODhDWlFTdW5ta2NEWGlpS1Jr?oc=5
+- 悩み事、生成AIに聞いてみよう 佐賀市で悩み相談の実証実験スタート 福祉全般や子育てに幅広く対応 - 佐賀新聞
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XZ0NmQk5jWlB4QWJEOVIwMl9pRFc4UjZHZXRTUTN5UW0xMndmRGpOTEFqdTNCY192V0lDdjJvRGpTcE05Mjk2LWhza3l4c3dkVk5MRGxB?oc=5
 
 - 5月は孤独・孤立対策強化月間です - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvdjNQay1nWE1nSVJYbDVsTk51ejVCMGNpbGdHdUd4U2NQdlJWdzhqR2pRV0E3UHhLaUlTVjBvUkNuOFBodjZzRzczclBaR1RJWUVNOEs4VENUSFh0eGNzNndLSFBXLTkw?oc=5
 
-- 悩み事は生成AIに 佐賀市で5月1日から実証スタート 福祉全般や子育てに幅広く対応 | 行政・社会 | 佐賀県のニュース - 佐賀新聞
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XZ0NmQk5jWlB4QWJEOVIwMl9pRFc4UjZHZXRTUTN5UW0xMndmRGpOTEFqdTNCY192V0lDdjJvRGpTcE05Mjk2LWhza3l4c3dkVk5MRGxB?oc=5
+- AIの悩みを、成果に繋げる、スキル交換の為のプラットフォームです！ - クラウドファンディング - READYFOR
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oQnZKbmRTbkozdHR5UENMOWhoSk1HamZLaEJkRHNORHUzcEJ4YTI1NkFhZEtmeTlVUFdFcmhhTHhsMlhRZ2RxbERZaGF4QmNnMlU5cXlaZHJGSG1sNHFN?oc=5
 
 - 冷やせない「エアコン」に注意 誇大広告で相談増加、実際は送風機能のみ―国民生活センターが注意呼び掛け - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE80d0FqbXI5UEJ0bUw1VVNIUl9veEpldkZPamUwSmhYNUQyam9KOTJiNFZyTkRaeGRpeDdGMFNKQlgtMFdDVERJSjBrUmJlZVYxR29pNks4RE91d3lvRVZnSjcwUQ?oc=5
@@ -27,20 +30,20 @@
 - AIに犯行相談も通報せず 学校銃乱射事件で遺族がオープンAI提訴 [AIの時代] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qTTdSVTNLUzRWV2s4TE4xcl84RG91dzZCSl8tR1hwblFFRHlCOXZNZ1pWeVdmN2ZBaS1UTlFwcWx0TmdYOW5tc0JDZjZoN0tCN3JoN2lBcDE3ZG1NUGtZcDJfR3pDQ1E?oc=5
 
+- 平塚市 訪問療育相談を民間委託 切れ目ない支援体制強化 - タウンニュース
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bc25RT2d0UEFpcUVLYjZDc3FyQ3R1eFdPb2NQWXFJUWFRekRWODFVUm83cGVXWE95X01vNkRsaXpIbGRaR2N2ZVp6aUIwNXhZajBVVHQ3VkN1eXctbjA3STVTWHQ?oc=5
+
 - 外国人相談窓口開始、千葉・銚子 「問題すくい上げる」 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE51dTA2ZGNIQVRXdEFORThuUU5wMnRSRFBwbVZFMWkwRndqQ1JWT01wcU9seDg2YUhxLTVYLWxBOVhyR21BNDRTM1FpOHpUVVFBZ2h5aUxQcG1Tdw?oc=5
-
-- ～ママ振袖・姉ふりコーディネート個別相談会～（清水町 サントムーン） - at-s.com
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdEpuUENyMHlNdnp5WWZrLUhSdi1hNlBKbnpwOXhYMlg2NnJHSXA5dS1QcldTNVFybWxCcWpGUzBSNHpEVUZTVlE0REdXYWl1a1J2MQ?oc=5
 
 - 全国青年司法書士協議会 子どもの養育費 電話相談会 - khb東日本放送
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE92aXhVQmFVbmpvUXNtVEJaVDRBazNPeGdVYTBLd0lwbTN6T19xTzA5Y0ZCSS1UZkhlcDhoSHk5OThtaEh1YTBmR2VYYzQwUHc?oc=5
 
+- ～ママ振袖・姉ふりコーディネート個別相談会～（清水町 サントムーン） - at-s.com
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdEpuUENyMHlNdnp5WWZrLUhSdi1hNlBKbnpwOXhYMlg2NnJHSXA5dS1QcldTNVFybWxCcWpGUzBSNHpEVUZTVlE0REdXYWl1a1J2MQ?oc=5
+
 - 発達障害の悩み親身に…当事者の栗山健さんが新潟市でバー運営「ふらっと立ち寄れる店に」 - 新潟日報
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE56WGFCNWE4UDdUcGJtLVpFM3pPTHVIN3pYRHVmb242MmdUUldJZEdMOGRVNFNvV0xPQjgwQ1ZTS3ozVms0clRJc3prZ3NDQWVrOUJFV0ZSMmNqdGJEcWc?oc=5
-
-- 【県下初】自宅がそのまま相談窓口に。スマホで完結！ 保育所入所のオンライン相談を常設します - サンスポ
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxNeVI2VVRsN2d5T3B1QnF3Mm1YbHp4UkFHeGZnX3E0ZzhMZTdGN0FkeEpBZE1WMUhJaUd1TEpNWWRjcnlKSmIwaHJUZkpXZHpyUkZuTHByWUpxbExabHBBVFJvN0xHdjByNHNDSlE4dGc1SVlETklxRVE5Mkc1cWhnalN3?oc=5
 
 - 5.31「ケア労働者のための労働相談ホットライン」 - 全国労働組合総連合（全労連）
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ld3cxN1ZRaFY1NFBjeW1MYzF1NjBmSmhTLWd4R0dxUXgtMFRmamNlRUpJR1BFWURvOVhUM09uc1JrdGw0bG5QNVEweEFPMGV4MUdJ?oc=5
@@ -56,7 +59,4 @@
 
 - 高橋成美さん 短時間睡眠の悩みを告白 大久保佳代子が同情「え～！？しんどそう」（スポニチアネックス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1pMU9vdzVDR25NT3A1ZG1ZZzFwTUZ4NVR5a010SnljU0FDYktMUi1qc1R5Y2tGdFk2Y3hjbTc1akFoME84ZDdQYXJaZzVmUDVqRTFYaUpEYktIWjFtSkRyMzZZb2lmYk9EMHVsSWo0M3lZeWk2T29OdHRHZlNRUnM?oc=5
-
-- 中東情勢の影響受ける中小企業対象 大阪市が無料の相談窓口を設置中 経営アドバイスや市融資制度の申請も可能 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBIVS1QQkxIcWM2THJaUlVmemd4Q0RreHBJUTA2QUZCOGgyRHVUMjVmaURkU0xfejZTbUJrNlJGTndwNTdTaVlWQ1RjamRMZWlBVnRLd0tpcHItN19wSm5reDVZc1Jmd3kxWVZQRjJJbUdTR0gzQTQzOWhlcFJ5c0U?oc=5
 
