@@ -1,22 +1,19 @@
-=== こまる相談 ニュースフィード (2026-04-30 16:28) ===
+=== こまる相談 ニュースフィード (2026-04-30 17:28) ===
 
-- 大阪府が結婚相談所とタッグ ６月から婚活支援事業「なにわ縁結び」開始へ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMWJSdUZIRnFORFotSTNZX3hXMlNVaGlGaWpuR3N6cS1LeVVUZTY1b3VrWF9UYXNURjl6bnJsbDVyc2Q2RndpYXZPX0V2Tnp1M2FPd1Q2Q3djUGVyd1V6STM3dUo0bWF3dWhpc0NaejFJeGg2ZGVlc1dxQkNBbkU?oc=5
+- 令和８年度都立中学校等合同相談会を開催します|4月 - kyoiku.metro.tokyo.lg.jp
+  https://news.google.com/rss/articles/CBMifkFVX3lxTFBqMXNQZzU0SkVTMXR0WUpkV2xqMUFQNF9ITG1Rb08wMk1hbDVGTUVwRjFWNDRkVC1YdXBnRTROa0RHTmFTY1JLa2Vab2JXanpSa3BpUGgxVlVERXlpRDhJU1lTdkpJS1lRRVJENmY0VFVHYk9WbGlMN3llRTZiQQ?oc=5
 
 - 「ケア労働者のための全国いっせい5.31労働相談ホットライン」実施の記者会見を開催 - 全国労働組合総連合（全労連）
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Z1lKc1U5UzZ3UmhaSTRRLWtpUElNY25HdW55cFBZT2RTbklyRFhmOXJfaVl3c2FqQnNGS0V6ak5fODhDWlFTdW5ta2NEWGlpS1Jr?oc=5
 
-- 令和８年度都立中学校等合同相談会を開催します|4月 - kyoiku.metro.tokyo.lg.jp
-  https://news.google.com/rss/articles/CBMifkFVX3lxTFBqMXNQZzU0SkVTMXR0WUpkV2xqMUFQNF9ITG1Rb08wMk1hbDVGTUVwRjFWNDRkVC1YdXBnRTROa0RHTmFTY1JLa2Vab2JXanpSa3BpUGgxVlVERXlpRDhJU1lTdkpJS1lRRVJENmY0VFVHYk9WbGlMN3llRTZiQQ?oc=5
+- AIの悩みを、成果に繋げる、スキル交換の為のプラットフォームです！ - クラウドファンディング - READYFOR
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oQnZKbmRTbkozdHR5UENMOWhoSk1HamZLaEJkRHNORHUzcEJ4YTI1NkFhZEtmeTlVUFdFcmhhTHhsMlhRZ2RxbERZaGF4QmNnMlU5cXlaZHJGSG1sNHFN?oc=5
 
 - 悩み事、生成AIに聞いてみよう 佐賀市で悩み相談の実証実験スタート 福祉全般や子育てに幅広く対応 - 佐賀新聞
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XZ0NmQk5jWlB4QWJEOVIwMl9pRFc4UjZHZXRTUTN5UW0xMndmRGpOTEFqdTNCY192V0lDdjJvRGpTcE05Mjk2LWhza3l4c3dkVk5MRGxB?oc=5
 
 - 5月は孤独・孤立対策強化月間です - city.maizuru.kyoto.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvdjNQay1nWE1nSVJYbDVsTk51ejVCMGNpbGdHdUd4U2NQdlJWdzhqR2pRV0E3UHhLaUlTVjBvUkNuOFBodjZzRzczclBaR1RJWUVNOEs4VENUSFh0eGNzNndLSFBXLTkw?oc=5
-
-- AIの悩みを、成果に繋げる、スキル交換の為のプラットフォームです！ - クラウドファンディング - READYFOR
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oQnZKbmRTbkozdHR5UENMOWhoSk1HamZLaEJkRHNORHUzcEJ4YTI1NkFhZEtmeTlVUFdFcmhhTHhsMlhRZ2RxbERZaGF4QmNnMlU5cXlaZHJGSG1sNHFN?oc=5
 
 - 冷やせない「エアコン」に注意 誇大広告で相談増加、実際は送風機能のみ―国民生活センターが注意呼び掛け - 時事ドットコム
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE80d0FqbXI5UEJ0bUw1VVNIUl9veEpldkZPamUwSmhYNUQyam9KOTJiNFZyTkRaeGRpeDdGMFNKQlgtMFdDVERJSjBrUmJlZVYxR29pNks4RE91d3lvRVZnSjcwUQ?oc=5
@@ -27,8 +24,14 @@
 - AIストーム×MCEI東京、「AI活用よろず相談会」始動 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5yTHo2cGJfYnktQjBlUWZsR2xYSHdMNkhqZmtMTlI3ZGlpYlJrdldQNTUyY3FuUlhUdjRUakRJdWRuV1F2THBqZFAwcl9RR3lXUll6X0VOdk1hTDhyNFZYeV9LYzlHamt2WXc?oc=5
 
+- 悩みがあったら「傾聴型ＡＩ」に教えて 福島・白河市が相談窓口を開設 24時間対応 チャットでやりとり（河北新報） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBvNFJPZF9oczJ6bTlXTlBkZW9XZTRsd1BQanhwUDNESlNSUkJOc3ZpUG4wT21XaWF5TmM5MEtibzNxSDBLdmFNTTZrUVNqX3lGNnRsbzY0M05XNzdyVXUxd1FkVmpTTTdXdE00RjRTMzRQazQ3V3AzNVBDRGdfT2M?oc=5
+
 - AIに犯行相談も通報せず 学校銃乱射事件で遺族がオープンAI提訴 [AIの時代] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qTTdSVTNLUzRWV2s4TE4xcl84RG91dzZCSl8tR1hwblFFRHlCOXZNZ1pWeVdmN2ZBaS1UTlFwcWx0TmdYOW5tc0JDZjZoN0tCN3JoN2lBcDE3ZG1NUGtZcDJfR3pDQ1E?oc=5
+
+- 「児童相談所の訪問は“偶然”か、それとも…」疑いがすべてを狂わせた。壊れた“ママ友関係”の行き着く先は… - with class
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE5qUy05ZG1aR1VPaU5HZHk4dXBxQWdIVElUWVhQcTZfMGhURVNYd3VfM0padTd1aGNMRXBhN1pnai1pbWVhY3lGNGJoU1BGbHA3RERQNHktVzFZMy01UVRydkVBNDRKbHp1aDRPcFFPUnd1Mk0?oc=5
 
 - 平塚市 訪問療育相談を民間委託 切れ目ない支援体制強化 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bc25RT2d0UEFpcUVLYjZDc3FyQ3R1eFdPb2NQWXFJUWFRekRWODFVUm83cGVXWE95X01vNkRsaXpIbGRaR2N2ZVp6aUIwNXhZajBVVHQ3VkN1eXctbjA3STVTWHQ?oc=5
@@ -42,6 +45,9 @@
 - ～ママ振袖・姉ふりコーディネート個別相談会～（清水町 サントムーン） - at-s.com
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdEpuUENyMHlNdnp5WWZrLUhSdi1hNlBKbnpwOXhYMlg2NnJHSXA5dS1QcldTNVFybWxCcWpGUzBSNHpEVUZTVlE0REdXYWl1a1J2MQ?oc=5
 
+- 【福祉DX・M365】 悩みに寄り添うAIチャットボットが、「相談しやすい窓口」づくりの礎に - 自治体通信Online
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zclR3d29TX2Zzb0RhX1RWbWhXenA5NV9mcHFCbWZPOF9KeFdCS29iSHA5aGptTG43NjRLYmxmbXdOaHRjNGpTY1YzbG1ibXN0QUxLVXVhaFlZaFp4ZkdJZ3NOOENhd1U?oc=5
+
 - 発達障害の悩み親身に…当事者の栗山健さんが新潟市でバー運営「ふらっと立ち寄れる店に」 - 新潟日報
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE56WGFCNWE4UDdUcGJtLVpFM3pPTHVIN3pYRHVmb242MmdUUldJZEdMOGRVNFNvV0xPQjgwQ1ZTS3ozVms0clRJc3prZ3NDQWVrOUJFV0ZSMmNqdGJEcWc?oc=5
 
@@ -51,12 +57,6 @@
 - 6月7日新宿開催 令和８年度「都立中学校等合同相談会」を開催|4月 - metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE5aN3F0TjZuVFJ0a1JfNUtkbkpZSWIzcUF0SVNIUFhMWkNuVzNSTnU1by1SWmJaOXAzNFJiNzV0ZzhDb0NyVFZVSUhyUlFRMUJORHpKbzZVYk5SQnB1WmM3aGZDLS1LNDlkVUtSZ0lfQmZ0cm5w?oc=5
 
-- 悩みがあったら「傾聴型ＡＩ」に教えて 福島・白河市が相談窓口を開設 24時間対応 チャットでやりとり（河北新報） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBvNFJPZF9oczJ6bTlXTlBkZW9XZTRsd1BQanhwUDNESlNSUkJOc3ZpUG4wT21XaWF5TmM5MEtibzNxSDBLdmFNTTZrUVNqX3lGNnRsbzY0M05XNzdyVXUxd1FkVmpTTTdXdE00RjRTMzRQazQ3V3AzNVBDRGdfT2M?oc=5
-
 - 冷やせない「エアコン」に注意＝誇大広告で相談増加―国民生活センター(時事通信) - Yahoo!ファイナンス
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOdGFYV1FyY2s1ajFKR0NMV2tVLUliVmVadF9KbURQbnRrdkdfSlhXX01GSUR4a1ZRSkZUVW14cHNUQ0pmRjJwUklPLU1qWXdiaTdHMGdCLUc1LUpLT25EYmZNVU1lSnpTYUNLLVp4dlNXVEQzOS1mLXBCdTRKNkUxN28yRlR4RzA?oc=5
-
-- 高橋成美さん 短時間睡眠の悩みを告白 大久保佳代子が同情「え～！？しんどそう」（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1pMU9vdzVDR25NT3A1ZG1ZZzFwTUZ4NVR5a010SnljU0FDYktMUi1qc1R5Y2tGdFk2Y3hjbTc1akFoME84ZDdQYXJaZzVmUDVqRTFYaUpEYktIWjFtSkRyMzZZb2lmYk9EMHVsSWo0M3lZeWk2T29OdHRHZlNRUnM?oc=5
 
