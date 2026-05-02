@@ -1,10 +1,16 @@
-=== こまる相談 ニュースフィード (2026-05-02 14:17) ===
+=== こまる相談 ニュースフィード (2026-05-02 15:14) ===
 
 - 事業者向け相談窓口「いばらき経営サポートデスク」を開設しています - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxONVMzdnZYRUtKbmJhdmxwNzFEbEg0MlN1TllFcHFKTE44ejV2X3F2QmpDbEJiMkc5QnFTdEdLWUdtNi1wZDR4MlFiVTNEckd1ZzRseHFtc3VKcW51a3BJYUNpNjlVb2RKck9lMVRTSlZQX0kxWmFqX2JUclF6QUVjUU9qVEJiejU1dURXQQ?oc=5
 
 - 令和８年度都立中学校等合同相談会を開催します|4月 - kyoiku.metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMifkFVX3lxTFBqMXNQZzU0SkVTMXR0WUpkV2xqMUFQNF9ITG1Rb08wMk1hbDVGTUVwRjFWNDRkVC1YdXBnRTROa0RHTmFTY1JLa2Vab2JXanpSa3BpUGgxVlVERXlpRDhJU1lTdkpJS1lRRVJENmY0VFVHYk9WbGlMN3llRTZiQQ?oc=5
+
+- 豊橋市の東三河総合庁舎内に、知財の臨時相談窓口を開設 - 東愛知新聞
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wS0wtMWh4V2lJNldmcExZcngtUjJvMWtTWjVXUDB3eVphc3FxX1ZRcFEtMFhHZW93OXJsUHlCZHpuaGtuN3B3VXVZMTFzRXNBUnlOMVFud3RQZFNp?oc=5
+
+- 親御さん向け結婚相談会を開催します - city.maebashi.gunma.jp
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxSjIzYkVfNGZycHQxWG9vTjMyRVd3VU10dEZldk9ZSzN1MzRBZFdydkEySlMyX3pBaHZkXzRvb2oyVEdSd1o2ajBDOHVxcm5lOVFuYXBDV19uQjg?oc=5
 
 - 悩み相談でAI、10代女性の過半 男性は30代最多29% 消費者委調べ - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9ncGJPNFhkY0ZaZ0J1NjV4SndFNTI1WGNGNFAtcl9fVksyVG5YWEEyQ0VRcUxFU1QxME1OcWh4RERLOFYzUTc3U0xiRUxhdEQ1V0RLNGUxNnN1dEUyT08zZmpzTEVUUEQ3bkpFMg?oc=5
@@ -18,14 +24,14 @@
 - 底地権付きの不動産取得で誰に相談しますか？【アンケート結果発表】 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5nZUVtNU1YT1VlZUcxVHVnY1AwT3J3dDIxeGZZUTh4cFVQeDJWWnh2T1ZtZy1Ib2wxaU9TbUdlbEtpRmprdUpsbDV2aHVZbURZc2NPZ3k4VHViOUpUcW8zWGcxbXdHZUEyeVE?oc=5
 
+- 孤独・孤立対策強化月間における「孤独・孤立相談ダイヤル ＃9999」等の実施について - city.funabashi.lg.jp
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1hejNSRldvZ1Zyb24zQmYyQmRvcll3bzU2SUR0SjQ3T09oWTUxdWNCMXIyUWdZM2NZR0U5eGpPc09ZYUN0MnRjNTZXSHVBdVlzTy1nX2NqcUN3UEdSdThGVjVDWWFyX3VyV2ZuMUhzTjRRUQ?oc=5
+
 - LINEヤフーが対話型AIの新サービス開始 観光ルート提案、相談相手に - 観光経済新聞
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BTVhmN25NV2wxakg5VUdfV0xjb1QtcERFampRZ0ktWGdMMVJ2VFh5RHRvX3lqRVBvNzF1ZXdVZktLTU1pODM5akZ5WlB3aTVrZGtUdg?oc=5
 
 - 生成ＡＩは「悩み相談相手」１０代女性の半数回答 悪い影響は「ない」最多 - 岐阜新聞デジタル
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZjhIMThxR2FaNXFKbHFxRjVES0JRZVdMa21fcTcwTTYwT3VydFIwOUtzUlBFZDB6ZnRYUmxDdFlnVGRnVC1wZ0tnZEo5ZkVCSVVwbnNn?oc=5
-
-- 孤独・孤立対策強化月間における「孤独・孤立相談ダイヤル ＃9999」等の実施について - city.funabashi.lg.jp
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1hejNSRldvZ1Zyb24zQmYyQmRvcll3bzU2SUR0SjQ3T09oWTUxdWNCMXIyUWdZM2NZR0U5eGpPc09ZYUN0MnRjNTZXSHVBdVlzTy1nX2NqcUN3UEdSdThGVjVDWWFyX3VyV2ZuMUhzTjRRUQ?oc=5
 
 - 【横須賀市】ゴールデンウィーク期間中「孤独・孤立相談ダイヤル#9999」開設 - 湘南人
   https://news.google.com/rss/articles/CBMicEFVX3lxTE9oem1jYUU5bjJYQXlwVHF3S2F6V2Z6OUhrS1g4cGFRUFFaWFFuTGZUNlhoMHhKdjZ5TmZyMW05UUVKZ0VaV0RHblFvRi16YzdVVnVoZG5JLW9IMXQzang4N0w4aHEtSlJLd016YnlyYlA?oc=5
@@ -48,15 +54,9 @@
 - 【5/30-31】キャンピングカー選びの疑問をオーナー様に直接相談！リアルな声が聞ける特別イベント開催決定！ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE12TG16a2hoaDM1MzdCWDdYMkdpLU9HLVJWLWw3OV9NajRsd21LZVpaTnFRMEhfN2xuN3hvZ1M0TUpVa3lhc0pqMHRwYkVnOF81WGZ6S2ZKYVdQTWJHdDlNUGNLU0JXbEMtOUE?oc=5
 
-- 【鎌倉市】養老孟司先生の人生相談番組エピソード46「和菓子がどんどん減っていきます」ボックスにて配信開始 - 湘南人
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE5WX2puVGM3M2xnaHNSZXdmMFR4allObHdJUTVQanc4ZXc3Sm9RRmp4eHo3SzIyWUNYWkZUdVlLNkZvX3VQQk5yUFVqUjFtTUxuQkFsb3RPanhNWTJpOFNseFg3bVpoZ0NYVFV4OGFR?oc=5
-
-- ボリューム・まとまり・丸みの悩みを抱えるマダム→こなれ感のある地毛風パーマでより上品に大変身！ (LIMO) - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2M5NFJDN2N3LWNPNUxWNHlScVVYUjIzNlp6YUJOdWNqZUYxcmRtbE1XNFhuYUhrQWRlM3lxVDdsTUdHQkhYdWwxWXFCSXIzRm9lQlF0a0xBTndpQ0gyc0k4OG1nS0VUeGxKVURXbnZmNmtrVWk1WmRnSllreTduVnA0NUN1amdMQ3dUMHVR?oc=5
-
 - 「待ち時間67分」が「23秒」に激変…1.5億件の相談を処理したソウル市「120」驚異の改善術（KOREA WAVE） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9kUDktbzhaWmxHMFB2ZWwzSE9KYXB5X0s3MjNKWGRzc21MVllKSVIxanpQVDlhVGIxRG5KZ1d1cVZCZkF6TDBzbmdBNER5UjI1cXptblJBNlhEQU9Zd2stdlNKcmdXYzMwcFpBdEQ3M0NkaG4zejZjOXRDZXBQc3c?oc=5
 
-- 福井の美容師、顧客から多くの髪の悩み聞き…1年かけてシャンプーとトリートメント完成、商品化へ 天然由来成分にこだわり - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9WWUlON2ZXY3dSejZWTUdFeVRsZ0ZSUzJUSG5ESXFCS0FMT1AtQnpPWVEtbUFhcVhLeE5LSGVIc1IwN2NuaHZfeDdZSXVvYlVQczVUYloySEttNzJlN3E5ejJxM1JEa3NaM1V6OF9MWTNlMnRMWFk2alVMdlp2TUE?oc=5
+- ボリューム・まとまり・丸みの悩みを抱えるマダム→こなれ感のある地毛風パーマでより上品に大変身！ (LIMO) - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2M5NFJDN2N3LWNPNUxWNHlScVVYUjIzNlp6YUJOdWNqZUYxcmRtbE1XNFhuYUhrQWRlM3lxVDdsTUdHQkhYdWwxWXFCSXIzRm9lQlF0a0xBTndpQ0gyc0k4OG1nS0VUeGxKVURXbnZmNmtrVWk1WmRnSllreTduVnA0NUN1amdMQ3dUMHVR?oc=5
 
