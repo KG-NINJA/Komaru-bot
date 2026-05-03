@@ -1,13 +1,16 @@
-=== こまる相談 ニュースフィード (2026-05-03 01:32) ===
+=== こまる相談 ニュースフィード (2026-05-03 03:01) ===
 
 - 事業者向け相談窓口「いばらき経営サポートデスク」を開設しています - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxONVMzdnZYRUtKbmJhdmxwNzFEbEg0MlN1TllFcHFKTE44ejV2X3F2QmpDbEJiMkc5QnFTdEdLWUdtNi1wZDR4MlFiVTNEckd1ZzRseHFtc3VKcW51a3BJYUNpNjlVb2RKck9lMVRTSlZQX0kxWmFqX2JUclF6QUVjUU9qVEJiejU1dURXQQ?oc=5
 
-- 豊橋市の東三河総合庁舎内に、知財の臨時相談窓口を開設 - 東愛知新聞
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wS0wtMWh4V2lJNldmcExZcngtUjJvMWtTWjVXUDB3eVphc3FxX1ZRcFEtMFhHZW93OXJsUHlCZHpuaGtuN3B3VXVZMTFzRXNBUnlOMVFud3RQZFNp?oc=5
+- 介護・障害福祉サービス等職員カスタマー・ハラスメント総合相談を開始 - 老施協デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sdTBMMV9vRGQ3Z19LdEFVeVFNNFRDNEM1ZWJQVTF1Um9IMXdmcVVJWHdIeDdBRHdxSVpwT0xFcVRwbDgzSGd4RHo3XzcwRWtaMUNZ?oc=5
 
 - 令和８年度都立中学校等合同相談会を開催します|4月 - kyoiku.metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMifkFVX3lxTFBqMXNQZzU0SkVTMXR0WUpkV2xqMUFQNF9ITG1Rb08wMk1hbDVGTUVwRjFWNDRkVC1YdXBnRTROa0RHTmFTY1JLa2Vab2JXanpSa3BpUGgxVlVERXlpRDhJU1lTdkpJS1lRRVJENmY0VFVHYk9WbGlMN3llRTZiQQ?oc=5
+
+- 豊橋市の東三河総合庁舎内に、知財の臨時相談窓口を開設 - 東愛知新聞
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wS0wtMWh4V2lJNldmcExZcngtUjJvMWtTWjVXUDB3eVphc3FxX1ZRcFEtMFhHZW93OXJsUHlCZHpuaGtuN3B3VXVZMTFzRXNBUnlOMVFud3RQZFNp?oc=5
 
 - 「ChatGPTに悩み相談する人は危ない」東大教授が警告する“超思考停止社会”の恐ろしすぎる現実 - 現代ビジネス
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CdUZScENtU0poOWlna19yaTlSOXpnQzBJX05GSGxoR1BXYVlDZmJWUTZqeXZvZ2VHOVR0bVFvMjhjby1vSXZ1NUlfMWQ5VXM?oc=5
@@ -21,32 +24,26 @@
 - (宝の地方議員)相談は、絶対断らない 文京区 松丸昌史議員 6期 2026.5.3付 - 公明新聞電子版プラス
   https://news.google.com/rss/articles/CBMibkFVX3lxTE1jN29KeEFPVVJUcnRXb3RpaDJISk13Sm1tZVN0QmtFd1FYNlhab3ExX1NNWmxHakF2dEhkUlBzWWtqSzVlV21xLXhBM0ZRMk8zdnlVTm50dEw3Rzcza1hObnVqVzR1Y0JBVnBrOG9B?oc=5
 
+- 高知県からの謝金は「不正受給」？自殺防止に取り組む「いのちの電話協会」で内部対立 相談員は「そんな研修受けてない」 - kochinews.co.jp
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE91UURvNms2a3RaclpmRElFMk4za05lbFlqRzAwRnZ4V0NER2h1OFZrbEJGSDBEVi1QLWhZak54RDVOdlFzVXZMMkdxTnpnODFKYnBIZWpERWxOT2laQkE?oc=5
+
 - 孤独・孤立対策強化月間における「孤独・孤立相談ダイヤル ＃9999」等の実施について - city.funabashi.lg.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTE1hejNSRldvZ1Zyb24zQmYyQmRvcll3bzU2SUR0SjQ3T09oWTUxdWNCMXIyUWdZM2NZR0U5eGpPc09ZYUN0MnRjNTZXSHVBdVlzTy1nX2NqcUN3UEdSdThGVjVDWWFyX3VyV2ZuMUhzTjRRUQ?oc=5
 
 - 心の悩み気軽に相談を 神戸市がGWも臨時開設「こころといのちの電話相談」 - サンテレビ
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LQ0JmOHpKNU1mOGgwUWI1aG5KN2dfZjdQQTY4NWR3dVY4enRFTExSdUdEYWhlZVI0Rks4X1p2RXFsN2Q3NVVlX2tVVGt3M3dzY1BjQmhWZTB2ajdKUTFRanVQa3VDS050?oc=5
 
-- 【干場編集長のお悩み相談室】ロープロファイル・スニーカーとは？ おすすめの一足と履きこなし方を教えてください！ - FORZA STYLE
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IWGxncFBHLUl6MVhXQmFoZDFvRGg3MjV6Q3NhNmN3NURDa25DNHhzaFZXZWxDZjN2ZURDR1FYYklRZUxGazdfRlBxRkUwWEMy?oc=5
-
 - 認定がん相談支援センター - ncc.go.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxQNi0xWEJDQnRJMXBRQV85NUNycm5ucS1rcU43eGNVQjJYeENKNkJ4WjhnbVVqY014cWZPX2VQcXFMWFdHN2I1NElFRmp1cnQtQ2lCN1AxWkQxdVoyWkwyU1FDbzNfM1Q1U3dBN3NFQlRuTVJVQVh0NWZ0bnJRSjIzd1U5b2F6V3ZtUFE?oc=5
 
+- 【干場編集長のお悩み相談室】ロープロファイル・スニーカーとは？ おすすめの一足と履きこなし方を教えてください！ - FORZA STYLE
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IWGxncFBHLUl6MVhXQmFoZDFvRGg3MjV6Q3NhNmN3NURDa25DNHhzaFZXZWxDZjN2ZURDR1FYYklRZUxGazdfRlBxRkUwWEMy?oc=5
+
+- 和久田麻由子、ゴールデンウィークの予定＆悩みを明かす「牧場にも行ってみようかな…」 - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMinwFBVV95cUxOT0tycEVha3VMS0JwblZfZXR3WVkxcXctRHdGRXljQ2FrT1ZMZmx5VkFZNm9mb3RlZHVPWU9lR1FBUDRpUWEwajdEOFAwQkxjLVZrYU90eVBxMm1KdUxCaUt1VGRDVEpOLW9oZ0xvN0o1MHVCMDh5X1dvMmZVbFpLb3h1cmI5MkQ2SlVpU3hEblNYOWc1Y1ZkZHFkQ08zcHPSAaQBQVVfeXFMUDBDR2JWMmp5ZmNVWlY0c3pVa1drYVotQkVoZ3YyWVZKUjBVWXB3TzNZajhaNlBfT2VvdHBhLXRRdjNDWlZqTE9OV1pDYzVlWUNjazRwUTNlUE5Kd0JQZ3FsV1lxNk9HM3hUYlFPSElLUF9ndFJFX3VOQlVEemhYYVBVZFc0bXVrUVlYZXRmRE5DNFZ3aHFiS2VVWHg3OElPRTc5aUs?oc=5
+
 - おやこあんしん相談 - city.nagareyama.chiba.jp
   https://news.google.com/rss/articles/CBMiekFVX3lxTE54dUZDTTh6cE5tWnJualoxZVpQUU9CQmJVWGtEQkg1dzZxdHFmWXhtLXA1end2UW1MYVI3WVNVVlVnMDdDbHlTNFlxUTVlcktLTlBURHRTcjlYaElKTi0tcjRfUS1rMTdTb3dhWE1PR1JBdHJYWGVVUWZB?oc=5
-
-- 米長官の元相談相手に有罪｜四国新聞WEB朝刊 - 四国新聞
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE1aRWR6ckJRejYxYTZwOHFiaDF6blh4R0VId2xrRGR2VkVHb0docXRCSjV5dzRJOFFYdjkzMmhIcVhMOTBrZFNib2xoQTlGU21XUGR0UGVRamhYdi1pNjlmenFnbnBfZE9aQ3RzSUZhbzVvTVplelJn0gF8QVVfeXFMTV9Vd2duUlpOaUpxWFEwbTZhSGNFWW5ZcV9qdl9sNTNtWlhmaGpBLTZMMU5QSWFwbzA2R054d3NDa2xmQXN5TklfdW9oczVMclVEZ3pNdEthZ2xjMXlSTm91RllsanhCbjE2RzloYnFNTzZleEtJLVJGWHQzcA?oc=5
-
-- 令和8年度 子どもの心配ごと長岡市内の相談機関一覧 - city.nagaoka.niigata.jp
-  https://news.google.com/rss/articles/CBMie0FVX3lxTE8tR1NLbmdrMHFTdG9BbzZGVlkzZm0zeFRFZDQzWnRFb2JYbFN5QVlCYlFvMEtTQ0pvOU1lSGo3eThwNGJfYVZSYkZPSUl4SFA1eFRCVzd1b2VCRm40c2hvVTNmN2hFbDhjTkhRMWpoWmNCQk9XbXM4T1FqRQ?oc=5
-
-- 悩み相談でAI、10代女性の過半 男性は30代最多29% 消費者委調べ - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9ncGJPNFhkY0ZaZ0J1NjV4SndFNTI1WGNGNFAtcl9fVksyVG5YWEEyQ0VRcUxFU1QxME1OcWh4RERLOFYzUTc3U0xiRUxhdEQ1V0RLNGUxNnN1dEUyT08zZmpzTEVUUEQ3bkpFMg?oc=5
-
-- 福祉の総合相談員（CSW） - city.osaka-izumi.lg.jp
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHVuWktwNEpDeGRnNlpYRG5lRUZSYkNGY2M0TkZsSW41MERpZWY1N3JKSVVlLWdDc1A0eWlzOWFpTTlmUVFBNDhLODZkQmtNNV9SRDhnaGhEbW9aam05YmozU19wNjlyUXppOElpLWM4Y0JNWS12ODBGM1Z3X08zRWVGREs4UHBZVmVqUWE1NA?oc=5
 
 - 【干場編集長のお悩み相談室】ロープロファイル・スニーカーとは？ おすすめの一足と履きこなし方を教えてください！ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMijgFBVV95cUxOMU9Bek5fb1k2alBjTDlDZ0tVN2g0dGpPNWREQzZ3VmtIbmkyNU9xWG1fUDdNajJ4cjVWVFNEeVdXVEJsd19LeUNSakd0SmNISDdQWDEyUGZWcHN1c0FlclhpZEJmVkF4c1p0ek1YTFpTdUZlaXFYQlhLcDN6cURsbG8yS2d1V0JCUFJ0MTZR?oc=5
@@ -54,9 +51,12 @@
 - 令和8年度 みどりの相談会・学び舎（まなびや） - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxPejBINkhDTl9HQ1E3eE84Y2JIWTRVemtlcEZrckozVFdCYU9XLXNqME52M2NmU0FvaDBxTjliRVlQeTlPZHNjREkxZFoxN0FjTmFOa0ppazJvTzhzTUVfM1RYS0RfYy1XRzFDS1dXVnk2Tll4eUdWZEVZTVhmSzg5cA?oc=5
 
+- 《悩みなんて10年スパンで考えれば消えるもの》加藤綾菜さんが語る“前向きメンタル”のつくり方「考え方を変えるだけでしんどくなく生きられる」 - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBBRHNIYlJqWFdvMXFjT2U2NmFiWmRQY2htQ3pIbDc3MTgwOVc5V05TVFVHWE85aVRfOXZBeGROamRzd1RSUHlFUk5sdEZiQWZxbVNvbXhKOUNJRFotRm05cm8zLVMzaVJsTjNtWtIBckFVX3lxTE52X0JWdlVLMDJHMkc2ZFczMFJrU1ViSmZVbFI0QVI0ZlRnU0c1WHdyMDkwNXgtcS1vaWpQeWlQUGV3alFzWWZvWjJDcW12a2xXTnJTSFY3N2JsMWV2elQ0SUMtTk9URVlZdUVpVEVMYmZOQQ?oc=5
+
+- 【漫画】「ランドセルはピンクがいい！」息子の一言に悩む母… ラン活の“解決策”に「うちも悩みました」【作者取材】（オトナンサー） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBYek00ZmtDczh0bnR6d2E2NmR2MWF5Ukw3eGtGYVJMQ2RkVVBqcjE1N3ZwWC10ckpsN0JrNE1DSHZnbUlKdVRBa0hlcF9rQW05SGxPbEoxeGtmUmF0N2J0bkQzcDNYMlBIeUJranNrRkZwMnVCREFIcjJjdXBVakE?oc=5
+
 - 大阪府が結婚相談所とタッグ ６月から婚活支援事業「なにわ縁結び」開始へ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMWJSdUZIRnFORFotSTNZX3hXMlNVaGlGaWpuR3N6cS1LeVVUZTY1b3VrWF9UYXNURjl6bnJsbDVyc2Q2RndpYXZPX0V2Tnp1M2FPd1Q2Q3djUGVyd1V6STM3dUo0bWF3dWhpc0NaejFJeGg2ZGVlc1dxQkNBbkU?oc=5
-
-- 阪神・中野 代打で４戦３の２、３打点 スタメン復帰は「体と相談しながら」（デイリースポーツ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFB2bkM2a2JoTlJXWGNBZVBMUmtIT1hCaUdXa090bFdjSE51MC1HWVBra3kxcGRPV1JaNDJ0bDVHVUlvWmxKVkdFdEx2MHp1TjAwV1FId2p5ZnRMSTVBV055d0JRV3RwZGRoclFzLWp5LWRhSEhnTjJTbmgzRnZ6Yk0?oc=5
 
