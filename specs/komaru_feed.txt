@@ -1,10 +1,10 @@
-=== こまる相談 ニュースフィード (2026-05-03 06:47) ===
-
-- 事業者向け相談窓口「いばらき経営サポートデスク」を開設しています - city.ibaraki.osaka.jp
-  https://news.google.com/rss/articles/CBMijAFBVV95cUxONVMzdnZYRUtKbmJhdmxwNzFEbEg0MlN1TllFcHFKTE44ejV2X3F2QmpDbEJiMkc5QnFTdEdLWUdtNi1wZDR4MlFiVTNEckd1ZzRseHFtc3VKcW51a3BJYUNpNjlVb2RKck9lMVRTSlZQX0kxWmFqX2JUclF6QUVjUU9qVEJiejU1dURXQQ?oc=5
+=== こまる相談 ニュースフィード (2026-05-03 07:34) ===
 
 - 介護・障害福祉サービス等職員カスタマー・ハラスメント総合相談を開始 - 老施協デジタル
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sdTBMMV9vRGQ3Z19LdEFVeVFNNFRDNEM1ZWJQVTF1Um9IMXdmcVVJWHdIeDdBRHdxSVpwT0xFcVRwbDgzSGd4RHo3XzcwRWtaMUNZ?oc=5
+
+- 事業者向け相談窓口「いばらき経営サポートデスク」を開設しています - city.ibaraki.osaka.jp
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxONVMzdnZYRUtKbmJhdmxwNzFEbEg0MlN1TllFcHFKTE44ejV2X3F2QmpDbEJiMkc5QnFTdEdLWUdtNi1wZDR4MlFiVTNEckd1ZzRseHFtc3VKcW51a3BJYUNpNjlVb2RKck9lMVRTSlZQX0kxWmFqX2JUclF6QUVjUU9qVEJiejU1dURXQQ?oc=5
 
 - 豊橋市の東三河総合庁舎内に 知財の臨時相談窓口を開設 2027年3月10日まで - 東愛知新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wS0wtMWh4V2lJNldmcExZcngtUjJvMWtTWjVXUDB3eVphc3FxX1ZRcFEtMFhHZW93OXJsUHlCZHpuaGtuN3B3VXVZMTFzRXNBUnlOMVFud3RQZFNp?oc=5
@@ -29,6 +29,9 @@
 
 - 「ChatGPTに悩み相談する人は危ない」東大教授が警告する“超思考停止社会”の恐ろしすぎる現実 - 現代ビジネス
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CdUZScENtU0poOWlna19yaTlSOXpnQzBJX05GSGxoR1BXYVlDZmJWUTZqeXZvZ2VHOVR0bVFvMjhjby1vSXZ1NUlfMWQ5VXM?oc=5
+
+- プレスリリース：遠方の実家もスマホで相談。LIVTO TOTTORI不動産がIT活用の非対面型・相続コンサルを開始。データ解析による高精度査定で、鳥取の空き家問題解決を支援し、透明性の高い不動産取引を実現します。（PR TIMES） - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DWlhKMkJ2eHpWWnFIRTI0R25valAxaE9HSnotWHlzX0NnS3doVGV6dzViTnk4cVhfNzl0LXVKaWhScE82d3hOTHpIdi1IWm1CdnEwOWxzTXVpVUNmUkttUFgxcVZhbWNv?oc=5
 
 - カナダ銃乱射 容疑者相談をAI把握も通報せず 遺族がChatGPT開発オープンAIとCEO提訴 - ABEMA
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jWEk0bmZXcVpRbGM4WGdHb3h6RExuc25yT2x3dUpfUHVPTFhaWnNRNTdIcjZrYUhaeVI1OGhKNE9GeDQ3aklWeXJkVFFGU2wxU0l1UGJIc0xxaW8?oc=5
@@ -56,7 +59,4 @@
 
 - 大阪府が結婚相談所とタッグ ６月から婚活支援事業「なにわ縁結び」開始へ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMWJSdUZIRnFORFotSTNZX3hXMlNVaGlGaWpuR3N6cS1LeVVUZTY1b3VrWF9UYXNURjl6bnJsbDVyc2Q2RndpYXZPX0V2Tnp1M2FPd1Q2Q3djUGVyd1V6STM3dUo0bWF3dWhpc0NaejFJeGg2ZGVlc1dxQkNBbkU?oc=5
-
-- 「不良外国人から店を守ってください！相談料も払います」 ヤクザ組長がやり手の飲食店オーナーからの頼みを断った“納得の理由” (デイリー新潮) - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDFRNk1tX2ljcE1VLTkzbkFEd3AzSzlNLUlKeFc0YjlHVVkxVFpXVlQ0MnUtMkctZVUtaUU4R2Z5WWdXTkNFbld5VzNGY2RZUUFkYkMzamFhUmZ2VVUyc1RBMlkzRFJSa050N0NZdnh6OTcwUDlNYTdtcVJyZjdEUV83RFZSaHJMVHNBZld3?oc=5
 
