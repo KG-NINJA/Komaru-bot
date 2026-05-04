@@ -3,36 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>子ども発達相談</title>
+    <title>悩み相談アプリ</title>
     <style>
-        body { background-color: #e7f0ff; color: #333; font-family: Arial, sans-serif; }
-        header { text-align: center; padding: 20px; }
-        footer { text-align: center; padding: 10px; font-size: 0.75em; color: #007BFF; }
-        .container { width: 80%; margin: 0 auto; padding: 20px; border: 1px solid #007BFF; border-radius: 8px; }
-        button { background-color: #007BFF; color: white; border: none; padding: 10px; border-radius: 5px; cursor: pointer; }
-        button:hover { background-color: #0056b3; }
+        body {
+            background-color: #e0f7fa;
+            color: #333;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        input, button {
+            padding: 10px;
+            margin: 5px;
+            border: 1px solid #007BFF;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+        }
+        footer {
+            position: absolute;
+            bottom: 10px;
+        }
     </style>
 </head>
 <body>
-    <header>
-        <h1>子ども発達相談サポート</h1>
-    </header>
-    <div class="container">
-        <p>お子さんの成長について悩んでいませんか？</p>
-        <p>こちらのボタンをクリックして、相談予約をしましょう。</p>
-        <button onclick="showConsultationInfo()">相談を予約する</button>
-        <div id="consultation-info" style="display:none; margin-top: 20px;">
-            <h2>相談内容について</h2>
-            <p>当相談窓口では、お子様の発達について専門家と話すことができます。</p>
-            <p>ぜひご利用ください。</p>
-        </div>
-    </div>
+    <h1>あなたの悩みを聞かせてください</h1>
+    <input type="text" id="worryInput" placeholder="悩みを書く..." />
+    <button onclick="submitWorry()">相談する</button>
+    <div id="response"></div>
     <footer>
         <p>#KGNINJA AutoApp</p>
     </footer>
+
     <script>
-        function showConsultationInfo() {
-            document.getElementById(consultation-info).style.display = block;
+        function submitWorry() {
+            const input = document.getElementById(worryInput).value;
+            const responseDiv = document.getElementById(response);
+            responseDiv.innerHTML = `あなたの悩み: ${input}<br>AIからのアドバイス: ` + generateAdvice(input);
+        }
+
+        function generateAdvice(worry) {
+            // ここにAIによる簡単なアドバイスのロジックを実装
+            return 自分の気持ちを大切にして、友達や家族に相談してみて！;
         }
     </script>
 </body>
