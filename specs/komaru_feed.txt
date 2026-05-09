@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-05-09 14:22) ===
+=== こまる相談 ニュースフィード (2026-05-09 15:17) ===
 
 - 【事前相談締切6/12】「TECH-PoC（テック系スタートアップ実証実験等支援助成）」～スタートアップから実証実験の計画を募集します - スタートアップポートヨコハマ
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EUEtxOHJZMDd2VUltcDRCUWVMT3VKUzdEOGtRbkNyT19VQl9vWXFveFdDeG1FUjdMcm9uNzE4TGt4bDdjNVdmYlFLUk5peExKUG9TTjNXQjMxMU5EUU8xNW5wM3p3V1E?oc=5
@@ -9,14 +9,14 @@
 - 【市川市】児童相談所を学ぶ勉強会を開催します - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE41Wi0tNmF4emZDc2xKX3pwX0RHTFdPamctMHdvVWNnaVotSzJqWkQ3Qkc2Z0ZTNGVnRVFzb3dabUQtMnBqNVRkMG9mQWI1VmhKMUs2NVhsdG56RlJ2WTVF?oc=5
 
-- AIに悩み相談、癒やされるが 人間にしかない「意地の悪さ」の価値 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HWUp1WUFOVjlNbmRZcTVocTlKS2ttM00xUFBZSGl0eVB1Y2dsaWd1SUpJRW5yWXlZWEtRNEVrODEtbmxLNGV3dmxzZEVjLVo1M1FaVmV3OVZKZjNiTmFMZUt3TkhLeGc?oc=5
+- 【毎日書評】年齢によって「眠れない」悩みは大きく変わる。実は不眠を悪化させている習慣とは？（ライフハッカー・ジャパン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFAtZ0JrR3FxVWZpYWc4TXhwV0xDckQ2RUhDOTJfeWRZTDh1cEI3SE5Kc0VoVXo1am5OZ0JJblJzNFlPekdnOWhINHlnVXljQnl1QV9DUEJDTkhJZUpaRmFBWkxMM2hobXBkY1JNTXhxZzJhWmpyeTl0d2dxSUpDUHM?oc=5
 
 - 那須塩原市が、ひきこもり地域支援センター新設 相談支援や居場所の提供など実施 - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EQzB6SWhxeDVvQmRRc3RJRUlOZ1N6d0tTZTVhMnM1ek5xYkdzcmwtZm0xR3pHamw1Y1pTeXk1ZEFUR3VvV2FiNGlIRUlPaHBNTDNadUdnUXljYVU?oc=5
 
-- 【毎日書評】年齢によって「眠れない」悩みは大きく変わる。実は不眠を悪化させている習慣とは？（ライフハッカー・ジャパン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFAtZ0JrR3FxVWZpYWc4TXhwV0xDckQ2RUhDOTJfeWRZTDh1cEI3SE5Kc0VoVXo1am5OZ0JJblJzNFlPekdnOWhINHlnVXljQnl1QV9DUEJDTkhJZUpaRmFBWkxMM2hobXBkY1JNTXhxZzJhWmpyeTl0d2dxSUpDUHM?oc=5
+- AIに悩み相談、癒やされるが 人間にしかない「意地の悪さ」の価値 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HWUp1WUFOVjlNbmRZcTVocTlKS2ttM00xUFBZSGl0eVB1Y2dsaWd1SUpJRW5yWXlZWEtRNEVrODEtbmxLNGV3dmxzZEVjLVo1M1FaVmV3OVZKZjNiTmFMZUt3TkhLeGc?oc=5
 
 - 燃料油や石油製品等の調達に関する相談窓口について - city.hachinohe.aomori.jp
   https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZraG5vUktqZ1R6ZXRxMGozQ1YzRlhOdGxmVXM0VXptMklBUHRmUjJZblB3bVNpMW5YRGt2U3Azc0hyMzR1V0h5RXdwY3NHbDhhWW0yODJLU1hIcVFHX2Z5R3FUOE9zWTN3Z1dTTHhRT0hacGF6OXE3N3NNczBqRmwyNy1UZw?oc=5
@@ -45,14 +45,14 @@
 - 2026年度 大学院進学相談会について｜大学院ニュース｜西南学院大学 大学院 - 福岡から全国へ、世界へ、はばたく力を。 - - seinan-gu.ac.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE54RElzNUE0UXpGWEVKLXFDZ2ZIbTdFZTZvM2c3VE9NRy1kWHRvSWJ1N190YXctdjAyMVYtSDJKcEdmSDhvNGxJNFhWZEJWdHFSbE9MN2xCSVYtME5IVTJJWWU2SlU3WUt4clE?oc=5
 
+- 「困った時に助けてくれる」 訪中外国人が語る中国の安心感 - 新華網日本語
+  https://news.google.com/rss/articles/CBMifEFVX3lxTFB0a2hWNE5fRnBuRUVKU2V1dVRxYmgtYXN3cHZKT3RCd3FoalBhckJJZUVTMjcxQjJtX0ZvRkZGdldKVnYxbmlmSHlZYmdtWHJaUTBnOVlOR0I1Yk9UU2pxcWFwdHoybnhzY0NsMzZuSm1IU09xUEhrajlQT0E?oc=5
+
 - 【記者コラム球炎】スイングに深い悩み 3三振の平川蓮 2026年5月9日ヤクルト戦 千葉教生 - 中国新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tYjYtYVB6Y21TaTQxNG1peUlqZFRXSnBqMjJ3cDZMamdLVGpUdElnTENDaDB6MHZlbGlkeEFWME1WVHJhNHZoZnNYekt4WThzSjNuMU5aTHpUZw?oc=5
 
 - 今日は、近隣町村の相談者さんからのTNRについてのご相談をお聞きしてきました。 - クラウドファンディング - READYFOR
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwQWFtcm5DQlQtTHcza3M4ZVZfSFVZSWRxTUFtb0xzelpiUjVtUmR6d2NzUG1RMW5lam5hYTljR3hkNExOcVVVeHdURlk1UTUxeXUwMVdQM002d0dtRzdNTnRUTkV6NW8?oc=5
-
-- 空き家解消へ法人指定 安曇野市、民間との連携強化 「お墨付き」で安心して相談 - 市民タイムス
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5RF84Y05RdXo4MXZVZUYzRDVWVmlzR284bTN6Y2lDZ1IzNXVVMVU5SGo4eFRuOEoybDlhcElHN0x4Ni1BT19iVlZPTHR1ZXBJQ3NTVTNFUVdoOThCM1JzSTUzWWQ?oc=5
 
 - 香水が苦手な40代のニオイ悩みに【ボディスプレー】おしゃれで保湿も虫よけもできる最強の選択肢！ - ｄメニューニュース
   https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2RxVjc0dE9ObXppZ1F1V1NCR0xyRUZzTXZWR1NyZVdZaVozSzJmcGRlcnhwQ1hRNzNhVDdQdEN6Y2J6X3BSc1I4Zlh4MWhNWFFxaGFHOXFVSGZSUElyWm9mNHVyRVRtZk9pVmFpQnNJNHRKdUhKMl9zUEJHTFhVTnphV2lJekZnTjZsWGJiQndXc0Vv0gGaAUFVX3lxTE04WmwyN0lyS3Ficy13QWxwUWRpd3p3Qjh2UHlNSWtuc3dENG1xaHlNbkxVUzFGeFJyX2xHSk1wUmpOQzcyZXpjamtESTNBVmZXY0l5YWlJQ2diT3I5UlhVUy1JNFNDa1BPRjc5UGdXZThfUU9EbWVLclJYdUlFUm9ZVWFPeVZZdEY4Snp1RGNDQ0tqX0ZuSk5kRXc?oc=5
