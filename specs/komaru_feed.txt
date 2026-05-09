@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-05-09 20:12) ===
+=== こまる相談 ニュースフィード (2026-05-09 21:14) ===
 
 - 【事前相談締切6/12】「TECH-PoC（テック系スタートアップ実証実験等支援助成）」～スタートアップから実証実験の計画を募集します - スタートアップポートヨコハマ
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EUEtxOHJZMDd2VUltcDRCUWVMT3VKUzdEOGtRbkNyT19VQl9vWXFveFdDeG1FUjdMcm9uNzE4TGt4bDdjNVdmYlFLUk5peExKUG9TTjNXQjMxMU5EUU8xNW5wM3p3V1E?oc=5
@@ -12,38 +12,38 @@
 - 沖縄市の空き家相談対応 士業が連携 適切支援へ アドバイザー協議会支部設立 県内2例目 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sSjJ4SWxtV2VHeExja1RSXzFaMWlRRFM0MGl5SklsbmxuRVB2RDdWM3BQbWxudVFNdFNBQzhXRlJjUjU4d0RsaFVGUDVfcEFZOG9sSFJoY0FQQ1RQVVE?oc=5
 
+- アルバイト条件 徳島労働局に相談を 大学生ら対象、7月末までキャンペーン - 徳島新聞デジタル
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QekFZRW5ObUlJa3BsMENHblBpSmZlODFlbkhnM1dxOWlhWmNoRUZXNWVLLWdFcDlrNURqNWtNWUc1aGFrT3JnVE50SHIxVktkRXJ3dHdn?oc=5
+
 - 那須塩原市が、ひきこもり地域支援センター新設 相談支援や居場所の提供など実施 - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EQzB6SWhxeDVvQmRRc3RJRUlOZ1N6d0tTZTVhMnM1ek5xYkdzcmwtZm0xR3pHamw1Y1pTeXk1ZEFUR3VvV2FiNGlIRUlPaHBNTDNadUdnUXljYVU?oc=5
 
 - 【毎日書評】年齢によって「眠れない」悩みは大きく変わる。実は不眠を悪化させている習慣とは？（ライフハッカー・ジャパン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFAtZ0JrR3FxVWZpYWc4TXhwV0xDckQ2RUhDOTJfeWRZTDh1cEI3SE5Kc0VoVXo1am5OZ0JJblJzNFlPekdnOWhINHlnVXljQnl1QV9DUEJDTkhJZUpaRmFBWkxMM2hobXBkY1JNTXhxZzJhWmpyeTl0d2dxSUpDUHM?oc=5
 
-- アルバイト条件 徳島労働局に相談を 大学生ら対象、7月末までキャンペーン - 徳島新聞デジタル
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QekFZRW5ObUlJa3BsMENHblBpSmZlODFlbkhnM1dxOWlhWmNoRUZXNWVLLWdFcDlrNURqNWtNWUc1aGFrT3JnVE50SHIxVktkRXJ3dHdn?oc=5
+- 辻村相談窓口、「充実とは何か」 - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fZ0lxNl8zZ0xsQWpFLVZESVNPV1A5YnhMV2N4Sk5Sbk93Wmp2eVhqYXFMbjlHM2d2dHZyNmx3NmZkZnNSMzJ5WjRXdVBWSGxCZnZ0Y05PQzVHb29KSVh1am1YcnBLQQ?oc=5
 
 - AIに悩み相談、癒やされるが 人間にしかない「意地の悪さ」の価値 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HWUp1WUFOVjlNbmRZcTVocTlKS2ttM00xUFBZSGl0eVB1Y2dsaWd1SUpJRW5yWXlZWEtRNEVrODEtbmxLNGV3dmxzZEVjLVo1M1FaVmV3OVZKZjNiTmFMZUt3TkhLeGc?oc=5
 
-- 辻村相談窓口、「充実とは何か」 - Design Stories
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fZ0lxNl8zZ0xsQWpFLVZESVNPV1A5YnhMV2N4Sk5Sbk93Wmp2eVhqYXFMbjlHM2d2dHZyNmx3NmZkZnNSMzJ5WjRXdVBWSGxCZnZ0Y05PQzVHb29KSVh1am1YcnBLQQ?oc=5
-
 - 増加する児童相談所の一時保護 25年から司法審査導入 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pQjhMLXlxeWpESUIxamozZWI1TElPUDUwdGxiMjgzT3I1U3B1YkFZdzdJdkhXMHZaSElxV2Y4VlQ4SEVfMFltN2VVRVdvN01TczBWUi1xUmxvbzhnSjRhbklkdFJ6OVJ0?oc=5
-
-- 生きづらさ、悩み共有しよう 当事者研究まつり ３０日、釧路で初開催【釧路市】 - 釧路新聞電子版
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XRl94OWhrM21VV2VPZGtKdjBjUHB6S0E4cGRad1B4eHlVMERNX041RjVBaHg2SXRUX0lyV0tGaGVyRmZ2R3B3TERIMGJPeWNKd3pv?oc=5
-
-- 40代の髪悩み、“軽い＆まとまる”は無理じゃなかった！髪にうるさい私が驚いた神ヘアミルク - mi-mollet（ミモレ）
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE15RmxYcm5DQkI2eW5ORXpwNEhKQjRSVGpoYmxwVnRwQU9Hb1JhdnhzbkpDNGU1c1lIMTc3SnprMXNpdEtsTks4TG52UXdHZnpucU1kSEh4RkVvZW8?oc=5
 
 - 経営・創業に関する相談窓口「ビジネスサポートセンターこしがや」のご案内 - city.koshigaya.saitama.jp
   https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXhhY1QwWi1OY0ZWTEdCSENRZ0NoeTN1WTN0cHhYcjk0TGJELUdaRmJVVjZfSDhGZU5oOHdZLXRpaWJVeDFnQnBQMmt0S0MzZk12Wl9mSmdPTzRDOXVmNGZweXB4Sm8zbU1hNmZUV3ZoYTlmQzNzelFCangxRkt2R3dzYklfalppVjBMaEdFS19qTVA4MEFz?oc=5
 
-- スマホも悩みも置いていけ。17文字で綴る、究極の“ととのい”体験。「サウナ川柳 2026」作品募集【愛媛県 喜助の湯】 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE42dGxUTG14cXQxUjB4c2tTQzFfYk5BTi03SHFrYk9UMUxhTlVQZ0E4WTBTMWlBTXh1Nkx6WnRmTm5GLVJpVDJXUWpfM3p6WTNNSlBuYWEzVXFfZFlQU1JHYUZXcm5nY1dib3c?oc=5
+- 生きづらさ、悩み共有しよう 当事者研究まつり ３０日、釧路で初開催【釧路市】 - 釧路新聞電子版
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XRl94OWhrM21VV2VPZGtKdjBjUHB6S0E4cGRad1B4eHlVMERNX041RjVBaHg2SXRUX0lyV0tGaGVyRmZ2R3B3TERIMGJPeWNKd3pv?oc=5
 
 - 2026年度 大学院進学相談会について｜大学院ニュース｜西南学院大学 大学院 - 福岡から全国へ、世界へ、はばたく力を。 - - seinan-gu.ac.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE54RElzNUE0UXpGWEVKLXFDZ2ZIbTdFZTZvM2c3VE9NRy1kWHRvSWJ1N190YXctdjAyMVYtSDJKcEdmSDhvNGxJNFhWZEJWdHFSbE9MN2xCSVYtME5IVTJJWWU2SlU3WUt4clE?oc=5
+
+- 40代の髪悩み、“軽い＆まとまる”は無理じゃなかった！髪にうるさい私が驚いた神ヘアミルク - mi-mollet（ミモレ）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE15RmxYcm5DQkI2eW5ORXpwNEhKQjRSVGpoYmxwVnRwQU9Hb1JhdnhzbkpDNGU1c1lIMTc3SnprMXNpdEtsTks4TG52UXdHZnpucU1kSEh4RkVvZW8?oc=5
+
+- スマホも悩みも置いていけ。17文字で綴る、究極の“ととのい”体験。「サウナ川柳 2026」作品募集【愛媛県 喜助の湯】 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE42dGxUTG14cXQxUjB4c2tTQzFfYk5BTi03SHFrYk9UMUxhTlVQZ0E4WTBTMWlBTXh1Nkx6WnRmTm5GLVJpVDJXUWpfM3p6WTNNSlBuYWEzVXFfZFlQU1JHYUZXcm5nY1dib3c?oc=5
 
 - ＜人生相談＞ 成り行き任せの人生に後悔 回答・室伏由佳さん（教育・研究者） - 中日新聞Web
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE14bjdDY0RRZjlFZng1aWdTOGdhbFZWZXFyV3ZEcHBFRWlBQ3RqaC0xcjEwUnd4RnZQemFRQ3V3dGRnbnlUZGc0SnRleEc1RmJUZ0o1aA?oc=5
@@ -51,11 +51,11 @@
 - 住宅の新築・リフォームに関する相談・補助等について - town.seika.kyoto.jp
   https://news.google.com/rss/articles/CBMibkFVX3lxTFAxb1cxZzZPRzh1bkRfQmFlQ1pzbWxHOTlCaThPRnI4eHhpajhlYkdPZVJNY2M2Q3ZQVGVqTmpTd19hNUNSbXBfeUpXYXd1cDRsVjhuN181NkZBQ2FlZU5hTGtfdktUU0E3SVREVFVn?oc=5
 
-- 横浜市クーポン「電子申請のみ」 相談ブース混雑 中旬以降の来庁呼びかけ - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DSWNiY0dnWVdIUzczMXdNaTUzUnZBNDJtaERkbVFmTWU1eWotanVpUW9BYnptdWZ2Y0JFRGV4RFA3V2ExOW5jWXI4WFFQU3ZxNE5F?oc=5
-
 - 【市川市】東部公民館で児童相談所勉強会開催 - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4QUVsTkZUV2xtVjNkd3ctNzZ2N2l0Yk9fd2pUcDRkZG51UnBKb0FXcXIwNHlGal9mejlHVnFSaGpkWlpzcEV5dUxZT0UtZ2NGTl9IVUNWZk5fTzBXSmJJ?oc=5
+
+- 中1娘の入浴を毎週手伝う夫…韓国・母親が悩み吐露、「父娘の身体的境界」ネットで論争（KOREA WAVE） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5tVDdVWUN1MnhNazNrQkxFWlVyVnAxYllqT1YxckhvZ3JmT3FYUFdBcTFxdDdCM0RPek01Y1lhOXFNRnpLWUlYOHZPSnZvSkhIRGdiVmtVaVVqZjFUMFJtOHZpN2lDazJZSG15NUExeVdVOXZYSjJ1bmFLODdJems?oc=5
 
 - ラジオ挑戦 生きる力に 保里真利さん（43）FMとよみパーソナリティー 脳症で障がい 経験や悩み語る 弾む声「元気を届けたい」 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ndURYMWNtQTRNT1RodlVxeG9SWmc4WjdOZzVIZGgtOE91Qi1wdnMzUllmNlJ5eUFoUjFQdUdGckxyZkNxVkZSUW9OcF9CT0ZwWUJnVDJBNTlhZ1d6d3c?oc=5
