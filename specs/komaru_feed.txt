@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-05-12 14:54) ===
+=== こまる相談 ニュースフィード (2026-05-12 15:49) ===
 
 - 【5/24(日)川崎戦】「出張空き家の相談窓口」実施のお知らせ - 水戸ホーリーホック公式サイト
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OWE5lVEhEdHJpNHlOeUdoNFNLdzB5dlVqNkdIY01VQl9LV2NxRGFqNFFBOEhNWVVsbWtaX3hrMUdWZWZNcThJMW1WRm50NlFUQlRtRlpZbw?oc=5
@@ -6,11 +6,11 @@
 - 岩見沢児童相談所の職員 不同意わいせつの疑いで逮捕 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4WllqbkpqMnZrd08yM0F2NWZ1dVVRNE1BcWRCaXk3d1FIUWhDWXV4NnlNX3pEMlJiTnBwTmw5Q3JWTVh1WkRuSDh0MUdzRG0yd0ttQ1J5QWE?oc=5
 
-- ニフティキッズ、子ども同士の悩み相談コミュニティ「キッズなんでも相談」をリニューアル！タブレットやひよりんのシールが当たる記念キャンペーンを実施 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9PU0N1b1pleWF3el91X2lsTXh3Qkc2UThtQUVsQUVWd2VUTzZzclpMZG11VWVCM05yNW9Ec3cxRVducDVxb19nV0RzNjdlN0QyYjZwSlNaVTl3a2hSdHR2VGVZcUczOTJoY2c?oc=5
-
 - 2026ジャパンパラ陸上 「アスリートのウェルビーイング相談窓口」を設置 - para-ath.org
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmc1hZVHl5ZmNIMS1kYXdDUEJBa2g2anNCcEdFU3FOenhlZDBsc1k1eEhnY3hiUWowZUxoVnJhbldETGZnTzhUN0JhR0NhUTJ1NWZpMkc3ZU5SN3V1bGc?oc=5
+
+- ニフティキッズ、子ども同士の悩み相談コミュニティ「キッズなんでも相談」をリニューアル！タブレットやひよりんのシールが当たる記念キャンペーンを実施 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9PU0N1b1pleWF3el91X2lsTXh3Qkc2UThtQUVsQUVWd2VUTzZzclpMZG11VWVCM05yNW9Ec3cxRVducDVxb19nV0RzNjdlN0QyYjZwSlNaVTl3a2hSdHR2VGVZcUczOTJoY2c?oc=5
 
 - ワンストップ経営相談会開催【令和8年6月11日（木）】 - 帯広商工会議所
   https://news.google.com/rss/articles/CBMickFVX3lxTE9fQXV2Yk5vbUlNTXdhemxKOU1BZXMzenJSVUhEcGZ2cmtfSzdaRFZZRDg5UGhWd0JhMnFZaFRaUFhLbnYyRFFkMnpnY0JDNEpxMUxqZTNYVTY4RlpnV1o4SGcyeGhDVzR1a0xtMTlKM1Vndw?oc=5
@@ -30,6 +30,9 @@
 - 6月15日（月）「パーフェクトワン グロウ＆カバークッションファンデーション クール」新発売 - 新日本製薬株式会社
   https://news.google.com/rss/articles/CBMicEFVX3lxTE9PTEJ2OTRfa3FEQlBhdEtqa1lZYVpsNEhlZC1ReUQ1b2VfTzRReHpfNVhHUFZXTTZybWpSUHRicFlMN0daRWVSdlkydE16OHg1MXp4cVhmbEM2WVFpS0lmOWtJU1liSzFrUUJFdFQtZTc?oc=5
 
+- 『界隈ほーる ～偏愛の穴に落ちてみた～』｜エンタメ - BSフジ
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xV0FjcVozVFJJbHJwXzQzUzBQMlZicmVWNXowdWRWZktoSFhaZUdtNE1ITDEzWDdsc0U0UFZRQ0lhR28tT21adldYai1yRVJNaWg3bTlRbEU?oc=5
+
 - 窓口専門家スケジュールを掲載しました（２０２６．６月） - 仙台商工会議所
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tMHVWSWdZajNRQ0JpMUhXYS1DSWM0SS1Mcm9CcXozQ2Z0WTNydm9BcTQtS2ljck5NY19YWFR4cWt3RTcwSzVOS01sNjQ3eWFheHBEV2pjWFl3SmVCc3Jkdm9WSGw?oc=5
 
@@ -44,9 +47,6 @@
 
 - 生きづらかったら“途中駅”へ ひきこもり経験者が相談所開設 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xQkVEeVJQZzdSeXhldWtxeEpIRnowM1ZTaHJaV3NLdUszRDJhdFAyX2NjVjBIdU5kLWdPakV5Vm43UERKeUZONmptUDlBVndyY2hQaDRES2hZS1BwclJUeWhWVHhxbkJK?oc=5
-
-- 生活保護引き下げに追加給付 １４日に全国一斉電話相談 - 山陽新聞
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hQ3FkVVFwbEV3ZzRIQ2J5QXlaMHhmYXcyYmgtc044RE1jOFJOYkhmNk5meG80eDlNMHNmNElpUjZQMXBTRGJmdDVoY1V3dEhkd1E?oc=5
 
 - 難病患者さん・ご家族のための無料相談会「免疫疾患」をZoomまたは電話にて開催します - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBydXJwYjVNQUg5U0FtUGtBNUlpOE5DS1B5V09acGVoaGc4ajZTdkpNSmNyeEo4Yl9TUDh1NDk1dVNYSzlWMzlKVFpzTkx0U2tabF9sMjdRR0pJTGdiSGhsSEJjUEhCa3hVaXc?oc=5
