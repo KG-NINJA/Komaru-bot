@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-05-12 19:31) ===
+=== こまる相談 ニュースフィード (2026-05-12 20:30) ===
+
+- 若手正社員の4割以上は「生成AIが相談相手」、他の手段は？ - 日経BP
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE1EeE5GSHJXMjhKSmtEalI1YVA5TVRQSlNoWU1hR0NuUUp1TVc3cWU5a0xaX2FwZFdGZzlLMVBhcGR1ZFVScHZSZDliWkJaUlBnSHdSY2oyX25LOUNtTG9pM3d3NGRfckM1bUlOak9FQzBLZENWOTlCcnRLVHo?oc=5
 
 - 不登校の悩み相談を 保護者の不安解消オンラインサービス、羽島市で始まる - 中日新聞Web
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SR2FKZ21UMDlVUHNEaDFEU2RoUzJNa1J6Tm9TNEwxZkpOOWFwbUdyY1oyUnhGY3VId0NQSGphQmpUOVZLckQxUG1KSXU1X09uWU1TbA?oc=5
@@ -6,20 +9,23 @@
 - 【5/24(日)川崎戦】「出張空き家の相談窓口」実施のお知らせ - 水戸ホーリーホック公式サイト
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OWE5lVEhEdHJpNHlOeUdoNFNLdzB5dlVqNkdIY01VQl9LV2NxRGFqNFFBOEhNWVVsbWtaX3hrMUdWZWZNcThJMW1WRm50NlFUQlRtRlpZbw?oc=5
 
-- 岩見沢児童相談所の職員 不同意わいせつの疑いで逮捕 - NHKニュース
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4WllqbkpqMnZrd08yM0F2NWZ1dVVRNE1BcWRCaXk3d1FIUWhDWXV4NnlNX3pEMlJiTnBwTmw5Q3JWTVh1WkRuSDh0MUdzRG0yd0ttQ1J5QWE?oc=5
-
 - 2026ジャパンパラ陸上 「アスリートのウェルビーイング相談窓口」を設置 - para-ath.org
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmc1hZVHl5ZmNIMS1kYXdDUEJBa2g2anNCcEdFU3FOenhlZDBsc1k1eEhnY3hiUWowZUxoVnJhbldETGZnTzhUN0JhR0NhUTJ1NWZpMkc3ZU5SN3V1bGc?oc=5
 
 - ニフティキッズ、子ども同士の悩み相談コミュニティ「キッズなんでも相談」をリニューアル！タブレットやひよりんのシールが当たる記念キャンペーンを実施 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9PU0N1b1pleWF3el91X2lsTXh3Qkc2UThtQUVsQUVWd2VUTzZzclpMZG11VWVCM05yNW9Ec3cxRVducDVxb19nV0RzNjdlN0QyYjZwSlNaVTl3a2hSdHR2VGVZcUczOTJoY2c?oc=5
 
+- 岩見沢児童相談所の職員 不同意わいせつの疑いで逮捕 - NHKニュース
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4WllqbkpqMnZrd08yM0F2NWZ1dVVRNE1BcWRCaXk3d1FIUWhDWXV4NnlNX3pEMlJiTnBwTmw5Q3JWTVh1WkRuSDh0MUdzRG0yd0ttQ1J5QWE?oc=5
+
 - ワンストップ経営相談会開催【令和8年6月11日（木）】 - 帯広商工会議所
   https://news.google.com/rss/articles/CBMickFVX3lxTE9fQXV2Yk5vbUlNTXdhemxKOU1BZXMzenJSVUhEcGZ2cmtfSzdaRFZZRDg5UGhWd0JhMnFZaFRaUFhLbnYyRFFkMnpnY0JDNEpxMUxqZTNYVTY4RlpnV1o4SGcyeGhDVzR1a0xtMTlKM1Vndw?oc=5
 
 - 事業承継に関する無料個別相談会を開催します！ - 加東市
   https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkxOZ0w4WjlwcEVUcl80UlNtTDU5b2dMeERFaTBET191THFvVDRzMVZ4WEdWZUswYmlCdlFhZnVPZlJlVy1CSXpHUWhnN05uY09xYmNzTy1UNG44cmRtTTVEZlhtWWROVmktRXVtZVhtNnFaSmdORThYVTBhcEZFUTdncVB6OUlpY19LbkhVQVVGc2M?oc=5
+
+- DXの悩みを元・現役CIOに聞く、三菱マテリアルや竹中工務店のIT幹部が登壇 - 日経クロステック
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5uV3JHeXNXc2dMSEZrXzZVdkF4d291eno2eUwzQ1psX1Fxa2dQb2oxTEZjWnFkZTk5bmt3M2hTZGM1VFEzZUFVdEFOS2Y1WS1JbzcwN2lSZmYyLW44RGtrNjNwb05JQUR3UnlnOQ?oc=5
 
 - 少女に不同意わいせつ疑い 岩見沢児童相談所職員を逮捕 札幌東署 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUHdZVWdwRGdLempSa3FsdWk4dlVwM3h3cXlSU3R5UndpeW9tT1FpUFJ1WEthTFJBRTFTVzF2eGRMZmFsSGxLQ2M5ejNHRVdBd25TeGVqNE5HZw?oc=5
@@ -30,8 +36,8 @@
 - 【 キンタロー。 】 タクシー乗り場での〝悩み〟に…「この事案の何か良い返し方ないですか？」 ＳＮＳで問いかけ - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRcUJIZUUtSS1PTjFRTG83T3VmUkFfVmZoaFpYY3FBaWRlQ3VmVzZ4NU0wLUpMNEozN2JFVkRYN0VNTFUyLWtZbXNOang1eWtkV0xLdHB6Yw?oc=5
 
-- 東京有楽町で就農・移住相談会を開催します！ - city.agano.niigata.jp
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkxrS0xTTUFyUE02cG5jbi1QTFVfWnZ2dXIzVDhRYmpQNlkwNDcyTlBRYXlSVWk5Ml9JNE94RlJEeC1ETGU2VjN1WG5waG9tNUdWUXdKeDhWQ3hDU1pxanhyb3BtVWE3cjk5cVJDMl9FR29LYVF5Vnk5Q1ROeHpjN2wxS2ZCOGRtRjRud3AzWQ?oc=5
+- ストーカー相談１年で１２３７件・摘発件数も過去最多、相手と面識ないケースが倍増…加害者に「治療」勧めるも、治療受けたのは過去１０年で１人のみ - 読売新聞
+  https://news.google.com/rss/articles/CBMickFVX3lxTE8wMUJseWJKUzYxM0REcnVZS0lkdllzZFpFRFZSYURPSVdOOE5nOFk4OVVpeG44bGFnYnhyRUNtV1FtM3dKZ0JHMDBGZnNIQktTaUNnbldweGl2bXV1MFlwRHVKVGduVVh6dUVtQnpwcGx0dw?oc=5
 
 - 仕事や人間関係の悩みで「寝る前にクヨクヨ」から脱却する方法…心を追い込む、「考えるのはよいこと」の思い込み - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE13RHVOakwzWW53aUJEcEdHekxOR2o4Smh4ZHdkRHZaQzBIRkZ1b0VqangwbWx3TFNkRFZ1SENTdWlHb3VKRUhqUHFKY3B0T0FnXzVWaUJDT1pZM0hXbUVuWjZTU1JBRzNZRGx3Q2VzcThQLXB2b0hNSy1wNmM0bXc?oc=5
@@ -39,24 +45,18 @@
 - 6月15日（月）「パーフェクトワン グロウ＆カバークッションファンデーション クール」新発売 - 新日本製薬株式会社
   https://news.google.com/rss/articles/CBMicEFVX3lxTE9PTEJ2OTRfa3FEQlBhdEtqa1lZYVpsNEhlZC1ReUQ1b2VfTzRReHpfNVhHUFZXTTZybWpSUHRicFlMN0daRWVSdlkydE16OHg1MXp4cVhmbEM2WVFpS0lmOWtJU1liSzFrUUJFdFQtZTc?oc=5
 
+- 働く女性の悩み共有 鳥取で異業種交流会 - nnn.co.jp
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zNUQtSnVzNFM4SGdWYThZU0JsdTJJLXlHdFJzeUwwbU85cnlZZW95ckY0T184Skxzb0JEdGtfa3Zsa0RWdVJQZm9aVmg3ZDBH?oc=5
+
 - 『界隈ほーる ～偏愛の穴に落ちてみた～』｜エンタメ - BSFUJI
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xV0FjcVozVFJJbHJwXzQzUzBQMlZicmVWNXowdWRWZktoSFhaZUdtNE1ITDEzWDdsc0U0UFZRQ0lhR28tT21adldYai1yRVJNaWg3bTlRbEU?oc=5
 
-- 窓口専門家スケジュールを掲載しました（２０２６．６月） - 仙台商工会議所
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tMHVWSWdZajNRQ0JpMUhXYS1DSWM0SS1Mcm9CcXozQ2Z0WTNydm9BcTQtS2ljck5NY19YWFR4cWt3RTcwSzVOS01sNjQ3eWFheHBEV2pjWFl3SmVCc3Jkdm9WSGw?oc=5
-
-- 【最新】「体を触りました」26歳児童相談所職員が10代前半の少女にわいせつで逮捕…職員採用前の民間施設で〈北海道〉 - UHB 北海道文化放送
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE90ZnBhY3hieEZGeDN6T0VqUV9SNTlMb19LSUpkT0RLN18tY1lBaTRVUWh3eHhKREtGdU9qbGROcWxiR211VUY5MDVsZklabTR6TkJ1clZ3QQ?oc=5
+- 性の多様性や健康問題… 若い女性への助言カード 手に取って 大聖寺のスオ作成、相談先記載 カフェや美容室などに設置 - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qVEwwMHVQYVpQM2Z5c0NFRWhRWkVRVV9Sc3NPbEdvZlJIbklIUlFkRVp6elpvSmtxT0pnYzlRU2puUnFkQXo0QXBmZE4wVzA3VkV1aktuZURUdUVKS3ROMGgxdWZxSlRw?oc=5
 
 - 難病患者さん・ご家族のための無料相談会「免疫疾患」をZoomまたは電話にて開催します - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBydXJwYjVNQUg5U0FtUGtBNUlpOE5DS1B5V09acGVoaGc4ajZTdkpNSmNyeEo4Yl9TUDh1NDk1dVNYSzlWMzlKVFpzTkx0U2tabF9sMjdRR0pJTGdiSGhsSEJjUEhCa3hVaXc?oc=5
 
 - 被災者支援へ 輪島市に臨時相談窓口を開設（HAB北陸朝日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE80VDZha0ZOYWxGcUtveGpVb001YWt5OGpNMnVRcTJIcG03bEVPZFd3cURORmdBNUtlUDVSOGE1UlY5YzFYM3RMS3VHUFdNclJvU0JZc3JXVTZBYnAtRzh3UG4wOGtQLXJ4ZTQwZlZFVEFvRFk0SzlUblJ3Smk0UmM?oc=5
-
-- 12日は「看護の日」 健康チェックや医療相談 市立室蘭総合病院 13日も実施 - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uVmRRSklnRVozZzk5TFpkMTM1OE9NeUlGVG9aNmhQN2RoTFVMbnFkSFh0UVd4cXpCTGd5UktYN3VqSVkxdVBtVHZxOGdFcU1sc3Rhb3RhSjRlZw?oc=5
-
-- ヤングケアラー 三重県がＬＩＮＥによる悩み相談窓口を開設 - NHKニュース
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE00dDdzRUFjUHlCSVZwODhmeEUxVUNEV3VCMDJUY1pKWlVEbFdjMGJhVE1ERU5QOW12N1l3dnhkWUNlMjZFd2FGQm44R2tlY25hdHM2UWFNV1I?oc=5
 
