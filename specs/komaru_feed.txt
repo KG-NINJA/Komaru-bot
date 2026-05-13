@@ -1,10 +1,13 @@
-=== こまる相談 ニュースフィード (2026-05-12 23:21) ===
+=== こまる相談 ニュースフィード (2026-05-13 00:26) ===
 
 - 若手正社員の4割以上は「生成AIが相談相手」、他の手段は？ - 日経BP
   https://news.google.com/rss/articles/CBMifEFVX3lxTE1EeE5GSHJXMjhKSmtEalI1YVA5TVRQSlNoWU1hR0NuUUp1TVc3cWU5a0xaX2FwZFdGZzlLMVBhcGR1ZFVScHZSZDliWkJaUlBnSHdSY2oyX25LOUNtTG9pM3d3NGRfckM1bUlOak9FQzBLZENWOTlCcnRLVHo?oc=5
 
 - 不登校の悩み相談を 保護者の不安解消オンラインサービス、羽島市で始まる - 中日新聞Web
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SR2FKZ21UMDlVUHNEaDFEU2RoUzJNa1J6Tm9TNEwxZkpOOWFwbUdyY1oyUnhGY3VId0NQSGphQmpUOVZLckQxUG1KSXU1X09uWU1TbA?oc=5
+
+- 少女に不同意わいせつ疑い 岩見沢児童相談所職員を逮捕 札幌東署 - 北海道新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUHdZVWdwRGdLempSa3FsdWk4dlVwM3h3cXlSU3R5UndpeW9tT1FpUFJ1WEthTFJBRTFTVzF2eGRMZmFsSGxLQ2M5ejNHRVdBd25TeGVqNE5HZw?oc=5
 
 - 2026ジャパンパラ陸上 「アスリートのウェルビーイング相談窓口」を設置 - para-ath.org
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmc1hZVHl5ZmNIMS1kYXdDUEJBa2g2anNCcEdFU3FOenhlZDBsc1k1eEhnY3hiUWowZUxoVnJhbldETGZnTzhUN0JhR0NhUTJ1NWZpMkc3ZU5SN3V1bGc?oc=5
@@ -15,14 +18,17 @@
 - 岩見沢児童相談所の職員 不同意わいせつの疑いで逮捕 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4WllqbkpqMnZrd08yM0F2NWZ1dVVRNE1BcWRCaXk3d1FIUWhDWXV4NnlNX3pEMlJiTnBwTmw5Q3JWTVh1WkRuSDh0MUdzRG0yd0ttQ1J5QWE?oc=5
 
+- データサイエンス組織がR&Dの悩みを解決するとどうなるか？塩野義製薬が取り組む「研究DX」 - EnterpriseZine
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TbzlRVUZ4MEhJUFJJUVFRUmZEQ29CR2Q4YnFta3AtUGhBTDlLN2dqYklyZnM0S0wwcTIzemw5dDhUUGtIZVNPU1NKbmhoMTcxMWJ4eG9aZ1c3dw?oc=5
+
 - ニフティキッズ、子ども同士の悩み相談コミュニティ「キッズなんでも相談」をリニューアル！タブレットやひよりんのシールが当たる記念キャンペーンを実施 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9PU0N1b1pleWF3el91X2lsTXh3Qkc2UThtQUVsQUVWd2VUTzZzclpMZG11VWVCM05yNW9Ec3cxRVducDVxb19nV0RzNjdlN0QyYjZwSlNaVTl3a2hSdHR2VGVZcUczOTJoY2c?oc=5
 
-- 【5/24(日)川崎戦】「出張空き家の相談窓口」実施のお知らせ - 水戸ホーリーホック公式サイト
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OWE5lVEhEdHJpNHlOeUdoNFNLdzB5dlVqNkdIY01VQl9LV2NxRGFqNFFBOEhNWVVsbWtaX3hrMUdWZWZNcThJMW1WRm50NlFUQlRtRlpZbw?oc=5
-
 - 「困った時に頼れる一冊」出水の魅力がわかる観光ガイドが話題 ビジネスホテルのスタッフが2カ月で完成 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Uy1kNFhxZWhtYXlQcnNVMmtISnBkSl9Yb19WWmRIUi1rSVhzSXh0eU5MRGE3b0JjVlJsXzduS3hBck16NHpQbk5TeG5TNm1RY2VKRjluTjNtcHhIbm9SSkhaazdxRHpNQVRtSXMzVE1nNVRDdU42QThBZ28yYUk?oc=5
+
+- 【5/24(日)川崎戦】「出張空き家の相談窓口」実施のお知らせ - 水戸ホーリーホック公式サイト
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OWE5lVEhEdHJpNHlOeUdoNFNLdzB5dlVqNkdIY01VQl9LV2NxRGFqNFFBOEhNWVVsbWtaX3hrMUdWZWZNcThJMW1WRm50NlFUQlRtRlpZbw?oc=5
 
 - ワンストップ経営相談会開催【令和8年6月11日（木）】 - 帯広商工会議所
   https://news.google.com/rss/articles/CBMickFVX3lxTE9fQXV2Yk5vbUlNTXdhemxKOU1BZXMzenJSVUhEcGZ2cmtfSzdaRFZZRDg5UGhWd0JhMnFZaFRaUFhLbnYyRFFkMnpnY0JDNEpxMUxqZTNYVTY4RlpnV1o4SGcyeGhDVzR1a0xtMTlKM1Vndw?oc=5
@@ -33,17 +39,17 @@
 - 事業承継に関する無料個別相談会を開催します！ - 加東市
   https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkxOZ0w4WjlwcEVUcl80UlNtTDU5b2dMeERFaTBET191THFvVDRzMVZ4WEdWZUswYmlCdlFhZnVPZlJlVy1CSXpHUWhnN05uY09xYmNzTy1UNG44cmRtTTVEZlhtWWROVmktRXVtZVhtNnFaSmdORThYVTBhcEZFUTdncVB6OUlpY19LbkhVQVVGc2M?oc=5
 
-- 少女に不同意わいせつ疑い 岩見沢児童相談所職員を逮捕 札幌東署 - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUHdZVWdwRGdLempSa3FsdWk4dlVwM3h3cXlSU3R5UndpeW9tT1FpUFJ1WEthTFJBRTFTVzF2eGRMZmFsSGxLQ2M5ejNHRVdBd25TeGVqNE5HZw?oc=5
-
 - 【 キンタロー。 】 タクシー乗り場での〝悩み〟に…「この事案の何か良い返し方ないですか？」 ＳＮＳで問いかけ - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRcUJIZUUtSS1PTjFRTG83T3VmUkFfVmZoaFpYY3FBaWRlQ3VmVzZ4NU0wLUpMNEozN2JFVkRYN0VNTFUyLWtZbXNOang1eWtkV0xLdHB6Yw?oc=5
+
+- 【お悩み相談】学歴もスキルもあるのにやりたい仕事をさせてもらえない - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWF4cnJqb0QwMGpSLTRUNDRhdlVWV0Q4cDBuc1dnUW9HaEF5VGFiYWpnSDJYd0wwaHoxTEtQNVFDS3dDTkw2LVZya2h5eEtpT0ROSzdLWmhvNS1nMV9LWUU4NVZXQjZ2cE9aM0hKMVVrc1FicVBEX1Z6Ty1kVW5kR2JHX0RpMVdt0gGOAUFVX3lxTFBXR0RWWlhnbV9wOWZjMWxHbHJETFNDOWsyeU5IY2xfTVZUN0ZTczRlb2pUcU41elk0Umw4aTVaUXg0NDYwTW95MlFaX3RZSzdfdWMtZUFSeklSZ1g3NnZ1Y3dnNWFNckU2NVdfLU4tQlAzT1UtaTY5ckZXUnZkX3BpMG90WnZ3RS1HTl9jQ2c?oc=5
 
 - 北海道・帯広市、出張移住相談会を東京・有楽町で開催、5/23～24｜旅先テレワーク実践ガイド 【公式】 - トラベルボイス
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HVHFQQ0lUWWhCZDhRLXFFRU1GTXY4ZE83RU9lTzV4djNNV29WcENKV092N0pCaU8tRHljMXo2Q2d3WWV3d1FUUXRLUXNZSVRtR3VJUG1HanpzNHdnSU8zYWh3?oc=5
 
-- 【お悩み相談】学歴もスキルもあるのにやりたい仕事をさせてもらえない - ｄメニューニュース
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWF4cnJqb0QwMGpSLTRUNDRhdlVWV0Q4cDBuc1dnUW9HaEF5VGFiYWpnSDJYd0wwaHoxTEtQNVFDS3dDTkw2LVZya2h5eEtpT0ROSzdLWmhvNS1nMV9LWUU4NVZXQjZ2cE9aM0hKMVVrc1FicVBEX1Z6Ty1kVW5kR2JHX0RpMVdt0gGOAUFVX3lxTFBXR0RWWlhnbV9wOWZjMWxHbHJETFNDOWsyeU5IY2xfTVZUN0ZTczRlb2pUcU41elk0Umw4aTVaUXg0NDYwTW95MlFaX3RZSzdfdWMtZUFSeklSZ1g3NnZ1Y3dnNWFNckU2NVdfLU4tQlAzT1UtaTY5ckZXUnZkX3BpMG90WnZ3RS1HTl9jQ2c?oc=5
+- GRACE、邪魔なもの無くしてほしい その悩みをいかに解決するか - リユース経済新聞
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Mck05UTMtazFtRFBHWS1iMVMwVXZxbGtNc3Njd3M2VkN5YnY1WmlablBxclJwbVJ2eXozZGNxczQ0aGVIb2huWGFnMWZzMkR6WHpnYWUtNUtRMkFYZTBhcHMxbw?oc=5
 
 - 「困った時に頼れる一冊」出水の魅力がわかる観光ガイドが話題 ビジネスホテルのスタッフが2カ月で完成 - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUemw0aUFXYklwZjM0NUx3dDhiLUt4MkdaWXFRdGV1T0trTVplSldLZ3ZBWXQ3ZVZ1MWpRX1ZuemladUpaRWltVFZsQU9Rdw?oc=5
@@ -53,10 +59,4 @@
 
 - 働く女性の悩み共有 鳥取で異業種交流会 - nnn.co.jp
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zNUQtSnVzNFM4SGdWYThZU0JsdTJJLXlHdFJzeUwwbU85cnlZZW95ckY0T184Skxzb0JEdGtfa3Zsa0RWdVJQZm9aVmg3ZDBH?oc=5
-
-- 仕事や人間関係の悩みで「寝る前にクヨクヨ」から脱却する方法…心を追い込む、「考えるのはよいこと」の思い込み - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE13RHVOakwzWW53aUJEcEdHekxOR2o4Smh4ZHdkRHZaQzBIRkZ1b0VqangwbWx3TFNkRFZ1SENTdWlHb3VKRUhqUHFKY3B0T0FnXzVWaUJDT1pZM0hXbUVuWjZTU1JBRzNZRGx3Q2VzcThQLXB2b0hNSy1wNmM0bXc?oc=5
-
-- 難病患者さん・ご家族のための無料相談会「免疫疾患」をZoomまたは電話にて開催します - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBydXJwYjVNQUg5U0FtUGtBNUlpOE5DS1B5V09acGVoaGc4ajZTdkpNSmNyeEo4Yl9TUDh1NDk1dVNYSzlWMzlKVFpzTkx0U2tabF9sMjdRR0pJTGdiSGhsSEJjUEhCa3hVaXc?oc=5
 
