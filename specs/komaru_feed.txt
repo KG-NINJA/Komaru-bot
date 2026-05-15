@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-05-15 19:30) ===
+=== こまる相談 ニュースフィード (2026-05-15 20:24) ===
 
 - スマホのきほん相談会 - city.ikoma.lg.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbDRDRWxHWkg3eWlYa0dCUWxxQnVDZ3RFdEpLaWttQXNHcC1rMzkwdU9SemZxQW5iS0xRUUFfVjdxZW9pZFZIN3NkU1dPcm9jbXBURV9OQQ?oc=5
@@ -15,11 +15,11 @@
 - 第5回京の地蔵盆・夏祭り相談会の開催 - city.kyoto.lg.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oeWhEcHpfLVZhcjlrOU1KQzJsNzhLRk5WRUFPcWJjM3JWbVIzS1g5by1XOXZwZEdNOFNJUVRIZ0tjZTF0eG1ESnBXWU91S2FwcFl3UXhhZWZnVVFsY0RPSk8xNWQwTFk?oc=5
 
-- 高齢女性、人間関係はＡＩに相談 対人トラブルで若者上回る | | 全国のニュース - 佐賀新聞
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5idjVvWGhHT0VsbnA5SU11akhURUh2RDVUQ3lSY0lsZUFkNjA1TTJKRy15WVlVamRDYzJMSFBaVnFEZ2oya1Q0Q0EzdlZpcW01WF93Q3Vn?oc=5
-
 - こども発達相談センター - city.otsu.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTFAzbkk5NjFaZW5hX0lWd3l3cmtSYUNTYUVMRFVCdER3YmF6TGZhWlo2NUZBQ2xJNjdaaklSOG9YVlJVbFE5RE8wSDN2dGN6OHdvalBsY2NNendQSzFMT1hrZnZTMFhyWmMxSWRiNjNVRFVDQ3M?oc=5
+
+- 高齢女性、人間関係はＡＩに相談 対人トラブルで若者上回る | | 全国のニュース - 佐賀新聞
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5idjVvWGhHT0VsbnA5SU11akhURUh2RDVUQ3lSY0lsZUFkNjA1TTJKRy15WVlVamRDYzJMSFBaVnFEZ2oya1Q0Q0EzdlZpcW01WF93Q3Vn?oc=5
 
 - 子供や妊婦などの悩みに生成AIが回答 LINEで24時間対応 別府市「気軽におしゃべりして」大分 - tosonline.jp
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zN3VUUFVMMGxXZlRwRW92VnUtR2dtTEhEWkZidkJRR1YtYS0xMERIaUZrQ0hoV243WGwtUENfbTNRQjQyM0dkMVJlcGo2TEFaTkRXOWQzaWtNRFVf?oc=5
@@ -36,20 +36,20 @@
 - シャープ、テレビにAIキャラ搭載 会話やおすすめ番組の相談 - Impress Watch
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzMURyUE9pVlc1cmVmaVRFdGxnTnhDRlFMWnBTWFBBN2ZzMkpFeU96dDJjMW9JbGR0MHc5Q0lwdG1HVmJZMlQ3ZUFpTUdqWlpORkVQWk9QbFNuYWxmNUVPM1RzOTY?oc=5
 
-- 肥後銀行、リモート相談窓口にオンライン商談システム「ROOMS」を導入 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBtbjBKV3BacWw4ZW9mSUxPMkVQcUhPc3NvMzIxUG1BVE9HSVIwYVpDNTVwa21yMU5IVTd6TUtTX0lObGt3Ty00d3YwdTlVT2I1MEJRWHN2Rks0M05CRlo5UFEtZk04aGRLeEE?oc=5
-
 - 生田キャンパス 出張個別相談│レインボーサポートセンター ｜明治大学 - Meiji NOW
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE52Zmo5MkxzQkRnZjFrSWRaaUwtbkZxNjJaMjJMNUpQRHRUVkthTjU5S045WWQ0X1NFYXJlMGd3Mml2ZVRpc0xGeUtJY0lQNDloM3lHeEIzVQ?oc=5
+
+- 肥後銀行、リモート相談窓口にオンライン商談システム「ROOMS」を導入 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBtbjBKV3BacWw4ZW9mSUxPMkVQcUhPc3NvMzIxUG1BVE9HSVIwYVpDNTVwa21yMU5IVTd6TUtTX0lObGt3Ty00d3YwdTlVT2I1MEJRWHN2Rks0M05CRlo5UFEtZk04aGRLeEE?oc=5
 
 - 高齢女性、人間関係はＡＩに相談 対人トラブルで若者上回る - nnn.co.jp
   https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDSGY0cjgtMlpZeTdQelpzNUtYazJJbEFZT3RIZWhoN0hjdC1aRWVkUWs5RU1UTWtuVzFtRUFYeEgweGl2d3ZYbDZEbXVLTjdv?oc=5
 
+- 福岡：農林漁業者へ相談窓口 中東情勢緊迫化 県、２２か所に設置：地域ニュース - 読売新聞
+  https://news.google.com/rss/articles/CBMic0FVX3lxTFB6U04wQ3NwZC14OXZEbmRBWHgxV2M1MmtWLTBqM3lIaVBtcy1lUm4tYlppZXZ4ZXU3ZExyOU5aOEp4aFNTQVBLS3dhSnZpV0drVnEtRms4blAxNlp1VW5HaGpOMmdFQnpZZ3BaOVhBejIzaTg?oc=5
+
 - 中東情勢で緊急融資の相談はないが「景況感は相当に悪くなりつつある肌感覚」 対応できる準備整える スルガ銀行 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5aazJVNmc0MGZGbXhjNEVwOC1mLV9uNEQ1VHhKSVZlSDNhdm92ZF9LQ0xZZDhONTRyQWVkLWp3dG4yZ0I1OHc3bVZGalhzQUx3cnpBekZjbVlRc2ttN0JoR2dOeUZ3Y2V1V0o5R3pUTG9kMy1tVmxDZE1UTnE1Szg?oc=5
-
-- イオン＆ドンキ絶対得する裏ワザ時短節約SP - TVer
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4NWZkZ2RwOFdUQ1NvbEdudmN2U0dMdG1WbmJXcXRkZmh3bG9sU0p1UkIzMWRnV3ZiOG42a0xiRVhLOHRkSUt4TFNzWQ?oc=5
 
 - おおつっこ相談チームについて（大人の方へ） - city.otsu.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE5nYnpjQnAzbDlzWTJNempuQTBqbXdvejVqaDkxeGk3QzFVcVhIdmxMaXRubzNoXzdBMDBZbXRCVFd0QXhXV1BVRVFFckJMNXJ2UExmbHU2VndzY2I4dHRSMzlBTzh5YUpKVEJZZDNjUDB4d3pM?oc=5
