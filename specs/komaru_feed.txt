@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-05-16 19:23) ===
+=== こまる相談 ニュースフィード (2026-05-16 20:13) ===
 
 - スマホのきほん相談会 - city.ikoma.lg.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbDRDRWxHWkg3eWlYa0dCUWxxQnVDZ3RFdEpLaWttQXNHcC1rMzkwdU9SemZxQW5iS0xRUUFfVjdxZW9pZFZIN3NkU1dPcm9jbXBURV9OQQ?oc=5
@@ -15,6 +15,9 @@
 - 「気軽に相談、楽しく仕事」先輩職員やりがい紹介 市が本年度職員採用説明会 - 伊豆新聞デジタル
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PRDNyV3dQOVpZSXFQVk15LTlmLTFiU2RsejdfTVowWlA5MFM1MFZTTWo2TkpJbGprcWNNUV9OVFd2SE8yU2dHNmJKU2pvZm5JSXJOSWRZLVVJMDBSZmc?oc=5
 
+- 仙台いのちの電話「ボランティア相談員になりませんか」 養成講座の応募低調で募集期間延長 5月25日まで - 河北新報オンライン
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fZk9ZelppUEg2a1A5SzZGMlJ6QUxUTU1aaG1mbHNPLUsteGhtZ2NSYnViVU9nbkY4Z1lxUzd5Ry1WWmNLVUZNejdfbFZoM2hjTVpZcWdDX003V3FObTJXZg?oc=5
+
 - こども発達相談センター - city.otsu.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTFAzbkk5NjFaZW5hX0lWd3l3cmtSYUNTYUVMRFVCdER3YmF6TGZhWlo2NUZBQ2xJNjdaaklSOG9YVlJVbFE5RE8wSDN2dGN6OHdvalBsY2NNendQSzFMT1hrZnZTMFhyWmMxSWRiNjNVRFVDQ3M?oc=5
 
@@ -24,14 +27,14 @@
 - 【夕刊】高齢女性、人間関係はＡＩに相談 対人トラブルで若者上回る｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KU2ktMXd6Q2FSQ3RTTmFDNGpuYmpUNTBtQzBBZFVwMDU4ZjRqUmVaTWFkRUhWX3U2YmN2ZW93U255d1ZqUVk3NlAzWHNfSTRkeFJVcC1PMS1RSzA?oc=5
 
+- 【5月15日】労働相談 - city.tokorozawa.saitama.jp
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
+
 - ＜人生相談＞女性関係、暴力…夫をいたわる自信ない 回答・松尾貴史さん（俳優） - 中日新聞Web
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE80R2k0WHdpdm5jNW92RXR2UzYwRXExVVdMRk9aZXJZRWxZVDQ3OXBlYUpIMzVxY253V1lpY2d4NUp5dllIWXFQTUkwX1pMT0oxT3ppTUpVUGxvanlzbnk5QWhtcTQ?oc=5
 
 - 高齢女性４７％「ＡＩに相談」 対人関係、ウェブ調査｜政治｜全国のニュース - 北國新聞
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vRUFHMExzUFp6WUY4dlh5bEdFR2o4NlVmano2alNCdTFXcEFoVHo2bGFpQVJMXzh2cEZWVzMyOVRMQ1VHM1U1cXBfMnpmSVNxb3Vtc0Jpaw?oc=5
-
-- 【5月15日】労働相談 - city.tokorozawa.saitama.jp
-  https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
 - 最新の住宅設備が勢ぞろい…リフォームも相談できる「住宅博」広島市で開催 - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyS182aXpwTW00Zlc1WC1iNjlUTUdmMXZpSXJlbm9MdzV0RFpPcmpVYnJ3RUs1UlpsVjVmejFjV3l1R1RkUFF0RS1EM0Z2QQ?oc=5
@@ -47,9 +50,6 @@
 
 - 「看護の日フェア」にぎわう 健康相談コーナーや看護師志望者向けの説明会も 秋田市（秋田テレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbFRYTjJ2cVJJRzRZR1RXUGRfYVFBSkdNLWZ1c3d6TWFsNnJiTTdneFkzVnc0LXBRVEo2TmZqNUFqUk5icnotY2tnSzYxVmtCR1R1YUhNMUt4UE5GOGdiV004QUdkLS13a3h6ZUxIOG9iNzRDMG9Na1NSNURBYUE?oc=5
-
-- おおつっこ相談チームについて（大人の方へ） - city.otsu.lg.jp
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE5nYnpjQnAzbDlzWTJNempuQTBqbXdvejVqaDkxeGk3QzFVcVhIdmxMaXRubzNoXzdBMDBZbXRCVFd0QXhXV1BVRVFFckJMNXJ2UExmbHU2VndzY2I4dHRSMzlBTzh5YUpKVEJZZDNjUDB4d3pM?oc=5
 
 - 眠りの悩み、寝具選び 相談を 小松の老舗リニューアル - 中日新聞Web
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWNGhuR0tIVjFqUk5JY2tfeTNoZ01jdWctd29GVVl5T3J5UVZ2eGR2ZnR2aFZVSTdwY3hlY2FKdElTYno0ZVhLT3VNUFJTQ1hBRnl0cg?oc=5
