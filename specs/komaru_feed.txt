@@ -1,10 +1,10 @@
-=== こまる相談 ニュースフィード (2026-05-17 12:15) ===
-
-- BOKUJOB2026 サポートデスク（広報＆相談コーナー）を京都競馬場で開設！ - jra.go.jp
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nX0NqMnUwT2pyR0pHdU9vUGlVd042bFBMNjl2MGJXVFFPSlIxeDNFMzlFQk52NVVjRHlXY2pKbjh2Ui0zV1FwN0t4OFluUFVhaDlPY1VRTE4?oc=5
+=== こまる相談 ニュースフィード (2026-05-17 13:29) ===
 
 - スマホのきほん相談会 - city.ikoma.lg.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbDRDRWxHWkg3eWlYa0dCUWxxQnVDZ3RFdEpLaWttQXNHcC1rMzkwdU9SemZxQW5iS0xRUUFfVjdxZW9pZFZIN3NkU1dPcm9jbXBURV9OQQ?oc=5
+
+- BOKUJOB2026 サポートデスク（広報＆相談コーナー）を京都競馬場で開設！ - jra.go.jp
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nX0NqMnUwT2pyR0pHdU9vUGlVd042bFBMNjl2MGJXVFFPSlIxeDNFMzlFQk52NVVjRHlXY2pKbjh2Ui0zV1FwN0t4OFluUFVhaDlPY1VRTE4?oc=5
 
 - スマホ、SNS、AIに関する質問募集中！ - 子ども科学電話相談 - NHK
   https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWtCTVRLV3BEdTRsTjN4c042STAxdm5DNFJ5R0N1NHpIblRoNE1RbDE2bzhMNzRaTlExalhLNVJYSFJwQzRrN3laSG5FdlZFdkI1LVo5OGZkRTlDODFzYVNOSXVXR3RFWGJEZkVhRGF3MG84U25LSWRCSnVVeXFfSk9n?oc=5
@@ -15,17 +15,20 @@
 - 上がり連続ボギーで消沈 原英莉花の悩みの種は“1.2メートルのフックライン”「気持ち悪くて」 - ALBA Net
   https://news.google.com/rss/articles/CBMidkFVX3lxTE5qaTg3R3RXVnVyYUdlbmt4MC03cmU5NlVfWEpkTU5tY2t4M05hbGlwR25DWV9OQ2FnYmtlVEVjUzd0dElxUlFGWEdWRktkRlA1cHN2cExJZkhERzlmZUVPZGdVVDBSSEFtVWNncjlJU2tpRC14SVE?oc=5
 
-- 《群馬のイベント情報》電話相談員を養成（前橋市） - 上毛新聞電子版
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE41OUpjamhHTDAwTXdKWmlwYkZCRTk3Rk9EZURrb3g0ZVZVMTJHcExaR2otOG5icFdseTJVVnIyeDdLQmpZQnVCbGhqR2FyR3YzMUhxNy1pckc?oc=5
-
 - 事業者向け相談窓口「いばらき経営サポートデスク」を開設しています - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxONVMzdnZYRUtKbmJhdmxwNzFEbEg0MlN1TllFcHFKTE44ejV2X3F2QmpDbEJiMkc5QnFTdEdLWUdtNi1wZDR4MlFiVTNEckd1ZzRseHFtc3VKcW51a3BJYUNpNjlVb2RKck9lMVRTSlZQX0kxWmFqX2JUclF6QUVjUU9qVEJiejU1dURXQQ?oc=5
 
+- 《群馬のイベント情報》電話相談員を養成（前橋市） - 上毛新聞電子版
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE41OUpjamhHTDAwTXdKWmlwYkZCRTk3Rk9EZURrb3g0ZVZVMTJHcExaR2otOG5icFdseTJVVnIyeDdLQmpZQnVCbGhqR2FyR3YzMUhxNy1pckc?oc=5
+
+- ファンケルが毛穴・角栓悩みに着目したディープ洗顔料を限定発売 “角栓クラッシュテクノロジー”を搭載 - WWDJAPAN
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nbGRPQW1GZHdraDNwSW1NcGNvaWEya3kybHZHbnJsNHFlUjM4a1dfeEFLOEtIa3FzOTJUQmhLTGhDM2ZGNzFCN0t2MHNzVHdKX0RJ?oc=5
+
+- 茨城の不法就労通報「差別生む」 水戸で外国人の悩み聴く集会（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBLdEFfZnY1ai1YX2daZmRJcmFTY3FpVGJWemMyc1hHdWdlci1URFJBQmdNdzgyMGlvQ0hhMlVZZGRjNFdwZVhtMGhyVTdEV0hMTHpBUEpHbDI4ZF9sR3M2MzN5U3BTSFNESTlCUlRRbVB6Y0ZmaTd3Wno4Qm04clE?oc=5
+
 - 介護の悩み 男性が分かち合い 「弱み見せない」など課題支援 全国に150団体 専門家「地域に増やして」 - 東京新聞デジタル
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tdHFRY2pIVVZjazNiMVZlN1ZEZkVVcFo0NHMxeUE3VUFqMTUtRloxb0h3NkJuc3Z5ZV9qQzgxRFIxSXBpbldiVUpRZFZQMFBudG9Z?oc=5
-
-- 草刈り機「重い」「音大きい」... 悩み解決へ電動機、女性農業者が体験（日本農業新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9VclRoQ19PR0phODZyZ0NaSHgwX3p2Y3g1LUNURHZ2b1NHQkkyR0EycUZLUWRqdkdUUUxQbWdDVHY5Q0h0Uk8tbnIxZmZweTMyUllHR0dGTHRIV0ZyMWlPdjlmMTE2eUJMWkxmYkc5djIzcVdVYzNFMzIzRlBXR0U?oc=5
 
 - こども発達相談センター - city.otsu.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTFAzbkk5NjFaZW5hX0lWd3l3cmtSYUNTYUVMRFVCdER3YmF6TGZhWlo2NUZBQ2xJNjdaaklSOG9YVlJVbFE5RE8wSDN2dGN6OHdvalBsY2NNendQSzFMT1hrZnZTMFhyWmMxSWRiNjNVRFVDQ3M?oc=5
@@ -36,27 +39,24 @@
 - 茨城の不法就労通報「差別生む」 水戸で外国人の悩み聴く集会 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE90WFhHaUZsNjQ1SEhtMlFwS2xxTFZ2N1J0YWUwYmdIZDhRRVpOOVB3NVREU0EzbDAtckJ1RHFpd0RTMGRoT0VvdmZrVQ?oc=5
 
-- ファンケルが毛穴・角栓悩みに着目したディープ洗顔料を限定発売 “角栓クラッシュテクノロジー”を搭載 - WWDJAPAN
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nbGRPQW1GZHdraDNwSW1NcGNvaWEya3kybHZHbnJsNHFlUjM4a1dfeEFLOEtIa3FzOTJUQmhLTGhDM2ZGNzFCN0t2MHNzVHdKX0RJ?oc=5
-
 - 外国にルーツのある人の悩みを聴く集会で、参加者と話すエビエム・カムルズザーマンさん（奥）＝17日午後、水戸市 - 茨城の不法就労通報「差別生む」 水戸で外国人の悩み聴く集会 - 写真・画像(1/1) - 西日本新聞me
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNzhtVk9heEQyXzJMcXRZN0g2TF94MGVoTkRLT2FDYzNtRTF1MzlhWnJ3Zlp3UkljbTdSdHRsVEwxbWJBWnVIUENQdTJFS2dYck9VLW83MA?oc=5
-
-- 【巨人】マルティネスが移籍後初３連投解禁「負担も大きいし、体と相談しながら決めていきたい」 - ｄメニューニュース
-  https://news.google.com/rss/articles/CBMilgFBVV95cUxPdklOVTJpZUVGdEVvQzVtV1QyY3FoSnRLLTYzQWlhWUJwbGRiX3d3djl1SmdBZmFSYUxOdVMyRG0yTWNISW04aXk5S1Q3TWFxNkxfQzJWaXoxRmNxVE1JUDA2amRsZDVTb3h2eTh4ZVJhNEpVdlNseXJUay1mcEJ6Z1JianAxRjRqbWpSSWgzclNGUzZXQkHSAZsBQVVfeXFMTS1Mc3R1NVYwcTRYWmRLVnNZdDVWYURIQXd6RVpsQXhqYndpbS1vZEpXWkxkNndVQkZtS2VWSTBQUnREMWdqSG1SODlIdGoxdjgzS2ZSMXRkQ2x1cHo1b01BVWh3cUhuQmFrOTBXSXB3SEFMQllYN01KNXh5TmRFdWtpSXotZ0ZVRlAxdGNBdHNab2tJX1lMdm5QbzQ?oc=5
 
 - 対人トラブル ＡＩに相談 高齢女性４７％、若者上回る 自己開示しやすさ影響か｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zQW1mV09TUnBsLVJuZFRxTmFXWDVPb1J3czViZnk2U05SUlBTZUpQeFRLcUVKNVpoRVNrY2tmOVJ1LWZjVDVBQ1ZaUHJYNWRVWENXRTdBRS14MXc?oc=5
 
-- 子どもの悩み解決に哲学 偉人の言葉かみ砕き説く 知見活用の2書籍刊行 - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HOHY4WGxnNFFEa3hfN3dtbk1FTUE1cVF6V251aGNwWEtzX185SE93VlNueTJ2WHhXNDBQOU93M1ZrV25jS1luSm1hSm5wXzlLaTFtNjdJQkMwYUN4akE?oc=5
-
-- 「 繁盛店の店づくり【vol.327】デジタルライフの「困った」を解決 ゲオの新業態が首都圏に初出店」 - リユース経済新聞
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KeW0zazZpZ2R6MTFMcVpoMndINTN4MlREY0ZSNURjMkpSWi1ZRGhzQjJsdmFCVkNhSFc0ZTRPZHZBU1JSMjRyMXRZaWp4b3A0WlJZdkotOFp5aXdPTWFEbWlhT2E?oc=5
+- 【巨人】マルティネスが移籍後初３連投解禁「負担も大きいし、体と相談しながら決めていきたい」 - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxPdklOVTJpZUVGdEVvQzVtV1QyY3FoSnRLLTYzQWlhWUJwbGRiX3d3djl1SmdBZmFSYUxOdVMyRG0yTWNISW04aXk5S1Q3TWFxNkxfQzJWaXoxRmNxVE1JUDA2amRsZDVTb3h2eTh4ZVJhNEpVdlNseXJUay1mcEJ6Z1JianAxRjRqbWpSSWgzclNGUzZXQkHSAZsBQVVfeXFMTS1Mc3R1NVYwcTRYWmRLVnNZdDVWYURIQXd6RVpsQXhqYndpbS1vZEpXWkxkNndVQkZtS2VWSTBQUnREMWdqSG1SODlIdGoxdjgzS2ZSMXRkQ2x1cHo1b01BVWh3cUhuQmFrOTBXSXB3SEFMQllYN01KNXh5TmRFdWtpSXotZ0ZVRlAxdGNBdHNab2tJX1lMdm5QbzQ?oc=5
 
 - 高齢女性４７％、ＡＩに相談 対人トラブルで若者上回る 専門家 自己開示しやすい - 福島民報デジタル
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yamxtUklnT0VyRkxkYkxQNGFkZmE2MmFKVEhRd25WZ3UyTnE0Y3FDVzZLNTJrNHdNSjI1cnFmaDk4RjE2Zm5PeUxodU5tazg?oc=5
 
-- 茨城の不法就労通報「差別生む」 水戸で外国人の悩み聴く集会（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBLdEFfZnY1ai1YX2daZmRJcmFTY3FpVGJWemMyc1hHdWdlci1URFJBQmdNdzgyMGlvQ0hhMlVZZGRjNFdwZVhtMGhyVTdEV0hMTHpBUEpHbDI4ZF9sR3M2MzN5U3BTSFNESTlCUlRRbVB6Y0ZmaTd3Wno4Qm04clE?oc=5
+- 草刈り機「重い」「音大きい」... 悩み解決へ電動機、女性農業者が体験（日本農業新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9VclRoQ19PR0phODZyZ0NaSHgwX3p2Y3g1LUNURHZ2b1NHQkkyR0EycUZLUWRqdkdUUUxQbWdDVHY5Q0h0Uk8tbnIxZmZweTMyUllHR0dGTHRIV0ZyMWlPdjlmMTE2eUJMWkxmYkc5djIzcVdVYzNFMzIzRlBXR0U?oc=5
+
+- おおつっこ相談チームについて（大人の方へ） - city.otsu.lg.jp
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE5nYnpjQnAzbDlzWTJNempuQTBqbXdvejVqaDkxeGk3QzFVcVhIdmxMaXRubzNoXzdBMDBZbXRCVFd0QXhXV1BVRVFFckJMNXJ2UExmbHU2VndzY2I4dHRSMzlBTzh5YUpKVEJZZDNjUDB4d3pM?oc=5
+
+- 【5月18日の風、薫る】第36話 りんは看護を担当する千佳子に冷たい態度をとられ、直美たちに相談を（デイリースポーツ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1VTHZxQlo4cFVDekZPT1p0SDFkTE9mZzBuU1YwVTBIaEZTdGlZa1dSME96TVhWSDdNVTJ3UG95UXAzZk1scG9KRWsteXljLWRJR20yNU5FM2R4UWwwTjBkS281QXR3Rm5YS1V3MjdNQ01Va1FJZ2UxbVdEeHVfMlk?oc=5
 
