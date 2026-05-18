@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-05-18 20:29) ===
+=== こまる相談 ニュースフィード (2026-05-18 21:25) ===
 
 - 長岡地域の食品事業者向けHACCP（ハサップ）の個別相談会を開催します - pref.niigata.lg.jp
   https://news.google.com/rss/articles/CBMicEFVX3lxTE9xTE80RldEdi1Ib0MxUFN5MjVJd18wLW1Ya0tmRUlyb1RGZE5fVHBIcHdMR3pGalN5RHRZbDA4ZE8xcFEtcW5yazNmMy1iM1FFajBnVmozWFV0TjltZF9XOFkwa0hWTXhYVDF3S2FyMlM?oc=5
@@ -9,11 +9,14 @@
 - 職業紹介、就業支援、医師のキャリア相談（日本医師会ドクターサポートセンター） - 日本医師会
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GbklaREFwd3JQM1M0dG9rWUY1d1lMaGRmT2M1bEp5eUF0OGJsdDRocDlCNjRVUnZpR2lyWlRuNEw3b3JKMnNNWFl2WVJNcm9rWkFFVER5bWdzMl9OYW1ua0hKUDU?oc=5
 
-- ChatGPTで銀行口座やクレカデータ連携 家計相談、情報共有にリスク - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1kVDFyUU5XQkU4N3gxNGFaZk1FbEJTTUxMSGJmbngyWkpnNldacVpoMDRwSzA5RDlEam9CaGI5VkxYdVZUSF82d1VoZHFMMEFtaWlTbmg5QUhLc2g1T3E3VzlEM1lOY212OVZwRg?oc=5
+- 奨学金の利率上昇で相談会 23日に全国一斉（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9PczRteFhpbUdPcGxBcVlPREt0b3RHWjZDUXdXX21aM201WExQQXludWVEdTd5amF0YlBjYnR4Z0syNEpzTVB0LVlKOUZ4NUpiSVQzRXdEemtSMjU1TTNVUTBiUWg1SFRwQkdPeGhqSWRuLUZYV205Y1lmTUlYV1U?oc=5
 
 - 厚真高が進路相談会 企業や学校参加 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tUVJXTHN1M2FmeXUtZG1DRl9RclFlbVVLel85ejluMldRM0VPeWtUYkdpWjZob1B5Y3lKSGhSX3M3YklWQmd5TVpWZS1ZSG9XcFJtZXVCdkJXQQ?oc=5
+
+- ChatGPTが銀行口座やクレカ連携機能 家計相談簡単に、流出リスクも - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1kVDFyUU5XQkU4N3gxNGFaZk1FbEJTTUxMSGJmbngyWkpnNldacVpoMDRwSzA5RDlEam9CaGI5VkxYdVZUSF82d1VoZHFMMEFtaWlTbmg5QUhLc2g1T3E3VzlEM1lOY212OVZwRg?oc=5
 
 - もっと気軽に子育ての相談を 24時間子育てAIチャット相談の実証事業を実施 - 共同通信PRワイヤー
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jd0NlTzZfaTZqYnNKV1hySFZnaGROQkppQzF0dXllRTdMU0tvRDFZd2dVMk9NaDJRU1FUUmZZbmdrT2RjWFZRMjNxbkw2OHp5OGdZSGdUeUc3aU0?oc=5
@@ -24,17 +27,20 @@
 - 中村保博前副知事のハラスメント行為相談を調査へ 職員らの申告受け福井県コンプライアンス委 - 福井新聞社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VRHl2dm12RkFEWEJOSWd6SFh6aENDcjdsc1hsQWZ4enJHYWY5RUREVVh5Uy1veUF5eFc0VnNwbk5vVE5mU1RvZ0J1a3VuSnFwb3F3ejF4RTAtcDdRUEE?oc=5
 
+- セイノーＨＤ 「ＡＩ社長」が新入社員の不安や悩みに対応 - カーゴニュースオンライン
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE81WEFfTmh2R1ZWdmRSbXd0NWFZTWNzTE5YTGptU3JQMFBtR2N0QThvanVxYVJCTG51ZzM5bHFOZEdiakVjR2MxYWM3eUxFNk5KVE9vZWRRaVJaS3cwdFVN?oc=5
+
 - 東京私立中学合同相談会が開催されました|中学受験情報 朝日みつかるナビ - 朝日新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Na0pDQndiSHFIMmpObWhkR2JYT0hPcmdCa1IycUdqODNvanpzSXNVb3hqX1k0bDN5MmlJZVRCN1J6a1NUV0FMMEZ3SjlodGRzWHZBVGVEbEhUZVA5MmV3SlhuUTN6QQ?oc=5
 
 - 特別支援教育について専門家に相談できる「たんぽぽ広場」開催【次回6/13(土曜)】 - 美作大学
   https://news.google.com/rss/articles/CBMihgFBVV95cUxNZEl6eC1jbHE2ODJXd3lheGJfSkxRcGM3RjRQU09OUEF0bTF1V1N2MWlTVkhHa0F3T3o1cUhpZUV1ck1BbHFUcXk4NFc2dnlnbWRoTjIxWU1RS2dFMFBZaEJLNlN1Vm5OenRaTHBxRFhFV2U0TzJnS2h1U1pjSkQzNGcta3dzQQ?oc=5
 
-- セイノーＨＤ 「ＡＩ社長」が新入社員の不安や悩みに対応 - カーゴニュースオンライン
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE81WEFfTmh2R1ZWdmRSbXd0NWFZTWNzTE5YTGptU3JQMFBtR2N0QThvanVxYVJCTG51ZzM5bHFOZEdiakVjR2MxYWM3eUxFNk5KVE9vZWRRaVJaS3cwdFVN?oc=5
-
 - 同郷先輩らに相談、意見交換 東京 首都圏就職の県出身者ら交流 - 琉球新報デジタル
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qb2dVc1dObkVaMnRfbjQteC1UZG56N0ZHUkdQNUowck9Ha3llLU1ITnlYNFlESjlYLUxHMFNFTDhJc2Fyay1BREpMREFBUjJ5MVRLUXFxTkhENVUwMTNpQw?oc=5
+
+- 青森：学校の問題解決「司令塔」 元校長４人 相談対応、専門家へ橋渡し 県教委が新設 ：地域ニュース - 読売新聞
+  https://news.google.com/rss/articles/CBMickFVX3lxTE54ZjhvSlFNbEQ3aXJ4RFZDbEQyTThkc0tqb25JWm44YjFIaTB2UUYwTkIzaXBpVjlQNmpsUUpjcXViT0xhZVN3NXR6NnN6aTRlYks5UUVYSzh5WUQ1aEZUN1JyNFlWbkotWHphd0d4TllCZw?oc=5
 
 - 7年度の相談新規受け付け、過去最多515件 能代市消費生活センター - 北羽新報社
   https://news.google.com/rss/articles/CBMiR0FVX3lxTE1HWkk1OGpwTTZNME1TU0FCakdadGRMU2NYYlJXUFdKbWt0NWsyMVBHX3VNZ3ZVSzQ1LThGcnRPbDdpWFcxQmRN?oc=5
@@ -42,8 +48,8 @@
 - 農林漁業者向けの相談窓口 中東情勢を受け福岡県が開設 - 福岡ふかぼりメディア ささっとー
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE94NXNmZzV6S0M4MGhiazBFa2Z4dHRYZUZ1WUMwbEY3cWJ3VUktQ0ZyU1NEU0tuZEtFakxRa0xVTkREbTlvLWtOMlN5NDVhdXlQa2tZ?oc=5
 
-- 奨学金の利率上昇で相談会 ２３日に全国一斉 | | 全国のニュース - 佐賀新聞
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE16eUJrOGxIR1RYVlJ0NHlMSjBfVUxHeGN0MlhRS1FkX2pWRWhWQVl5YnBiN2dvSk9CSURPcmpKVnVNRzNyVnFFckFoa0V4RVpUY0FMbWdR?oc=5
+- ミセス大森 現在の“悩み”を吐露 3人で毎日話している「忘れちゃいけない」こととは（スポニチアネックス） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1mOFJOZzhYT1RqdVJuZVJ2cFkzZkZDanhwMjdfTU5TNDlXang4VnljcGtmX3FXWnlWUGw4RktlSWFQSVptMl9mMmJBN2hTUDM1Q0MxdXhFTVlPSUxsZDRLOGRBcDdkeDByaXl6Y21RcHJmU1IyU3FGMjdtaHBiWTQ?oc=5
 
 - 高齢女性、人間関係はAIに相談 対人トラブルで若者上回る（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBDUVliOFAwWl83VlZkb0VuWFNWV3pWNVVBaHpncUZQaDVsUkI2RHh0YzBCbEwwSU1ZZmtqZHJIMjRQbnphVHJGR3pFMWtYMUpLWjZuOXA4UlEwYXUxUGQwV1hIYl9PMi0xYS12MVRJMUJXcHZkVVlScFdNaEJqREk?oc=5
@@ -51,12 +57,6 @@
 - 【青森G3】山崎芳仁は贅沢な悩みに頭を抱える/オッズパーク杯ミッドナイトG3 | 競輪ニュース - netkeirin（ネットケイリン） - netkeirin
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBNQzJkN1RxLWFVMGU2N0NWdVloVWpXa015NGtwMGtPc0FheHBjQW1PMEY4bU1pUVo3WVB6RzdPOThrdDcybDZITFl2ZjBFVXFYbUlwUVYxQkk2LThicFk4c09xTUo0ei1TX0HSAW9BVV95cUxQWG5KWnlyaUUxQm9wS3lxSnYzWHFOZkc5M1FXNjVSR2QyQll0LVhveXdISGJOTjVnV190UjNydW4zX29xMmo3T0lSTW9Ed3RmYkJ6M1lUeHpBR0g1TTBsU2pEa1FEVDlnbFYzbWxXVDQ?oc=5
 
-- 青森：学校の問題解決「司令塔」 元校長４人 相談対応、専門家へ橋渡し 県教委が新設 ：地域ニュース - 読売新聞
-  https://news.google.com/rss/articles/CBMickFVX3lxTE54ZjhvSlFNbEQ3aXJ4RFZDbEQyTThkc0tqb25JWm44YjFIaTB2UUYwTkIzaXBpVjlQNmpsUUpjcXViT0xhZVN3NXR6NnN6aTRlYks5UUVYSzh5WUQ1aEZUN1JyNFlWbkotWHphd0d4TllCZw?oc=5
-
 - スマホのきほん相談会 - city.ikoma.lg.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbDRDRWxHWkg3eWlYa0dCUWxxQnVDZ3RFdEpLaWttQXNHcC1rMzkwdU9SemZxQW5iS0xRUUFfVjdxZW9pZFZIN3NkU1dPcm9jbXBURV9OQQ?oc=5
-
-- 法務局に相談、活用を 名護局長が就任でＰＲ - 琉球新報デジタル
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE44bFBFcnI4R2JtbGlxd2xHY1JKWHE2V25MNFpkc19fUllFaHVPQnA0ektCTTVTc2FuX1NNd2VQR21IZ2ZNME9DSFBCb2RscmRoVW03cXRmeHRTQ3Rjd0E?oc=5
 
