@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-05-18 05:20) ===
+=== こまる相談 ニュースフィード (2026-05-18 07:16) ===
+
+- 中野キャンパス 出張個別相談│レインボーサポートセンター ｜明治大学 - Meiji NOW
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3QUtDWjNxVnpHVGx0UnRFSXdnb2VWTG1weWVQcEY5VHY5bDl0bVNreURRbGd1dkZSWExpTUZTM1Z5UDZoODZBTnB5cGZXbmVHSmYyM1ZMSQ?oc=5
 
 - 7年度の相談新規受け付け、過去最多515件 能代市消費生活センター - 北羽新報社
   https://news.google.com/rss/articles/CBMiR0FVX3lxTE1HWkk1OGpwTTZNME1TU0FCakdadGRMU2NYYlJXUFdKbWt0NWsyMVBHX3VNZ3ZVSzQ1LThGcnRPbDdpWFcxQmRN?oc=5
@@ -15,48 +18,45 @@
 - 解説 AIへの悩み相談 心理的依存、孤立深めるリスク - kyoiku-press.com
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE80SXRtZ2M3MEMzTENqclVOTGgzb1RzbHk0MmRvcjJEUzNDMzhMXy1BVXl5VndJN2k2d0xXcVlTaHRNQVpDQ0NTYXdTazBjeGc3RHpB?oc=5
 
-- 東京都内の児童相談所、26カ所まで増やす計画 専門家は都と区の姿勢を評価するが…人材育成は間に合う？ - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tN0xGM0liRlppSElodW0wTml2VVY1YkgwX0JNS2ZoRlh1R0NXS3llWXVsU2x6d2FOYjFxdnZrWG9DZGkzNHpqR0ltV3MwMkppUU5N?oc=5
-
 - スマホのきほん相談会 - city.ikoma.lg.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbDRDRWxHWkg3eWlYa0dCUWxxQnVDZ3RFdEpLaWttQXNHcC1rMzkwdU9SemZxQW5iS0xRUUFfVjdxZW9pZFZIN3NkU1dPcm9jbXBURV9OQQ?oc=5
 
 - 健康食品相談、2月は減少に転じる 通販・電子広告関連は高水準維持、東京都相談動向 - ウェルネスデイリーニュース
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXbXNmSHBObHI1dzRtTjc5Wm00dDNWRG5hb2lUeW51Vnpham9ERlp0YWs0eDVaVzJJVWc4MzNMOGVUTGtJWWhaRUVURVRFT2VpeTRpSEx3?oc=5
 
+- 東京都内の児童相談所、26カ所まで増やす計画 専門家は都と区の姿勢を評価するが…人材育成は間に合う？ - 東京新聞デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tN0xGM0liRlppSElodW0wTml2VVY1YkgwX0JNS2ZoRlh1R0NXS3llWXVsU2x6d2FOYjFxdnZrWG9DZGkzNHpqR0ltV3MwMkppUU5N?oc=5
+
+- 生成AIで商品選び相談は約4割が経験、購入前に最も確認するのは「価格・送料・在庫」―創作品モールあるる調査 - コマースピック
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE16bndvRng1QUdLcWlsbjM1U3dVS0VWOE95NUo5am5OVTNWQk8tSEd6QllDNEJidW5DMmdyQklwTGFHQ2oxMTJFVGg2NzJ0QkdleGJlV1p3?oc=5
+
 - 6月1日は「人権擁護委員の日」 - city.seiyo.ehime.jp
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmpWcU1yZ3FkUnVxNkN4UjYxYk9CdTZlalhMYTU5SGhhMG45ckxiR0FPQ00wZF90UmlPNlRPMWlqcnMtZ3FPdGt1NWM2dlFQeTFGUnRQUnd1blloS0J1dXN6NS1nc3RaT1ByTEhJajdyRU82eWJ6SGduSk5vbV9xMHR4OEJJa3Rt?oc=5
+
+- 京都・大阪の片付け相談 「タノカタ」インタビュー｜時短×整理収納でゆとり時間を。 - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5xWGZjRWY2TmxIM2swZ1FwQmRFUUNLc29ZRXNGNWVkYnhSeTFzeFZadlZkdGVkNm90T0NoUTlOYjcyaTF2UF9OcndrbXU2c3k1UHZ0NEV4NW9uX3lxVXV5ejhtNElHeHJoQlZydWdnSmhySktJTGVCbUtaT0Y5NUXSAYQBQVVfeXFMTUZvZV9VWURiekxlbGt1ZWU5bWZGMWpTcmlfTFJaRXlKY05jcjV4MFdQQXYyb3NXWTRQbkxfOThuODk2Q3lUdWZiM2YySkJjOW5OYUlFV01CMWFHS0NMVDVRVUFfTk1QZ0lydTFpNHViZjRYSHJKZmVrNmluRXd6SXlwNXZH?oc=5
 
 - ［PR］新横浜の佐伯さんが無料相談会、遺言・相続が“ひと目で分かる”資料も - 新横浜新聞（しんよこ新聞）
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE14WGlvRkhTZjJQaWprVks3MGk4QUVGd1B1SmstYlpGOFFDYmtYcE1yN1FQREIta0MzSjE2azZ4dGNPMkNaUl94LWhHXzhRb1BPMzVaYnVZUWJQLTVxeWc?oc=5
 
+- 相談事業者800増、影響ありの品目は1増 - 日刊薬業
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE52eGh1SUtQREVPQmN4dmdEcU96Tkk2OG5NazZ4SHVMUW9TSHJ6eHFSTUxJRDVKY1hoM01ESzJmd0FYb0tGVUUzdg?oc=5
+
 - DV相談件数 過去2番目に多い551件【徳島】 - TVer
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CNWxCU0NUM01ScU5JM2VrZUVsUktvdm1kLWl3azYzMFNQTVFmRFZEdEhKMm1YQzJXcFFJUF9reE9jSzZDd0pGSTZkNA?oc=5
 
-- 元メガバンクの美人社員、結婚相談所を始めた理由「最初は恋愛相談を1時間6600円ではじめて…」 - ABEMA TIMES
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LTWxJTUVTZkxBVEpRbVczSTRJTWxlWFEtalc0eW84cXBrUEpmYUp0Y1ZUeklyMjRVbFVIMUxPVTVqaWk3dW9TbXltYmZjdVhjWXpDTw?oc=5
+- 「言葉通じない、どうしよう」 高校生が海外研修旅行で困った経験 沖縄で始めたことは？ - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE03N0UzTi1wRTZKd0NUWWoxYkg2b2NlU19fYUMxM3YxMjdxaGdOY0FqN0FmMC1ZOFdOdnhnQjdkeTdwZVA5dUMtbjcxVDBUelBvckVDZ0JZZVdybzliUXc?oc=5
 
-- 事業者向け相談窓口「いばらき経営サポートデスク」を開設しています - city.ibaraki.osaka.jp
-  https://news.google.com/rss/articles/CBMijAFBVV95cUxONVMzdnZYRUtKbmJhdmxwNzFEbEg0MlN1TllFcHFKTE44ejV2X3F2QmpDbEJiMkc5QnFTdEdLWUdtNi1wZDR4MlFiVTNEckd1ZzRseHFtc3VKcW51a3BJYUNpNjlVb2RKck9lMVRTSlZQX0kxWmFqX2JUclF6QUVjUU9qVEJiejU1dURXQQ?oc=5
+- 新規就農者の支援強化／白浜町 相談から定着まで - AGARA紀伊民報
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IdHdFTkdRR0VwSERlbEV1TUVwYWhpejAwVkhDTndqdm9WOXZraUpjY3RhUDdkV2tKMmwwaExtcGVOUFNhd1E1b1phVzZzbHdDUFhuUFNTSm5lQ0RnVTJB?oc=5
 
-- プレスリリース：CogEvo(R)初のAIレコメンドサービス「CogEvo相談室」を提供開始 ── 認知機能の測定結果をAIが「自分ごと化」し、日常の行動変容を後押し（PR TIMES） - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pZkhENkp6N0VadDgxX25QczAtZ255MkJmQ0JMdVE4bDR1Xzh6cVFqSEFybExqTDgzREhuZWY1TG5BOF9QSnZzVkZkYmp1MEo5TVpsM1ZEOVpubFlWUXBzSzdaMFFUMWJ0?oc=5
-
-- 消費者から相談 トラブル対応 「ネットワークいしかわ」報告会 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KWlpfNTdNb0hWNTExM0I4WGRBbWdKSkszLXlQc0FCY05rM3A0d3FWMTFqVlZxOEJSZDVyOVhUVm40OG9YMElBaGl4MA?oc=5
-
-- 【一宮市】どこに相談すればいいのか分からないよという方に「いちのみや不動産相続相談室」のホームページを公開しました！ - 号外NET 一宮市
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE94S2lCYlo1d19mUEN5ZElYcUJXUzNkOWFnV0FnRHcxTmFyazZ5VjNVUkhoT0tuOTJxMmhQYm5XOXpmYjc0eFZlTlRIR3Z0RHJ2bGtOb2YzSG55dTJPZUQw?oc=5
-
-- 千葉：淑徳大 読売 共同千葉県調査 相談窓口 低い認知度：地域ニュース - 読売新聞
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE1HdDNBTkVVLUxnVzlReEUwd0NwbU56RVlJTnJxQVQxSkhyQ1dFQmxqTGtONzktajhUSGd0WUhGSXVVZzJhUi1RRGhFeXVVcHljdkFqVU9DUlBlYVIxYTlEUXdMNFZUSk5MZTlFVk5hTWFRMnFU?oc=5
-
-- 広島市中区でギャンブル依存症パネル展、多重債務の相談先や解決策紹介 - 中国新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5YS03dEx1dW5SN3RmZFpYVk1NTzJhQkpjLU1aWDd3eUhfcWkyZFJ3clRXNW9LdXY1S2hTekZwRFBfZ1NRdmF3YjJtdUxTcGMxQjRia2xYSWZJUQ?oc=5
-
-- 新入社員に「期待される成果」とは？ 上司に直接聞く人が評価されやすい理由 - 幻冬舎plus
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uekppUkh1VHE4WUpSMF91SmVrMkVqMjBuajVmZjBXeUxWVXBoQVo0ZnlUZExCRm95Yy1xR01xRmJyZ0k3REthb0tKbUVlbVU?oc=5
+- 【中学受験】【高校受験】麻布・渋幕など「なんでも相談会」6/27-28（リセマム） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5aaXNIN0xjYVh4ZVdtVVlGUm93WTF1VmFjaG1HX3p2ZElVb1g0ajRfeHN0SURqOGlkT3lmMmhLNFllcTNLMnRqSUJIa1FQRU8yOXhmZ0FTbGpNanowQWZEb2R6S0s1a0FFMGxRU3QtWjRwWnhLMGFiRDEtd2VQbHc?oc=5
 
 - DV相談件数 過去2番目に多い551件【徳島】（JRT四国放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE8zWFdqSHRTLWlMSGVYX2VMcWpWYmYxYnFfMGpBbE9Hckc1c3U4ZUZBWGxjMHN5aWlwMW04OHlsYUVTMXVzNVRQUnpRZEtFMmR6ZXFXdjc0eXZvUW1sNnd6S0xrazI2TEhwdzRmMnlWNWNiM3V6Z1lpM3FYZ01Rbm8?oc=5
+
+- 高齢女性、人間関係はAIに相談 対人トラブルで若者上回る（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBDUVliOFAwWl83VlZkb0VuWFNWV3pWNVVBaHpncUZQaDVsUkI2RHh0YzBCbEwwSU1ZZmtqZHJIMjRQbnphVHJGR3pFMWtYMUpLWjZuOXA4UlEwYXUxUGQwV1hIYl9PMi0xYS12MVRJMUJXcHZkVVlScFdNaEJqREk?oc=5
 
