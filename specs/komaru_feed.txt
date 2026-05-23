@@ -1,6 +1,6 @@
-=== こまる相談 ニュースフィード (2026-05-22 23:22) ===
+=== こまる相談 ニュースフィード (2026-05-23 00:27) ===
 
-- 移民・難民相談支援ネットワーク事業 事業説明会・第1回研修会開催のお知らせ（2026年６月２日） - 移住連
+- 移民・難民相談支援ネットワーク事業 事業説明会・第1回研修会開催のお知らせ（2026年６月２日） - migrants.jp
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hTnhmb21UTEk2a1R4dy11TG9yX0FzMXpueTZER0Jvdk1TdmVkTzZNRl9HMTcxaTFHX0ozWEZ1Q2tRQkwydTVmamhiMmk5NnZNU1RB?oc=5
 
 - 【相談対応Q＆A】誰に相談したら良いのかわからない - リセマム
@@ -15,23 +15,26 @@
 - 「ぼくとモヤモヤ」子どもの“SOS”に寄り添う「悩みを持つことは誰にでもあるということを伝えていきたい」【news23】 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NN1dUaXdUS1E2VE9mVVdJUkswaWhnaE8ya1l1UDV0Nkx1YTgtdDVfY0VuNi10Y1Ffel9malhZekFqc1JPdmFEQmFodTR2c2tnbW9yRXRMWQ?oc=5
 
-- 中東情勢を踏まえ中小企業向けの特別相談窓口を開設 - Newscast.jp
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xdnhRdWZTZWV3a29OODJ0WnREZWtEMFQ2SC0ta1dmamtvLXBmQWpRVDI0YmFDLXREdjdQRlgtYmtENDFPVFdtcEt5MDFTNGc?oc=5
-
-- 大久保佳代子のさすらいの人生相談 - BS朝日
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VQUQtS0VYWnVLOUV0d3NQUHhrT0VoS3F3UWdKY21XMzZ6TWNVUVBoUmVZeVRLQS1oWTJyVDF1R2RDLWJ3bEpXYW90SnAzaDljRF9SS0MtMGZ6NDg?oc=5
+- 橋下氏「“次の知事選出馬”吉村氏から相談あった？」に「全くない」明かす 松井元代表には相談…「寂しくない？」に「人望がない」と自虐も 「吉村知事は知事選出たくない？」には「大阪府知事はしんどい」と回答 - ktv.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vOUxsTTZZYjJHaTBxSkhzS290OXZmdUtNRldrOXhaWHJld3VUMnpqLXFFaTJUWlg1ZUpkTDQzQ1BqUTZobW5JZHVHc1NEdURVMnhySg?oc=5
 
 - 江別の小学校、相談記録を別児童に誤配布 教員が他の資料と混ぜる - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE12YTdwcnd2ajlHTUJCOWkwakhhRjFkaFpnMklVNzhaekFuLW15QU42am5JWkN5VDJlYUFHUFpNWklXZ3duOHp0YWQ3dGpNbFhscHVDRXFEdW55QQ?oc=5
 
-- 橋下氏「“次の知事選出馬”吉村氏から相談あった？」に「全くない」明かす 松井元代表には相談…「寂しくない？」に「人望がない」と自虐も 「吉村知事は知事選出たくない？」には「大阪府知事はしんどい」と回答 - ktv.jp
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vOUxsTTZZYjJHaTBxSkhzS290OXZmdUtNRldrOXhaWHJld3VUMnpqLXFFaTJUWlg1ZUpkTDQzQ1BqUTZobW5JZHVHc1NEdURVMnhySg?oc=5
+- 大久保佳代子のさすらいの人生相談 - BS朝日
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VQUQtS0VYWnVLOUV0d3NQUHhrT0VoS3F3UWdKY21XMzZ6TWNVUVBoUmVZeVRLQS1oWTJyVDF1R2RDLWJ3bEpXYW90SnAzaDljRF9SS0MtMGZ6NDg?oc=5
+
+- 中東情勢を踏まえ中小企業向けの特別相談窓口を開設 - Newscast.jp
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xdnhRdWZTZWV3a29OODJ0WnREZWtEMFQ2SC0ta1dmamtvLXBmQWpRVDI0YmFDLXREdjdQRlgtYmtENDFPVFdtcEt5MDFTNGc?oc=5
 
 - バックナンバー｜かまいたちの瞬間回答！～60秒でお悩み解決 - fujitv.co.jp
   https://news.google.com/rss/articles/CBMib0FVX3lxTE5rVnFNX3gwd09aWnp0VGktenAzbDh2R1RFSzFTVW9aaWZhUHBBZ08zM2ZydEplRnh4aXFsc1Q4TzI3X2NzOHB3QlM5ODN0RUNfX1h4eVVCRWNwSXpRdlNSWEVOQmE0T1JlVElpREJFOA?oc=5
 
 - 東京都北区、中東情勢受け相談窓口設置 中小企業向けに - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBQa0k5bjdrQmZrM1VydUdZTUV1S0FvMTFua2pQWGg0N2NUVDZpUTREQloyTk1NemRwMFpuNkpiQ2ZoeFJsd1NCSUtMVng5SWwxNnN0LUZyN184ZU9va3RwRG12a3JIblhHVHJXTA?oc=5
+
+- 事業者の皆様による建築相談等について（予約制） - city.kusatsu.shiga.jp
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxNSVJDYzRYUWRSQW01WEtsVkJFVDJUdGF1VmxOQTR1WG40RGVTYmNrMzItUlllc2xWRGJ0NWNYXzZkcDdzT3NSRTZGMzRQNjhMbGUybnFBeWFQbmtQMmxuNEQycVVLWHVCTG5HWTh2a3A0S1YtekFNU2NoYjZabzJhd3VsR1hEbHliY2EzWVVUQnB3VmNfVzJVc1ZR?oc=5
 
 - 人生相談：労組委員長を辞めたい＝回答者・高橋源一郎 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kMXB2RDVnQmtCTDZLeEZMV2F2Y0U2UWxram1TcnNLZUo3ei1OZ2RxWEFBdkNocTd0enVfc2lNVm1aQ2ZiRjhOYzNxTkpzTHpFeUdRTDJrRDVWazV2aGRpMGtNdTR6bHFZ?oc=5
@@ -42,11 +45,11 @@
 - 地域の課題対応に功績 行政相談委員全体会議で表彰 - わかやま新報
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6NDctd0dHZ3dyOWd1REU3eGs4MVVYNjRmMnNJYUFXcV9ReDBaRFRkdFJlTFJaRlc3YzBFTm11ZW1QVFF3TkJDYlBqeldPY3lQSUx2QnV4YUp3eF9GaHVUd1g2MXh6bVF1?oc=5
 
+- 生成ＡＩへの市民相談１２５５件 横須賀市、実証実験の結果まとめ - カナロコ
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9KeWZQeVp1eHVnNEt0U1BCbFAtRWlmS0p1VjZ4RE5NS2dTMUJjb0xNRHB4WVlQNVJKZWZDWHRwbXk1bV9iMi1DTkFnVzRVbkdkanJfbHBzZmRidHR5dGFIdEVEZjRiSXZJdnpEcQ?oc=5
+
 - 釜石地方森林組合「大槌町林野火災相談室」開設中 被災した山林所有者の不安軽減へ対応 - 縁とらんす
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxTEh4d3d4azZpQW1uUUs5VWp6ZmwtcDFNSUZydlpzXzkzdXo3bjVvdjI1YWt2eGNFVURZNHZmRjY5NG0zWFVwdExWSXNoMGFrX1hybUVhdTl3eWlIOUdLTE1WZmVGdEFZ?oc=5
-
-- 子育て世代をどう取り込む 学生が企業の悩みに挑戦 山形市の大学と自動車販売会社が特別授業 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9hVVIxQlI0TldTY3RBSFMwMTZXak1SOWQ4blNrbDRQZWh5VVJhOTU5Z3pzemNzVEdrRlV0WUZGeFVwUU45d0FHYW1nV3EwVGVfSFRTb1RhR0E3OUJONUV6RnZvVmhRMVRyMVk1ZUs0SXFxekpwejR2bUd5cHYzX00?oc=5
 
 - 赤字8区間の存続策 鈴木知事「JRから相談あれば汗かき対応」 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBudWdaMHk5YTBrd1NjYUFmLWdmVWhrTExhT0x2dkJvQzl3NW1NeDlRSDF3V3d0NUNDU3h6WW1MUlNKdkoweHVUZVVxRE5OcmF2NzUtaXp5VzdsQQ?oc=5
@@ -56,7 +59,4 @@
 
 - 悪質な手口に注意! 分電盤の点検商法 宮崎県内で爆発的に相談が急増 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CQTJ4WHYyUVdWdXgwNDJtaDZEVzdlVHBDejBhQk5CREE1MDd6cU5ZSW5NNW5YMTV6OFN0N0tFSURoZmhUZlVuZ1hEUUF1SEYyNW4yVS14dXFobFl6S0JNQVBZcTlxLXM?oc=5
-
-- 梅雨の「髪悩み」が外出をためらう原因に？40〜50代の9割が実感する髪質の変化と解決策 （HALMEK up） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1Cdm9Bd05JSy1jS19zdWxJYlpFQXl6NklhdGZCNEhLcTJKOEFlTUlETlRvRU1VVVBuRk5UNWVLemtOaDR1OUVoU3BnV2ZXdnp1Z3FWcDBzZnpHVFRkamtpN1kwTW1uM2JhTUZwcWxDUTVsS1VGNlBtcDBXa0NBdnc?oc=5
 
