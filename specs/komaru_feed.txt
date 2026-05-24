@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-05-24 21:17) ===
+=== こまる相談 ニュースフィード (2026-05-24 22:17) ===
 
 - 【6月19日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
@@ -15,8 +15,8 @@
 - ６月１３日にオープンスクール、体験授業・個別相談も…京都女子 - 読売新聞
   https://news.google.com/rss/articles/CBMiigFBVV95cUxQbC1qNFZ4bVVtWnp5S3JzTG1FZlp4Z0hxYnhvNVh0SHBQclVWSjRNWnAwd19QMlZZLV9hc283VnVuNGJucHRiY29nbmpLbnQ0V3Fjb25wZVhrdTJiWmZXOFU4VUZ2S2lDai1zV25GUHZHN3hld2NkWTFHZTBWV3NfVjFXcVAwLUNGRlE?oc=5
 
-- 特設人権相談所の開設について - town.hirono.fukushima.jp
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE1kRlB1VXdnZEpDejRLU2MyLVFfSjZiNXZFa0pSbVVmU0lUdmE0SHBvcnBNckFXbTYzclRCeGpGa0NwMFRCMW1LY0g3cFdybUtWQXY5SzZ5Z0tBczlwLWZQRFVJcEFJYk91YjBhcmhyWGZDcVFkRGlscFNKLWE?oc=5
+- 千葉県 訪問介護ヘルパー対象に “カスハラ”相談受け付け - NHKニュース
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE05WGx3Z2Q4WmhZLURSS0xFR0xTSHJoQ1FaWEZxQkxRWXRaSjMwWW9sZEFrNVRzV1MwS0tsbV9XNzdaRXo2WXVMcUNibXY5VFh3RHJzS2UxeXk?oc=5
 
 - 外国人の悩みに助言 移動相談会【釧路市】 - 釧路新聞電子版
   https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2S2tUUDA3SldhSFZlQmRCYW0xb19LYm1NM3NkNVhxZlFNSjlKbVc0UlRVTFNEN0l3bE4zbGItNTF2eHpzald4bllOUUQyU3gtVWsw?oc=5
@@ -33,14 +33,8 @@
 - デジタル相談員について - pref.hokkaido.lg.jp
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EV01CWV9uRDJtUlk3R1Jac1ZYeGcyN1J0RE9OMWNpUS1sS2pGOXM3bm5EaHB1ekMwcV9wYkl1VVlhN0ZROU9QOC0wSVdTVEhrU1hpZjBMNTBCcmdSaE9r?oc=5
 
-- 木造住宅耐震改修無料相談会の開催について - town.aichi-higashiura.lg.jp
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1xLWczdm9TX0JkXy0zNDQxdy1NMGt3QUR6XzhpVXpXNC1Ga01oRkZsZk9oM250djR6clNSQ3VGVExiTzdVM20wSnV4LW1ZMWp6ckNpemVjS2EtaGtldC1Nb1FUZU5RU1lEZ2ZHRDMxcXhScU5LS3c?oc=5
-
 - 経営・創業に関する相談窓口「ビジネスサポートセンターこしがや」のご案内 - city.koshigaya.saitama.jp
   https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXhhY1QwWi1OY0ZWTEdCSENRZ0NoeTN1WTN0cHhYcjk0TGJELUdaRmJVVjZfSDhGZU5oOHdZLXRpaWJVeDFnQnBQMmt0S0MzZk12Wl9mSmdPTzRDOXVmNGZweXB4Sm8zbU1hNmZUV3ZoYTlmQzNzelFCangxRkt2R3dzYklfalppVjBMaEdFS19qTVA4MEFz?oc=5
-
-- 医療 健康相談もAIで? がん情報では誤回答も どうつきあう? - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zQktqX2JTZGgyUGY0NlVqQ1pGSFBRR296N1ZiQ01GT2xNT05oMUdBdVNsYzBvMXVDUDh0TWw3V3p2UjVjZks2ZFh4UUhZamZIODFTRXkwZFVob0JWYlBr?oc=5
 
 - 「第84回おおた介護のお仕事相談・面接会」の実施について - city.ota.tokyo.jp
   https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnVCNG1uVEhnUlVTeFVLQkRTcmdnd0JBTHBMVXRtTGw3bUhyclNBNkZ6NXZPTk54N3VyOEotaXM0MWxjZW95TUZ2UFJIbDFJMDQ2REVKZkZsaW8xR2RLWGJkTUk4Y0x4LTlKQktIVHNXOEo0Yy0ySjRSdHJoWWhMVFZiR3M5VmhqWWlMNzBn?oc=5
@@ -51,12 +45,18 @@
 - 「バイユア」から肌悩み別シートマスクが発売 NMNやシカ、発酵PDRNなど配合 - fashionsnap.com
   https://news.google.com/rss/articles/CBMifEFVX3lxTE5nVFd4cG8wdUtqRkx6bFQ1OFVlRURyUHFrcVJOSE43ckF6aVRDS0tiNXJOdjhQcjUtbEx2REFlTW5zcWtZeXVvUHdGaEpRbjZYYzZiOEFzSWQzSGFJNjhkVlkzWE9Ja0NMSUVVbXd2VmQyZDgzOTlIWjNMYWY?oc=5
 
+- ICT活用の悩みを持ち寄る2日間「教育と社会コネクト2026 in 道南」、7月17日・18日に函館で開催（こどもとIT） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5sWVhDYlNwTjRCd0psN2Faai00QzhLdXB2NzItWWZCOUtFdjVBTzhjNlZBZHhXam00N3FYTFpMTzFsMlV0NW5Ja3kwVHdkRGRXVGwzRy1PQUxkYmVYX0VRSVUtX09yNWxOZFZIS29pN2RMc0xSQ0dfV2x5SDV3ZWs?oc=5
+
+- 医療 健康相談もAIで? がん情報では誤回答も どうつきあう? - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zQktqX2JTZGgyUGY0NlVqQ1pGSFBRR296N1ZiQ01GT2xNT05oMUdBdVNsYzBvMXVDUDh0TWw3V3p2UjVjZks2ZFh4UUhZamZIODFTRXkwZFVob0JWYlBr?oc=5
+
 - 自民党衆院議員の娘が「結婚相談所」で出会った“運命のお相手”とは？ 「プロフィールを見て、ピンときて…」（デイリー新潮） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE96YXJrdXFVQXNIN2xoX0wzak8wV3BmS2NjS0o4UVlqR1Nrc1JueHREQ2NKZzhhdXBoUEdMUmJiTU82M1FqWnVHZDkwa2VIQkNldmRPRVFraE5yUmdIZ2pQQmtVR2VrMXkzZnFoTFFXLXJtX0RfUERZTWdOdTh1OEU?oc=5
 
 - 女性相談の支援員配置27％ 全国の市区町村、脆弱さ浮き彫り（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9lS0pWVG52Z1BKd0Q3NlctWmtGS1FVVUFLZjR4ckc1NVVoM040Z0ZUVnFMQnppbV90YkZyM0d1Ym1qVXdmb1JfRDVPdHRwV3pzTk5NT29VSXA0STc4ZEhmUGpEOVdydWN2NDRTeXdFZkNubmR0bG5zazQ3Z0s2UDQ?oc=5
 
-- 愛犬や愛猫のお悩み、先端技術で解決 長寿化背景に「ペットテック」市場活況 神戸の企業も新製品開発（神戸新聞NEXT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTmdzeDIzcW9sYV9ob09pd1d6TUV3dmNuVDZsWUE5RGFteVpzUGZWcmFzdk1vNWVMZlhOaEVwaTg1a1ZNU2lDMHNYVjRiNXhvZFNWVkZveHQwaExoYkw0d0lLd3d2NVRtUGRkZklEUHI0YzF1eXRTMkhiUTg1WDQ?oc=5
+- クマ出没、学校現場直撃 臨時休校や外遊び中止 教育と安全、両立に悩み（時事通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1Lak5GZUNucWxtTnN0WTFNTF9sV1p6OFdXVHlLNnlIcU9JOEtYUzdjN3RfdmlsdUJ5ZXpiSDRaY1pSRnVZakRWT2lzQzFBc21ZVHNzSE1lcG5wWS1DTk5idERoNGRLN01IWDNMa1Z1MndMdm9lcldEb1FnQnRWWms?oc=5
 
