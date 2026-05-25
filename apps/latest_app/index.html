@@ -1,1 +1,41 @@
-<!DOCTYPE html>\n<html lang="ja">\n<head>\n    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n    <title>相談 - 外国人の悩み</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            background-color: #f0f8ff;\n            color: #333;\n            margin: 0;\n            padding: 20px;\n            line-height: 1.6;\n        }\n        h1 {\n            color: #007BFF;\n        }\n        footer {\n            margin-top: 20px;\n            font-size: 0.9em;\n            color: #666;\n        }\n        form {\n            margin-top: 20px;\n        }\n    </style>\n</head>\n<body>\n    <h1>外国人の悩み相談</h1>\n    <p>こちらは外国人のための悩み相談プラットフォームです。経験を共有して、サポートし合いましょう。</p>\n    <form id="consultationForm">\n        <label for="name">名前:</label><br>\n        <input type="text" id="name" name="name" required><br><br>\n        <label for="experience">経験を教えてください:</label><br>\n        <textarea id="experience" name="experience" rows="4" required></textarea><br><br>\n        <button type="submit">送信</button>\n    </form>\n    <footer>#KGNINJA AutoApp</footer>\n    <script>\n        document.getElementById('consultationForm').addEventListener('submit', function(event) {\n            event.preventDefault();\n            const name = document.getElementById('name').value;\n            const experience = document.getElementById('experience').value;\n            alert('相談が送信されました: ' + name + '\n経験: ' + experience);\n        });\n    </script>\n</body>\n</html>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>家庭内のトラブル解決アプリ</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f0f8ff; color: #333; margin: 0; padding: 20px; }
+        header { background-color: #007BFF; color: white; padding: 10px; text-align: center; }
+        footer { margin-top: 20px; text-align: center; font-size: 0.8em; }
+        .tips { margin-top: 20px; }
+        .tip { background-color: #e0f7fa; border: 1px solid #b2ebf2; padding: 10px; margin: 5px 0; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>家庭内のトラブル解決アプリ</h1>
+    </header>
+    <div class="tips">
+        <div class="tip">
+            <h2>冷静に話す</h2>
+            <p>感情的にならず、まずは冷静に相手の話を聞きましょう。</p>
+        </div>
+        <div class="tip">
+            <h2>謝罪と理解を示す</h2>
+            <p>誤解がある場合は、まず謝罪しお互いの気持ちを理解することが大切です。</p>
+        </div>
+        <div class="tip">
+            <h2>第三者の助けを求める</h2>
+            <p>必要に応じて、専門家や友人の力を借りることも考慮しましょう。</p>
+        </div>
+    </div>
+    <footer>
+        <p>#KGNINJA AutoApp</p>
+    </footer>
+    <script>
+        // 追加のJavaScriptが必要な場合はここに実装。
+        console.log("アプリがロードされました");
+    </script>
+</body>
+</html>
