@@ -1,25 +1,19 @@
-=== こまる相談 ニュースフィード (2026-05-26 12:53) ===
-
-- 【解説】なぜ児童相談所は警察へ通報したのか？巨人・阿部慎之助監督の辞任を生んだ「ChatGPT」相談の盲点 - ktv.jp
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wbUNKa1RIVy14ZkdVSjdqdVFkZi1NZ21aNnFtaEwwOE9weUhHV0REYlhocjJEa1U1cXFCeXNwQy13VkxGZ2NyM3lITkE4bWdhRF9YRg?oc=5
+=== こまる相談 ニュースフィード (2026-05-26 13:59) ===
 
 - ｢“チャッピー”に聞いて児童相談所に通報｣などと話す子どもも…1.7%が子ども本人からの通報 愛知の児童相談所 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxVkRLWXc3SVJ6TTBBejFCdzMyczl6M2V3RkpHLVNHUHhBNGo5NlB1eGN5UWVmb25HNXczUC1fNkhGaVIyQUExVFJ5aUNaclFweExCekc4RDRydw?oc=5
 
-- 10代女性の半数、AI利用目的は「悩み相談」 阿部前監督の娘も - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUTlNaRHdwbnpFODVMOVQxOTFqLUllWmNhVE0xRFdIVjdpUHZPeERsOHZCcDJjdFVLZ0ZZTjZzZUZMN2E0Q2Fqc1MyVGVDLUwtaFZCeERtdVNxa1FnOHF6REs2XzRIZWtS?oc=5
-
 - 「“チャッピー”に聞いて児童相談所に通報」などと話す子どもも…1.7％が子ども本人からの通報 愛知の児童相談所（CBCテレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9KcEZoY1F2VmhPOFZiZmZoazMwdW5icHI0V3kzZ1I2V1R5NTRQdDdYNF9KbEw5NVZvT0c3QVNoMkpvLTh0MFpWQU5YRGVRdUZPYzZjVldDV0J5THJaRjRqZ0Q2S2VzaUxuQTJVN1ZLbWg4M0Y1S1IzN2JUbUFhQXc?oc=5
 
-- 暴行容疑の巨人・阿部監督が辞任 娘はチャットGPTで児相に相談 [巨人（読売ジャイアンツ）] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ga0M1bDRkLUtZTmVrb3VQS0pZUTZNMVFBWHFQckh1bTZfbHdfMkZZQWFzZHpUSGNWSG5fYUNxTUVRMnROenJLOGUzSmNZNF9oUjlFb2tHMF9mQm13c0VNMWtDOS1xTDg?oc=5
-
-- 阿部前監督の長女、「チャットＧＰＴに相談」して児童相談所に連絡…「大がかりなけんか初めて」「父とはすでに仲直り」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YZlR2azVXLUpzc1ZqS0VzU0ZMYkpvbEJfa1FDd3BGVDMzZkw5ekVKWldfcEZvclVmcVlVaWRVM0g5STAwaU1sRVhoX3ZKbmx4N25GUFNSaFQtOEFpcV92bTJxcUxPQQ?oc=5
+- 10代女性の半数、AI利用目的は「悩み相談」 阿部前監督の娘も - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUTlNaRHdwbnpFODVMOVQxOTFqLUllWmNhVE0xRFdIVjdpUHZPeERsOHZCcDJjdFVLZ0ZZTjZzZUZMN2E0Q2Fqc1MyVGVDLUwtaFZCeERtdVNxa1FnOHF6REs2XzRIZWtS?oc=5
 
 - 「チャットGPTは教えてくれていない」児童相談所のこと…『とれたてっ!』出演者が指摘 阿部慎之助前監督の騒動に関し - オリコンニュース
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OaVhMZzQ2QzE0dTgwdlR0WUZuTnBkblJ0NEZKZk9sMF83UWREWUVIQkM3QXdfY0s0SWQ3aEJOS3RPNkdfVnVnMlptVFBkNnBjUmVJNnlB?oc=5
+
+- 阿部前監督の長女、「チャットＧＰＴに相談」して児童相談所に連絡…「大がかりなけんか初めて」「父とはすでに仲直り」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YZlR2azVXLUpzc1ZqS0VzU0ZMYkpvbEJfa1FDd3BGVDMzZkw5ekVKWldfcEZvclVmcVlVaWRVM0g5STAwaU1sRVhoX3ZKbmx4N25GUFNSaFQtOEFpcV92bTJxcUxPQQ?oc=5
 
 - ChatGPTに「相談→通報→逮捕→辞任」　阿部慎之助前監督辞任から考える、AIとの向き合い方 - イザ！
   https://news.google.com/rss/articles/CBMidEFVX3lxTE9tbFVGV0JzWGhfWU54cmFVeHJfWkZXZkNJV1luZGpraXRRbWxZNDR5MUFqOUY1a3pOLXE1YWNiamJFeUI3R0htaWlSb2ZUZUhpaXg2bUJWTkhLM0dycS1HV052N21vZUpDUmZEcGlIbnRIQWFT0gGIAUFVX3lxTFBWX25JUjVfajVleW8yck1uUFFlTVYtN3E2dXd5ZXdxcjNlUi0tUjhJLUVUQUdrdk1sN1BoRWdyMnYtd2ZJc2R5bW9IZVZfWnhyeWQzZnFlYUFEU1Rpbml4c0FEbzMxVnhqM0pqNlZ6aHR0a2tJV3g3d1RoV2JpR1BkdVdxUXlGdkM?oc=5
@@ -33,8 +27,8 @@
 - 【6月19日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
-- 読売巨人軍・阿部慎之助監督の娘「チャットGPT」に相談したうえで児童相談所に連絡 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5PbHdKd0tuSk9tTWRkeld4eDN2Rl9OUTNta3YzTGdpTFRITmhYX2V0MzVxUmdyMjV1SGtNR0xNWFlxWUhRUzU0N3NxV2FsNzc1MUZfekdVQkxneEw2UWV5aDZGblVpT0o3cnNuREgyblladw?oc=5
+- 暴行容疑の巨人・阿部監督が辞任 娘はチャットGPTで児相に相談 [巨人（読売ジャイアンツ）] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ga0M1bDRkLUtZTmVrb3VQS0pZUTZNMVFBWHFQckh1bTZfbHdfMkZZQWFzZHpUSGNWSG5fYUNxTUVRMnROenJLOGUzSmNZNF9oUjlFb2tHMF9mQm13c0VNMWtDOS1xTDg?oc=5
 
 - 巨人監督「暴行」、なぜ児童相談所が110番通報 長女の意向とは関係なく？東京都はどう説明 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5kS1Zsbm5zYl9SQ19rQXdzNy1ETW52dmc4WkJEVms4ODdxd01OQmFkXzVleWRnYTdGQS1TajF1Rk41dlZWM2x2M19kUFRfU3ZqY3hsTVlJSkxLemthQXBPNHBhVko3Nk1zLTJUa3gzdzUzcDA2ZEZTWHFyWHgwc1E?oc=5
@@ -42,8 +36,17 @@
 - 寄り添っている「ふう」…AIへの相談の限界 識者が抱く危機感 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZWFHUDA4bkIxUXE5cExEMXh4cThodkF4S21uUDNRdU5wLVU0YmdiNFVEaG5ic0NjaEVvSG1xQkxkS2xoUllkM3RPZHRqUGMyMUNxS01Fd0VnOTh1eEprNEVlUHNyT3A3?oc=5
 
+- 【解説】なぜ児童相談所は警察へ通報したのか？巨人・阿部慎之助監督の辞任を生んだ「ChatGPT」相談の盲点（関西テレビ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9naDRVSUE4clprWlVudkJ0eDlVRnluOEw0WTN3cTFJLVpKSnQ4UlZlQ2tLUDhiS3c3UjE1TUlQczZiZkNyVDVhLTBYVDllc0xCZzgtRlc4eHdQNlVuSVRORWJKbVpBZC1XMWduRTBwYkdUWFRkMVZ5YzRCUEgzc3c?oc=5
+
+- 生成AIに悩み相談の若者急増 阿部前監督長女も相談し児相通報 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aT0xtT0lxelJwUVp3WUtIdDVzTERKVmdRQXdhMGJfYjdZQUpEVVZtWURxcFRfZFFFVlB0b3JBUEd3eXlmRjRGdXRZOVQ3VGdrd1BsbERsbVVNa2VFUm5sU2Q2NWF3YlI4?oc=5
+
 - 巨人・阿部監督の長女がChatGPTに相談し暴行を児童相談所に通報。AIが支援窓口を案内する背景とは #エキスパートトピ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjNmVjZfVU4yTnhTMG44Vnd6TjFVbS0tbllhN2VILWlDX2RwNGdkYjdvc2xmUGZwTUx0c3FGWmV0NHh0eGh0ck1BSko4QzUzZUV5YUpjSFlQX3dNS1N1b0RrNEd3SVVDWmhoaTk5VzQtMjI3b3NJc0RUdDNuWTFYX3NzZHBXOWhD?oc=5
+
+- 「父とはすでに仲直り」「殴る蹴るはなかった」「ChatGPTに相談し児童相談所に相談」「皆様をお騒がせし深く反省」巨人・阿部監督の娘がメッセージ（ABEMA TIMES） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE52WDh6Z05CYnBzZnF2Tm9QVW9fNkNZMUF3NnlCQ0g5a0hDSTg1QU92WDl6V3A1RVdJeWZldE9YRzRCNWJDWDBSN0xCOFRTLUVMa3F1RFE1bU93TWdmZmRMQTlZSDItZDlYWG5nYnZaN2QyUmZSSUtMZ2RhbFB5UWc?oc=5
 
 - 暴行容疑の巨人・阿部監督 娘がチャットGPTに相談し児相通報（毎日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBtSnFOTmdOWTNHWDZhc1RKbEx6UnRpcXVXQ25ONDJyMzJGS3UwV3RCMVFneXltQXpLQVlNbzg2NURBek5wTUI4aGoxd2h2TllYc2FySkxhUEY3SnRnaG5Hb0Z4dGNQNC1OTmMwVmJLUGktby1WTGxRYzdFVDE4bm8?oc=5
@@ -51,11 +54,8 @@
 - 読売巨人軍・阿部慎之助監督の娘「チャットGPT」に相談したうえで児童相談所に連絡（テレビ朝日系（ANN）） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9wbFM4bmJ4eUQ5dnJyNUZ5ak56U0QxXzBTaEtQNV90QzRfdGpnbG5tZUlwRE1ia3ZiLWsyUWo0NWRmUmRkWXo2OWRPMDhqRDJZU0ZDLTdOSlpyQmcxMU5VQzVzanRwT05uaU4xUHJHVklVdXoyVUhSUDlhVmpmNDA?oc=5
 
-- 「父とはすでに仲直り」「殴る蹴るはなかった」「ChatGPTに相談し児童相談所に相談」「皆様をお騒がせし深く反省」巨人・阿部監督の娘がメッセージ（ABEMA TIMES） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE52WDh6Z05CYnBzZnF2Tm9QVW9fNkNZMUF3NnlCQ0g5a0hDSTg1QU92WDl6V3A1RVdJeWZldE9YRzRCNWJDWDBSN0xCOFRTLUVMa3F1RFE1bU93TWdmZmRMQTlZSDItZDlYWG5nYnZaN2QyUmZSSUtMZ2RhbFB5UWc?oc=5
-
-- 巨人・阿部監督 通報した長女、児相の対応は予想外「私の意向が聞かれることなく警察に通報される形に」（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5kbEQ5NE1oOWlvaU0yQ2RVLXc2Y0VsS2hYZFQ0aEJUS2NJa1dGNC1MR244N3ZGLTlDOXRYN253ZFdRbFpWZllmanZvdWFmdDVxc0lNNXIxaDB2UHdpTUtyMVR3MUpua0ZuVXdWcHBzd0V4U2hheXYyZkxhNU9TZlE?oc=5
+- 【巨人】阿部慎之助監督、過去に児童相談所や警察相談なし 18歳長女の手紙「けんかは初めて」（日刊スポーツ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZHpWYkU0QUROc0Z0T09IS0MxOXBVSWlsNUdDRjNhcDc4R1ptY1lnVGNnNHZxQ2hvS0hrZnJsOFNnQ0gyUTNzaHk2anBEd3FwOFljTk9LWER1aTlSSTM5aDRuaGtnaTJfNUdOS3dscEVkeGkzWFRWVHpweHZUSms?oc=5
 
 - 巨人、阿部監督逮捕の波紋 児相・警察の対応は妥当か過剰か 通報躊躇の懸念とAIの死角（産経新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSndLUmQ2ajBtczQ2QkFqa0NveUxmQW9xNlVTZVNEN0YtSzZBYzhaOE44TnpienN1cXMtMGNvdXZjZzhmSHlmUHlkWC1xR1Q1YXpuQ1BOY2ZxQTFqLXVjVjQzUzZhMHZNLXZFZXFFaDgxQXRHSU9maUlwOEpOT1U?oc=5
