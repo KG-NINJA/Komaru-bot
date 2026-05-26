@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-05-26 05:18) ===
+=== こまる相談 ニュースフィード (2026-05-26 07:06) ===
 
 - 巨人・阿部監督の長女がChatGPTに相談し暴行を児童相談所に通報。AIが支援窓口を案内する背景とは #エキスパートトピ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjNmVjZfVU4yTnhTMG44Vnd6TjFVbS0tbllhN2VILWlDX2RwNGdkYjdvc2xmUGZwTUx0c3FGWmV0NHh0eGh0ck1BSko4QzUzZUV5YUpjSFlQX3dNS1N1b0RrNEd3SVVDWmhoaTk5VzQtMjI3b3NJc0RUdDNuWTFYX3NzZHBXOWhD?oc=5
@@ -9,29 +9,35 @@
 - 暴行容疑の巨人・阿部監督が辞任 娘はチャットGPTで児相に相談 [巨人（読売ジャイアンツ）] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ga0M1bDRkLUtZTmVrb3VQS0pZUTZNMVFBWHFQckh1bTZfbHdfMkZZQWFzZHpUSGNWSG5fYUNxTUVRMnROenJLOGUzSmNZNF9oUjlFb2tHMF9mQm13c0VNMWtDOS1xTDg?oc=5
 
-- 長女はチャットGPTに相談、児相通報 自宅で暴行容疑の巨人阿部監督、酒に酔っていたか - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTFBqcnVmb0xCQ2xPWmhPdHlLMnZtR3NKLTk5dkE3RTlBR2RWR2RDT1JEaGdTdkh0ci1NdnlFYjBxSWw2TUIyRmxiR2l2RzdkT3VSSjN2d1hLSU5FUUphZnFBeFQ3cDdTeHpSMWRPQ1ZPY1k1WTdjY3c?oc=5
-
 - 読売巨人軍・阿部慎之助監督の娘「チャットGPT」に相談したうえで児童相談所に連絡 - テレ朝NEWS
   https://news.google.com/rss/articles/CBMickFVX3lxTE5PbHdKd0tuSk9tTWRkeld4eDN2Rl9OUTNta3YzTGdpTFRITmhYX2V0MzVxUmdyMjV1SGtNR0xNWFlxWUhRUzU0N3NxV2FsNzc1MUZfekdVQkxneEw2UWV5aDZGblVpT0o3cnNuREgyblladw?oc=5
 
-- 巨人・阿部慎之助監督の逮捕で憶測呼ぶ...「なぜ児童相談所から110番？」 長女は通報を反省しているというが - J-CAST ニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ROTFvWkVqM0FhVXhXaUdnaElfbWtpM3dqbHRiaGlwSk1iVnJGbWtYVFA3THllRi1HX0lzWDE5TGo4U19TcGM3c0VhMVZSSF9sdUlMLXFPN2Z1ckt2Rl9V?oc=5
+- 長女はチャットGPTに相談、児相通報 自宅で暴行容疑の巨人阿部監督、酒に酔っていたか - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBqcnVmb0xCQ2xPWmhPdHlLMnZtR3NKLTk5dkE3RTlBR2RWR2RDT1JEaGdTdkh0ci1NdnlFYjBxSWw2TUIyRmxiR2l2RzdkT3VSSjN2d1hLSU5FUUphZnFBeFQ3cDdTeHpSMWRPQ1ZPY1k1WTdjY3c?oc=5
+
+- 10代女性の半数、AI利用目的は「悩み相談」 阿部前監督の娘も - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUTlNaRHdwbnpFODVMOVQxOTFqLUllWmNhVE0xRFdIVjdpUHZPeERsOHZCcDJjdFVLZ0ZZTjZzZUZMN2E0Q2Fqc1MyVGVDLUwtaFZCeERtdVNxa1FnOHF6REs2XzRIZWtS?oc=5
 
 - 悪質商法などの相談窓口をPR 宮崎県消費生活センターが商業施設でイベント - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wSllwcUVLbWNKSmlST1RWZTZWaWxVYUJEdVNHUFhvYnJtVERTTXdsVmxBMWhrcVYtSVdzYmYxUGk5LXJrMlYxeGhSaXBzT2lxcXdIdm5xbktfQQ?oc=5
 
-- 【巨人】阿部監督の娘はChatGPT経由で相談「警察が来て一番驚いているのは自分自身」 - 日刊スポーツ
-  https://news.google.com/rss/articles/CBMicEFVX3lxTE1QTF9kUjhRTmVzeVJ6eHdaZXphekRDVjlkNzVERFJGQnlIbzRmVkVia0ZlNHl2SVVVOEhBM0FlUjZqS1Npbllfa1E1c3RPbmNOQ2Rkdlh0cHBvZUNPN0lzejdPWW9lNnljVmFWZ29oaFbSAXhBVV95cUxQVGtwYWM0QWlsVlhfZzFIbjdxR0plNFZJUTBQSm1fMVplNUFJMDM5X3YtZTM5djdOeVJvU1c5S2xfbU02c0plQzBueFYxNTVZaUxhRGxjeWdodVNLSGRTSUV0T2F2TFRSSGlfTW5qNzNkRFFtSDRBMl8?oc=5
-
-- 相談経た能代市への移住、７年度は92世帯１２７人 10～30代が８割近く - 北羽新報社
-  https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZeDN4SnhBeDU4aXVHSEhVQlEyOF9pak9naDB3OFFSbWlEZDJBWmxWQmJicUFHakhDbE5lLWZYNXd5WHFnajBJ?oc=5
+- 企業におけるAI活用の課題を気軽に相談できるサービス「AI相談室」を開始 - cyberagent.co.jp
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YdDBFYmR4bWg5bDE4b3VyWGJBTk9JZldxYWk2ZFBTR0MxU3lOT2VUT2RWdFlINHNabkp4aUR0aDJndE9lVW91NE5udjYzNk1DV0M1VEoxMFBYZDZEcWc?oc=5
 
 - 【6月19日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
-- 企業におけるAI活用の課題を気軽に相談できるサービス「AI相談室」を開始 - cyberagent.co.jp
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YdDBFYmR4bWg5bDE4b3VyWGJBTk9JZldxYWk2ZFBTR0MxU3lOT2VUT2RWdFlINHNabkp4aUR0aDJndE9lVW91NE5udjYzNk1DV0M1VEoxMFBYZDZEcWc?oc=5
+- 相談経た能代市への移住、７年度は92世帯１２７人 10～30代が８割近く - 北羽新報社
+  https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZeDN4SnhBeDU4aXVHSEhVQlEyOF9pak9naDB3OFFSbWlEZDJBWmxWQmJicUFHakhDbE5lLWZYNXd5WHFnajBJ?oc=5
+
+- 【巨人】阿部監督の娘はChatGPT経由で相談「警察が来て一番驚いているのは自分自身」 - 日刊スポーツ
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE1QTF9kUjhRTmVzeVJ6eHdaZXphekRDVjlkNzVERFJGQnlIbzRmVkVia0ZlNHl2SVVVOEhBM0FlUjZqS1Npbllfa1E1c3RPbmNOQ2Rkdlh0cHBvZUNPN0lzejdPWW9lNnljVmFWZ29oaFbSAXhBVV95cUxQVGtwYWM0QWlsVlhfZzFIbjdxR0plNFZJUTBQSm1fMVplNUFJMDM5X3YtZTM5djdOeVJvU1c5S2xfbU02c0plQzBueFYxNTVZaUxhRGxjeWdodVNLSGRTSUV0T2F2TFRSSGlfTW5qNzNkRFFtSDRBMl8?oc=5
+
+- ChatGPTに相談したら意図せぬ結果に 巨人・阿部監督辞任、娘の手紙全文 - CNET Japan
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WTlhIMXFTeDlWQ0FyUG9wTjUtcDhhMEhmNmwteUk0SnRTT0ZWOE9lMG1icTVWUnp4aV9MVUE0YTNfa0V4cjJlTUV0VE45Z09GRnc?oc=5
+
+- 巨人・阿部監督、娘に暴行疑い逮捕、長女は『チャットGPT』に聞いて児童相談所に通報…虐待対応ダイヤル『189』とは？ - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uYTN3UlJ1czNXNTMydUNPalY5S2ExRHI4LVRpMVlJeE4ybTRpSXlnUTR0T3JqMlpldGU5NkRrd0J0R1lOb0FOTUo2R0ZOc3JSX0tfZw?oc=5
 
 - 留学説明会・相談会を開催しました - mie-u.ac.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBEMi1FdE9VSFlVOEFkYVRQQm1VMklsZkRqWlVIV1RCRG0zOXZ5V2JsaHdZMTdLcEpCc2RkRGo3dVc4Q2ZqOVdhNW1GM0JoTm9kYXdEd1NPU2FLZklZOE9MZXZpcEJxUDMxb2c?oc=5
@@ -39,24 +45,18 @@
 - 巨人・阿部前監督の長女「父親から暴力」チャットGPTに相談…回答受け児相に通報 - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMifEFVX3lxTFBNbk5oMXpGczUtdzZkYTVEbk1hNEdEV3ZBenBsOFQxeXBJWUNaWHp5LTZSZHRscDREMnBoTlFvSmV4TEVRbXl6VHVjOXJwTTI1cWpMcFVDdkVsVllURWRtRmx1RWlJMXFpc1E0RlBRQnByU0gwTWNXLXhmbFI?oc=5
 
-- 暴行容疑の巨人・阿部監督 娘がチャットGPTに相談し児相通報（毎日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBtSnFOTmdOWTNHWDZhc1RKbEx6UnRpcXVXQ25ONDJyMzJGS3UwV3RCMVFneXltQXpLQVlNbzg2NURBek5wTUI4aGoxd2h2TllYc2FySkxhUEY3SnRnaG5Hb0Z4dGNQNC1OTmMwVmJLUGktby1WTGxRYzdFVDE4bm8?oc=5
-
 - 巨人・阿部慎之助監督の逮捕 暴行を受けた長女が児童相談所に通報...「ちょっと珍しい事例」と弁護士 - J-CAST ニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BRGZOZDZRaEtxSnE4M29oTW5PWFZKQm14YzE0N2VrSWt6NkUwLXVnVUJyX1RyNGdnODdsSWlZdUV6cWxqeVJfa181US1fMkMweEVwQWNTdDVfSFU5YVNR?oc=5
 
-- 【情報まとめ】読売巨人軍の阿部慎之助監督が辞任 娘への暴行疑いめぐり会見 娘はチャットGPTに質問して児相に連絡 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTFB1Uk1UV3FjNkVLRHNJc0I1UzRMTUl6YWlfYVExZmFEYklpN2dBOWFyakQxd2I1N2JmRmJsUkcybDJIMGZtZ2xOR0g1bGVySHdNMGxmQUV2RXMtRTliRDFObjg4dWhOd2hCRHNnSlp5YnVVZw?oc=5
+- 暴行容疑の巨人・阿部監督 娘がチャットGPTに相談し児相通報（毎日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBtSnFOTmdOWTNHWDZhc1RKbEx6UnRpcXVXQ25ONDJyMzJGS3UwV3RCMVFneXltQXpLQVlNbzg2NURBek5wTUI4aGoxd2h2TllYc2FySkxhUEY3SnRnaG5Hb0Z4dGNQNC1OTmMwVmJLUGktby1WTGxRYzdFVDE4bm8?oc=5
 
-- 読売巨人軍・阿部慎之助監督の娘「チャットGPT」に相談したうえで児童相談所に連絡（テレビ朝日系（ANN）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9wbFM4bmJ4eUQ5dnJyNUZ5ak56U0QxXzBTaEtQNV90QzRfdGpnbG5tZUlwRE1ia3ZiLWsyUWo0NWRmUmRkWXo2OWRPMDhqRDJZU0ZDLTdOSlpyQmcxMU5VQzVzanRwT05uaU4xUHJHVklVdXoyVUhSUDlhVmpmNDA?oc=5
-
-- 巨人・阿部助監督 通報した長女は児相の対応に「私の意向が聞かれることなく警察に通報される形に」（スポニチアネックス） - Yahoo!ニュース
+- 巨人・阿部監督 通報した長女、児相の対応は予想外「私の意向が聞かれることなく警察に通報される形に」（スポニチアネックス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5kbEQ5NE1oOWlvaU0yQ2RVLXc2Y0VsS2hYZFQ0aEJUS2NJa1dGNC1MR244N3ZGLTlDOXRYN253ZFdRbFpWZllmanZvdWFmdDVxc0lNNXIxaDB2UHdpTUtyMVR3MUpua0ZuVXdWcHBzd0V4U2hheXYyZkxhNU9TZlE?oc=5
 
-- 巨人・阿部監督 逮捕され釈放 娘 チャットGPTに相談し通報（ABEMA TIMES） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFAxZDhRbDFib3phZUVTRGdhUHh3aGhPQ3pUdnFsTVFsclAxTExfdGpzVklLUWx5R3dfa19oX1F3UHNzSWp2ZHRuaWlSdzF5ZzYtQk1MRWNhWndpeEU2bXZ5eUE3NC16eVRVaWRNMEh3cEdIZDRsdUtKdWlZaVo0Y1U?oc=5
+- 阿部監督の娘、チャットGPTに相談した上で児相に通報か（朝日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFAyLVR4MmtxZEFzdFY2NGN0U3JJeUVtMExjM095aFBIOUZOSXJ2LTB5aWoteFQ5VG00Y1dGRWpweW5HQjFwMkFRLUpUdVN4eGx1YW5KN3dvQVdPbUJGLVBUbDZEY09XS1A1MW9ZRjdNaWx2elJkYzZscHhHbjhVVDg?oc=5
 
-- 巨人・阿部監督、娘に暴行疑い逮捕、長女は『チャットGPT』に聞いて児童相談所に通報…虐待対応ダイヤル『189』とは？ - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uYTN3UlJ1czNXNTMydUNPalY5S2ExRHI4LVRpMVlJeE4ybTRpSXlnUTR0T3JqMlpldGU5NkRrd0J0R1lOb0FOTUo2R0ZOc3JSX0tfZw?oc=5
+- 【情報まとめ】読売巨人軍の阿部慎之助監督が辞任 娘への暴行疑いめぐり会見 娘はチャットGPTに質問して児相に連絡 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTFB1Uk1UV3FjNkVLRHNJc0I1UzRMTUl6YWlfYVExZmFEYklpN2dBOWFyakQxd2I1N2JmRmJsUkcybDJIMGZtZ2xOR0g1bGVySHdNMGxmQUV2RXMtRTliRDFObjg4dWhOd2hCRHNnSlp5YnVVZw?oc=5
 
