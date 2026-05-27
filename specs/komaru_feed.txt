@@ -1,10 +1,7 @@
-=== こまる相談 ニュースフィード (2026-05-27 15:01) ===
+=== こまる相談 ニュースフィード (2026-05-27 17:01) ===
 
 - 児童相談所への通報「ためらわないで」 支援の入り口、まずは相談を - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fT19zZjU0emFnamF1OUliSjJrSkFnRWRZUmRZbEtzc1lOZFN6QjB1UEpQWERuU2oyNHhaRnEyU2Nfck9NdEplT0R4N3Bad01ybGVlbXUzYlptREtRaGJfUjg3cE45S0U?oc=5
-
-- 巨人・阿部監督 通報した長女、児相の対応は予想外「私の意向が聞かれることなく警察に通報される形に」（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5kbEQ5NE1oOWlvaU0yQ2RVLXc2Y0VsS2hYZFQ0aEJUS2NJa1dGNC1MR244N3ZGLTlDOXRYN253ZFdRbFpWZllmanZvdWFmdDVxc0lNNXIxaDB2UHdpTUtyMVR3MUpua0ZuVXdWcHBzd0V4U2hheXYyZkxhNU9TZlE?oc=5
 
 - 全身の健康維持につなげる歯の健康相談会 - アットプレス
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GUTBJSXU4dDB5RUFXQnFGaFJuSllxaTllRjYxYzIxVjZMUmtiTnRxTnBGZGlVMEZWQ2Z3eF9wTFNoamcwTVlTbzhVM0hHUQ?oc=5
@@ -12,50 +9,53 @@
 - 悩み相談の9割以上が“外食”、一方で約7割が本音を話せなかった経験あり！？調査で判明した“しゃぶしゃぶコミュニケーション”の可能性…6割以上が「悩みを相談する場としてしゃぶしゃぶ・鍋料理を選びたい」 | 株式会社レインズインターナショナル - Digital PR Platform
   https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA4aEN4eHBrd1dmTEYzTXk5UFN2blM0OXBKYkp0bUdBRjU5Tk5zSnBxQndFcXNCNjFLTFB1RTdLVkJUX1E?oc=5
 
-- 旭川いのちの電話 相談員養成講座の参加者募集 - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5weFdEU3pSaEdkQXZjdzBiNkF1anBMaXJsSzc3YVNmb1cweHgyQkZKcy1zNFNrX0pWcXp6RDJBMFZmTl9tWVdGMzN5bVU2R3ZucGxidHNoLUtFUQ?oc=5
-
-- 「生成AI」に相談 10代から高齢者までが人生の選択や恋愛の悩みも リスクもある中どう付き合う？ - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQcU1ia3E4aTBCQ3RseWl5VzN3R1c2MU5nQWVKU2NFX1RPV1Q4SFYzZVBTZEZVUUVvQ0xoTmUxNDNlTXVpV3NUSWk0Z2drUmttdTgwZERZTXIweGt6LU43bHR2ZE5BeEFzMUsxUjMxUFZZMEFyQktCTUt4U3BhSDhhUWEwWERXX2s?oc=5
+- 暴行容疑で阿部監督辞任 AI相談の長女「警察来て驚き」 児童相談所が通報した理由は（テレビ朝日系（ANN）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9Qa0pQWHNBNnp0UW1Yd3FFVGZNbE5kbzRpdWxCWWduRUVjbUZqUnV0TE9Db1A4MHJ1dUZhbTVqOF9WS3RlR0l2cFdpNHhxZDFURDdTMWFMWkhHTUlZV21LX1RhRUpkUFlETjJVaERJYnZsb0JCdFdmeUlkZ0l2S28?oc=5
 
 - 女子柔道選手のための相談窓口 - 全日本柔道連盟
   https://news.google.com/rss/articles/CBMiSkFVX3lxTE84MmNOTDJkLU9pMXZnLXp3RTJyeHZTZHhiV2xkM1hRMmtoTndyOGpSRFlpZ3Nsb1NDbUhpMWF1M3cxN241RTBIRU9R?oc=5
 
+- 旭川いのちの電話 相談員養成講座の参加者募集 - 北海道新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5weFdEU3pSaEdkQXZjdzBiNkF1anBMaXJsSzc3YVNmb1cweHgyQkZKcy1zNFNrX0pWcXp6RDJBMFZmTl9tWVdGMzN5bVU2R3ZucGxidHNoLUtFUQ?oc=5
+
 - 巨人・阿部慎之助前監督 児相と警察の対応に「遅れると大事件にも」 専門家ら“相談の対象年齢外”“緊急性があるから逮捕” - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3d01Rd0Z1amJuOW1wbm9wRHVMenRKTmhxN053N2NjZFNuTVh2YmtmT0xidTlicG5qS1c2bVBoVnVlbHI2LUhTQm1FcHM1UQ?oc=5
-
-- 民放各局にハラスメント社外相談窓口の設置を要請 民放連、3年以内目標 - マイナビニュース
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4MjA3TUhFeHdteUlvNFBJWVJlWnRKdjJla2ItYnhSRG1NM1A2WkM4ZGZ1dk54YTJTOVpzMTVtQ2QtVUgtQ3c2YUN2dGM5SEN6OGt4M0M0WVFiLVV2?oc=5
-
-- 社会貢献活動を支援 電話相談窓口開設 山梨県中小企業診断士協会【社会／山梨】 - sannichi.co.jp
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lUTYySzBlNWlYWmpFQnlvMEpjVGNQTlplZ3NwaXk4cmc2NWR4cExkTlpmejROdDA0aEZMejF3dDhmU1VaNGR6Z3Y3eG4tbGotX3Z2bzVha3Y3bkE1TFBFVC12MV8?oc=5
 
 - スマホのきほん相談会 - city.ikoma.lg.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbDRDRWxHWkg3eWlYa0dCUWxxQnVDZ3RFdEpLaWttQXNHcC1rMzkwdU9SemZxQW5iS0xRUUFfVjdxZW9pZFZIN3NkU1dPcm9jbXBURV9OQQ?oc=5
 
-- １０代女性、AI悩み相談に半数が利用。大竹「ほとんどの若者がAIを普通に使ってることの方におじいちゃんはおどろく」 - 文化放送
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GWTZzRno0UGNOcHdDQjFhV0s0N0o4U0ZJc1FtWXpROUtDM3ZzTk55aEprRDdSN05zSy1kQWtna2dJNzhSY2Z6T19hVlBWYnlXdDAw?oc=5
+- 生成AIに悩み相談の若者急増 阿部前監督長女も相談し児相通報 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aT0xtT0lxelJwUVp3WUtIdDVzTERKVmdRQXdhMGJfYjdZQUpEVVZtWURxcFRfZFFFVlB0b3JBUEd3eXlmRjRGdXRZOVQ3VGdrd1BsbERsbVVNa2VFUm5sU2Q2NWF3YlI4?oc=5
 
 - 【6月19日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
-- 悩み相談の9割以上が“外食”、一方で約7割が本音を話せなかった経験あり！？調査で判明した“しゃぶしゃぶコミュニケーション”の可能性…6割以上が「悩みを相談する場としてしゃぶしゃぶ・鍋料理を選びたい」 - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xTEp6MFJHN3JrM3RqSWRSMU9NeC1DblpvckQ0X21STDktNVJ4V0Fmb2x2cHoyTk9SSGNYUGxfYzhnRFVZd2czZUJ5R244SlgxN0w5M1NrYTEybVNuNGc?oc=5
+- 社会貢献活動を支援 電話相談窓口開設 山梨県中小企業診断士協会【社会／山梨】 - sannichi.co.jp
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lUTYySzBlNWlYWmpFQnlvMEpjVGNQTlplZ3NwaXk4cmc2NWR4cExkTlpmejROdDA0aEZMejF3dDhmU1VaNGR6Z3Y3eG4tbGotX3Z2bzVha3Y3bkE1TFBFVC12MV8?oc=5
 
-- 生成AIに悩み相談の若者急増 阿部前監督長女も相談し児相通報 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aT0xtT0lxelJwUVp3WUtIdDVzTERKVmdRQXdhMGJfYjdZQUpEVVZtWURxcFRfZFFFVlB0b3JBUEd3eXlmRjRGdXRZOVQ3VGdrd1BsbERsbVVNa2VFUm5sU2Q2NWF3YlI4?oc=5
+- 民放各局にハラスメント社外相談窓口の設置を要請 民放連、3年以内目標 - マイナビニュース
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4MjA3TUhFeHdteUlvNFBJWVJlWnRKdjJla2ItYnhSRG1NM1A2WkM4ZGZ1dk54YTJTOVpzMTVtQ2QtVUgtQ3c2YUN2dGM5SEN6OGt4M0M0WVFiLVV2?oc=5
+
+- １０代女性、AI悩み相談に半数が利用。大竹「ほとんどの若者がAIを普通に使ってることの方におじいちゃんはおどろく」 - 文化放送
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GWTZzRno0UGNOcHdDQjFhV0s0N0o4U0ZJc1FtWXpROUtDM3ZzTk55aEprRDdSN05zSy1kQWtna2dJNzhSY2Z6T19hVlBWYnlXdDAw?oc=5
+
+- 【解説】なぜ児童相談所は警察へ通報したのか？巨人・阿部慎之助監督の辞任を生んだ「ChatGPT」相談の盲点 - ktv.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wbUNKa1RIVy14ZkdVSjdqdVFkZi1NZ21aNnFtaEwwOE9weUhHV0REYlhocjJEa1U1cXFCeXNwQy13VkxGZ2NyM3lITkE4bWdhRF9YRg?oc=5
+
+- チャッピーに相談した結果､失職…？巨人･阿部前監督｢娘に暴行で逮捕→電撃辞任｣に見る生成AI活用の"重大論点" - 東洋経済オンライン
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UUnlNWENwR05fejRDQ05PNThtR1RwRkdza2F1eTlwLUd0X1BBUFVsYUt4bWhQcUp3Y2hteGlMUUZXcHYyZl9HQ21WSXMxZVhfQWc?oc=5
 
 - 民放連、ハラスメント相談窓口を設置 会員75社が社外窓口未設置 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BUkJtaWtEWEU5cHhoMnlUNzA4dFU2dHQtMk1oc2lVX2psNFFvRXNvU1NDdUFFd3hzVnZNMktib1RpWlRyc1RCV0hqQ01HQUdpVzUxN3JaNjdWZVVkS0VMdzRQNDJIa2c?oc=5
-
-- 暴行容疑で阿部監督辞任 AI相談の長女「警察来て驚き」 児童相談所が通報した理由は（テレビ朝日系（ANN）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9Qa0pQWHNBNnp0UW1Yd3FFVGZNbE5kbzRpdWxCWWduRUVjbUZqUnV0TE9Db1A4MHJ1dUZhbTVqOF9WS3RlR0l2cFdpNHhxZDFURDdTMWFMWkhHTUlZV21LX1RhRUpkUFlETjJVaERJYnZsb0JCdFdmeUlkZ0l2S28?oc=5
 
 - チャッピーに相談した結果、失職…？巨人・阿部前監督「娘に暴行容疑で逮捕→電撃辞任」に見る生成AI活用の“重大論点” - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1vWjZUSG4zOHdRc0lqZG5HZHV2SEtmcHI3N1F6NEFzUkU3Q3lMR0l3SlBqbG05Z2wxNkFXQkV0M3FIQmR4YWJTUk52WU40NEFET3UwdUNvZW5rNHY2VGkzX0Q2OXdRd3kwQU5HNDR4ekVjZUVySUR5cm1OVF91dDQ?oc=5
 
 - 「絶対否定してこない」“優しい相談相手”のはずが… 生成AIに相談に潜む危険な“落とし穴” “自分の生き方”相談で「思いがけない結果になるケース」も（FNNプライムオンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hc1RtSl9xdjNmQS1FR2xmdFpUUWwzTUdfdk04UEhtNC1yeGRfd1o5RjAzaTIzTlFZQTIwUjdPVXlLR2tBalZMT1lYeE1WaUpVNC1mZnlCZ2dJWVo1ZmNxUW1wemhNRm5IY21VZ2swd3E5MktfQVZ1d2lRYl9mOXM?oc=5
+
+- 「絶対否定してこない」“優しい相談相手”のはずが… 生成AIに相談に潜む危険な“落とし穴” “自分の生き方”相談で「思いがけない結果になるケース」も (FNNプライムオンライン) - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGhSV2hhaGFtU0hwaC1YTDNSbm5nRGRFc2NmajBha0tkR1g2Ul9yNUcxZG8tcHlxS2xTVDBpV3VaVDRlYl9TSnpvNnV6NmxRTnZJVVIxbll1dzZWejY0aFJ3UXl2QTE0b2tXNHdOYk95VnlyQ0tEWmRYc2RnZHM2c25wWUVnangtVktmVllB?oc=5
 
 - 民放連「ハラスメント相談窓口社外にも」会員社に要請（日テレNEWS NNN） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9KeE5xdzlrOWV4bXM2M3F0UURCQmFra3UxZmdUWkxSSEdTZUNWN0EzN0JpN3BRRElrd0NyTjd2alZTVl9UT3Bmdk5KMGFSR3N3NlVaNGN6N1NIem5RdzRwRkQ4dkx5SHp1LWJoaU5IZGF4RGhMNnQ5QmU5U0V6Q0E?oc=5
