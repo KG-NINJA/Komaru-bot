@@ -1,13 +1,13 @@
-=== こまる相談 ニュースフィード (2026-05-27 01:39) ===
+=== こまる相談 ニュースフィード (2026-05-27 03:02) ===
+
+- 生成AIに悩み相談の若者急増 阿部前監督長女も相談し児相通報 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aT0xtT0lxelJwUVp3WUtIdDVzTERKVmdRQXdhMGJfYjdZQUpEVVZtWURxcFRfZFFFVlB0b3JBUEd3eXlmRjRGdXRZOVQ3VGdrd1BsbERsbVVNa2VFUm5sU2Q2NWF3YlI4?oc=5
 
 - 「チャットGPTは教えてくれていない」児童相談所のこと…『とれたてっ！』出演者が指摘 阿部慎之助前監督の騒動に関し - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1LS2gta0JTSVlUSVRwUHdMUGtfN3lLQVN4OHBQT0NOeFk1QWNtY3N2WlV0LXhQLUFGNjFSQ0hoc2htMWYwakpGZEJlb2I3MHFZWUx0TmV2LVVUTE1CdS1sR0duVkNMdGlxWGV0Zms3ZEJ2Q0U1U0ZRSXlxc193RlU?oc=5
 
 - 女子柔道選手のための相談窓口 - 全日本柔道連盟
   https://news.google.com/rss/articles/CBMiSkFVX3lxTE84MmNOTDJkLU9pMXZnLXp3RTJyeHZTZHhiV2xkM1hRMmtoTndyOGpSRFlpZ3Nsb1NDbUhpMWF1M3cxN241RTBIRU9R?oc=5
-
-- 生成AIに悩み相談の若者急増 阿部前監督長女も相談し児相通報 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aT0xtT0lxelJwUVp3WUtIdDVzTERKVmdRQXdhMGJfYjdZQUpEVVZtWURxcFRfZFFFVlB0b3JBUEd3eXlmRjRGdXRZOVQ3VGdrd1BsbERsbVVNa2VFUm5sU2Q2NWF3YlI4?oc=5
 
 - 【解説】なぜ児童相談所は警察へ通報したのか？巨人・阿部慎之助監督の辞任を生んだ「ChatGPT」相談の盲点 - ktv.jp
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wbUNKa1RIVy14ZkdVSjdqdVFkZi1NZ21aNnFtaEwwOE9weUhHV0REYlhocjJEa1U1cXFCeXNwQy13VkxGZ2NyM3lITkE4bWdhRF9YRg?oc=5
@@ -21,12 +21,6 @@
 - 【6月19日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
-- 塩尻のNPO法人 高校保健室で軽食支援へ 生徒の悩みに早期対応 購入費用の寄付募る - 市民タイムス
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sX0dTT2RpRXN5Y3RjR0dnQ3ZIalpUaUptcEQ2cnNMXzRHMzA4LVZCUVF1M21sblVpXzZ6OXZFTzVvcDRNclpxOUc3WTJEOFlwVHpIdXE4ZGRwYUlOQlkwZzUzV1M?oc=5
-
-- 辻村相談窓口、「変化」 - Design Stories
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE81Y2pXYmZvQXJnUENkY2VmMzZPRVlhWnFibTZacm5JbTE4XzlyLWhfekh3TjZxclhLNnlaWVotbDd1N0U1MHhWR1A2QkFmVm1TWEJnV1ppa25LNklvTGM0?oc=5
-
 - 飼い主さんが事情により飼えなくなったら？「野良猫相談会と高齢者ペット相談会」6月20日開催。 - 戸田公園ガイド
   https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLN3dhWm1rLTVkNFhDTHlMVGVnWlZNeTVmaFU5dGRYcWlhZm13a0dpdUpoSE9laWlXRGlNRUg4YkduTzR5akY4T25meEp2ak14RThZMHVycGN1OEp5enVrNQ?oc=5
 
@@ -39,24 +33,30 @@
 - 巨人・阿部慎之助監督が辞任 長女「殴る蹴るはない」とコメントも…なぜ児童相談所は警察に通報したのか【Nスタ解説】 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE95VG5yYk8xX0dWMkdxbmppLVkyMTVaa0VlWEF4T3hPLVpwTjlDc3hUMVN4ZlAxbWN3UjVnTlYzMFhISkhsQjlmMl9yMlZvbnpCcXlGYTNQUQ?oc=5
 
-- 巨人監督「暴行」、なぜ児童相談所が110番通報 長女の意向とは関係なく？東京都はどう説明 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjlJa0tJbjNPcV9QeVZYZGJTbFgtZjNtOFhFMDhSV0JkU1NXVTZPS1c4bDUtdDBXeWJ2OU5oNTRoaGZtNElMSXQzYmREenZrUk1zSlFRRlNYOVcyVF9KRXZPMllYWVJGWVdiMllPNUxTcm9KaTRWRU56dG9ZYzNwMzNPaWlGaURX?oc=5
+- 障害者雇用の業界団体が相談窓口…「サンクスラボ」介して雇用の障害者に実質的な仕事与えられなかった問題で - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBNRmU5NTdSU0dKTXc5YWxsUHFNNVNsMk5GNmZUTXIzTnp5ZVZYblpzRGhYLXNuQ1pSN3hqdDJaWTAzS3R5UTg4MTZHX3RNM0duUVFDaHVRRk1tWGp0Rzd2OGNNbkdubF9LZGxFdjZMMXdmcUdHX2ZMV2l3WVVhR00?oc=5
 
 - プレスリリース：［FP相談はAIに置き換わるか］長年の住宅相談実績を持つ独立系FP事務所が、RAG型AIエージェント「Tally」をフルスクラッチで開発公開（PR TIMES） - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3ajc2alRKUkIxUDNaaG9sTzJ1MlI4Q1A0R2puWU51YmV2UG1CWk1aTlFUbmszRXRCcENkTVZEekZ2Mjl1THBCWF9NRzBhTG9oQWRXZ3ctUVpRX0R5S1g2YzhacE5DdUFO?oc=5
 
+- 巨人監督「暴行」、なぜ児童相談所が110番通報 長女の意向とは関係なく？東京都はどう説明 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjlJa0tJbjNPcV9QeVZYZGJTbFgtZjNtOFhFMDhSV0JkU1NXVTZPS1c4bDUtdDBXeWJ2OU5oNTRoaGZtNElMSXQzYmREenZrUk1zSlFRRlNYOVcyVF9KRXZPMllYWVJGWVdiMllPNUxTcm9KaTRWRU56dG9ZYzNwMzNPaWlGaURX?oc=5
+
 - 青森県内の児童虐待相談2227件、過去3番目の多さ／県まとめ（陸奥新報） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9SRWFiWmlrZmdHOFU1S3NBR2tOTEhZX1l0WjJnY3MyanQyUEdGTVVOeC12Mm1IalM4bjFnU3hUVXFSbVgtbWcwRGM0dm5CcXlfWVl0elpTNkxoa3M3SWVaaEFmS3pxSm11enFHRllFX2RJOEpOMkU1SVBjcHp5azQ?oc=5
 
-- 巨人・阿部監督の長女がChatGPTに相談し暴行を児童相談所に通報。AIが支援窓口を案内する背景とは #エキスパートトピ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjNmVjZfVU4yTnhTMG44Vnd6TjFVbS0tbllhN2VILWlDX2RwNGdkYjdvc2xmUGZwTUx0c3FGWmV0NHh0eGh0ck1BSko4QzUzZUV5YUpjSFlQX3dNS1N1b0RrNEd3SVVDWmhoaTk5VzQtMjI3b3NJc0RUdDNuWTFYX3NzZHBXOWhD?oc=5
+- 規格外のトマト出荷できない 農家の悩み聞いた山形・大蔵のパン店がシフォンケーキに（河北新報） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5yTnFnMjctcjJ2TGdzVC1LNVJkQTZVS095NEE3ZHhPUU5Ra1RaTi1CSmVRV0ZHRU9oc0NqbDg1ZlBYRHhraXZhZGxkWjA1elBPUGMybzdBWFVyNjBvM2dzdXFiTnBQMlRVWFh0YVZHSzI4UVBTN1FDM2FBdnZtTmc?oc=5
 
 - 「意向聞かれず通報」児相連絡の阿部前監督の長女…チャットGPT相談から警察介入に発展（産経新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE44RTNpOWkwenlnekMyNVU0SXpsZXcwVXBrRnJseVBOd3ZmU3JnN3cyX24tWmNRSEUzLWJiZGZxd0NsbGdIeEhxSjBfTkEzZzYxZ3VtRHg2ZTlKZlZnZGhaMGlqU1FiZUs4QWQ0R3dhdFBUYUJfbzdIeGd6ZUJld0k?oc=5
 
-- ChatGPTへの相談が逮捕の契機に…「何だそれ」 阿部前監督の辞任に「いたたまれない…再起の道を」（ENCOUNT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE54bGlFV2hQUEhfLWJuZVVQRFNLMWpNZ2FiYXlPTFNUZi12a2NKbHoxRVNPWF9GaWx3aXJuRmktSWhVYkdnc0U4cFRxZjgxMzVudGhLd2VSdV83ejBGOGw1d0F2RkUtbEpoNlZ2bFdMV1ZJbkZfSC1KNDB0eTlNM3c?oc=5
+- 巨人・阿部監督の長女がChatGPTに相談し暴行を児童相談所に通報。AIが支援窓口を案内する背景とは #エキスパートトピ - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjNmVjZfVU4yTnhTMG44Vnd6TjFVbS0tbllhN2VILWlDX2RwNGdkYjdvc2xmUGZwTUx0c3FGWmV0NHh0eGh0ck1BSko4QzUzZUV5YUpjSFlQX3dNS1N1b0RrNEd3SVVDWmhoaTk5VzQtMjI3b3NJc0RUdDNuWTFYX3NzZHBXOWhD?oc=5
 
-- パソコンサポート詐欺、警察への相談勧め被害防ぐ 姫路・大津のジョーシンに感謝状 網干署|特殊詐欺特集 - 神戸新聞NEXT
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBhT25DejV4MlhHTl85ZkhfVFNVTWVzek9UazJpbXh0bGgybW9uejVHWFVydzlHVEItaTRPX3dvTEVyQVFPa3Jla241VFNvbTktQk1nRFoxN0xEakt1X0JxWE9hczBZenhnTEE?oc=5
+- 静岡・磐田で「AI市長」が職員の相談相手に リアルより怖くない？（朝日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBMT29SRlhHMTVZMWRWVVJpMTJKY3RPTWR1R3RndmdnTThIOV9tcEp2RzdqVFVmMU8wQkFQa1FVTEVqdXppbGhpenN5bktqUVBQem1tLW5LMktqQjBfYXlRc09HOVBSWEdMU1VGNUVxN3FweWtQSlYwVUdkS1hBblk?oc=5
+
+- 辻村相談窓口、「変化」 - Design Stories
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE81Y2pXYmZvQXJnUENkY2VmMzZPRVlhWnFibTZacm5JbTE4XzlyLWhfekh3TjZxclhLNnlaWVotbDd1N0U1MHhWR1A2QkFmVm1TWEJnV1ppa25LNklvTGM0?oc=5
 
