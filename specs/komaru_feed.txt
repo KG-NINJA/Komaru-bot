@@ -1,52 +1,55 @@
-=== こまる相談 ニュースフィード (2026-05-27 05:26) ===
+=== こまる相談 ニュースフィード (2026-05-27 07:20) ===
 
-- 巨人監督「暴行」、なぜ児童相談所が110番通報 長女の意向とは関係なく？東京都はどう説明 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5kS1Zsbm5zYl9SQ19rQXdzNy1ETW52dmc4WkJEVms4ODdxd01OQmFkXzVleWRnYTdGQS1TajF1Rk41dlZWM2x2M19kUFRfU3ZqY3hsTVlJSkxLemthQXBPNHBhVko3Nk1zLTJUa3gzdzUzcDA2ZEZTWHFyWHgwc1E?oc=5
+- 暴行容疑で阿部監督辞任 AI相談の長女「警察来て驚き」 児童相談所が通報した理由は（テレビ朝日系（ANN）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9Qa0pQWHNBNnp0UW1Yd3FFVGZNbE5kbzRpdWxCWWduRUVjbUZqUnV0TE9Db1A4MHJ1dUZhbTVqOF9WS3RlR0l2cFdpNHhxZDFURDdTMWFMWkhHTUlZV21LX1RhRUpkUFlETjJVaERJYnZsb0JCdFdmeUlkZ0l2S28?oc=5
+
+- 悩み相談の9割以上が“外食”、一方で約7割が本音を話せなかった経験あり！？調査で判明した“しゃぶしゃぶコミュニケーション”の可能性…6割以上が「悩みを相談する場としてしゃぶしゃぶ・鍋料理を選びたい」 | 株式会社レインズインターナショナル - Digital PR Platform
+  https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA4aEN4eHBrd1dmTEYzTXk5UFN2blM0OXBKYkp0bUdBRjU5Tk5zSnBxQndFcXNCNjFLTFB1RTdLVkJUX1E?oc=5
 
 - 生成AIに悩み相談の若者急増 阿部前監督長女も相談し児相通報 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aT0xtT0lxelJwUVp3WUtIdDVzTERKVmdRQXdhMGJfYjdZQUpEVVZtWURxcFRfZFFFVlB0b3JBUEd3eXlmRjRGdXRZOVQ3VGdrd1BsbERsbVVNa2VFUm5sU2Q2NWF3YlI4?oc=5
 
-- 女子柔道選手のための相談窓口 - 全日本柔道連盟
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTE84MmNOTDJkLU9pMXZnLXp3RTJyeHZTZHhiV2xkM1hRMmtoTndyOGpSRFlpZ3Nsb1NDbUhpMWF1M3cxN241RTBIRU9R?oc=5
-
-- ｢“チャッピー”に聞いて児童相談所に通報｣などと話す子どもも…1.7%が子ども本人からの通報 愛知の児童相談所 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxVkRLWXc3SVJ6TTBBejFCdzMyczl6M2V3RkpHLVNHUHhBNGo5NlB1eGN5UWVmb25HNXczUC1fNkhGaVIyQUExVFJ5aUNaclFweExCekc4RDRydw?oc=5
-
-- 【解説】なぜ児童相談所は警察へ通報したのか？巨人・阿部慎之助監督の辞任を生んだ「ChatGPT」相談の盲点 - ktv.jp
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wbUNKa1RIVy14ZkdVSjdqdVFkZi1NZ21aNnFtaEwwOE9weUhHV0REYlhocjJEa1U1cXFCeXNwQy13VkxGZ2NyM3lITkE4bWdhRF9YRg?oc=5
-
 - 「意向聞かれず通報」児相連絡の阿部前監督の長女…チャットGPT相談から警察介入に発展 - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTFBwOUFHV1dieEgwMVl3SFpYU3A5YXJWUm5lbU1kcFRkb1FEekRxV2tMakMtSUxOY09UbG9ic0o5THd4aXA5RTRJUV96akdNdEl2U3JtbW40SUtNUWFYVDFnVFhHWHRkeHA4S3JXQ183Z0RNcWs4Wnc?oc=5
+
+- 女子柔道選手のための相談窓口 - 全日本柔道連盟
+  https://news.google.com/rss/articles/CBMiSkFVX3lxTE84MmNOTDJkLU9pMXZnLXp3RTJyeHZTZHhiV2xkM1hRMmtoTndyOGpSRFlpZ3Nsb1NDbUhpMWF1M3cxN241RTBIRU9R?oc=5
 
 - 【情報まとめ】読売巨人軍の阿部慎之助監督が辞任 娘への暴行疑いで会見 娘からの手紙も「父とはすでに仲直り」 - テレ朝NEWS
   https://news.google.com/rss/articles/CBMickFVX3lxTFB1Uk1UV3FjNkVLRHNJc0I1UzRMTUl6YWlfYVExZmFEYklpN2dBOWFyakQxd2I1N2JmRmJsUkcybDJIMGZtZ2xOR0g1bGVySHdNMGxmQUV2RXMtRTliRDFObjg4dWhOd2hCRHNnSlp5YnVVZw?oc=5
 
-- 児童虐待の相談件数が2千件超で高止まり 最多は「心理的虐待」で1265件 青森県内の昨年度対応件数 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUxuN0tvcUliUXJDTWE4TmF3bEdMOC1KVFlqbkxRdGxHNlpFaUxkNG1ZOUpad1daeGo4V09jeVdpa2ZLbnVWMFQ5OG4zM0tuU0lMSEJRQ0dBWHRFSzM4ejRXYmowUWtHZ3AyTFVOT2Z6WEdtcDFuMXg3R3pyd29rWVkyNXJmeE0?oc=5
+- ｢“チャッピー”に聞いて児童相談所に通報｣などと話す子どもも…1.7%が子ども本人からの通報 愛知の児童相談所 - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxVkRLWXc3SVJ6TTBBejFCdzMyczl6M2V3RkpHLVNHUHhBNGo5NlB1eGN5UWVmb25HNXczUC1fNkhGaVIyQUExVFJ5aUNaclFweExCekc4RDRydw?oc=5
+
+- 悩み相談の9割以上が“外食”、一方で約7割が本音を話せなかった経験あり！？調査で判明した“しゃぶしゃぶコミュニケーション”の可能性…6割以上が「悩みを相談する場としてしゃぶしゃぶ・鍋料理を選びたい」 - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xTEp6MFJHN3JrM3RqSWRSMU9NeC1DblpvckQ0X21STDktNVJ4V0Fmb2x2cHoyTk9SSGNYUGxfYzhnRFVZd2czZUJ5R244SlgxN0w5M1NrYTEybVNuNGc?oc=5
 
 - スマホのきほん相談会 - city.ikoma.lg.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbDRDRWxHWkg3eWlYa0dCUWxxQnVDZ3RFdEpLaWttQXNHcC1rMzkwdU9SemZxQW5iS0xRUUFfVjdxZW9pZFZIN3NkU1dPcm9jbXBURV9OQQ?oc=5
 
+- 児童虐待の相談件数が2千件超で高止まり 最多は「心理的虐待」で1265件 青森県内の昨年度対応件数 - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUxuN0tvcUliUXJDTWE4TmF3bEdMOC1KVFlqbkxRdGxHNlpFaUxkNG1ZOUpad1daeGo4V09jeVdpa2ZLbnVWMFQ5OG4zM0tuU0lMSEJRQ0dBWHRFSzM4ejRXYmowUWtHZ3AyTFVOT2Z6WEdtcDFuMXg3R3pyd29rWVkyNXJmeE0?oc=5
+
 - 【6月19日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
+
+- 【解説】なぜ児童相談所は警察へ通報したのか？巨人・阿部慎之助監督の辞任を生んだ「ChatGPT」相談の盲点 - ktv.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wbUNKa1RIVy14ZkdVSjdqdVFkZi1NZ21aNnFtaEwwOE9weUhHV0REYlhocjJEa1U1cXFCeXNwQy13VkxGZ2NyM3lITkE4bWdhRF9YRg?oc=5
 
 - 辻村相談窓口、「変化」 - Design Stories
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE81Y2pXYmZvQXJnUENkY2VmMzZPRVlhWnFibTZacm5JbTE4XzlyLWhfekh3TjZxclhLNnlaWVotbDd1N0U1MHhWR1A2QkFmVm1TWEJnV1ppa25LNklvTGM0?oc=5
 
+- オンラインカウンセリング「うららか相談室」、“心のケアを贈れる”新機能「カウンセリングギフト」をリリース - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9tc1U3RGVxalB3ekJSa1dyak5FYWMxQnpiNlJiUWJuYjMwWDBtMkdRZjl1TFozLXgxSDA4cXUxbzNwQXhXN1VhMGN6UVl1eHhfXzBEbkNTa1plM2R5ODlNQjVkMXd0dFBHQUE?oc=5
+
 - 巨人・阿部前監督逮捕で児相と警察対応がヤリ玉 専門家は警鐘「妥当性判断すべきでない」（東スポWEB） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0wWjM4WUV3MVloZGpEd0txa0NidXhCbXJuM1ZzNHhiWlFpTDluc2x1M2NfYUpsTXF4Q0ZvMjdoaU4xYkptT29ESmpkSmttSnJ1RlcwODd5SjRmTjZrM2ZQSDNIS1VOdkN5djhfNTJ6eEwxYjNSY1RtdjNiYWt3clE?oc=5
-
-- 10代女性の半数、AI利用目的は「悩み相談」 阿部前監督の娘も - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUTlNaRHdwbnpFODVMOVQxOTFqLUllWmNhVE0xRFdIVjdpUHZPeERsOHZCcDJjdFVLZ0ZZTjZzZUZMN2E0Q2Fqc1MyVGVDLUwtaFZCeERtdVNxa1FnOHF6REs2XzRIZWtS?oc=5
 
 - 「“チャッピー”に聞いて児童相談所に通報」などと話す子どもも…1.7％が子ども本人からの通報 愛知の児童相談所（CBCテレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9KcEZoY1F2VmhPOFZiZmZoazMwdW5icHI0V3kzZ1I2V1R5NTRQdDdYNF9KbEw5NVZvT0c3QVNoMkpvLTh0MFpWQU5YRGVRdUZPYzZjVldDV0J5THJaRjRqZ0Q2S2VzaUxuQTJVN1ZLbWg4M0Y1S1IzN2JUbUFhQXc?oc=5
 
 - チャッピーに相談した結果、失職…？巨人・阿部前監督「娘に暴行で逮捕→電撃辞任」に見る生成AI活用の“重大論点” - Yahoo!ファイナンス
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHVWVjEzZDFSUEFVYUg5OXExZWVwSzh1S25lZVkzUl9RZlBQejZpMTFTdjRjNXZFS2xrNXZDWnc1LUNBcjJscFhXdUI1aTdQWnAxV2lBYkN0LTZLT2ZINHc0cEd6aHFCNXl6T0FwUFkxUl9HWGRqRTFuVlU5Zm14cWJPTmdFVjA?oc=5
-
-- 大久保佳代子「本当に悩まなくなりました(笑)」悩みを撃退する方法を明かす（WEBザテレビジョン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5xRDlqeVNsVXBwd3lWWXl5T2tab3RHMV9KdFpuQVFiZ09TLVozR291bnNTbVZFNk51R2g4TGdEU3pQOUxTbDNuLW1ibzZ0M1FzV2ZXdlBjbmlUeU5MY1lDY2dkdkRjOVkwM25rMzBTY0JhaXpDcThIT3ZoQkVTaU0?oc=5
 
 - 静岡・磐田で「AI市長」が職員の相談相手に リアルより怖くない？（朝日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBMT29SRlhHMTVZMWRWVVJpMTJKY3RPTWR1R3RndmdnTThIOV9tcEp2RzdqVFVmMU8wQkFQa1FVTEVqdXppbGhpenN5bktqUVBQem1tLW5LMktqQjBfYXlRc09HOVBSWEdMU1VGNUVxN3FweWtQSlYwVUdkS1hBblk?oc=5
@@ -56,7 +59,4 @@
 
 - 青森県内の児童虐待相談2227件、過去3番目の多さ／県まとめ（陸奥新報） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9SRWFiWmlrZmdHOFU1S3NBR2tOTEhZX1l0WjJnY3MyanQyUEdGTVVOeC12Mm1IalM4bjFnU3hUVXFSbVgtbWcwRGM0dm5CcXlfWVl0elpTNkxoa3M3SWVaaEFmS3pxSm11enFHRllFX2RJOEpOMkU1SVBjcHp5azQ?oc=5
-
-- 規格外のトマト出荷できない 農家の悩み聞いた山形・大蔵のパン店がシフォンケーキに（河北新報） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5yTnFnMjctcjJ2TGdzVC1LNVJkQTZVS095NEE3ZHhPUU5Ra1RaTi1CSmVRV0ZHRU9oc0NqbDg1ZlBYRHhraXZhZGxkWjA1elBPUGMybzdBWFVyNjBvM2dzdXFiTnBQMlRVWFh0YVZHSzI4UVBTN1FDM2FBdnZtTmc?oc=5
 
