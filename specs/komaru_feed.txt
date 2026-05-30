@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-05-30 07:53) ===
+=== こまる相談 ニュースフィード (2026-05-30 08:46) ===
 
 - 子どもの自殺未遂の8割「相談せず」 支援のヒントは、ささいな会話 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzbW1PZ2lzSnJEWl9lNFZ0MXprMXBiUF9zdG5YbmlJNlBzYld0VHRGYmRybEc1bmdSMUVTb1NPZWd1ZDl2cTJZeHQ1YkwxYXlscG9zRUxXNlpQZklsSTYyb2xyV3ZJNjA?oc=5
@@ -12,17 +12,17 @@
 - ＤＶや貧困などに対応「女性相談支援員」配置進まず 全国自治体の27・5％、市町村に努力義務も脆弱さ浮き彫りに - 新潟日報
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE45Q0twdnlyMmFUb2toTVo3VFdtTGVod09NdTNoRThqX1ktaHdWaDRfNWRmbzhKRktCR0xBdVdUc2Z5amktTFZRSWR5SWx4UW9paFpzS2NYM2FGaUtMcnc?oc=5
 
-- 北朝鮮に「離婚」された韓国の深い悩み - ニューズウィーク日本版
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwWGVjbGlZcWFpa3d6aG1CX3B3WWtlUDZOdEVkckd3NmdpeWVQVVBQbzJLNDNPR1owUE8wc3dKVDNHTmRORGJ0aFZZa3NfRFNmQlBUNm1DVkRBZw?oc=5
+- 【解説】なぜ児童相談所は警察へ通報したのか？巨人・阿部慎之助監督の辞任を生んだ「ChatGPT」相談の盲点【特集】 - ktv.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iYzMzV21hNERaeHlnMTRMWk1OSzFYbXd5S2xHTW9DLTZJWVQ1VUl0eFhfSnNWZnF0MGJXUmVrNnZfbWM2c0I1LUNXeHRFNlZCdlkyRw?oc=5
 
 - ＜人生相談＞ SNSで誤解や炎上を生まないためには 回答・堀潤さん（ジャーナリスト） - 中日新聞Web
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LZUo1Ymp6UF9LQmNPTHJYN1l1ZnpJZkt3LWl0ZS1YZkQyRUZoVEJ4REhlbXRPRGxVMzNxRUlTUjJyTmliNjNDVVRPcUdMZ0xFbXhTdlFuRGtXY25YSkVVOFQ0NDA?oc=5
 
-- 【解説】なぜ児童相談所は警察へ通報したのか？巨人・阿部慎之助監督の辞任を生んだ「ChatGPT」相談の盲点【特集】 - ktv.jp
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iYzMzV21hNERaeHlnMTRMWk1OSzFYbXd5S2xHTW9DLTZJWVQ1VUl0eFhfSnNWZnF0MGJXUmVrNnZfbWM2c0I1LUNXeHRFNlZCdlkyRw?oc=5
-
 - 女子柔道選手のための相談窓口 - 全日本柔道連盟
   https://news.google.com/rss/articles/CBMiSkFVX3lxTE84MmNOTDJkLU9pMXZnLXp3RTJyeHZTZHhiV2xkM1hRMmtoTndyOGpSRFlpZ3Nsb1NDbUhpMWF1M3cxN241RTBIRU9R?oc=5
+
+- ［ケアラーの風景］支援者たち＜２＞「親なきあと」無料相談窓口 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QNVJnWEsyM0VvRU5JNV80bGhoYmJueGtzbEYwekNqby1GWmc2OXdjNjhoV2RjLTFfVHZObnlHUG1xVVJoekc1b0ZIaGsyc3dGemtZTXd6Z0JlZnkwNFBleQ?oc=5
 
 - 県内就農希望者向けセミナーと相談会 事例紹介、農業法人やJAなどがブース 6月に神戸国際会館|経済ニュース - 神戸新聞
   https://news.google.com/rss/articles/CBMib0FVX3lxTE5tZzJ4dklnbGEzb185eTdrTFkwSS1JSVIwOGNveXdTc3ZKN2xZMXJzMTJUcHVnSUtaT1h1bEppMXRNQ3ExUC1paVNDMGQwU0tVUF9DNUEyV29ZX24yLVBxOHJ3SkJVNW1oVGt3Yl9hQQ?oc=5
@@ -42,21 +42,21 @@
 - 松嶋尚美、「お父さんがすごく有名人で…」チャットGPTに相談した事情に言及…阿部慎之助氏騒動めぐり（オリコン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFB0WThoVld2MzNBNE1ZQWxLTHJHSG51SXZyX3VJUnpjU1hJbzRUaG91aUN5RXJFcUF2Tzd4TEgtUGJZRkl6SU1WeXpRNkJrc3R0Mk5Fa185QlVrSmVTbzUzRWVDYS1zVFdQTmthWXlfb1JPcXlvUUVicFpwbDU2V0U?oc=5
 
-- 【社説】阿部監督の辞任 家族からの暴力、相談者を責めない社会に - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XdFVtQzhlUG5mVWpPaTVpZVpzT1lFLVR6aGRDNWgwTTB2NHV5QnExdWMzdjlNNHc3RGpEWTg4QnhLczh0aGlvcVpNTDBEOF9UaVFQeEhuNjBqalZfeDJ0d1I2dG9EUVk?oc=5
+- 若手俳優・黒川想矢が仲よしの友人に相談したこととは？ 「俳優なんだから、陽キャを演じてがんばれと言われました」 - AERA DIGITAL
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tcXdGekl6bFVDUmpFb3R2UXpQQ3lpT0xyaDdhZ0F2MTlhaG5mSXM5dEE2MnZjT3JhbXlyNzNCTjNvQzY5Mm5XQU04OGRpV05qMDliWUdLX2dTSHlZ?oc=5
 
 - 朝の連ドラ主人公ちなみ 「ナースカフェ」で健康相談 高齢者の交流の場に（日本農業新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9nN1VoUUE3TkpLSjZYaXE0eFp1NFVVRnQ5Rkprd2VNQVp0Xy1PWUNQUFFiNFZpV1hwQmpHdHhaQXozbWxzQk8tMmtXUG9EWENNX0Q4U0RtcC1SUFJDQzhlczJOSl9LS1lUNmUxd3dyS2hQMFFlMC04NDdxVjF0U0E?oc=5
 
-- 若手俳優・黒川想矢が仲よしの友人に相談したこととは？ 「俳優なんだから、陽キャを演じてがんばれと言われました」 - AERA DIGITAL
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tcXdGekl6bFVDUmpFb3R2UXpQQ3lpT0xyaDdhZ0F2MTlhaG5mSXM5dEE2MnZjT3JhbXlyNzNCTjNvQzY5Mm5XQU04OGRpV05qMDliWUdLX2dTSHlZ?oc=5
-
-- ＜排水管の高圧洗浄３０００円＞に「安い」と頼み、ついでにシロアリ被害を相談すると高額工事費を提示…「点検商法」が昨年最多 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5CZW5CdTV1NWpUa1ZSZ0ZvNk5FN09YVklrM3BqRVdpdnc3M194TU1OZ0pwMFhVbjVoUVhLUlVFR3h0TkNWM1g1SFBzLU02QjlMWjNWZ3VnakFyTENqNWp3MGNwSjlJZ0ItMVExcmEyTFFGcUNSZmx1ZE5SUGh3cXM?oc=5
+- 【社説】阿部監督の辞任 家族からの暴力、相談者を責めない社会に - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XdFVtQzhlUG5mVWpPaTVpZVpzT1lFLVR6aGRDNWgwTTB2NHV5QnExdWMzdjlNNHc3RGpEWTg4QnhLczh0aGlvcVpNTDBEOF9UaVFQeEhuNjBqalZfeDJ0d1I2dG9EUVk?oc=5
 
 - 入管職員常駐の外国人めぐる相談窓口 埼玉・川口市役所に7月設置へ [埼玉県] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NRWQxSkh6NVNuU3NRSjRJOFg0YlJNcGV3ZXFuWUZGMFFqcXlBMFFQR3Q5R3FRcHlManhzQ2ZWR214UURWdEdZMjY3UWRnTEFiLUExOTlZa3FPZFlsa3IyRjZ3REwtOUU?oc=5
 
 - 海外勤務の息子、相談窓口あれば 過労死遺族、会社と再発防止策 - 朝日新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE11aXdBeGFDeXJZRy1hMHJiYV9SM1M5TnEwOFpONXB4UkdOQmRvcXNLaUdrOHRIYXZsdU9FVDNTNUxndGtVR2tGT19DSHpOREZEeU9XZTNXQTVGYmtR?oc=5
+
+- 前巨人監督長女への中傷、許されぬ 児相相談「ちゅうちょなく」―黄川田こども担当相：時事ドットコム - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sZVVSd2xFZ0ZGNkZXYWlGd1FBbGdMbmtPUGhna2Zoc0F2MGNhaVB2NzZ3dnlPVTg4Y1ZyZmlkc1BGa3dfeHdTXzNuVWlYUTFuTXJQOTZ6dllrM2xCeWg0ekM0bw?oc=5
 
