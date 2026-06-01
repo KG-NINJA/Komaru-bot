@@ -3,39 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>家庭内のトラブル解決アプリ</title>
+    <title>お金の相談アプリ</title>
     <style>
-        body { font-family: Arial, sans-serif; background-color: #f0f8ff; color: #333; margin: 0; padding: 20px; }
-        header { background-color: #007BFF; color: white; padding: 10px; text-align: center; }
-        footer { margin-top: 20px; text-align: center; font-size: 0.8em; }
-        .tips { margin-top: 20px; }
-        .tip { background-color: #e0f7fa; border: 1px solid #b2ebf2; padding: 10px; margin: 5px 0; }
+        body {
+            background-color: #007BFF;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        button {
+            background-color: #0056b3;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        button:hover {
+            background-color: #004494;
+        }
     </style>
 </head>
 <body>
-    <header>
-        <h1>家庭内のトラブル解決アプリ</h1>
-    </header>
-    <div class="tips">
-        <div class="tip">
-            <h2>冷静に話す</h2>
-            <p>感情的にならず、まずは冷静に相手の話を聞きましょう。</p>
-        </div>
-        <div class="tip">
-            <h2>謝罪と理解を示す</h2>
-            <p>誤解がある場合は、まず謝罪しお互いの気持ちを理解することが大切です。</p>
-        </div>
-        <div class="tip">
-            <h2>第三者の助けを求める</h2>
-            <p>必要に応じて、専門家や友人の力を借りることも考慮しましょう。</p>
-        </div>
-    </div>
+    <h1>お金の悩み相談アプリ</h1>
+    <p>ここでは、簡単なアドバイスを提供します。必要な情報を入力してください。</p>
+    <label for="age">年齢:</label>
+    <input type="number" id="age" required>
+    <br>
+    <label for="income">月収:</label>
+    <input type="number" id="income" required>
+    <br>
+    <button onclick="provideAdvice()">アドバイスを求める</button>
+    <p id="advice"></p>
+    <script>
+        function provideAdvice() {
+            const age = document.getElementById('age').value;
+            const income = document.getElementById('income').value;
+            let advice = '';
+
+            if (age < 30 && income < 300000) {
+                advice = '無理をせず、貯金を始めましょう。';
+            } else if (age < 30 && income >= 300000) {
+                advice = '将来のために投資を検討してみてください。';
+            } else if (age >= 30 && income < 500000) {
+                advice = '生活費を見直して、貯蓄を増やしてください。';
+            } else {
+                advice = '資産管理をしっかり行いましょう。';
+            }
+
+            document.getElementById('advice').innerText = advice;
+        }
+    </script>
     <footer>
         <p>#KGNINJA AutoApp</p>
     </footer>
-    <script>
-        // 追加のJavaScriptが必要な場合はここに実装。
-        console.log("アプリがロードされました");
-    </script>
 </body>
 </html>
