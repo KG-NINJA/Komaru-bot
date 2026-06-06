@@ -1,7 +1,10 @@
-=== こまる相談 ニュースフィード (2026-06-06 00:29) ===
+=== こまる相談 ニュースフィード (2026-06-06 01:37) ===
 
 - 森田先生の「も」が言えず、成績あきらめた 悩みを共有、広がる交流 [大阪府] - 朝日新聞
   https://news.google.com/rss/articles/CBMihgFBVV95cUxPb0RQTjhfclROV19UNG5LRGhVR0QzWmgzaVM0XzlKS2RvelotQnI3RGphMVFMa0FpUkdSWVhmVVo4RTUwVlBfOVFyQ0lhVWhFRGphNE9OSHRyRmpRWnNaaU5wZHhwQVJpSnExMjZuNWJ1aUlLXzlQWTlwQUVocnZjTnBzU3B3dw?oc=5
+
+- AIに買い物相談、10代女性の過半が経験 男性は「時間節約」で利用 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBheUtzQi1pX20xWUhaeVN5eWRtMmdDdXB6S0l0Z2RkQnNhRWZHbzg3djVnazRxUGwwRGVTTUtoYkpfa1IyTzhQTFpVSDZEbW9xb1JHVEFhemJwbXVJUWZHTE9rYnYtZ2I4aGt5LQ?oc=5
 
 - 【期間延長】「がん相談ホットライン」臨時休業のお知らせ - 日本対がん協会
   https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EUVg2VFQwNFM3Y1ByRzdxdXY1Rkg5c01LMXhvNmhtNDE3RGtfaVVGbU8xTHFvWVBNU2pNTFIyZkdMWWxQc3JldWpn?oc=5
@@ -12,8 +15,8 @@
 - ケア労働者の悩み、困りごと電話相談 介助中のけが、低い工賃で生活不安／京都総評 - 京都民報Web
   https://news.google.com/rss/articles/CBMib0FVX3lxTE5DakozN3NmSmtkWXNfaGNJTXhhQ1htT2s0ZFd0OTF4UnMyRExsTHloanA1NWNJOUpiT1ZtWHl5c0duQkJ4TEtuNk1RYjNzb0ZiMEYwdk9mX2Eya0RHUXlpYkVrS1pUbm4yUFFmaGNYTQ?oc=5
 
-- バックナンバー｜かまいたちの瞬間回答！～60秒でお悩み解決 - fujitv.co.jp
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE96MVdWdlQ0ZjYxX2tkLWRJSmdseHdzU0lPTTV4SFZqdjFGWXdKeXhXNGQtWXB3ajZjZ1V0Vl8xV0NMaDkweVFFM3JoSEFXUHJ3SHhBdENNZUNDQ05uUGFlcDZiNEx3SzVHbGpIaTFMQQ?oc=5
+- 「未来のことは電通に相談だ」と言われる存在へ 電通・松本千里社長が描く戦略とは - 宣伝会議
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE9LbVZWaWNyREFTWTd4c3M2Tl8xd3p1ZFJXUkh6SV9uSDIySTNCS19JX0ZZaC1rNDVKZG0yLXdHM1pJOWpEb1hoOU5jWFFieVI3dzBJSXRsUUxOa0FPcGpRWm1lQUJJMzF2VTNWN0dmXzdyT3l2TTNtWg?oc=5
 
 - 黄色線区問題で知事にJRから相談 「地域との協議必要」と伝達 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vdWNvSVpvamc3QzN6d3hIakM5ZkVRcnM1RUN4TTlKZHlEMmNGNFZPVVl5M1hPbVpTeWs0UzYyVktMMjQySWNyQ1k5SmtrVWdMZFVWVTdxRzgxdw?oc=5
@@ -21,8 +24,8 @@
 - 来栖あつこが結婚相談所を開設した理由 「結婚を望む人のお手伝いをしたいと思うようになって」（東スポWEB） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaGFLNkJCbExmQ2FmVEJnX3dhd040dDBrLVhfMU9qbFc5SVNBZ1Zla2pWdEQzdnJJNndDOEZOa21xZW5FNlY3dC1XRDVQVUNDYS1lTzZJR0MyWFV5ZVFzUmc4NDI3SDhOc01BZ2l0QWVqcmVFOGNxUVozNlZFWTA?oc=5
 
-- AIに買い物相談、10代女性の過半が経験 男性は「時間節約」で利用 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBheUtzQi1pX20xWUhaeVN5eWRtMmdDdXB6S0l0Z2RkQnNhRWZHbzg3djVnazRxUGwwRGVTTUtoYkpfa1IyTzhQTFpVSDZEbW9xb1JHVEFhemJwbXVJUWZHTE9rYnYtZ2I4aGt5LQ?oc=5
+- バックナンバー｜かまいたちの瞬間回答！～60秒でお悩み解決 - fujitv.co.jp
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE96MVdWdlQ0ZjYxX2tkLWRJSmdseHdzU0lPTTV4SFZqdjFGWXdKeXhXNGQtWXB3ajZjZ1V0Vl8xV0NMaDkweVFFM3JoSEFXUHJ3SHhBdENNZUNDQ05uUGFlcDZiNEx3SzVHbGpIaTFMQQ?oc=5
 
 - 弁護士による消費者問題に関する無料相談会の開催について - city.kikuchi.lg.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE5aX0tDODhLQXNmaTBkSWRmTjRTV0pUY0V2UTJ1V0tkcDZ5SFdtcUlhZjY4YllVUDdvMnFUZDcwRnFxYUY0U3ZrNHJEM2FaTjg2R010cU5UREE3RUxIMUpJZ09malZyVUJxR0hj?oc=5
@@ -30,20 +33,17 @@
 - 短信 B型肝炎で無料相談会 - 徳島新聞デジタル
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE56eEJlT1liaHJBNnlfMzZvMzg4dzhESWZNcVYzNG9tOVFQcEdqNTFZcnBqS0dlbGxnMGhBdkV1Mm5IMDAzUkZoX1BnMjc3Ulk1QVFtRFdB?oc=5
 
-- 【写真】ひきこもり相談803最多件 25年度 鹿児島市の支援センター 年齢層が広がる - 南日本新聞
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tWElIeTRMdV9hWk95V2VsTjNBSEt5SEcybUZXNG9xYzdTeUo5QjJ2UVFpLThpSTk4YWZIZW9Xd3RzME1sYUZfdlIyWHRvOWtsejY0MGJKQQ?oc=5
-
-- 港区ヤングケアラー支援「２２歳まで」拡大 夜間相談も開始へ - NHKニュース
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRdC1NUlBJOFI1WHpjdEgycEJ1VC11VHBXXzZ0dlFWaEUzNk1zZC1RdC1tc19zaTBTVjBQakQwb0U0MkptWno3SGF2RVFMaTdzUExvaks3am8?oc=5
-
 - 【輪生相談】国内でのプロとアマに明確な力量差がない現実を、栗村さんはどうお考えですか？ - J SPORTSコラム＆ニュース
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SRGtsbGZPcklfV09lTWRXMFJ3UUlvYmdPd1pkbkJtVEhkMDRnQllXWjF3UmRrS0pQUnZaeWFUc29EWUhnejlrTmNSVHh3WDFZWFZINXB2QnRmWHZIaWkyQlZyd0RiQTA?oc=5
 
 - 「一目惚れして眠れない夜は…豚バラ肉を煮よう」和食料理人・笠原将弘（53）が振り返る“お悩み解決レシピ”で今も思い出す“一品”《週刊文春の連載書籍化》 - 文春オンライン
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wOEV5QzNXYzM4VmVPM3dnQWJBbG42V0t6aVQ1RHRsVVlQcERZbzBSc0Nhd2MxdXp3dGE2YS1TRnhyMFAtdFlkcDVVUQ?oc=5
 
-- 東日本大震災時の性暴力「相談できる場所が分からなかった」 求められる息長い支援、窓口周知 - 岩手日報
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PeFFQZXpNOExWM1hHcjZDTl82aERqeERkVWJjaW1raGRfUmVBcGFtNDh2V0laQzlwaGF5VDVFNmtWZ1ZIQmZXa1VMRnRTRXRZci10aGllRWZJR0pXb3Iw?oc=5
+- 【写真】ひきこもり相談803最多件 25年度 鹿児島市の支援センター 年齢層が広がる - 南日本新聞
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tWElIeTRMdV9hWk95V2VsTjNBSEt5SEcybUZXNG9xYzdTeUo5QjJ2UVFpLThpSTk4YWZIZW9Xd3RzME1sYUZfdlIyWHRvOWtsejY0MGJKQQ?oc=5
+
+- 港区ヤングケアラー支援「２２歳まで」拡大 夜間相談も開始へ - NHKニュース
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRdC1NUlBJOFI1WHpjdEgycEJ1VC11VHBXXzZ0dlFWaEUzNk1zZC1RdC1tc19zaTBTVjBQakQwb0U0MkptWno3SGF2RVFMaTdzUExvaks3am8?oc=5
 
 - キャリア相談、AIは「アリ」か？ 経験者の約6割が明かした本音（スマホライフPLUS） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNGNTXy0tcThiTGU0a2xLYWNNMEg0TllIWFR6WkpheTd5WjJyTzg1WVVJc3VkZ05CVnVrdmtab0xXTEZONmszcllzZmptelptLVhHUVFBQXRkSDNpek1ubUU4WDhwR3Q1dHY4VGdPUjh1dy1SQnpTMlZ6M1VXTjg?oc=5
@@ -51,12 +51,12 @@
 - 不同意わいせつなどの疑いで児童相談所職員の男を再逮捕 札幌東署 [北海道] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0NEs3b0tYNEFINktEZ2w5MHp3UklXcTBEeEM1c1J2X0tLRk40R3YtWDlkVWNVQXJ0MVp2am10eXNKdTF6b3RGa2stQndPdVdIbThyUElwekpramlwR1dRaS10Y3VlWUU?oc=5
 
-- フライヤー[323A]：AIを活用した「AIお悩み解決サーチ(β)」の個人会員への提供拡大に関するお知らせ 2026年6月5日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1peHJ0RnB5amdNY0RBTWJwd2pkVl9yMnRLRUlkbnZ6ck5KYVRIMmszUG11LXRUSDczV3Y4cXlzN2l5Q25jLWFIblNxVzdyTklfMUNZc3Y2b21nRUx2UFpiSjk3M3MtR2o3VWc?oc=5
-
 - 「激走戦隊カーレンジャー」のピンクレーサーの女優は結婚相談所所長「相手探しで本当に苦労」 (日刊スポーツ) - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGloYV92T1NEMDdXb083ZDZQbllsWkVaOXBTNUpPMGJZQ0hkYk9FaklNYnBGUXVYTUlMQlRVdzM5aG9RT1FPM1l5cWVFYi1mNDhQVkJQVXNyajNyWUd3MmZWdWYxTXpvVl9oUGxfaXlKSFpuOHVxb3daZF9EM2h1eV9tWmdmcWgyUDVENW1n?oc=5
 
 - 「一目惚れして眠れない夜は…豚バラ肉を煮よう」和食料理人・笠原将弘（53）が振り返る“お悩み解決レシピ”で今も思い出す“一品”《週刊文春の連載書籍化》（文春オンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5WZDNrWEhUSnJXLW90WFdxRGxrMlE2Z0hSNndFQ3Fld2FadXhZVHVHcmVoQm9hU3lPcEVKa212ZGdoUWJrTUh2cU5BQm9WN0FiajIyVXZGa0Q2QnJLb2JNbDZkU0FDVUNFYlFEVmx5bkZSU0FHVFdNRGlJd196cVk?oc=5
+
+- 「法に触れないの？」ひろゆき 阿部前監督の“暴行報道”に一石、守秘義務問題でネット大論争（SmartFLASH） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBsRjJFWDZnSENRWGtWZjFoZGFqTFRfVFM0UHNyUUtqd25mbDlmVzRGZlVmWkFPVWZFTjRNT3RTVTdIUnc1UXRrLTU0MEh3RFlNMkRUOFB1YjYycVo0UmNEQngzQ1R1NVhEaUdneW1mZmRTVkw1bWxaTWIyQmk4WDQ?oc=5
 
