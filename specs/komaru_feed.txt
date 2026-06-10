@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-06-10 18:48) ===
+=== こまる相談 ニュースフィード (2026-06-10 19:47) ===
 
 - 地域産業ＤＸ化支援ワンストップ相談窓口を開設します - city.nagato.yamaguchi.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE00YWd0Rk1TSHV5SEZJb0dfaG1uX0x4UThCckw4R0ViTmhJNklIWWFuRzhOejRVcER2Q0w4eGhBR3FPTzhrc1FUZFhoU2hKcEJkYXp1dnpubFotNlVCTVA1Mll2bTk0ZnpIblE?oc=5
@@ -48,6 +48,9 @@
 - 生後2ヵ月の娘を殴り骨折させた疑いで陸上自衛官を逮捕 高島市、児童相談所から通報 - 中日新聞Web
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PeGJKc2hBMnZFTm9XeExtR2VaaEpKb3JGYWJVSndyU1QtN1owMmdTa3RqVkIwSzFTM0F3eHNrak9SeFZSdVMxb3RZN3hPLUZ6emVyNg?oc=5
 
+- 京都市文化芸術総合相談窓口（KACCO）「文化芸術関係者のための確定申告講座」の開催 - city.kyoto.lg.jp
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01WDN4RTdzNXZZZjNXS09MU3FMTThHZmJSaXdCRGN3aU54NHlNVnRTMTZGVGd2R2lYQjlVdUE1Q1hFelVlaGhJak83TV9lVWExSFprZ0gzOFM5dXh2RTVtbGJDQ2cwTjA?oc=5
+
 - チャットGPTに相談し恐喝額「15万円」決める 元交際相手の男子高校生に暴行・恐喝未遂疑いで少女ら5人逮捕 東京・八王子市 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTktpdV9JTDNfaUtablRfN1kzX3RfNjZCUTh1aVpOS01HeWZUSlRSMGgwaGFueTF3cTBnTG5qa1M4dmVtbHpTa3o4U19KZ2M1dXlBVDl0LXRKbllJckd3RFVkRUhpZnM3ck5hTE84SmxIVzV2QmlId0JmV3kwa28?oc=5
 
@@ -56,7 +59,4 @@
 
 - AIに相談し恐喝未遂疑い 5人逮捕 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uMXhrR2FYUlNKVndhWV9XdXpuQkxaTXR2WVl2ancwbmhLT2Jfd3I1Y3pseVJBMm5tRG5mN3RGYXE3cnQtZTVQOU1HWnpXOVVK?oc=5
-
-- 職場のモヤモヤ一人で抱えないで 「労働相談ホットライン」始まる 三重（三重テレビ放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWhBSXRac0Q1Rkx5eWlwVlVxcGRGcE1SemFfcTE2M1VHRVpZYmNJT3pQbDYzVUp5a2xJbU1VbGZVZ2JZenJsQXo4SVlXNUNxd3A4UmFGQ2JrWVJRUkZHTTFVbzZfbDA5VjZ0MDZnRkl0eTZaWVhDZEhQQ0JVbHY0Mm9ETE1QbTVOemFWbEVR?oc=5
 
