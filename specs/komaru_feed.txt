@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-06-10 09:09) ===
+=== こまる相談 ニュースフィード (2026-06-10 11:12) ===
 
 - 地域産業ＤＸ化支援ワンストップ相談窓口を開設します - city.nagato.yamaguchi.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE00YWd0Rk1TSHV5SEZJb0dfaG1uX0x4UThCckw4R0ViTmhJNklIWWFuRzhOejRVcER2Q0w4eGhBR3FPTzhrc1FUZFhoU2hKcEJkYXp1dnpubFotNlVCTVA1Mll2bTk0ZnpIblE?oc=5
@@ -6,11 +6,14 @@
 - 「最低が15万円」ChatGPTに相談して元交際相手の男子高校生から現金を脅し取ろうとした疑い 女子高校生ら少年少女5人を逮捕 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mc0gwOW5ra1FleWxrRmpjWUMwc1J3bF9ORFF3MF9BcmVXSUFoV2dJYWMwQ21HQTBDT2NqNU1ZaWNlUUhhX2N1Si04RWRZbVB4RHhoMDV2TQ?oc=5
 
-- 児童相談所に一時保護されていた男子児童が、玄関の鍵を開けた隙に走って外へ→横断歩道で車にはねられる 近づくと走って逃げる可能性…職員は危険防止に配慮し一定の距離で見守っていた（BSS山陰放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE96Q2djbXlZUFdLMndCR2c4ZUtoamlUODRQVHNiU0FWNWtGT1VEZ0taRGVhdnE4Qnc5T2xjU3p0b2tpZFNGeFZFTWpaNEs2ZWN1UGtaZjFRb3JKWmFNb1pCaTdBVjBLX0UxVVVYMlhfSGc2RE1UbGR1MWNkZ0lQSnc?oc=5
+- ChatGPTに示談金相談「15万円用意しろ」元交際相手に暴行か 少女ら5人逮捕 - khb東日本放送
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tb3FiNmRvVWZzdnBkZmZTb2U5T1lQbkVxQk81TGgxeC1fWGZ1eWFOczJyMGJoOXNCZnNrNEVTN0xWWDJqZjM5ZXlmQUcwNHc?oc=5
 
 - スマホの「困った」を解決 海南市役所にアバター相談員 - わかやま新報
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IdDlBOFAza0E2a2lmWGlpalo1d09HLUg4U21wQjVLZklxRHJ3UklpeE9jSTdGZmdpRmhjeFhQMy0zeG1BaTRENGZtY0l5RFEwbXBfeHFjWTVPR2ZOMkdEc2wzN2lZb0No?oc=5
+
+- チャットGPTに相談し恐喝額「15万円」決める 元交際相手の男子高校生に暴行・恐喝未遂疑いで少女ら5人逮捕 東京・八王子市 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTktpdV9JTDNfaUtablRfN1kzX3RfNjZCUTh1aVpOS01HeWZUSlRSMGgwaGFueTF3cTBnTG5qa1M4dmVtbHpTa3o4U19KZ2M1dXlBVDl0LXRKbllJckd3RFVkRUhpZnM3ck5hTE84SmxIVzV2QmlId0JmV3kwa28?oc=5
 
 - 「15万円用意しろ」チャットGPTに相談し金額決める 元交際相手の男子高校生を殴り現金脅し取ろうとしたか 少女ら5人逮捕 - FNNプライムオンライン
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CVWpxdXBnUW9NTDB4c0d4Xy10elc2eWd1aVBKaEgweU1vS0lSRzhVblZvMDd6cWlaVmxUY0R4X2M3SE15d1IzSkZReWItdw?oc=5
@@ -24,8 +27,17 @@
 - 【南海放送ラジオ】 視覚の悩みに耳から寄り添う新番組がスタート！県立松山盲学校×南海放送『見えるをサポート！見えラジ』～毎月第2木曜日放送中～｜プレスリリース｜RNB 南海放送 - RNB 南海放送
   https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhVjZZZFU2T2ZBQTVlaHA1TDExcFUzMFFQc2xrbkxQblBiTmszbndKaExZTjNzbkpiLS1mSjZPeERWZXl1VVlBdTNqclV1VWNicDBJ?oc=5
 
+- 有村架純、お悩み相談中に生失敗 照れながら「こんな失敗もある」 悩みはポジティブに変換 - オリコンニュース
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Oc1lRbFctbUpXVHdtRnZmbWVLc0hWa0tzWFYwSEZVeTZrSGdKSDRrM21aYUV3aUxBeEo3OFYxQ2RoLTFJdFRzZndra040QWs?oc=5
+
 - 職場での悩みに応じる全国一斉の電話相談 連合鳥取 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GejM0SXZuOXYxeW5TaVY1MGwtZzZKZlhqR0lscVF6V284VGozMlRjeUFJVVotM1N6ODBVN0dZdi10czBCRmVWOXkxcVBhc0llT19KUXY1VDY?oc=5
+
+- 国交省に燃料・資材不安の声 中東関連、相談9500件 流通目詰まり解消へ - 日刊工業新聞
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CZXlRTHFZMnBRNXJnTW9lM2ZXZ2tlZ1RYUkJCdFFkb241M3BvOVpKYThGdlRhUUh5RHI4V0FEQkd1WDZ1RDhXLTY5VExUMXRmU0dGVk1CSU1DVVk?oc=5
+
+- 障害児らの保護者で悩み共有 岡山に交流サロン発足 - 山陽新聞
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE82bnZiZDkyYmctdklSM2ZJRThvcTdzTUhLSDdSRDN0RjJZdmFEMWRMeElMdjVSZ3VZcFJFQzQ2d2I5bmZPd1FIY2Rjc1NUSWJpNnc?oc=5
 
 - 「正解を知りたい」から、「自分に合う向き合い方を見つけたい」へ。2人のサポーターに相談して感じたこと - キッズライン
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OclRpZWJpV0N0YTBpVVJDS2JHa0lfRzMyLW9iYmt2cGV4V0FiMFh6QkVPTEMwczg3dGxpWlJWX1ZsVzFLWFBzb0hNTkx3UFNEU0FV?oc=5
@@ -33,26 +45,14 @@
 - 当社カウンセリングサービスのクライエント調査「相談行動におけるAI活用の実態」「AIで考えは整理できたが核心に踏み込めない」との声人が対応する強みは「理解の深さ」や「文脈の理解」 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9PdWxvUUZqaEw4M1FfVkMwTU1VeG1KZUpnTWp0NkpzaXBSWDNvVUtOVWFlNVNmbjFvYXB4MlBTS09DeUZKQnJXWnI4eDkyNFd0WEl3RUVScWp6QmVlWllzUjVFMDNqSmJoZXc?oc=5
 
-- 国交省に燃料・資材不安の声 中東関連、相談9500件 流通目詰まり解消へ - 日刊工業新聞
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CZXlRTHFZMnBRNXJnTW9lM2ZXZ2tlZ1RYUkJCdFFkb241M3BvOVpKYThGdlRhUUh5RHI4V0FEQkd1WDZ1RDhXLTY5VExUMXRmU0dGVk1CSU1DVVk?oc=5
-
-- 汗ジミやベタつき…尽きない悩みに対応 累計1000万枚突破、インナーブランドの歩み【PR】 - jocr.jp
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4eGVQM3Z6X1dad19SVFdDSVM2Z0ZheVlIWEpqakJnLVBvY2IzZzdBNXI2bkdhMGd1OTdacnNVcjFpQllXdFNFZHV3ODJveVR2RnlUcnVB?oc=5
-
 - 3年連続で500人超え 虐待疑いで児童相談所に通告【徳島】（2026年6月9日掲載）｜JRT NEWS NNN - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOWmtCVDB4ZmxtX1dFMS0yQ0NqODdHQ3puRzROVHNSdV9jMWwtcUNCeG9UZHJqaUhfc0hLWTFfbU5VWWMtNFhBZW9aWkR6V1JLTmNmcDVHcDFhS1E5ZWtOWUpkM3JFTUxmNkJWZlFRdWFVZDB3eUZmS1ltU2xHdWtwSGM5WUdVTTA?oc=5
 
-- 【サナエトークン】金融庁が「損失に言及のあった相談」件数明らかに 伊佐議員が追及...発行初日に30倍超高騰も大暴落 - J-CAST ニュース
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zUXREdjlCOW44RDRDX2FGbHkyVjRodno5ZkRWc1AySHYyZEpYQkpSc0tZcElCUEcyd2VIeVl6VlRPamVxOHREZU0yRVpJcVpqRHV5SURnQQ?oc=5
-
-- 労働者無料相談ダイヤルを開設 あすまで、連合福島など - 福島民報デジタル
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLbnIyd2ZGaElENDJNcFNOS3EzT1E4MEhDN1FKZDhoRW81X05CUkkzVlBTNHFyMFpRZWFVbmtNUDkzNENjZmNIU18wajMxZWM?oc=5
-
-- チャットGPTに相談し恐喝額「15万円」決める 元交際相手の男子高校生に暴行・恐喝未遂疑いで少女ら5人逮捕 東京・八王子市 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTktpdV9JTDNfaUtablRfN1kzX3RfNjZCUTh1aVpOS01HeWZUSlRSMGgwaGFueTF3cTBnTG5qa1M4dmVtbHpTa3o4U19KZ2M1dXlBVDl0LXRKbllJckd3RFVkRUhpZnM3ck5hTE84SmxIVzV2QmlId0JmV3kwa28?oc=5
-
 - AIに相談し恐喝未遂疑い 5人逮捕 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uMXhrR2FYUlNKVndhWV9XdXpuQkxaTXR2WVl2ancwbmhLT2Jfd3I1Y3pseVJBMm5tRG5mN3RGYXE3cnQtZTVQOU1HWnpXOVVK?oc=5
+
+- 児童相談所に一時保護されていた男子児童が、玄関の鍵を開けた隙に走って外へ→横断歩道で車にはねられる 近づくと走って逃げる可能性…職員は危険防止に配慮し一定の距離で見守っていた（BSS山陰放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE96Q2djbXlZUFdLMndCR2c4ZUtoamlUODRQVHNiU0FWNWtGT1VEZ0taRGVhdnE4Qnc5T2xjU3p0b2tpZFNGeFZFTWpaNEs2ZWN1UGtaZjFRb3JKWmFNb1pCaTdBVjBLX0UxVVVYMlhfSGc2RE1UbGR1MWNkZ0lQSnc?oc=5
 
 - 職場のモヤモヤ一人で抱えないで 「労働相談ホットライン」始まる 三重（三重テレビ放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWhBSXRac0Q1Rkx5eWlwVlVxcGRGcE1SemFfcTE2M1VHRVpZYmNJT3pQbDYzVUp5a2xJbU1VbGZVZ2JZenJsQXo4SVlXNUNxd3A4UmFGQ2JrWVJRUkZHTTFVbzZfbDA5VjZ0MDZnRkl0eTZaWVhDZEhQQ0JVbHY0Mm9ETE1QbTVOemFWbEVR?oc=5
