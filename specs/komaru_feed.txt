@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-06-11 00:34) ===
+=== こまる相談 ニュースフィード (2026-06-11 01:47) ===
 
 - かまいたちの瞬間回答！６０秒でお悩み解決★スシロー＆ガスト激うまアレンジグルメ[字]｜番組情報 - TNC テレビ西日本
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1MaGw4R2NEUkUxWkIxS214bFFldHltVHJ0YkFSbW03UDdUMW9RZk9jUTB0LTBSS25JU3pPSWpMMmxJWHRWTDNKM3p2dm11RlhvSll2azZucVI4XzI4djZfQXN0R1J0WnlWRHctcg?oc=5
@@ -9,6 +9,12 @@
 - ＼気になることをちょこっと相談／長岡市フライデーナイトオンライン移住相談会 - pref.niigata.lg.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGNHdkdMNEdRNjNYeHAwcXltalhTWVJ5Zl9VUGNVaXZLYUlLMVVhbUM2VVktWUViWjlSNERTNUlmSmdaNEFJQ0VWdmJ4dWRMdFlJbTlqLXJLenZMdlJCVWloakxkcG5jbFdWQzBFS083V3h1QVMyU08zeGszUndIYQ?oc=5
 
+- 【東京都】中東情勢・物価高騰の影響を受ける中小企業に対する相談窓口 - 青梅商工会議所
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fc2VvbHR3ZVJ5WXpIcDNSSGZTbFZienRHT3RKQTg4YzhxOGpuVFJ4TG1JX2E5am84cmFKOXY5UmdWMVd1N0E4MHhwZjk2UQ?oc=5
+
+- ランチタイムにサクッと移住相談！「第2回 仙北市移住体験オンライン相談会 ～ランチタイムトーク～」を6月25日（木）に開催 - Digital PR Platform
+  https://news.google.com/rss/articles/CBMiQ0FVX3lxTE81QXZlMWIyUl9xd0tXWHR1ZXVfeUxmU3pFYWk4ck1YeC1HVnNIdER4TzY0U0JXZWNvZ3JmbTNRS1JRZlU?oc=5
+
 - 医療相談、スマホで気軽に 生坂村が無料アプリ導入 - 市民タイムス
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zcUlDVDlTZ3ctTGpTZ1gySkx6YmNIcGFmeUVYZGFKTll2UTVabUpfTXY3MGVzS3lWMVZFb285TkphOVhod25zQ0ltVVJ0WTJUT0otX2lYeDB6S2JZQi0xMV9vVWg?oc=5
 
@@ -18,41 +24,35 @@
 - ChatGPTに示談金相談「15万円用意しろ」元交際相手に暴行か 少女ら5人逮捕 - khb東日本放送
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tb3FiNmRvVWZzdnBkZmZTb2U5T1lQbkVxQk81TGgxeC1fWGZ1eWFOczJyMGJoOXNCZnNrNEVTN0xWWDJqZjM5ZXlmQUcwNHc?oc=5
 
-- 栃木：移住センター相談員増：地域ニュース - 読売新聞
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE5kUU1jOFF6MzlRNGlzeDF0cHZjQ1FXRHNzelMwN29ZV2pzZFVKbU5CdzFlV28zRmNOSE9LbnV3VjNURFkzdUwxOXJCZlFFNTRDTV81SEFuTUNHWUNhel80bndMNEQ5RU1yZEVWY01lNFNjQjg?oc=5
-
-- ランチタイムにサクッと移住相談！「第2回 仙北市移住体験オンライン相談会 ～ランチタイムトーク～」を6月25日（木）に開催 - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5neFhKMUtuc2xmMk0ybUQ2OE5LaGRYcDg4NDBUbEFTVGtUWXNkcGtvSy1EeXkzek9pZWx1TGNvb0hLazFUS1JUc2Q2U2J1UlFBd210SlU1QmU5aHZmTHc?oc=5
-
 - 吃音の悩み、仲間と共有 広がる自助グループ、7月に全国交流会（朝日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBfcWJVMmNDM2E0WnlOTTVxMGI2bUhnSGZFRFFCb0V3Rkp3dFZacm1hTmtkdmhDLVRSc0UyV1lIUWZXcGpFeU9oVUVYbkIzb25vOXZjZExCMmkxdkIyc1VxWlRYenpvdjhDaE52Tm5NMks3ajhONGpCbWtNaGIxYjA?oc=5
+
+- 栃木：移住センター相談員増：地域ニュース - 読売新聞
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE5kUU1jOFF6MzlRNGlzeDF0cHZjQ1FXRHNzelMwN29ZV2pzZFVKbU5CdzFlV28zRmNOSE9LbnV3VjNURFkzdUwxOXJCZlFFNTRDTV81SEFuTUNHWUNhel80bndMNEQ5RU1yZEVWY01lNFNjQjg?oc=5
 
 - スマホの「困った」を解決 海南市役所にアバター相談員 - わかやま新報
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IdDlBOFAza0E2a2lmWGlpalo1d09HLUg4U21wQjVLZklxRHJ3UklpeE9jSTdGZmdpRmhjeFhQMy0zeG1BaTRENGZtY0l5RFEwbXBfeHFjWTVPR2ZOMkdEc2wzN2lZb0No?oc=5
 
+- 「望んだ道に進めなかったら…」悩みは企業で働く大人に相談して 仙台大志高で対話授業 - 河北新報オンライン
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE55cTI3aXZ5MnltWUJnamc3dWlnZC15NUgtU0hjLW04bVJ4R081RG1sOVJTNFZ1cDc2aXdhbjF1TTlSdmxZbEYyUzFObzFJRzhPREs1MHprTFdvUjJ6b3dsQg?oc=5
+
 - 海外結婚相談室 バイリンガルな子供の未来と可能性 - nyseikatsu.com
   https://news.google.com/rss/articles/CBMiakFVX3lxTE53T3oyRVZGUHdoMExfQXVMWVJLbnc2ZUpoNmRsakRURHp3RjRNYWl2U245RXljVkhDbVBlbWdEWVp2ZVdJd1FsOU1QckNNbmpnRjQyQVlUQUQxQVFIdElROHB1aWI0Z3UzVmc?oc=5
+
+- 辻村相談窓口、「新しい生き方を選ぶ」 - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zejhRV21tQTBNazUzSjZ1UHY5Z0JwRkU5ZnB6RjRfcVZ5OVdpR3diTjFmV005ZFc4T1J6YWtXUUdqZVZiSGF4NVB6MlBCNy16emNlcWtDMEhhN19NMDNnaVlFdWJqZw?oc=5
 
 - 参加無料 看護職の復職相談会 28日 ウェルネスさがみはら - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WdGNOVDVRTEFLZ1ZtMUtvSUpfclFQUENES05UVFMwTjhCZFBtUkxYa3pWT0txNmdYVkx5a255VnROQXpWNFBiS1dpb3hIN2Mza3l0YkMzRGxpR1QzdmxsTkxlR0Q?oc=5
 
-- 男子高校生に“暴行” チャットGPTに“示談金”相談…現金脅し取ろうとしたか 少女ら5人逮捕 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE1vbnFHOVhhTHZTRUlhLTd3OG9SaGd5VjhHemVacjBTdnMwano3eU5rUjZXQTY1N1RSVk44bFdXUW9DUmxJcUY1OE8xZEZhM3VQRmdLdUN3NG1zVlJZOFhvMXhCQmd2R0pzLU5lS2VxTjFEdmVaUzRGWDIwMjY?oc=5
-
 - 日曜労働相談会 2026年6月21日(日) | 福岡おでかけ・イベント情報 - 西日本新聞me
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZZVM4TXlVVi1sdWxydHQ3bmRqaFItM1VjcUFNSEo1bGkxM1QxM1l1WXhPV2N0eDJSRVAtOV9jc3A0WWFzcnRJemZfc20waUNfQ3JUdUNlTV92V3ZyZkE?oc=5
 
+- 男子高校生に“暴行” チャットGPTに“示談金”相談…現金脅し取ろうとしたか 少女ら5人逮捕 - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE1vbnFHOVhhTHZTRUlhLTd3OG9SaGd5VjhHemVacjBTdnMwano3eU5rUjZXQTY1N1RSVk44bFdXUW9DUmxJcUY1OE8xZEZhM3VQRmdLdUN3NG1zVlJZOFhvMXhCQmd2R0pzLU5lS2VxTjFEdmVaUzRGWDIwMjY?oc=5
+
 - “夏の3大生理悩み”を乗り切る方法を医師が解説！意外と知られていない対処法とは - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1kZ0dicnU3RWJKSnc3andtVldjekFHNDA2NWY3X1ZqbFBPUjJhLUp0T0ItbFJNaEswVjUxRkZsTWNjZWpXMkd3d3lDaHFQN3lLTFFjMTdqZjAzMFRJdl92d1g5ckwzVXpIN1E?oc=5
-
-- 梅雨入り“エアコン臭”相談が前年比3.6倍に急増 高温多湿の長期化で「カビ臭・生乾き臭」対策ニーズが拡大 - anemo（アネモ）
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE9TcEczYk5KQkhTRlBtbDNyVUphenBJYnJlNkpUZ0RZQjZ6LUFZNExzWEtXdTcwNGpUZVUwZ21va1dRa1A1QzNoT1lvV0FndFFfaW1OYVRLN1oyMmd5d214Y2Z6VHFpTndxb25pQllsN0oweDQ?oc=5
-
-- 京都市文化芸術総合相談窓口（KACCO）「文化芸術関係者のための確定申告講座」の開催 - city.kyoto.lg.jp
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01WDN4RTdzNXZZZjNXS09MU3FMTThHZmJSaXdCRGN3aU54NHlNVnRTMTZGVGd2R2lYQjlVdUE1Q1hFelVlaGhJak83TV9lVWExSFprZ0gzOFM5dXh2RTVtbGJDQ2cwTjA?oc=5
-
-- 児童相談所に一時保護されていた男子児童が、玄関の鍵を開けた隙に走って外へ→横断歩道で車にはねられる 近づくと走って逃げる可能性…職員は危険防止に配慮し一定の距離で見守っていた（BSS山陰放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE96Q2djbXlZUFdLMndCR2c4ZUtoamlUODRQVHNiU0FWNWtGT1VEZ0taRGVhdnE4Qnc5T2xjU3p0b2tpZFNGeFZFTWpaNEs2ZWN1UGtaZjFRb3JKWmFNb1pCaTdBVjBLX0UxVVVYMlhfSGc2RE1UbGR1MWNkZ0lQSnc?oc=5
 
 - チャットGPTに相談し恐喝額「15万円」決める 元交際相手の男子高校生に暴行・恐喝未遂疑いで少女ら5人逮捕 東京・八王子市 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTktpdV9JTDNfaUtablRfN1kzX3RfNjZCUTh1aVpOS01HeWZUSlRSMGgwaGFueTF3cTBnTG5qa1M4dmVtbHpTa3o4U19KZ2M1dXlBVDl0LXRKbllJckd3RFVkRUhpZnM3ck5hTE84SmxIVzV2QmlId0JmV3kwa28?oc=5
