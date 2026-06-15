@@ -1,1 +1,44 @@
-<!DOCTYPE html>\n<html lang='ja'>\n<head>\n    <meta charset='UTF-8'>\n    <meta name='viewport' content='width=device-width, initial-scale=1.0'>\n    <title>困りごと解決アプリ</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            background-color: #f0f8ff; // calm blue color\n            color: #007BFF; \n            margin: 0;\n            padding: 20px;\n        }\n        footer {\n            margin-top: 20px;\n            font-size: 0.8em;\n            color: #555;\n        }\n    </style>\n</head>\n<body>\n    <h1>最近の困りごと</h1>\n    <p>ここでは、最近の相談の中から「親なきあとの相談窓口」に対する情報を提供します。親が亡くなったあと、自身や子ども、兄弟姉妹がどうすれば良いかを不安に感じる方に向けて、専門家が無料で相談に乗る窓口が開設されました。</p>\n    <p>連絡先や具体的な相談内容について詳しくは、地域の自治体のウェブサイトをチェックしてください。</p>\n    <footer>\n        <p>#KGNINJA AutoApp</p>\n    </footer>\n</body>\n</html>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIに相談する</title>
+    <style>
+        body {
+            background-color: #e0f7fa;
+            color: #007BFF;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: small;
+        }
+    </style>
+</head>
+<body>
+    <h1>AIと一緒に考える</h1>
+    <p>あなたの悩みや選択肢について考えましょう。</p>
+    <input type="text" id="userInput" placeholder="あなたの悩みを入力してください">
+    <button onclick="submitInput()">相談する</button>
+    <p id="response"></p>
+    <footer>#KGNINJA AutoApp</footer>
+    <script>
+        function submitInput() {
+            const input = document.getElementById('userInput').value;
+            const response = document.getElementById('response');
+            response.innerHTML = 'AI: ' + input + ' との対話を進めるためのプロセスを開始しました。';
+            document.getElementById('userInput').value = '';
+        }
+    </script>
+</body>
+</html>
