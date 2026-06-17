@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-06-17 17:58) ===
+=== こまる相談 ニュースフィード (2026-06-17 19:00) ===
 
 - (令和8年6月17日)独占禁止法に関する相談事例集(令和７年度)について - jftc.go.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNVTNJbHA4ZVRKMVVWQVJpLXlxc0tNN2N6U3dyUVZJX3JQckRTOUtQZ056ZDJSdjdkRmVhck1wcm0yaWs0aHEzYzFhUUpqUTJNNXFmN09OdUJvUTBlaUpNamhnZTROZG05V21CX1BlRHRPUlRMd3RHUlNhVEtyS2h3eEFpd2d2NjNTR0E?oc=5
@@ -21,6 +21,9 @@
 - “大人女性の悩みに効く”Elura（エルーラ）が新たに提案する大人のためのサマーニットが登場！2026年6月17日（水）よりWEB限定で発売 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBDS2JIYnNkYWFGcllUZEpKdW9EVndOYjVpMm1LYXp6dTRxZzhtQjZ4Z09McHNoOHpOeHc1cUhTUUJEMWM4NExFMnBOWmpvVzhaOEhVNTFFREhGenVlbk0weDYydl9rQTFNVGc?oc=5
 
+- 【事業者のみなさまへ】中東情勢等に関する特別相談窓口などについて - city.hannan.lg.jp
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE45ZV9TNDlhaHEzQ2YwSWVTamw4SmlRTzMtVUVzNm5oVHg1UjBTSzdTZnVLSWFzeWs4ZDZ4ZGsxSlA1NFF3UlMtRXFsS1VRYjMzeTVRSUpJb0FTeTFLVU5rakxXLTVBMGdZVlJuN3VlSlBNdEZOODMwcVdUNXQ?oc=5
+
 - 観葉植物 手入れの相談も あいプラングループが札幌・南区に専門店 - 北海道新聞デジタル
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTW1QdlBFRzdPdlBobEt6U2hVNkhUUWdYNzVXLWZGMkhkVFBxVzAzdmw3V3EwaVl6Q0Z3Y0Z0S2VySFhqTl9SbDdxcUZWNGp2TXRBdDl1UmpYUQ?oc=5
 
@@ -42,21 +45,18 @@
 - 三田学園中、7月の見学会・相談会のお知らせ|中学受験情報 朝日みつかるナビ - 朝日新聞
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPSHBUR1pBZWpONXhTWW1EeUNfX0hMVGY1aHZpLWZ6aTFhclV4SmFKdm9IWDZzX0pQZzdRbFFRQWtiU1prSUtBZnpvUVFmcjRKYS1fVzlVV0U?oc=5
 
-- 松平健、自身がモデルのAIにお悩み相談「話し相手がいないと寂しい」 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMicEFVX3lxTE1TVVg4WHJHa2w1ZGM1Q3hnOGIyeHR0cVpnRm9kOWxGcHpicDVMZENJNE1seGRvTjZKMUlYczJFeDRXdk16dXBwOERTcGZjOExTUXdSQkdObERxTVplRFJqMWI5YlUtOFFqMHBmM2FQbFY?oc=5
-
 - 函館 空き家の無料相談会 市役所では電話での相談受け付けも - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GUFN3NzM5bExWYldMMy13UjUyODRZSEZjNXdRYURIODJySVdfb3RqX0xPUmc4RXVtS2dYd2Z0Ykw1dHRpY0llRGpQMkFEb1JmZ3M1Q182RWU?oc=5
 
-- 「まさに伸びしろですね」人生相談に乗った本田圭佑の答えは？人気インフルエンサーと動画コラボ - 日刊スポーツ
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE8zRTZtZkxGaHNsWVNacE5CaEFOX2liSml2cEhuWEdNVDFmVTNJQm9yOUVXVGZiUEFZTExuX1FjLS02YXp4RFMwelBoNjBIeFhyMzd5UmpTaW8zRFBFNnFjak1FUXhkb0FvSzBaX1dIV25McHloeERZSFJyVlEyUVE?oc=5
+- 松平健、自身がモデルのAIにお悩み相談「話し相手がいないと寂しい」 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE1TVVg4WHJHa2w1ZGM1Q3hnOGIyeHR0cVpnRm9kOWxGcHpicDVMZENJNE1seGRvTjZKMUlYczJFeDRXdk16dXBwOERTcGZjOExTUXdSQkdObERxTVplRFJqMWI5YlUtOFFqMHBmM2FQbFY?oc=5
+
+- 大学院「研究成果展示会・進学相談会」を開催します - kyusan-u.ac.jp
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE85ZzV6WTZjYVZJZ1pnNU9jR2tqTHlxb1dybDlFY2Nzc2V1Tko0VDNQZmY0cWVTVjBJb21obm1EWmxsUnFldHp5UXhIcWlfMkdQMGFLZmhCN3N4TjJHUEdTQg?oc=5
 
 - 「エルメスが偽物では」店長の相談で発覚 偽バッグを質店に入れ1400万円詐取か 78歳母と44歳娘を逮捕 被害総額1億円か - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMnRDNUN3d1BtaHBOa05HcVlvSEZYRFdMSGRoeUtoR2xTVXVxZUs2cHd2LVY2aG01S3AyYS1TRDNOUU9LZ2JhU3F2a1dYcTZlYXdpTXhOSU0tVWwtZnJ1MTlNZFJMMkU0eWpXY25YUm9BOVlURFotRVl2d3czUDQ?oc=5
 
 - 横浜市 ひきこもり相談を一本化 年齢制限なくし継続支援 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tSWcxWVZ3aVBBS1JsMmNfcnVpRnctekRTZVpZTjJ5MlhQaXpmNWZOd1pNQUc2emhpNjhvTFNLZWhqRXRTZFd3VmZhT0hGX0pPMUxhREl0UUJEVUFrbENuOXQ0ZXk?oc=5
-
-- 急成長で組織拡大が進む東京電力グループ・TEPCOホームテックが「Smart相談室」を導入 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE8zS2JrcElKdHh1OEU5QnpwM0p0LTF1aGtYOERNSUt0ZEJYYWVSUlNTQVk0MGdwLVNkTnFZeVRUNkNJMjdMZ216cGRyUmg5Um9DaEJCbDlhaGVCbENrZm4xeHoyMy12ZWUtblE?oc=5
 
