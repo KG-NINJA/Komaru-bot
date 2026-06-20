@@ -1,13 +1,10 @@
-=== こまる相談 ニュースフィード (2026-06-20 21:27) ===
+=== こまる相談 ニュースフィード (2026-06-20 22:24) ===
 
 - 社説：相談相手としてのAI リスク踏まえて使いたい - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DdjBFeGtEVkRtUHZzQlA1REFkcFI4SDdVM3lZVmI2UzVMM01ONlJ0dXRnNFpUbUZnaERacTdBcnRhNXlWc1BvT1laUnNCak9vQTUyajdwU1R1THZ4VGlDN1Voa1ZXV1dH?oc=5
 
 - アシックス、ランナー有料相談で購買単価1.6倍 走り方も指南 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE95MFZWVFpfN2ZlSjlaZjd1aW5xakkzcXFVNGtoYXgzcDNNSFRyT1czc2lQOER0UFNnNXhNSUpiY2M5VEZZZHZCRUxWMGp0YTFWSFJla1RnZThwTU85OGVER2lUWEtTOEVsOEZicw?oc=5
-
-- 子どもの急病、24時間アプリ相談 茨城・笠間市 オンライン診療も（茨城新聞クロスアイ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBQSEI3ZnlhZ2RRRm9KRDZpQ0dMMk45NGlWWUtHTkZwYkF2UFJqRkJMbmFYSUtzWXBvUTJpN3VkenEwYjBjQktGS0M2c2ZpcUs1V2VOMUh3NWJLWExSamFmUDhrcEVBUFNYa1JZRnZuemU2OUpxTHdINHkwSW5PRjA?oc=5
 
 - 京都の犯罪被害者支援センターがピンチ 相談件数急増も財政難、対策に「自販機」？ - 京都新聞デジタル
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ESzdHWDZxeE9CWUw1bnNpWF81ZFpSVDhrRGREVW9HQ2ExUDMwQS1UVXpfaktHdmpHZldiYjhsUXpMdk9uSnQ0M2QtRUU5UGJCNzlERGlEblQ?oc=5
@@ -17,6 +14,9 @@
 
 - 東北大学主催「進学説明会・相談会in札幌」を開催しました - tohoku.ac.jp
   https://news.google.com/rss/articles/CBMicEFVX3lxTE5CUXd0WEI5UlpMRy1HeGVrUldjNndPTVFyUGxWQ3ZYTFUxb1JQZlVUNmJFMjFaQmkyenhUVm84NXZzY1FWYXpRSXhnZGEyQ05sNVBUMXo2VUhLLXF5MHlrNUR0THg3M21TSEVOdFZhRms?oc=5
+
+- 「優秀なリーダー」が「あえて」しないこと・ベスト1 - ダイヤモンド・オンライン
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iazZtbmlkdlBPbVQ0cVN4SElVMG55V3dTenQ2cGRSYm85c0dZdXdaR1JfVTNIRTl5ZnVKa0dCdF9mYUtnZVpKLVlLVWg?oc=5
 
 - 中東情勢の影響に関する支援情報・ 相談窓口 - city.nagaoka.niigata.jp
   https://news.google.com/rss/articles/CBMidkFVX3lxTE5FYWRFejdnOEE1X2hVUV9YTFdUR3Q5aExmZnBiWnlnTXBzcEdvaXlMbk5iZWFQWlpWczBsaVk4YTJKNHVLOF9UUzFFWEFqMURhbkRPeHRHcjFaVnBWU0VHZ0FvQjY2WFZQRjFRYW4wdVhaMkRmMGc?oc=5
@@ -33,11 +33,14 @@
 - 【お金の四方山相談室】若い人が引っかかる詐欺が増えている!? - ananweb.jp
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE44QWVnNFZkOHZzOXFoRmNCSVo1S2kzUndpUEpNR0JSU1RmMDBaOGpOQkRZM2ZId05QaFN5LWNZamlkZlNuX3QwN2p1bXF1ZzR3UUIyT3ZNTE0?oc=5
 
-- SNSのトラブル巡り若者からの相談が増加 警察官など身分詐称の相談が1.5倍に急増 県消費生活センター相談まとめ - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzczRVpsMWV5QmZEbklVMkdSOEVxdzZVWDg0UUkxeV80Qm1hQmp3empoZGl4cm9fbXhFMHlqTVM2UHJRa3ZJQ3FYZE9NUzNOLXpuNFh3N3J0M2xhcHJ1eGJhUnRyQWxSX09meWxlLVRYbUpvRVhIMDdDdGRXS09jZlEwdFptM1k?oc=5
-
 - 消費生活相談室休業のお知らせ - city.seki.lg.jp
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoWFhZZGVRRTZ4X0dRbUNhb2xPN05LeHJDYWhnXzd4cjRzUXhPWEVHN25xR3JYc2NGZ2tYb3JuVnAyNWJNaXpSMnZyckpvYkcxMHFsOTBR?oc=5
+
+- 「休みたい」「相談したい」母親の心と体支える“産後ケア”…新潟市の利用率は40％超も認知度に地域差 母親が気軽に頼れる場所づくりを - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE84YkF6TDF1OWxwcU1vUkNMbFF6TXlyNFNaMnc2UDJONzh4aHU2U2VqX2VTaFlzRHZZRldNbEE2RnpydzY3UEl1RWcwanVVOHNiY19odGtVMkItRml0Z0JEUjlCYzlrV0hva3JENzFEREpzSW5oN0dlOXI0YTFtcE0?oc=5
+
+- SNSのトラブル巡り若者からの相談が増加 警察官など身分詐称の相談が1.5倍に急増 県消費生活センター相談まとめ - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzczRVpsMWV5QmZEbklVMkdSOEVxdzZVWDg0UUkxeV80Qm1hQmp3empoZGl4cm9fbXhFMHlqTVM2UHJRa3ZJQ3FYZE9NUzNOLXpuNFh3N3J0M2xhcHJ1eGJhUnRyQWxSX09meWxlLVRYbUpvRVhIMDdDdGRXS09jZlEwdFptM1k?oc=5
 
 - 精神科の入院患者に当番弁護士 日弁連が無料相談を全国に拡大 - 西日本新聞me
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ob1BMbHVmOXVVS3lQNHg1b3VSRk1QTXd6ckd6ODdrWm15aHdYSXVqWmJhMmxOWGxSVzd3aU1Kai1kT2Uwc01DeGlXWXhLZXdKa2F4bkZR?oc=5
@@ -50,9 +53,6 @@
 
 - 「食べたくなる環境 整えて」 富士の管理栄養士 子どもの偏食 悩みサポート - 静岡新聞DIGITAL
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IOFdKUW5yTTU2VVBTeWN4UDR4VjRfTWR4RExKSHZwbGRIdTJiN3Rua3pWRE9faFNfRWJPMlludTY0UzkwSU9jY3lVV3h0QQ?oc=5
-
-- 「休みたい」「相談したい」母親の心と体支える“産後ケア”…新潟市の利用率は40％超も認知度に地域差 母親が気軽に頼れる場所づくりを - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE84YkF6TDF1OWxwcU1vUkNMbFF6TXlyNFNaMnc2UDJONzh4aHU2U2VqX2VTaFlzRHZZRldNbEE2RnpydzY3UEl1RWcwanVVOHNiY19odGtVMkItRml0Z0JEUjlCYzlrV0hva3JENzFEREpzSW5oN0dlOXI0YTFtcE0?oc=5
 
 - 子どもの急病、24時間アプリ相談 茨城・笠間市 オンライン診療も - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NNTdyeFpkY3lEd01QSmNvNndWNGY0Qzd3bkFqelhiN2VudWZVZ0oyX1FjYzV3Wk1pcmFPXzVYYm1uMUdudHlFN203bw?oc=5
