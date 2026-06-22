@@ -3,42 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AIに相談する</title>
+    <title>困った！ペットボトルの蓋が開かない</title>
     <style>
-        body {
-            background-color: #e0f7fa;
-            color: #007BFF;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 20px;
-        }
-        button {
-            background-color: #007BFF;
-            color: white;
-            border: none;
-            padding: 10px 15px;
-            cursor: pointer;
-        }
-        footer {
-            margin-top: 20px;
-            font-size: small;
-        }
+        body { background-color: #007BFF; color: white; font-family: Arial, sans-serif; }
+        h1 { color: #fff; }
+        p { font-size: 18px; }
+        footer { margin-top: 20px; font-size: 14px; text-align: center; color: #ccc; }
     </style>
 </head>
 <body>
-    <h1>AIと一緒に考える</h1>
-    <p>あなたの悩みや選択肢について考えましょう。</p>
-    <input type="text" id="userInput" placeholder="あなたの悩みを入力してください">
-    <button onclick="submitInput()">相談する</button>
-    <p id="response"></p>
+    <h1>困った！ペットボトルの蓋が開かない</h1>
+    <p>様々な理由でペットボトルの蓋が開かないことがあります。この問題を解決するための小技を紹介します。</p>
+    <p>1. ボトルの底を数回叩く。
+    2. 蓋の周りを温めるためにお湯に浸す。
+    3. ゴム手袋を着用して、よりしっかりと grip する。</p>
+    <p>これらの方法を試して、無理なく蓋を開けてみてください！</p>
     <footer>#KGNINJA AutoApp</footer>
-    <script>
-        function submitInput() {
-            const input = document.getElementById('userInput').value;
-            const response = document.getElementById('response');
-            response.innerHTML = 'AI: ' + input + ' との対話を進めるためのプロセスを開始しました。';
-            document.getElementById('userInput').value = '';
-        }
-    </script>
 </body>
 </html>
