@@ -1,7 +1,4 @@
-=== こまる相談 ニュースフィード (2026-06-25 19:32) ===
-
-- 教職員による性暴力等に関する相談実績について（令和７年度）|6月 - kyoiku.metro.tokyo.lg.jp
-  https://news.google.com/rss/articles/CBMifkFVX3lxTFBBTTB4bHY0LUlBbjBRakZmN1NkRnB0dXhlV19BY0VyUDVVbkVOQ21RV2x5TFRhZkwtUzktV1ZEREdDSkVRSWlvMXd1cmdLMzdkMU80MEV5dmRHdGlOeUNJWEpwcXNWd2Jmak1DWUcxQ3ZwbWE2RUd2Um5IdmpUdw?oc=5
+=== こまる相談 ニュースフィード (2026-06-25 20:37) ===
 
 - デジタル化・DX なんでも相談窓口（事業所向け相談無料） - city.tokamachi.lg.jp
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTRyRG1IZVRlNG5FTjJrUUI3aVhDNXA2M0dwUjV5d19ZbXo5UlBGNUtzZEdMTHBNb1B6Z2lMaGpBUFVVZGstZlFVUl9hdUYxWWg1S3d1eVJkUkF6RzN6WFNMSGZEZTB1MkVyY3FrRG9Na0RsUU5hY1U1NjVSMHRMVUNveFdWRWs?oc=5
@@ -9,11 +6,11 @@
 - 秋篠宮ご夫妻佳子さま 石川県の行政相談委員と懇談 能登半島地震のお見舞い伝えるなど活動を労う - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE8xUUdZRG9IaHJoNFhITXh2N0FlcVNTc3pBSzMzTGJmVEFOMHBHcFNFcERIdUZBSTJrbzJOWXZZSF9rVzM2cnh0Y2FNVnFYWkVpUG03NGJiZWZDbFhsTF9PVms1YVNHdzc2RVVTaXR3eVhfTG1Sb0R5V0hma0Q2elU?oc=5
 
-- 虐待相談、藤沢は２割増 県所管内は過去最多更新 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVkh5andGZ1lvU0pQUkt0RWRBUExlTzJyanBJV1N0cG1OeXJZeTdkVEs3QUJVSlF2UUViN3FTQUZxU2FkVHJMcHZ0UWxQNEJnNDRZalZFbUY0NmNVNXRQNGcxRmI?oc=5
-
 - SNSトラブル相談が3年で4倍に 闇バイト勧誘や生成AIの脅威も…子どもを「加害者にさせない」対策へ（山形） - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE90S19ES3VQc0lBS3ZYWnh6U2RmRVBTWEgzQU1peFoza1JNTFd4aTkteHRuWG12UVY5b1h6cE9wdGpDbUY5N21RMkxRLUd5Q1cyTEpSWHlRUGdEZw?oc=5
+
+- 虐待相談、藤沢は２割増 県所管内は過去最多更新 - タウンニュース
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVkh5andGZ1lvU0pQUkt0RWRBUExlTzJyanBJV1N0cG1OeXJZeTdkVEs3QUJVSlF2UUViN3FTQUZxU2FkVHJMcHZ0UWxQNEJnNDRZalZFbUY0NmNVNXRQNGcxRmI?oc=5
 
 - 災害相次いだ能登地方で活動する行政相談員が秋篠宮さまらと懇談 - 東京新聞デジタル
   https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsNFhrcXZtR1hOQjVtaTJ5eHc2cjR4N2RXTzE4WlYycXNpaHFUTDFWaWQtR2U5VzAtN3E1b0ZPa2lRODNiOGxHYWhZSmpzMW90OC1v?oc=5
@@ -27,8 +24,17 @@
 - 不登校の当事者や保護者向け相談会 8～9月 兵庫県内6カ所で個別ブース|社会 - 神戸新聞
   https://news.google.com/rss/articles/CBMib0FVX3lxTE9MY2w3QnZaREJLaXlmbGhnbmJRR1ZSdjhJQjZVOTdwbGRFR1dhV0VKR2kxcFgwSEhDamNIZmJvQ1k4RDVxTnRxRHo4QVY4ZTFpUjBXaXhaSWlrdkRZWWRrTGtjWWV3R1hmbGJNcktwQQ?oc=5
 
+- 経営層と現場の板挟みになるという悩み - 日経クロステック
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1T0VRU0JmNXR0YXc5alMzNHR5UDBZMVY3dHE4S0QwWTVPa05FYjJ4TlVUb1pTLVRDN184YmtQRDBqTDZHTm05R2N2LXVKWlQ3eFM3dXo3eGsxNXh5MlRlaGR4MWZsS2M?oc=5
+
 - 石川県（金沢市）で債務整理に対応する弁護士・司法書士事務所と公的相談窓口を整理した記事を公開 - Newscast.jp
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tdW14aGRsdGMyOU9Eb1ZPa3lfb1E3eGtNTXM0Rl90NnJfd0Q0MWVWTk9ScVpINUFXV18wVnlnWDNwbEhlNHpWRVNqNTI1WVE?oc=5
+
+- 常滑で個別相談会 日本公庫が来月 - 中部経済新聞
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE14c25VdGZqYWE0Q1dsZVYtUURCWGQ4MUVHLU9uLXpSVlNGRFBhTWFBN0ZBd01YbDNGRTVCX3hYZWRBRTBpQXNuQmd5aGV5MlVRdVNQTU9qY2NkUlVOYzhSUjBWZktWeTVSV21fNnNTSVlVbUU?oc=5
+
+- 岐阜：コンビニ店員詐欺防ぐ 警察に相談声かけ 関署が感謝状：地域ニュース - 読売新聞
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE1oYkJVQWZyRXhkb1JRbmFtOXVGcTJXdzdjSDJOUF9vOWVfeVRidXJ5TTZhT1ZzZXBwWEFTcy1zNS10alkxcllCYmRlMVBfc2c4b0ZndWNzQmtMNU1fUnRKZjNOUkgydzY0OV83SzZuWQ?oc=5
 
 - 秋篠宮ご夫妻と佳子さま、石川県の行政相談委員１１人を招きお見舞いの気持ちを伝える（読売新聞オンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE4weXpXOVhWbWtsSmRxblZWSU5xdHNfU1RweFRGUGtqNmpEUGtrai01MHR1STBGcG5iZ3pGMWdsR0Ytb3dDalg2REQwWU9WNUNqVVZRV0R5dE0wVXVpSm9uWUxpSjFBMUtoM2VhSHgwVjFRd2MwMTNVM19XT3RMLTQ?oc=5
@@ -45,18 +51,12 @@
 - 「デュオ」から“毛穴悩みの連鎖”を断ち切る新ラインが誕生 2層式のクレンジングバーム発売（WWDJAPAN.com） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMijgFBVV95cUxOVExwSkMyR05kMnlDbG5yUjFITEhOQXRaWkZ3WjZGS0JWck04NXJiV2FudEJSdW5Ya3h1MGFYSnZjOElrd2lSTnMyRXRIR2dsN1lOdTZhWGJaVlRXNWFhU2FxVk9pbXFKV0dlUnhIRFoxekhITkk2U19EN1BhaTJDbGV6MnNRVXdhd0dWTkd3?oc=5
 
-- 法律相談》クレーマーからの電話、事前通告なしで通話を録音することは問題ないのか？弁護士が解説「違法ではない」が「告知するのが望ましい」とされる理由（マネーポストWEB - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1TTmQ1M19XUC1WOGo0MzAwcVhWaTRKaWlFYnVzZ2VfNW0wa0lUb3p5cl9FaXZVMWpjb081VEJZQWtfUENBVVV6WV9laXgyVXNpUFN0OTFIS0RoNUhiMXZicFAwRjJ5ekxFRVRJUUh1VDhhVXhuTk0xS1otcjl2eFU?oc=5
-
 - 【ヤフコメで話題】「ポートフォリオ分散の意義と悩み」「インデックス投資の選択肢」 - 投資スタイルを巡る意見が交錯 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9HbEhIUzZkT0NxbzRXV3B0QTZrdTMydmJPZ2hjaENsVm8xeFdkcVFibjdFWGktODI2VVR4UG5xLWl6QkthNlQ3cXUwWnlLMC1FTlByMnBVY2JLOUl2QXdsMWxlMUNXSHJLN0U3Y2o3OG5CcF9jOWVTb0g5N3Vka0E?oc=5
 
 - 秋篠宮ご夫妻と佳子さま、石川県の行政相談委員１１人を招きお見舞いの気持ちを伝える (読売新聞オンライン) - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1QwREpTV1hDb0hNUjcxREhrbGc1dU1YMlRZNWdlNFF2VFJHd1FrbzEtZnBqZk44Z0xsZlJ2Q010OXFNY2ZtN3hiOTQwQXdVcmRfZlo0bk9OOVlTYnQtOHdzREFmT1dXSXVDVEI2Wnc4WG50MGxZY2lCc2RpU2Y1Nl9tOUNMbVNkNnlFVjFn?oc=5
 
-- いじめ問題救済相談室、さいたま市が開設へ 第三者の専門家が対応（朝日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE8tRDg1Zm5WMDdLN0l1bFpvcW1ZZFliOUZ0d25ORU10bXlPNV94WGpxWnRSNUNPaHBfMmRCbjhIUWVSQ2daS2VNQ0RwdUZQak1HX3BFQkw5b29vUmpFOFlEM3JNQTFTelo2aVNRUmREOHhNbEhBU3VRS0ZxdjFZcVE?oc=5
-
-- テラスモール松戸で「お仕事フェスタ」 保育情報や就労相談、体験企画も（みんなの経済新聞ネットワーク） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE93WWlKbnozdnVNSlNzY2lIWUhfcy1tblFaRk9VOU5DODkxS3laM0R0QlFDUTRnZDV6clhOOFhibzVkOU5BQmJvdk55ZUJjSWJuUnJINDRPeEF3WkNld1d4Q1hRWDRQM3UzT3RBdm9JUGN5TkcxZEdfaVFYdTBHeUE?oc=5
+- 法律相談》クレーマーからの電話、事前通告なしで通話を録音することは問題ないのか？弁護士が解説「違法ではない」が「告知するのが望ましい」とされる理由（マネーポストWEB - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1TTmQ1M19XUC1WOGo0MzAwcVhWaTRKaWlFYnVzZ2VfNW0wa0lUb3p5cl9FaXZVMWpjb081VEJZQWtfUENBVVV6WV9laXgyVXNpUFN0OTFIS0RoNUhiMXZicFAwRjJ5ekxFRVRJUUh1VDhhVXhuTk0xS1otcjl2eFU?oc=5
 
