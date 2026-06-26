@@ -1,10 +1,19 @@
-=== こまる相談 ニュースフィード (2026-06-26 05:23) ===
+=== こまる相談 ニュースフィード (2026-06-26 07:12) ===
+
+- ハローワーク松本による就職相談会のご案内 - 信州大学医学部附属病院
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBuZHZTeHZBZm81UEhMNGNqMmJSNExpaUhRWnZSb2F0VEZjcmtrU3lybTdqbW9SMlZUTG9wd0toaWdyY3hOX2kxRXQ0TkxKbktZbjVmYi1CUmlneGhZZFFMQ3JBcDdzc21vNHpIb08xS3BCbzdl?oc=5
 
 - インクルーシブ教育説明会＆個別相談会・インクルーシブ教育推進特認校見学会|朝日にいちばん近い街 - city.nemuro.hokkaido.jp
   https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWlJUk5KWUVEbG95QXZYMnVXa1BOVk03WDZ3NlA3YTAtc25Sb1Z1NmEtRy05MG56Tk5PUkh3eUpiWkxndlYwbGNJQ0R1Vk50WHozZms4RGxYeUJwbVowbFZKTEdESkhiY0kwbHRDdVpDdHl2bTRFZmROVDhzTHlzUnN5NFJsVmg5M0RudUJwU25KSVg0Wm50Q1VjdGs?oc=5
 
+- 就職何でも相談部屋～あなたのモヤモヤを解決します～を実施しました - mie-u.ac.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE96UzAweXVFdzM1cGZvRVI1R1BteVQ2UFhqMWV5dmlTWXFWbkFjcWVXMnRZVTl1X3RWY01JbV9GdnlCT191QmZDYmNYSlpLdHlrLWVBZWNBbWIwQkFZdUFTUi1wc3RyZkp1SWc?oc=5
+
 - 農水省に“目詰まり相談”216件 半数超が未解決…引き続き対応（2026年6月25日掲載）｜日テレNEWS NNN - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMifEFVX3lxTE01MlJ5d2RWUXpTQ1R1MHBTamNqNTEwZkZvQW5NbWFfN2ZSY2xmMVhrbHFfYXBSVDBSNkJOcnYySUkxSGF4VDNMSkx5bGRqa3NkdTBUWmlSQWNVQWhGRjFfTmlzSXJPckU1NUZpMU4zUzVRU3JTS0xYQzlOMjI?oc=5
+
+- 6月病を防ぐメンタルヘルス対策｜「相談窓口が使われない」を解消する、人事が整えたい社外の受け皿 - Manegy[マネジー]
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnMHdXbjluQXE0RDFNdTZ3eVFCZVliSHBJNWV5VWJFZk1GekVJOTBDMDhEblA0cFZRRENGaXRBRTZxTC05ZWY1cnR2SDdpRFlmcTlv?oc=5
 
 - 民泊の苦情や相談を電話やAIで応対 都、来月1日から - 東京新聞デジタル
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ES3JaeERMa1JnTGZzS3VhOE42dGZha2xydDluV3hnMVJfTnkwY3JpVHRyUDI0TTAtYzZYTTUwNDl5cmVKNG5hbnFtQTJiLUpOSlRv?oc=5
@@ -18,41 +27,32 @@
 - 性暴力・体罰相談774件 昨年度、都教委窓口に - kyoiku-press.com
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RY05hSFFQemlUZVBLYUZkdEFucFpFVHppdlh0c3lzUG5LQ1FacTZOcXJ1dVpBMElsU2RuZ3lLTHUycjZBVU1iYmcxUjBXYmpkeHdj?oc=5
 
-- 教職員による性暴力等に関する相談実績について（令和７年度）|6月 - kyoiku.metro.tokyo.lg.jp
-  https://news.google.com/rss/articles/CBMifkFVX3lxTFBBTTB4bHY0LUlBbjBRakZmN1NkRnB0dXhlV19BY0VyUDVVbkVOQ21RV2x5TFRhZkwtUzktV1ZEREdDSkVRSWlvMXd1cmdLMzdkMU80MEV5dmRHdGlOeUNJWEpwcXNWd2Jmak1DWUcxQ3ZwbWE2RUd2Um5IdmpUdw?oc=5
-
 - ～ママ振袖・姉ふりコーディネート個別相談会～（京都もなみ 函南本店） - at-s.com
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBITjVZVlZGMWtnUGZNV240YkZwWXNwNFdLN0JDZXV2d1BZbm1Vb2ZsSFVLdm5WS1NKV1lRM2hHVlljUGRWblJpQ3NpUEpOaDktMWNXTg?oc=5
 
 - デジタル化・DX なんでも相談窓口（事業所向け相談無料） - city.tokamachi.lg.jp
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTRyRG1IZVRlNG5FTjJrUUI3aVhDNXA2M0dwUjV5d19ZbXo5UlBGNUtzZEdMTHBNb1B6Z2lMaGpBUFVVZGstZlFVUl9hdUYxWWg1S3d1eVJkUkF6RzN6WFNMSGZEZTB1MkVyY3FrRG9Na0RsUU5hY1U1NjVSMHRMVUNveFdWRWs?oc=5
 
-- 通信制高校など12校が相談コーナー 親子連れら進路相談 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PRUdhRUFlT1BXY3BEemE0elVFbWh2RThqN0dQMGxSTld4SmZzODk5dWlCMWVENDV0NTdUbGRmMFE2Tnpfank1c0J4TQ?oc=5
-
-- 虐待相談、藤沢は２割増 県所管内は過去最多更新 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVkh5andGZ1lvU0pQUkt0RWRBUExlTzJyanBJV1N0cG1OeXJZeTdkVEs3QUJVSlF2UUViN3FTQUZxU2FkVHJMcHZ0UWxQNEJnNDRZalZFbUY0NmNVNXRQNGcxRmI?oc=5
-
-- 「夫の暴力から逃げたい」「養育費はどれくらいもらえるか」女性向け電話無料相談6月29日実施 - 弁護士ドットコムニュース - bengo4.com
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhbDFpSHBIeVlpbjcxMDRTWUJOYkpvR1paYUg1YUM2NDlOcndCaEFxNzlJQ19mRWQzSXd6MndzbXZBeDhsNGZXa1RrX0I?oc=5
-
 - 通信制高校など12校が相談コーナー 親子連れら進路相談 - 奈良新聞
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxUnp2MXhSTjFIRmFVcDMwWHhKUXVXRUhRbjRtOURWYTRDUElCNmVOQnRyMHBfeW1pekhTUGNrTk5fc3hLcnVuaGZKbDhxRUdvWERNaTRJUEVzRDFfRDY4?oc=5
 
-- 「部下が次々と辞める職場」のリーダーの特徴・ワースト1 - ダイヤモンド・オンライン
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqdnk4eHNwRmxXVmc2UERhamdpcl9TMktOMUdXSFBXREYwN0FUOUhBTmNoZnNBUG5FSWxHeWtKRDYtc2xmRFV1ZEV3VkPSAU9BVV95cUxPVGdSV3A1NTU4ZF9JWjdXaXFLRTd0dlpuV2Zaa0xwSEJmYXJsNGNybjZ0aFdjQmFTeExscWdxa05rU0M4LWdiNTRKM2MxRjFJ?oc=5
+- 通信制高校など12校が相談コーナー 親子連れら進路相談 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PRUdhRUFlT1BXY3BEemE0elVFbWh2RThqN0dQMGxSTld4SmZzODk5dWlCMWVENDV0NTdUbGRmMFE2Tnpfank1c0J4TQ?oc=5
 
-- 「愚痴も恋愛相談もAIに…」4割超が経験した“AIへの秘密相談”の実態 - マイナビニュース
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LeVJzWk5rQjY0X0JQSnJNLV8yUDl6WDVQU0g4SGswcUE3bThZMWl1eFZjS3NEcWJMam5oSnZsZ3VpRm9Dbl9IenhXSDN5aGU4d29NaTlyTDZ5Vl9I?oc=5
-
-- 恐竜のすべては卵から始まった！「子ども科学電話相談」で回答者を務める恐竜学者、田中康平氏による初の児童書『解きあかせ、恐竜タマゴのなぞ 卵化石にかくされた、恐竜の命のリレー』を６月26日発売 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5ISUc5R25HWDJiZWNMd1JGQ2JkWGhNUDBtNTlycWZsdDNmVUhHLVE0c09wdXB3VjF2V1FLX1d5NzRMNV95QjdmenJ4QmF4MDd3c2JoZEtGRHBsZTJDLTNTNEpiSjlMb2hnM3c?oc=5
+- 7月23日(木)「社会保険労務士による相談会」開催のご案内 - 信州大学医学部附属病院
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE1MY3pSbjhNT3MzbkFIdzBMZ1BheFEzQ01jT0p1YjFGemE1N25OSkJYTmpuN1dlczBmQ21yQnFwVHByOHU3dDRQenF3VGNmVmJrRFctLTlESG1mYnFXLV80ZEY2Vmxja3Npd0VYSi1oSkRadjNpNkVJRw?oc=5
 
 - MEGUMIが『週刊文春』で新連載スタート 人生相談に答え“美容アイテム”を贈る（リアルサウンド） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE54RlBsbDMxdlBqX1lVUUUzTUdHeU1JblJyNHpydUlDOHJRWXg1X05xdVlRNzc1N29PVlVGdDdjNDRQNE9HQlVuM1VHelZGcl82aTN0QXF2QmNBcUU2aDNjakVWOUlTMmtnLUVwMWtzSEpWeGppVzBLcnF2a3hxNGc?oc=5
 
 - 【ムショラン三ツ星】悩み続けた“刑務所栄養士”という仕事の先で…「やり直し」のきく社会へ 再出発を支える現場 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFB3UFZnMHc0LWtmaGJrSUkxMmI4eXVoSlhTYTI1d2RTMkU5eVFSN1RvTlFnZkUydkU1bWw0NHpvLUVJdlBCOVBQZmNYVWViX0lpUXNHOUhtRWlkX1o3Ni1sSk9ZUEtpX3BqdEttcEZ4Z1Y1ZWZsaTI1aGJqck0waTQ?oc=5
+
+- 子育ての親、一息つける「基地」に 相模原に支援カフェ開設 保健師ら、夜間に相談も（カナロコ by 神奈川新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE53bFM1RmRRb0dYcnc5dXNuU29FeU5NcVNsV1B0U0Z0YlBwVlhBdVEtWGp6ZmNVWS1tc1hGUnEtXzNNZ0VJU3dNVEk1eEJTOVA4eUFnbUFzOF8td2QyTzVJMmNpa2Q0MmlsMFpkM2I4T3VlVU9RVjduRTJIX195aEU?oc=5
+
+- 困った森保監督がポルトガル語で謝罪「デスクーパ」 会見で南米2か国の“板挟み”「難しいですね」垣間見えた人柄 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBUT3Z6SUh3VGk5MGpBN1RZRGlWQ2xxTkhQWG9Sb3hXREhVaGJmS01TZlJlZ2prbGxpU1BELTY0SF8zSFRURW9ieFpKcHRMRTc1SWVYQks4MUpTWGF0V05XUXZIX09DSUxXWHBleDRBQmJMUnJ6d0tPUkNLcDYyUjg?oc=5
 
 - 「なんとなく不調」はどう相談すればいい？｜中医学相談への指南書【大人の未病ケア】（サライ.jp） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBPOWJSVG82bmVlT1hNZU94ZXRnYW1nWk9VWEtBS3MzcGpuY0FfV1dNc3VrNTlqUjNQZ3RTYUNidThOUElfdFlKWlJlc2FQRDY2T2hQa3M5UHpyWmlXdXpBNDVxdjg4VEI2MlVRMjhMSFVRNGYzcnJjNHFkZXFlb2M?oc=5
