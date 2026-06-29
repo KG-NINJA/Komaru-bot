@@ -3,21 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>困った！ペットボトルの蓋が開かない</title>
+    <title>スポーツバインダー</title>
     <style>
-        body { background-color: #007BFF; color: white; font-family: Arial, sans-serif; }
-        h1 { color: #fff; }
-        p { font-size: 18px; }
-        footer { margin-top: 20px; font-size: 14px; text-align: center; color: #ccc; }
+        body {
+            background-color: #e3f2fd;
+            font-family: Arial, sans-serif;
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            color: #007BFF;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.8em;
+            color: #555;
+        }
     </style>
 </head>
 <body>
-    <h1>困った！ペットボトルの蓋が開かない</h1>
-    <p>様々な理由でペットボトルの蓋が開かないことがあります。この問題を解決するための小技を紹介します。</p>
-    <p>1. ボトルの底を数回叩く。
-    2. 蓋の周りを温めるためにお湯に浸す。
-    3. ゴム手袋を着用して、よりしっかりと grip する。</p>
-    <p>これらの方法を試して、無理なく蓋を開けてみてください！</p>
-    <footer>#KGNINJA AutoApp</footer>
+    <h1>運動中の胸の悩みを解決するスポーツバインダー</h1>
+    <p>スポーツバインダーは、運動中に胸の不快感を軽減させるための便利なアイテムです。特に、性的少数者の方々に考慮された設計となっています。</p>
+    <form id="binderForm">
+        <label for="experience">あなたの経験を共有してください:</label><br>
+        <textarea id="experience" rows="4" cols="50" placeholder="ここに書いてください..."></textarea><br>
+        <button type="submit">送信</button>
+    </form>
+    <footer>#KGNINJA</footer>
+    <script>
+        document.getElementById("binderForm").onsubmit = function(event) {
+            event.preventDefault();
+            alert("体験を送信しました！");
+        };
+    </script>
 </body>
 </html>
