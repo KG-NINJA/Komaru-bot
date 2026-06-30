@@ -1,16 +1,13 @@
-=== こまる相談 ニュースフィード (2026-06-30 10:59) ===
-
-- 「女性のためのＳＮＳ相談」窓口を開設します - pref.niigata.lg.jp
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1nXzh4Mm1PRUtobTJfX0gySzM0Z2VaeGlZMDh0SUw1WEZ6UkVKYnJqZ0xnWENJaklDelNVYjItWU9rYmNPaHdUQ1ozSHVEeDZSYUdGbDRPaVhmR2ZNWEFWWkcyXzdWZW01X3c?oc=5
+=== こまる相談 ニュースフィード (2026-06-30 11:55) ===
 
 - スマホのきほん相談会 - city.ikoma.lg.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbDRDRWxHWkg3eWlYa0dCUWxxQnVDZ3RFdEpLaWttQXNHcC1rMzkwdU9SemZxQW5iS0xRUUFfVjdxZW9pZFZIN3NkU1dPcm9jbXBURV9OQQ?oc=5
 
+- 自ら警察に相談がきっかけ 「出し子」とみられる男 窃盗容疑で再逮捕 （MRT宮崎放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1oeVdja252SHhZXzFILTZmZFN4TTgyNGUtU3A2aERrR1ZLdjVjMmQxMVBCNEEwUVBrMUNkaVc3U3hNc3E1VTA1bVV0UGNYejNKS280SWk2Ukp4SDFiM1Z4VFB5UzNjWm1TU3JrMW1pSkJUNHlWZUxyVWJMQ2I4b2M?oc=5
+
 - 渡邊教授らのAI搭載対話型がん相談サービス「ランタン」の実証プロジェクトがGENIAC-PRIZEで第3位を受賞しました - teikyo-u.ac.jp
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Jb25XSWFGV1pKTDBhNktCQ2taU3ZLaTBEOGZuY1FreEl6SXctS3llVmVZd0Z0b2pMLU5LRTRLVk10TWVzeDl2TUF1Y0VzUXAybnp5RFVBNng?oc=5
-
-- 「不安と悩みの量」は幸せな人も同じだった…最新研究が突き止めた幸福と不幸を分けるたった一つの差（プレジデントオンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1WTVJQVmFnRFNpSjVSWVNLX0hlbFEzODZxTnppX2hROG52djd4SVdpeGExRGlrb05wWFBVNUZrZ2xhVEFuSFJoVm5zV2tjVDJFMjZBQ21yVHRVS25lcHVBREVfUlV2Vk1SbkQwc0JxLUNzNjlVX040dGRfTVA5RVE?oc=5
 
 - 「189」知ってますか？ 児童虐待防止へ相談ダイヤル紹介 - 信濃毎日新聞デジタル
   https://news.google.com/rss/articles/CBMicEFVX3lxTE4wTnh4ZnA4YUk5U0dFZDBTcmM4U0F5MUpWZVUzbkhZUzRLZ2kwT1pJQ05TSjhmaTJ5LUJPOXpZeW9WaHZ2Nk40a1pMZUhwdFRENW84VHNDa1RQNUJLVnlhWGRwT1MtWU5UUmtSellDYkk?oc=5
@@ -24,11 +21,11 @@
 - 宗像市役所で不登校・ひきこもりに対応する定期相談会 月1回ペースで - 宗像経済新聞
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qa0lOMHJyVTZDWGFkaUZ2bkMxUlVnX293ZFRvclFhaVFqbkNWa2hnWV90WXVuMzAxMHNybnhiUV8wbkdqWFNOeG44RnBIa19DaDMwdg?oc=5
 
-- 加重労働やハラスメントによる精神障害の労災申請が増加 7月3、4日、全国一斉の電話相談窓口開設 - 神戸新聞
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE1fd0JYS29SNFFuSWdneHZhejhCOG43M2FyQmh2N1ZmQTkzZ1hkRURrZHFmVHdSejkzTFZXbzBMRUEyWG5kejRyOWRpdVJtV3k2TWl6cmhzOUJjSnBoVGV4QW9lM0E0RV9KUkl6dkxMVQ?oc=5
-
 - 自ら警察に相談がきっかけ 「出し子」とみられる男 窃盗容疑で再逮捕 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTb0JmZmdWT0UwR2FXemJYS1dqLUVKV1kyTjRmMDluRzVKeUcwM1JVNzhfREJYb3Y5NXowTEFSbnJNMVlHeUlnWnUzTHA1aWxfcTRPbXVSSlBwSWYxYkRiZmo2cWM?oc=5
+
+- 加重労働やハラスメントによる精神障害の労災申請が増加 7月3、4日、全国一斉の電話相談窓口開設 - 神戸新聞
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE1fd0JYS29SNFFuSWdneHZhejhCOG43M2FyQmh2N1ZmQTkzZ1hkRURrZHFmVHdSejkzTFZXbzBMRUEyWG5kejRyOWRpdVJtV3k2TWl6cmhzOUJjSnBoVGV4QW9lM0E0RV9KUkl6dkxMVQ?oc=5
 
 - 【親と子の生理にまつわる意識と実態調査】子どもの生理悩み、婦人科受診の判断は「母親」がカギに - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBqSGxqb0JVYWIxQzlfVHdDNDlMZnN2b2t5d3JCNnNDdUZJcDNuWExjek1NSmhfelE2SnJ5NDY5QnpISUkyck96bDhyRWt1eWJpVTFBd0xfMmt4bkoza0NtZ1JIMGI4Z3pUTFE?oc=5
@@ -39,8 +36,11 @@
 - 一人で悩まず共有して 福島で子育て相談会 - 福島民報デジタル
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tVVNpOVZKaEFIejhQMmFMRmk0d2t5RWlZTmgzaFZCQ1dRNzhpbzdfY2EwSFB1ZjM3RW5DcUF1S3JTeTNmUUUyUjdUa2pqTXM?oc=5
 
-- 更年期世代の「薄毛悩み」、これまで「打つ手があまりなかった」のですが。ついに神奈川でも毛髪再生医療「S-DSC」がスタート！ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdEVBeXYyVG01SVJCRXhHTzJVM0hCRllDQnZxeTVRcGJNR3dONHdLWTRFeWlTZzhMekdsalVzc3lyZzYxNjVHNXgwUmllLWpBN2tLNm1BR3V5TUVEcXFTZ2JoUE1tUG14MXZMTnJoVWhmMkFoTjdsOFUyOVhIbWs?oc=5
+- ［ニオイ悩みと美容医療の実態調査］多汗症治療・ワキボトックスに関心集まるも、美容医療経験者はわずか1％（PR TIMES） - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCT2o5bThDdXh6RzA1ejR6YTRjMnhvdXJyNzBPZWVhOFpZMVdqckl4cEtrcjNHRVhmbmZTQVM2UXlyMkZ4LTVwaHU4VjRBMEpRTjJvZ1c4Nl9aX1paUmU3dVAyVGpuRkla?oc=5
+
+- 「不安と悩みの量」は幸せな人も同じだった…最新研究が突き止めた幸福と不幸を分けるたった一つの差（プレジデントオンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1WTVJQVmFnRFNpSjVSWVNLX0hlbFEzODZxTnppX2hROG52djd4SVdpeGExRGlrb05wWFBVNUZrZ2xhVEFuSFJoVm5zV2tjVDJFMjZBQ21yVHRVS25lcHVBREVfUlV2Vk1SbkQwc0JxLUNzNjlVX040dGRfTVA5RVE?oc=5
 
 - 自ら警察に相談がきっかけ 「出し子」とみられる男 窃盗容疑で再逮捕 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqT181ZEc3ZEFHb25OOGU1aFc5cHhDRDY2dlMtX0xJZS1XdnJXdlhIS0pKN0V0TTBRRDZ0Q2V1dElkOHdBb2RJZldzUUdlUTh2X2V1SlVZMXlsUQ?oc=5
@@ -48,14 +48,14 @@
 - ひきこもり 家族の悩み相談、訪問、生活費の管理も…当事者の将来見据え伴走ケア 明石の支援団体 - 神戸新聞
   https://news.google.com/rss/articles/CBMib0FVX3lxTE5jRXg5am9Gc0U5SXBxbVJTNm1wQmFJa1pZWG1nOVpkN2thYjFKOW02bzYzbnNNSFFneWNLUVpvWGxMdDdlci10aDdvN3J3ZW82Y1d5RzBfdHpvZXBVMk5HMEJJTGNTakxDbEJNb1pZVQ?oc=5
 
+- 更年期世代の「薄毛悩み」、これまで「打つ手があまりなかった」のですが。ついに神奈川でも毛髪再生医療「S-DSC」がスタート！ - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdEVBeXYyVG01SVJCRXhHTzJVM0hCRllDQnZxeTVRcGJNR3dONHdLWTRFeWlTZzhMekdsalVzc3lyZzYxNjVHNXgwUmllLWpBN2tLNm1BR3V5TUVEcXFTZ2JoUE1tUG14MXZMTnJoVWhmMkFoTjdsOFUyOVhIbWs?oc=5
+
 - 救急車呼ぶか相談して 「＃7119」岡山県内全域で開始へ 岡山駅でチラシ配り、啓発（山陽新聞デジタル） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUkFEYXFOV2h2OGF5NzhOMjNmQm9kWDRiVDBXTzBpb01JLVhPajVzYnNWLTlvTDhJcENRUXpTR3FRMUhWcGwxRHJNeVIxUU9ueXpRcnZBS2Rja2ZvMlpWREJlWUtWRmo3VnVVTEtiUEJJVDZKblhQb2xUTGh4Mmc?oc=5
 
 - 【明日30日の風、薫る】第67話 虎太郎に悩みを打ち明けたりん 院長から呼び出され…（スポニチアネックス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBLemQtM1RtUDJ2aDBaZ3VSRlNhZ1hQcVF1LXg2emhacjRTelYzc0w3RVBub3NOMnlzcngySjFpLXpZZ0JnUE54ekRfcDlOS1k0QjR2Q2RFQTZTTnVyX2c1TVM3aHBKbUxjUkpsOHRWcGxtRXBmWlBjYk1iZTIzeTQ?oc=5
-
-- 渡辺いっけい主演、結婚相談所の仲人たち描いた「マリッジカウンセラー」続編の製作決定（映画ナタリー） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZkd3OEg1a1lPbGxCZ3EzTFM0S2ViUmVqOU1yQ2h0ZEktUXp1c0NtNE9Id2F1ZDZUVDV6eC1PYTdhWXJsdjMyR2lwc1FTNDFreUk5YXVVNWY4emliVk9UanhtR3JuNkplS2tkMFd4V04tUVVIcDNtckVvQUhXZ1U?oc=5
 
 - 【就任1年の成果を聞く】DECENCIA 西野英美社長「悩みに寄り添い本質的な『生涯価値』追求する」（日本ネット経済新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZUdDemphOGZ4QTExUTN6X2g1WkRaNFk2NkZ6aHM4Unk0dmgzNTZVRWxIMEhFUGJSUWg4Q2gwSlRqU3BfZXRoeWEwS2lUZ0tRY1ZqbGJYREI0RWg2ekQtQVR4VGtQVURwbkR6OTJNTkZfdVBJLUJ1R01wdno3cEk?oc=5
