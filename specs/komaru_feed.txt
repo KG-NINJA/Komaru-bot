@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-07-01 16:45) ===
+=== こまる相談 ニュースフィード (2026-07-01 17:34) ===
 
 - ＤＶ相談窓口のお知らせ - city.kasaoka.okayama.jp
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ba1RHMV8xcnV4SWVaWXFaaVM4S2tuS0w0THVHei1EdzBHRXdsX2lqelJ6NE83bTRqVERBRk5MYldaMlVUYjUwQ29PR1lPdlRrMWZOTUJaS2p2ME4zdHRzRFpLTjlsc0hO?oc=5
@@ -6,17 +6,20 @@
 - 川口市の「外国人対応相談窓口」運用開始／埼玉県（テレ玉） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1kYnViVUljNmI5WFFOOXZDcHE1eWRLOEdPYnpON2FGNkRZTTkxNXg4bDJoLU8tbHdIWTdHRXJxVVd3LW84eDUwd1ptaWFFeVdVTXoyUTRfMGpHdVRmZF9yLXNzZ0F0eDRRd29VdDZvRllwcGptZXFZRHJGdjRtcWs?oc=5
 
-- 川口市の「外国人対応相談窓口」運用開始 全国初「秩序ある共生社会めざす」初日から相談 「移民」と日本人 - 産経ニュース
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE1MSlpMeWZWQTFMaTJGcm9ramNTMmRBTXVqbU5GU2ZoOHJnZWw3MGFRUnlsWFNzcTZqc0N3N2tYZERITFJNNmlQV2ZGUXY4cDY1aE9pX2E0UmlRUkdGTXg4amdWYkd6U3c1cDJBaDBWNVcyZ284T2c?oc=5
-
 - スマホのきほん相談会 - city.ikoma.lg.jp
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbDRDRWxHWkg3eWlYa0dCUWxxQnVDZ3RFdEpLaWttQXNHcC1rMzkwdU9SemZxQW5iS0xRUUFfVjdxZW9pZFZIN3NkU1dPcm9jbXBURV9OQQ?oc=5
+
+- 川口市の「外国人対応相談窓口」運用開始 全国初「秩序ある共生社会めざす」初日から相談 「移民」と日本人 - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1MSlpMeWZWQTFMaTJGcm9ramNTMmRBTXVqbU5GU2ZoOHJnZWw3MGFRUnlsWFNzcTZqc0N3N2tYZERITFJNNmlQV2ZGUXY4cDY1aE9pX2E0UmlRUkdGTXg4amdWYkd6U3c1cDJBaDBWNVcyZ284T2c?oc=5
 
 - 美容と婚活を融合した新しい結婚相談所サービス「MUSEE MARIAGE」がグランドオープン - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBzaHlCc19JRkJjY0gzWXRfSkFCaHhUOVJ6WUFWQTNVTDlsUDlUUzVnUTVodkJZTURVUEV4VDVKU0FxQ0JlMFBubDlnS01oalF1WkJRdVdsQl9WMzZQcHRDWmF3NUxETmc0NHc?oc=5
 
 - 恋愛、家族、昇進、生老病死…果てぬ悩みに美輪明宏さんの回答12選 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUY29qUEJVUkdXWEpKcGFsa1l1Tm5KUVJaemhGYnZUT0Zkelc5WFZfZXJYVGtvbUI0cmRvRDNiTk5RTHNaSXZLMG9MQW4zbUxyVVdxcGFwZzV6ZXhHSWJBRVhWYmI5V00?oc=5
+
+- プレスリリース：ビズリーチ、対話型の「キャリア相談AI機能」を提供開始（PR TIMES） - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OemZWWDh5Q0RUMUpNaDdOcTVjeERDbUFSNUdDcEFSa0E2SFZtX2E1WXdBRlRLcEhzdVV5V3BjMWZIMzNmMFlMRXplNkFxay1INkVJZkd6TkgxYnZ5bTRzUHFRdFNjTjR1?oc=5
 
 - 長野市 子どもの権利守る体制強化のため 相談窓口を開設 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yV2gtU0J4S0RDX0xWOXRwOWl3WVMtWUxvUDR1QzItLXNJMFVCc2pLWUU0R2VHVWhzTTJfTzRIOEcyWG5SWUtmMks1dEhUVjVsQnNzNDhtOG4?oc=5
@@ -39,9 +42,6 @@
 - 職員向け相談窓口開設 昭和町が安心できる職場づくり - sannichi.co.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBieFMxWU0zTF9xOS1adHk1ZGNxY09jMnJpRVMtWU5keWpaUjViWUtDQXJBUHZDRUhqZ3JoUG4yX3VyazA3SUhZQkFaNUhyOGZRQ3NOWEZVMjZKNjhFRjhKTEItNFg?oc=5
 
-- 《AIに相談して詐欺発覚》警察官かたる詐欺 630万円だまし取られる【高知】（2026年7月1日掲載）｜RKC NEWS NNN - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXhERFFCQVhteGJkZm8yQlpJTXlwcnRCOUF5Z2lBOTBIc2NlT0FYR1NEaUFQNHJscThmTmlwOEhmUFJha25NVDlRQ0RxeERyLUNMc0EzYTFQYnExWHZKVWxNTXBUcmVqa183RUhCRG1kWWRzcGE1QjJEV3VLYjNNUEpwNjI1d2s?oc=5
-
 - 『子育てDX』の「伴走型相談支援サービス」が山梨県山梨市で導入！ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE8zSU9meEcxanR0UHJweG02dGR3SXIydVVncVBBX2VaWDJnY3V3S3FhNk9LN2RUcmlwMHNNZVlaM29aMW1NaVEtTUV3WE81UVp6cWItM2VpOUVqWHpKQ2VIaHJteXBHNjl6SUE?oc=5
 
@@ -57,6 +57,6 @@
 - 【新発売】“ママのリアルな悩みに寄り添いたい！”3D立体設計「3Dマタニティショーツ」が7月1日(水)に発売！ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE8xVV9uNnZfVzY4NUdZUzBISmNDczQ3SkgyXzdMYjctalItOXdUQ2VVVFZPV3hWVVFiYWg3THI1M200NU9Jd3BBMV9EM0RJc2J5VnkyRGZpUEd6aVdlLTM1bFZlc29LVXRhT3c?oc=5
 
-- 「髪型がダサい、坊主にしろ」世田谷区役所で起きた凄絶パワハラ 相談窓口が被害者を“追い返し”、診断書も無視した非道対応 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1PMVdMdEJGdDY4bEpHTmRLVFVLOVNqNWx6ejlUX2ZZMlpqVkZtWFlrWk1KVGMxVXE5MGNaWGlVNHZfaWlwbGVCeXloNHZCZTBrTThvQmYtbHlQb2pseF9TV0RYMGZpaTVkdmRvV3ZRcGlVUHc0U2YwZnVJbVBpMlU?oc=5
+- マークスライフ、実家の相談窓口「じつまど」をコロッケ倶楽部へ展開 地域接点を活用した新たなライフサポートインフラの構築を推進 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1JTHZJSlhLNzhrRUVXb0dINU1JWi1LaWxfbS1scE1WVF9TUmI2NUhxanpRZGdHTmZpYlhkUW1PNTlZb0ZsZEdGckl3RnN6UmFzYU1Ed2Vqb0JWMC01WEVReWJQeHh4UEhCd2c?oc=5
 
