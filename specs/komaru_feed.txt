@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-07-03 15:48) ===
+=== こまる相談 ニュースフィード (2026-07-03 17:13) ===
 
 - 外国人アットホーム in 古河が出張相談窓口をスタートします！ - city.ibaraki-koga.lg.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjhlZllMWWNlNy1NLUt1bm4zai1qT3ktMlJ4TzV2VmtWY0dOSmtYNHFvTDJEdTNHamJzWkRVcWJhZERlZXI4RzdMSC1MSWlOYm9Xd0dlVXdGOU5FY1BTWkp6M2xURWVGSTJHVzN3Ql9OMElURHJHMXpERFlTc3R2d0tpQVM5S29pV2VFaQ?oc=5
@@ -18,6 +18,9 @@
 - 長時間労働やハラスメントなどの職場の悩み　電話相談窓口が名古屋で開設 - nagoyatv.com
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TMF9zbFpob0JtQXgtN0lBMkdkU1p4bE5lRlN3bFFoTTFYUy1xMzRWdDlKZGpyMTFsd2ZWc1dEQ084QnE1Sm1HQ0NGMnF0RmMycHfSAWRBVV95cUxPMk9ES3k2aGRaWVNkWlg0N05wSnktdURCM1d3M3c4SUhVQVFKNWFUV3NTXzNVWFM3dEotRzQwWktxNzdTYU5TaUZORWpDcTAxMDdxVk5tWkZ1bmwyaVhPU1hYcm9w?oc=5
 
+- 【相談対応Q＆A】夏休みの宿題のやり方を変えてほしい - リセマム
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TdmFuRHpQTDBsbGczTUVSQlJKY2hXYWRsa1JsOTlmMThaek9LR3JOdmRzLXJSNTZuSUdmWWtobGcxcF9BZFo1bnB6emw4Z1hOeXdIX2JDUWRhcU5jSEY2ZnBwUUx2Zw?oc=5
+
 - 旧優生保護法の違憲判決から２年 被害者への補償進まず 弁護士団体が電話相談 - khb東日本放送
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VakRkUExVZlZ1Tm1BSzVvWlpxZkFfNGZHYTFyRTg1UlpVejYxeTJTd0d3cjUwZF9ra2IyUWdKM1pjdng4dlp1SE5HWDlRUHM?oc=5
 
@@ -36,8 +39,8 @@
 - 手話が必要な人でも 気兼ねなく相談を！交番に設けられたのは…？ 福島（2026年7月3日掲載）｜中テレNEWS NNN - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1dUOWRJZ3N5VjRZVmI3RnNGc1pxbm9jQU0tZ18zOUc4MDc2eVhKeTZGekI0aXE3czRZTzYyOTZvN0JIa1hiS0YyZzY1YnUyM284VUhGci1xV2NxR3ZOZFYwU1ZkWDhrVGNqV3J6N2ozVUMyYkRNUzJVNTh3SVR5TzQ0dUpZem8?oc=5
 
-- 「社長から暴言を吐かれ、眠れない」ハラスメントなどで悩む人を対象にした無料の電話相談（テレビ愛知） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFA1N2F2R0UyQjdJVE9TUFB3aUZFLXRhOWZzUmJfemhqYk1kdjBac1g1Ti1IWmptOHV2WjhGZGx1dXQ5ejJ1a2FKVkhGbjFHb2F0RXJQc3JIbTRLVDhNTGxOZDY4MlVUWGlja0pmSDBpNFo2OHNiV1FYRURqRzV1alE?oc=5
+- 「社長から暴言を吐かれ、眠れない」ハラスメントなどで悩む人を対象にした無料の電話相談 - 愛知のニュース
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xS1VpYTJfbnNEQmg2RF9XdDd5N0N3TGN1SmFSSVFiem5MeWRFMGRaeDM2VVJkc2lOUnkxbVhkYU1oQ1NPOG0wWUtDMHppOGFGdFo0RTNzMEVzdw?oc=5
 
 - 旧優生保護法で不妊手術、きょう無料電話相談 最高裁判決から2年 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIbXB4UlY3N3ByS01zb3JlZnN2RVFnVkJ0T1Z0ZmZiZF91bFEzMTlnMzdaYjV0RnItbWpOSnU0eWE0N0JrcXdnRklZSlBTZG1ZR0lHUE9JQmFYWmZwcERIaDNqaVpmY0U?oc=5
@@ -48,15 +51,12 @@
 - 「乗り換えで安く」勧誘も、実際は…ネット回線の相談増加 愛知（毎日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdXNBMUtVUzE1eTc0cktnbTVMaVpCN25TdEl2dDBBS2JKRkVLa2xRZk03QlZMb1JCbVozRUw3aXp2SFduTFlZd3RCR1J2S2Z4WDZpN210VURsWTBTcW5aZjdvbFdmWEZrVEZUZV94MDZkZnlXTlFZVEQwYTR6OW8?oc=5
 
-- 美輪明宏さん＞相談番組が4日に再放送 相談者の“モヤモヤ”を豊富な人生経験と愛ある言葉で解決（毎日キレイ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9raTA3WlhXc2wyMjJSX3Y1YmpSVUZUSXJOZlNHOWFRcWFGTUl3QWJuVmVHMnBvMjExSGJseUxnajB0YmxRQVh3R1hKZ1huV2pyVWVndUNHR01xVkd4OXVYQW5YM0RKT3MyZktBc241eGQ0bGlhRC1hVVBVVV9VSGM?oc=5
-
 - 「子どもがいないから苦労が足りない」 母から責められ続けた60代女性に、美輪明宏さんが贈った言葉（AERA DIGITAL） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5PeGdKSFN4QVpUNkRjSFFxX2hWNnZqckNBN1J4QzljNWpUd045bEcwWlFUUXZ6Y211SVZKaEhKLTh3cjBYMzRhNl81NTZkcDB2WF9zNW1KM1pPUDY5V1dBSGhJN1dWNzctTFgxWXlRN3lSVGRzSERxc0FvLVV1N2M?oc=5
 
-- 額からの汗の悩みを解消できる！ワークマンの〈ヘッドバンド〉が優秀。299円で夏が快適に（LIMO） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBldlVvM1dtcGl1OVhsTHdJUEsxa0hoX1VjcjZOSmt6STQxNHltelQyaFVuWWRHVmYwMzFyNk5RVktsOTlVS1c0SDVldzdjekxjSE9qNGhTSUFuR08yX0xyQXhMTVdwWWlMcjhsaDdUNmlPZzVsMzlLU3JQYXVObms?oc=5
-
 - 【ソフトバンク】中村晃が引退発表 家族に相談なしの決断に涙…理由は「それが自分への敬意」（東スポWEB） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9aRTJJT1RuS3p5RW5rZzcwRnkzNnE5TnN0dEdaSVA5ZjNiSV90ODlEbzFvY3ZaaWJGRlg0eWhSQ1pMZUlrRWNPTlAyQmZ4aHRFU1o5ZjAwcEs0WGZwTVhOZU9YMEgySkgtbV9ZVW9oQ1VObko1Tmg0MTFrMEN3QU0?oc=5
+
+- 恋愛、家族、昇進、生老病死…果てぬ悩みに美輪明宏さんの回答12選 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUY29qUEJVUkdXWEpKcGFsa1l1Tm5KUVJaemhGYnZUT0Zkelc5WFZfZXJYVGtvbUI0cmRvRDNiTk5RTHNaSXZLMG9MQW4zbUxyVVdxcGFwZzV6ZXhHSWJBRVhWYmI5V00?oc=5
 
