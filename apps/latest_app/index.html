@@ -3,37 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>スポーツバインダー</title>
+    <title>キャリア相談アプリ</title>
     <style>
         body {
-            background-color: #e3f2fd;
             font-family: Arial, sans-serif;
-            color: #333;
+            background-color: #f0f4ff;
+            color: #003366;
+            text-align: center;
+        }
+        .container {
+            margin: 20px;
             padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: #ffffff;
         }
-        h1 {
-            color: #007BFF;
+        button {
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
         }
-        footer {
-            margin-top: 20px;
-            font-size: 0.8em;
-            color: #555;
+        button:hover {
+            background-color: #0056b3;
         }
     </style>
 </head>
 <body>
-    <h1>運動中の胸の悩みを解決するスポーツバインダー</h1>
-    <p>スポーツバインダーは、運動中に胸の不快感を軽減させるための便利なアイテムです。特に、性的少数者の方々に考慮された設計となっています。</p>
-    <form id="binderForm">
-        <label for="experience">あなたの経験を共有してください:</label><br>
-        <textarea id="experience" rows="4" cols="50" placeholder="ここに書いてください..."></textarea><br>
-        <button type="submit">送信</button>
-    </form>
-    <footer>#KGNINJA</footer>
+    <div class="container">
+        <h1>キャリア相談</h1>
+        <p>女性のキャリア相談を開始できます。下のボタンをクリックしてください。</p>
+        <button id="startButton">相談を始める</button>
+        <p id="response" style="margin-top: 20px;"></p>
+    </div>
+    <footer>
+        <p>#KGNINJA AutoApp</p>
+    </footer>
     <script>
-        document.getElementById("binderForm").onsubmit = function(event) {
-            event.preventDefault();
-            alert("体験を送信しました！");
+        document.getElementById(startButton).onclick = function() {
+            const responseArea = document.getElementById(response);
+            responseArea.textContent = ご相談内容がございましたら、どのようなことでもお気軽にお知らせください。;
         };
     </script>
 </body>
