@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-07-08 19:06) ===
+=== こまる相談 ニュースフィード (2026-07-08 20:56) ===
+
+- 糖尿病以外での「マンジャロ」処方、精神科でも…体形の悩みに「頼まれると断りにくい」 - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xNzlKa3BHclcxZjc0LV9maldDTW1FM1ZqTUg4VVVwY0NsNVBHa2lpTExmdDRmdFA3UjNqYUVYX2t4S3dtUXRSZ0pGemwwNVRFNDJucXFyR1VYQjIxd1FpT3AzcDh3dw?oc=5
 
 - 米国の若者のメンタル相談先はAIが2割 - 日経メディカル
   https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1dFdnhMWVJiQS1Qc2EyRmlFVTd5MXhxLWVYR2VpdzM2LTdNb2dZNEJPZTNWdlBJcU5YdnFlTml2akNSV292cGVqWXg4WEhxb01CRTA2X1dlRXZTTHk5NnVCd1ZiVV9TYS0wUzFucTRzeVRyd3FCMnNRNktuNDhCOA?oc=5
@@ -18,11 +21,17 @@
 - 長野県内各地で「宿泊税」の申告手続き相談会 7月10日から - 信濃毎日新聞デジタル
   https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVVVPVlNndUh1OUVkaUFRY09BZHNmalZqdkdNLTBkNldJdlZyZXBlVzNDeVd5OHVyZXFHVXpIWm5zd0FqM21TV1NwN1VGeFlyZjljbWROWnF2RGF4RVBxUmxxVDVBNFVFb2N3TUxBMkE?oc=5
 
+- ＪＡの相続相談業務強化へ 全中が検討会 部署間連携で事例共有 - 日本農業新聞
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OcHZ4M19EWXRERFhqWlF3TnlLTzEyU0RBQ2EwZS05Zk9uWG9aaWR0cnpRcUsyelg5TGJlQlpfY25uQWU3ZUstMVVRZVNrcXNCZUI2dw?oc=5
+
+- 京都府宇治市議会「市ケアラー支援条例」議員提案、可決 悩みや課題を社会全体の問題と位置づけ - 京都新聞デジタル
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1ckpSdGRwRjFraUpCTHhJLXg3WHVPZHlUeHYtbUxMS3BoTWhTem9ORnhEcnlwbncyN25LbUlvdjE4MDJ0ZXl6cDRPMUx4dW9vMGlvZ0k5NDE?oc=5
+
 - 就職、採用の悩みや本音でトーク 倉敷 大学生と地元企業社員 - 山陽新聞
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FWGtfNktGQjN4STRtMjh6SEF6X0FEMzhYUFFVYkNwYUVCZThzMTNOMEVNZkpWMS1hTEdmcS1NdmkzX3l5M0J6NkhnaXFtNzIwY3c?oc=5
 
-- 増える職場での｢フキハラ｣相談 パワハラ未満でも積極的な防止策を - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oSTJQeGpnLWNqZk9EMEdsUzRxNFVDOWhPU2hhSmVOblQ5aDF6TlpUWi1MclVwZXowbDNTMjRtUHFaQUJLMTIwVEFoUnIzblhqSndRZW5RS0FBTWpIclNzTkNDTnVBcWM?oc=5
+- アイスタ、相談型リユース店を開設 - リユース経済新聞
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnQ1BNMnphUVU3MkpaaUpaVWhCUHBQdG9ScENYS0swRmd6YWU2RU9aNFhkZ0ZsQUp2TURHcWx5QUIydS15d3pGVjM3cVpueklnd3RFbEFST0lUZFk5WnVYYV9KTQ?oc=5
 
 - 【ご登壇企業募集中！】“職場のお悩み”に各社が回答！TECO Design、次世代バックオフィスフェスを9月に開催決定 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE01cHE1STZEQVhyZkZWQ1pFZ0djVHdyMnJjdDc1bl9ySzQtRXBpbmRGRUlPN0dqNW0zOVR5amRTQnJLUFExQUp5bTN4Q0M1Rl9oLW1JY1FuMHhDYlV4RERjTm5kejF5N3VMaFE?oc=5
@@ -30,14 +39,11 @@
 - 個人顧客ターゲットに相談業務強化 京都銀高野・百万遍支店が建て替えオープン - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTE9Uekp0bFQ4OE94aXl0ZkRxcVhudnlmVjlpM2VLeWxxNHdzZ3dfRm5ZY0d4YXI3WjA3MmRqb3hkaWpOYmNCWkR5ZHlWZFVUMnlsRnRPMERjcFpZRVlqVlZRWWJqUGZwYXpEXzc4aDFKeHp3MEpEOVE?oc=5
 
+- 但馬地域２５年度消費トラブル 詐欺疑いの相談倍増 ６０歳以上が半数超え スマホ、電子決済定着で - 日本海新聞 NetNihonkai
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NSXEySWlsWjNTdVpMZ1o4QVZkWTdlX3R4UUpxRVNxRFppanBvdWt2elFmODRNOUhGdERKRzRqZEY2Y0ZVSk15SVVkMFdlX2My?oc=5
+
 - 半数が汗の悩みで日常生活に支障 「汗で病院あたりまえに委員会」が意識調査 - OVO [オーヴォ]
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtYlI3SU42b1dzczM4QW5PRERxR1hfR3VqaUViZnRRSTlXZ1h3OHc5SHlxeDlBN2lwdzdTdlplamtUcmFGdDhTeVpmMVBKb3BkZm9GWQ?oc=5
-
-- アイスタ、相談型リユース店を開設 - リユース経済新聞
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnQ1BNMnphUVU3MkpaaUpaVWhCUHBQdG9ScENYS0swRmd6YWU2RU9aNFhkZ0ZsQUp2TURHcWx5QUIydS15d3pGVjM3cVpueklnd3RFbEFST0lUZFk5WnVYYV9KTQ?oc=5
-
-- 【中学受験】【高校受験】私立中高進学相談会…千葉9/6・埼玉9/20・東京9/27 5枚目の写真・画像 - リセマム
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE1VOFFfbHI1SkUtNDB4VU9seUR0WUlKVFhoZk45bEhhNXcwX3A2TWZOU1hlUVktb3U1cEpFcjlVRmRkV3pwanJzUUJva3RwblFuZjNiVXVfODQwRVFyQzlaLXJNODdSZUttbExr?oc=5
 
 - 上司は呼ぶ？ 披露宴はする？ 悩み多き医師の結婚式 - 日経メディカル
   https://news.google.com/rss/articles/CBMieEFVX3lxTE53NngtRzMyQmxDMVRtTEdUUmthYkpVaFJWU0xwaS1uVl9tMUlhVnVpSkotV3VSRUQxYUQyTTFIdXJ6UFNDVWFhU3N0bFZDakU5VTFsVFUwRGtjYUlGWERxRmZDZ0ktdlFfMTN1WEJQZHhjT3J2Z3ppeA?oc=5
@@ -53,10 +59,4 @@
 
 - ACEes深田竜生＆浮所飛貴、恋愛相談は… 撮影現場に来ていない佐藤龍我に差し入れをおねだり！（テレビ朝日系（ANN）） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1qckdBLURnSWhUUk94bk52czVZYjgyZUJvOFNTWUVrSlpoY00zR1hxamFITG16RlRsWnBBQnpkeVNqT3gyUUVWOVhUTTNhNUxZc3NmSjFiNnYxdjR0MWJsVl9JRjctSG91LUh2NGJHVnM1cDVZRW1rTmdWaXhJd3M?oc=5
-
-- ACEes深田竜生、共演のサモエド犬と仲良く登場 恋愛相談をする相手に選んだのは…（サンケイスポーツ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE56Q1NfeHk1REViYzFFMUh5OEFJUkRqazhGdjRUc2FUSWMxLTVYeFR2Tzdhcm5zLTNTMUY0eTJTUE9JMS1JRjNvanhBd2RGZUFSVnJVSlloZkMzVjd5aXpwV09rcWY5SnVFZ3A0cHFtQkF4NDZSNmlKMDBzSV9aOTA?oc=5
-
-- 非行少年「困った子ではなく困っている子」 問題行動はSOS 少年鑑別所専門官が語る寄り添い方 - 沖縄タイムス社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE04NlhzWDl6LW45TG1WNThocmtsQ1RlRHdJcV92cFcwMzZ6YU9lSk0td0p0RHJFUzVGWWpDejJkNm16WXhMZnktN05YZng0alZDVVh4eE9XdkM2c2p2REE?oc=5
 
