@@ -1,10 +1,16 @@
-=== こまる相談 ニュースフィード (2026-07-09 20:41) ===
+=== こまる相談 ニュースフィード (2026-07-09 22:13) ===
+
+- 【7/28】創業計画書作成radio～皆さまの悩みを解決します～（オンライン） - スタートアップポートヨコハマ
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44RkN4TVhNN3RoNHFDN0VhNG01RVBJaDRQX1Z6ZmFDZ3ZyRGZka0pBS3d2SmM5YW9uQkhDMWRQdGlyNXE3OG0ySEppN3MwckxacmYyRko2TXEyZEpRMlprZ1NnN2I4Z3c?oc=5
 
 - 「小さな子のいる生活困窮者は相談を」 にしたん社長が群馬2児死亡事件を受け自ら相談窓口（西スポWEB OTTO!） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1Bd1dZTXJKZ2kyXzhTVXlHNnZMcnBPemNwSFVvcEljUkEyNlc2eDVSREJzR1JWTGhQeFRiemJjbm5SR3N0NjBGOTdXbnBGVHJicnZVU21hR0kzYWVRQ2VNQnBCUkN5UkdvNWg5SnFCOWg4ME5XNG5NdlY3VXZiZG8?oc=5
 
 - 令和7年度九州経済産業局における消費者相談の概要 - kyushu.meti.go.jp
   https://news.google.com/rss/articles/CBMieEFVX3lxTFBVbWEwUWxEY1d2RjdibGRvcktwT0V6YXZUb2JfMTVRM09WZ21PQXpEdGt6WGk2M2dEVUhHZEc1M3VoQi05ZzNSemhoaEowM2hjcTdjSm1sblhyeWpzbkdtS1B6dUlxVXdkZkV0RmVFNWUzeWlDbm1UeQ?oc=5
+
+- 「先生の声がこわい」「授業が長い」 小1に多い悩みへの答えは - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE95U09pNk5vT090M1dQc2tIaFBNNlZhTXg5U1dMMUx3dVhuc0MzVnRSWEZZYkdDUzlLLUhrU0o4VXlUTmhFLXdrQS1adzVUYTk2N1p3UWJfVXJNZVFRcTZVQ05FbHFvUW9W?oc=5
 
 - 妊娠や性の相談窓口、29年度に3倍の200施設に こども家庭庁 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTFAxYndnN0ExNloxMmZSS1NiWjVwYWdTempLVlZ1WE42VENJMzVpcnBtT2l3WTd6el94U3pmbW9sWW9uM2ZYNTQ1OVFScHlwSVZMWUJjRElaWTBPSFdMR0VjYUVPUll0Ymg2N3VEcQ?oc=5
@@ -15,29 +21,29 @@
 - 不登校の中学生 進路の相談会 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zai1lM0JabWVDanA5M0FNZ1dLd1Q4R3FVNlpIbnFPcmsycmhQckNNVDJjVlRmYnJtcWRLVUxBTHBQMllCMGU3Qk9RVnBWbHM4VHlBT1NtTjY5dXNhYTM5RlgwM2o?oc=5
 
-- 法律相談ポータルのアシロ、データ連携基盤を刷新、手作業によるCSVファイル連携をなくす - IT Leaders
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE51dk1jbkV2QVhzZHIzNEFuMjI5UkJyZURMYzBrTjNRb3FLaFBaNEdpTGVPWF9QYmJoOFdlVTBQZFFsMHNkSE5SOVdFUmx2M3RuM19z?oc=5
-
 - 不振の「マグ7」、ウォール街の悩みの種に－見直し買い推奨の声も - Bloomberg.com
   https://news.google.com/rss/articles/CBMijgFBVV95cUxORFNsd1pySTVPUi1OU09LTkNFdVk3UnJ6Zmpnc0JJVXhqTnFOZDlkZDdNTE0xXzNQVzVOR29OaDhQRlhaRl9Zb2pVOWp6ekJWZU9WREE1elZRM0V1QXFwSzkzX2hMQ2lKOTg2eWtuY3VXcnlXdFkwQmJVOE9VRWtZaXJLc3VGTVBwUWd4ZzZn?oc=5
-
-- 人生相談：キャラが定まらない＝回答者・ジェーン・スー - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mWkhheDZQelU3NW84OHU3eWg5WUlsbFpoMjcwMldpbWN1MEV0ZG81Q05SdnR0a3JlVjA2dTJCbmp0N1lmcVBJRXJ1bWd3LUlaYVFZRzE4eUZXX2hCTHF3aGRTMS1nZXFX?oc=5
 
 - 栃木県内の消費生活センター相談件数、２年ぶり増加 「無料で点検」「火事になる」…悪質手口の事例 - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ic3l5ZDNrQlV1OHBEd2FSRnNxbkdXZzgxUlh0UkNuUlhlQjRMLVozWVlvdHF2UXVPX0cwMWlfTUdxclZzeXF6MUNLUkRzcVc2V2Fucy1JcTFKMzg?oc=5
 
-- 臓器有償あっせん、紹介状作成の院長に謝礼…英語で「患者は腎臓移植に適応」「手配をお願いします」 - 読売新聞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFS0FUQXpvQkRobXlqel9zVHB6RkcxNkR0b3N0bjhXRkszU2UwTGc4SVl6c0V0UDBOUVhUUnZrVWZEZ1I2S0JiVkNfRHJ4aDVfcTdQdnZCcmJnR3BhZnBLeE9WTUpsZw?oc=5
+- 法律相談ポータルのアシロ、データ連携基盤を刷新、手作業によるCSVファイル連携をなくす - IT Leaders
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE51dk1jbkV2QVhzZHIzNEFuMjI5UkJyZURMYzBrTjNRb3FLaFBaNEdpTGVPWF9QYmJoOFdlVTBQZFFsMHNkSE5SOVdFUmx2M3RuM19z?oc=5
 
 - 県発注の公共工事に「スライド条項」適用求める相談約２００件 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NRm9YSlpvazBMbktqSXREVExVY3BWSjFqZlNCYXNfWFFIa0NwSnl2WjRfX1BJLWt5U2xBOTNNbEhpX2dVWmozTi1YTnBDWU5XT2pBaTRzM04?oc=5
 
-- １２日にＰＣ相談、アート作品展示 きらん - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLQzVtRzBlQ19pVGpHTmRzSDl0NkZQX3Fac2ZNZHVDekN3ZlZTTk1xU0xSWWtsdUgtSnYxOTJabWlHWGF3eVBpWG5faw?oc=5
-
 - 愛媛銀と伊予銀、相談窓口を全店に開設 「全東信」破産手続き開始で - 愛媛新聞
   https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoUVczOE5LbHBqTjlyUTdpTDJtMEtrU3Z4QTRkYVhnNk5reFBjc2lkRk9vbzJtR0dkN0pkNmd3anJIVmIwN2owNXpXLVJKeWx6S1VNQTh0YmxjNnAtd2FCSw?oc=5
+
+- 働く女性の健康 配慮する企業…相談しやすい環境へ 社内啓発 - 読売新聞
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2YmE4ajFpd2JEYVMyVW1PdnhKTmRpWUw3cUZhQjZJc3hnb3FkSXk4SnBzTmlJSm85N2FISFVRbWpGeUg0aGVxRVN1VDVfVmJ3QTJndG5JdWg0U09GdVhpNw?oc=5
+
+- チケット転売に関する相談件数の推移 - “推し活”狙うチケット転売詐欺 定価の数倍請求、被害者が加害者に - 写真・画像(1/2) - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wOXB0Vk0yZmhUakhUS0ljeDcwOFdGZm9DX1JoSHZXbHlodnI2a0lpdXViQTd6cXJsVE5oZllubDBPUExibTdxdnZYNk84SzUyaFZaV0VoTQ?oc=5
+
+- 不振の「マグ7」、ウォール街の悩みの種に-見直し買い推奨の声も（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFB3R2xBQVNPczZiakZfbFJ3MzhUUU4wSHgtOUxGbFpjS3JDMzdXUG04M09KMnhyS1BrMWhCR1RWODN6RWFOTVY1Yk1lZGxrQy03U25VdV9JWkVQazdqTndoWk1EYkVxOXp5Rm9GQ0JmZzZxNVFRUHVpQVk2VmlqRWc?oc=5
 
 - 沖縄銀行、全東信の破産で相談対応 決済サービスや資金繰りなど - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE8zR19paXdIZ1A0Q2d3M0hBRk9sWDlETnZqbFlxbWdyaUJyT2thb0M2R1U0Y1NFS0ZIRzZPUTd1VGdFaXptR0JEVVBfSzdDMXBIZkdWb3Y0YmhEVnJJRDI3Z2tIWXhBSDRkMlZaTw?oc=5
@@ -48,15 +54,9 @@
 - 臓器移植法違反事件 一般社団法人「国際医療相談室」 移植希望者数人から少なくとも計4500万円を手数料などの名目で受け取ったか 警視庁 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xZXZ5V2h2VEJVVV9yM1dJM2VOekZqeEJtR1drM01IS3BIWWJPbEhtMGI4WTdtdl9Xek9DbUc1NzQxQlloOEtidXE1VDdHN2pndnV1RUNLaw?oc=5
 
-- 働く女性の健康 配慮する企業…相談しやすい環境へ 社内啓発 - 読売新聞
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2YmE4ajFpd2JEYVMyVW1PdnhKTmRpWUw3cUZhQjZJc3hnb3FkSXk4SnBzTmlJSm85N2FISFVRbWpGeUg0aGVxRVN1VDVfVmJ3QTJndG5JdWg0U09GdVhpNw?oc=5
-
-- 埼玉県が男性専用のDV被害相談窓口 10日に開設、電話で受け付け（朝日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaFhYUlpJVDhpU05CY0lYQktRUnI5cTlWY0dDMDYzMTFBdzl3N1dqZnNSZFNXcHdqRFcwUmFFWVRWRGwxc1Y2aXRiVTJIbWFPMzczNVJERUtIYjBhVW1abkNKWVRlaDdfWkNESEFmRnhZZ280T0tGa3c4cEI2VGM?oc=5
+- 子どもの不登校、働く親の33%「誰にも相談できず」 民間調査 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1VN3IzSUcwTXRFSVdhU2FpS1BfZzlWUEhybGlwT2FQa0p0YUZBSkttckJTeHA4X3doeEQzRUt3R2hZU0YxZV80eENzWDVOR3pkSVhmR3FwNVpoblVIY0pNMFFOVEF5a1prN1RjWA?oc=5
 
 - 伊予銀行と愛媛銀行、全東信の破産で相談窓口を設置 利用事業者向け - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBkbTdVU1luUi1xV1lxQ3NIWEtHeFgzRmV1QTF4aFA3VWJPZThMTTFmMld3UTJlaDRnMVRQaFAzT25CNHEzc2J0NTItYVBaODA5QndTVzRPV2ZURkJta05KemZLYlB4MFc4dU95Tg?oc=5
-
-- 関西電力、企業向け再エネで原子力・水力活用 相談窓口を開設 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE0yZ2pxYk5hWFJJeWlsTnRjMXhSMDdwVHJFUlV6R1ZqdWVJNzhwbGJWQnczWTFOZF9oSDhXSEpBRVB2d0NXZXR1aHRPZE8xNGxPTnRjeGRERi1KNlRTLVJYQk1Pc0NzaXVBZ1N0Yw?oc=5
 
