@@ -1,13 +1,10 @@
-=== こまる相談 ニュースフィード (2026-07-11 23:43) ===
+=== こまる相談 ニュースフィード (2026-07-12 01:47) ===
+
+- 岡山県の2025年度の児童相談所対応状況 「心理的虐待」が半分近く占める（KSB瀬戸内海放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ualV4ZDU3aWhsOW5lQVdINXozZWZUSlFtZHpiQVk5d3dzSmNBRFJwOHpIckEwUmMyRjBjb1c4dXhTa3dNMFZFd0ZNNTZjUmNwamFmQS1yVjByZWpXbHRuRGx4V0tkWjNQSUllLTFIODZSai1xeHJJVC1PYVhPcnc?oc=5
 
 - 辻村相談窓口、「今日を生きる」 - Design Stories
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkYzlEN0Z3Qk1OaTB3TGJteFNsdG5ZcEFXZnY1YlBTQXppQm9YWW1JTzBOeGVqVFBEcENuNkhRb2RFQ1pzQWtUcy1QbDczRmpGcER4bTN0bE5LbnN6aXFGbE1iWE83QQ?oc=5
-
-- 唇縫う事件前 女性関係者警察相談 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LdU8zQmZVZjVLNXRhMnN0TWdzQ3k1d3V2TkNXUGxJZmJWRHlHNVBvWlZhclZNd1RhYW9Gak9rcFpzb3h2QTlwNS01ZEV6Z3Ri?oc=5
-
-- AI「副住職くん」に法要や恋の相談ぶつけて 小牧の僧侶が新サービス - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFNzBNM2g3VnQ0dmExTlVmVmg4NEJPcnpRZXljWFBsYzlvQi1EZzExemhUUVEzeXZiQTdiSXR3YnhhRFZCRVVpV3c1U205V0l1cU93Qw?oc=5
 
 - いまさら聞けないお金の悩み テレ東編｜Newsモーニングサテライト（モーサテ） - テレ東BIZ
   https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXVm44MXFhbzFPTXJURkVqZWFTWFdaVk9pUGU0TUE0eGpIMXJCVGhMT09FdUhaS0ZUcHlEaFUxeTZmLVFZQ2V4c3BUcUg2R3l6ay1BeS1Xb0M1dFot?oc=5
@@ -15,11 +12,17 @@
 - トランスコスモス、国の大雨在宅支援者事業から相談窓口受託 - 電波タイムズ
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ia0s1RG1aaUtJc0tzUTM3RnY5bDNldVlOUDNCbGNFRFNZVjBKRUZ4TDhNZ1NmdjVWaFB2Sm9XZDlnb2NTbzRKX1JTV2tEeGt3bW4zQkpXU3BXNjZ6NlZUUnR6Qm1WQQ?oc=5
 
+- 農業用ドローン導入活用相談会 - pref.hokkaido.lg.jp
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fZXFRS18wa2pWaXBncDJLM0ZRR3pIcTJxcUFDZ2tPdWN4bTZITDRERS1RNE80Z2RwZDN1SGJVankycVF6bjZKZXN5Q1d1SVA3aFAyNi04bUlGeW40Z05v?oc=5
+
 - 三菱マヒンドラ農機解散で相談増 修理の依頼ＪＡに続々 - 日本農業新聞
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uSXB3YVZsN0tvcUNjTXFxX2NGbkNkSjcyLVRNdHd3NGwyV1RkMzdON1NxLTFGemExdHNSTGVXemk5MGxFUkwweko1UXRMVlh2cHZscGpsdw?oc=5
 
 - 取適法へ改正 講演と相談会 21日 沖縄弁護士会 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMHNqUVQ0WEhlTzQ2ZEZ4VGduRlNyWjV2LURoQm5ZZkZZRW8tRUEwSUlRM2JSS0NuY0t3eDhVcDF4dktqaG13REROUmVnY1FGZ0QwYWdPeGhDU1VQeUE?oc=5
+
+- AI「副住職くん」に法要や恋の相談ぶつけて 小牧の僧侶が新サービス - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFNzBNM2g3VnQ0dmExTlVmVmg4NEJPcnpRZXljWFBsYzlvQi1EZzExemhUUVEzeXZiQTdiSXR3YnhhRFZCRVVpV3c1U205V0l1cU93Qw?oc=5
 
 - 市内6地域で順番に開催！地域別空き家相談会 - city.fukuyama.hiroshima.jp
   https://news.google.com/rss/articles/CBMiggFBVV95cUxOa2I3c1dHRmx2SC1TczN0cW1xTkxyVDgxT1FVLTU3N1ZKOG9DdUFtSjNjSjhlYUhkVzREd2pxa2FOMHdkR1I5UjRzMW1OckkySkNsMEEzZUJnSG9fVWdlX2NtdjNEVmExX056dl84UkhuS185MElobHZRNFpFZ3pqUUF3?oc=5
@@ -30,33 +33,30 @@
 - お悩み「娘が美容整形に夢中で心配」に柚木麻子さんが回答。「お嬢さんは何も悪くない」と語る理由 - Fujingaho
   https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0Q3ZjFGLXM4MVRLWVI0N25UTTB1WFRjR0FncnRuLXRHanV2Q093SVp2amhFVm80NXlEelNKblVyV04tMlR6NzdhOUczRVEzbm0tYkpOdUtpQ2gzNzVLWUpZOXJBTm4yemxVeDFZb3d3N3VPVkJYX1NFVktCeVJaOF9jRF9tXzNTSE41cjZUYUQ5QkViT3p0cXVhM2lGNF9mWXdieg?oc=5
 
-- 出産や子育て相談を 沖縄市、１９日に母子まつり - 琉球新報デジタル
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QeUhxdFozcUI2QzRJdm10MjdCZmtCUG1scklpZG42bEhhZHJkZDZadnFjUm95WjB0NGRvNHZwdEdaM05KU01KZnpaemFCNEtTWXBUbUxsaUhxaGV3WXc?oc=5
-
-- この恋、続けていいですか？～恋愛悩み厨が集う夜～ 第一夜 - TVer
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tOWpuT3pNcUcxZUItUHlBa3VldmF4aFBlVWlvN21RcHZGT0FULUlieXUwODQ0UWtXWEpwV0pHT1cwbkVKTDk0QjlRaw?oc=5
+- 全東信破産で相談窓口全国378カ所に 経産省が資金繰り支援 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFA1RjlOWUhtVzlUUUJwNnl3VDBmaXZxYWJfQ2E0aFFacHdEUFRRdlp2R1dVYTEyck1QVm5uUF9VaEFLU3U5d3gwdHo1Rll6T213N3lMcTBROWZiSmM2LVRoTWNsUi1SQXBOakpXZw?oc=5
 
 - FPが苦悩…お金の悩みを抱える人へのアドバイス「お近くの金融機関に相談してみては」と言えない切実な理由 - ゴールドオンライン
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mNzJZY0dwNjM3alNzbVFfblk5b1dlX09uOW9VaUZvcXlBYjRBTkZCVlc4OHlfRGNEVW81YVUtM0FjNUR1X0FUSFNIWGRnY0JrZUE?oc=5
 
-- 精神障害の家族会、八戸に発足 体験や悩み共有、互いに支え合う場に - デーリー東北
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzemRhOWl5RGoxcEZUQ24zeHEwN2JkdVFieklrWjgyZWh5aFk0Z0VIVEE2UTlwSHFoVFZkb0xfUF9mTldpWENjVC1KUTh6a18zRnN4MDBZUy0?oc=5
+- 香川県警が「闇バイト相談窓口」設置　「#9110」に迷わず相談を呼び掛け - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3RXYzNzanBVTDhKRV9Uc0UtbHBsTndjSTEzVWFCa1lZaDRXajZfeFh2Um9VbFROYkpzNkVFdWZnRGtZV1MtR2dhdm9UY3puU1RUQUFoSVc1Yy14WjlVZklndGVPM3Zna2p4VnotaDQ5YXVpUGp3UWs2NUZrajVDTzF0enNUZFRUaW1ZdVREMEZmV09BMDZVb0FmbUlNekVtNldhR05ncmRxX3VLclFkZVg3NFZxQVZpVGc5QVcyY01nSVAzLVHSAXZBVV95cUxOR0FjdWxVNWw2cGdZYXd1dWhaLThWNjZTZjl0SkxUS2NPcENtelVQcHRhN3IxcDR5d2F1cGNUbWN5SzJMNThuRWxNOVRlUjJCNHcyTVUwelJRZ1lsbWRkYi1zUVF5Zkd3cjFLZlEtb2tPRlVjUjVR?oc=5
 
-- 【市長フォト】自衛官募集相談員委嘱式 - city-nakatsu.jp
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xZU9kNXBwb2M4bWdHcGJZNXJmNGZlcWxvbFJoeVpPeUZQZ0Jod0NvTWsyS3RNZ1BSRTl0ajB1UzF2cVJ5cE55dHlsV3hHNzVqSFVCcXVwamVwLUFNRTViTkw1dw?oc=5
+- 唇縫う事件前 女性関係者警察相談 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LdU8zQmZVZjVLNXRhMnN0TWdzQ3k1d3V2TkNXUGxJZmJWRHlHNVBvWlZhclZNd1RhYW9Gak9rcFpzb3h2QTlwNS01ZEV6Z3Ri?oc=5
 
 - 教師と保護者向け相談会 15・18・26日 個別に対面 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE92czYzc1dHUGdwc0NKYlNHYUM4OUV4cEt3bVpVUFZPR3FwcFJRZzlrck5XdVpCVzNrWWFzTURndWxpYmRzV2MwS0stbzc3cFh1eVhvdDRJVENsYy1MNVE?oc=5
 
-- 「小さな子のいる生活困窮者は相談を」 にしたん社長が群馬2児死亡事件を受け自ら相談窓口（西スポWEB OTTO!） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1Bd1dZTXJKZ2kyXzhTVXlHNnZMcnBPemNwSFVvcEljUkEyNlc2eDVSREJzR1JWTGhQeFRiemJjbm5SR3N0NjBGOTdXbnBGVHJicnZVU21hR0kzYWVRQ2VNQnBCUkN5UkdvNWg5SnFCOWg4ME5XNG5NdlY3VXZiZG8?oc=5
-
 - 母と子のいのちを守る会 妊婦らの相談応じる「ほっとライン」開設 あすから１８日まで - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hNllWX29RVV8tZHE5dXVJVEtNeHAxVzN3d01nWVByZlljdms0ZUFPV2JHYTZCeGdEVVFRV0M3cVVVT1QxYTgydDJ1SQ?oc=5
 
-- この恋続けていいですか？～恋愛悩み厨が集う夜～ - tv-tokyo.co.jp
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTk3QkdNMmd0VF9xbnNUTU5ZUWVPbzkxLTI5TG9WOGJldUJnMTVWdDhoUm1kalp3NEM0S1kwdXNEQnBUQWNfYTRsaWtQYkx4MThLRlpQNE0xYkdEZlFMcWlPRFZucVV3OFpFSzNOMy1LTEtzcFd3dzdraTFHSmtUQnVCQTRLUHA1UnB2czlBaw?oc=5
+- 【1700円台～】ネットカフェ/カプセルホテル宿泊の騒音悩みを解消し、睡眠不足を防ぐ。横向き寝でも痛くないDJcongの高遮音イヤープラグがAmazonプライムデーでセール中（WEBヤングマシン） | 自動車情報・ニュース - carview!
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWJPdkoyUnFjWlpMa3RkZlVEMjhIOWl5ejFHdmpTd3Z5RUs2MjR5WnZIZFpHZkdSZmh5bmhsMV9NNkNhMHZ1U1JLNmRUbHBhZ3BZUWVRTjdBbi1uYkNSaW8wS2YxWnRseXBHRjBQVkx1Y0lGbmJwVzM2U3UxOUFfWVVhUG1TUFNo?oc=5
 
 - 沖縄盲学校が24日相談会 「沖盲ふれeyeデー」 - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XSHZnYVdLeVZtcUk2Vlk4bDJqcXdMMFU5bHl5Q2pWeUdLeTBDaXhGSk9tbjF3cHNON0ZVX0tGU0thdXlsVEM1UkpaSURDMzg5TGJ3RndBcVFTeTlTMnc?oc=5
+
+- 「小さな子のいる生活困窮者は相談を」 にしたん社長が群馬2児死亡事件を受け自ら相談窓口（西スポWEB OTTO!） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1Bd1dZTXJKZ2kyXzhTVXlHNnZMcnBPemNwSFVvcEljUkEyNlc2eDVSREJzR1JWTGhQeFRiemJjbm5SR3N0NjBGOTdXbnBGVHJicnZVU21hR0kzYWVRQ2VNQnBCUkN5UkdvNWg5SnFCOWg4ME5XNG5NdlY3VXZiZG8?oc=5
 
