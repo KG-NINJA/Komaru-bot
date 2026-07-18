@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-07-17 23:42) ===
+=== こまる相談 ニュースフィード (2026-07-18 01:28) ===
 
 - AIメガネでカンニング、早くも多発？ 中国、市場も悩みも急拡大 [AIの時代] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ER0JDV255S3RCVlpNYjhUbEljMDVDYUQ4MTZGN3BaZHotM2lvZlRBaDI4dGhMWVNuLWxwbGxWLVNUOF91SDk2ZjloU0JlbHhkbklPWkIyTkJ2ZEVBbXhiOGNoZ0ptZzg?oc=5
@@ -6,14 +6,20 @@
 - 相談窓口、76％が「知らない」 闇バイト県内高2調査、認知度低さ浮き彫りに 相談先9割超は保護者 - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZN2NqRGFROWx1RVpJZk0zQm1ST0lmdl95MEdzeDJmRHl2R1NFVjV2QnJpQnpiM0IyN1BZMGlQNW8zLWZjdTFYQTVnNTBWUDZza3lIaUd6NGZwVFk?oc=5
 
-- あおぞらカンパニー、住宅相談窓口を30年までに全国100拠点体制に - ニュースイッチ by 日刊工業新聞社
-  https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vaTNpOVczbERkQkNKUlRMVXAzUHVQdEp5MkluNDEwbE1VVzlhUm9ya3V4MFVjb0dFczlwYUp4czk5Zw?oc=5
-
 - シューズの摩耗、サングラスのズレ、キャップのフィット感……ランナーの悩みに応える新着アイテム3選｜Runtrip Store - Runtrip
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sVUdHWUNWdlQzQ29RcEdsQ0NYZkpTYnQ4MVoycVRqRFFSNlZQdHcxOW5nR0ZpU2JvbVRCdmpoODJoUThRRzVRNlFzNmkzdw?oc=5
 
+- あおぞらカンパニー、住宅相談窓口を30年までに全国100拠点体制に - ニュースイッチ by 日刊工業新聞社
+  https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vaTNpOVczbERkQkNKUlRMVXAzUHVQdEp5MkluNDEwbE1VVzlhUm9ya3V4MFVjb0dFczlwYUp4czk5Zw?oc=5
+
 - 児童相談所開設に向けた各種就職セミナー - city.hirakata.osaka.jp
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE53VjFWN0xGSzNBSnpGRjNvcjZIZ2VlRV84U1BZWUZxQmY4RWNROXpYMjRPRm51MmlDa0J5OUVieklMRm9GSzlrSTVpMl9oc0hKSGJGN0g0MjJWUFJiVkFV?oc=5
+
+- 保護者に24時間寄り添う 不登校 AI相談窓口、県教委21日開設 心の負担軽減「ひだまり」に ／三重 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UNUZ1Ulh3MWRfUlpTMFpmdVhBaUFUeURDRDZwS1lOUjBMajM3X1pwRlktWGRwaXR5NXctZlQ1dEpsWTc4ekg2RWpidm9iTC0zYVVJTVFMNWxBYVBZRlphTzExbTBTWVhj?oc=5
+
+- 夏休み、お昼ご飯の献立決めが悩みの種 キッズラインが「夏休みの家事に関するアンケート」（オーヴォ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1CU3B1Z09Xa0w1Mm52d0hnZ3UwSDNBOE91eG5sTHQxTURuaXQ1ZjcwaXdnb1JBbzZnRTRlRDVzSmdDX1hUMS1SejFGdzdDM0N5UzU0SWZiXzNGZmhZX3RnQkJuNkZxQ3E5QkU5amJ1VDhRVW04T1ZVOTg0UXpRUWM?oc=5
 
 - 美祢市立病院・美祢市立美東病院での健康相談・健康講話開催のお知らせ／美祢市ホームページ - city.mine.lg.jp
   https://news.google.com/rss/articles/CBMiekFVX3lxTFBrOWVja1NJQ29HYmpzZHAybDVidGUyNmE5VHV5V3BNeG1kb1FRTnFBaWo2b1JJcVJDYzNqYXJpMXRKMHNFS09wc1BkWWV6UUtONVJrQnY5LWdzY2JCbXI3ZDE3TElucWtqQUJHMENtWGprYzlFakpvQjFR?oc=5
@@ -27,36 +33,30 @@
 - 【相談対応Q＆A】学校の費用をもっと公費負担にしてほしい - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MOS1NeE91ckFZVFVRcjlqSE1HRElPNDhLWV96eGlVXzdNQTUtS3lvc293YThTYThFQXhMaDhSQjBJVkppVXVMNmVMblNNNWlIZ3NtblZDbjN1Q0p6cmNNVFQ5OW13QQ?oc=5
 
-- 【ラジオ放送予定】坂本真樹教授（情報学専攻）が７月19日（日）NHKラジオ「子ども科学電話相談」に出演予定 - 国立大学法人 電気通信大学
-  https://news.google.com/rss/articles/CBMicEFVX3lxTFBSekNVamtGOFdYU2N5LVhXUVNfUktKRTZpRFVDSENoc0NJLURVMWlWY29sOEV1MmQxdm50OFJSSk9qNnNFT0Q4LWFDTDRGc0hRenBkYnFZaUhBcHJHd2VNTVBUUmEzaFBROGxORVZFdVM?oc=5
+- 【参加者募集】夫婦カウンセラーにあなたの悩みを相談してみませんか - SYNCHRONOUS シンクロナス
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iLVF3LXZYa1JuMHNkMk53WjVSb1RLVnZobFJ6ZE55T3ZGVnRUMkJONFZBUEhsTVczSDVkVk5ib01pamEtV011eGFpNldHUTZqdjdteA?oc=5
 
 - 夏休みの宿題や自由研究をサポート てくのかわさきで２１日から学習相談 - カナロコ
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oSDkzRXRXaTU2bG5Sc2ZNSGk4VWQ5clJDZTNJNDF1aU1pTDJhMUo3WDMtbElxcnYzQ1NuMnN5WUdCcGFsbFMtS2JRWEFfRE5hWXUzTUs0YTh4cWNiVkstYlZHMGs?oc=5
 
-- 【参加者募集】夫婦カウンセラーにあなたの悩みを相談してみませんか - SYNCHRONOUS シンクロナス
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iLVF3LXZYa1JuMHNkMk53WjVSb1RLVnZobFJ6ZE55T3ZGVnRUMkJONFZBUEhsTVczSDVkVk5ib01pamEtV011eGFpNldHUTZqdjdteA?oc=5
-
 - 足利銀行、全東信の破産受け相談窓口 資金繰り相談など - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9kbVotZGdCTjhTUHJEZ2twMGpQV0JjbGh6a1lwaUx3Z3drSVN3Wk9fRGpKRzg2Q0pGZTh5M0NBRExpYlNZU3dYQnNSRTkwS1VTX2c5NFh1aUZsMFd1bkNsdlpxYUZUVGVkM2xqTg?oc=5
 
-- 夏休みの宿題や自由研究、豊富な資料でサポート 川崎で２１日から学習相談 保護者からも好評（カナロコ by 神奈川新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE12eFdHUzViblFLa0RxMTdFRVgwc19tc0RCazFDa0RrV09KcGdwck92b21mdUFIT0hFQng3cmZMYU0xVUJKNzE3WkpXRkthOW5qY0UxaXZVRzU0cnhWZTR2REVGWjRENmJzYTF2aWlvT1ZFMExlcm02ZzIwdlBmWWM?oc=5
-
-- 第15話 アストレアの悩み／ハーバリウム・ブック | アニメ26 | 無料アニメ番組 - BS12
-  https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUTVwdkE1YmJmTFZzZG9CMk9iWngwZ3ZuT0FPR20ydno0akJDTWZRTVNxbklBQVJ1Y1Z2LUZxMGlSeGlZemhOV1lKRzVuYTJ0czZQOWZkVVNGSjdsR0RlaVEwbUppdFRCX0hqVG1GcXgxV0d4aU1weW9mSE5TODRRODFtSlJ1SkJRZVBZ?oc=5
+- 【ラジオ放送予定】坂本真樹教授（情報学専攻）が７月19日（日）NHKラジオ「子ども科学電話相談」に出演予定 - 国立大学法人 電気通信大学
+  https://news.google.com/rss/articles/CBMicEFVX3lxTFBSekNVamtGOFdYU2N5LVhXUVNfUktKRTZpRFVDSENoc0NJLURVMWlWY29sOEV1MmQxdm50OFJSSk9qNnNFT0Q4LWFDTDRGc0hRenBkYnFZaUhBcHJHd2VNTVBUUmEzaFBROGxORVZFdVM?oc=5
 
 - 消費生活相談員になるための講座 - city.kadoma.osaka.jp
   https://news.google.com/rss/articles/CBMid0FVX3lxTE5Pa2NyOG5aU3duMDNwYkhLYUEzbVlhaXYwWFo5LXJWS2VWUUJrSUp3U0NDbWxheXlTZDdKWFVLRFBpSWl1bFhSV012eUJBdjNfdE1ndTlFdEQzc0V1VFdoYk81VHdLY1FwRFVHdzVKUE5HVGc3Smw0?oc=5
 
-- 2025年度 岡山市の消費生活相談4954件 SNS関連のトラブル相談が増加 - KSBニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjbTFBTTVRZGNKN2NBOElrZFh0Q20tUVJPc2dESVVrZVZSMEZIQ19TMWlYZG42aFFBdTJrYnhsRl9mME5EenF3OFR6eFVNVi1t?oc=5
+- 第15話 アストレアの悩み／ハーバリウム・ブック | アニメ26 | 無料アニメ番組 - BS12
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUTVwdkE1YmJmTFZzZG9CMk9iWngwZ3ZuT0FPR20ydno0akJDTWZRTVNxbklBQVJ1Y1Z2LUZxMGlSeGlZemhOV1lKRzVuYTJ0czZQOWZkVVNGSjdsR0RlaVEwbUppdFRCX0hqVG1GcXgxV0d4aU1weW9mSE5TODRRODFtSlJ1SkJRZVBZ?oc=5
 
-- 大島優子、子どものお悩み相談を“パウっと”解決「立派なパウ・パトロールのメンバーです」 熱量にジャンボがツッコミ「目力がすごいのよ」（オリコン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3lKZENMSlFLRnBMdVl2YktpdGw3T3NhZzJlMEZTY3M2amJ1TkJCdXVKVWF1UlEweHFoMTBINE9NNEwzajdRcmd0UzhqS0lNZTh2Ty15N1BuSndoN1BaYWFZVy11Vk5xQTlQbGdSSlhlcDN3bXA4VjhraWNXdkZ4dTZaTzNDVWlkcU8wZlBR?oc=5
+- 【女性の体の悩み】“ミレーナ”って本当に痛いの？5年間使った40代女性が痛みをレベル別で描く体験漫画【作者インタビュー】 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5rc2hZSU01RGdpUHVJZzRSZk95RUdHS0hHalJJYk8tMGp6Xy1oQkhhMDgyRTIyamZhbjBaSkxvZWJfV0xENGVRX1p5YVpoX1NpQy1YbFc5UkJHMVhERVdUVDRTSWV0bUI3RElObkx1UUJKSmVTSzhJNV9qNkJsZ3M?oc=5
+
+- 夏休みの宿題や自由研究、豊富な資料でサポート 川崎で２１日から学習相談 保護者からも好評（カナロコ by 神奈川新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE12eFdHUzViblFLa0RxMTdFRVgwc19tc0RCazFDa0RrV09KcGdwck92b21mdUFIT0hFQng3cmZMYU0xVUJKNzE3WkpXRkthOW5qY0UxaXZVRzU0cnhWZTR2REVGWjRENmJzYTF2aWlvT1ZFMExlcm02ZzIwdlBmWWM?oc=5
 
 - 「長期にわたり警察に相談しなかったことを反省すべき」…女子中学生への不同意わいせつ容疑で元ＡＬＴの男を逮捕、生徒の母親が胸中語る（読売新聞オンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE04eHAzZWQ1S2V5ZVhtN0E5OG5IWm9FLWxmem94SVZVVHZzMGJuTzZUc1VpQkt4Y0VpOERMVlBYSF9qVGg5MFgycTZicDNHblZzdWtodFB5akgycE1FZm9makhQV2p3TnNHTVFjdUdUQ2habUdkQ3AyVERkNlc3R00?oc=5
-
-- 心配そうに天を仰ぐ人々 “落ちてきた”のは「困ったちゃん」 7階から飛び降りたネコを無事救助 トルコ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFAzWHBYR0ZJYUFfMm03UVduS2VuVU9WOGV5TmZrck5Pa0RsNVdhbFMwbW03TGUwRzM4SDFCbnVxZ3FwSlptcnFZbUFfSFZWdkFTN2lSQmRnR1VZV1ZNeDRBVlNiVk1pYUsyaXQyUDNiT1dsTEpBLUJ6b1FFMzFKQzQ?oc=5
 
