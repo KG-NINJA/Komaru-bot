@@ -1,10 +1,7 @@
-=== こまる相談 ニュースフィード (2026-07-21 22:44) ===
+=== こまる相談 ニュースフィード (2026-07-21 23:47) ===
 
-- 落下・損壊の悩みに応え 楽器の調律などに使うチューナーカバーを開発 オクムラ楽器／京都府福知山市（両丹日日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFB4SEdYZXM2WnN1UUpiYVp3VnR5RS14dVZZWHh5N3IzSzZwVXZ5ZllPUDRiV19VQzV6VFcwbDlmeGtqQ3VOQl9DZEkwUmFwVjNoYWZES3NkdVpMZ3JyNXpoemQtdURBLXB1OFY3NkNXRXl6ZDBjMkVKTC1rUHI0UWM?oc=5
-
-- 栃木銀行、豪雨被害者対象の相談窓口設置 融資など - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9yN1lxVjliRnhFUm9yLXFaYWhaNVhGWk16Smtwb3YzUlN3TFh3NlZjWmhJeFNMQkl5QzVDa25Nbi1oOTNCaXNMMHp4cEkxMWJ2cHRkazBNWGsyOUJBb2x1bVVGOVA3V05mV3k4Tg?oc=5
+- 「楽器の相談窓口」に ギター・ウクレレ専門店、紀北町にオープン 三重（伊勢新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5lOVJESFpJR3lvUEJnUnpEZ2ZwdVRlUGgyZUFINEdTRDhCWm5UTHhES2R1VTZLdE5mWHpzTzhuSTFpc3Z0NTRvTHkzbll6aEtILWJrcFF4ZmhfdXoySGxSWlNaS2dvMnd0aHQzMHpUelBmbGdXcUZXT0ZBWDBZRVU?oc=5
 
 - 辻村相談窓口、「記憶にない記憶」 - Design Stories
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDQ1FqNV94Zlg4bC1IM09GUnU3VF9NN2c3WWVEX29WRV9jbkFnOUdFWGpXeG5SSEZMSjdPbV9uSjJLbWZOTU1oSzN4Vy1TakMtMVBKZkZ5a0lzNWh5OElKVkpGRkFJdw?oc=5
@@ -12,32 +9,38 @@
 - ふるさとハローワーク(茅野市地域職業相談室)をご利用ください - city.chino.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMHhsTVR0ZWZMR2VJd3RyS0RNQmluSXVWelRhQlhMVUVaS0Z2VjgwRkRpNHRGaVlMbU5XcUhzS3FpQjhrUEZCTHE1VW82Q0RWc0c3T3J2UXFjMEpjTklKZlBJdw?oc=5
 
+- 調剤薬局の相談機能なお浸透せず - Hoitto! ヘルスケアビジネス
+  https://news.google.com/rss/articles/CBMiQkFVX3lxTFBpOE5RZm5ES3FUdk0wTDFfMVYtQlZjRmZGMzVFa3lPZ3puV0pPVXFoRHo4ZV90dnNZS0EyN1FZOTdNZw?oc=5
+
 - 続発する葬儀トラブル 相談千件超料金絡み センターが対策呼びかけ - chukei-news.co.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTE85M2JkaEY2RExCX0Z3RDRUTjZfVUNSVEhIdlpOcjY0NGVKLXdHWHZZcFBQOGhwVmFoODNWZzNYYUYxZlZTZWk0WkREMEFmYTFxV1ZrZHBjd3JiR25oSExYUWxrdXJ1c0NkU2l1c0lfZEp4eXc?oc=5
 
 - 【逗子 ショップレポ】アリレイナ逗子店 - 髪や頭皮の悩みの解決策がここにあるオージュアソムリエのサロン - 湘南人
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nc242RjRHc2d4b19HdTdFOXdEVzdLeldjZEFyalBHMWF0dXpfREl5bDI5bDNnN2tKSVMxWUtUVTBKRWRUM3dLdHRvV0NwN3pXN19kZg?oc=5
 
+- 千葉県のカスハラ相談センター、ケアマネも可能に - 医療介護CBnews
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE94ZHpwT0RqVnVCOVFya3p3Z1hYZUU0Sm1UcmpOX1FiczRUS3I5UF9SM1pkUnR4bk9DRkVLWEI4bVozTFdDSk95VXhzamhKeHZYQklRRkE2ZEtJNUU?oc=5
+
 - 【頭の悪い働き方】評価につながらない「無駄な努力」・ワースト1 - ダイヤモンド・オンライン
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ESWhESjRraV9vX1dOZUZfZG9laHBIY1VoeEQ1UG5GdnM0VndkUndYamRBM1M5NUVTYmZSNDRDM3lyUkFwNDFVT1VBOWLSAU9BVV95cUxPbzB3eGR0SmVLN2dqUnRPWFF4ODg5eUMyYnBvMlpTNHVXS3hPUk1LZ0lCS1F6eVEtdkcxT3RKc3lOMTI1N1lHZ1hycFllQkVZ?oc=5
-
-- 移民・難民相談支援ネットワーク事業 第３回研修会開催のお知らせ（2026年８月５日） - 移住連
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOXN1ZHAyVks5QU9mczlkTmxIejlwbFZRQXlwTGRwZWFxbGhoQVlKbE5IZHNqUzJiWFdLTXNMeV85ek0wMFd4aGRvSHZuT2VzdmRB?oc=5
-
-- ＜夕張＞社会福祉士の資格を持つ行政相談委員 及川憲仁さん（66） - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1emFmLV84T2ZkRGFhbDAyM0ptRU9BME56NVlDOVk3NzVwcGpnaFdkSnItUURxbUZWVnMwSHltZzljZWZhWTNOVWFVc183TkY0Z183Zmg3Y1o0Zw?oc=5
 
 - 「子どもが怖い」と児相に相談した夜 母は4カ月の息子に手をかけた [千葉県] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KcWlSVFJwaGs0dHFOYTFjc3RieXJacUZpcE5HUlVTNDNNcjlPUS1PTENKUXY3N3ZOTzA0WS1IUklUZzZzY2RYSTlpMnZCWEtmaWZlSXVqQkh5dFR4WHpOWE8wU3J6YWM?oc=5
 
-- 千葉県のカスハラ相談センター、ケアマネも可能に - 医療介護CBnews
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE94ZHpwT0RqVnVCOVFya3p3Z1hYZUU0Sm1UcmpOX1FiczRUS3I5UF9SM1pkUnR4bk9DRkVLWEI4bVozTFdDSk95VXhzamhKeHZYQklRRkE2ZEtJNUU?oc=5
+- 栃木銀行、豪雨被害者対象の相談窓口設置 融資など - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9yN1lxVjliRnhFUm9yLXFaYWhaNVhGWk16Smtwb3YzUlN3TFh3NlZjWmhJeFNMQkl5QzVDa25Nbi1oOTNCaXNMMHp4cEkxMWJ2cHRkazBNWGsyOUJBb2x1bVVGOVA3V05mV3k4Tg?oc=5
+
+- ＜夕張＞社会福祉士の資格を持つ行政相談委員 及川憲仁さん（66） - 北海道新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1emFmLV84T2ZkRGFhbDAyM0ptRU9BME56NVlDOVk3NzVwcGpnaFdkSnItUURxbUZWVnMwSHltZzljZWZhWTNOVWFVc183TkY0Z183Zmg3Y1o0Zw?oc=5
+
+- 移民・難民相談支援ネットワーク事業 第３回研修会開催のお知らせ（2026年８月５日） - 移住連
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOXN1ZHAyVks5QU9mczlkTmxIejlwbFZRQXlwTGRwZWFxbGhoQVlKbE5IZHNqUzJiWFdLTXNMeV85ek0wMFd4aGRvSHZuT2VzdmRB?oc=5
+
+- 「不動産投資をやりたい！」という知人の相談に乗る。｜楽待新聞 - rakumachi.jp
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Z1VqX2NVbFpSblJNeGU3ZHcyZU56VkN4YVRfYWx0X0gtOFhVVUtLdm91Ql9SNEtaYzhYVEdGV0RqT0gyZkpkcFZPWHBrb3llODAzWmtiU1ZRUQ?oc=5
 
 - 居酒屋でキスして出禁！？“ネタを書かずに芸能人と結婚したい”芸人にウエストランド井口｢無理だよ｣：ゴッドタン - tv-tokyo.co.jp
   https://news.google.com/rss/articles/CBMieEFVX3lxTE9YYTJPQWdhWm5hQkxMNWg4YUQzQ0RsVlhrQ2ZteE9kVHhTZ0NuTlVCMnlmMGJjazRuT1VocEtmS0VlR051UGxGZU53RU5MN3JSNlgwY0MyUHFGaF9FUmFxMkFfR2pQbmJMTGVoQkJKSy1oUERVZXdoWg?oc=5
-
-- 困窮家庭、夏休みの悩み深刻 食事量減やエアコン制限―ＮＰＯ調査 - 時事ドットコム
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DejRWT3cwSG1JeG13VHNYcmUtVkZoalBSMHM2Q2ZCakkwdnJYcDZJTTdVSURlWWp2YkVnSkhkdnpQSUxJMjhiblhKXzJkM2lzVHU0NzdWV050cXRCZk84NDFZOA?oc=5
 
 - cocola ハケン合同お仕事相談会 - 上越妙高タウン情報
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE10Yk5CUUZNX3JwS3lZUVNMdEkzZ1NxbzFkWDJ1eVh1djhFc3V4RHNJZnhZTDN1TTlJWXFHZHI2YTJRZWl4bkNmTEVMUi0wYTlBOHhIRjlqa1d3MEU?oc=5
@@ -45,18 +48,15 @@
 - 県信用保証協会と阿南信用金庫が合同金融相談会 - 徳島新聞デジタル
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE81NkpVbm1ienFfaUpvWUJxRFZEWGJJQW83aURLMVRQRWlub3pMZGc0S0ZMM2JEWkllNGMtVjhnQW1CckJPdnNySVV5d1o1YU1pT1VZUXBB?oc=5
 
+- 困窮家庭、夏休みの悩み深刻 食事量減やエアコン制限―ＮＰＯ調査 - 時事ドットコム
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DejRWT3cwSG1JeG13VHNYcmUtVkZoalBSMHM2Q2ZCakkwdnJYcDZJTTdVSURlWWp2YkVnSkhkdnpQSUxJMjhiblhKXzJkM2lzVHU0NzdWV050cXRCZk84NDFZOA?oc=5
+
 - 【macOS 27 Golden Gate】Mac最大の悩みだった「メッセージ」通知問題をついに修正 - BigGo ファイナンス
   https://news.google.com/rss/articles/CBMidEFVX3lxTE8yRm1VeUt6WDRCN0Y0S2NXSkUtV2laNkY2aEdTc1ZUcThFMklFUGRoeWxpeEduREhxUmkzVUU5aEM5cWlIcWluRDV3cUlGdTNYUUlKX2RPenRBVlpaNmRqeUg0VnNwSHJiWnRtaU02TjJWUTdJ?oc=5
 
-- 最も多い相談は「いじめ・嫌がらせ」565件…次いで「辞めさせてくれない」 愛媛労働局 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vQnczWWEycFljTGk5UDJvZjlXeEtfbHE2Tkp3WU1KeVl5bFdUbGUwUUdCQmFJZGFHLWh5OG9RV3VyUnc2bm41dXhuYS1lQVV3WjBEeGJ1UGxWUQ?oc=5
-
-- 障害年金無料相談会（令和8年8月15日）｜鈴木雅貴 - mbp-japan.com
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnb2J3VEFIYmtwZ0xqMWRJa3JfWGJ3dHdBT21QX3lTOU1mejN3cDc3bjhWTmJQMFFSNTVNOHhGWHhCdjJLc1JubkNSc2VDaklrcXNDN3J1LTJfR2hNdXVSN0w4NVg1Zw?oc=5
+- 落下・損壊の悩みに応え 楽器の調律などに使うチューナーカバーを開発 オクムラ楽器／京都府福知山市（両丹日日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFB4SEdYZXM2WnN1UUpiYVp3VnR5RS14dVZZWHh5N3IzSzZwVXZ5ZllPUDRiV19VQzV6VFcwbDlmeGtqQ3VOQl9DZEkwUmFwVjNoYWZES3NkdVpMZ3JyNXpoemQtdURBLXB1OFY3NkNXRXl6ZDBjMkVKTC1rUHI0UWM?oc=5
 
 - 【読者ベスコス】170人の美容ヲタクが選んだ！1位受賞アイテム・肌悩み別スキンケア4選〈シミ・乾燥・毛穴〉（VOCE） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdFhLLUtjamVwVzFpZWVmR1EtR0pYQUh5U2FwQ0NuVGg3cXFfYXp3RktCVjBibGlNcTFCeGg0Z2V5VkoyN2dZS2QteG1rWThvWElQUWkwZXNhMUJ0YWJPWnMzU1pTcmVSWXZvM2x5UHA0SmFNZlpPcDlkc2Y3cDQ?oc=5
-
-- 現金レス時代、中国地方の信金が新店舗戦略 岡山・玉島は相談の場に - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1kOFZwSzlTLWt6WlN4QWhXTXo5LWJDV0JqbHR0MVlEZ0VRRzR6dEJ5aXpXWkdBX2FYeWtWRG1hVmNVTE9fVUZkRndJcHlMaTUtN3VrOXpUeFdTTU1ES2ZlSjFSekpfNUpPSVB2aA?oc=5
 
