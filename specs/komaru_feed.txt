@@ -1,10 +1,19 @@
-=== こまる相談 ニュースフィード (2026-07-21 07:32) ===
+=== こまる相談 ニュースフィード (2026-07-21 10:14) ===
 
 - 辻村相談窓口、「記憶にない記憶」 - Design Stories
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDQ1FqNV94Zlg4bC1IM09GUnU3VF9NN2c3WWVEX29WRV9jbkFnOUdFWGpXeG5SSEZMSjdPbV9uSjJLbWZOTU1oSzN4Vy1TakMtMVBKZkZ5a0lzNWh5OElKVkpGRkFJdw?oc=5
 
+- 移民・難民相談支援ネットワーク事業 第３回研修会開催のお知らせ（2026年８月５日） - 移住連
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOXN1ZHAyVks5QU9mczlkTmxIejlwbFZRQXlwTGRwZWFxbGhoQVlKbE5IZHNqUzJiWFdLTXNMeV85ek0wMFd4aGRvSHZuT2VzdmRB?oc=5
+
 - となりの発達障害：京大生の息子はなぜ自死したのか 発達障害疑い大学に相談も - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTZk5oR2FLWU5BVUt0ZDVjbkVrSmZrUlRqOFJYcmZxcnZsSUx1dWplWmc3My1WaW10TzIxVW5XWnpCSk5Jd3NkTmdnSGs5TTJ5ZG51aE1MUlRpenZqekhEQndDbmVGeTI2?oc=5
+
+- 千葉県のカスハラ相談センター、ケアマネも可能に - 医療介護CBnews
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE94ZHpwT0RqVnVCOVFya3p3Z1hYZUU0Sm1UcmpOX1FiczRUS3I5UF9SM1pkUnR4bk9DRkVLWEI4bVozTFdDSk95VXhzamhKeHZYQklRRkE2ZEtJNUU?oc=5
+
+- 栃木銀行、豪雨被害者対象の相談窓口設置 融資など - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9yN1lxVjliRnhFUm9yLXFaYWhaNVhGWk16Smtwb3YzUlN3TFh3NlZjWmhJeFNMQkl5QzVDa25Nbi1oOTNCaXNMMHp4cEkxMWJ2cHRkazBNWGsyOUJBb2x1bVVGOVA3V05mV3k4Tg?oc=5
 
 - 最も多い相談は「いじめ・嫌がらせ」565件…次いで「辞めさせてくれない」 愛媛労働局 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vQnczWWEycFljTGk5UDJvZjlXeEtfbHE2Tkp3WU1KeVl5bFdUbGUwUUdCQmFJZGFHLWh5OG9RV3VyUnc2bm41dXhuYS1lQVV3WjBEeGJ1UGxWUQ?oc=5
@@ -12,51 +21,42 @@
 - 「業務時間外の相談はNG」東京都のガチ監修で描く漫画『消費生活者ターさん』のリアル（PHPオンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVHZxRU02aTZuVXBsV3Z3SExBOWtJUzNPQmV0aGFYaHNrSm8zYy1wSUlVd2VoQ1JXYTFPanpDQThrb1BzUnV1bTFSSmZHV2puaThYc0RJWDNaOW13bDF1THhZb0UwcWUybVdvczBSTktwcDNqRVBnZFFONl9YTUk?oc=5
 
-- 「生成AI開国の地」横須賀市の相談AI事業者に、つながりAIが選定 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5jVjlZcDJ4WDQ4ZFladHdkQVY4aFhKeHJhWVMwOGRHbGRSRlVFdkRpblBjNU41d2ppZXFHY2hjMXZrZUs2SWUtSURKTFUxWV8xOVh1cHcxZVdVdGdNdVBzTDF4OWNOTTlZUlE?oc=5
-
 - AIに「悩み相談」はありなのか 役に立つならデメリット踏まえて上手に使って - 産経ニュース
   https://news.google.com/rss/articles/CBMidkFVX3lxTFBnbFIxX0NMMkc2RF90S2hSUlVpY0lJbXBHdnhjZW5nMDJvRUtjMTNCZERmNDRpYXBtOHd1V0ZsdG1vQWF0NFFqSUxBWkhHQ0xBY0dBTEI0TloteGVoaGxNXzNuQ2R1NTA1aVpHb1NuYm9TaUVNVlE?oc=5
 
 - 悪徳業者に狙われる小規模事業者、相談件数が10年で倍増…守る法制度なく「弱い者いじめだ」 - 東京新聞デジタル
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OMXlaY0RvOFJnbm0zOHpqaTYzcl9obUx5OG5FdmxRODFxVHh3Y25PTlVRYkxMUzl5dDRTVm1YNlRCelljbnNqV2FDUVlXbmFCT2c0?oc=5
 
-- 葬儀トラブル増加、相談最多 25年度、高額料金など千件超 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Cc2VEV244QkNBam9ucGtKUzZzb252aXlleV9JblE0RUNJcFpPYVg3Sno0RnRES3owYVozSnZKQkVtQlJObldWRjQ4QQ?oc=5
-
-- 千葉県のカスハラ相談センター、ケアマネも可能に - 医療介護CBnews
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE94ZHpwT0RqVnVCOVFya3p3Z1hYZUU0Sm1UcmpOX1FiczRUS3I5UF9SM1pkUnR4bk9DRkVLWEI4bVozTFdDSk95VXhzamhKeHZYQklRRkE2ZEtJNUU?oc=5
-
 - ふるさとハローワーク(茅野市地域職業相談室)をご利用ください - city.chino.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMHhsTVR0ZWZMR2VJd3RyS0RNQmluSXVWelRhQlhMVUVaS0Z2VjgwRkRpNHRGaVlMbU5XcUhzS3FpQjhrUEZCTHE1VW82Q0RWc0c3T3J2UXFjMEpjTklKZlBJdw?oc=5
-
-- 【LINE公式アカウントもスタート】ニュースレター、オンライン相談会など お好きな形で！ あなたとつながる カイナハレハワイ不動産 - ハワイに住むネット
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aGYwWFJXWVNXcDJuSzAwNEliNnhfdFNteVVkQjE0MzBabGVJUkdBN3ROT2NKZ0l1V3E5d2NxV3IyMkpDMllVcUx1UmFDdlZuTERr?oc=5
-
-- 三菱自動車、こども向けの学習企画「2026年 小学生自動車相談室」開設…12月10日まで - CAR CARE PLUS
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYWlpSNTZROUdidkJlY0ZCMGZCaGpjWnh2dURPbHRLVnFxdHE2YVlsVDgyV2hudktlQVREWTBOYkFUUHRwR1piRFVDUU5YN3YzaUhOVm1mNTlJVkk2eUNaa2ZB?oc=5
-
-- 【子育て】「たかがイビキですから」相談しても相手にしてもらえず、虐待を疑われる!?しかし、のちに意外な病気が発覚【作者に聞く】（ウォーカープラス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE11R1YzMkJ2Xy0xSjNvcnZRTjgwakktU2RDeUVrdWtMQmNDbkg4cUV4S0p6eVFjSldncndVdkFlckhBUHN3Rm9NQW55WmN2NHFvalBIMk1MSmZNMVdNMjZOcEl6SUI2bGtlNWpQTUU4UkhaWDhiSm5uYVRwNWVCck0?oc=5
 
 - BaseMe内の就活生において「AIに最も相談した企業」1位はサイバーエージェント ― サマーインターン期はトヨタ9.5倍・ANA急騰、企業研究をする学生の4割が"面接で何を聞かれるか"を質問 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE53SFhaR0FIUXE3c1JYeVhzMHFUeUpnUVl4QVR6MlQ2dTk5eW5DclhxNzRnbWl5U182ZHZxTDN5MHJWdzlPeTJmbXFJNGZYSzFLUDlrNFNBbzg1dFhFaUF0bjNRZ0xNV1BqbVE?oc=5
 
-- 〈人生相談〉母の葬儀、友引に営んで後悔 回答・来馬明規さん（住職・医師） - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GOUk0dll0TWVPY2JQR1dyd1NNUXZEVm51ZWdWZmdqbHNFTERlbXlHUklaLWQ4cm9KNGV3bDVlYXB1SFQtakZiR2VtejhDWU5pTUpV?oc=5
+- 「全東信」破産 紀陽銀行・きのくに信用金庫が相談窓口を設置 - NHKニュース
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHTTRuUWFQMXlvLTUzMjYyR2pMNWUyWkxQZ0V6MUNtY3lPMDE1NnZhaVc4cXF1VVRzYzkxMlJaVGgzVGZfeUJHZjN4SEZsRWJmM2Y5U3Z0Mnc?oc=5
 
-- プレスリリース：［佐賀市］空き家の問題が深刻化する前に 7支所で出張相談を順次実施（PR TIMES） - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1idmZYVDhhbFdCb1FfaWdqOE9qdFN4VktQUlJjWkttNldzck5NYm04d2pfdmxZMU1Rc0JURTVJREQ2SHBISDJteDRwOXBneUs1UWpmN1ZjRTAyMGZ3WHptZlRvbFZmOWpi?oc=5
+- 教材もコピー機も使えるほか進路の相談も…岡山市の企業がオフィスを土日祝限定で「自習室」を提供【岡山】 - OHK 岡山放送
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VQUxHUVBWRUN3RVI5SzNxclBTME1IOFVCRGRqTXkwRmNxZm9CT0V2amZLNUpCbk1SSnlkZEVDcjA3aWhFeUFCMUlZUlZZaFowZnZ4SXJORC1sLUc4Z09iN0VmUi0?oc=5
 
-- 必要な成分を狙い撃ち！「ByUR（バイユア）」のスペシャルケアマスクで悩み知らずの肌に♡（CanCam.jp） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5TLWpzVE94LTlQTzV3RHp5elBodkhBVVBjT2gtTWhJaDJhLXZkRjJOQ1JZcE1xODUyMnA5czdhZWMwc3BGTkRPWU5zNG9UXzJjZWE2dU9EZU8tWk5KcWpLNXFkR0ZicVF0ZDdUVlYxNG9INGY1bGF6VjJMVTA4NFk?oc=5
-
-- 横須賀市、相談AI事業者に「つながりAI」を選定 - 電波タイムズ
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJTi1wNnhLY3dTYWcxTkNPcXp1TXlxV01yVm9sRGNxWWRaOE1aVzJRaEhsdmV5OFdMM3NhOUNZNEg1cUpiYU1xeVNDUUNob0RjYjI0eGYtMUIzamlVV0FJ?oc=5
+- | 多肉植物 サボテン相談室さんの苗が好き、その他色々 エケベリア 多肉植物大好きな初心者 サボテン相談室さん苗。今日もパーティー準備 コキリノSucculents Life こゆきさんちの多肉ちゃん サボテン相談室さんから購入したもの 詰め合わせ サボテン 韓国苗 D47 65株 園芸ネ - Sindicato Médico de Sevilla
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE03azFDWFF6VmZocDZsTU5ORWY4ZVUwOTNMRU5oa2xYVkdRTmRVZ3RIOWFMSDBiR0VuaEFvaG8teEl3R01zd29wc1JwWUc5MU9QNVo1MVNnZjhtdUY5NE95MTdWR2F6NlhtcEN0eXJWcXg?oc=5
 
 - 「子どもが怖い」と児相に相談した夜 母は4カ月の息子に手をかけた [千葉県] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KcWlSVFJwaGs0dHFOYTFjc3RieXJacUZpcE5HUlVTNDNNcjlPUS1PTENKUXY3N3ZOTzA0WS1IUklUZzZzY2RYSTlpMnZCWEtmaWZlSXVqQkh5dFR4WHpOWE8wU3J6YWM?oc=5
 
-- 京都銀、京都・左京区の店舗投資完了 個人向け相談業務を充実化 - nikkinonline.com
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE00LTZkWjV3a3dFdXRtdmhNQjJtOUZqVGdQdWNnX2FJX1d6X0hnVDVRMURxV29VX09YR3FmUFBwTF9uM0V1NmExSkhfS0xkUklXUGRoMGJ3?oc=5
+- 【子育て】「たかがイビキですから」相談しても相手にしてもらえず、虐待を疑われる!?しかし、のちに意外な病気が発覚【作者に聞く】（ウォーカープラス） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE11R1YzMkJ2Xy0xSjNvcnZRTjgwakktU2RDeUVrdWtMQmNDbkg4cUV4S0p6eVFjSldncndVdkFlckhBUHN3Rm9NQW55WmN2NHFvalBIMk1MSmZNMVdNMjZOcEl6SUI2bGtlNWpQTUU4UkhaWDhiSm5uYVRwNWVCck0?oc=5
+
+- 「生成AI開国の地」横須賀市の相談AI事業者に、つながりAIが選定 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5jVjlZcDJ4WDQ4ZFladHdkQVY4aFhKeHJhWVMwOGRHbGRSRlVFdkRpblBjNU41d2ppZXFHY2hjMXZrZUs2SWUtSURKTFUxWV8xOVh1cHcxZVdVdGdNdVBzTDF4OWNOTTlZUlE?oc=5
+
+- 〈人生相談〉母の葬儀、友引に営んで後悔 回答・来馬明規さん（住職・医師） - 東京新聞デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GOUk0dll0TWVPY2JQR1dyd1NNUXZEVm51ZWdWZmdqbHNFTERlbXlHUklaLWQ4cm9KNGV3bDVlYXB1SFQtakZiR2VtejhDWU5pTUpV?oc=5
+
+- 【LINE公式アカウントもスタート】ニュースレター、オンライン相談会など お好きな形で！ あなたとつながる カイナハレハワイ不動産 - ハワイに住むネット
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aGYwWFJXWVNXcDJuSzAwNEliNnhfdFNteVVkQjE0MzBabGVJUkdBN3ROT2NKZ0l1V3E5d2NxV3IyMkpDMllVcUx1UmFDdlZuTERr?oc=5
+
+- 必要な成分を狙い撃ち！「ByUR（バイユア）」のスペシャルケアマスクで悩み知らずの肌に♡（CanCam.jp） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5TLWpzVE94LTlQTzV3RHp5elBodkhBVVBjT2gtTWhJaDJhLXZkRjJOQ1JZcE1xODUyMnA5czdhZWMwc3BGTkRPWU5zNG9UXzJjZWE2dU9EZU8tWk5KcWpLNXFkR0ZicVF0ZDdUVlYxNG9INGY1bGF6VjJMVTA4NFk?oc=5
 
