@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-07-20 23:47) ===
+=== こまる相談 ニュースフィード (2026-07-21 01:45) ===
+
+- 「生成AI開国の地」横須賀市の相談AI事業者に、つながりAIが選定 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5jVjlZcDJ4WDQ4ZFladHdkQVY4aFhKeHJhWVMwOGRHbGRSRlVFdkRpblBjNU41d2ppZXFHY2hjMXZrZUs2SWUtSURKTFUxWV8xOVh1cHcxZVdVdGdNdVBzTDF4OWNOTTlZUlE?oc=5
 
 - 悪徳業者に狙われる小規模事業者、相談件数が10年で倍増…守る法制度なく「弱い者いじめだ」 - 東京新聞デジタル
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OMXlaY0RvOFJnbm0zOHpqaTYzcl9obUx5OG5FdmxRODFxVHh3Y25PTlVRYkxMUzl5dDRTVm1YNlRCelljbnNqV2FDUVlXbmFCT2c0?oc=5
@@ -6,17 +9,26 @@
 - 葬儀トラブル増加、相談最多 25年度、高額料金など千件超（共同通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBibHVaT2publZ6ZUs0Z3FKNFRVMW1ndjJCZnlDUUtVWkFiYUlkMkZia0xUaEw2WkVsR3VfMEVnX3ZybnBKdmZLSjZQaUNvYTR6UUZ4dm8xUnAwcW11cTlDMUxmWWtCQ191aWZ6ZFNxMTAxZXUwb01hdkhZcng4REU?oc=5
 
-- 【登壇情報】7/24(金)「長崎市災害ボランティアネットワーク構築 相談会」に代表理事の山田が登壇します - 公益財団法人佐賀未来創造基金
-  https://news.google.com/rss/articles/CBMiywJBVV95cUxONzMxbGlVUE9CdnAwRm9JVGppMDVQd1QxWC1xLVFhQlIwdHhSZXoxOGVBc25YbllyTHhpZUdDVGowemNCMnV2NWY1RExWUEE0ZHJoRzlYT25uUlc0NlFuOHQ0emVxM01jSDJPNW9Jdk1ZOWFKSWFEN3JFLWM0TmxNOXZhdTFoeExSbmF3SVU4SHdIX1JWV2VIdVF2eS1hcFJfV0NweENHRTVsWmV4MUlWUjZBamZWUDg0QzR6N2hTMEZISXk3WGV2dGxIcjZfS3ZCN296d3N1NW1pY2JoRXVwOVBxSXl0aFlqZThXWEg0WTFRUnZpVE04TWFFeTVKcUFpWFNYQ0RGUnd6UUJXc25kN09iNDR6XzdvdEdQV1EzNG1PUWZNTlAwVUExY21YRGhDcUg2clp3WkRtYm0tYVJidzdvX1JQdWJhdlNZ?oc=5
-
 - ふるさとハローワーク(茅野市地域職業相談室)をご利用ください - city.chino.lg.jp
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMHhsTVR0ZWZMR2VJd3RyS0RNQmluSXVWelRhQlhMVUVaS0Z2VjgwRkRpNHRGaVlMbU5XcUhzS3FpQjhrUEZCTHE1VW82Q0RWc0c3T3J2UXFjMEpjTklKZlBJdw?oc=5
+
+- 【登壇情報】7/24(金)「長崎市災害ボランティアネットワーク構築 相談会」に代表理事の山田が登壇します - 公益財団法人佐賀未来創造基金
+  https://news.google.com/rss/articles/CBMiywJBVV95cUxONzMxbGlVUE9CdnAwRm9JVGppMDVQd1QxWC1xLVFhQlIwdHhSZXoxOGVBc25YbllyTHhpZUdDVGowemNCMnV2NWY1RExWUEE0ZHJoRzlYT25uUlc0NlFuOHQ0emVxM01jSDJPNW9Jdk1ZOWFKSWFEN3JFLWM0TmxNOXZhdTFoeExSbmF3SVU4SHdIX1JWV2VIdVF2eS1hcFJfV0NweENHRTVsWmV4MUlWUjZBamZWUDg0QzR6N2hTMEZISXk3WGV2dGxIcjZfS3ZCN296d3N1NW1pY2JoRXVwOVBxSXl0aFlqZThXWEg0WTFRUnZpVE04TWFFeTVKcUFpWFNYQ0RGUnd6UUJXc25kN09iNDR6XzdvdEdQV1EzNG1PUWZNTlAwVUExY21YRGhDcUg2clp3WkRtYm0tYVJidzdvX1JQdWJhdlNZ?oc=5
 
 - 相談先に迷ったら『まるっと』で！川西市に高齢者等の新相談窓口が開設 - ｄメニューニュース
   https://news.google.com/rss/articles/CBMifEFVX3lxTE4zQkhXOHpNanRTYVRXTHVSRDRFMnRvMmRuVlBkUzN2SzJfaWhMYmdUWkJyQjhpbzR5RlZYMEhUQ05vOEdCaEhGRHB0cWc1SzJBN2hQai1KVEs0RmRBei1HemlaN1JhQllENVFReUR3bVFaNEk0X0ZWckUwSXnSAYIBQVVfeXFMUFIzVWxwQnVwZDVPWnZTc21RbWlYMzl4MmxFSEVlcTE1c3FGeWNUMXJkNXdZTFBqRGthNmQ5WndZbUxsWUtsSWkyOWg1OUVfOUpwcEZPTG9kU3d6bWxvaGY0MDVWVUU5WmVkbF8tTGFKMVZFZC1VNGQ4alNNeExHakpaQQ?oc=5
 
+- 三菱自動車、こども向けの学習企画「2026年 小学生自動車相談室」開設…12月10日まで - CAR CARE PLUS
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYWlpSNTZROUdidkJlY0ZCMGZCaGpjWnh2dURPbHRLVnFxdHE2YVlsVDgyV2hudktlQVREWTBOYkFUUHRwR1piRFVDUU5YN3YzaUhOVm1mNTlJVkk2eUNaa2ZB?oc=5
+
 - 「気象病」相談増える 太陽堂漢方、専門薬剤師が対応 - ニュースイッチ by 日刊工業新聞社
   https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vUFBzdDVxVXFzazZUaHpPa0hWU3NiVnVuaXhsVDAwRmEwZ1A3a2ViTW40aDh4OUVFZzRHb3JYRlkwdw?oc=5
+
+- 葬儀サービスに関する相談件数 - 葬儀トラブル増加、相談最多 25年度、高額料金など千件超 - 写真・画像(1/1) - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mTWpfeURyMUt3Tmpod1RrRlB0Z2M2QVc5M3VvSXZJYW9Oamw1QlVKWXdPZlV3N1owYW50TG12dVBXcHQ3WWJPTEFkbWV2Q1hycUtmWmVxTQ?oc=5
+
+- 「子どもが怖い」と児相に相談した夜 母は4カ月の息子に手をかけた [千葉県] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KcWlSVFJwaGs0dHFOYTFjc3RieXJacUZpcE5HUlVTNDNNcjlPUS1PTENKUXY3N3ZOTzA0WS1IUklUZzZzY2RYSTlpMnZCWEtmaWZlSXVqQkh5dFR4WHpOWE8wU3J6YWM?oc=5
 
 - 横浜市×つながりAI、子供のSOSを24時間受け止める相談窓口「友達AI」の実証開始 夏休みの孤立を防ぐ - 教育家庭新聞社
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JSWlJN3B2VFBIQ2kzcHE0WUVYVjR5YmVPa1JIczM3LUY4UlNVbDQzOW5zdEo5V04zbk9VbERQVExqZ2IwREI4SHNoVktvMWdSdE5N?oc=5
@@ -24,39 +36,27 @@
 - 足利市が相談窓口とコールセンター開設 罹災証明などの発行も 21日から31日まで - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1POW51Y3ozSkdsVU1VQlhaRFBUWWlzQ09Ga3MtR0w4aXpNZGVaX0FnQjNFbkswOGhtdGgyYlpiV2xVNkpTMU1MSV9TTWVrN0x3bFVmQkpDVU83Vjg?oc=5
 
-- 「子どもが怖い」と児相に相談した夜 母は4カ月の息子に手をかけた [千葉県] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KcWlSVFJwaGs0dHFOYTFjc3RieXJacUZpcE5HUlVTNDNNcjlPUS1PTENKUXY3N3ZOTzA0WS1IUklUZzZzY2RYSTlpMnZCWEtmaWZlSXVqQkh5dFR4WHpOWE8wU3J6YWM?oc=5
-
-- 葬儀トラブル増加、相談最多 - デーリー東北
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TS2xoQlY2R3U0R2tpaFY3dG50V2VWYjFRY3FFbHVNcG9fam5YeHBTQmZuWS1lM0RkdG5RZmtNalA3ZWhVX29KZXNtc1ZUeDR4OGdRVUZtREdqT295WGhURGdhdm03Zw?oc=5
-
-- 葬儀トラブル増加、相談最多 25年度、高額料金など千件超 - nippon.com
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QUDBjS1A2NmR0d2ZYNzNSVllTQlBNR1J3Ri1IRHFJV2tzQ0R5TGVwekdpbTZiTzV3NGEtUmdZZ2VRbk50QkduMEhzNTRscUd6X21DU0pURENRM0RhU1Q0MGFEQQ?oc=5
-
-- 中東情勢の影響に関する支援情報・相談窓口 - city.minamiuonuma.niigata.jp
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UM0VfakRuMC1ZYmx1SncyRjMxb3VNQXNyaEdDVW0zc1N2QnBKdk5IZUkxcnNhdHQ0OExvUkZJSlpHUU1aQWFWWEtkaGtDaDh1ZWJPNEQ0X1BIcGpXdU9CeThTREV5UEU?oc=5
-
-- 相談したい - city.sakai.lg.jp
-  https://news.google.com/rss/articles/CBMilgFBVV95cUxORVNiSl9kVVp0Ul9qS2pBQ2czemU1UWo2UXlSRG13UUtYX1ZzLU5HRDlmN0xjNTVpSnVrNFVlT3BqeVN5VXlCNlcxQXpIU2RwbW1XR0pXSlU1dTQ2alNsVHBQZGxlQ0dkaEZjV0d5Tjh2SGV4d1RpV25RaTNKMFZmbVVaTUVZMUdXZk5KU0tjdTJJQ2tTTWc?oc=5
+- ■３１日に県内１２カ所で土地家屋無料相談会 - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE93VV9QRUh5eDVWNzFnNVZPTGNGRDhVdjQ3TkZOZzVFV3pFb2k1REdZYUh5WENxWjQ0ZzJ1UmwyOWhCNGdqZmtnVmozS2lLQU9NRjF4bWhINTdSa0NEbjFVOA?oc=5
 
 - 組織内性被害、6割超が「誰にも相談せず」 その理由は？ 熊日アンケート - 熊本日日新聞社
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iWGhuVW5OSlkxa0gzZ2FHbHcxR1JOTnRINllzUVBfOVRzR2hXUmFlVUU4emNXNnFfUGpVNXZwU0w1c090ZnJGTFl5c3NUU2s?oc=5
 
+- サテライトオフィス、企業向け法務管理クラウド「B-Law（ビーロー）」の提供を開始 契約管理・法務相談・稟議・社内ナレッジを一元化 - Newscast.jp
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KMUFvU1c0Q29oOUJESzNRSHNSZGpYMnJnWDRfQ0hFcWV0eFVMdE1QQVVGeXo3ZTNCRkZwelVVNWk5T1hnQ3NzdTFXT1NjQU0?oc=5
+
+- 葬儀トラブル増加、相談最多 - デーリー東北
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TS2xoQlY2R3U0R2tpaFY3dG50V2VWYjFRY3FFbHVNcG9fam5YeHBTQmZuWS1lM0RkdG5RZmtNalA3ZWhVX29KZXNtc1ZUeDR4OGdRVUZtREdqT295WGhURGdhdm03Zw?oc=5
+
+- 帝国不動産、賃貸住宅オーナー向けイベント「資産の大相談会」に出展 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFB3X2tYYkJYb1F2WHpyLW1hTDlHcTRNdC1sVWdWU3VHbGF3am54NEduY2RwVGR2T0RvS2ltS1kwcTJKalRjTm9rZzA4TF9BT1gxM2FuS1JNUXczSXpTaEV0TTVhUXpvcmZwNnc?oc=5
+
 - 〈人生相談〉母の葬儀、友引に営んで後悔 回答・来馬明規さん（住職・医師） - 東京新聞デジタル
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GOUk0dll0TWVPY2JQR1dyd1NNUXZEVm51ZWdWZmdqbHNFTERlbXlHUklaLWQ4cm9KNGV3bDVlYXB1SFQtakZiR2VtejhDWU5pTUpV?oc=5
 
-- 葬儀トラブル増加、相談最多 - 下野新聞社
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE90bWlVUU5SYjhMenRGQVFrenVJWGxzdG5CbzVqdTY2S29jZ2dMRkJ6R2s3VVh1X2FiSEFVeEpiNE93Q2xoelZqcmQxbU8zYW5yUzFtaU1Vb1FtaWc?oc=5
+- 夏のマットレス、8割以上が「寝汗」に悩み！洗えない寝具の“汗ジミ・ベタつき”衛生に関する実態調査 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFA3OWpzQVphTURScE5tSUl1a3ZheG9TcWxTaVBSYkdyZ1NlUDN3Ny04MzVkVUFiUE9Zc1loQklKZ0x0QWR5NjJpb0ZXSVVoNGJabTdCOGROa3JaUEhmeU43V2tjQzJMUU13a1E?oc=5
 
-- 「罪悪感から解放される」 アメリカ人が母国での悩みを吐露 日本では悩まずに済んでいる意外なこととは（Hint-Pot） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5ib05ZMTRvdURHTEdscFNxS1Exc1VILXJyckdXYXFLb295ZGlJUkFqR25uVjdDeVVZNWVKYVBRWVJaZWJsRGFHbV9LdUNrT0RfdEJHOU4tMmpzQXhOWjhvMFhRQlpKM0xUNDd3TTJjeHNFaUtaOV9EMjBTRmk3ZWM?oc=5
-
-- 全東信の破産手続開始に伴う特別相談窓口・支援策 - city.minamiuonuma.niigata.jp
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UN3RTU0J3bzBmLXVBWkpDaWF4NGNQa0ZFa054ME5rSWE1b29yUV9LVktpN1ZVYzBOcmhmNEFlUkJ1TWpCT2syTVhKSmFwdldwZUE3WWJzZlc2U3pEME15OVlCQ2J5cVk?oc=5
-
-- 組織内性被害、6割超が「誰にも相談せず」＞組織に対する根深い不信感 大阪大大学院・水島郁子教授に聞く - 熊本日日新聞社
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xWV9vVFlUX3Q4cHd1QWYzWllkc2cyUHUybmZNTU16OTdBVEhMWVhJMFNCQmtFNkVnQWlLZW14XzlEa1NsbTZyRUo1cUJldG8?oc=5
-
-- 足利市が相談窓口とコールセンター開設 罹災証明などの発行も 21日から31日まで - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ENlM5TGJuU0c4UEREaU1KaTg4ZGdyNndEbzBNZ2IyZlViRHdtaVBHTFdSYUg3Qk5WbHZleVR5YXktOUgtQUNDOVpxUQ?oc=5
+- 【再建築不可物件を所有して困ったことランキング】経験者81人アンケート調査 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1YWk02VVptaU01YmQ5MDZUbFB4SE13ZU95Qi1FWXZrb2F3Z0tKTUxCTHlncWxfanhwcW5zeHJ1NURYRnFUcW92T0VUZXlydHZRdk5PS2Y0Wi1xYm5zN3JUMk9XeVg1OTBLNWc?oc=5
 
