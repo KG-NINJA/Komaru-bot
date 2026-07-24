@@ -1,13 +1,22 @@
-=== こまる相談 ニュースフィード (2026-07-24 05:10) ===
+=== こまる相談 ニュースフィード (2026-07-24 08:07) ===
 
 - LINE「AI相談」の試行事業について - city.sanjo.niigata.jp
   https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHd1clpTSDg4cFRhb1FxcnQ1Z2x0MFozZXZGSU81ZXJNTlJFSTB3LTYyeFhSZExTS1BkQ3FTSEJUdTQ1SVloV1JiTExFU19ISWJSZkprODg3bE4wTUpvSEwyVWxuVTlwWnNJV2YwcGJSRGd4clhKMmxZS3RHOUZWX1VrWVZGbTl1SF9rcGFaOUdIbnJnSWhQZS1WejBDSnJf?oc=5
 
+- 「つくってうれしい ブックカバー」～荒川区若者相談「わっか」尾久図書館出張イベント～ - city.arakawa.tokyo.jp
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTRYaXBMd3p4ck50cEc3WUItRkJvanNUd2dpemVDUDcwS2hZUE1yckZMM1dWcXljZ3EzQnNSNUtSRGJFSmpwTmhfNWVDcWtzWXBSQkRLR2VNdWc0Y2JyQm1ack1qY2NpTFhMZnZRa3NJWTdtMGswSHNyNU9SS1UweS1wbWpuVVpXdUloVUlEZnc?oc=5
+
+- 消費生活相談員になるための講座のお知らせ（消費者庁） - town.mitake.lg.jp
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtd0xISUxxM2ZvYjFFS0NxeVNDNkhRRjRRM2h1di04aWgwb2pUQ2xxSFJoODlUZ25jTEEteFNlcmhxOEVEZkhZX0s5QXNGdXF3M2ljMmN5Rmk2Rms?oc=5
+
+- 「ニセ警察詐欺」守秘義務を理由に相談を禁じて孤立させる特徴…「権威への服従」心理現象の影響も（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFA3LUVrZUlOblhFSndITzZYbFZvMWdDdmFkdTh6Z1RxVUVrdG50V1FrUVFBQzFnRUo5dVM2cE1zV1JvZ01wcmk5N21ZeFZOVmJxMVhMUjAyQ1JVVTVqQVdWYXp2cGdIZm96NklrbUFGNEFBU05TUzRSNjV1OTJJQlk?oc=5
+
 - 繁華街に集まる若者のソーシャルワークを担う、相談対応スタッフ募集！精神保健福祉士・社会福祉士の方歓迎！ - 認定NPO法人D×P
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CZkFGU2IyZWFON0htd19yYkltWTltOTM0TWhyemhCNmhrc280U1IxQ3hGVHlYRnk0UjEzU25MUEhWdzA1cU82ZWwwR1AyUFY0NjV2TklpNA?oc=5
 
-- 児童虐待の相談件数、宮崎県は前年度比２７１件減の１７１６件だが高止まり傾向が続く…２０２５年度（読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE56bDFBTUVpZ1lNaUMzYWVKN2pRZmpBYU12NDBLWmtVWVZKdE81NWxkaUVsUVRWY2hXNlVVUTBRUURsZ1VwWXBiUkpQcGxJMGhsOGZSOURjbU5rVlJOR2NiMGlUakxSRVIwNGNpZVVWOWpEVVNlNmI3NE5zYlVJX28?oc=5
+- JCVがリオン・ドールで相談会＆番組上映会を開催！7/25（土） - 十日町タウン情報
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCRUhXdHBEVWpHTWpWVjE4Ylo0c2ZtbWs4Qkp5b1NvT19JRGtTbHpGODhHcGZ5bHdKY0NlSmkzZkJLWmtNRmNlRTZGX2RST2d3M3NQbEN6cUJpeXRSOTNrTDJxaw?oc=5
 
 - 品川区に学生向け創業ワンストップ相談窓口新設 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE03dzlWUXB1d3VVVnNueHh1TXdKRGJpX3p6ZUpNX3QwbFpyT2ZqbktYSWE1SlFzTGFRdkJjR01ycElIMVJ6ZmhBMjdkMVA2RVI4QVUtSW9YOXVTeE1vTGo5bmdyUy0zMm1CLWc?oc=5
@@ -15,29 +24,32 @@
 - 子どもの悩み、ＡＩに任せて！三条市が「チャット相談」試験導入 LINEで24時間対応「深刻なサイン見逃さない」 - 新潟日報
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rVXpYNTZ4OUI1cHE5eTRrWDU2ZDh5X0hyczduX2VVMGJDc2ZMWFhIMndWbkhMUk9wVy1fcEVxSEJCTG1UMVNFUTZXdFVjalJUb2tRVUUtZlRyQjlWWmc?oc=5
 
-- 辻村相談窓口、「仲間外れ」 - Design Stories
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ENC1odnk4UWdrLUZyckg4aXFPbXppb0I0dXYwT0lURGE1bWZha0lzMDRERzRNemp2dWFxTFR0QXBQN0lYU1BkVjhQN09XVFBXb2MtNkNPMDg1TjFXU3FEcHRaTkpCdw?oc=5
-
 - 都市部でリフォーム専門店の出店を加速 「カインズリフォーム ルミエール新小岩店」を開業、都市小型店8店舗体制へ ～くらしの困りごとを気軽に相談できる接点を広げ、新たな相談インフラを目指す～ | ホームセンターのCAINZ 公式企業サイト - cainz.co.jp
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zTjR6ZnhPeXFEZFFxbXRPa0tLRUxMSGkzYW5FTE8yd1VkWU5xNS02eFNuQU9sMDRzNWJXR215YUEyUE9IaGUxU0NTRQ?oc=5
 
-- 「ChatGPT ヘルスケア」が米国で公開、さっそく医療相談してみた感想 - CNET Japan
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ycHlFZjZPc2oyQW1oSXlwV3llTGNMSVhTT0VrYlh4X2lpMzNXd0hxdFFtOHVsa1hFZW9QZVpFY1J0M0xVenFNN1RtVFUxcTBfMHc?oc=5
-
-- 令和2年度テレワーク機器体験会、導入セミナー・個別相談会 - pref.shizuoka.jp
-  https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFFHN3BxUmkxd0xGZmI3QmJkQThxOTlCTmc0ZmxzbWhaUUt4T3hWSkJkM3lLWDYtZWxjc2pmT3hfZXJCWDlicUQxaXd6WGE5MVZRcFNJeGd2eXkyR2ZBSkRMQl9sOFZITkdYRnZERVV4dWdCTjNDVHFFOS1HcTlfdG1JMVJPdUJMS2U0UnYtaVZUNVZ2WU5Da01B?oc=5
-
-- 相談窓口 - pref.miyazaki.lg.jp
-  https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhZZHRNQ2RRbmRoNlAwYThMeTlac2Y0TjB4U2tWNGZZN2lxcXdUVTYxWk1IWDB4SzRMV3ZjN1luaWpvaERTX2RDSjFLQ3ExOXFYbDRoTmFmaXRoQW40MHhMNWFHTzN0N1VsMEdTNGxCRU85RHhhZURGZkpGTnRsR0ZZcWY3RXJBN1duakVwT19pRUt3OGxF?oc=5
+- 辻村相談窓口、「仲間外れ」 - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ENC1odnk4UWdrLUZyckg4aXFPbXppb0I0dXYwT0lURGE1bWZha0lzMDRERzRNemp2dWFxTFR0QXBQN0lYU1BkVjhQN09XVFBXb2MtNkNPMDg1TjFXU3FEcHRaTkpCdw?oc=5
 
 - 取引なくても経営相談 大垣西濃信金が新サービス 営業エリアの商工会と連携：ニュース - 中日BIZナビ
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EcXZuOWRCdWkxSWk2aHBnRE9vYlBBM19sZzc0SWVNV1Btc2Nwd0t0WUFZdEVUNE5pYkV3SndHcEx6d3duUlFha2RWbm5JVVdseE52SEc2ajhUYWM3enpj?oc=5
 
-- 太陽光・蓄電池併設…SAWADA、導入相談急増 - ニュースイッチ by 日刊工業新聞社
-  https://news.google.com/rss/articles/CBMiQkFVX3lxTE94V0N0akRGSy1CVEhHaFBJWjBzbGR0T1c4ZkEyNVZ1ZEFTSWk5eTB5UGlmaURpX2dIeHFFMndvZW1QUQ?oc=5
+- メンコンカフェに一斉立ち入り調査…未成年者利用の相談相次ぎ 歌舞伎町（2026年7月23日掲載）｜日テレNEWS NNN - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE1KRUY3Z01RSWhzb1BDbHlVdmh6bnh3UFZhR2ZySnFPeEw4TG9sZkxuRmU3MFNyUHZwQ0IwRGprTm5LdGRGRjR4VlNTY0gwM3VrOThzaHhBZ0QxWkp0SkpIVmgwaEVPamxqaVlFRF9vNkgwOHEwR2t5alNuVUs?oc=5
 
-- 標高2450mの移住相談会。長野県大町市、日本一高い場所で開催する「爺ヶ岳 移住セミナー」を9月5日に開催！参加者募集中 - 山と溪谷オンライン
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kUkRVQ3YzQ3I2aW1YOTVlMUNmOWZpMDhsOVQ1SEU1bXlQZ0l0NGtrVDR5aDJkRGRrNTBpaUgwQVg0ekFxek1UektJejRWeHltME9YTkNueXduUk1tLWJMZTVlYzd6azFM?oc=5
+- 相談窓口 - pref.miyazaki.lg.jp
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhZZHRNQ2RRbmRoNlAwYThMeTlac2Y0TjB4U2tWNGZZN2lxcXdUVTYxWk1IWDB4SzRMV3ZjN1luaWpvaERTX2RDSjFLQ3ExOXFYbDRoTmFmaXRoQW40MHhMNWFHTzN0N1VsMEdTNGxCRU85RHhhZURGZkpGTnRsR0ZZcWY3RXJBN1duakVwT19pRUt3OGxF?oc=5
+
+- 甲陽学院中、「入試相談会」等について|中学受験情報 朝日みつかるナビ - 朝日新聞
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vRGYwNVNLM2FpZDBFRnVPQmljOTFaS3MxNkpQVldUWWF5ZXR4MlNkSWRLeldEMFhEcnhWemotdVRSVDVVcmY3ZVVIZE9PT0dxSHl5eGNwd1k?oc=5
+
+- 「ChatGPT ヘルスケア」が米国で公開、さっそく医療相談してみた感想 - CNET Japan
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ycHlFZjZPc2oyQW1oSXlwV3llTGNMSVhTT0VrYlh4X2lpMzNXd0hxdFFtOHVsa1hFZW9QZVpFY1J0M0xVenFNN1RtVFUxcTBfMHc?oc=5
+
+- つながりAI、横浜市でAI相談サービス「友達AI」実証実験を開始。夏休みの子どもの孤立・SOSに対応 - AIsmiley
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE8yeEdsTFFhRDFFSklDdHpiLVlMQlZNdUVaQ1oxMWpRX3FETUpQMTdOc1ZaSGtFa0pYd2s3N2ZBUFljOHFqZ0RRV1AwTzNhVEtvbTZoNmhPNFN0ZjhMVFh6anN4cVhpbTBTNG0w?oc=5
+
+- 児童虐待の相談件数、宮崎県は前年度比２７１件減の１７１６件だが高止まり傾向が続く…２０２５年度（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE56bDFBTUVpZ1lNaUMzYWVKN2pRZmpBYU12NDBLWmtVWVZKdE81NWxkaUVsUVRWY2hXNlVVUTBRUURsZ1VwWXBiUkpQcGxJMGhsOGZSOURjbU5rVlJOR2NiMGlUakxSRVIwNGNpZVVWOWpEVVNlNmI3NE5zYlVJX28?oc=5
 
 - 【池内自動車】2026年上半期・自動車修理車種ランキングを発表！相談件数は約1.9倍に！ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE84aXdXekRCYW9BNnR4TGVVX2RMQXlPV0ktWUZUUXptU3RqOXNWdVBtTVFUcTVCVmhIcmtncFNlcW1YMEViRFg3NzNxTTJ2Mlc2Wkx1NnRveWM3OFRkUFhjcUVZZm9JQ25Gd1E?oc=5
@@ -45,18 +57,6 @@
 - 【 がん闘病 】石原詢子 『ジーラスタ皮下注射』の副作用の悩み「首や腰辺りから筋肉痛のような痛みが出て全身が怠くなります」 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5xal9sREJYRVBDQlRCeUhfYzRsSnpXM2VTN3JOdkFaSnB6WjgxQWFsTjFlUFRab0VFRkt6WUFUZHlRZjRNeEs3RXB5VlNtdGlsdmF5SE9DLXZ0Y1VwelJrZFUyRlhwR013TXVwdDdNTndZOHJVcGlRSmYwN3NEMjg?oc=5
 
-- 宮崎県内児相虐待相談対応件数 ２５年度１７１６件、高止まり（宮崎日日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE12bGNkVm15QU81SUw4NTd2eUZQRjRjQXI0UkFrNkF0Y3NNUXlzRndHSVAwbEcxUlFTbnJLWG43dk1VTDB4VmtKNlpyNnY3QkFLcDE2Z3BFbzctc0wwTHlTSnlmcHVKMDVhUzV3aUdWaVpLdzZ5cGU1YnBnUFU2RXM?oc=5
-
-- 障害者家族の不安に寄り添う 大分県社会福祉事業団の「親なきあと相談室」設置から9年（福祉新聞WEB） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5xeS1xWlVVcmoyMFI2RVpGY290a2JsMVNLUHd4YndBMy0yM3FyLVZaSDJrUEtUWGF1VXBTSno0WktEeUlkRW44TDVHeWtLQ1JodHViZnZfOGo5YmN1LTFaeDR1by1UVzVtUEpBWUVWWlcxOWEyRXhhbm5mRUlLRWM?oc=5
-
-- 「家族を殺す」との脅しに「逆らえない」は通用せず…闇バイト＜リクルーター役＞の男に有罪判決、裁判官「警察に相談すればいい」（読売新聞オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9VLWcxdS1UcmhzRkgtN1YtZlp3WUNvZy1QTm1uOE9qQ0E2al83cVltbGw1d21VY1k4U1pvSTE3dmN5VzlBZ0o2WVVZVEFvQ21TazdpVWNSRVNFQ28zQmpZYmNEQmdUaDFRRjBDcnhxR1hBbVNNMmp1RFowLTFmaDQ?oc=5
-
-- 妻ショック…1600万円を失う 「忘れた」の電話は孫じゃない 信じて現金を用意した妻、自宅前で手渡した 夫や娘に相談、詐欺に気付く（埼玉新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWXpTblJMMTFmdHNrcVJUam04aHRLdi15eERZNjFhN0VuQTM5QzhoVU9WMF9SV2JYV1dUMEVUbVUweF9BOFBMOVN0RmZJS2F1Y0hyZW1nZjlQcnFwelZ0NElhUmNwUkNqN3NSVTlTRDFqWFFQNEkxc3cwRlJiZHM?oc=5
-
-- サイバーセキュリティ相談窓口の相談状況［2026年第2四半期（4月～6月）］ - ipa.go.jp
-  https://news.google.com/rss/articles/CBMic0FVX3lxTFB4MmRPUEJzbnJ1QXA0Z0lfNjFpSWJOZk5Qb0VlM2NFN0t6ejh6OWRLamRRbjFpa3NZZUhMdENoSUxKcEFxb3ZzMjh4NUV3a3dGOTJXYnc5MmZiN2d4Um5yMGl6UVBrbEF0a21US0g0RzRxa2s?oc=5
+- 標高2450mの移住相談会。長野県大町市、日本一高い場所で開催する「爺ヶ岳 移住セミナー」を9月5日に開催！参加者募集中 - 山と溪谷オンライン
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kUkRVQ3YzQ3I2aW1YOTVlMUNmOWZpMDhsOVQ1SEU1bXlQZ0l0NGtrVDR5aDJkRGRrNTBpaUgwQVg0ekFxek1UektJejRWeHltME9YTkNueXduUk1tLWJMZTVlYzd6azFM?oc=5
 
