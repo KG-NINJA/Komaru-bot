@@ -1,13 +1,13 @@
-=== こまる相談 ニュースフィード (2026-07-26 12:57) ===
+=== こまる相談 ニュースフィード (2026-07-26 14:26) ===
 
 - 都城市で大学生の夏休み自由研究相談会 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rOC1LV09xdDZ0NUthRG1CUVVsZWNZdVJJWVFjNXV5ekQ3RUtBMEdYOU5JY19tc0lMWU1rbFFrQmUxR2pfenBnaV9CbkR6SHk2QV9MUDZyQ0FsQQ?oc=5
 
-- 福岡県消費生活センター ホームページ - pref.fukuoka.lg.jp
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE5Jclk3RHlaRkdJRWlKZ0ZQWkpCQ2lJSW80R1VqV1NSUUdOUVJFMFE0TFVtb0ZHaGdhUDhmYmkwbnpNT0p4cVpIOTg4YnpBUmJmZlZxVUdOdE44ckRIYldGNG9LSWxlTlRLcEYw?oc=5
-
 - ChatGPTに悩みを相談し続けて4カ月、「あ、ヤバいかも」と思った話 - ライフハッカー
   https://news.google.com/rss/articles/CBMikwFBVV95cUxOVzM4OC1adDNFSlU1emJoYWg1Q2ZGMVU5d1N6NWlFRlZWRmRublA0dFdfTWloWkh1cDVLby1ZTnhQMl84YW45aFpJeTRldGFkVTdocWtKS0M5cHNFeGowdV9MTnBta19yV1VZRV9vby1hOXYtQl9xX0RKNFh1Q1lNMjc5ZFdxeWtLY05lam5jdnM0aUU?oc=5
+
+- 福岡県消費生活センター ホームページ - pref.fukuoka.lg.jp
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE5Jclk3RHlaRkdJRWlKZ0ZQWkpCQ2lJSW80R1VqV1NSUUdOUVJFMFE0TFVtb0ZHaGdhUDhmYmkwbnpNT0p4cVpIOTg4YnpBUmJmZlZxVUdOdE44ckRIYldGNG9LSWxlTlRLcEYw?oc=5
 
 - 「迷ったらまず気軽に相談を」旧統一教会への被害申告期限は2027年5月20日 法テラスが弁護士らにつながる無料の電話相談会を定期開催（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE44eFVHNjh2cF94TmFwdGtMZ0Q3NWRkZWs3M3BmRWFTem9lVFRrZ2R6ZlR2T29BbDFiRU1vRzByaVktSV9EdzJSZUdOVXp4WnVYNXdNdVpiTmlJSzB0dUtsSHpSUkZWTU9yQTY1eDhxYXdiQmZqSFRBaWZsUThkMVU?oc=5
@@ -21,42 +21,42 @@
 - 静岡県、カスハラ対策でオンラインの無料相談窓口開設 完全予約制 - 観光経済新聞
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aQ1BMeTJIUkdSWTR2S04zVElUQWZzZ1ZneEhwajhzLWZkRVZOWGRxaVBFb3B6SExhY2dCUFM0X2RqVmkzeFQ3am1UN1Ztd19hcVVoNA?oc=5
 
-- 消費生活相談員になるための講座のお知らせ（消費者庁） - town.mitake.lg.jp
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtd0xISUxxM2ZvYjFFS0NxeVNDNkhRRjRRM2h1di04aWgwb2pUQ2xxSFJoODlUZ25jTEEteFNlcmhxOEVEZkhZX0s5QXNGdXF3M2ljMmN5Rmk2Rms?oc=5
-
 - 県内の労働相談、「自己都合退職」が４年連続最多 人手不足深刻、引き留められ - 山形新聞
   https://news.google.com/rss/articles/CBMib0FVX3lxTFBXb0VoMmNDbHBidmpMOHRkdDQ0ZEVpazdIUXFERDFUZ3hBNlJCbVhndU5sUkhuRFNQWjdMZ3RUMHVLZzIyMjVmaVRVLVdrbDhLcjljY05TSV9odEo1cDREVTRxMHdhZGZTY0U3ZkN4UQ?oc=5
+
+- 消費生活相談員になるための講座のお知らせ（消費者庁） - town.mitake.lg.jp
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtd0xISUxxM2ZvYjFFS0NxeVNDNkhRRjRRM2h1di04aWgwb2pUQ2xxSFJoODlUZ25jTEEteFNlcmhxOEVEZkhZX0s5QXNGdXF3M2ljMmN5Rmk2Rms?oc=5
 
 - 9月7日・8日「多重債務110番」無料特別相談を実施します！|7月 - metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTFAwQ1R6MW9LV21VOGNZMEtNY2V1UU50V2wyMFZQM0N5c29SUnNkUkp4azJYcEYxZEMxSzFJdkJVcy1nZ2llMjlJT1hOOWVqNnNjSGIzVjlId25RQmpiUHRhMWQzQkhGYjVZWEhZeWY0a2Q0S1dC?oc=5
 
-- 辻村相談窓口、「仲間外れ」 - Design Stories
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ENC1odnk4UWdrLUZyckg4aXFPbXppb0I0dXYwT0lURGE1bWZha0lzMDRERzRNemp2dWFxTFR0QXBQN0lYU1BkVjhQN09XVFBXb2MtNkNPMDg1TjFXU3FEcHRaTkpCdw?oc=5
+- 結婚相談所で門前払いされ…｢総額350万円超え｣の肉体改造！ 43歳で結婚､45歳で子を授かった｢逆転男｣の"婚活物語" - 東洋経済オンライン
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE45ZHh3XzE2TnF1SUpvdDJ3T1FrU19RcnFReVluM3ZXRUZlUVd1Qlh4dlhlN3lQd0lmYVdvNUhKa2pnUVhnbmY3cm9reW5OV3BVMmc?oc=5
 
 - 情報セキュリティ安心相談窓口の相談状況［2026年第2四半期（4月～6月）］ - ipa.go.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTE9wWmFuREgwZkx3cU9Rb1ZuQUpKUTVFTzlGYm5RdjlnblhSd3RlYm1zUlZzMzAxUEE0MjhJQURTekRERGhYS1FuN08yS1FtX05LTEM3MzhnMkpOSzRYT001cDZqOGw5ek5jdTdEUnJ0YXpXUQ?oc=5
 
-- 移住相談窓口の設置 - pref.hyogo.lg.jp
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tM0psQlM3QVVwdzQ4ZUdmVmJpSzNReU9xMVRvNy16SnpFQThfay01ZV8tUFJiZ0dqenVaN2tfWUIzelhHSjg2NWdYQWI2VkQwRUlkX1FyVzV4eF82ZnpWQnhZZw?oc=5
+- ABCラジオ「こたけ正義感の聞けば無罪」が好調 弁護士目線で解決 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yQ3lMejFrZmFiZHZuR1lFNHRUUWdjNTFMRGtBMDNKX19MNmtsTTMwaUFCZ2lNS0x5UkQyeHRYMmNTeHZoOE9EdHdaS2pTeWFwRUEtb0g2UlFZeThDcFg0d0dOYU5nN1E?oc=5
 
 - 子どもの性被害早期把握へ 熊本市教委「相談票」改訂 - 熊本日日新聞社
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JMy1sVDFzeXluS0o0a0xNXzdwY09UTWoxYmwyaWhITFRBMVl1Ql91VXBsREpwS2lBQWwtTWhHV2RpOUdhTnV5SFd3NjVRWDg?oc=5
 
-- 結婚相談所で門前払いされ…｢総額350万円超え｣の肉体改造！ 43歳で結婚､45歳で子を授かった｢逆転男｣の"婚活物語" - 東洋経済オンライン
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwSVZkVnVWMW9vY2VkaGE1cERoNjBsTGZLbjBvZ3hPQXJ4aWk3T2J0U1VpWWVFVHlwSmVIbE51UjNrbXRqQ3Jia1hFYUkxZmZpdjJMRERKeXF3SkE?oc=5
+- 移住相談窓口の設置 - pref.hyogo.lg.jp
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tM0psQlM3QVVwdzQ4ZUdmVmJpSzNReU9xMVRvNy16SnpFQThfay01ZV8tUFJiZ0dqenVaN2tfWUIzelhHSjg2NWdYQWI2VkQwRUlkX1FyVzV4eF82ZnpWQnhZZw?oc=5
 
-- ABCラジオ「こたけ正義感の聞けば無罪」が好調 弁護士目線で解決 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yQ3lMejFrZmFiZHZuR1lFNHRUUWdjNTFMRGtBMDNKX19MNmtsTTMwaUFCZ2lNS0x5UkQyeHRYMmNTeHZoOE9EdHdaS2pTeWFwRUEtb0g2UlFZeThDcFg0d0dOYU5nN1E?oc=5
-
-- 都城市で大学生の夏休み自由研究相談会 - ｄメニューニュース
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE1oU3FjbmlVazY3RzFOUHktMlFCeHJxWm03aFFrZXBWd3hxYUhEMEhkVTQ3b3hMZDNUaWFrOFNIUlpSQ1ZSWjYtM29XM2NuZW41b1VQdU51X0xpeE92c05jSGVoa1ZvaUVPVE53eEcya9IBdEFVX3lxTFBfQXhOVU43MWl6bTN0QXFKQnh4TkZWeW1BTFhTU2sybkVmTTg5VnJuVlpobVB4d0I3ZVgwVVVvUXhPR0xqc0FKWFk0MVZOQ2pHYUFua3NCNWFwSk5CVlp1eTQ4blNwcmRzdWo2WlBPdEVzdHFj?oc=5
+- 県内の労働相談、「自己都合退職」が４年連続最多 人手不足深刻、引き留められ - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYQi1hUFo4SFBUUWI0OFB6eDFxWTlmZFpIS1R1aWJBU1lUaHp1dVhTWFBWZWRpMWVXNkhTTWdWUGxKVG9zanpraWNPSQ?oc=5
 
 - 県内の労働相談、「自己都合退職」が４年連続最多 人手不足深刻、引き留められ（山形新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBud0EzZUxBcmRxVnBKV0gtR2l4M1QxRGdINVZQRzBuMWxQUnJZd0dDSFBHT3N1QzdaWXNzMm83dDFHdGRMMVYteXBPeXVUN0l0YkJaSUhadldsal81dk55QXgteUo2eFM0YXNQb18zdzItYV9ILTExSmsxaUlOWTQ?oc=5
 
 - 結婚相談所で門前払いされ…｢総額350万円超え｣の肉体改造！ 43歳で結婚､45歳で子を授かった｢逆転男｣の"婚活物語" - 東洋経済オンライン
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE45ZHh3XzE2TnF1SUpvdDJ3T1FrU19RcnFReVluM3ZXRUZlUVd1Qlh4dlhlN3lQd0lmYVdvNUhKa2pnUVhnbmY3cm9reW5OV3BVMmc?oc=5
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwSVZkVnVWMW9vY2VkaGE1cERoNjBsTGZLbjBvZ3hPQXJ4aWk3T2J0U1VpWWVFVHlwSmVIbE51UjNrbXRqQ3Jia1hFYUkxZmZpdjJMRERKeXF3SkE?oc=5
 
-- 安青錦 天国の“日本の父”にささげる復活Ｖ 角界入り前から支援受け「いつかは帰化」と将来的な日本国籍取得も相談 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE13b3hnbHIxZ01pYkZod0x1eEtQUGNOOUJaOWNJc3NsWURzeW1GWlB6XzJKNjNNT25uWEtkck9VVFNCYWlTMWxZLW5pMWJ4OGVqdEFPYVl3LXh3dFBfeXhpSGo3aW1uTHczOV9vQTRWVHhqajR4SlpCRXg0THVmVDg?oc=5
+- 【7月27日の風、薫る】第86話 医師・黒川がりんを訪ね意外な依頼！直美は捨松に派出看護の相談を（デイリースポーツ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBOOXhDcmRUZHV2bU5UM2tsaHhoZVpSbWZKU1JldEVyRWpjVlROb0JOck9pcHc0OTJqc2N2bEJtdGZmZDdRbW5pUUdKNTlwdTA1Nm9LekZveDFCZlFZbWZBU0xYQlc5blIyTlQweHpkeDNWektGbXJqOGl5UjYxc28?oc=5
+
+- 画像 | 結婚相談所で門前払いされ…｢総額350万円超え｣の肉体改造！ 43歳で結婚､45歳で子を授かった｢逆転男｣の"婚活物語" - 東洋経済オンライン
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2bmtfSWxGMmlzSHVaU2xaNkQ3S2R0SVo0NUZtOWF4WmYzVXA3UHc5UmU1d0hvLXQtX0NYZmhoanFMdWJlY3drdzhyN1V1Nkl1SG5BVnhHV3BONUJrbFE?oc=5
 
