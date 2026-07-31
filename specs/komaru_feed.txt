@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-07-31 05:25) ===
+=== こまる相談 ニュースフィード (2026-07-31 08:33) ===
 
 - 【第1回】空き家無料相談会を開催します - city.hita.oita.jp
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xTDZjM2FLMDRwVlZLdFFIenVxeTQ4YVBodFdOVWN0Y0dVNWtFeXpaQkdkcEFUb2VCTmVBd2ZjeGFibnZqZ1FwX0dDYVowa2kydDJNSURPNU1WeFlEeHRUbA?oc=5
@@ -6,23 +6,38 @@
 - 2026年度東北大学主催 進学説明会・相談会は全日程を終了いたしました - tohoku.ac.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1scGg4bXV6czBYU3VVX3dUX09CTGlqZUVVdzhTWk00bTZPTENBUGZuN3JYcFB1ZTI0OXBESG1WZFdaazRvYUdJT1ZyR25RRlM1ekRwazlXeE1TUmJGQmw1NmFoLVlFdTFucWR0aElJdGZOdXE3?oc=5
 
-- 心理学部・藤井靖教授が心理小説『シロクマ心理相談所』を刊行—物語を通じて心理支援への理解を広げる - meisei-u.ac.jp
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EMktfQWtlckIyYU5vWmZpSzFUS3FmV0dmQ2FqT2dfUTNEMFBvdjJoamk4MUgtRE1mRXF1d3BxYU1KbXRJVURKUkxUMTdLZEczRkdPUjQ0dFFlcHc?oc=5
+- 蒲郡信金が8月から「イブニング相談会」 平日夜に金融相談 - 東愛知新聞
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hMDFZdUFzM0NTeUJGei12SHFJbmtEZFBRQ2gtWXB6eVNuRDhBOGsxX2NIZkZTcF9vd1FrOEh2Y1BMYktEZm5PTWdadlpPaGtVNkR2QnNLbldoOW5S?oc=5
+
+- ｢努力ができない｣という静かな悩み…IQ130オーバー｢ギフテッド･33歳男性｣が明かす｢普通｣の人生 - 東洋経済オンライン
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uTmk4TkhJQ2FRZTVybWY1c0UyaEZWUks4OGpHVHlYWHR6M0pXRHN4T0tLeV9IZjIxbnZGQmhNYi1mWG9QQ2RxcV9YbzZvdWxpZWc?oc=5
+
+- 1型糖尿病の方とそのご家族の相談窓口を設置しました。 - 日本IDDMネットワーク
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sYXZPanlZbjQtOW5tVi1paGwzdFZGM1o2cDRqQTJEUW1YLXZIY1FvVnFpaDZyY2RmcEpvaHBGZ2I5VmZMU1pMNzY0MGlDNXN1?oc=5
 
 - 労働に関する相談件数2万件超 職場での悩みや不安など 労働者と事業主とのトラブル「いじめ・嫌がらせ」最多の1000件超【長野】（2026年7月30日掲載）｜テレビ信州NEWS NNN - 日テレNEWS NNN
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOZndhVEFzc1JodHRVaEQ0MTNHMjVIRVMzT1FKaGs4Tk9SOThOWU1RbTB2blg1SlVxcVBfbmFicGNlYVItWldlNlBhcHVJZkN4U1NsUEZ4b2NyRFFSSGsteWFoVEZNZkg4dk8tTWlpM0VaUjRCWTlNbXQ5QU5mQUU3ZkNBOFVkMFU?oc=5
 
-- ｢努力ができない｣という静かな悩み…IQ130オーバー｢ギフテッド･33歳男性｣が明かす｢普通｣の人生 - 東洋経済オンライン
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE44VXFXcUt3MXMwQ2RRVFBobjVjQ21VSTE2N3plRHlpYzViV0VFRkJzTGF4SkZWVDZLVEhTZk9lRGkwUWMzTTFUejF5YUVYUHhFWDFudE8wLXNnNVE?oc=5
+- 児童相談所開設に向けた各種就職セミナー - city.hirakata.osaka.jp
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE53VjFWN0xGSzNBSnpGRjNvcjZIZ2VlRV84U1BZWUZxQmY4RWNROXpYMjRPRm51MmlDa0J5OUVieklMRm9GSzlrSTVpMl9oc0hKSGJGN0g0MjJWUFJiVkFV?oc=5
 
 - 都、25年度の消費生活相談10％増（健康産業速報） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1MRGViRzlYUXFMMXcteFVhcmFJOXVFQXlUNDJlcDlrVXJxcDgxRHk0ZzdPZWxkbHdhRWl5eXBONktWa1hrYTN5VThYM0NRR01SNUVTUjVubklNM0dEVlhaRlBTMG5oUWx3WGdjVmtXS2dZNlFhcko3aldqQ1lsM3c?oc=5
 
-- 児童相談所開設に向けた各種就職セミナー - city.hirakata.osaka.jp
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE53VjFWN0xGSzNBSnpGRjNvcjZIZ2VlRV84U1BZWUZxQmY4RWNROXpYMjRPRm51MmlDa0J5OUVieklMRm9GSzlrSTVpMl9oc0hKSGJGN0g0MjJWUFJiVkFV?oc=5
-
 - 辻村相談窓口、「介護の現場からの声」 - Design Stories
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qMVRNaWlOTXpsYlFKaFpmNEFVbWRwYUZ1U1ZLemlUUEpIMVhnLVNrRk45SV83ZXpRQ0hXQktLUV8zakJYZmZRdDVMbmFBV1hiZVVZWXBfT3BuV1VESFdRQTB4UjQ2QQ?oc=5
+
+- 福岡県消費生活センター ホームページ - pref.fukuoka.lg.jp
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE5Jclk3RHlaRkdJRWlKZ0ZQWkpCQ2lJSW80R1VqV1NSUUdOUVJFMFE0TFVtb0ZHaGdhUDhmYmkwbnpNT0p4cVpIOTg4YnpBUmJmZlZxVUdOdE44ckRIYldGNG9LSWxlTlRLcEYw?oc=5
+
+- 石川県、移住相談イベントを東京・有楽町で開催、8/23｜旅先テレワーク実践ガイド 【公式】 - トラベルボイス
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9za3ZvUS1qek9YZFFIVUlxaW04T1RqdVA4VFlNbHJxbWtIZENoU1ZlSXlpM2V2dDNObXUxQXhLcG5VZVBXNm5neUptbG5JM3NXZ3d2Y1RsQzJabElmZmg3clJ3?oc=5
+
+- 心理学部・藤井靖教授が心理小説『シロクマ心理相談所』を刊行—物語を通じて心理支援への理解を広げる - meisei-u.ac.jp
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EMktfQWtlckIyYU5vWmZpSzFUS3FmV0dmQ2FqT2dfUTNEMFBvdjJoamk4MUgtRE1mRXF1d3BxYU1KbXRJVURKUkxUMTdLZEczRkdPUjQ0dFFlcHc?oc=5
+
+- 【横須賀市】横須賀市で無料の登記相談！司法書士・土地家屋調査士が相続・境界問題に対応 - 湘南人
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFB3NHZ4RkpyY1BCbHRhUWJ3TlBxOE5QbW1DbFJLbTZHOWNENFRyemw2UjRjem1XVGFZZWVlWkdZMWhLN3kzWU1jVEFyc2dERks0MFNBTEFVWTNqR3VDRlctaV91aTVFaEVuVHc?oc=5
 
 - 【被災地での"困った"に対応】無料電話相談 弁護士会と司法書士会が開設 2026年熊本地震の被災者を対象に - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5naENPV005SHcyMU5EQV9KNmdXZ1VaMmY4eDlUTURWMjJvcmFQaUY4YkluNDV2TlF4cWt0R3hxX1ZQZGp5ekRJUmRFQUpRSW9OMjI1RjUtRWt4Zw?oc=5
@@ -30,33 +45,18 @@
 - ［演劇部門］悩みや思い、生き生きと表現【あきた総文】 - 秋田魁新報電子版
   https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMlBwejdnbGtxRXNGSGpwU3Z6aFZMbU9ZZUYwSWhmNkZxOXk0Zml3NlVTVGlMWS0wdGRNc3JKU1RuWFVqT0R6OGQ3WVBYR0t2Rjd2YnhWcmd2NnUzbHpjcTdn?oc=5
 
-- 福岡県消費生活センター ホームページ - pref.fukuoka.lg.jp
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE5Jclk3RHlaRkdJRWlKZ0ZQWkpCQ2lJSW80R1VqV1NSUUdOUVJFMFE0TFVtb0ZHaGdhUDhmYmkwbnpNT0p4cVpIOTg4YnpBUmJmZlZxVUdOdE44ckRIYldGNG9LSWxlTlRLcEYw?oc=5
-
-- 朝も夜も、スキンケアON! SKIN&LABから成分と肌悩みで選べる3アイテムが登場 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE8zTDJMS1RCenhYMEVxb04xLWg5aVB2LW5zLVNtNFF3RG5Qa3FvdGRrRDIyUUZvRnBQNWJ4MkU4N0M4LUpXMmR3b3RtVm8yMnFzeTdfcUFyb0IxR1RDX3V3WERRNjJSZFN6YWc?oc=5
-
-- 【一生・お金の悩みが尽きない人ランキング】第2位：複雑な投資手法を追い求める人、ではダントツのワースト1位は？ - ダイヤモンド・オンライン
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhc0txZGVneHBreXV1NTVKU2wySlFmRXVUbDNpSS05OGFMUDUyeUliUGo4cW1qMWRGSHVPM1UyMzFMR3VOb3BubUp2VjPSAU9BVV95cUxPY2pFY0xoanU3RWZpTUllQmYyVnRGN3dXUnFxOThUc3RUb2gza2VjWWR5VGVFWVhETlRzNGpENzA5RjZDR29oNzdtbldwSWN3?oc=5
-
-- カーネクスト、熊本地震の被災車両相談窓口 - LOGISTICS TODAY
-  https://news.google.com/rss/articles/CBMiSEFVX3lxTE00WkdZRi0tYm9jLXVnZWVsbzJoaWQ2ZUQ3a0l5S3pCdHliMFVobUdRNFdINGcxaHFVNnZyNDZCMmkxLUdUNDg0bg?oc=5
+- 高知県、東京・内幸町でU・Iターン就職・転職相談会を開催、9/5｜旅先テレワーク実践ガイド 【公式】 - トラベルボイス
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NUTV0cUdydFlOelhpV0s3REhNY1FEVmlZRUVNZUJaZk5xQmNnRTVQR09oVEI3bmhERVhnV0w0cnpESEpPWS1hU19XQVhtdW1hZU1LN0syT0RXMWVoTXVOdGNn?oc=5
 
 - 〈狙われる10代〉消費者被害相談が過去最多 「150万円」の借金を背負うケースも…副業詐欺・エステ被害の手口【弁護士解説】 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1yTjZtMGVlLV80eGtrdTdxN21LUWpCRVdTbFZEWmNHVEt6SXFnVld5S3QtdjAwcTJZNW1VXzFqbzJDQVhyMmY2MU9qTm1uQWF3aV9OZkN0b1JzdGc5UHA1UE9UNUJyVjJWLVY2d2lodVVyRlZna2JIeUN6cFpJeTQ?oc=5
 
-- ｢努力ができない｣という静かな悩み…IQ130オーバー｢ギフテッド･33歳男性｣が明かす｢普通｣の人生 - 東洋経済オンライン
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uTmk4TkhJQ2FRZTVybWY1c0UyaEZWUks4OGpHVHlYWHR6M0pXRHN4T0tLeV9IZjIxbnZGQmhNYi1mWG9QQ2RxcV9YbzZvdWxpZWc?oc=5
+- 徳島県・美馬市、オンライン移住相談会を開催、8/13～15｜旅先テレワーク実践ガイド 【公式】 - トラベルボイス
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XczFrMGtHVGMxZVJ5dHZxak85MnU3eTdTbmZ4MkxOUndmZHpZXzMyQjd3RzBtMDZqODR6MXIwb2tJWGVhM0JKUTdiZnZWaVp4cURNTGhrbDlZZThiaHhDdU1B?oc=5
 
-- 女手一つで育てた34歳息子が相談もなく結婚＞「相手の人柄も知らないのに…」「私と祖父を捨てるの？」保証人を頼んできた息子に、60代母が感じた「都合よく頼られている」という思い（婦人公論.jp） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBxVDRUMHFnM1RhMExmYS1TeDdIUnZnd3pJWjRVZ01kYVB6ZFNDcjh2cnVYR0JhVHdvVXRlVE5aNUtDdXJIRzV3MDF4YXp2SkRnLVFqSnZpa0d3dWVwRHg2RWVfQVlhTjFUdEItSmJYMndMVzFqeURPZWVlRWpQWDg?oc=5
+- 神奈川県・相模原市、藤野地区での移住相談ツアーを開催、8/21 ｜旅先テレワーク実践ガイド 【公式】 - トラベルボイス
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9taGZST1ZVN1FPdG9SNXd4RFVrLTVONmZScDFiN2FVVldIbXlGa3FSRlplVVIxZGhqX3hPZ1pOQ0YweFpOcEZnMkJ0c2swNU56eC1vQWVmZ0RsWmhwalluWmln?oc=5
 
-- 【夏のメイク崩れお悩み相談室】リップは？眉は？崩れないメイク術を知るためのQ＆A編（VOCE） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5paGpkQWtJaXZzbW1mYnY2RUdpd3J6bnlnaXZXY3BtTzJ5Q2o5YWtNcVNIcVMxT2Fyc1FFNktUTnF4cjVtSUV1MFNGRExVOXhVeTVIOTVmTmdtTEI4VTZIMFZjcjY5Vld6al9OcGcwbDl4TmNycHJNMnNtcUFhMG8?oc=5
-
-- 木村文乃、アクションの相談は岡田准一と 昔は1人で悩むも今は「『先輩！』と甘えさせてもらっています」（オリコン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE93ZXNaNlh5c2FVTnJ0bVZWQkJtSUpueVI5b2NJY0lxQlZMMVNYMmpKelpXeWNMc0xVTmFFR1F5a0lVOURpMm13NklNTWpLaWhEVUNpejJOTjRiakg4T2c4alh3RGhpZEhMeVRNUEFsM2lTWmZsWGhXN3E5VjdGemc?oc=5
-
-- 令和8年熊本地震への対応について 家電の健康診断車「ヒマワリ号」による家電の無料点検・ご相談窓口を開設 - Digital PR Platform
-  https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9UMkpiaWxlUXgtaHlscHRmNFpfa2k3MmhWVnRGTHJ3UDl5ellJNWJEUUFRa1BrMWJETmhqclpkNzFFSTg?oc=5
+- 「捨てるの待って!」 被災した古い資料の保護と相談を呼びかけ “地域の宝かも” 熊本県文化課（RKK熊本放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE02ZnFOdDU2WmxxTTltajBfVnRpSnI0a3o0UE5FSy0zYXpnbmtraFB5SC1nd1UwakpvRFJwTDBqNkdkLWgtZDZrQ2lrNlFtSUo4QkVOSlUyU0JYZjRPN2FNTjR3cmFZTHJxMzhQaG5ZTnBsUHNWYmFVMjBrV1k3bmc?oc=5
 
