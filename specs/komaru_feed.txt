@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-08-03 21:58) ===
+=== こまる相談 ニュースフィード (2026-08-03 22:57) ===
 
 - 辻村相談窓口、「豹変対策」 - Design Stories
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xamRfSVNoNVJoUFZzNy1uZ2pxY1ZQNkNGS0l4NXpYTTM4S0ZsNTVOSWJlMnRYbzdjZ3RRdlFlYWJaZDFuMDhiQ1dTRHBVdklmNkhybDNBcXFmdzY0cmFSUkYzMG5Ndw?oc=5
@@ -8,6 +8,9 @@
 
 - 管理職の6割が職場で孤独感 悩みの相談相手はAI、パソナ系調査 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE95SE5VaC1CNFdWaGNxN3dqRjAxLWV1bFd6LVR3VnR4RGhtRW1YcGhtNWlZWjlodmNpTV9xNnpTUkpkT3BZN3U2YzJEWU8zUXA2WFRudTY2ZDJObUFWSDNJV05aaHVuWVZ1SXZ0Qg?oc=5
+
+- 〈人生相談〉仕事でプレッシャー、辞めどきは 回答・和田秀樹さん（精神科医） - 東京新聞デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zbXRULWUtUFp2YmFELWEzc2hZSThTUGhiSHZpNHh4V25PLWpkVU9CYlZPZGN3UDRkOEE1N0JldzBWNEw5R0FpVVpSZ0x6cWlHZDNj?oc=5
 
 - 経営課題 専門家と解決 県産業公社、相談募る - 沖縄タイムス社
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1faHZxUDdpTVFydXBGcDF4OFNvZ2FyMnZRdnNjSklQYmozZFNPdWtDbmM2TUhGa0dSbnU3YXA2ZVJaejdPX2NmTHREZlQ3TkV0cklhXy10a1hjZE5CbVE?oc=5
@@ -27,6 +30,9 @@
 - 全国一斉「こどもの人権相談」強化週間 - city.kaizuka.lg.jp
   https://news.google.com/rss/articles/CBMijwFBVV95cUxQcHVEanY3SjdNVzNRa2JHUmxZNXN0LUltLUlfRUlxMmxmT2lnWWNfU1FnZVVfWmRBRERva3A5OE1wLXFnZ3lDMHpwX3JQNUQxU2N6enlveExHak9BT2RBd05xb04ydXFqMEJLNnZTSVduVXBKNUNEdlZyTTdUcTItTF9sRjJQUTZUSDZwVzk3OA?oc=5
 
+- ハミルトン大復活……でもベアマンにとっては困ったことになった！ 「ルイスの活躍はファンとして素晴らしい。でも僕の将来にとっては理想的じゃないね」（motorsport.com 日本版） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBhYzVwNWViZVd3UThVTF9VX2NKd1BnS2R4NVZ1RnllM3RuY0NKLUdacXB1SkJBd1cydVZ0aU5EQ282Zzh0MG1KQnRjSmlBbjR5NGFfS2paMGx5QkdJMUh5dXJ3d014eE81aGJCdHplaEh4Mm9ub3E5Y0MySDQ5U1k?oc=5
+
 - 2026年度東北大学主催 進学説明会・相談会は全日程を終了いたしました - tohoku.ac.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1scGg4bXV6czBYU3VVX3dUX09CTGlqZUVVdzhTWk00bTZPTENBUGZuN3JYcFB1ZTI0OXBESG1WZFdaazRvYUdJT1ZyR25RRlM1ekRwazlXeE1TUmJGQmw1NmFoLVlFdTFucWR0aElJdGZOdXE3?oc=5
 
@@ -36,26 +42,20 @@
 - 生成AIを活用したデジタル移住相談窓口のご案内 - pref.niigata.lg.jp
   https://news.google.com/rss/articles/CBMickFVX3lxTE94eERJQmpxRjlGdnViU21zYkJzZUVrMG5uNkFTeV9FYTlmSU43Qjh1UkhIY0QtN05kWkR3dERndFZkUUhRTGJmZnZmLUZWeExpaXJTYjJ3dzExUVQ1Nl92NG85ZFBZamhkWHRQNEtIU3pOZw?oc=5
 
+- 「AIにこう言われた」と患者から相談された経験のある医師は2.5割以上 - 日経メディカル
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxQWFU4UE5kdTZMSnk5RWxKbnc1NXlsRWR3b1hGa3k0Qm4wZ21lZ0w1Z0ticGw5c2ZEd1ZKOWZpTWk2dTFzUTRFelFQQU9JNklhTWgxYmFLWDlyYi0zTHNMV015S3ZtQ25FNHRhMmc2OGgwenpQSFppRHVqY2ZQbUNlR2RqY3dQV0tGNXc?oc=5
+
 - 消費者生活相談、SNS広告がきっかけの「インターネット通販」増加 東京都調査 - ECのミカタ
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5URnoyOXU3X2dCYS1IUHdaMzhYb1lRYi1wRlUtdkNDTnZFR2hnVV9xc1BUdmhpUzgwc29tMWhzSDFSQTdhVVdYd3d6ekhnY2ppYjlPbG9yVDk4OU1IbGJaQ3lB?oc=5
 
-- IT未経験から経営層の相談相手へ 花キューピット星野氏が「便利屋」を脱するまで：情シスキャリアをアップデートする【第8回】 - techtarget.itmedia.co.jp
+- IT未経験から経営層の相談相手へ 花キューピット星野氏が「便利屋」を脱するまで：情シスキャリアをアップデートする【第8回】 - ITmedia
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9GZnJaUGFjaWk5ZjFkNXhSNUJSWENEMmt4N3oyNTJLeGdudm1LYTJYb2Y5VV9Ed1l5NGpVQmFVSm5COHdOY1ZjOWVFUldYUGlOUW9aZmdhZ3VqVFVzb244eTBHZkQxMDltMGVScw?oc=5
-
-- 宮崎県内の児童虐待相談件数 2025年度は1716件 虐待者は実母が48%で最多 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtUVVaVWNweTRjY0dqakNTWjY0U0tnbUJKaTBFdnJ5WVZxYk02bUxyZzd6WUVCWEI2M1NzTGk1cW8weC02Ql9SREc2ZzMzc3FPTjFhekh3RWE2WmgzZ2VWM01FbHR1WUE?oc=5
-
-- 栄で電気の安全使用呼び掛け 中部電気保安協会 相談・体験コーナー設置 - 中部経済新聞
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE0zV1JranVBdkV4R18tbVA2OFQzcDlTTGRPa29uME1CaUNGMU5kMWUyQlBvUlhTNnZITm1weGcxQ2ZraV9LUjVzb3JlcXZFMDhBSlRaUDloTWVaMHR4S1l1ODB6SDZIT1ZUQlRRWTVCMDZYN2c?oc=5
-
-- ＜サイバーインシデント相談件数、3年連続で8月に増加＞デジタルデータソリューションが夏季休暇中・休暇明けに高まるサイバーセキュリティリスクを発表 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5JZnk5UzFITGRxUXRNRGdLTWJDbTdBWWxGVVpCSlFxcFNjZTJ5eTN6OHRTYWNHZ0g3akQyVFRta1UtQ01UVU9ma3o5V3NSb2pCMVg2aFMxWEh3YnA1Y2JPMGZ4TW5RdWFTcVE?oc=5
 
 - 【お知らせ】「全国一斉子どものための養育費相談会（令和8年9月5日）」について - city.uruma.lg.jp
   https://news.google.com/rss/articles/CBMibkFVX3lxTE9Oa3UtRFBTM3dTUWZsbl9LZFRYM0xrVEJPTDZRNURET3czRWxJSmhuNnlZTEVRdlJEV2JSQS1Gb2VWSHR2RTNvWGVaVy1lQ1FKRzdIU0xwNFpGaXpjV0JsQ3htRlljOE1wTHRMTXlB?oc=5
 
-- 労働紛争相談 いじめ・嫌がらせ最多986件｜経済・産業,社会,青森県｜青森ニュース｜Web東奥 - 東奥日報社
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iOXpSdjgyTVF4ZURDOEhkbVQxdWdlMFZWMlgydWpINXlqcTRseS1CaGdCaEpwOXpzSS1CV1NteTVqeTl5NnVQRVhrN2RBTWR4NDNiUURmSlk?oc=5
+- 栄で電気の安全使用呼び掛け 中部電気保安協会 相談・体験コーナー設置 - 中部経済新聞
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE0zV1JranVBdkV4R18tbVA2OFQzcDlTTGRPa29uME1CaUNGMU5kMWUyQlBvUlhTNnZITm1weGcxQ2ZraV9LUjVzb3JlcXZFMDhBSlRaUDloTWVaMHR4S1l1ODB6SDZIT1ZUQlRRWTVCMDZYN2c?oc=5
 
 - 東和銀行、熊本地震影響の相談窓口 融資や返済条件の見直しなど - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9DRFhobzZqMXRtSkVPRUFQZXpZLXk5MkZNYjU4ZUNDcnA4UXM2MGVfLTBzSGQ2TWNHOUFzMDVqNmRwVm9VdVFmTzJ5MGNTZ1NfbHRLdHhyVGVLVUJjRlUtQ0tJT1RCTnZISjZYeA?oc=5
