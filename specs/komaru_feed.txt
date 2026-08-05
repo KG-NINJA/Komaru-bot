@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-08-05 20:56) ===
+=== こまる相談 ニュースフィード (2026-08-05 22:07) ===
 
 - がんの情報収集・相談先「生成ＡＩ」７％ 対がん協会、患者・家族に調査 - 朝日新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZN1N2QTlORExrbE5xWDI3ME9kTnJhemI2bHpGME9CYkFaM2ZaY09NWHY1SU5OTzBkSmJlSWdEcnRSQkJKTFJvMndvMkF1UlFqbWp0T2R1MFhRUkpF?oc=5
@@ -12,22 +12,37 @@
 - 管理職の6割が職場で孤独感、悩みの相談相手はAI パソナ系調査 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE95SE5VaC1CNFdWaGNxN3dqRjAxLWV1bFd6LVR3VnR4RGhtRW1YcGhtNWlZWjlodmNpTV9xNnpTUkpkT3BZN3U2YzJEWU8zUXA2WFRudTY2ZDJObUFWSDNJV05aaHVuWVZ1SXZ0Qg?oc=5
 
+- 「転職相談は、まずAIに」を当たり前に。JOB PALETTE、就活の全ステップに対応したAIプロンプト集を無料公開（全9本収録） - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5peFlfSHBRN0o2bk5ITVE5VVpuR1U1RFNYajNmdW1sTWxUSlhtX2tqZnpCQk5kQlNrSFBWRE5jUF95eTZQYW9YOXUzNUlLY3FBaE9PSGcza0xrREpHNXdHaUQwUVdfb0s1LUE?oc=5
+
+- みんなの高校野球：相談で球速アップも 出場選手に聞いたAI活用法 夏の甲子園 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yMFcyMUFGTHRlVXZVLVNScHphVkRhSW1OVTFSYmZudDFPMGxnM0xvVUhHalR3T2NMZkt3Q0paenlZMzNMSlhYTWo4dkpid0hSV2h4NWNLTXNiWm82eGxLZ0lJdVlMQU1N?oc=5
+
 - 栃木県の教育長「相談しやすい環境を」県立高校の暴行動画問題で会見（テレビ朝日系（ANN）） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0wdkNYaVlBZ0xOZ1ZmXzU3ZzdpWUl0VVhSbHJaUDRTT3dZSGNkNUZwSmVyNnlpc25jY3VEOWY4bUZsMGR0RERfYnJCMXpabHJ6c1g3b0V0YVY5Y1ZCSVBYNzVHc2hJejNoTmZWbjBnSkYyMUE5YUxjNDhCaXh3M3M?oc=5
 
-- 株高で資産増 相談相次ぐ AI関連けん引 証券会社 対応部署新設も - 沖縄タイムス社
+- 説明会・相談会に参加します！（8/12大学EXPO in 群馬） - gunma-u.ac.jp
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mdXpJSFZoajNDN0ZWazBZU3ZLdWtTNXhmSmpteTMyVE9jS0FEYlJ0QmFiR0xWeW5fUXlSeWlTbkdncmtIaTZ6N2sxODBXRFZwTzh2b210SQ?oc=5
+
+- 株高で資産増 相談相次ぐ AI関連けん引 証券会社 対応部署新設も - okinawatimes.co.jp
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uRXhldTdpbDRHWEtOYXNRMjVWbGxkejlCVFV3SUV5djJMNVpWZTJnR2tEdS1NNGxQRWZVNk1uVjh0MnRhX2c5dTJKdkc4Sk9DV0huT1A1MTRQcG53UEE?oc=5
 
 - 2～3割は発生する規格外品 農家の悩み解消！地元缶詰メーカーが作ったジュレ 福島の桃を一年中：ニュース - FTV 福島テレビ
   https://news.google.com/rss/articles/CBMiekFVX3lxTFA2SUFFX0tVYUtEU0lsdlpHaUNuNlRXdWRhS2tpa0VYQmxGSkVNNVl4Q2wxQUpHOFRETi1GNjAwQWY4LWxYRFVjX3BFMzMzTFJvTTdVYU9aRmx4OFB2VGhYcXJpcC1rbS1fQjk5UWZJUURiQkdHdXhKZUVn?oc=5
 
-- 説明会・相談会に参加します！（8/12大学EXPO in 群馬） - gunma-u.ac.jp
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mdXpJSFZoajNDN0ZWazBZU3ZLdWtTNXhmSmpteTMyVE9jS0FEYlJ0QmFiR0xWeW5fUXlSeWlTbkdncmtIaTZ6N2sxODBXRFZwTzh2b210SQ?oc=5
-
 - 窓口専門家スケジュールを掲載しました（２０２６．９月） - 仙台商工会議所
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ld2lLZGVIenR5clpHNENQOEk4d1FfcFIxZzcxR2NsOW1vcmNjYV80YVhzb0tZOXRxdnY0QUt0TTAzaXo0N0RTS1dvMjd3YUFaWUhtNzBGUUx1ZmlxektMbHRkbkM?oc=5
 
-- 綾瀬市、市民相談にＡＩ電話導入 県内初のサービスで２４時間対応可能に - kanaloco.jp
+- 【熊本地震】滋賀県警が警察官16人を派遣へ 被災者の相談対応などに - kyoto-np.co.jp
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wVkU3R0ZoMHJ2Z3pPbzc4Q0swMGlaQVlrcktrMEhNTHVkbHd4V3E1RDRBZ2U4TDlNUDgzRE1ha18tVHJ2aTE5NHFXUHhVQ1g2MlpMVzdTQkU?oc=5
+
+- 相談で球速アップも　出場選手に聞いたAI活用法　夏の甲子園 - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxOd05OWEdiemxRYVNPczZ4dU80Q3ZoTHY4MGNoSE56QTBNLVFQM25VVHFEbzljUzBCdHJ5cnQ5Tkx2WDVxYXNzajBBQjJqTkE2Yk0wOXVVTWxVV3EtSUphWjlWcWcyU09YSXhxenZjXzRmY1VQNXMzNFZDem5UaGYydFFNZGVQQzI4cTh6UXEzN3VNdlHSAZgBQVVfeXFMUHp0WW4zQzFxYmhFeTFGS2dvMG05azJHdG1iRkkwSkhReGkzU1k5MWRUQjk2amc2TnhIQlM3bzA4WFZ6UHJFQm1sUElNTlNHUndhNDNKMzkwbFZLSEFjTEJOV3JIWjAxYTJJSWVKd1VicUh1MnZzR29MZDBEX1M4bjFuZTdJUmtkR091SmpzakYxeF9udXRra0o?oc=5
+
+- 「ギャー」と悲鳴で鳴く？急増する「キョン」 千葉県は根絶を掲げるが…捕獲現場が抱える悩み - 東京新聞デジタル
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VazdPR0V4R20tRUdVMEg0ZkdrekF3a240WWU2RFBwMFg0TVdqLUdoV0c5Qkh1U1VpS01TOVUxdFJFaXRuNGdnNmdfRHpSbDVla3JJ?oc=5
+
+- 綾瀬市、市民相談にＡＩ電話導入 県内初のサービスで２４時間対応可能に - カナロコ
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9MWEJnZTRXVjlwTzFCTHRxdEpyMTNVRzloTlVrUXc2MXVlSk50NkxmcFFaSmJMZ0xzai1pSlRHUnU2X09scG91SUY5NmFIc1JaNFNxNDdFMk9IaHVSX2RyaHI5TEE4dmpmN2J1aA?oc=5
 
 - 生成AIを活用したデジタル移住相談窓口のご案内 - pref.niigata.lg.jp
@@ -36,27 +51,12 @@
 - 移住窓口で相談しよう - city.agano.niigata.jp
   https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU85R3FGSTY2UnNOemtyN05ndEdMMjZJelZOd1NpUVFvaFVnc3BsWk5hNmpyaXoxNS1KLXBGNDNjbGlYZjkyTlNSU2NBNEhDYTZLSVBKZktMQ1pEYjVNWldmVE5WSzNqWU5zM1RzWW9pdmotdkJ4N3JqbXZteHRTMlJONlQxRHN0dW5RZTNzeEM2dw?oc=5
 
-- 「小さな悩みも確実に聞いて」桶川事件の被害者遺族が講演 ストーカー撲滅へ厳罰化訴え - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3MXRteG9VQWtJS2FCRmZQOUp0UGRYZXNtaEpVbjF6N2pRVnEyYzZwdXUzTFB4Z3U5dzR0ZTZILWpmTjVwMHZTMDV3RzkxSWRVLWZQYw?oc=5
-
-- 【高校受験】横須賀の私立4校が参加…合同相談会10/12 - リセマム
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmYl9QWlNuT2NCQklXbE5lcjFtZkRaWFRhb0V3ZUhxeDhhZDhZZk5qTlVUeld6Sy1LNkVUWVU3amhoQW5icVBnTm94aG5GMDI2RmNwSWRhOF9BUDg2?oc=5
-
-- OpenAIがAppleによる訴訟に反論、「提訴する前に相談してくれれば喜んですべて説明していた」 - GIGAZINE
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yWUNFa19KUk9EM1dseUtLaDZfbTRoLTFMUVN1amJPR0hHUzh5RkFGdUFYaXN3NWd1ZzgwZC1ZLThwbEhUVVBTYUpURVhMMnVwMHVyUUNPbFlEaUx6?oc=5
-
-- 司法書士による無料法律相談会 - town.taishi.osaka.jp
-  https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHdNYnNvVHNqV3N2bW9RcUlnR3g5dUUtekttZUxjWFQ0X1FhYVcyZV9SczVZeE55VmwxTlBaVTQwLWd6QTlHNmgzbnpSZVNvSGFTUUsxblFDY3UxWm9Gdkg5U0NDWGlMcGdPbmZNWl9FMkpxYUwxYks5QVI4MGU3SkxpdVhLQ2NLVzI4cmFGekRfVE13?oc=5
-
-- 児童虐待の相談件数 高止まり 25年度 1万5000件超 - 東京新聞デジタル
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rd3hkRlduSU5rOGhWbEh5VWlVZHQyYUhBOVRwZTlrbHI4TW84UXA1Vkk2eTFPalZfRmtPeFhzcFlmeXhuaWxmVWRBY3daM0hOU1Jz?oc=5
-
 - 「ネットオリパ」に半年で1千万円 エンドレス「課金」 弁護士が指摘「規制する法律がない」現実とギャンブル依存の落とし穴 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jbk8yUzNvT01qVkxXV3BfUkFvYXc3b2tVX2RsNmREaEN4MEVReVhCMHU0MS1LVG9yY0owRlJyd2NKX3RSOTN3d1E0SWM4LTBh?oc=5
 
 - 「死にたい」気持ちに、人は、生成AIは、どう応えるか――SNS相談利用者の声から考える（鈴木洋平） - エキスパート - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVE1QRFpUQndTUnR1WkpxRlVxM3NLVFRLMHk0RWw0TVNnMnBmbmZ3eWJuY0cwRWYtNVVtRkU4WmxlZzl0ejN6QmQ3VDU0dDN3aVgxdng3UlJvX2IzbjJOblZRMmtVNjZnVnpVOXVXaUwyVzVOMW5rVW5nZzVrTHgwWkdKdTVSeFh4?oc=5
 
-- 肌のハリ、くすみ…気になるエイジング悩みはクレンジングで解決！ザ・ギンザ、RMK、FAS【最新クレンジング】に注目 - Precious.jp
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE80dWlDdlpZRWRWSFduUWtSakpfbzl5dEpZNmFvdHozTEhuX2I5ZEJ0Ul9lcHlyX0t2dk81RDdib003NGQ3ajZiMmFHbUs?oc=5
+- 「小さな悩みも確実に聞いて」桶川事件の被害者遺族が講演 ストーカー撲滅へ厳罰化訴え - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3MXRteG9VQWtJS2FCRmZQOUp0UGRYZXNtaEpVbjF6N2pRVnEyYzZwdXUzTFB4Z3U5dzR0ZTZILWpmTjVwMHZTMDV3RzkxSWRVLWZQYw?oc=5
 
