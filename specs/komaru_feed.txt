@@ -1,9 +1,9 @@
-=== こまる相談 ニュースフィード (2026-08-07 18:39) ===
+=== こまる相談 ニュースフィード (2026-08-07 19:43) ===
 
 - あなたはひとりじゃない（相談窓口のご案内） - city.misato.lg.jp
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9abmZUTTRzYnhrczFIbjBJWjI1d3JlbklzX2xMdkV6UjZXbEpYTUEyTElJbkVDRWVFYzdKamlUZkd6a1pPZUZHa2ptWGxWZVZXSUw2d2tzZDNSZUFzU0E1OTN2MGMzTkt6M2h3Y2FvQU05Z0cwLWVOX0EtVWdRNlk?oc=5
 
-- 「眠れぬ夜はAIさんと 財前直見さんとお悩みに答えます」動画紹介 - リリース情報 - 眠れぬ夜は AIさんと - nhk.jp
+- 「眠れぬ夜はAIさんと 財前直見さんとお悩みに答えます」動画紹介 - リリース情報 - 眠れぬ夜は AIさんと - NHK
   https://news.google.com/rss/articles/CBMid0FVX3lxTE95TXFBekg5TTlkYVlPZzdtQ1RQNXNEWlJPY3p3dThyQUk0VG9hanFtWWFjcXh4eXlKbkJuUk95bHdsR2tRNTNHUk54cEtrclR4ZWFoak53dkpOcGRvbmVnUDZCTGJRWUxNZzd1d0RlLWdEczNRbnpN?oc=5
 
 - Google マップの新機能「マップに相談」を日本で提供開始 - blog.google
@@ -18,17 +18,17 @@
 - 【9/29】いじめ相談対応に自信がつく！実践スキルを学べる無料オンラインセミナー・相談会（こども家庭庁委託事業） - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMWFJYktYLW5ydEJZTXg1UkhhU1FLZHlfNmljSXpyNm5yblZxWU43bWhsWWRvZjFPaVlNd19KY2NGQ0VjenhtWFZFcTlkV3F0UnhYZ2xqLUl3dEt2dlAyYnBfckdMU3hwUXc?oc=5
 
-- 熊本地震受け川崎市が「特別経営相談窓口」設置 市内中小企業向け - カナロコ
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5nWjBkUk1GbzktTjZWQW4zVGhLUTl2d0hfVEpTX0liczFST0lBc25OTWtsanBac0wtbnZEakQ0R1JTb3AwdU5PamloR1pQSGFOc3M3Y0FtdXJJS25xNURJc3dwSGlIbjF6S3VIWQ?oc=5
-
 - 「Googleマップに相談」日本でスタート Geminiで複雑な質問に回答 - Impress Watch
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE95Uko2NUt2RHNwYzdoVHd0NlFkZWtadHl3TUxuY2oydmxhY3lHUDE5VGVLRFNhZl94OUZkZWFOSURyNnFIYjR6d0NvSzBFbWVRZ1daaWFsU1JqN0VxaWhvMElhT0I?oc=5
 
-- 相談支援専門員（障害児の相談支援）（育児休業代替任期付職員）採用資格試験情報 - city.kitahiroshima.hokkaido.jp
-  https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeEJ4bEdTVnNfT0dTajFHVkhsbThOZEp2V1hxMDliakVCYnY2R2pFZWVhcloxY2JyS2hUZ3hlSUVOZXoxSl82SmFqQkhmaGhsRldiNEhwNmU5S2p1TXkwRG90YkZTdks3MVUySGc1MFI3djBKRjNsNW8wTQ?oc=5
+- 熊本地震受け川崎市が「特別経営相談窓口」設置 市内中小企業向け - カナロコ
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5nWjBkUk1GbzktTjZWQW4zVGhLUTl2d0hfVEpTX0liczFST0lBc25OTWtsanBac0wtbnZEakQ0R1JTb3AwdU5PamloR1pQSGFOc3M3Y0FtdXJJS25xNURJc3dwSGlIbjF6S3VIWQ?oc=5
 
 - 子どもや若者の悩み ワンストップ相談会／弘前・ヒロロで18日に｜社会｜青森ニュース｜Web東奥 - 東奥日報社
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xVVd2OTMzZEdicnZON21na3cwUjcxX1dkeGtyVzYxWEE5ZnJ6UWpMNzJSd0JaS0pQWGM4WnlGQ1gyS2RXYmxnS0VtS2lqdGJRWmM4SlJCdFY?oc=5
+
+- 相談支援専門員（障害児の相談支援）（育児休業代替任期付職員）採用資格試験情報 - city.kitahiroshima.hokkaido.jp
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeEJ4bEdTVnNfT0dTajFHVkhsbThOZEp2V1hxMDliakVCYnY2R2pFZWVhcloxY2JyS2hUZ3hlSUVOZXoxSl82SmFqQkhmaGhsRldiNEhwNmU5S2p1TXkwRG90YkZTdks3MVUySGc1MFI3djBKRjNsNW8wTQ?oc=5
 
 - 「情熱も悩みも」青春の姿を音に乗せ 広島県吹奏楽コン金賞の賀茂高 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MVUdqeEFJUFlWWUJVRk5YUjNqWmJxbnA3RWlKX0pfSm1nUmtQMk45SEFzdVBSWW1pZUl5QnZ2aTdSdTJsMXZoTG83Zk5xSTBMdTFGeld1ZUtJcFRnNFhkSllzNnQ2bWc?oc=5
@@ -39,6 +39,9 @@
 - 横瀬町で協力隊が「けもの相談所」 データ蓄積で鳥獣被害防ぐ - 秩父経済新聞
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tcDZNRlh6bk5TRmNOa3pBSll0b2ltUWU0dUVWdHF1VEVaVXlnc1c2S1NOZkxyYVI5VzZKdVZXMDJvTE1WVjNOVmE3Zks5UUE0dWZCcQ?oc=5
 
+- Googleマップと会話しながら場所を探せる「マップに相談」--日本で提供開始 - CNET Japan
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GNmVfamJySVM4b3hfNzdxaVI3eEU4Wkc2Z1NNOEx6c3NlUTVBdTRLdU9GcEZ1T0dhaDdTUVRtcl9jbmxVcVNFR3hwM21SMVc3R3c?oc=5
+
 - 脱炭素先行地域づくり事業関連イベント｜行政情報 - city.miyakojima.lg.jp
   https://news.google.com/rss/articles/CBMifkFVX3lxTE03QnozR0ZQNUdBVU5ZT29KeUhaeWJnSmoxamNLaEpyRmpTdlUxYmF1d1NBSl90ZWg3Si1JRVhsNW5CcnROU2xzZDA4VlpxM3FDV0xtcC16X1ZmcF9mVVJTQVpIZG9BM255LWZ6Q1hJU2lnQWtGd256NXNWTzBSdw?oc=5
 
@@ -47,9 +50,6 @@
 
 - リーガルビート -逆転の法廷- 放送記念！雪村お悩み相談所｜ドラマ｜見逃し無料配信はTVer！人気の動画見放題 - TVer
   https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPWFd1QjRpTlVrT0FvSlNxTU1ZQWJ6cXZtWjhmbGlWbGRyU1ZWZGVPM21PUmdxV25mMXNQNzNDaWZucVpFbnFidXFKQQ?oc=5
-
-- Googleマップと会話しながら場所を探せる「マップに相談」--日本で提供開始 - CNET Japan
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GNmVfamJySVM4b3hfNzdxaVI3eEU4Wkc2Z1NNOEx6c3NlUTVBdTRLdU9GcEZ1T0dhaDdTUVRtcl9jbmxVcVNFR3hwM21SMVc3R3c?oc=5
 
 - 横浜市、市内中小企業向けの「特別経営相談窓口」を設置 熊本地震受け - カナロコ
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBKUUxQc3ExajJWSC0tbzhmLTUtbUpRQkhvQWJ2YVBJX2FSbVZaNzF3MExpVzZIT2NWa09DbV9BYzhZOXVqWmVWQXZwRlJrZHVwUDN6dk5RTWV4WWUtb3VKczYtZ29FNlBWbF9lWQ?oc=5
