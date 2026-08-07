@@ -1,7 +1,10 @@
-=== こまる相談 ニュースフィード (2026-08-07 09:50) ===
+=== こまる相談 ニュースフィード (2026-08-07 10:41) ===
 
 - 相談支援専門員（障害児の相談支援）（育児休業代替任期付職員）採用資格試験情報 - city.kitahiroshima.hokkaido.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeEJ4bEdTVnNfT0dTajFHVkhsbThOZEp2V1hxMDliakVCYnY2R2pFZWVhcloxY2JyS2hUZ3hlSUVOZXoxSl82SmFqQkhmaGhsRldiNEhwNmU5S2p1TXkwRG90YkZTdks3MVUySGc1MFI3djBKRjNsNW8wTQ?oc=5
+
+- 【9/29】いじめ相談対応に自信がつく！実践スキルを学べる無料オンラインセミナー・相談会（こども家庭庁委託事業） - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMWFJYktYLW5ydEJZTXg1UkhhU1FLZHlfNmljSXpyNm5yblZxWU43bWhsWWRvZjFPaVlNd19KY2NGQ0VjenhtWFZFcTlkV3F0UnhYZ2xqLUl3dEt2dlAyYnBfckdMU3hwUXc?oc=5
 
 - 子どもや若者の悩み ワンストップ相談会／弘前・ヒロロで18日に｜社会｜青森ニュース｜Web東奥 - 東奥日報社
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xVVd2OTMzZEdicnZON21na3cwUjcxX1dkeGtyVzYxWEE5ZnJ6UWpMNzJSd0JaS0pQWGM4WnlGQ1gyS2RXYmxnS0VtS2lqdGJRWmM4SlJCdFY?oc=5
@@ -9,7 +12,7 @@
 - 脱炭素先行地域づくり事業関連イベント - city.miyakojima.lg.jp
   https://news.google.com/rss/articles/CBMifkFVX3lxTE03QnozR0ZQNUdBVU5ZT29KeUhaeWJnSmoxamNLaEpyRmpTdlUxYmF1d1NBSl90ZWg3Si1JRVhsNW5CcnROU2xzZDA4VlpxM3FDV0xtcC16X1ZmcF9mVVJTQVpIZG9BM255LWZ6Q1hJU2lnQWtGd256NXNWTzBSdw?oc=5
 
-- Googleマップと会話しながら場所を探せる「マップに相談」--日本で提供開始 - japan.cnet.com
+- Googleマップと会話しながら場所を探せる「マップに相談」--日本で提供開始 - CNET Japan
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GNmVfamJySVM4b3hfNzdxaVI3eEU4Wkc2Z1NNOEx6c3NlUTVBdTRLdU9GcEZ1T0dhaDdTUVRtcl9jbmxVcVNFR3hwM21SMVc3R3c?oc=5
 
 - 経営・資金・事業承継等 個別相談会（ご案内） - city.komatsu.lg.jp
@@ -24,23 +27,20 @@
 - 香川県の金融機関 熊本地震の特別相談窓口を設置 - KSBニュース
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE12OHFaOV9yUGNVU3c1Y0dXcG9vLTVLYWVha0ZpblAwSlFmMXdsMFVZR1NhNURIRUROVWdiazVTc3NlaXBXMy16QlRFMUF6dXlH?oc=5
 
-- 「人がAIに求めるのは信頼し相談できること」 ロジカがAI事業者と導入機関の共通指針案を策定へ - 株式会社共同通信社
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EOVM4MU92c3hhazRsaEJPTHEwUUxobnBTOFZmVUoycm8yNmhoMy1ibzBWYmNtM0ZNVWg4ck5DZTI5ZTNtWHVJRUxTaUdWTXVtbEpRV0FubGUtSW5v?oc=5
+- 子どもや若者の悩み ワンストップ相談会／弘前・ヒロロで18日に - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nZ2JxY0QzZEppWVJobmd2UnlrenZlcEpfeXV0N1VJWFNZMVV0ZWxadklCcU8zMjVraDFIeVJKXzNzZWQwb2VoRU5Rbw?oc=5
 
 - 「Googleマップに相談」日本でスタート Geminiで複雑な質問に回答 - Impress Watch
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE95Uko2NUt2RHNwYzdoVHd0NlFkZWtadHl3TUxuY2oydmxhY3lHUDE5VGVLRFNhZl94OUZkZWFOSURyNnFIYjR6d0NvSzBFbWVRZ1daaWFsU1JqN0VxaWhvMElhT0I?oc=5
 
+- 「人がAIに求めるのは信頼し相談できること」 ロジカがAI事業者と導入機関の共通指針案を策定へ - 株式会社共同通信社
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EOVM4MU92c3hhazRsaEJPTHEwUUxobnBTOFZmVUoycm8yNmhoMy1ibzBWYmNtM0ZNVWg4ck5DZTI5ZTNtWHVJRUxTaUdWTXVtbEpRV0FubGUtSW5v?oc=5
+
 - 子どもなし、友人なし…気がついたら私は「身寄りなし」 、相談できるのはどこの誰？ 「家族がいること」が前提の世の中、でも孤立は誰にでも起きる（47NEWS） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9PNEc4aGE4N2VBaVpvQU5mT3FNZFJiaHJLdWlKYVlCSXpKT1lPY2V4X2xrN2t6MkQzdndvOTc4TnhLSmcweTNqLWZtdkdPdmUwX0ktMk9Jb1pROF92cmRrYkFjR3g5M3pvcXZ1TURla0hONHh0Wk5XMUNMa2puVkk?oc=5
 
-- 子どもや若者の悩み ワンストップ相談会／弘前・ヒロロで18日に - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nZ2JxY0QzZEppWVJobmd2UnlrenZlcEpfeXV0N1VJWFNZMVV0ZWxadklCcU8zMjVraDFIeVJKXzNzZWQwb2VoRU5Rbw?oc=5
-
-- 『イップス』は何科に相談すべきかご存じですか？ 原因と治療を医師が解説 - medicaldoc.jp
+- 『イップス』は何科に相談すべきかご存じですか？ 原因と治療を医師が解説 - メディカルドック
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zb3Y3clAweTNUR29TVGRyRk0tanBYTmdGNmJYSDVqTjBOd0l0dmQ4TWV4MUxoVDdmUHowcUFXU1lOc1JQakw2UFhwMHNhNTB4MEFMdWhWa08?oc=5
-
-- 「JAPAN DIY HOMECENTER SHOW 2026」で生活の悩みに役立つヒントをご紹介！ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5yUkFzNUctcl9VVzVQS1VLeUFWVzNyUHh5VzhnTTRCd2dLdDdTcWpzMHFvUzd1c1E4VVdRZFM0c2ZkV3h3N09TcVRfWGlpUnI4OEpnNC1JaERlVFlNUjlrTWpyR2txRTF1elE?oc=5
 
 - “痛み”に寄り添う心理ミステリー『さとり中二病相談室 -第二現実の翻訳者-』、今年10月に早期アクセス配信へ。「中二病」の裏のサインを読み取り、“本音”を読み解く - AUTOMATON
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5IOXd4c1RySUtZbzA3TGtLVFB3Z21EWmdQTmJjTnVwVzUza01pQ0h1VDFPUXp3dHp6dnl0V3dJTGFKaUI4eFZWS29Ea1gzX1BWaDJBZVJQb2l0UUNqV2hEaTFZMEJxSm5vMU9Ccw?oc=5
@@ -51,12 +51,12 @@
 - 電通デジタル、購買行動におけるAI活用実態調査を実施。相談率は約3割で旅行や金融が高水準 - AIsmiley
   https://news.google.com/rss/articles/CBMib0FVX3lxTE5SQnl3ODBZaEhOY3Y4b3hGeGE4aDhVUWRxUF9Bb3JUd09QZnBHM0JXQmNhbWVEQlBRbWp6NElGT2EtWXRTSHFuWXpwd0R2RHFVNlkyNmxJSDJqblBraWtwT3NvMVlacm03QmRaU2wwdw?oc=5
 
-- 北九州商議所が熊本に相談員派遣 中小企業向け - nishinippon.co.jp
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE54V2N0eUxXVGVnaG5EVWxmS1VUdmVQakYzWW1XS3B6RG50NDFfRllFNjE3U2ozNXdTcTFpaXFnYXdCd3VjU3ZxREt2WnQtaVVzMGFoWXJ3?oc=5
+- 岡山市が１０月から５歳児健康相談 子の成長や発達、確認の機会に - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rd2tlQ0lCdkRYNlEwMVY3YkpxTDVvRFBReFNrSkRzMUFPODVqMGxyUjE5dE5JdG54ZmtobmE0Ukdsd2VZYy1QaUxaSQ?oc=5
 
-- 妊婦のための支援給付金事業について（伴走型相談支援） - city.gojo.lg.jp
-  https://news.google.com/rss/articles/CBMicEFVX3lxTFBPRE8zRjhBbXY1M3VuYXVuX0ZpZEdHQXgxdlVJLXZSMGE3V1N6MXZjdTBaTk9nNzhicmxaUHJ6RHVGMGZsOXh4a1BoN1d5REJsNWI4dEVvMVpNNDVmaVhZSno2TVJWNDB1VmVMalZjVlM?oc=5
+- 「JAPAN DIY HOMECENTER SHOW 2026」で生活の悩みに役立つヒントをご紹介！ - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5yUkFzNUctcl9VVzVQS1VLeUFWVzNyUHh5VzhnTTRCd2dLdDdTcWpzMHFvUzd1c1E4VVdRZFM0c2ZkV3h3N09TcVRfWGlpUnI4OEpnNC1JaERlVFlNUjlrTWpyR2txRTF1elE?oc=5
 
-- 進路相談会で現役高校生に聞いた「なりたい職業」2026年 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBwZEVLU1RVdEc1MjFJem1lZE4ycXlod2RLRHF2Z29hUHNydloteTBuSUtHSDNVbUFNZXd1RlloOW5IR2FqWmxYS04xbDdsc193bHpmRXI3elJlRVR0bVdwX0syMmNaNnhQTkE?oc=5
+- ＜神田うの＞51歳、長年抱えてきた薄毛の悩みを告白 不妊治療の経験や一人娘への思いも 「ダマってられない女たち」で - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBJelYwTFZjTUM0QkJFWHVyeGFmc0M2QkY0TTdqYW9md19QZS1YNlJJTU1aRzNiTTczajdoMDlHakM5dndNYnQ0NTl1ejJDRWF6MEdaenBONnN0NFJkeHVsM2NyTTFid3Y3SkdPVW9RSDQ0X2M1U3owSXBKd2dXRzQ?oc=5
 
