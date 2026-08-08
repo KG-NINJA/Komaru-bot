@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-08-08 04:04) ===
+=== こまる相談 ニュースフィード (2026-08-08 05:34) ===
 
 - 4000組の不登校親子を見てきた相談員が伝える、乳幼児期に大切にしたい「ある経験」（島沢 優子,池添 素） | FRaU - 現代ビジネス
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ESi1YWjNESGMwSWtnWDV0bHZjaWxIbUtKMlBYVEp3QnhadDBNSTVzbDdHVVdhQWhHSk1IQU14MVlMOTlNSlpVMEw4YnotQUU?oc=5
@@ -9,7 +9,7 @@
 - Google マップの新機能「マップに相談」を日本で提供開始 - blog.google
   https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUw5d19BWWVqRVB6UmNpallnamJGWU9mRi0xU05qQXRmZDVoUGRzd0JmaXpuVHpmVzNPNnNxUlJoU3lfWVlSRzlfZzJlTEt0a1Rpa0NBYUtqTXAtTC16TUtmNlNQeXVKem1OS2tkdkVaVG0zUTBMZ0NmT2FVSGRDYmpXdGc?oc=5
 
-- 個室型相談ブースを新設 ハローワーク能代 - hokuu.co.jp
+- 個室型相談ブースを新設 ハローワーク能代 - 北羽新報社
   https://news.google.com/rss/articles/CBMiR0FVX3lxTE4zQUIzRFRLeVdPeVNjbzdMUUhiT2pPN3NNMVFYQVJJRXlDUVFXVnpkNDhJRkNQZkNPaWtiSHZBcE45WjFwY2Vv?oc=5
 
 - 経営・資金・事業承継等 個別相談会（ご案内） - city.komatsu.lg.jp
@@ -21,23 +21,20 @@
 - 保健所等におけるHIV・性感染症検査・相談について - pref.saitama.lg.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1SajZCWVJ4b1NYbklLbHlVU3hYMVRQZlVoaVhfc2ZUX1ZiVXVRcFVjbV9fTjg1MmtvYVlQRDhjRkdOZXRUbXRGWjlta08xSG5JVlNiMmxMX1duT2s0R3dfVmNhRTRZTzE2SFE?oc=5
 
-- ２３日無料相談会 県行政書士会郡山支部 - 47news.jp
+- ２３日無料相談会 県行政書士会郡山支部 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wVmwtMWg3X3NhNG5MUTduWlpBcjFKMUxMSjFLSDdhQXR1WkJwdkREVlozNWlzM1R3NTdtRWhvekh0WkY4TFF4cE5mOA?oc=5
-
-- 悩み1人で抱えず 先生のための電話相談、公認心理師らのNPO法人が開設 来年2月27日まで|社会 - 神戸新聞
-  https://news.google.com/rss/articles/CBMibkFVX3lxTFA1Z1MzRHpBUmJQMWI0ZmVUWlFjNGdLNUxiTV85QVZ6MkRodHRlY29UbVJoVWF3aWw3ell0ZHg1cFNIQjNkaEdQR1dyemF1a2JGV0M1Sm9tYkdRZnBvYXd6M19hd21CVEQzbXhfczhB?oc=5
-
-- 『イップス』は何科に相談すべきかご存じですか？ 原因と治療を医師が解説 - メディカルドック
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zb3Y3clAweTNUR29TVGRyRk0tanBYTmdGNmJYSDVqTjBOd0l0dmQ4TWV4MUxoVDdmUHowcUFXU1lOc1JQakw2UFhwMHNhNTB4MEFMdWhWa08?oc=5
 
 - 相談支援専門員（障害児の相談支援）（育児休業代替任期付職員）採用資格試験情報 - city.kitahiroshima.hokkaido.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeEJ4bEdTVnNfT0dTajFHVkhsbThOZEp2V1hxMDliakVCYnY2R2pFZWVhcloxY2JyS2hUZ3hlSUVOZXoxSl82SmFqQkhmaGhsRldiNEhwNmU5S2p1TXkwRG90YkZTdks3MVUySGc1MFI3djBKRjNsNW8wTQ?oc=5
 
+- 悩み1人で抱えず 先生のための電話相談、公認心理師らのNPO法人が開設 来年2月27日まで|社会 - 神戸新聞
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFA1Z1MzRHpBUmJQMWI0ZmVUWlFjNGdLNUxiTV85QVZ6MkRodHRlY29UbVJoVWF3aWw3ell0ZHg1cFNIQjNkaEdQR1dyemF1a2JGV0M1Sm9tYkdRZnBvYXd6M19hd21CVEQzbXhfczhB?oc=5
+
 - 国内最大級の移住相談イベント、東京・有楽町で開催、9/12～13｜旅先テレワーク実践ガイド 【公式】 - トラベルボイス
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vMUdFa2dWMEFlSkt0VDVRX2FVY3NOdU1jY3oxTmxJN2kxenBlNWlpdzd1Y0tKbk41S0ZRQlVpNFR3OUhoaGZnV05FMDl3QkxqdjVTT2s5bS1fdEZ4bFNuV2t3?oc=5
 
-- 「好きなことを仕事にしたい」→「仕事ってね、人生そのものだから」豊田章男の回答が深かった（ダイヤモンド・オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBxbDB6X1lzeVlWcXFma3FrUlJWVU84c0ZqNmQ0NVR3VGRPZmNueXh5WEJtc2tYcW52UWZTNlV4VmphQ0w0bnNaOGMxSWZkT1FaRHlZNjFJTmhCUHB1aFJPSWdFSTNJdkZrWFF5dGJIMjlqYmlDTGNrXzJQb2VnVXM?oc=5
+- 『イップス』は何科に相談すべきかご存じですか？ 原因と治療を医師が解説 - メディカルドック
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zb3Y3clAweTNUR29TVGRyRk0tanBYTmdGNmJYSDVqTjBOd0l0dmQ4TWV4MUxoVDdmUHowcUFXU1lOc1JQakw2UFhwMHNhNTB4MEFMdWhWa08?oc=5
 
 - 帰省時にＵターン考えて 高知県センター ８／１３、１４に相談会 - kochinews.co.jp
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE84R1ctLVRjbnVpLVVvaUR4cEFTSG51em1pbjBKa3RHWk82X0hPb3pkVnE5TnhjekFWNDdJenJWVFQ1bnJrQ2RDQXViOWNaMGhnTGIyVnR6QnhyZWlrNXpN?oc=5
@@ -48,15 +45,18 @@
 - 妊婦のための支援給付金事業について（伴走型相談支援） - city.gojo.lg.jp
   https://news.google.com/rss/articles/CBMicEFVX3lxTFBPRE8zRjhBbXY1M3VuYXVuX0ZpZEdHQXgxdlVJLXZSMGE3V1N6MXZjdTBaTk9nNzhicmxaUHJ6RHVGMGZsOXh4a1BoN1d5REJsNWI4dEVvMVpNNDVmaVhZSno2TVJWNDB1VmVMalZjVlM?oc=5
 
+- 「好きなことを仕事にしたい」→「仕事ってね、人生そのものだから」豊田章男の回答が深かった（ダイヤモンド・オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBxbDB6X1lzeVlWcXFma3FrUlJWVU84c0ZqNmQ0NVR3VGRPZmNueXh5WEJtc2tYcW52UWZTNlV4VmphQ0w0bnNaOGMxSWZkT1FaRHlZNjFJTmhCUHB1aFJPSWdFSTNJdkZrWFF5dGJIMjlqYmlDTGNrXzJQb2VnVXM?oc=5
+
+- 【8月21日】労働相談 - city.tokorozawa.saitama.jp
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
+
+- 配偶者からの暴力相談　1年間で1000件超　30〜40代女性の被害が多い　香川県 - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE1YQUtUb2ttRllEUGRoWmVKTU5ETDN6MnVqOXZNT3lCUGJiT1lwR0VZb3hYSXc1bkpJSVEtZGZGWGVZTEVSa284UDVZQzNYTmc4SUlYQkEyTGJ5LTlKMVZHbXdHVHJVUndLcEFiMHRsNWPSAXZBVV95cUxNb3pseWlrT0R0NDdFa2RyS3Q1cEZ6TTVwdTdacUtaUDRiMnl5RXhVTzd3dHV6bjVoLTZMNllMdnhHdkcxQXVuRVJtWjV4X3RvWDBBNnBRSHBtT1NHUzlGYjU4QTZIYlRXcVFxOGp4OHY3TE1Xdi1B?oc=5
+
 - 「眠れぬ夜はAIさんと 財前直見さんとお悩みに答えます」動画紹介 - NHK
   https://news.google.com/rss/articles/CBMid0FVX3lxTE95TXFBekg5TTlkYVlPZzdtQ1RQNXNEWlJPY3p3dThyQUk0VG9hanFtWWFjcXh4eXlKbkJuUk95bHdsR2tRNTNHUk54cEtrclR4ZWFoak53dkpOcGRvbmVnUDZCTGJRWUxNZzd1d0RlLWdEczNRbnpN?oc=5
 
-- 配偶者からの暴力相談　1年間で1000件超　30〜40代女性の被害が多い　香川県 - topics.smt.docomo.ne.jp
-  https://news.google.com/rss/articles/CBMicEFVX3lxTE1YQUtUb2ttRllEUGRoWmVKTU5ETDN6MnVqOXZNT3lCUGJiT1lwR0VZb3hYSXc1bkpJSVEtZGZGWGVZTEVSa284UDVZQzNYTmc4SUlYQkEyTGJ5LTlKMVZHbXdHVHJVUndLcEFiMHRsNWPSAXZBVV95cUxNb3pseWlrT0R0NDdFa2RyS3Q1cEZ6TTVwdTdacUtaUDRiMnl5RXhVTzd3dHV6bjVoLTZMNllMdnhHdkcxQXVuRVJtWjV4X3RvWDBBNnBRSHBtT1NHUzlGYjU4QTZIYlRXcVFxOGp4OHY3TE1Xdi1B?oc=5
-
-- 【9/29】いじめ相談対応に自信がつく！実践スキルを学べる無料オンラインセミナー・相談会（こども家庭庁委託事業） - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1hMWFJYktYLW5ydEJZTXg1UkhhU1FLZHlfNmljSXpyNm5yblZxWU43bWhsWWRvZjFPaVlNd19KY2NGQ0VjenhtWFZFcTlkV3F0UnhYZ2xqLUl3dEt2dlAyYnBfckdMU3hwUXc?oc=5
-
-- 横浜市、市内中小企業向けの「特別経営相談窓口」を設置 熊本地震受け - カナロコ
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBKUUxQc3ExajJWSC0tbzhmLTUtbUpRQkhvQWJ2YVBJX2FSbVZaNzF3MExpVzZIT2NWa09DbV9BYzhZOXVqWmVWQXZwRlJrZHVwUDN6dk5RTWV4WWUtb3VKczYtZ29FNlBWbF9lWQ?oc=5
+- 神田うのがまさかの悩み告白「高校生の時から薄いの」　クリニック通いで治療…娘からも後押し - ｄメニューニュース
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzVqRXBTWXltLS1pRnFXNVJIMTRBR1FXRUVUa3NKUjZzUmp4UE1XNS01R1pyMFpwZmlCNkU4YWc3WWRxOEFfSHhvbjJVUXFvTzhMU2xqQlJhR0tiVUhiNHJzbHdNVEN5Rl9IX09mZXdfU2QzMEZqbE1zM2NmVl9sQ1MwWdIBiAFBVV95cUxNMGtlWXZ6cEZBVFpoY1gzc0hveVBGeklFeEFRbFZueFBMeXNQb29nVE1idUt3TUZHUlJUS2xIU2paZ1F3NXdNQlNvMVFGZ3RzMWdiYmJvX2VLZl8yQ3VqZjY3S3gwemprVzZTc1RuX3dPcUF6Qm9jUENsM3YxSjJvNWlpSGpITjBQ?oc=5
 
