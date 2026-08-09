@@ -1,49 +1,52 @@
-=== こまる相談 ニュースフィード (2026-08-08 23:18) ===
+=== こまる相談 ニュースフィード (2026-08-09 00:56) ===
 
 - あなたはひとりじゃない（相談窓口のご案内） - city.misato.lg.jp
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9abmZUTTRzYnhrczFIbjBJWjI1d3JlbklzX2xMdkV6UjZXbEpYTUEyTElJbkVDRWVFYzdKamlUZkd6a1pPZUZHa2ptWGxWZVZXSUw2d2tzZDNSZUFzU0E1OTN2MGMzTkt6M2h3Y2FvQU05Z0cwLWVOX0EtVWdRNlk?oc=5
 
+- 五十肩は登山によくない？ 北アルプスで相談会、理学療法士の助言は [長野県] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82REZFczF2ZkM5ZEZRcEpZTS11QU1kUGs0NUdNZjFvYXRnSDRnOFBOaXk1ME5BMExRZG1HWHM1TExxQzVmb1VWbXc5RE9vbHpwU1Z6WG45Vl9lQVZyVFJvaHNSemhlenc?oc=5
+
 - Google マップの新機能「マップに相談」を日本で提供開始 - blog.google
   https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUw5d19BWWVqRVB6UmNpallnamJGWU9mRi0xU05qQXRmZDVoUGRzd0JmaXpuVHpmVzNPNnNxUlJoU3lfWVlSRzlfZzJlTEt0a1Rpa0NBYUtqTXAtTC16TUtmNlNQeXVKem1OS2tkdkVaVG0zUTBMZ0NmT2FVSGRDYmpXdGc?oc=5
-
-- 子育て女性のお仕事スタートアップ - city.fukuoka.lg.jp
-  https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXVjTW9zckNlb1FwOGRRWFMyWS1JenpqZWotWmpoTGQzeDViNFN5VVFFX1lDRjN0X3VPUGlEUFNQU0xKZU8wamVTYUZ3VlJzYWZkaERJbUNhM3BRaHk4czAyOUVJZGJrS05wRy1TTW1OY2ZNZ2wxZTFTRXVZNGZxWUMzR0ZIUm83aElKX2ZadmxTbEhhOXFMU3BMSQ?oc=5
 
 - 唐津東高生 関東地方で暮らす先輩に進路相談 東京都内で交流会 | まちの話題 | 佐賀県のニュース - 佐賀新聞
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KZXA2dzJSTjFMSnE1OXBPZThybDNyajBScGVYdF9wUXRSNlBRRFozaUFPQkJHMW84RmdCb1d5VXpyRzRxNkdyLUhHOUdJaHBJRU1keDhR?oc=5
 
-- 「ないなら作ってしまおう」子育てのリアルな悩みから生まれたアイデアグッズ…ママたちが作る“子連れ出勤OK”の会社が福島に - newsdig.tbs.co.jp
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tTGMyWS0xeGJ6cWhzcnFrb0ZtTHJHTFpGdGhxVFk1YWdvTUZ3XzVxc0VuNFV2dEZCTWJzeEJsY2R5cE5wcWY1T050dDhTOGJXcW5nNnlYdlVyN2VGcnFQVnlsUUNjUjg?oc=5
+- 子育て女性のお仕事スタートアップ - city.fukuoka.lg.jp
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXVjTW9zckNlb1FwOGRRWFMyWS1JenpqZWotWmpoTGQzeDViNFN5VVFFX1lDRjN0X3VPUGlEUFNQU0xKZU8wamVTYUZ3VlJzYWZkaERJbUNhM3BRaHk4czAyOUVJZGJrS05wRy1TTW1OY2ZNZ2wxZTFTRXVZNGZxWUMzR0ZIUm83aElKX2ZadmxTbEhhOXFMU3BMSQ?oc=5
 
 - 経営・資金・事業承継等 個別相談会（ご案内） - city.komatsu.lg.jp
   https://news.google.com/rss/articles/CBMiigFBVV95cUxOcHkwamRUOER4Wm94Skl3dFAzUktBZHlCY1dUVW03SHQybTNweklUeFNLR2FqcV9iVHNMNUtYWTU3eVBOSGhMNVBaRmNHd3pMY0hCS3NTTUZCV0Y4WTktT3IyRDdHS05SWS1YZVNyUWdKcFBrRmx5V1J4X0pINEpMVEtGYUFXU2MxWkE?oc=5
 
+- 「ないなら作ってしまおう」子育てのリアルな悩みから生まれたアイデアグッズ…ママたちが作る“子連れ出勤OK”の会社が福島に - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tTGMyWS0xeGJ6cWhzcnFrb0ZtTHJHTFpGdGhxVFk1YWdvTUZ3XzVxc0VuNFV2dEZCTWJzeEJsY2R5cE5wcWY1T050dDhTOGJXcW5nNnlYdlVyN2VGcnFQVnlsUUNjUjg?oc=5
+
+- 結成70年を迎えた日本被団協の相談員原玲子さん（81） - 中国新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JTnJTdThIVG5nb0p1ZWRtUkpmbFF4eXNLclgxelcyQS1RcEtveFZ2Q0RFRngtbzB2NlhfaXRfQXJKemFTUmZGemFrMW9JS1RITUVmSjExU3F5dw?oc=5
+
 - 中島健人が『オールナイトニッポン』パーソナリティ、人生相談を受け『遊戯王』の話をするコーナーも - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0yb1ZDMnJVQjBSenIzN0xjUkRISFJHUGNMcVktcXdBZGdoaDZ6Nks1bWhMMzhkdk83ZFROSjc5bmc4cjVBVkJ3MnQ3LTN4a2ZkZlJkeTlxMi15QXdBWWgzcndrc1ROLW1kV285NUprVnpUWXpoMzhibEFEaFZ4RW8?oc=5
-
-- 静岡：保育の就活合同相談会 １９日掛川で ５市町から１８施設 ：地域ニュース - 読売新聞
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE9jVlI4NzhrZGdrQmZyd0RkWmx5VUstZVo4clRzWkN0eHc4MWpBM3ZkT3hqZEZvTjlZeC03XzFOa0hrN2I3c211eHBoQzlyNm1FMFh6Q1kzM1NWaG9IZFpNYTRhOTBEeDlTSC1nTV9HT1NZZnha?oc=5
 
 - 4000組の不登校親子を見てきた相談員が伝える、乳幼児期に大切にしたい「ある経験」（島沢 優子,池添 素） | FRaU - 現代ビジネス
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ESi1YWjNESGMwSWtnWDV0bHZjaWxIbUtKMlBYVEp3QnhadDBNSTVzbDdHVVdhQWhHSk1IQU14MVlMOTlNSlpVMEw4YnotQUU?oc=5
 
+- 静岡：保育の就活合同相談会 １９日掛川で ５市町から１８施設 ：地域ニュース - 読売新聞
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE9jVlI4NzhrZGdrQmZyd0RkWmx5VUstZVo4clRzWkN0eHc4MWpBM3ZkT3hqZEZvTjlZeC03XzFOa0hrN2I3c211eHBoQzlyNm1FMFh6Q1kzM1NWaG9IZFpNYTRhOTBEeDlTSC1nTV9HT1NZZnha?oc=5
+
 - 保健所等におけるHIV・性感染症検査・相談について - pref.saitama.lg.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1SajZCWVJ4b1NYbklLbHlVU3hYMVRQZlVoaVhfc2ZUX1ZiVXVRcFVjbV9fTjg1MmtvYVlQRDhjRkdOZXRUbXRGWjlta08xSG5JVlNiMmxMX1duT2s0R3dfVmNhRTRZTzE2SFE?oc=5
 
-- 児童虐待の相談 1年間で1271件 2017年度から1000件超続く 香川県 - KSBニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwY3BmV282UDJkckFYTWFLcTVBcGxldXJmSGlUQVZ5MU8yaHhRcGpSdzJUM1RibkY3NURWUXRTT0lZSlRIM2kxYjZTdm91Zng4?oc=5
+- 結成70年を迎えた日本被団協の相談員原玲子さん（81） - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nTjRTejByTDJTaFR6QjFlbWNqYjFranRfcjRnVW5PN1ZJdzFad01KS1E0aDNxdHFiUEJ5NUs5MG5kT0RjaTN1Tzc3WQ?oc=5
 
 - 相談支援専門員（障害児の相談支援）（育児休業代替任期付職員）採用資格試験情報 - city.kitahiroshima.hokkaido.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeEJ4bEdTVnNfT0dTajFHVkhsbThOZEp2V1hxMDliakVCYnY2R2pFZWVhcloxY2JyS2hUZ3hlSUVOZXoxSl82SmFqQkhmaGhsRldiNEhwNmU5S2p1TXkwRG90YkZTdks3MVUySGc1MFI3djBKRjNsNW8wTQ?oc=5
 
-- 唐津東高生 関東地方で暮らす先輩に進路相談 東京都内で交流会 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kSkxwSHJvZ3VORXhLWFdoTlJhOURsenpkOTZYQjc1WnJ0cDlSYk9nS2thZ01VbnJMSnlndnEzUDI3SjJfLU5QY3pUbw?oc=5
-
 - 【8月21日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
-- 「管理するビルに誰かが住み着いている」…相談受けた警察が踊り場で発見したのは――無職男、4月から侵入か - 南日本新聞
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yUHJjd21yaDZ6cUhKR0Y5RUNET1Fsb1pBRVdDNEN6RGtvd2Z6VThvRkk5UUFmNHkzMFZULW53aTNSeDBsV0gtczI0TmNxS2gxUFF1djFOcw?oc=5
+- 児童虐待の相談 1年間で1271件 2017年度から1000件超続く 香川県 - KSBニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwY3BmV282UDJkckFYTWFLcTVBcGxldXJmSGlUQVZ5MU8yaHhRcGpSdzJUM1RibkY3NURWUXRTT0lZSlRIM2kxYjZTdm91Zng4?oc=5
 
 - 「いじめ・嫌がらせ」が約1000件 職場での悩みやトラブルの相談件数が2万件超に コロナ禍以降高止まり 最大は「法制度の問い合わせ」（ＳＢＣ信越放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1TaDF5dUNQX2dYVFJUNmVGdDZrRHZGeHRLampxWFFDWkN5RDRHRktfUTVxY0l3WVZaY0R1TGpzZUktNklDbUE3YTR6RnJZY25rc1FEbDZ2MDRhbmg1UDR2VEJxWnVMeEZUQUhFbmhXdzk0Mk1aakQ5RUUtNzZ2UzA?oc=5
@@ -51,12 +54,9 @@
 - 福岡：熊本地震 被災者へ無料法律相談 県弁護士会：地域ニュース - 読売新聞
   https://news.google.com/rss/articles/CBMic0FVX3lxTE5ucU12TjNwbmVORW14VVd6YnA1NEpNV085eFNvRG1RWjF3dGhDTnBqZU1SZUw4ZTNBTTRHNmJkLXI2dU81SU1hXy1lNVJYUk9MQWVnS0tpc0F2Z01xbm1fVHYwMEQ3Z2szcnRIUC1PWkNsaVE?oc=5
 
+- 唐津東高生 関東地方で暮らす先輩に進路相談 東京都内で交流会 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kSkxwSHJvZ3VORXhLWFdoTlJhOURsenpkOTZYQjc1WnJ0cDlSYk9nS2thZ01VbnJMSnlndnEzUDI3SjJfLU5QY3pUbw?oc=5
+
 - 配偶者からの暴力相談 1年間で1000件超 30～40代女性の被害が多い 香川県 - KSBニュース
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE96YnlVZ2tYZGtIRVM5bEJYUUNwbU43UGx1b0tfWEpMY2Y4THg4alVrUmFxdlo2X2dUV3B1cGs5S3R3VVFaaWhVTktBM0VBY1h4?oc=5
-
-- 【サギ速報】60代男性が4300万円だまし取られる＿インチキ投資サイトで出たニセの利益を信じこみ…口座残高8億円を不審に思いAIに質問→詐欺の手口と回答され警察に相談し発覚…きっかけはネットの投資広告（北海道ニュースUHB） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNFQ1VTdzVUdzVU1XT0VFakFxTHdDU01GaFA5UHNURGZqcGxiNWd6OTN5RGRzQkQ0WXYtZWlMWVdwY3VvVERrVnNPbmZjRFc1eEFFS3R2b0FwWjQ1YTBBZWNXTm90aGtMUm9jUTlpYmlfN2M3MnlKYW9hQi0wNzA?oc=5
-
-- 神田うの、悩みを赤裸々告白「薄毛治療のオファーが来た」「周りから見てそう思われてるってこと」（スポーツ報知） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFB5SFVwNlFGRXh1MjEtU3BRSGZiTkZtbGVrdk55ZmpkMXJNUWY5UDIwblZSWGNuc0huYlRkaHppaVRRTHlPYXMycGZtWkJubW5oUy1JYlVlYml5d2tkeFN4QXhMOUFYZlZ0TFpUVFlhYWtpdUxwYVRlNzQtOWNjVWM?oc=5
 
