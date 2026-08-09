@@ -1,7 +1,10 @@
-=== こまる相談 ニュースフィード (2026-08-09 15:20) ===
+=== こまる相談 ニュースフィード (2026-08-09 16:21) ===
 
 - あなたはひとりじゃない（相談窓口のご案内） - city.misato.lg.jp
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9abmZUTTRzYnhrczFIbjBJWjI1d3JlbklzX2xMdkV6UjZXbEpYTUEyTElJbkVDRWVFYzdKamlUZkd6a1pPZUZHa2ptWGxWZVZXSUw2d2tzZDNSZUFzU0E1OTN2MGMzTkt6M2h3Y2FvQU05Z0cwLWVOX0EtVWdRNlk?oc=5
+
+- 辻村相談窓口、「力が出ない時のおまじない」 - Design Stories
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sMkhHNEdaMnptazJUaFE0QVlZYk9UdmVmR3VvS2ZnWm9wT05McTRDVDdSbmYwRkhCa21TRF8wY3V2SUpfVFdRSXRjc1NVQU53RmhHanhSWGdFUUVHS0VWV1hSU0E0dw?oc=5
 
 - Google マップの新機能「マップに相談」を日本で提供開始 - blog.google
   https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUw5d19BWWVqRVB6UmNpallnamJGWU9mRi0xU05qQXRmZDVoUGRzd0JmaXpuVHpmVzNPNnNxUlJoU3lfWVlSRzlfZzJlTEt0a1Rpa0NBYUtqTXAtTC16TUtmNlNQeXVKem1OS2tkdkVaVG0zUTBMZ0NmT2FVSGRDYmpXdGc?oc=5
@@ -21,14 +24,14 @@
 - 阿波おどりで女性の体強調した無断動画拡散、憤る踊り手「悲しいし気持ち悪い」…警察への相談も検討 - 読売新聞
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPLVMtckNPbjBKR3JTRGZEU0ZYODN4YWRkU2tmX3N3T2xPR1M5MHZBLVEzM2xxNDM5NTNmWFBQa3Z0LXNwb2ZMekdNTEljUWR4UF9HenRJR3EyUUZOcU40TEk2ZXpEdw?oc=5
 
+- 4000組の不登校親子を見てきた相談員が伝える、乳幼児期に大切にしたい「ある経験」（島沢 優子,池添 素） | FRaU - 現代ビジネス
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ESi1YWjNESGMwSWtnWDV0bHZjaWxIbUtKMlBYVEp3QnhadDBNSTVzbDdHVVdhQWhHSk1IQU14MVlMOTlNSlpVMEw4YnotQUU?oc=5
+
 - キタ！Android/iOS「マップに相談」日本展開 - jetstream.blog
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEQXUwUFMxaEZiWWROQXBPMDlkUHRXR212MEZmTXVMaXVoMko5VHpORW40eDhWM3ZQWkVaaTZndFlDMUxEUVFSWUdaWVNjS25lcWlvSzI2SlQ3ZjFvelhtQmJiMEJoc0FW?oc=5
 
 - 【八千代市】「住まいに困ったら、次に相談できる場所を」／八千代市居住支援協議会が設立 - 選挙ドットコム
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE81VVFmOHBKeWR3Wm9jb2tOdW03TTRMWXZXRFdSeGV2UFlNYkJtem9GeExRNGlUNXB4cFhLNEM2V1Rvc0hQRlNwWEx1RXJBX1VucTJZWU1GcUI0R0x4eFE?oc=5
-
-- 4000組の不登校親子を見てきた相談員が伝える、乳幼児期に大切にしたい「ある経験」（島沢 優子,池添 素） | FRaU - 現代ビジネス
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ESi1YWjNESGMwSWtnWDV0bHZjaWxIbUtKMlBYVEp3QnhadDBNSTVzbDdHVVdhQWhHSk1IQU14MVlMOTlNSlpVMEw4YnotQUU?oc=5
 
 - 相談支援専門員（障害児の相談支援）（育児休業代替任期付職員）採用資格試験情報 - city.kitahiroshima.hokkaido.jp
   https://news.google.com/rss/articles/CBMie0FVX3lxTE9JeEJ4bEdTVnNfT0dTajFHVkhsbThOZEp2V1hxMDliakVCYnY2R2pFZWVhcloxY2JyS2hUZ3hlSUVOZXoxSl82SmFqQkhmaGhsRldiNEhwNmU5S2p1TXkwRG90YkZTdks3MVUySGc1MFI3djBKRjNsNW8wTQ?oc=5
@@ -41,9 +44,6 @@
 
 - 【8月21日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
-
-- 避難所生活で悩みも…障害のある被災者ら「DWAT」災害支援の実態は【バンキシャ！】｜Infoseekニュース - Infoseek
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkWmFNQ1NFWm5Wdm93ZzJRTE9tOW5QZGFLZHZlbjZHcXlISHkxejhJdi1hVkVkR01peklOVlpESTdJZlRPYlJmekJqT0NmeVpXVjgtWDVOTF9KNXBGR3ZzTzlpVzQwa0Jn?oc=5
 
 - 「琵琶湖三市同時花火」開催中止を発表 今後の対応は「法的専門家への相談を行いながら」 3市が関与否定 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1PeVZBUEpEdHZmRG1DNlhlUzdXQTIzZTlRSVREU21LdlFtY0R4aGI2a3F4eVZGZnU5b3FrM0lubmVSS2RkV3o0bUY0dFhCUjlHQ1o0YzlWSHA0QlVUai1wRmFwX0kyOWJVTjhDdkc4andna2tIUWJ6akJtaldOQjQ?oc=5
