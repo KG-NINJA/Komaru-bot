@@ -1,22 +1,19 @@
-=== こまる相談 ニュースフィード (2026-08-11 21:35) ===
+=== こまる相談 ニュースフィード (2026-08-11 22:31) ===
+
+- 「掲示板」作りAI同士で相談…そして意図せぬサイバー攻撃は起きた [AIの時代] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53X1l4LU4zVHZjMGQzY0R3QUhzc1J0ZTNHNGxvcUcyZzFlMnV1SXc3M0U2MlAxemUxQy1nNUxUd2VmRHg0TXJYZ0lvUlI2SzVRTVhQT3U0TUZleDJsOWliZC1NNWx5Y1U?oc=5
 
 - 辻村相談間口、「料理の意味やコツ？」 - Design Stories
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YS2NOSGtMM3dRdWJlTEt6NTlfTXBkTXk1bVVOOFdZY3paZHZkM21fTmx2WFE5TGt6X0pSeTVuQndDYzN1MzM2Tmx0MHlyMDJZT1NXRVpEU0hPcUVlSzFr?oc=5
 
-- 夫支える「透明人間」だった私 美輪さん「悩みのるつぼ」相談者は今 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JWmwxYXpxU20ybjJkTFJMX0VMcndGZkZSSUR3aDF2TXNJSHZnMXQ3UGZEUmpkUFFoYkJVSlUzTG5aSWJTUEMzUzF3LXNsNjQ3STdoeWliS2ZLTXpkcmNlSThUNWJUVDg?oc=5
-
 - 福岡県消費生活センター ホームページ - pref.fukuoka.lg.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE5Jclk3RHlaRkdJRWlKZ0ZQWkpCQ2lJSW80R1VqV1NSUUdOUVJFMFE0TFVtb0ZHaGdhUDhmYmkwbnpNT0p4cVpIOTg4YnpBUmJmZlZxVUdOdE44ckRIYldGNG9LSWxlTlRLcEYw?oc=5
-
-- Ｇヘルスケア 街角ドクター訪問【テーマ：ニキビ】 - tbs.co.jp
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wTWRjVWtBczJ6M3BJemNuUUVFV1NMUWtaeE5rUXo2bWlJa2ozd0xkSXpHd1NxS1cwSXJnSHF0M0dsV2lpV2prd2xES0l0TERxQ213OXVB?oc=5
 
 - 松島聡“永坂”、相談に乗っていた妊婦が重体に…自責の念に駆られ退職願を手にする＜ファーストクライ 母子救命救急班＞ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE91NUY2OUQ2LWU1dGdPbjB6REY2N0l2ZHM4LTNRMllfQThuRWhFTE5LSUF6Z2xKYmRramtsMTNhTlZoTm1xbVhwaUpMSG44b00wSVZWRzFpM3VWa1pBQ2hJSU0wT1FscmFYQ1BpSDhoTnJhczBEUHJyal85blY0X2s?oc=5
 
-- 【練馬区】国保料の未納は約１９億円、服薬相談の参加率は5.6％…生活苦と生きづらさへの支援を - 岩瀬たけしウェブサイト
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE5CN2ZxRzFBSW4yUlhPOWtMbk9QTUVZek1BeUxHaV95WHlVaWFJVWZxZ1VMOUI4WkRFU2FmcXlqbkdWY0JkcDkwTGg0YTNLSFVFVDctU3lMZU5GZl9MQlliXzBJUHl4NXNSR1pV?oc=5
+- Ｇヘルスケア 街角ドクター訪問【テーマ：ニキビ】 - tbs.co.jp
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wTWRjVWtBczJ6M3BJemNuUUVFV1NMUWtaeE5rUXo2bWlJa2ozd0xkSXpHd1NxS1cwSXJnSHF0M0dsV2lpV2prd2xES0l0TERxQ213OXVB?oc=5
 
 - あなたはひとりじゃない（相談窓口のご案内） - city.misato.lg.jp
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9abmZUTTRzYnhrczFIbjBJWjI1d3JlbklzX2xMdkV6UjZXbEpYTUEyTElJbkVDRWVFYzdKamlUZkd6a1pPZUZHa2ptWGxWZVZXSUw2d2tzZDNSZUFzU0E1OTN2MGMzTkt6M2h3Y2FvQU05Z0cwLWVOX0EtVWdRNlk?oc=5
@@ -24,8 +21,14 @@
 - 墨田で「おせっかい相談カフェ」 多世代で居場所づくり、子どもスタッフも - すみだ経済新聞
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZWExrdkZYdDdnNmFwODByWXlNTGh0eXYyalBfbW9aNU05ckNtUUpmUUpqY2dLMEVkMkxMamUydVBHZUh0M3E5RWhQXzNXT2RCU3c?oc=5
 
-- 令和8年度進学相談会開催予定を更新しました - 滋賀大学
+- 【練馬区】国保料の未納は約１９億円、服薬相談の参加率は5.6％…生活苦と生きづらさへの支援を - 岩瀬たけしウェブサイト
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE5CN2ZxRzFBSW4yUlhPOWtMbk9QTUVZek1BeUxHaV95WHlVaWFJVWZxZ1VMOUI4WkRFU2FmcXlqbkdWY0JkcDkwTGg0YTNLSFVFVDctU3lMZU5GZl9MQlliXzBJUHl4NXNSR1pV?oc=5
+
+- 令和8年度進学相談会開催予定を更新しました - shiga-u.ac.jp
   https://news.google.com/rss/articles/CBMiR0FVX3lxTE42bFAwam44V1Ayc29kQzJQVmpwVGRvR3h0cFFMbXU5dE1aVDhZS2UyREVaWHYxYW91eGp4R3RQZUJFRk5sbWRn?oc=5
+
+- Gemini搭載のGoogleマップ新機能「マップに相談」が日本で提供開始 会話形式で最適なプランを提案 - 教育家庭新聞社
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xTllUSmkydnJWV3FFVDNvaS1ObDB0STd4a3k3X25Fa3MyeEs0Wk9lWEJxRWR6UEVYdUZyTTZkSVViTFF6M2RYMHBqT3g3ZU4zbDVJ?oc=5
 
 - お盆期間中の小児科・産婦人科オンライン相談について - city.kakuda.lg.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5MWU2SlI5cWVBRDVGRHNGYkVxV09rY2lKcmxySUxsM3FoMU81RnZUZDFpeHZ5MFMzRGEybW5nLUttMHZrNllSaGNtVkFFWWR5YWJVc0dSdVNnd19iN01hOFJ3OXA?oc=5
@@ -39,8 +42,8 @@
 - 4000組の不登校親子を見てきた相談員が伝える、乳幼児期に大切にしたい「ある経験」（島沢 優子,池添 素） | FRaU - 現代ビジネス
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ESi1YWjNESGMwSWtnWDV0bHZjaWxIbUtKMlBYVEp3QnhadDBNSTVzbDdHVVdhQWhHSk1IQU14MVlMOTlNSlpVMEw4YnotQUU?oc=5
 
-- 「別れる」「話し合う」ゼンデイヤ＆ロバート・パティンソンが恋愛相談にガチ回答！『ドラマなふたり』特別映像 - banger.jp
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TUHFZODNvS21kYVJEbWJral9BRVJydmJzZXJCMGpuV3pEOC04elhMVHJQN1Fzakd2dzZFdnhISHdxLUE5by1ZNEdR?oc=5
+- 夫支える「透明人間」だった私 美輪さん「悩みのるつぼ」相談者は今 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JWmwxYXpxU20ybjJkTFJMX0VMcndGZkZSSUR3aDF2TXNJSHZnMXQ3UGZEUmpkUFFoYkJVSlUzTG5aSWJTUEMzUzF3LXNsNjQ3STdoeWliS2ZLTXpkcmNlSThUNWJUVDg?oc=5
 
 - 「私ひとりじゃ抑えられない」 辻希美さん、息子の「夜驚症」を告白 同じ悩みを抱える親たちから共感の声（Hint-Pot） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBxY3hLNXFoSHA1Y1Y2YTFSR1BXc1RXWUxqRnBDQmZjbThZVkN1bnNmNHlodEtTYTlUV3JiZmtsOXpoMGhRRTFXcDdKZmE1RjdMTi1nd1ZlN1N4M2pWR1UyZGJKeWhNenNUeDZZUU12UWt4UldPOVlSWGs4cTBpZW8?oc=5
@@ -51,12 +54,9 @@
 - 乾燥、たるみ、炎症な複数の悩みにアプローチできる全方位ケア美容液5選。VOCEエディターのガチレビュー付き - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBqWEtTTUdyaFJadVZMOWZGaUdCSzBWR2JMWGVja201bXpoYzVLWTBPUnpvUjVDNmdmR3dabjRrUFhPeXlrcVZBUmlrN05IWGduNmktWjZyNmVRWWZlMUVYS1ZJSzEzX21KTGE0cmJIUUhNSk0wc0pQa0hXZGhQM1U?oc=5
 
-- 【ファイターズ】北山亘基投手のお悩み相談「聞いてよ亘基」家庭菜園騒動や朝礼で使える鉄板フレーズ考案のお願いに名・珍回答 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBvZ05mTFRqTzZ5b1J1aHl4OERqclU5MUJOemdudnNPOWF1Q1hsYk1lOEdHMWRBTVdSNXNiNy1vM2pobkRUWHNjSjZIU2R6RGpKMnQyX01iQkI5bzRiWTd1ZXdxV2pSN3EwSE1IMEFiaUFxWXdJWkk2VHJ1MnJYLTg?oc=5
-
 - 熊本県宇城市、「みなし仮設」相談の受け付け開始…被災した７２世帯が参加「早く落ち着いた生活に戻れれば」 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBJM21RM1dPS0FEQjFSZGRraFBJZWlxdkhCZVBPR2RhUm9TWHVMaTRFdnY2NjY3N0pKYUNLZnAyclM0aVhROGFUS21lOFJJQjd3WnljeGRPRllZRFQ0bWFnZmxOVkNNQi1mRi1VV29kbjVNRWNjWkFwRGlvRFlZMjA?oc=5
 
-- 橋下徹氏、初共演の森保一監督に３人の息子の将来をガチ相談「今、いろいろモメていて」「どういう風に迫ります？」 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxQWElWckFlYVIyOGxiTnFkeXhYSG0weDZGTzF2SHFsWWZ3MzN5LWNJOXdxSzBJWWlfWDZHYjBhQ2ozZkVpakxXMWZtVUFmNFlvN3kyMm5rQ1dQanhmMG5BUm1Bc25lNVlQeGZnQ2VpTUpYQV9oQnVyZVhQbjB0WVo4aG5qVDAyLXZ4X3ZTQkVn?oc=5
+- 【ファイターズ】北山亘基投手のお悩み相談「聞いてよ亘基」家庭菜園騒動や朝礼で使える鉄板フレーズ考案のお願いに名・珍回答 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBvZ05mTFRqTzZ5b1J1aHl4OERqclU5MUJOemdudnNPOWF1Q1hsYk1lOEdHMWRBTVdSNXNiNy1vM2pobkRUWHNjSjZIU2R6RGpKMnQyX01iQkI5bzRiWTd1ZXdxV2pSN3EwSE1IMEFiaUFxWXdJWkk2VHJ1MnJYLTg?oc=5
 
