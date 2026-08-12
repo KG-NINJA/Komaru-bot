@@ -1,22 +1,16 @@
-=== こまる相談 ニュースフィード (2026-08-12 03:54) ===
+=== こまる相談 ニュースフィード (2026-08-12 05:23) ===
 
-- 急成長を遂げるTVerが「Smart相談室」を導入 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBOOGgzZEJXbEh1YmFKbE9rS2lGQnVkUkZqYXR5enJ1clRHTUdRLWlkOFJpUE9wNFFLYUFxLUlRWGxHMktBeXhjQ1FaUEx2RFlDMEVid2JNbTgtZVNZcDdqNUdZbzBGNWx0VkE?oc=5
-
-- 「一回り上の女性」と結婚、その後は 美輪明宏さんの教訓が今も支え - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44T25LaE9QT1VHUDF2TFJqSU40VldhSmg3TjVfR1NWNVlOZGtJT0NaYXNFZzh3ZFJBN0FRTXFBZFdjZzlkYmRrSEZUR2tYeGxHSVI4bVNnVmh4UnNreW8tbHJfZTVEa2M?oc=5
-
-- 「お金に困った、やりました」居酒屋に侵入し現金が入ったポーチを盗んだか ネットカフェで20代の男を逮捕 静岡市清水区 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBTekFRMW5LaEV4YkJfd1h4ZjYwdTdwOUxJOV83dHBDSkNSdUtMT0Q0TmRGOU0xd3ZiZWNuOW4wLTRVSFNoSDRLaU1iMHY3VUJyeHRPcXBtSEhNUE9hRUVJdTM0cnAwZE5rSE1NZmREVXlFQnAzaF8tQmh0V1AxcUU?oc=5
+- 「掲示板」作りAI同士で相談…そして意図せぬサイバー攻撃は起きた [AIの時代] - asahi.com
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53X1l4LU4zVHZjMGQzY0R3QUhzc1J0ZTNHNGxvcUcyZzFlMnV1SXc3M0U2MlAxemUxQy1nNUxUd2VmRHg0TXJYZ0lvUlI2SzVRTVhQT3U0TUZleDJsOWliZC1NNWx5Y1U?oc=5
 
 - しげよし未払い、警察へ相談（前） 差押え後も回収できず、製造代行業者が訴え - ウェルネスデイリーニュース
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oTmpZWFUxaXBFRm1RbUZQR1BzVm5WQ3ZpUTVlZWNtZzZCWVoxUm1Zd1FTNGlXRnYxaUFBbnFLU3ZOdjgxUTRweEczMHpHWEcyY2UtalV3?oc=5
 
+- 「私ひとりじゃ抑えられない」 辻希美さん、息子の「夜驚症」を告白 同じ悩みを抱える親たちから共感の声（Hint-Pot） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBxY3hLNXFoSHA1Y1Y2YTFSR1BXc1RXWUxqRnBDQmZjbThZVkN1bnNmNHlodEtTYTlUV3JiZmtsOXpoMGhRRTFXcDdKZmE1RjdMTi1nd1ZlN1N4M2pWR1UyZGJKeWhNenNUeDZZUU12UWt4UldPOVlSWGs4cTBpZW8?oc=5
+
 - 地震で被災の労働者など対象 ハローワークが特別相談窓口開設 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiVlJUNElXMmVGbDlENzBsMms5Sy14MXAwQUVzVUszYUVXcXNKQlNydTMzVVJjVEdQT3lJTVBhVDZQSXZIREF3bXBmdFZLazVteEJDVXZlNXA?oc=5
-
-- 辻村相談間口、「料理の意味やコツ？」 - Design Stories
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YS2NOSGtMM3dRdWJlTEt6NTlfTXBkTXk1bVVOOFdZY3paZHZkM21fTmx2WFE5TGt6X0pSeTVuQndDYzN1MzM2Tmx0MHlyMDJZT1NXRVpEU0hPcUVlSzFr?oc=5
 
 - 旧耐震基準で建築 長崎県内住宅の耐震化率「88・8%」 ”熊本地震”受けて 長崎県 住宅耐震” 緊急無料相談会" - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE10cXItM0g2Q3BRS2J2b29lMzl1LVpzU1RNXzZieDFHU1BmeThWUHh2OHhIck9MenV6THlEaVFFcHBJRy1QcWwzZzBKdFJSdXNPZ205WkZxSk9zZw?oc=5
@@ -24,8 +18,20 @@
 - 福岡県消費生活センター ホームページ - pref.fukuoka.lg.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE5Jclk3RHlaRkdJRWlKZ0ZQWkpCQ2lJSW80R1VqV1NSUUdOUVJFMFE0TFVtb0ZHaGdhUDhmYmkwbnpNT0p4cVpIOTg4YnpBUmJmZlZxVUdOdE44ckRIYldGNG9LSWxlTlRLcEYw?oc=5
 
-- キスマイ横尾渉、デビュー前夜の“重大相談” 恩師が明かした秘話「ローラースケートを履けば…」返ってきた一言 - zakzak.co.jp
+- 辻村相談間口、「料理の意味やコツ？」 - Design Stories
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YS2NOSGtMM3dRdWJlTEt6NTlfTXBkTXk1bVVOOFdZY3paZHZkM21fTmx2WFE5TGt6X0pSeTVuQndDYzN1MzM2Tmx0MHlyMDJZT1NXRVpEU0hPcUVlSzFr?oc=5
+
+- キスマイ横尾渉、デビュー前夜の“重大相談” 恩師が明かした秘話「ローラースケートを履けば…」返ってきた一言 - zakⅡ
   https://news.google.com/rss/articles/CBMieEFVX3lxTE91TTR2Yng1S2FlVDJjZDB0RzVpT0E5UEVmbU5EQmxHc1EwTGJpRVQxODFkREFrWjR5TEwzVEducGxUX2RhYi1hdDJvVzNCT29MdWFZdy1rcm5xRV9iclo1MUpwSFhCZjZXRUc5eG5kVndGd3dJTExUQdIBjAFBVV95cUxOTEpENjNYVUhQUWFEUzRkRFM0LVhsT0Q5a3RULTl4TXFaNXE1TlBIVENUVmZZNVY4M3JjZjVkeVBRdGZtWGlIbDd1WDIyd2ROMEY4YWZBM21zT2JmMTR5dlVqMzBuLUlSV0lwMlNrejk3ejVaTnNRYjJYeVpCcm16WWhLd1pzRnhOdjZRMQ?oc=5
+
+- 葬儀社を比較するとき、相談相手は"AI"になり始めている ～AI利用者の59%が「AIに紹介された葬儀社」を選ぶ今、とるべき対策とは～｜セミナー開催 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1YWTZ0cEx4aGpZVldXdHppMkhBc2M4VnRjZXk0YWNnNkpEcEVsLWo3bFZmbkx1dTlLaHJyQkN5SFpkY1ZfZHdENGF6ZFFLVjVoZldaTWdYMWtnT3FDN1J2ZllYaDRzNmZGdGc?oc=5
+
+- 若い女性の性の悩み、気軽に相談を 8月22日に仙台の婦人科クリニックが無料相談会 - 河北新報オンライン
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hUmtYWUtJSjRlb0UzR2JGU0JDZVd6d1lxT29VbDRDQ3hSMlZjdjNfT0FTSWVFdURJd2Z0RVlLdEpISjNwUHZiSDhIb0VOZ3BfLUppVFo4dFBCUWNmWDV0VQ?oc=5
+
+- 和歌山県 お盆期間の急病「相談窓口」「アプリ」使って…緊急性が低い救急車の利用控え促す - 読売新聞
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1nVjlqYlYyUjZpNTdjd1pSb09mWFBKMGFrZ3pWRng0dElKbTNabUV4cXNYS2NkS1ZlZ0VuQVZ2Q21QLTR5QTJDcFdHa3FnY05hbFkxN0xmWUlHbGs3eGtYQkF2ZjNhcjFPRlpldFBQeVZxZw?oc=5
 
 - 令和8年度進学相談会開催予定を更新しました - 滋賀大学
   https://news.google.com/rss/articles/CBMiR0FVX3lxTE42bFAwam44V1Ayc29kQzJQVmpwVGRvR3h0cFFMbXU5dE1aVDhZS2UyREVaWHYxYW91eGp4R3RQZUJFRk5sbWRn?oc=5
@@ -36,27 +42,21 @@
 - 『Tokyo middle 30』結婚・出産・育児の悩み…ミドサーの分岐点【第4話あらすじ】 - 佐賀新聞
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SMkpRVXNGd0JpRFBBSURrRE5ndHpTdVN6YTR4TTMwNHhXYnROOE9QSzF2RW13aXVWU0d1VFNjSHpVZ2FfR2J4c3J1ZE9NTkJnNGlXMmF3?oc=5
 
-- 「掲示板」作りAI同士で相談…そして意図せぬサイバー攻撃は起きた [AIの時代] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53X1l4LU4zVHZjMGQzY0R3QUhzc1J0ZTNHNGxvcUcyZzFlMnV1SXc3M0U2MlAxemUxQy1nNUxUd2VmRHg0TXJYZ0lvUlI2SzVRTVhQT3U0TUZleDJsOWliZC1NNWx5Y1U?oc=5
+- 「一回り上の女性」と結婚、その後は 美輪明宏さんの教訓が今も支え - asahi.com
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44T25LaE9QT1VHUDF2TFJqSU40VldhSmg3TjVfR1NWNVlOZGtJT0NaYXNFZzh3ZFJBN0FRTXFBZFdjZzlkYmRrSEZUR2tYeGxHSVI4bVNnVmh4UnNreW8tbHJfZTVEa2M?oc=5
 
-- 葬儀社を比較するとき、相談相手は"AI"になり始めている ～AI利用者の59%が「AIに紹介された葬儀社」を選ぶ今、とるべき対策とは～｜セミナー開催 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1YWTZ0cEx4aGpZVldXdHppMkhBc2M4VnRjZXk0YWNnNkpEcEVsLWo3bFZmbkx1dTlLaHJyQkN5SFpkY1ZfZHdENGF6ZFFLVjVoZldaTWdYMWtnT3FDN1J2ZllYaDRzNmZGdGc?oc=5
-
-- 「私ひとりじゃ抑えられない」 辻希美さん、息子の「夜驚症」を告白 同じ悩みを抱える親たちから共感の声（Hint-Pot） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBxY3hLNXFoSHA1Y1Y2YTFSR1BXc1RXWUxqRnBDQmZjbThZVkN1bnNmNHlodEtTYTlUV3JiZmtsOXpoMGhRRTFXcDdKZmE1RjdMTi1nd1ZlN1N4M2pWR1UyZGJKeWhNenNUeDZZUU12UWt4UldPOVlSWGs4cTBpZW8?oc=5
+- 「お金に困った、やりました」居酒屋に侵入し現金が入ったポーチを盗んだか ネットカフェで20代の男を逮捕 静岡市清水区 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBTekFRMW5LaEV4YkJfd1h4ZjYwdTdwOUxJOV83dHBDSkNSdUtMT0Q0TmRGOU0xd3ZiZWNuOW4wLTRVSFNoSDRLaU1iMHY3VUJyeHRPcXBtSEhNUE9hRUVJdTM0cnAwZE5rSE1NZmREVXlFQnAzaF8tQmh0V1AxcUU?oc=5
 
 - Ｇヘルスケア 街角ドクター訪問【テーマ：ニキビ】 - tbs.co.jp
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wTWRjVWtBczJ6M3BJemNuUUVFV1NMUWtaeE5rUXo2bWlJa2ozd0xkSXpHd1NxS1cwSXJnSHF0M0dsV2lpV2prd2xES0l0TERxQ213OXVB?oc=5
 
-- 【8/27開催】LINE活用でよく寄せられる質問にまとめて回答！LINE公式アカウントなんでもオンライン相談会#2 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFB4XzlTYlI2OHZIVXpGT2Y3T0hMUTQ1QjlaRmxZb0t6MS1kVUVVQjh0Q3cxaTJDbjc3UVRYT3hGanh0eTBBMkhzTTdjcGdLM29sdXJKMXlhMW1XTU5uajdJWXF0UFdkN3JkWkE?oc=5
+- 35歳グラドル、高校時代のカップ数告白 「Iぐらい」の大きさに悩み「さらし巻いて」（ENCOUNT） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1XenZJdnBZS3FLM1V1RVBCb2FHNzAzQXQwNTdzcEF4VFp3ZmU3d3RaVzM0S2FSRm0tR0VqOXQ5MVVPS2R3elc2eW1vZmViVVVfMTlBS2ExRGtqcXU1OXBzdmpTTEVXOE54aXVCWjhIREtiMFlTZzlMNkx5VG1LWTg?oc=5
+
+- 夫支える「透明人間」だった私 美輪さん「悩みのるつぼ」相談者は今 - asahi.com
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JWmwxYXpxU20ybjJkTFJMX0VMcndGZkZSSUR3aDF2TXNJSHZnMXQ3UGZEUmpkUFFoYkJVSlUzTG5aSWJTUEMzUzF3LXNsNjQ3STdoeWliS2ZLTXpkcmNlSThUNWJUVDg?oc=5
 
 - 墨田で「おせっかい相談カフェ」 多世代で居場所づくり、子どもスタッフも（みんなの経済新聞ネットワーク） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1GaEVhSEY1ZDJ0Mkk3YWJ4S3laVkY5X3ZOdS15X3luSnZoTDZndDUtUVBZZ0tmRC1EWERaaU4zbWdSaFZlcnBJNEltZlYwYkNEZk9OeGRTZlFBUFpwWWJFdTI1d1pNZFBtUlFiY1MtcVVYaXhQRURKbUVNTFlZVFk?oc=5
-
-- 夫支える「透明人間」だった私 美輪さん「悩みのるつぼ」相談者は今 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JWmwxYXpxU20ybjJkTFJMX0VMcndGZkZSSUR3aDF2TXNJSHZnMXQ3UGZEUmpkUFFoYkJVSlUzTG5aSWJTUEMzUzF3LXNsNjQ3STdoeWliS2ZLTXpkcmNlSThUNWJUVDg?oc=5
-
-- つながりAI、こども性暴力防止法対応を支援 AIと専門職が24時間相談を受付（こどもとIT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1TT3lDLTF2T0JpdnpDajBrSTAxSTFjNnpPR3JhQlZydjBTRUhCdlAwbDVaQ1QxcC16MUNfaWtQR2hpblhSdkRIc2ZRQ0pheGVUdDZaRHNEUVozTFE0c0R0R2xBNldXUW0zdGpSUW5IVEY1ZDhRYmF2UklYdVY1VEU?oc=5
 
