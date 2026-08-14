@@ -1,10 +1,10 @@
-=== こまる相談 ニュースフィード (2026-08-14 07:08) ===
+=== こまる相談 ニュースフィード (2026-08-14 08:57) ===
 
 - 【要予約】太陽光発電設備補助金個別相談会の開催について - city.osaka-izumi.lg.jp
   https://news.google.com/rss/articles/CBMinAFBVV95cUxPenNnQW1aUkhrT3N4V3VfZU5lRnNlLUFsSlRJVzgtNUUtSWNtdkI3Wm8zc0N1d2xZSzJDZW1KX0FDZm9oeGd5NG9nNlcteWxDMW84RV9VU1NtdzBTVGV3YnBLUllBbUh2a3BVTHQ4Z1RlT0tyYjAxV3ZEYm9HSkpVbEFvWXdSWkt0YmoxREZzU01EclZDZkZYUlU2b0Q?oc=5
 
-- ８/23（日）開催 オンライン移住相談会「静岡県東部地域ＤＡＹ（裾野市・富士市）」 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9DTWpkSW41MEwyTFpOWEJNQ3NNNURGT25fX0ZHa0xscV9raTJBeHZ4OFVOZjBzSjJyR0oyUUlOaTVOY2U0WnBnWHFnSWlFakRrNU5lTDRQMzFqTWFXWWRnTW1vYnppeGpLeFE?oc=5
+- 【長野県東御市】空き家を「探す人」と「活かしたい人」へ、銀座でセミナー・相談会を開催 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9fTUlUUzBWSTF0X0p3bXA5NFNxNnhwdTBVREcyMzMzVTN2MTdkQW1PMWhTb3FTZWFSbjNIWmFPX1p5WmJfMUxVdE1OZ21UcTJfQXJ6dG5iaXBVM2J4MTlMWDBqOEhBTjJ2MHc?oc=5
 
 - 橋下徹氏「3人の息子でいろいろもめていて…」 3人の息子の父・森保一監督に子育て相談（スポニチアネックス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE54UnNTbHdKdGJvdHdsMkQxRlZnQlFmSEhxdVJLVjJkeVVaM3F3WVNlZHpDd0Mwb2VXRm1XYUtvOVNZNDd6TEhnTkJZbUhYTHJKdERBbjZIX1dBdE5oMFhXVlBleWpoWlo1RHd2QjlzeXo1V0IzU2N4ZTNNOWR6NGM?oc=5
@@ -12,17 +12,23 @@
 - 専門家による相続個別相談会 相続の窓口 - 市民タイムス
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CdDR6QUJhZlZwa29ZcnVRVE5XX3F2RVNWdE5nMEhSUEZjcFlfdHdBeUF0ek94dU1la1Z2d00yY0M5eHQwWlBpZDg3RjRiUTNfMVU5WUF3ZEh1a0xQc0syaENnVDU?oc=5
 
-- 「ゲイ告白すべきか」 美輪明宏さんの回答、9年後に読んだ元高校生 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lcjZKNk1GRC1xbTZJY01DSm11RVJDMmloTkFvMk1LWFNTZ3YxYks0VVYtY0tkRFNhSzFBV1lBQ19sTlJsQzM2MkRya0tsLWRjMkpWQ1N5eFdSS1VYTVRJOGJ1c0dUX1U?oc=5
-
 - 【重要】中部県民生活センター消費生活相談窓口の移転 - pref.shizuoka.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1pOTk5wbDN6ZFhqblN4aS02a2xDNW9sMURaR19UYjRucWg3YU9uQjdadmNZUGpNanYtY3dOZXhOQjc2Y2lKVm92aGltYUlwcl9ESnNSeGRWcXd1WWZwbkJzX3VmVHdWTHFmVkw3R19hSjR3ZXBmV1lqcEI2b3gwNWR4bWJYdHRKS2JnZDhka0k?oc=5
 
 - 「薬日本堂・青山本店にお邪魔しました！その②」ゲスト：薬日本堂相談員・小林君霊 さん - tbsradio.jp
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BVWFoWWRDSC1IS1l1czA5ZlAyanFGS1NOSzVIWlZsTjRvV1pMeWtlR0pIMUVXWi1XaEt6VklVMU90Y0hRbjBLa0xLY3h3M0dXYUE?oc=5
 
+- 「ゲイ告白すべきか」 美輪明宏さんの回答、9年後に読んだ元高校生 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lcjZKNk1GRC1xbTZJY01DSm11RVJDMmloTkFvMk1LWFNTZ3YxYks0VVYtY0tkRFNhSzFBV1lBQ19sTlJsQzM2MkRya0tsLWRjMkpWQ1N5eFdSS1VYTVRJOGJ1c0dUX1U?oc=5
+
+- 東京都、5月の消費者相談 「医療サービス」「健康食品」が増加 - 通販通信ECMO
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KcTEzNktuUF8xRU1BWnBoUEVBSlRBaExUQnpWNEp5UUVvYlFJSkxGUEdPdEN4YllySlJLM0I5VDRhMk5VWjlMeUZKVnktZDZkNjI4d3VB?oc=5
+
 - 小児慢性特定疾病の子ら対象に交流・相談会 ８／２９・高知県宿毛市 - kochinews.co.jp
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xOVg4UXRSZV96dlZXLUZOa1JmYmJoZk5ZUjEwQk8ycWtBb2dKZ1FOVXZCbzBLcnJ3TldJSVZhWk8ySEwyYkVocVR6cXpsTGhRQXVzU0g0Yk5URkFVTTRn?oc=5
+
+- 氷見市の子育て相談対策について・・・子育ては「ひとりで頑張る」から「みんなで支える」へ - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eXBiVXFFRWI4aHlVQk03XzlUSDBHcUdUcVJSU0dGQXRsMEFhZTFDY1NxRWNKMjhRb1VhUG5xT2Q4VElmVUljaEpHX2pUOEFhMHF0V1czcEpBRmVoblU4?oc=5
 
 - 家族間の殺傷事件 悩みを多角的なつながりに開放 - 佐賀新聞
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CYU5JZGgzbUNUUC1BaUNjU3dEQ09ZdDFad2trTkFERjhtVjd5dEpaTEhRMjl4LUF4a2x0MnNFMDVYcURHQnJBQkhKN3dCdUVtbmQ0cnlB?oc=5
@@ -30,33 +36,27 @@
 - 【原神】小さな霜の精の大きな悩み事の攻略と場所 - GameWith
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fS1RmdHcxbmY2TnhSdDBQQ0pNVjFjNDdDVXc2ckpVdmpMVDRVcW0wUlA0Vm5wQzd3c3hPZTRXcnR4cm1TbWprbm9xc21UZnBSZHp4VWNENzIwcmc?oc=5
 
+- 2026年熊本地震＞罹災証明書の申請を無料支援 熊本県行政書士会 電話相談や予約受け付け開始 - 熊本日日新聞社
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NR1A4ZmtLdXBqNUI0WlNMT3lLRmZCV1loTGFiWGZGZ181YUljd3R3aTBqVnhFSmlBTjh3MW51SmgwYzA0dlhKMTFLSWxPZGM?oc=5
+
 - 【防災・防犯・事故等】KIREI produce：電気設備の異常相談を全国で受け付け、漏電調査から分電盤交換まで一括対応 - みんなの広報宣伝部
   https://news.google.com/rss/articles/CBMickFVX3lxTE53X2pyNjJfN1ZnT0FIWU94ZFU2R1ZhMkdUMlhMYjFROG13Nmc3VkNzMXJ3U0kxOC13Wmp5SDFRVU1VQWo2NU9ac0pmWUtWOHpXTy1XMS1GNHZRXzN2cm1BazhkVG9WbTBRNmdKR29lcUxwZw?oc=5
 
 - 台北の高齢者比率、25%に迫る 外出支援も事故が悩み - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBkb0l5WG5YbkJDaVBLYUFnNnZYQ1hmUGttdUNrVmFJWWNqNEJ2U3k4bEdHbDhxeTlBOWJ2c3g0WGIzYWVZNi1WdVFjVEY2LWRVZGppMmxzQXRNN19VclZmNnBhV01XU3RfTEdDQQ?oc=5
 
-- ココリコ遠藤 飯島直子とのキスシーン前に本人へ相談…返ってきた頼もしすぎる一言 - スポニチ Sponichi Annex
-  https://news.google.com/rss/articles/CBMilgFBVV95cUxNMExoZ0V3ZGJQa0FQRnk1dHNGOTVQQ19Sc01DTzBhRnJMNkhFS2lBRmZiVG1VYVh3bV83UmhZNzNka2Zjc0ZqcEJCN05pek14a0U5cDlqQXdCX0p1aXlnUnY1bnVfWEZBeGhIVk9SamNFcVFkMGwyMGJCTTdvOGxCZjFCTS14bi1nUVNGdldPTVhOWFFKdlE?oc=5
-
-- 高校連携で子ども悩み支援 ひきこもり早期支援へ―伊豆の国市 - 伊豆新聞デジタル
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OR1VMcVVvR0hvLW1RN1FwNkhmbVlJaDd6VFJPMlk0QmV1dUs4ZVI0eW1IN1ZpNGlfdmRBcndHOUp6UDZTanVuSEVqcW1qZDNDRU40anoyeHFjRjhIblRR?oc=5
-
-- 『才女のお世話』第7話「お嬢様の悩み」あらすじ＆先行カット公開 美麗に突然の縁談 - エンタのおはなし
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyMGpSQXRpYjhVc01tT0J3SVlnSm1Yd1FSVlhvTjNUZFBnQVVoSF9oempDbzJtZ0dPbnpWTy1ySDVnSGs1ZElXaHlrZw?oc=5
-
-- あなたはひとりじゃない（相談窓口のご案内） - city.misato.lg.jp
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9abmZUTTRzYnhrczFIbjBJWjI1d3JlbklzX2xMdkV6UjZXbEpYTUEyTElJbkVDRWVFYzdKamlUZkd6a1pPZUZHa2ptWGxWZVZXSUw2d2tzZDNSZUFzU0E1OTN2MGMzTkt6M2h3Y2FvQU05Z0cwLWVOX0EtVWdRNlk?oc=5
+- ８/23（日）開催 オンライン移住相談会「静岡県東部地域ＤＡＹ（裾野市・富士市）」 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9DTWpkSW41MEwyTFpOWEJNQ3NNNURGT25fX0ZHa0xscV9raTJBeHZ4OFVOZjBzSjJyR0oyUUlOaTVOY2U0WnBnWHFnSWlFakRrNU5lTDRQMzFqTWFXWWRnTW1vYnppeGpLeFE?oc=5
 
 - ＜ザ・マミィ酒井貴士＞結婚3年で“レス”に悩み「魔術に頼るしかない」 まさかの行動に妻ドン引き「今、私に何したの！？」 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1EQ0xicUtHV0lOTWhBVDdra1JBaEg0ZXV3TjZzeGEtMmFybDh2N0FmSmU0b0p6NnFLdlhSTG90Nm5icy1RR3dFaU1iTnBZR0FOc3ZYS05LWGF5TlJSZk1SbE8xSUtxS1F2YVQxdkdfQlB1TTJISkFGZFJlaXFXbUU?oc=5
 
-- 東京都発｜“効率化”だけでは終わらない介護現場改革。現場の挑戦と「人づくり」を支える個別相談がスタート - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5iWE9pWmw4a0NMTTdHTXRudUVmZ2hWU1hybEhPVWQ3RnFoVUxkdVZqRUVFc0tXZUk2RXVUdlZYVU41SkFhZ0YySGp5TllSQ3BpTW03elhmS3lXUnItRURaMUh2V1BrYnlWMnc?oc=5
-
 - お金を使う派、貯める派...悩みが減って満足度が上がるのはどっち？（PHPオンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE8zeW43VE1fbEJEWmgwdzhxdk9LTzZfak1nM2dwTU1fWGFHYWlvWEFnUUVLTWE0NnZYaGVKRm1zQmM2TTlzVkdVUW1aeFhhNzdMX2pxNG5XQ05wYUl0ZFJFUHV0Y1RuY2JVdERvNmpSTGJCM0FzSEtSMGYzY21kWFk?oc=5
 
-- 【法律相談】テニスサークルでのプレー中、顔面にボールを当てられてケガ、相手に治療費の請求はできるのか？ 弁護士が解説する「故意の証明が困難な理由」(マネーポストWEB) - Yahoo!ファイナンス
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2MwREZtMEs4UjJKa1pRbXhfVmp4aE5DMks3VUNvWE5zQmc0MjVpTGhtWmtnMXBrMFNKeUxVa2gxempnZzdnSTJvcV9vZDVHQ2FDcWF1c2ZxNEdtc0wtcmR0U2VGcXJEaXl4NmlxTmRLMEhZaFIwV2pfQVBTdklhbnNKNDJyc2s?oc=5
+- 東京都発｜“効率化”だけでは終わらない介護現場改革。現場の挑戦と「人づくり」を支える個別相談がスタート - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5iWE9pWmw4a0NMTTdHTXRudUVmZ2hWU1hybEhPVWQ3RnFoVUxkdVZqRUVFc0tXZUk2RXVUdlZYVU41SkFhZ0YySGp5TllSQ3BpTW03elhmS3lXUnItRURaMUh2V1BrYnlWMnc?oc=5
+
+- 安田祐香、衝撃スコア「61」の裏にコーチの「天才向け練習法」 悩みを一撃で解決、自己採点は99点（THE ANSWER） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9UaGFZbzNLbWJEanpOektMQlhWOXMtNjM2dkFQdmNYWEFub0NJczJpQ3NtaURaUWljVmQ5bGdobGRhQjJoQzVLZUtpWk9XWkE2NlR1SUZFb1JWZTAwQURQUkVoTFI0RlhrMXgzeFB1eWF6QThmMWxNNFhSbWtaRVE?oc=5
 
