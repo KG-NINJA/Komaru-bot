@@ -1,10 +1,13 @@
-=== こまる相談 ニュースフィード (2026-08-17 10:21) ===
+=== こまる相談 ニュースフィード (2026-08-17 11:16) ===
 
 - UJIターン就職相談窓口「ひょうご移住・しごとプラザ」 - pref.hyogo.lg.jp
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lQ18wWFFDazdUNWF2azE4MkJWNE9VVG10SGRhN2xocHNOUndqdEswUHhPcVdrV2dsZVJKS3ZBVVNiNVByTmRzalVwQmtVdjdRS2pCQTlQR2d5VXZwb1ZFRg?oc=5
 
-- いじめや体罰など弁護士が無料電話相談 全国一斉で8月24～30日 - asahi.com
+- いじめや体罰など弁護士が無料電話相談 全国一斉で8月24～30日 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WX3M2Z1NjazNwX25wQ0JoVkRlVjdhZXNPNWdlRGdUUEZaMFpvb1RKWFU1dXpCWm5sMjVKaXlSOFhucTE5UzUyNVZtd1pUd2lrNUhfME10QzRqalY5dnhUZkVpVkRtZkE?oc=5
+
+- 【山口】消費生活相談 ４割が６０歳以上 - yab｜山口朝日放送
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hZ1M4MmdqdTNMMy00MDdBSUJMeUo1YXBLZkNteVM4TDlNYTUtcDNCWnRfVl9Pc2NrNVJtM0RfNnoxa2ZsWkNuV3ZQYTJDSWY4bVVyWDJ2WQ?oc=5
 
 - 「ABEMA NEWS」美人アナが「結婚相談所」開業 8年に及ぶ婚活がきっかけ「長年やりたかった」（スポニチアネックス） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9GREVXSEJZYm9TNG9SMDA2a0xNSjZ6anlGNlhKV1Mwc2VQcGFpMXBkV25lUzJMd3ViamVNNFFTWkc1UElzWkZzSE03SndCV0RoemptUFg5TVZ3RjdXT3lxTktiSHh2SVluVldiNFh3VExKRGRmV2JLUm1WZTJCYkk?oc=5
@@ -18,7 +21,7 @@
 - 令和8年度 無料不動産相談会（9月～11月） 開催 - tokyo-takken.or.jp
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JVTV1bkJQVktpZ2VHb0oxeUJQbm9pdjFyaTRwU3BXWFRVR3FTMEg4YzJLYW4yTGJoWWcxQXphYjRnZEFsb19UTll3My1FN3VSUndsX2hRSF95cUE?oc=5
 
-- 不登校に悩む中高生・保護者向け「無料オンライン個別相談ウィーク」を開催 - PR TIMES
+- 不登校に悩む中高生・保護者向け「無料オンライン個別相談ウィーク」を開催 - prtimes.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5pb3dKazJDUW96elpfVXIwaXJTdmk5ZlZldW9YRjd5cXZDZW1zUVNjMmNhOVFEN2l5SmtXUjBIV2hoLTd2VXNKUFQyY2J3NEF2LUYxeHd5SXZ1SnVkYXA1UTVncHNBbTV5elE?oc=5
 
 - 売掛金巡る相談後絶たず 「引き続き厳正に対処」岡山県警 改正風営法施行から１年で初摘発 - 山陽新聞
@@ -27,36 +30,33 @@
 - 兵庫県内のDV相談1万8774件、5年ぶり増加 窓口拡充、一時保護も増える 25年度|社会 - 神戸新聞
   https://news.google.com/rss/articles/CBMibkFVX3lxTE1QSzJpVU82SDVJZkNZQmwtb2NBQzNZenQxZ2tnMU1QVlBNaXBGc2RHcVE1ZWZzUGl6ak5kblg2QVVuamR1RFplRHRfTmtDZjlVRnFkOEFoYWZuRmtoMkt3ZmVTSmp2b21nRUpsaENn?oc=5
 
-- 生成ＡＩが悩みごとの相談相手に つくば市が実証実験始める - NHKニュース
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE94b1c5NjZuVzNYVTRqcG9IVDlvNDlDVm5rTUttLWJFR1ZjeXRuSzZleXBiaExuNHZZZUxPNS1ILW5adVBvbXM5LVM3VGlsN1VVOUdpZXpTTkY?oc=5
+- 子育て家計の不安解消！商品販売なしのFP相談で未来設計 - cozre[コズレ]
+  https://news.google.com/rss/articles/CBMiREFVX3lxTE5aMTZCMDl4eElJdC1aNWhzT0lOR1VUVWxkbF81ejBYVHJ6STl2WThyQnJIZm1YaTJfTHUyenlmeFZ6aExh?oc=5
 
 - 郡山市内・27の幼稚園や認定こども園が集合！ 入園相談と就職相談を同時開催「入園・リクルートフェア」：ニュース - FTV 福島テレビ
   https://news.google.com/rss/articles/CBMiekFVX3lxTE56Qi1IUU16SXg0Rjc3RWd5bS16X2RqUk1vQXU0clhmVDNRbEo2OXZVOFdGTFFvZVNQUEtQdGtpdmltMEFjWl9oMkl1OVJwN0lxRkk4MVd1YmNHbEpySUV0dTVJamhJdWVGbkEtWXJZcnRZNGkzdW1RT3Zn?oc=5
 
+- 生成ＡＩが悩みごとの相談相手に つくば市が実証実験始める - NHKニュース
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE94b1c5NjZuVzNYVTRqcG9IVDlvNDlDVm5rTUttLWJFR1ZjeXRuSzZleXBiaExuNHZZZUxPNS1ILW5adVBvbXM5LVM3VGlsN1VVOUdpZXpTTkY?oc=5
+
 - 被災者狙う悪質商法 熊本で相談次々、窃盗も - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rWkpzSklEMFh5N1h2aExGeHhDZ0RhSVNkVGRfckIzSk9CNFVyazhtendxLV9vVVlIQXY1WnhGSExzTDc5ZE9mOFRfNkZSWUlwNHNzc21lVm80U0MxcmlFbkdXRkNVaUtD?oc=5
-
-- 保護者だけでも相談OK、学研WILL学園が不登校の中高生向け無料オンライン相談を実施 - こどもとIT
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BNlVKMzktZlQ1bnZ6Ym1uYVpybHVBYWlXcV9uNnFIcWgzdzF6a0VYQ1dOZXNFbjd3WVlPWmxINUFRNG15eXo2QXphY1hZUVp0N3RPb3lxOHVFLVRBSF9uNUExV2I?oc=5
-
-- 空き家の利活用推進へ 実家の片付け、相続のコツ学ぶ 龍郷町で相談会｜地域 - nankainn.com
-  https://news.google.com/rss/articles/CBMi1AJBVV95cUxPcE9Lb0lNYjUyb2hzN0VfdENFTldOMk5FVVdaWXEwWWYyN2l0c1pMejN5Q1Myd29jZHVSakZoV2NGSl9KcW5wTk5ZSVF2N3lwVWluLTFmZ0dOM1VKbnQtV2tOUXNLOVBlbFgyWWIyNFBFYkRXM09qMzBPbmhpb2Vxa25Tay0wdzBZdzMydlBBN3FnWnpNOUVrUVZsLVFQTUtWQmZmemJDNG04blpGLUFrRFE4UjNibktKeFBNc2hBeDVFZE11Q3plY094a0JXSFJzMldjM2lDY1dyR3V0MkRGc1Z4RjFreGx3ZkY0MjdyVVNMSFpZQ1V5UDl5M2hhc0xJdGJhTE1ySk1LVmotYVRRemlhTkF1S0lKUHBUaktEZ3VXRURrVGt6Y01iYUptbm1zdkJaVW1wd0djeW1ZTUFnTjQwLWRhVWd4MTJVU0RYTnlYNk02?oc=5
 
 - 汗が原因で断念「経験あり」6割 悩みある人が回答、着たい服諦めるなど（時事通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5nZkMtSjZ6aENELTY1S1pURDlkc0N4VVFGcUJsRDdLa3JGaVFZSko1clN6Y1czeVA2WmlyR0VzczhnRklZV0hCTEptWEQyai00QnZLSmZNMlp6Q0RmMGxvRVN3Y0thZHlQaUdkRnZzbXJxbHA0U3pMZUtzX1l6Nms?oc=5
 
-- 資産運用の相談サイト「資産運用ナビ」のアドバイザー一覧ページに比較機能を追加｜気になるIFAを選んで経歴・得意分野・相談料をその場で比較可能に - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZYkF6dVhtRTBFeUVCXzZIdHg5N0wtVzRyaWd2ZFpLRmxYQjFISHUzTjFVQ0h0dGFuc0VZbGpqcWJQNjVkdlo3S3JPRFlINWZrLUZSNGRkZzNYdlpsQ0hvZXJ0OV9fMlU5cVE?oc=5
-
-- 昨年度の職場ハラスメント相談１７００件余 鹿児島労働局 - NHKニュース
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PTGFIME5hU2ZORnJyb2FxYmw3UFRzWjRSR1NvdDFjZ3N0QllxX3NMRDRUVVlHMEZhcWhUcHdDaW5aNldaUjdxZTVuV3l6UEVEemxYVWR5UVE?oc=5
+- 【新商品】顔の“エリア別” 化粧下地が誕生！悩み*1と仕上がり、どちらもカバー*2 - prtimes.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE45LVdtbDNNWml0MXRabFJfRnlPZkRzTVpXVWttbG1fVm9fYmE3NnFjX0t3Ql9oMnpsUHdkQlBsbFFfeUJTdmFiWEpkdURjQUVBU0NlZjYyaUxKaG9IOXdFQTFyWEQycDk2c1E?oc=5
 
 - 【図解】汗原因、6割「行動諦めた」＝悩みある人、着たい服断念も―業界団体調査（時事通信） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE92S2d3cG9YaGhMZnVtTWVLdzhuM2pIN3RFcWRQSlRfUnRucjhPWWpZU2J1Tk1PRmtIZ1hLTGdKNnZFV2lnN25tOUI3cnFMNkhTX0RaNTEtSkhDR1RjU192N3FoSFB0ZjFmeklEUnFYOUJkZW5fT3RxUTloT185NnM?oc=5
 
+- 資産運用の相談サイト「資産運用ナビ」のアドバイザー一覧ページに比較機能を追加｜気になるIFAを選んで経歴・得意分野・相談料をその場で比較可能に - prtimes.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZYkF6dVhtRTBFeUVCXzZIdHg5N0wtVzRyaWd2ZFpLRmxYQjFISHUzTjFVQ0h0dGFuc0VZbGpqcWJQNjVkdlo3S3JPRFlINWZrLUZSNGRkZzNYdlpsQ0hvZXJ0OV9fMlU5cVE?oc=5
+
 - サイバーインシデント相談件数、3年連続で8月に増加【デジタルデータソリューション調べ】（Web担当者Forum） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA2b0lRYkl5aHFDQjBvSF9RSkI4enlqYXM2aUFhNUEzTmJ4NzUxR0xyUlMwWlhXNTBxWXE2VHZxZy1OSGJ5TjlBbDdqZzRfU3RER1laTGQ1c1UwajR1cXNHS1lXXzA0U25PQ0t2eWpwRVVnS1k4U0JseUFzbHc2V0U?oc=5
 
-- 「買うしかない」 陸上・山本有真からの“お知らせ”にファン大歓喜「幸せな悩みをありがとう」（THE ANSWER） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5zTjlSYV9lT0R4bENiOTY0cWZmSEU4MVpGNERQUHJrTnVCcEFIU20tMzZSMUVJUFlPWTVJd0x1N05MUmh1cW5HcjJJX3BtT1kzSWxqbFpIOXA3OHhRWWQxWXFRQ1NsanZYYlE1bEZDeTB5VE5uWjE4Mkw1VElWRVU?oc=5
+- 保護者だけでも相談OK、学研WILL学園が不登校の中高生向け無料オンライン相談を実施 - こどもとIT
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BNlVKMzktZlQ1bnZ6Ym1uYVpybHVBYWlXcV9uNnFIcWgzdzF6a0VYQ1dOZXNFbjd3WVlPWmxINUFRNG15eXo2QXphY1hZUVp0N3RPb3lxOHVFLVRBSF9uNUExV2I?oc=5
 
