@@ -1,1 +1,28 @@
-<!DOCTYPE html>\n<html lang='ja'>\n<head>\n    <meta charset='UTF-8'>\n    <meta name='viewport' content='width=device-width, initial-scale=1.0'>\n    <title>AI 恋愛相談</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            background-color: #e7f0ff;\n            color: #333;\n            padding: 20px;\n        }\n        input, button {\n            margin-top: 10px;\n        }\n        footer {\n            margin-top: 50px;\n            font-size: 0.9em;\n            color: #666;\n        }\n    </style>\n</head>\n<body>\n    <h1>AI 恋愛相談</h1>\n    <p>AIに質問して、恋愛についての相談をしてみましょう。</p>\n    <input type='text' id='userInput' placeholder='あなたの質問を入力してください'/>\n    <button onclick='getResponse()'>送信</button>\n    <h2>AIの回答:</h2>\n    <p id='aiResponse'></p>\n    <footer>#KGNINJA AutoApp</footer>\n    <script>\n        function getResponse() {\n            const userInput = document.getElementById('userInput').value;\n            const aiResponse = document.getElementById('aiResponse');\n            // 簡単なAIロジックを模倣\n            if (userInput.includes('好き')) {\n                aiResponse.innerText = '好きな人に素直に伝えるのが大事です。';\n            } else if (userInput.includes('悩み')) {\n                aiResponse.innerText = '誰かに相談するのが一番ですね。';\n            } else {\n                aiResponse.innerText = 'もう少し具体的に言ってみてください。';\n            }\n        }\n    <\/script>\n</body>\n</html>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>家族の相談窓口</title>
+    <style>
+        body { background-color: #e0f7fa; color: #004d40; font-family: Arial, sans-serif; padding: 20px; }
+        footer { margin-top: 20px; text-align: center; font-size: 0.8em; color: #004d40; }
+        h1 { color: #007BFF; }
+    </style>
+</head>
+<body>
+    <h1>家族の終活相談窓口</h1>
+    <p>大切な家族のために、葬儀、相続、仏壇などの悩みをサポートします。</p>
+    <p>こちらでは、終活に関する情報や相談先を提供します。</p>
+    <h2>相談内容</h2>
+    <ul>
+        <li>葬儀手配について</li>
+        <li>相続の基本</li>
+        <li>仏壇設置のサポート</li>
+    </ul>
+    <footer>
+        <p>#KGNINJA</p>
+        <p>#KGNINJA AutoApp</p>
+    </footer>
+</body>
+</html>
