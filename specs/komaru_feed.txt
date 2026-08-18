@@ -1,13 +1,13 @@
-=== こまる相談 ニュースフィード (2026-08-18 12:23) ===
+=== こまる相談 ニュースフィード (2026-08-18 13:34) ===
 
-- アスベストによる健康被害 神戸のNPOが無料の電話相談窓口開設 22、23日|社会 - 神戸新聞
+- アスベストによる健康被害 神戸のNPOが無料の電話相談窓口開設 22、23日|社会 - kobe-np.co.jp
   https://news.google.com/rss/articles/CBMib0FVX3lxTE5SZEF4NGJsRkJqcTlnZ250RFJPVzNuM3hGVVVzSjktLXA5T1JNa0J4eTBiX09EZEVUUDRKYnB0c3RsTno1b2ZBYTlJLVJxNXhnc0xUUkNjbVJyX1Q1UEVncjFNdTNMbVV3RUphLWFrWQ?oc=5
-
-- 不安や悩みがあったら話してみよう…文科大臣が新学期に向けてメッセージ - リセマム
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjNUUwY0JWUkQwaWM5bVFXa2xYQXBlQ2FvN3RMQWszaWE3WUlRaVJTWk1qcDhjMUVsVWtEWTdLUUIwam9vYXV2cENTakRzeU1EQUNpdTB0bXBkakdT?oc=5
 
 - 編成からの相談「とにかく視聴率を重視したい」〈熊本県民テレビ〉 - locipo.jp
   https://news.google.com/rss/articles/CBMicEFVX3lxTE1VdGdFV3pJdi0tazZXU0NFR3ZJaGI0ZFhPRzBEdUVHX1h5Nm52MzY2T1JfXzhIZWJGRVM1M2ZWblNfZ0J6YWdWRndJbnFzcEJkSENhbFk3dDlJNC1la2xqUmVBajJjNnoyZjhMVHhybXU?oc=5
+
+- 不安や悩みがあったら話してみよう…文科大臣が新学期に向けてメッセージ - リセマム
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjNUUwY0JWUkQwaWM5bVFXa2xYQXBlQ2FvN3RMQWszaWE3WUlRaVJTWk1qcDhjMUVsVWtEWTdLUUIwam9vYXV2cENTakRzeU1EQUNpdTB0bXBkakdT?oc=5
 
 - 筑波銀行、千葉豪雨で金融相談窓口 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1OQ2cwN24xcU5IblViVnB5UVVvLUhCNDFHSGpxYzBiam45LXRzYUxjaElpd0xmYjVoWnR0Yy1URGhHckR6N084SkFtaDRIMjIwWVVWUHJZbmVQemgxalNSd1RONWE4cTVLa0JsWg?oc=5
@@ -18,20 +18,23 @@
 - 就活での生成AI活用、AIに相談する就活生ほど応募を止めていた【Strobolights調べ】（Web担当者Forum） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5pRFh2OU1KRk9kZ3B3MlE1dFlGQy1vdzdCVUdPWFhtdmJwQVA4QzlXbWN4YmR4RTFmbnFwVVhMVUl2czByV2JEbUkzMUFLTXpUQWhmXzhuZlFBbjdjdW1kZHY0OGw5TEJMekVPdExQUjVNOFh3NFVmeDB4Q1ozRzQ?oc=5
 
+- 2025年度「越境消費者相談」9127件、過去最高件数 国民生活センター調査 - ECのミカタ
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MRGhYQzNiT0Nic2pWQllEckdjVTdBUTRCV05kbnRpRnBmNUNGcG9MRmFkMUJLRDdjbGhGOF9YMkFqMW5aQ3Z0dTkyY0VuWFI1NnlKTEdMS0k2emNTMmJPeQ?oc=5
+
 - 「活動しているのに、相談につながらない」を変える――地域福祉の担い手を“見える化”する研修を横須賀市で実施 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBnRlpyTEJtbVF2MjN3aGJaWHkwdmhFOTFYWlJweUxFWEFtdld2d3BLU2JOeVBtdWFKTmtNZm8zaTFXaUN1NXp1U2hlUkJMM3NHRTh5OTdLRTFCR1ZYcmh5Ti1LeUFNN2RQYkE?oc=5
 
 - 兵庫県 消費者トラブル相談 過去１０年で最多 定期購入注意 - NHKニュース
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pNWJTSTgxcUJyNERHdlhWQWotaWRGYjIwOUt6aHlrTUNOSUVQOFBnTk4wNDZVajdnVElKME1SNDJURVJwcEx4YkczbHlFUFQwSkR1Um5EaUw?oc=5
 
+- 「京都お仕事相談窓口」のキャリアカウンセラーによる就労相談会開催のお知らせ - town.wazuka.lg.jp
+  https://news.google.com/rss/articles/CBMingFBVV95cUxNdVVsaW1WWnBteks1NmRMVmZKMURlRGFHTl9RbnNmd013ZEczNzBjMmREMERJUFRSc0ZkV0kyQ19IcDByMk1CTmFOX21OS0o0UHlIc1FNLWFPU0U3ZVBuZUtoQzYwRTBBTTB6R1JjODQxSEI3X1A1YmxmV1Y5MEJwMG5rTVJDSkZzZ3UzRkJXTjFGVGQwc3dfMnBqS1BHQQ?oc=5
+
 - 地震後の労働相談は計1700件 熊本県、事業再開の見通し立たず - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE42dWVQVU5kU1ZEQ25udUZUd2RGNXVqaENleVRjNEJBUU9mdU1hMmhpbl9lN2hjTXVCeW9VVDQ5dExxdWRBVVdEX0ZXRQ?oc=5
 
-- 2025年度「越境消費者相談」9127件、過去最高件数 国民生活センター調査 - ECのミカタ
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4U1VLZmF2TTBBdDVFOW9xbEM5cWpHUng5SzVKalZkSEtWT3BMM2Q4UFhvRzl1Vl9CTG5ORlRLSDVJT0VTVTRGWk5HWjU?oc=5
-
-- 「京都お仕事相談窓口」のキャリアカウンセラーによる就労相談会開催のお知らせ - town.wazuka.lg.jp
-  https://news.google.com/rss/articles/CBMingFBVV95cUxNdVVsaW1WWnBteks1NmRMVmZKMURlRGFHTl9RbnNmd013ZEczNzBjMmREMERJUFRSc0ZkV0kyQ19IcDByMk1CTmFOX21OS0o0UHlIc1FNLWFPU0U3ZVBuZUtoQzYwRTBBTTB6R1JjODQxSEI3X1A1YmxmV1Y5MEJwMG5rTVJDSkZzZ3UzRkJXTjFGVGQwc3dfMnBqS1BHQQ?oc=5
+- 「生理の悩み相談しようプロジェクト」開始から約10ヶ月 応援してくださる医療機関が全国2,000施設超へ - 共同通信PRワイヤー
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1md1RZV2JWRzhZTVNSLUVvWGNCSEM2dnVMQ2JjYmtyeXVBOGlrMEF1eEhheHdwLWlqMDFDOWN6WktiMmwyV2xKZG1SVEZ6eXlpM2FJSHZ2V0R5NGs?oc=5
 
 - 【ブース】子どもたちの心のケアを行う先生を支援するAIツール「メンタリ」 〈未来の先生フォーラム2026〉 - 朝日新聞
   https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRTI0cGxieWRPMG56MVRkQkhlWWZnZ00tUFA4ejNhdVp3aVpFeGNQd1Vkd3Y0dVUzYXhtQVQ2RXh6NmlmeUtYVjQ4eXhqUTMtODJlX0d0YnlQQlV5TnJzOTQ4dzNIVThTNzhLNWpTSVVqNTlpVWhXOA?oc=5
@@ -39,24 +42,21 @@
 - 交友録【第180回】RECORE、15年来、何でも相談できる営業担当 - リユース経済新聞
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SRGgzYllXQnctcG1MSWlaTG9ZVTZ5Y0EycDh0X2Y4TlJtTHBJYkRyX1REN3paOWNraG1lSWVMNUk4LUNnRjcwdzcxal8zWFV2N2JVV1lDblNkcE9Ba2N2QWFhTQ?oc=5
 
-- 「生理の悩み相談しようプロジェクト」開始から約10ヶ月 応援してくださる医療機関が全国2,000施設超へ - 共同通信PRワイヤー
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1md1RZV2JWRzhZTVNSLUVvWGNCSEM2dnVMQ2JjYmtyeXVBOGlrMEF1eEhheHdwLWlqMDFDOWN6WktiMmwyV2xKZG1SVEZ6eXlpM2FJSHZ2V0R5NGs?oc=5
-
-- もうすぐ夏休み明け 仙台市が不登校などの悩み相談専用ダイヤル開設（2026年8月17日掲載）｜ミヤテレNEWS NNN - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQbU45V0RBRU9XTEhGX0NuNFZqQU5KcTlSd2ZRX0Fpak5vUDNEbUFFamM3OF81Vk1uR2hpa1Q3alFUVEo3dkFSSDVpTWtOMG51VWZsNXBZdlBWem12bnhWQUdKX0F1SXhwS0FGdF9xVS1sT2F5ZUhSdk55Q0tfNmJ4SWktdkdJR2M?oc=5
-
-- 夏休み明けの登校への不安や悩みをサポート 仙台市が小中学生や教職員など対象に専用ダイヤルを開設（仙台放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5aeDRHZm5uTUE5VklDWll0bmkxR210aGx5eUF2Vmp0OGwteXBFOHExbHRlOGpEUV9QS3lyOFlyMjBJSTcwNy0zZ1pjTC1hb1ZQN21LNmhPZ0hsRWRJVTB3RTNDU1d2aEZWM2ZpS284X041aU9tR3J6cWJTLVBnaHc?oc=5
+- UJIターン就職相談窓口「ひょうご移住・しごとプラザ」 - pref.hyogo.lg.jp
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lQ18wWFFDazdUNWF2azE4MkJWNE9VVG10SGRhN2xocHNOUndqdEswUHhPcVdrV2dsZVJKS3ZBVVNiNVByTmRzalVwQmtVdjdRS2pCQTlQR2d5VXZwb1ZFRg?oc=5
 
 - 政府 子ども自殺対策で臨時相談窓口開設へ 来週26日から - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE94QVZ1NVRSRmllZGkta3Zzbm9uNFVqalhPWUxkZXhhdDdyRmxLTlg0UGN5ekVaTEpVYTEzSTdhSDFlWmtGd193TV9CYlAzVDJxeXVTNVJrd1YwT0Q4Mjg4?oc=5
 
+- 夏休み明けの登校への不安や悩みをサポート 仙台市が小中学生や教職員など対象に専用ダイヤルを開設（仙台放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5aeDRHZm5uTUE5VklDWll0bmkxR210aGx5eUF2Vmp0OGwteXBFOHExbHRlOGpEUV9QS3lyOFlyMjBJSTcwNy0zZ1pjTC1hb1ZQN21LNmhPZ0hsRWRJVTB3RTNDU1d2aEZWM2ZpS284X041aU9tR3J6cWJTLVBnaHc?oc=5
+
 - 不登校の個別相談、学研が8/24からオンラインで無料開催 - リセマム
   https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjLVJ5NW9uRkhkbkNwSkZTN2FDdzZEaWdpb3R5ZFhEZ0dVMFZ5UHA3Wl9QTS0zN2NOOC1tR0pDcWFOaVBtWEhsT1U2Rl9IbWFmQ1RhY2VhUl9XRXVR?oc=5
 
-- 2025年度「消費者生活相談」販売購入形態別で「通信販売」が最多 国民生活センター調査 - ECのミカタ
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YWE5DTUdqTmVIanA5QVFfY2dTRVFieEtIS0tBYmtyRnpIYVh1Y1BtX0N1NEY0OGlIenlhbE81UTZuck5YNFFkd3RTT2pUWHU0V3JIMjlzaFUzQkQ2akJFOURB?oc=5
-
 - アスベストによる健康被害 神戸のNPOが無料の電話相談窓口開設 22、23日 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJUm1UV21LNlk5eldCejNrYjJGT01nOXN2UHR4NWxndnlHT0FhblJrRmh3LTJxNGtCZl9IOGFLenlJcHNfQks5YVFLRQ?oc=5
+
+- 2025年度「消費者生活相談」販売購入形態別で「通信販売」が最多 国民生活センター調査 - ECのミカタ
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YWE5DTUdqTmVIanA5QVFfY2dTRVFieEtIS0tBYmtyRnpIYVh1Y1BtX0N1NEY0OGlIenlhbE81UTZuck5YNFFkd3RTT2pUWHU0V3JIMjlzaFUzQkQ2akJFOURB?oc=5
 
