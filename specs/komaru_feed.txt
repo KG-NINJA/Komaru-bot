@@ -1,4 +1,10 @@
-=== こまる相談 ニュースフィード (2026-08-20 05:21) ===
+=== こまる相談 ニュースフィード (2026-08-20 06:27) ===
+
+- 【開催報告】「親なきあと」相談員養成研修 - 日本財団
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTlCNFBjeEVRYmYwQkoxdV9OelpNa2JOWHY1NGptZktoc0RpMnlKOEJPS0lZMGFqdHpCQXVJcld4NURGLUVpYWo2U3FlbFRERlpQSmpFTV8xRERSSXhkb1A4Nnc1SkdzUTR5MlVzSjNwR2trY19wdkluSzE0cVpXMWRtVkpPMHU3ekE?oc=5
+
+- 全国一斉子どものための養育費相談会開催 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9UTU5LYTloWWNjYXB0dk1VNHZFV2ZadnBGVVZCNzJoc3pwMXZzTFlWVlJDZE1nc1hla2ViXzNlYmtnSjRYOVI3UFVScGlPMXA3NS1ORTVDTUFXcTk5YkxrT05DODlxNWljTWc?oc=5
 
 - 教員の81％に悩み相談相手あり…新人の先生へ贈るコトバ - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZLUNMM3ZDVVl4Q0pXWGczbmlKVG1SXzdHQm1xRnFObTR1VTRjdVNzOGRMU3l2SG5iNUEtMThKQUk5SE1mUnNfck42OTctZC1fQzM0b0txUnMyY0Y1aE9SYnV2YkcxUQ?oc=5
@@ -9,7 +15,7 @@
 - 9月1日（火）「活酵薬湯」新発売 - 新日本製薬 株式会社
   https://news.google.com/rss/articles/CBMicEFVX3lxTE1lVDBXaVJpeHVYOGt5dm5lTU94SWpYWjdKRTdKZU1wWlF2OFJkOVdzSHA4VURkaWtKTmcxMXRBS1NQMmFIYWtkQ3VwOFJjNUUxcEJzZ0xUSEpyREdYbmNpSUZ0MGh4RFIwUVFzWURudFM?oc=5
 
-- 和歌山の児童虐待相談、令和7年度2084件 心理的虐待が半数超 警察からの相談が最多（産経新聞） - news.yahoo.co.jp
+- 和歌山の児童虐待相談、令和7年度2084件 心理的虐待が半数超 警察からの相談が最多（産経新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBkdEI1MER0YnlWYnJNNzR6dzBESjREYkZMVkRUMXRSbTJ4OVVma2VDRnFTWEFZT1h5Yk5XM043TTNlSDRrVUNCNHFLUTdPdkh1UC0ycW1aTnNXdEhLZEZtSEhNRS1hM1RJakNyTk4wZ0xVSDIzSzJ2RExyREFzTFk?oc=5
 
 - リンゴ相談1カ所で つがる弘前農協など初開催｜青森ニュース｜Web東奥 - 東奥日報社
@@ -24,39 +30,33 @@
 - 相談件数2019年度以来の高水準 - 滋賀報知新聞
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xNkFURFlBazgxeUVpdG1jWEJNeHRMSjh1cDFOd0FRZXZZNHpnd1BJSkphOU9pQWFURjBSQ0dBdlIwSUhQZXFSaklqT0Y0SklUY05fMFNKdzM?oc=5
 
-- 家具選びの「失敗したくない」をサポート。KEYUCA「インテリア相談会」を開催、期間限定で最大10％OFF - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFB5N04zalR1Y0VxNEU0VlVIUWdjUnlobWJNSnE0SEIwRFlyYXBhQjR2enVlZnRwVHRjQlRwNjlsY3RNWmlBQWc4bFpNcDI2Y3p2dGxuREpxWi04N2ZNM2FPYTZ4ZnZ4V1lzSnc?oc=5
-
 - 川崎に助産師常駐の施設オープン 妊娠・出産の悩みを気軽に相談 予約不要でワンコイン 「一人じゃないよ」丁寧に寄り添い - 東京新聞
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mZlFIOFJENEVfR0JZR2JEMHd4SE5HTWlNeHk1WkdNczFSNm0xWjBib010UGtPeFNCQlBNY20xdDRDRmwtUkNyalUyWVNhbng4TnNB?oc=5
 
-- 「学校しんどいな」は自然なこと 夏休み明け悩み抱えずに 富山県内全児童生徒に初メッセージ - 北國新聞
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iTE10Q3hWSmkydXRYeTR1X3hWWEtiaFpkUGRzNUxnU3B1ajRxdktUYU9JTnYtR1Nlc0FnZzdtd29DQXVuSnU4WENSdlVlaDFySERmX0lBdw?oc=5
-
-- 国センの25年度消費生活相談で「通販」は13％増の38万件、全体は10％増の100万件に - 通販新聞社
+- 国センの25年度消費生活相談で「通販」は13％増の38万件、全体は10％増の100万件に - tsuhanshimbun.com
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DRWxXWDcwTC1BQ0s5dV92RFhBWXlIU09rbGFFMHVXQmlpdzVfZTVVRUFjNlRIM1JEVy11UVNiNWNiYlhvN1dUQWZuRzJFQ3lEakFRbVBsQzZnZmNfZVRN?oc=5
 
-- リンゴ相談1カ所で つがる弘前農協など初開催 - 47news.jp
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE16a3R4RFZXZWxTWFN4UkI0UVRKRmxHS0JWYlYtMnZFOXNVd2UxaWMxcDZOallmc2luZ3lhQ1E1d0RKNmt5T3laNkRDdw?oc=5
+- キングコング「ゴチ」初登場、ナインティナインに本気の相談（お笑いナタリー） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9kY3AtbnJqWjdBU1h0akdiYWhDVkpELTdicnJ5NDlJOG5TN1NFRHBaUUhCcFFPMnAwa09uUWh4WThKcTR6R211V3VUS1pPdmNlUDZvUjc3d3ptWnU2dWJ5V2xLdmZvYXBaczV4Rk04VUdMRUtwR0dfTmdQeGlFemM?oc=5
 
-- ［医療ルネサンス］がん患者会 支え合い＜１＞相談の場 男性参加者にも - 読売新聞
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZY2JwYzE4UlluUGJJRHh4alE4cWhxX2xLREU5WDZiZGxxOXd6T0R5N055YlFwS3loVWxsR05HajNPeUxPbm1RcmtLOGF4cmJGNlozRlZqNF96R2xrSXpIblVIeWZOdDZ6Z3BjZWt3?oc=5
+- 肌悩み対策"やってみたい"男性は約6割 ― 女性を上回る - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5qQjBSUXhfUVk4S0hOd29fRDVaRjFTejhZbWREUmpmb2VPUV9RaFphaWtkWF8wWDllVnhOYThnclhWMVlwZEpGWHU1dE40aXRBbFFzSmcyekZ0ejVqNXZJNGQ3aktEcl9PR3c?oc=5
 
-- 「お姉さん」にメイクを相談 中高生向け講座、21日に埼玉・草加で（朝日新聞） - news.yahoo.co.jp
+- 仲里依紗 現在の身長＆体重告白 悩みは「人一倍顔デカい」頭囲も測定→数値公開（スポニチアネックス） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZWxGaTZkem8tVUZvRVFrRXZYeDZOUGppUjZ5aDJNZm84ZUtJMjd6c2lkeDZPSHlpV1ZVbW5uQVNKRnkzMDNYb0tWMUt5aGVQSU1STFJobXFOZzJ6S0EzdzFFWEhlcVIzbnB3X2FQN0l5VC1YWGZ6dHN6RVpIRVk?oc=5
+
+- 家具選びの「失敗したくない」をサポート。KEYUCA「インテリア相談会」を開催、期間限定で最大10％OFF - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFB5N04zalR1Y0VxNEU0VlVIUWdjUnlobWJNSnE0SEIwRFlyYXBhQjR2enVlZnRwVHRjQlRwNjlsY3RNWmlBQWc4bFpNcDI2Y3p2dGxuREpxWi04N2ZNM2FPYTZ4ZnZ4V1lzSnc?oc=5
+
+- 「お姉さん」にメイクを相談 中高生向け講座、21日に埼玉・草加で（朝日新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1LQTJldS13bkc2bEVMc01ZVW1VeE9QdXU0Zkp4c2dBR2l0YjRjMk9EUU1ESHhELThWaElCSUFXZlJQM1BLbDlJMjBIOEVxRlo5NGVCM3o0ZXA2bkRhS0FDRWdGSW5MT0JtRjFJUFUyaHZIYXFST1hQYWlMcVZEd1k?oc=5
+
+- RAG技術専門集団「ChatSense」、「AI時代のナレッジ活用」無料相談キャンペーンを開始 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE51ZGhxNkwyRDZFeE1ISlpkcjhUTjhZX3RQWWVUZDk2bk85dEt2UDYxczMtVjdKSjRNYkx2ZGxZdWhjREJoY3U2d0NvWTNYWC1oa1FoT3d0cGllME94TlpHZXczVmMzSUhHY3c?oc=5
+
+- キングコング＞「ゴチ」初登場 ナイナイに悩み相談→岡村隆史「解散するか？」（MANTANWEB） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5yTDZKMFhFQzJPcUloN1lYYmd1aV9jRVE3d1dIZ2h4YzJPVVd6aHZQSFVQNC1QOS1sVnNQOXlNVjJTQjdhOFVNaGRjaHRSdWNINEMzell6dy1nVFJwNVpoNDJJcTdBRENGNTJmRDRzZUl5Y1ZvU0FHR0w3bUpQcFU?oc=5
 
 - 髪悩みが増え時短を求める「産後ママ」へおすすめ！蓄積汚れ*¹を落とし、“するん”とまとまるツヤ髪へ導く注目の時短アイテム - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBRcGI5b3REZFFDenkwd0U3Y1BVTGFiZlVKc2J3bVo3aXZQZHg3U1FjelJCMF9obGYzS3RNN1MyVTVyeWZXSnJheUhjc3NDUU9kblJXOHFTR3NXVDFDNVBjUXNxVk9nVnl6T2c?oc=5
-
-- 仲里依紗 現在の身長＆体重告白 悩みは「人一倍顔デカい」頭囲も測定→数値公開（スポニチアネックス） - news.yahoo.co.jp
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZWxGaTZkem8tVUZvRVFrRXZYeDZOUGppUjZ5aDJNZm84ZUtJMjd6c2lkeDZPSHlpV1ZVbW5uQVNKRnkzMDNYb0tWMUt5aGVQSU1STFJobXFOZzJ6S0EzdzFFWEhlcVIzbnB3X2FQN0l5VC1YWGZ6dHN6RVpIRVk?oc=5
-
-- 手帳×スタンプのお悩みから生まれた、NOLTY TECHOCO（テチョコ）を全国販売開始！ - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBpRVdDcW02aG0zZl9nZTQtZVRnVExKMjBXQXRQbHZLNFpJTjRDYzFIbU4xQ3Q2YXRYdm9TektwZXM5aDVIV1ZFUEhReVRkSUc5UHdzUzVyMUpSMnlPOVpvZnA1ampBVFZZT1E?oc=5
-
-- キングコング＞「ゴチ」初登場 ナイナイに悩み相談→岡村隆史「解散するか？」（MANTANWEB） - news.yahoo.co.jp
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5yTDZKMFhFQzJPcUloN1lYYmd1aV9jRVE3d1dIZ2h4YzJPVVd6aHZQSFVQNC1QOS1sVnNQOXlNVjJTQjdhOFVNaGRjaHRSdWNINEMzell6dy1nVFJwNVpoNDJJcTdBRENGNTJmRDRzZUl5Y1ZvU0FHR0w3bUpQcFU?oc=5
-
-- 熊本地震、兵庫県警の被災者支援部隊が帰還「家族によって悩み違う」（朝日新聞） - news.yahoo.co.jp
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE94UkMyaE8tbDNZcnVqZmlVN2hhdV9nQ2xvRGxseGpuSTg3aWxPNTdRR0VBOE5HYWJISjNFU3ZnOUJLci1qZW9wREtrdnZNMFpsc2R0Qm9RUzRRSDNtSTdXcTQ2MHd2d3dHcVRfdHBkb2kwRl9nLV94SkV5ZUZnUmM?oc=5
 
