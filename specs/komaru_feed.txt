@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-08-21 18:21) ===
+=== こまる相談 ニュースフィード (2026-08-21 19:18) ===
 
 - 「医薬品・医療機器等の保険適用に関する相談会」を開催します - mhlw.go.jp
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Pc0tlX1RscklGVHZ2NllFSGpJeTNLWHg5ZDlYRjZxSXdLNU9oWlkwUzZUMDBCaEk4WjZpcnZhZzZRUkdBOTJnOHcyajRzUk9xVDhZYXJ4Tmo?oc=5
@@ -8,6 +8,9 @@
 
 - 熊本市が南区に「総合相談窓口」を開設 ３つのブースで「たらい回しゼロ」目指す【令和８年熊本地震】 - TKU テレビ熊本
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HV2daVTQ2UVFYWUdZcVFJOWlMZTM0X0xXdGkwcWg3ZjNxSGFjOFJZdFFnOFdJdE1ic2tJRk5ZZzJiNHZmRDhpblAyblBEY29WT0lZQ3ZScm42WVN2OGx0Qmotbw?oc=5
+
+- 追跡：ウクライナ DV深刻 戦時ストレスか 侵攻後相談増加 - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUDE5Vk1qemFZVUxBSk42Ml9oQWN2OHoyR1hoazNOLWV4Z0xXeERwanVfdThEVFN1eGpoZmNTbmgwd181cTBxNkxpcHBFQkIxeWZpNm1DQ3d0NWZZU1dNSW95bGxVVGFj?oc=5
 
 - 「AIに買い物相談する」4割、タイパ実感75% 50代は検索より重視 - 日本経済新聞
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBWdnd2MWkxVkhwRmUyR1JhX0YtTHdWVFZxOHRRdGdWdldSUDVQVjFKT3lkYnVsTGVfcFFIRloxeGRVUlRUenprYVJTd1FDeTdQUG1kM1lJeG9qbTJLeFBFQUhQT2VEblJzR0tvXw?oc=5
@@ -21,14 +24,11 @@
 - 自分が困った経験を生かして、アプリ開発で誰かを支えたい|キャンパスライフ|FUKUDAism（フクダイズム） - fukuoka-u.ac.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTFBzSkF2T2tzcGVMcmMzYmJjYXNEUTNlSEtRY2JsRzViSGE4ckhvT3h0Z3FYOEVvX3NXLXEyMXl1YnJqbGNzNXVTdmdYSV9mM3FzUHo5VlB4UVJHams2QjRRckstbGdJMzRRallTYkNOTEV6R0E?oc=5
 
-- 追跡：ウクライナ DV深刻 戦時ストレスか 侵攻後相談増加 - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUDE5Vk1qemFZVUxBSk42Ml9oQWN2OHoyR1hoazNOLWV4Z0xXeERwanVfdThEVFN1eGpoZmNTbmgwd181cTBxNkxpcHBFQkIxeWZpNm1DQ3d0NWZZU1dNSW95bGxVVGFj?oc=5
+- 労働の悩み無料相談 ９月２５日、県が上越市で - 上越タイムス社
+  https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPQXkxU09BQlEyRU5nb29GVjR5T2JPMG1NTUU0RllTajI4WWF0YWRHU0FiMm50VTdsTXRtN0laZ3Q4Z2w2dU1PWF9n?oc=5
 
 - 尾崎世界観さんが悩みを相談する瞬間「誰かに話すのは、確定させにいくため」【第1回】 - PHPオンライン
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE15YTk1MVlhZkNpMWFIRVJ0R2VaeUJFd3JsSGVBZm1oR1VaWVFEQndzYkE0TlZLQVdseWdadjFORHQ3U3htVzVqNmZpOEdaZzTSAVRBVV95cUxQUDl0dTVFUzVaTUppNEQ4elphTE91a0I5S3BZWUE1c2RVbVBIdDd2TGJKbWVQNzA1UjIxWWgwVU9lbEtrQjNPVjhIZ3ZzRVpKWGRDdmM?oc=5
-
-- 労働の悩み無料相談 ９月２５日、県が上越市で - 上越タイムス社
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPQXkxU09BQlEyRU5nb29GVjR5T2JPMG1NTUU0RllTajI4WWF0YWRHU0FiMm50VTdsTXRtN0laZ3Q4Z2w2dU1PWF9n?oc=5
 
 - 【新商品】顔の“エリア別” 化粧下地が誕生！悩み*1と仕上がり、どちらもカバー*2／ロゼット株式会社 - 健康美容EXPO
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SUWtOWldaOVBmLU40UER5YTF0NlN6c0VCaXFzR21EeC1BLWpjSEFxYXBuemU3N1VMOS1wQ2NjSXYtMmNLNnRmNkdiRDhmVnd6MzZwclJYb2k3Y3ZsX3M3RnhqQnlDbjA?oc=5
@@ -57,6 +57,6 @@
 - 主要都市・主要駅で「相談できるコンタクト専門店」の展開を加速「メガネスーパーコンタクト 中野駅北口前店」8月14日（金）OPEN - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9JampuVHQ3dU10dU5XZnp6ejJhSFNwNnRhd3R1RFlhQ1RJUjJyM0FLQkg1UFNpR2N0WnNDeWNqUmE3VzljQnFKZnl5RVVDLWtWSEFMXzBua3JsZjE2UTE0cEc4by1LWDV6WFE?oc=5
 
-- 熊本地震、熊本市が被災者の生活再建へ「総合相談窓口」…生活資金の確保や公費解体などワンストップで解決 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWDJzZmV5Y1Q4NXRiZENhZEdsYVhseEJ1U0JfOFRJSlJTWWxGcDRJQmw4OXRqLWVPLWNlLXlaN3k1cUFFcmlwdjZPd1NkeXRsSWRnNms5QnpaQVZtTVd3VXBDMlU0MmdVdmdiWjVLMkhGbHRUeTllNUFOYmRWQ3M?oc=5
+- 【CB1000F】ECUエラーやマフラーチューンの悩みを解決！丸山浩が開発協力したサブコン「RAPiD BIKE SMART」の実力とは - ヤングマシン
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QbWdSR096dFh4dHNDRkhzS0NvRGRpUjNtTWwxRVI1SmR5UTMxeWEybDcxTWpnQnRSNDRDTzd2VVdEZVlJeURLNEh4U1NRZFlGR2pvNzMtTQ?oc=5
 
