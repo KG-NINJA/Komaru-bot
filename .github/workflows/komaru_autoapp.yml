@@ -98,6 +98,12 @@ jobs:
     runs-on: ubuntu-latest
     if: success()
     steps:
+      - name: 📥 Download generated app artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: latest_autoapp
+          path: apps/latest_app
+
       - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
