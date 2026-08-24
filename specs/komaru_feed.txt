@@ -1,10 +1,13 @@
-=== こまる相談 ニュースフィード (2026-08-24 08:35) ===
+=== こまる相談 ニュースフィード (2026-08-24 09:35) ===
+
+- 【奈良市】【女性問題相談の支援を拡大・24時間AIが寄り添う】「わたしのミカタ相談」・LINEを活用した生成AIチャットを開始【市長会見】（令和8年8月24日発表） - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFB4aTA1eGgzZEZuLTMtNzRtbjdEZVlaeFoxeVZkaUVQVUFMSXdIYmVSMHBmUTZyandjUnUxLTdFdkw4dlBRTVExckM1UEVTN1RNMDBSbE1LdWZyRjZBMVJkTVJNaGpFVm1nbXc?oc=5
 
 - 移民・難民相談支援ネットワーク事業 第４回研修会開催のお知らせ（2026年９月３日） - 移住連
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nd250NEJjd1daVGIxUGFZb0lGVFR4MDdMZnYxZnRNNjFtMnZ6aVJDalpET2JPSmdRUkh1T25XdkZFbWRnN2JRUlFIRHktSmVLWTFB?oc=5
 
-- 【奈良市】【女性問題相談の支援を拡大・24時間AIが寄り添う】「わたしのミカタ相談」・LINEを活用した生成AIチャットを開始【市長会見】（令和8年8月24日発表） - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFB4aTA1eGgzZEZuLTMtNzRtbjdEZVlaeFoxeVZkaUVQVUFMSXdIYmVSMHBmUTZyandjUnUxLTdFdkw4dlBRTVExckM1UEVTN1RNMDBSbE1LdWZyRjZBMVJkTVJNaGpFVm1nbXc?oc=5
+- 子どもの養育費、電話で無料相談 9月5日に全国一斉開催|社会 - 神戸新聞
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBsemIwX2hla21NTUt1OW94WFh0anlhQ1VTN1V3a1B0UGdLVktualhCUlBIcFpMR3liREJ2a2VPNVBTcnY2QWVXYUhoRkdORDdSTFpxbUNBRHNoWktvWkp1NnZUMFlZSS13WTE1QVJ2WQ?oc=5
 
 - 夏休み明け前後における「相談ダイヤル ＃9999」等の実施について（18歳以下向け） - city.komatsu.lg.jp
   https://news.google.com/rss/articles/CBMicEFVX3lxTE9ROWtRWTdvYnVrUUtDMERLTDJIZ2NqcVljM3VvR01YOFowMmd1eHZ6VjhCb1lSM1VtOFBpV256Z2RMR0NjM3VDVUpPM2hnTFppaFJLeVJaNXIwYjVrcFVHcVB0eGlnRkRIY0lCQ0xBX20?oc=5
@@ -33,10 +36,7 @@
 - 高齢者相談、5万件に増加 東京都、9月に悪質商法被害防止キャンペーン - ウェルネスデイリーニュース
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SYnViSDZxN2RzRE5Yc05oVTFTV1FSMk1tRGlqNFBCQmdkcWljNnRYVmo2LUx2bXFFbHBBM0N5eUJJLUd1QUs0U1FrX1pzZ0RCc2R5dGpR?oc=5
 
-- アテニア、AI美容部員が対話で接客 肌悩み相談や商品提案 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZ0FiZVVlZTl6VjFCMjlyaFd3am8wNzZZMHF4WDhFRGFZa1FhTjlYZHg2QThFWjVsVFA1UVRmODZ1aG4wNDBRbl96TG9tV0xxbEE2bnNPSlBsR2F4ZDl1S3NtM3BVblJEN1pEbA?oc=5
-
-- 新規事業のメンタリングが単なる相談会になっていないか。Relicが事業案を前進させる伴走設計のガイドを公開 - CodeZine
+- 新規事業のメンタリングが単なる相談会になっていないか。Relicが事業案を前進させる伴走設計のガイドを公開|ProductZine - CodeZine
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jclFiaUtjV2hhRV9rb0FsMzM4ZkFNTjZxdk1GY0FCWktaWnlSdkFIcVdLVk9CUUg5cUV4ZFNuc3dadzhMV0JMSGJlLWlHZw?oc=5
 
 - 「医薬品・医療機器等の保険適用に関する相談会」を開催します - mhlw.go.jp
@@ -48,8 +48,8 @@
 - 「お試し」１回のつもりで購入したら「定期購入」に、ＳＮＳ広告の相談急増…「点検商法」相談も高止まり（読売新聞オンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBOMm1xSHFzOEp3ckhIRUZ2VWVxTUQzaGI3WkE3NnFYX3NrcFp6TllMaWt5ZTF2d1VnWERNZWR5SXRaNlBfWDFiQk5qR0dBRUJyTnIwNlkzUmVCOWtJaXJyS1NCRTZub0xERTFGOElpckhlaGhQZ253NExBYmdBSUE?oc=5
 
-- 旧統一教会めぐる債権申し出、日弁連が8月28日に無料電話相談会 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VSldzUnlWcDVxdnluR0gzZTljNERYZWhYYU9tZGtJRExQeHg0NGZLcm5MeWdPMVB4dThER3g4OW1Zd1BMQUJTaGhoU0ItQzQ0OG5pWm53QndESmdQbXRQc0lYR0U4Qzg?oc=5
+- 累計25万棟以上の建築実績を持つ三井ホームが総合相談窓口「コンシェルジュデスク」を新設 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9iTzZuNkZaNExLeFpic0xDYUhJbHZDUVNQWnVmSkMxTVpwNVYxOXlWa3YwX3dvZ3lXb0EwYlVnSlBrZzBsbjlxR3h1M2VjUjR0WUx2YTl5LWhOOEx4SW5CU2trLTZiMHZLVnc?oc=5
 
 - 多摩美術大学「秋の進学相談会（オープンキャンパス）」を9月27日（日）に開催。2026年、教員と直接相談できる最後のチャンス！大学説明会、入試作品展示、キャンパス見学ツアーも実施。 - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE40S2N0TFYwVzhMbzBpTTgzZDRSUnA5TjgteFlLNEQzVmY0Sm9UUHlvUnVTTFczV1dXNnptU3hOQkFXb0g4QjRLdzdQaE4zOFBlNXhiaTVxX3JJTV9lUGE3bEs4NmJxRS1tZXc?oc=5
