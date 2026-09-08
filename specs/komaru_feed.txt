@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-09-08 12:23) ===
+=== こまる相談 ニュースフィード (2026-09-08 16:54) ===
 
 - 企業の方も、働く人も対象とした相談窓口「介護と仕事の両立応援窓口」を開設します|9月 - metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUUdVUmNsMmdGSC1oVnlYQmVhTndvamkwRW94YjY5a2YwbHh1dGZtZXhXSU9zcV9fUHBabkNlWWZWVnFzQnlJNGhVdjBlX3dCRkQxLUhycVlGQWM2RWNWbEZEZjI4c1JlOUI4X1RYX200eFdB?oc=5
@@ -6,14 +6,11 @@
 - 【消費生活相談の担い手養成講座 】受講者を募集します - pref.niigata.lg.jp
   https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZHhRNEVqWDBJLTVrS2EwRVBCYWxmOEhTb1ExUzZMYlZ6b0M0R1FFbzBwc2M2cDFIMzB6cW1MQXJWT1RnYWNfbjlOaDFtcDQ2Q21BbzM5bXZueTNKa0ZISTFZZno1bFdIS3d2UU9JVkQwZ3c?oc=5
 
-- 「令和8年度あつぎ健康チャレンジ」相談窓口を開設します - city.atsugi.kanagawa.jp
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE5XNlNKbXBQVU1sc0pfcWsxQVVKOUVoX0RfVERBdFpYcXBPVFU1RVJ6a25OVXBmTlVCTVc3TzVBcUdqaHRhc1hoM1NSM1c0TUxzbXhTNVQ3M0xYRG41d1ZrdkxMaXRQR1NfY09RUUdsVm4xT2pycjlzSkdqbFc?oc=5
-
-- 予約制による納付相談夜間窓口を開設します(11月) - city.kikuchi.lg.jp
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE91MVdOOHFOT25nZ0o0RGpsaUpEYlZMY25WV1dLYV9oVXhQT3pma0Fta3VaMW9vVi1ZVG1fYTI5MGN5SEhKXzNwa0xnajN3TWQ3Um5DWWEzQzZrMGsyNENnbDBqck9sT3F2ajU4?oc=5
-
-- 「孤独死」を防ぐために今できること 終活相談から見えた備えと“つながり”の大切さ（ＯＡＢ大分朝日放送） - news.yahoo.co.jp
+- 「孤独死」を防ぐために今できること 終活相談から見えた備えと“つながり”の大切さ（ＯＡＢ大分朝日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE51U3cxV3NSX3laZ0tnS1YwRm0zZVJuSURQQ2lrSHJFZHdtRldELU50Z0FfUHNyX2pfU3d1bi0xSVhQbnZfNi0wZGtSdVgtOVBtblBuRkNUNzZqNmxpYWRZc1VlTzI3aHpKd1NYT3NzS2JOdXgzbG1mak9Fd29qbjQ?oc=5
+
+- 大阪で依存症対策を実証 駅前で相談や啓発、30年IR開業見据え - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBVa0FaUU85Qmk5ZWVLb1ZQakRmUThSX1FPSmdRaUNtbjllZmE3b2QxT3RPRU9aYXF0Y0Vta2tRN2E2YmFGa3RDZGQxNS16VGVvU1FjSmlldkV5amJlSTJURTdiUmI2QWRUQ2hHSg?oc=5
 
 - 「切実な相談が…」全国最多・新宿区の民泊、住宅地などで営業原則禁止へ 約2000件に影響の可能性【Nスタ解説】 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IamswV3QwRnR5c2IwMktIcGl6bktRY0VaeTNEaDZhbDl4VjdaOVB3TVdDeF82QmZ5Q2s1LWVvNHpET1dCUXpUeEx5cFdqcnpWdmR0UUpnZw?oc=5
@@ -21,42 +18,45 @@
 - バーテンダーも占い師も友人の悩み相談も、「空間」が重要。『昼間のスターゲイザー』から広がる「技術」の話【鏡リュウジ×千田歌秋対談・後編】 - よみタイ
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hejJqMTVrVHQ0b3l3WTNsU1I1TTh5Ny1oYWFVWmU0LUtIc2RtSThUZkYwUUNSNzY5Q0FYRDk5el95enZMZTRXSm9rS1NNcklaUTFjNUtjeHc?oc=5
 
-- 大阪で依存症対策を実証 駅前で相談や啓発、30年IR開業見据え - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBVa0FaUU85Qmk5ZWVLb1ZQakRmUThSX1FPSmdRaUNtbjllZmE3b2QxT3RPRU9aYXF0Y0Vta2tRN2E2YmFGa3RDZGQxNS16VGVvU1FjSmlldkV5amJlSTJURTdiUmI2QWRUQ2hHSg?oc=5
-
 - できる『ソフィ ヒアルロン酸配合』シリーズ新発売 - unicharm.co.jp
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1TSlZlVUFrbXdMRkR6Y2ozRWpVRUwzbUs3dGNUaXNVVE1fdWlLc1J1aF9EX2x2cG52dmtERDhsYUxGWTVIcTdPT19HVFRtMDFCYUptN0tsOXlHMVUxZDBNN2J4RzhuN2lNbkNkTQ?oc=5
 
-- カスハラ防止条例制定へ 職員向け相談窓口・警察との連携… 鎌倉市 [神奈川県] - 朝日新聞
+- がん情報提供部 看護師 宮本 紗代 - ncc.go.jp
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE84MTZDNjJlZW5DYmdsV3JCWXZUY2xMMHQ4QXZxcFNLZ1dsUWFfNU9sVHhWS0I4Qlg2a2R0ZDdaSzdrWkJyeVRscXdrM1BmV2JtM1VHd1Q1ZHhQNjZsTGZTb0piVWV6OXdld3JRRFdn?oc=5
+
+- カスハラ防止条例制定へ 職員向け相談窓口・警察との連携… 鎌倉市 [神奈川県] - asahi.com
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42MWZoSENZbDlmTTVxcXlwTmZHdVZyMTRIdUtfbWljdjRvVXIyR3Jlc0t6NWFsMnlmVG1lR05yX3Fvcy13c0NjemFiYmRlMU9YR0VJUGFvd3R6ekdTbWFfSVVFaTlIaFk?oc=5
 
 - 眠りや体調の相談を受ける水島さん（左） - 大宮経済新聞
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TRnRSRzJidko0RkhsX0FISGpTWXYtYXdvYXJsUG9BM01oa1lsMDR5SlZhVHVreHdhS2lGUGl3bi1WWEFhMDI3X0lpSTNoNC1DUUlz?oc=5
 
-- 外国人対応相談は「想定より少ない」1日3件…川口市で「全国初」の窓口開設から2カ月 - 東京新聞
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeVVzVVZhQjA0eDAzelZoQ1BSYWxfYVpkbjFsRFdMc2tUZzlKVzlCWEVUaTZPU2ZYVXhlNUFXRGRKTVlVdzVaTmMwMVlmUVk5WGtB?oc=5
+- 仕事の相談相手「生成AI」は日本で約1割、米国では約3割で「同僚」上回る。AIと仕事に関する日米実態調査 - AIsmiley
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE5wMzhveFhCeV9rUHlCVWlUdW5HeVlJcGRXdnFkc3lOTmNtQ1NsQlFSTkgxZXNOb0lZSzdkQjhCNjFmRE9qc0Y2QzBnRFpmbU9GY2s1SFU2X3Etalg2MVVmdmUwZWI1NmNXcEFaUW1wdnZPRG8?oc=5
 
-- ギャンブルやアルコールなどの依存症、会場内に相談室やセルフケアの手法紹介コーナー設置…大阪府と市がＪＲ大阪駅近くで１か月間実証事業 - 読売新聞
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBKaTIxYzhhN2tOR1ctbGc1TFJHUzkwdThuanFsZzBvOXJfMm9Ld05PbXF4NDB6a2ZibEEyVUROMjVKbzJrZTRncFNRcUdQSW1NcklldkxrT3BVN28tLWxScU5vb0otdUlGS2tIbFNCN013dw?oc=5
+- 【予告📢戸田市議会の一般質問テーマ④「どこに相談したらいいかわからない」をなくしたい！～複数の... - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDUlUtRE03QnNsV0NQWVhaZmxSeWFacUtsSTlFRDRBQXpFLVQxeXBianc4dlVtcTg1NDNYaXlVQjA5Snd0UlJ5ekhfMUdMR2RvSGZiU3hHTlc1TXVJWGVR?oc=5
+
+- 大杉みどりさんが熱血指導！30日間でくすみ悩みに挑む「肌年齢」チャレンジ - 美的
+  https://news.google.com/rss/articles/CBMiRkFVX3lxTFByVk85dWpGV19IZXcwM0Voc3NmQlpBaVM1T2hYNFF4WmVWQzd4NTJDZUo1T0xydjdHZGtaajdzSlNNQTJ5cXc?oc=5
 
 - 【髪・頭皮の悩み実態調査】女性の8割以上が髪・頭皮に悩み、年代によって異なる傾向が明らかに 20～30代は「うねり・パサつき」、40代以降は「白髪」が顕著 “髪悩み”と“現在の対策”にもギャップ - PR TIMES
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1pdm1MaThsaHFJWi1Xd1V5ZDFNTy1qdU5EUk9zUC12cjBzbmR6aEZ2SFpybWsxdHJvTzNKbGc4Vl9SM0ZTZG9XVXZXa1hXU2d4cGdKN2ZxejRYcUh4OXFqZUE0U1BHVjFvUkE?oc=5
 
-- 企業の方も、働く人も対象とした相談窓口「介護と仕事の両立応援窓口」を開設します - sangyo-rodo.metro.tokyo.lg.jp
+- 企業の方も、働く人も対象とした相談窓口「介護と仕事の両立応援窓口」を開設します|9月 - sangyo-rodo.metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnk0OFMzam5TN2dYbElUbEJBaFEtMzJMRDBUX1lXeVNDNlh2Qll3QXcyR3lFRXM3TU9Fa2FVSVBGUzJDWVlTLWhsdDc2czdJNmFsYnpiQThyY2c0bUlQa3FWVFpubnZqN19QR0w0SVlDQ05kaTVBclVNaUFHcG1MY2VGUUg?oc=5
 
-- 金利上昇 住宅ローン返済者ら悩み - news.yahoo.co.jp
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSSnl3aGg3d0FPRjRLazk1YkYxZ0YzOElSbXdSdjBsTThJQzVka184d2Y3by1wWWZnUjNDYkxTaU9YSktwYi13WUtmQWZ5SGpR?oc=5
+- メーガン夫人、フェミニズムの先駆者を追悼。「つらい時期の相談相手だった」“友人であり恩師”への思いを告白 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1OU243RzRxZWhLemV6N0UycEt3LXB2QzlOa1hXUWpKUGg2SUwyZVNqQ3A2eFhDdjh1ZmhlaUJ3cm1CbFoyOTl6YW9TUEJ0aVBPTk9zQ3hYemRfOHFuYmR6QUpMdk9OZTdhWENkTDUwMjc0NWZ2bmd6VkRHN2t6c0E?oc=5
 
 - 相続登記の義務化で相談急増も専門家不足…高齢化が進む「身近な法律家」のリアル | MRTニュース ｜ ＭＲＴ宮崎放送 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYbGNXMk1hT0FFOTBvY1V6bnpfbmN5VHlINFlKN05QUlZGRmNqS0pXenI5NUFVTVlEdTJpTDdWSHE1bzRvNnN1a0kxTkYxdTYtTEQ5ZFlaSzJQZw?oc=5
 
-- 「ひきこもりは誰にでも起こりうる」本人と家族を支える新たな居場所 日田市（ＯＡＢ大分朝日放送） - news.yahoo.co.jp
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5FME9ZSUFfbEt5RUdNY1JzcDdWOEs0VlZtdmlmUVMzSmhCdFNWRy1XdjR0Vk1DYVpxcEFNaXpkcmZyUVRZYXNvLVcxQ25XU0VjQUxZUm9Gd1d1SnMxREJDSTR4OTZqV1dfNUxxZ3gtQ0lWU3RzdTd0d0QwbUlQSGc?oc=5
+- 東京・港区が健康、法律相談窓口設置 麻布十番の食中毒で店舗や体調不良者を引き続き調査（産経新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1hNEh2VFdEQzF0YmNvNmpFSC1VekJIcjA2MmJzd0lkMGdId1VtLWtMMjNhYURseERIc0EzSUpnYVlURDNFWlRUVUduTEdldXhhR3hrVTlHaHFta3pST0ZEaURVWHNjRXRWVWtKLTAxSTFvS2RCVHVUZkNuY1lnRUk?oc=5
 
-- 相続登記の義務化で相談急増も専門家不足…高齢化が進む「身近な法律家」のリアル（MRT宮崎放送） - news.yahoo.co.jp
+- 相続登記の義務化で相談急増も専門家不足…高齢化が進む「身近な法律家」のリアル（MRT宮崎放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ibk8xc2c4VjVjN09HcTR3YzJYMm1xZUJueEYzSkRna1o3NXhjZFpId0NZWlRYSHc2dGNvVmxaMHNvTVpjV1N0RzdHMmtWbGhnZ3JkZ3lXeE81NWhxUE1QeURiZGVvVkxLa0ZWNUpVNTRtTjlhY1plUmQtcVo1R0E?oc=5
 
-- 相談から就労まで、ひとつの窓口で。障がいのある方とご家族の相談支援事業所『ONESTORY太田』が群馬県太田市に開所 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5ldENTbzdiR1N1aktOUzRYb2JJa1NWNEVQdWV3Tks3RTBEaDNIa3pWN0hDMjVkMmdKSVJ5SW9qa21BTUF0aEd6R2RGWDJ3ZVpqTmJWOTMtQmFuOHU1ekRXUEJSN2tubmRnQ1E?oc=5
+- 金利上昇 住宅ローン返済者ら悩み - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSSnl3aGg3d0FPRjRLazk1YkYxZ0YzOElSbXdSdjBsTThJQzVka184d2Y3by1wWWZnUjNDYkxTaU9YSktwYi13WUtmQWZ5SGpR?oc=5
 
