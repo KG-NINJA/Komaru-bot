@@ -1,7 +1,4 @@
-=== こまる相談 ニュースフィード (2026-09-12 00:47) ===
-
-- 「空き家相談会（無料）」開催のご案内 - city.hachinohe.aomori.jp
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxNYlJHMTVVYnBTOUhHT2ZSbVdPX3ZrN1R3Nzh6ZXk0NGo4R29vU1ZJM0VsUW1xd2NJdktFS0hRZFpselJ0OXVmMVFiQVNJMERTUUdELTNRUEdKMVh2YklJX1cyUkl0ZEo5ZEVVMjd2N01yelBLWFpaOXhoM3k2R0REU1FsNWk5V2pETWVIU25KSQ?oc=5
+=== こまる相談 ニュースフィード (2026-09-12 05:15) ===
 
 - こどもと家庭の相談窓口（大森・調布・蒲田・糀谷羽田こども家庭センター） - city.ota.tokyo.jp
   https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGZqdU1LZVdybm1XZEF5MWl5bTRnNFh0N2VwTUFzVkNaXzJieTJ6dXhSRk9tOFluc3BETFZTSkZ2NmV2UkxmOUFQQmJkMVNESFBUVXJPbHduZVRZM3BFVTlKZFBoTGF3RWdUZGVkQkJMMXNyclFqWlphdC1iSllMei12bw?oc=5
@@ -9,53 +6,56 @@
 - 「一人で悩まず、まずは早めの相談を」 ～ 中小企業活性化全国本部 インタビュー ～ - 東京商工リサーチ
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjR05jUFlXSkZuMFRUWjZTbzZxTmllYU1VZHN2TXcxbUZwWlpiZVVWZWY1VGhHX2I4ME1CTEpjYVd4NEZJMC1QRlBPakhXMHJibm1ybWFzSW5QMktOMVJfcjFpNWQ4UQ?oc=5
 
-- 外国人相談窓口（がいこくじんそうだんまどぐち）YouTube - city.kurume.fukuoka.jp
-  https://news.google.com/rss/articles/CBMimgFBVV95cUxPSXBRVUozejNwS0tvRWIzZkxxSWdkYzRLZm1mdnd1UDFQdVlUdFBqU2xVS19GMzZLVmJ5aVQ1VEtOTE4zTXlOLWpCdkd5TnNTX3NLbFFaV0RPbHRYajhWT3NYUzVtTDN0VW1GTXRqMlhGX2I1X3JwWDFvVXByNjRFWnFoRThtQ1Q5SVQ1TklFMGZlVFdIQnVLQUZn?oc=5
+- ＜人生相談＞家族のこと書きたいが、反対された 回答・堀潤さん（ジャーナリスト） - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHSEVfMnZkZkJOaVJmYXNkV1BjOEdlT1pXTzBvVHVkaXdtRThVV0tCaE0taFJqVlh2czlJQ2hjNWV1MVN3a01TQWhVbVlWYlJxMVVMU0txTmZ0VlBseW9LWmhYd2M?oc=5
 
 - 福岡県消費生活センター ホームページ - pref.fukuoka.lg.jp
   https://news.google.com/rss/articles/CBMia0FVX3lxTE5Jclk3RHlaRkdJRWlKZ0ZQWkpCQ2lJSW80R1VqV1NSUUdOUVJFMFE0TFVtb0ZHaGdhUDhmYmkwbnpNT0p4cVpIOTg4YnpBUmJmZlZxVUdOdE44ckRIYldGNG9LSWxlTlRLcEYw?oc=5
 
+- 「だんだん“本当の悩み”を言えなくなってきて…」障害児育児ユーチューバー『えぬくんちゃんねる』ママが“息子の卒業”を決めたワケ - 文春オンライン
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQZzlxYjVDN0Q2aW5vVC1lWTdlU1huRFdWSXZuYnFmRlA5NGlHam9PZlRITS05U3BIZnlzU3IxampKMXdESTlvNW1sQQ?oc=5
+
 - 5年以上続くのは2割未満『いのちの電話』相談員の現状は… 親戚の自殺きっかけで相談員に 10年以上続ける人でも「無力だと感じることもあります」時には自分の心に傷が それでも続ける理由【自殺予防週間】（ＡＴＶ青森テレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9Gb3ZpS3dpUmt0RUc4QlAwX2NsaUFFc2FIblIyRy1KN0pCckFZX01zUlBCa2wwRDVwVGNoWklmWUZUbUZUZ1Q0WDRudmxiYzJob3BDZ21TTlBPTWNYUHFpdVpjNEtBWG5HOTF3S2VWV1hpVkZDSE93V0M2dlJvSTQ?oc=5
-
-- 行政の困りごと相談 仙台で30日に相談会 予約優先 - 河北新報オンライン
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VVllwcDQzUVpBTHRldl9KSTBUcXBmZlJNUDlmXy1xTU5qcUpmMzV1MTNiTkgyUzg5dTlmbmVVQ2xQVjVpWGRXUWtJV3p0Yng3MV96bXRPMzJlalRRN2hkNA?oc=5
 
 - こころのサポートしが（LINE相談）の相談対応時間を拡充します！ - pref.shiga.lg.jp
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5FN2pFWVJ3ajNkTi1NQ0staXdNNzFRTkJGSFlxWk1DRGl0WWNkRTFXWGhfd2QyQm9zX1dnNi05RGdQSkRkYmRDbDE5X1NSUEFhSGhpc1p2VC10UzFjanlmbmZPYW03MWlYT0E?oc=5
 
-- 「抱え込まず話して」 JR山形駅で"心の健康相談ダイヤル"チラシで案内 16日まで自殺予防週間 山形 - さくらんぼテレビ
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQnhyLWdzSHl1ODdmYlJRUGctOEg0SVlVTk96SDVfU0preUM4Um9qUjg4c3c3Sjd1QTFydFJVYlFZRm80MTJlS05CQi12WW5MRFdBbmJKRWtyUWYyNGRXRDBXZ2Z0Mmc1RXI2dF9NMkJEdjA?oc=5
+- 【横須賀市】不登校相談会・進路情報説明会を横須賀市立総合福祉会館で2026年10月3日開催 - 湘南人
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZcGJwSHpTcy0xdDFDcDA3aThZSkUwMk9wUFdPNC1icm12UUU4VjZjdG9DNEtLSlRlY1lzeFJTOWdFZU5sbmJ4b01ndEc1QUU0WVlaSFlhRVJuM1FUY2JBYXlNOVI2QQ?oc=5
 
-- 9/27(日) 入試相談会の予約枠追加について - 埼玉栄中学・高等学校
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WNnJKWjJsc1hKRWZIY05ERXEtRk1GdWhqRGhPMTFaRkFFcVJKZjB2Mk5LZ2MxdGlxell3dEpaV1lqRnhfOWpjR21icFVFcTNuVml6c25vOVlldjVzT3lkdlJpZDhlaU5I?oc=5
+- 行政の困りごと相談 仙台で30日に相談会 予約優先 - 河北新報オンライン
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VVllwcDQzUVpBTHRldl9KSTBUcXBmZlJNUDlmXy1xTU5qcUpmMzV1MTNiTkgyUzg5dTlmbmVVQ2xQVjVpWGRXUWtJV3p0Yng3MV96bXRPMzJlalRRN2hkNA?oc=5
 
-- 相談が増えたのは、悪化したからだけではない【神戸市北区】兵庫県議会議員 大塚公彦 - 選挙ドットコム
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rVDZ3akZCMEx3dE1SbS1VS1czYVJSODVCNXpiVElKUFdJcWRneFNLVXZSdVZwTkNJSFUxbWk4OFB4eDZ1QXB4LUF2WG9oT3h0OTQ2RGp3anRlSGkzUjZz?oc=5
+- 外国人相談窓口（がいこくじんそうだんまどぐち）YouTube - city.kurume.fukuoka.jp
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxPSXBRVUozejNwS0tvRWIzZkxxSWdkYzRLZm1mdnd1UDFQdVlUdFBqU2xVS19GMzZLVmJ5aVQ1VEtOTE4zTXlOLWpCdkd5TnNTX3NLbFFaV0RPbHRYajhWT3NYUzVtTDN0VW1GTXRqMlhGX2I1X3JwWDFvVXByNjRFWnFoRThtQ1Q5SVQ1TklFMGZlVFdIQnVLQUZn?oc=5
 
-- 5年以上続くのは2割未満『いのちの電話』相談員の現状は… 親戚の自殺きっかけで相談員に 10年以上続ける人でも「無力だと感じることもあります」時には自分の心に傷が それでも続ける理由【自殺予防週間】 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rRThaZnVlVzU3aEkwZkZlTXlsZF9vWU10STFOMnUzWUhBNDJfRWNvMjZqQ21RU0tUM3B0UjZpTHlmd3VMYmZnRV9ESEtIRFFpMXhyQ1VENF9rQUNZbXJ3UVNVUE4?oc=5
+- アイコネクト、社員数50名以下のBtoB企業を対象に「土曜のマーケ相談会」を開始 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5kWi1lYU1XUWNpdTF3X21za3pqcktZVlljRWpUWVk4SndQV01vMkh5U1N2SkdWdkRLYjBVX1lZRVZLeW5lV3FzbHJTcGY5UFk3bzYtdWxkcnM2YUpXcXVDSXZFMGlyWEhDNmc?oc=5
+
+- 藤本美貴、11歳・長女の留学を岸谷蘭丸に相談 今夏に経験「今どこがおすすめですか」 - オリコンニュース
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RczgtRkpfbDZBRy1TSEx1OWpVOEFYZmgzdmRja1l6elNxN0YyZTZqenBPdlp6NG5Lb19DOUNNWDQ1cFo3MU5yUnRIUERLN3dZczRxME9n?oc=5
 
 - 企業の方も、働く人も対象とした相談窓口「介護と仕事の両立応援窓口」を開設します|9月 - metro.tokyo.lg.jp
   https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUUdVUmNsMmdGSC1oVnlYQmVhTndvamkwRW94YjY5a2YwbHh1dGZtZXhXSU9zcV9fUHBabkNlWWZWVnFzQnlJNGhVdjBlX3dCRkQxLUhycVlGQWM2RWNWbEZEZjI4c1JlOUI4X1RYX200eFdB?oc=5
 
-- チャットGPTに勧められ…相談増えるいのちの電話 AIにないもの [埼玉県] [AIの時代] - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iZUFiLWNJMHktRXNjcHZteGRtUlRQdFZCOVBpeU5BeFJQLWM1blc3MDZZWHotTHZYaEVraWlaNlg1QlNzRWFyYTJHZ0haSHA4aUNrbkxRSkROaEY5cGpTRzBSOWppeEE?oc=5
+- 熊本地震 ホームセンター100時間密着 買ったモノから見える現実 最多の悩みは - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE80elVVZzJvclpreXZCTEZxVmd0clRpdmRyMVNaaHpOUFJCT3hzNGJiajRWN3hKZ1ZfYmhVeGpUOXR5M3hmWC16NUJzYUxISC01cXVfQlFXWnk1cnBxUm83amNGdXhLUTFOT1VEM3NSWkt4Zw?oc=5
 
-- 【高校受験】私立高校進学相談会in柏9/23…セミナー追加予約9/12から（リセマム） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5BNHM0ek9fYXlfM1U2bnM4NUxUYy01LUNrbk52RzJwaEdlNDFiMy1fNTExUDRHcVJPaW1JQ3p1NkdlbUZ3TjJqR2dONUxnemNGMTBVaXgyRkE0UENCY0hxb0NlU2pNZGdiNUZsZnU0RFdyTnBGSjdQaXpPUC01YkE?oc=5
+- 【10月16・17日】玉野市・真庭市合同移住相談会を開催します！ - city.tamano.lg.jp
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBGWHNva1lMYVVlNF9uT0tLVk16anlrcV92WWgtODhVVjVhUWFTZFFldXhUbzZQd2drZHVVQzBwdW9hRGZOd0Q5YW1UOGZ5dno2anZQVXBrM2tNY2J3djA2bW14Z1IwRG5remc?oc=5
+
+- 目の健康を考える一日 市民公開講座と健康相談 10月4日㊐ - ニュース和歌山
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE80dmhSV0dBbXM0X2tpTGJhUGtCXzB2OFR4ejZyaXIzNDBBMEwwVXpqUV8ybTh3Yy1aV2YxdzhLaGNITWlodDRhSGQxcE8zXzczdTZpekhMeDJ4NW1JdEJuNG5PSlo?oc=5
+
+- 空き家対策、企業が協力 銀行が持ち主の相談窓口に：ニュース - 中日BIZナビ
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xZXhQaHowUmZhdlhMQk5rdjZSZS1UekpmTlpZSEk0NTRrMEtZeGNVdG9oejZTbmp3Yi0wdS1PeF9fMXozdHlxWVVhSGMxcDduYU1kcVpmX1JzWWpmbmg4?oc=5
+
+- 「ストレスだった」 イタリア人が困惑 日本の駅で困った意外なこととは（Hint-Pot） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9oZmM0MG5QQjE3ZnBVOThaOGhNYVQ5TGtyZmhVamhZT0JRcWlKeExTU2lwVHZsbFVZejBycTU3dU1ic0VUNmxVRVVzVU93TVpvclh5dUNzXzA3MnNiODZrWWZmdDd0NHVYcXkzcTZqdUx5ZjlMZExXMkZ3RTRNdEE?oc=5
 
 - 来所した子どもを平手でたたく…児童相談所の女性職員(52)を戒告の懲戒処分 香川県（KSB瀬戸内海放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9rLUxZRkE4MEw0UkZNb0FPdFExcmJoYXZOMldLNi05LTRZTGZmWTl2bHVTUmdrcXRVelBfT3Fud0Z2OUMyQUIwSkljYVYzdnZ2eWoxeC1FWXVMTnk3eTZZQThMNjZmTFRTUDhnZWxzdElaYlJRNmFhaG95OHpGT1k?oc=5
-
-- 児童虐待相談が過去最多に…実父による加害が最多 背景に「面前DV」 長崎県（NBC長崎放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFAycFBkbEFwZDFWUHBSMVc0cTNnWktSQWU0aVA1b0VEeVNLS2JfVkpCRUlxNUxUdnFZczZ3UXpYU3VETl84eGRKdkZ4ZEtaMW1sMnB4NnBQS25NYmdtMmhXUGJpbFB4Y2ZWMnlXVzBMVjhOMnlKTjZQRllITW8wV1E?oc=5
-
-- 「いつの間にかいなくなった」地震後のペットの行方不明 相談約300件（ＫＫＴ熊本県民テレビ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1BcDNGZGpycFlPTGhqbUtnZjVnUjE4NS1QaGtvd3FmSjJaNDFXanRNOFNmWkIwQk9rMVpwY09FMTdNRVdRbDhWRTg0d3VtVzN6UFUzOFVrSW5NQlFuNlhtQy1UeG9ESzUtekRVeEJubWY1QU0ybGFfOGZzdGtmeGM?oc=5
-
-- 「難しくて、ストレスだった」 イタリア人が困惑 日本の駅で困った意外なこととは（Hint-Pot） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9oZmM0MG5QQjE3ZnBVOThaOGhNYVQ5TGtyZmhVamhZT0JRcWlKeExTU2lwVHZsbFVZejBycTU3dU1ic0VUNmxVRVVzVU93TVpvclh5dUNzXzA3MnNiODZrWWZmdDd0NHVYcXkzcTZqdUx5ZjlMZExXMkZ3RTRNdEE?oc=5
 
 - 子ども女性相談センターの職員、来所した子どもの頭と太ももを平手打ち…懲戒処分に（読売新聞オンライン） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0xbXdqMjBWSTc5bmp3dWQzNUdrSi1ScFJqc2laRG1McUJwNXY3d3dHdzYyWUV0djFnNkppcmhueDZ0emloSHZxNTY5Yk1mNXpxU09FYlJvdXhpWHI3Z0pjRTRhWkxKdUpJY0RjeFBBOC1fcVNROFVNRnpId3ppNTQ?oc=5
