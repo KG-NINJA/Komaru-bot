@@ -3,45 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>相談アプリ</title>
+    <title>消費生活相談</title>
     <style>
-        body {
-            background-color: #e0f7fa;
-            color: #004d40;
-            font-family: Arial, sans-serif;
-            padding: 20px;
-            text-align: center;
-        }
-        button {
-            background-color: #007BFF;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            cursor: pointer;
-            margin-top: 10px;
-        }
-        button:hover {
-            background-color: #0056b3;
-        }
+        body { font-family: Arial, sans-serif; background-color: #f0f4fd; color: #336699; margin: 0; padding: 20px; }
+        h1 { color: #007BFF; }
+        footer { margin-top: 20px; font-size: small; color: #666; }
     </style>
 </head>
 <body>
-    <h1>悩みを聞かせてください</h1>
-    <p>あなたの気持ちや悩みを自由に話してください。どんなことでも大丈夫です。</p>
-    <textarea id="userInput" rows="10" cols="30" placeholder="ここにあなたの相談を書いてください..."></textarea>
-    <br>
-    <button onclick="saveInput()">相談を送信</button>
-    <p id="response" style="margin-top: 20px;"></p>
-    <footer style="margin-top: 30px;">#KGNINJA AutoApp</footer>
-    <script>
-        function saveInput() {
-            const input = document.getElementById(userInput).value;
-            if (input) {
-                document.getElementById(response).innerText = あなたの相談が送信されました！;
-            } else {
-                document.getElementById(response).innerText = 何か相談を書いてください。;
-            }
-        }
-    </script>
+    <h1>高齢者のための消費生活相談</h1>
+    <p>最近、点検商法や通販トラブルが増えています。以下のポイントに注意して、安心して取引を行いましょう。</p>
+    <ul>
+        <li>不審な電話や訪問販売には心して対応しましょう。</li>
+        <li>契約書は必ず確認し、分からないことがあれば相談しましょう。</li>
+        <li>セールスの電話は録音することをお勧めします。</li>
+        <li>周囲の人や家族に相談することも大切です。</li>
+    </ul>
+    <footer>
+        <p>#KGNINJA AutoApp</p>
+    </footer>
 </body>
 </html>
