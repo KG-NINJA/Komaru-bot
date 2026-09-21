@@ -3,24 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>消費生活相談</title>
+    <title>ハラスメント相談アプリ</title>
     <style>
-        body { font-family: Arial, sans-serif; background-color: #f0f4fd; color: #336699; margin: 0; padding: 20px; }
-        h1 { color: #007BFF; }
-        footer { margin-top: 20px; font-size: small; color: #666; }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0f7fa;
+            color: #007BFF;
+            padding: 20px;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.8em;
+            text-align: center;
+            color: #555;
+        }
     </style>
 </head>
 <body>
-    <h1>高齢者のための消費生活相談</h1>
-    <p>最近、点検商法や通販トラブルが増えています。以下のポイントに注意して、安心して取引を行いましょう。</p>
-    <ul>
-        <li>不審な電話や訪問販売には心して対応しましょう。</li>
-        <li>契約書は必ず確認し、分からないことがあれば相談しましょう。</li>
-        <li>セールスの電話は録音することをお勧めします。</li>
-        <li>周囲の人や家族に相談することも大切です。</li>
-    </ul>
-    <footer>
-        <p>#KGNINJA AutoApp</p>
-    </footer>
+    <h1>ハラスメントの悩みに対する相談</h1>
+    <p>あなたの悩みをお聞きします。話すことで少しでも心が楽になるかもしれません。</p>
+    <textarea id="adviceInput" rows="4" style="width: 100%;"></textarea>
+    <button id="submit">相談する</button>
+    <p id="response" style="margin-top: 20px; color: #007BFF;"></p>
+    <footer>#KGNINJA</footer>
+    <script>
+        document.getElementById('submit').onclick = function() {
+            const input = document.getElementById('adviceInput').value;
+            document.getElementById('response').innerText = input ? 
+                "あなたの悩みに寄り添います。大切なことを話してくれてありがとう。" : 
+                "何かを入力してください。";
+        };
+    </script>
 </body>
 </html>
