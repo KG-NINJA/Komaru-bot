@@ -1,15 +1,24 @@
-=== こまる相談 ニュースフィード (2026-10-04 02:14) ===
+=== こまる相談 ニュースフィード (2026-10-04 08:58) ===
 
 - 【10月16日】労働相談 - city.tokorozawa.saitama.jp
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
+- トランス男性、治療困難 地震で被災、10人相談（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5zTEs0Tm5TSVMyWVVTTFplUnhOcDYwNWF1bjhGNTZlcDh6ZEE5Y3VqWG90TGpBdVFQN0xPY1laTTRIbzg1WTZsdjFIeks0WXRCcFhTWnVfVUxFUHZJRWlqbndhc3kwTmlPUFhNMlFkUXozUWZKZHc0TkJTSUpBajA?oc=5
+
+- 萩市スマホよろず相談所 ～令和８年度も相談を受け付けます！～ - city.hagi.lg.jp
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xeEpMSVVBUXRJTUNEa2RrZnNKVERLeWNoX29sejQwVkNIYWVCVjZIVjg4aFRYY0ZNMEJMQlNGenIwaTNLU0FtUF9UVmszTmJsVjB2cVdZaGEzaktSeGlF?oc=5
+
 - 品川区児童相談所 - city.shinagawa.tokyo.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVVXRVlwaDVIZ0Y2OUFxMmg1WndBVk5iamlxcXBlSmJvN3NzT1JVWVVlWnJnazN0aHg4MUpqMUg0bG14a2p5bkpVYUpXN0JIS21BLWxLQWwxdGF6a2hQQkYySVdUOHdadVRGOVJyMmR2WTBPeU9SZUJpMmZ1UDE4Y0tPbHR3U0lMM0JLTw?oc=5
+
+- 広島 家庭の悩みに弁護士や調停委員が答える無料相談会 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxSUpGcUlwNjFkLTJnWUkyeXdQZVZfTHB3eGhfUlZTT2NhVC1Pa011eDc3MkZtMTlUYWM2bXJjZlJpcVFxa2FISHNDYUpjbHNoekFoNThkd1Y0WGRRY0JN?oc=5
 
 - スマートフォンの相談教室を開催しています - city.murakami.lg.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxQWm1jVzFuUGRSWk1RUnBiQ0hxQVUybFNLaHZzQ3dhMDJVLW1FZ05malppbHN2NDBGTF9UT3E0cUxCZExONWo1Uzg3Snptc2c1VEFOZWtMQWlmbi1iaE9hdUVTZ0VtOVhDY3IweVJ1YUdaTnMyaGxhekpKZ3hMeEJjNGRnalQ0T0N3V1FiQw?oc=5
 
-- 【PR】上越で40・50代の婚活「プラチナ交流会 朗読パーティー」11月1日開催 親向け無料相談会も - joetsutj.com
+- 【PR】上越で40・50代の婚活「プラチナ交流会 朗読パーティー」11月1日開催 親向け無料相談会も - 上越タウンジャーナル
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE00WmJYamxUVFpKZ3FMMG1XeGFKTkZuY05qOXROWkg4TDlOeGlISGxuX1I0N3c3YXRMMXRhdlBsRjlYOWt5aXI2bDBITV9XdHZnWDBmUg?oc=5
 
 - 巡回行政相談を開催します - city.ishigaki.okinawa.jp
@@ -18,45 +27,36 @@
 - 国民生活センター、高齢者相談が2.5万件増 EC、定期購入が上位に - 日本ネット経済新聞
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tVzJYWmVlRG92ZlhKMGxfcmpYdHo2cFdXbFJJZG14Z0w3SVNvUDlCbEdEYWxiVjl4OTNjazlINDdBcWhyS2dzZU83RUhNLXFRR1A0dDF3?oc=5
 
-- 救急対応など学ぶ こども健康相談会 奄美市名瀬｜社会・経済 - 南海日日新聞
-  https://news.google.com/rss/articles/CBMi2gJBVV95cUxQQXZScnQ0ZUVJMFJEckNTQXoyVEhLNmpsV1puRE5ybG53NDdnRWg5Uk5odTRUWHJiR3lZVUpNM2ExNVYybENhQmlWVGZoaktaTFZ4bmktdDA3VFVnRV9HeFJtTGwxOVFfblBtd0M3Vl95bl8zQzM5VXVQWmNadG15aDBXQ1JrS25rVDRuQjFXVHAwZHlGTDRxT3FnWWJ6MnA4ZFhHZnVQdElmTWk0YzZVVG1tWkFNZmpTTDZTMGlHaVc0TkQ5Wi1vc1dmaURBUFprc01Rb2puN01ydzhFSXZHeGJaS3VaQ1V2X3NZb1lrSjlhWHA3WndIMldkTDlDbnRNTi1wNWNLbUJjQ19fbEJiY01lcUZjNEZLMVVKbW9qcU9fWmJBX185eHU5d0pxNllobUJCQklqczVFZUJmb2VSaVhiVGVzTFBXbmFlcm1tRmk2Z3I0cUdtN1ln?oc=5
-
-- 【無印良品で即解決】旅行の「荷物と収納」悩みが消滅！大定番キャリーケースの進化版ほか 傑作トラベルグッズ3選を徹底解説 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5melZSWnRSOVI1TldiOGdLQ091bXBUdlZPamlMcVQxLVg1V3M4OTI4MXpPbWNkR1BNTGhHc0l5UVVJQ0I3Ylp6bXB1UFhlX29RMXU3YlpFVkRobEFxSmVseWpHdHZQWWU2LXJJNnYwMEZQVnd1YnhoYVl2OUg4MmM?oc=5
-
-- 東京都利島村のことば 水に困った話 - nhk.or.jp
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE0wTVlSeEljclZxRUdYVkhBSkNJbzNSY2daVnEzZW5VVVVwdGc3QW1Rc1Z3cFNKcExVWkhZM3JibU00U0RNc0J4ZlZTUnBLTi1Tb19vMjZzVXRtTV9ZdURlQnQ2MGxab0IyTmxpSQ?oc=5
-
 - 就活ハラスメントの相談窓口 - city.niigata.lg.jp
   https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2wwSVlGVUE1SzdTU3dab0VycTlFd1Q1N094TEdrT1dWaS1yN3VINGtqejQ1V3NSMHdjN1BaamJzaVlBSlBuUlQyUzV1eEZvSGhXQWVTc1lxUTZXdEFzcHlGNTlFc29HVXVTc2diSGpLWEJXamNOM0VzanNneXdqVjFVbnVZa3NwaXpqZ25oRWFhUQ?oc=5
 
 - 相続や登記の手順、理解深める 佐賀行政監視行政相談センターが講演会 | まちの話題 | 佐賀県のニュース - 佐賀新聞
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHWHlmRkFLRWwtN3gwYlMyaExORHdJSDFZM3VZVi1kWnNTVTU5U2VsZVU0NWsxcHBZb05NY0pBREN2U2MzQmU0ck9COXg5Vy15N1ZrdGxB?oc=5
 
-- ＤＶ（配偶者等からの暴力）相談窓口案内カード設置協力事業所等について - pref.kochi.lg.jp
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE05RVVDRy1jMUpaSGM3Mnh4WF9sVVF0alBRTS14YlVReG5HeE9CSHUwWFRjZ1BXRTExQldVY093R2pRMDFydHlDY2k4N0FoU3FTcEZGSE9hMXM0R2M?oc=5
+- 学校の特色学び、相談も 中高生や保護者 岡山で通信制高校・サポート校相談会 - 山陽新聞
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE5SRXlCTEtYRGZPMS11VFoxM05IWURndXA3WW1fRHlJTkdiOW5wQm5URlExQlRPQ1oybU55RnlfM0dDZWM3M2dGaWk3V3NheXVqVkFXMHh2WGp1b2cwamlEbjZCZUJUQnp0MW80?oc=5
 
 - こども・若者（わかもの）のみなさんへ ～こどものための相談窓口（そうだんまどぐち）～ - pref.saitama.lg.jp
   https://news.google.com/rss/articles/CBMigAFBVV95cUxQaXZ3azdZaDQ5X05hMG9jSEtUQU9IU0lqcVByX0Rwc0xhdTR6UU9IVTJ3ZUFjbndCYy1Yb0FTOE5rV3psS0J2Nk1PQURvT3FoSnBHXzhIZXJjdVhyNXU0ekFSdkJhbndmaVJxT0duSHhlRGZCRkNPQ2RqcGd1Y21pdg?oc=5
 
-- 大きく育ったサンセベリアが鉢いっぱいに！ そのまま植え替え？ 株分け？【観葉植物のお悩みQ&A】 - mag.nhk-book.co.jp
+- 学校の特色学び、相談も 中高生や保護者 岡山で通信制高校・サポート校相談会 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RRm9kS1NKN3VMQXhZZ3NhLXZONXNGVGFreTE3SjBVV2lUQ051eThZMmRVSEdnQzFaVE1oM0pCMkJERlhfdVdUeTV2RQ?oc=5
+
+- ＤＶ（配偶者等からの暴力）相談窓口案内カード設置協力事業所等について - pref.kochi.lg.jp
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE05RVVDRy1jMUpaSGM3Mnh4WF9sVVF0alBRTS14YlVReG5HeE9CSHUwWFRjZ1BXRTExQldVY093R2pRMDFydHlDY2k4N0FoU3FTcEZGSE9hMXM0R2M?oc=5
+
+- 大きく育ったサンセベリアが鉢いっぱいに！ そのまま植え替え？ 株分け？【観葉植物のお悩みQ&A】 - NHK出版デジタルマガジン
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qSjR1aDZwdS1hX3pJOHE5RG9nQjN1bHVYMDRrSUNVd3ZnWFNQNUhiemFFa2FoYnRyblNJaElpRk9ydERfTlpaVTY0dDBrbzB0T1E?oc=5
 
-- 相続や登記の手順、理解深める 佐賀行政監視行政相談センターが講演会 - 47news.jp
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiM0VzbnNDUTN1UkpTb2dGajdLNjN3UkRxZURNeEJaVE45N19zQ2dURl9mZjY2OFQxOUJPN1ZqZzZIVk9wNWtXd2NTZw?oc=5
+- 子育てと仕事の両立を支援 復職の紹介や悩み相談会 岡山（KSB瀬戸内海放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9RM2kxc21wd1FTM0F3MXJ5dlE0YTROSEhJdGZOU2NwMU5pN0FtX29PVWZETkhmejRpcldmamtGbzEyMXRJTGd0LV9naVgzdi1HMUJGaUFwbzZJN1lhR0cyYWlPLUxpaG03aUpBbGtXNlBSejYzZmF5SFVTWEtxS28?oc=5
 
-- 【 吉岡里帆 】 “どんぎつね”のヘアスタイル模索で絶賛悩み中「次の髪型どれが良い?」 可愛すぎる自撮りショットにファン歓喜 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9sY1FmYXhHUXRYY2o0MVRpREtmb2l5dW1vcm5ZNGlNb21OcGpYVno2ZTlpMFFaN1lZb1d3WHVMN3FBQ0MzRGdOTjlBdnc0c2E0ZG1FXzF3UGE3WDJ3dzlEdkpxdVNNQ1MxTGZvb1NYSURaVjN5czNUb240MGE3WTg?oc=5
+- 救急対応など学ぶ こども健康相談会 奄美市名瀬（南海日日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE80VnRGVk5lOXhWdk9hV3UtWWdPY2RaZTFzTHJiZElKT0otT092c2dpUl9xSVNsazB2dGxHOWROSlQwallua2dLOUEydllzUTB0UjAybkh4ZmRwYXVfbzIwT2JjOFdxX2hTd2EzWndiX0JVZWxlb2NDeHBjcjIycUk?oc=5
 
-- 相談はあったのか？ 久保建英の電撃結婚に盟友の中村敬斗が言及「僕らの仲なんでね…」（SOCCER DIGEST Web） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBseFZEOGRTN3dwWVVKVEE0ek55MGdmSlJsczFsbHFzZ0ZoMDU5aW1yYlhoQnFySU5NaENvanVfS0xPTm0ydEw2SkQyQ05JU1RzajNKMnhueG1hTTNZSGFaZjFob1RFZDJlWGFFQzQwOG91STc1NTdQVlkzREIwUlk?oc=5
+- 美女タレント「ヒゲ」に悩み「夕方になったらチクチク…」脇の脱毛１０年も「まだ生えてくるんですけど…」（デイリースポーツ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFB1MTFoRzdsbmhEUVRxVXlZMWFEMFdKMnJubzRnZklhVE95bzdINlc4RmJNLTZmbGlieWxvZ0JZTEZpaGpKbmtkRUtEU3lxWjY4THVoYWwzbVVNSHFZdWdMOUFMNWtsZE9HN2VjV0NWd0NfTGs2LWhsV0Vjb21oeFE?oc=5
 
-- 広瀬すず 女子高生からの恋愛相談に真剣エール「言葉や行動にして伝えることが大切」（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1uQU9kOEpkeDdqNkdfbXpSR1d5TU5scVhhMGczcHQxV0JNMnZCZ3N5YWJpbVVtb1R1YnJUbHptSkROdVMwVlJfcWlkckwyVVNKZnRtSkVQaDdVS2h1bDZ1TGVGTTM4eWk2LUFQZWFBVWxKM3JtS3BKTmt2Q1ZOQlE?oc=5
-
-- 広瀬すず、女子高生の恋愛の悩みに真剣回答「伝えるって難しいけどすごく大切」（ENCOUNT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFB5YVhqRmFFSWdBZVotWjR6NFFmb1lBX3QxSW93czhSREJtanhEcEZkdmZHNGoxalN6bmVkVXRIWUxZeUpFX2p2aTV5OGtuNmlPUS1pdUwtLVFxUFNWdEFxZEFQRGdtTkFGZG9CcjRDdXZzelR0Ykl6ZVFCUVZiVTA?oc=5
-
-- 広瀬すずが本気の恋愛相談に回答「異性との友情はあると思うタイプですけど…」１０代の悩みに困惑する場面も（スポーツ報知） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNW02NVpTdUxnQUcteDE1Nks0TlZmR0ZkV1U3OU1MR0VxVHFYOTdxOTJMS3RidTVDLV96eTlsSzFxS0xiNmRPWEVGM1liSkN6MVY5TXZ2SUxtanNBMFFWbVZCclpjSXVKcVhMREVMZWtoMTFjVFlUMDR2RFB0NGc?oc=5
+- 高松市で「一日合同行政相談所」寄せられた声は行政制度の改善にも（RSK山陽放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE0wcGNGNDAweGlDV2dzeEZTdXo3SWFRd2ptNnNMeUlLRnBNWk01a3ZSd0tJSkllLVhsaG9fbVJlNWpURlNsRFljZFhWUnEyNk45LW81Um5wZk4xbGlWb1U3QWhzRFJCVF9MMVBWeVl4NElHdGtKcWhUcUdhcy1HM2s?oc=5
 
