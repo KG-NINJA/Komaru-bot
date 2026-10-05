@@ -1,1 +1,23 @@
-<!DOCTYPE html>\n<html lang='ja'>\n<head>\n    <meta charset='UTF-8'>\n    <meta name='viewport' content='width=device-width, initial-scale=1.0'>\n    <title>カスハラ相談窓口アプリ</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            background-color: #f0f8ff;\n            color: #333;\n            margin: 0;\n            padding: 20px;\n        }\n        h1 {\n            color: #007BFF;\n        }\n        footer {\n            position: absolute;\n            bottom: 10px;\n            left: 20px;\n            font-size: 12px;\n        }\n    </style>\n</head>\n<body>\n    <h1>カスハラ相談窓口</h1>\n    <p>あなたが感じるカスハラの悩みを聞きます。\n       企業内での問題を解決する手助けをします。</p>\n    <label for='issue'>お悩み: </label>\n    <textarea id='issue' rows='4' cols='50'></textarea><br>\n    <button onclick='submitIssue()'>送信</button>\n    <p id='response'></p>\n    <footer>#KGNINJA AutoApp</footer>\n    <script>\n        function submitIssue() {\n            const issue = document.getElementById('issue').value;\n            const response = document.getElementById('response');\n            response.innerText = 'お悩みを受け付けました: ' + issue;\n            document.getElementById('issue').value = '';\n        }\n    </script>\n</body>\n</html>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>困りごと解決アプリ</title>
+    <style>
+        body { background-color: #f0f4f8; color: #333; font-family: Arial, sans-serif; }
+        h1 { color: #007BFF; }
+        footer { margin-top: 20px; font-size: 0.8em; text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>最近の困りごとを解決しましょう</h1>
+    <p>このアプリは、最近の困りごとについてアドバイスを提供します。</p>
+    <p>困りごとの内容は以下の通りです:</p>
+    <div id="solution"></div>
+    <script>
+        document.getElementById(solution).innerText = 最近、多くの人々が相談内容を伝えても、なかなか返答が来ないという問題を抱えています。ここでは、その理由と解決方法を提案します。;
+    </script>
+    <footer>#KGNINJA</footer>
+</body>
+</html>
