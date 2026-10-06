@@ -1,7 +1,10 @@
-=== こまる相談 ニュースフィード (2026-10-05 23:00) ===
+=== こまる相談 ニュースフィード (2026-10-06 02:46) ===
 
 - 【令和８年１０月１６日（金曜日）開催】行政相談委員による秋の特設相談会（予約不要） - city.adachi.tokyo.jp
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1waEc5NGdYS0t4Y09HYUd1Y1lJRExQb2NwNFdYMWFsdjNfellqeFJsTC1STEhLS1FSeHplNGVNLTFlUklQWlpsWEprSTNYZEJsWi1KMTVaMU5pUXNwLUVGQzVrMEVZVlE?oc=5
+
+- 【10月16日】労働相談 - city.tokorozawa.saitama.jp
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
 
 - （美輪明宏さんの「悩みのるつぼ」 相談者たちは今）一回り年上の女性に恋した男性 - asahi.com
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oRHhYLUpWNHVRSlFScF8xR2V2TGRpVE1QMk1IQkFFYU5xQW5ZQ2hFSE5IYmZRTncwWnJ2c0k1RWlQdmhmQVZBa1pzdXNHVnlORkVTQ04yU2tDNUVx?oc=5
@@ -9,14 +12,8 @@
 - 講演会「図書館は、誰かの『困った』から始まる～本と人をつなぎ、地域をつなぐ図書館へ～」 - city.kameyama.mie.jp
   https://news.google.com/rss/articles/CBMicEFVX3lxTFBGUEhjbE1zZVpHR25WNDhSbjZUcDAxWGc5VnAtTWlNaXR4NzY0YnFGVDFOU0Q0RjExNnRLNDd0SjB5RG5QSUlITEFfdTY0dktxRC1oU2xpaVp0aGRiakhHcTZnYndadmpTX25lVVZKOXA?oc=5
 
-- 【10月16日】労働相談 - city.tokorozawa.saitama.jp
-  https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBHTmRaM3VKdzJaUXdma2JmUEtoQ1FUcEZoUzJkSVdhRl9zWF9oWlJ0UVZpUGg2cjd1VG93c3VLeTNKaE9zUUpNTFlHRlpzWC1sWmhCU0hUYVJNT2owbHFsSk9ZLUItRmJaS3BXWDJkNjVibGRFUWl5Njc1UmQ1OXVRWTBCRm10cUZFUmFqNmY?oc=5
-
 - 萩市スマホよろず相談所 ～令和８年度も相談を受け付けます！～ - city.hagi.lg.jp
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xeEpMSVVBUXRJTUNEa2RrZnNKVERLeWNoX29sejQwVkNIYWVCVjZIVjg4aFRYY0ZNMEJMQlNGenIwaTNLU0FtUF9UVmszTmJsVjB2cVdZaGEzaktSeGlF?oc=5
-
-- 「住まい」の悩みをワンストップで解決！専門家に直接聞ける“相談会”とは？（TOKYO FM＋） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9NOEU1WUN6RjFjTjhrRVlUd1dzbzdLRGtzd1N3VnJpbmtpQXVCSzhVdXV0UlI2aG83QWlNWU5nX0t0UFdqN29IY1ZOYTZyVlJvQVNST1dRMXRHQkZiX0IxYU96dXBXQ0g4eGkzaGQyRGtmbHpPTjIxeG1EaVRGNUU?oc=5
 
 - 品川区児童相談所 - city.shinagawa.tokyo.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVVXRVlwaDVIZ0Y2OUFxMmg1WndBVk5iamlxcXBlSmJvN3NzT1JVWVVlWnJnazN0aHg4MUpqMUg0bG14a2p5bkpVYUpXN0JIS21BLWxLQWwxdGF6a2hQQkYySVdUOHdadVRGOVJyMmR2WTBPeU9SZUJpMmZ1UDE4Y0tPbHR3U0lMM0JLTw?oc=5
@@ -24,8 +21,14 @@
 - 事業者向け相談窓口「いばらき経営サポートデスク」を開設しています - city.ibaraki.osaka.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxONVMzdnZYRUtKbmJhdmxwNzFEbEg0MlN1TllFcHFKTE44ejV2X3F2QmpDbEJiMkc5QnFTdEdLWUdtNi1wZDR4MlFiVTNEckd1ZzRseHFtc3VKcW51a3BJYUNpNjlVb2RKck9lMVRTSlZQX0kxWmFqX2JUclF6QUVjUU9qVEJiejU1dURXQQ?oc=5
 
-- 【10/14・15 】合同企業就職相談会を開催します - kaiyodai.ac.jp
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE5UMVBRRVBwdFZDemw0VEpDTDVVWWF6X213UTA0enVjdlQ0Z1NKU0pTWWhvTXNTUmNrUW5uNGNIYTB6YzBUci1TTUJyaFJpbXdmYUJxQlpzdm1GejZuM215UTM3d29hRHRLV2NlZDRR?oc=5
+- 「住まい」の悩みをワンストップで解決！専門家に直接聞ける“相談会”とは？（TOKYO FM＋） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9NOEU1WUN6RjFjTjhrRVlUd1dzbzdLRGtzd1N3VnJpbmtpQXVCSzhVdXV0UlI2aG83QWlNWU5nX0t0UFdqN29IY1ZOYTZyVlJvQVNST1dRMXRHQkZiX0IxYU96dXBXQ0g4eGkzaGQyRGtmbHpPTjIxeG1EaVRGNUU?oc=5
+
+- トヨタ、相談員を全国販売店に配置 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE50RE1xNmVneVhhREtmSTlNdWtUR1dvVlJ5MVI4U1hXMEJ1d1hjeDJYamE1VUFuZFptR3ZfTTB0VXFPcGtqREJMNWF4RGtLcGJKQ3Q2NU9XVFRFYXpNM3hVVTVCbWRZNmEwQi1Iaw?oc=5
+
+- 〈人生相談〉運動苦手な息子の部活が続かない 回答・室伏由佳さん（教育・研究者） - 東京新聞
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE56Qy1zd1ZjbHJwR056SFEyRG9ja1BDcndQRG9zV05uTWFFejktQnN0Vlp4NDdUYWVWM200ZEdrbmI3cU5OZHE4WlJKS0VsZE9NTFFZ?oc=5
 
 - スマートフォンの相談教室を開催しています - city.murakami.lg.jp
   https://news.google.com/rss/articles/CBMijAFBVV95cUxQWm1jVzFuUGRSWk1RUnBiQ0hxQVUybFNLaHZzQ3dhMDJVLW1FZ05malppbHN2NDBGTF9UT3E0cUxCZExONWo1Uzg3Snptc2c1VEFOZWtMQWlmbi1iaE9hdUVTZ0VtOVhDY3IweVJ1YUdaTnMyaGxhekpKZ3hMeEJjNGRnalQ0T0N3V1FiQw?oc=5
@@ -33,30 +36,27 @@
 - 土地家屋調査士相談《事前予約制》 - 泉大津市
   https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmg3OGxfbTlsUXc4WUZNR19RWkY2dGloZUY3V1dTZkpGSDRlWm5xVGhjY0prWnNWSEt4c0IyYzRoTFhFbjQ0d2VYWGIzUkVPWERybXFsVUZTTXpwZ0xTLXFjOUdXS21jQzNCblJKMFBwcnN0OGc5UE5EWEJYTDJkMXVXdldFc3ZEZ3AzYTFiUC1HRlk?oc=5
 
-- トヨタ、EV相談員を全国販売店に配置 BYD「ラッコ」を警戒 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE50RE1xNmVneVhhREtmSTlNdWtUR1dvVlJ5MVI4U1hXMEJ1d1hjeDJYamE1VUFuZFptR3ZfTTB0VXFPcGtqREJMNWF4RGtLcGJKQ3Q2NU9XVFRFYXpNM3hVVTVCbWRZNmEwQi1Iaw?oc=5
+- 秋田銀、秋田への移住・就職希望者の相談サイト開設 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFdVN0X1BHQi01NU9sODMwU0RNc1QzcHdmWEFrRmlDMzdLcTRfZWkwMGtNdkowd1VNYUY4bVVFMlY0c2ZnWVdKUlpodw?oc=5
 
-- 交際相手の遺体を山中に遺棄か 「殴られた」過去に相談や通報 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5VaEdXUFplejVRQ2Z3elNvYTdXcy1tMDhtbEJqU2pfeWkwaUdJZC0zNDU0QVkxcTdDX20yUGFkemgyZlVvbEZZUldIaGpfNzBla0xtdmJkMzlDLVEwOXVXblZ2NVlzbEVEWTdYZHZRNXVIUQ?oc=5
+- 【10/14・15 】合同企業就職相談会を開催します - kaiyodai.ac.jp
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE5UMVBRRVBwdFZDemw0VEpDTDVVWWF6X213UTA0enVjdlQ0Z1NKU0pTWWhvTXNTUmNrUW5uNGNIYTB6YzBUci1TTUJyaFJpbXdmYUJxQlpzdm1GejZuM215UTM3d29hRHRLV2NlZDRR?oc=5
 
-- 〈人生相談〉運動苦手な息子の部活が続かない 回答・室伏由佳さん（教育・研究者） - 東京新聞
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE56WnlHNlgzT2NCcjQ2ald5N0U0eVBXYlQ3Qk1yU2xyWkw5RWlmVl9UZHduZUt6QjIxWndydTVpMzVGOHhoR3g2WFJZUThVRW9MVFczYzAwTnZBWWZ3UDJ6TnRvMnlEa0Q2Vmc?oc=5
+- お顔の悩みを入口に、フェムケアへの意識はどう変わるのか——40歳以上の女性対象「高濃度水素フェムインナーリフトフェイシャル」継続モニター30名を募集開始（初回13,200円） | 株式会社 ORMIRA＆CO.のプレスリリース - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFB3YWFIUXVxQTFXTGk2VjNYMWpJMFM2dlUzeHp1YkhhVFkybFQzTkRuQ2hVOTZ4Qkg5UWhnT3VITjRlR1p2NUhneVMyZk55TWx5elBhbFdzVkZxdVF4WjgycksxajNnTjZmT0E?oc=5
 
 - 出張！！スマホちょこっと相談室開催します - city.koganei.lg.jp
   https://news.google.com/rss/articles/CBMiowFBVV95cUxPNm1vUnNvUXJaak8waFowMUExaktKOHBocWtqMm9FUTRUNVRvaWJRYU1NUWI4X0xISjZrbVhJdURvb2IyR2JRdHAxQ05mU3ZxRzhXU3k5azFKR2FCNmgtRDdxb2ZKaE9TVTNoVVhRd29uTXBldFRZTDViVUtwdXhOZE44UTNfZXNhVUh0Ym5ZTEdLUXpVekNuQVV2SExhTzJaUHRB?oc=5
 
-- 「乳がん予防」のために新たなエビデンス！リスクを下げる生活習慣は｜更年期のお悩み相談室 - Fujingaho
-  https://news.google.com/rss/articles/CBMilwFBVV95cUxNbHpfQW5NNk1nbXhNSkhkRnJZZmxRdzZMQmVrdkdvZTJreWZka1NnX2NhY1hpdEE0aXh6aUsyMkdpdTBRM3VTWkN5MkRZc1ZXRk0yS2pnaHR1all4UzlleHVKcVIwM1RvbTF2a1M0R3ktWVpaYlBkM1N1YTFFcmVpa21FT243Tk40dG9idEV1VE8wRW1JTE9r?oc=5
+- 交際相手の遺体を山中に遺棄か 「殴られた」過去に相談や通報 - テレ朝NEWS
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5VaEdXUFplejVRQ2Z3elNvYTdXcy1tMDhtbEJqU2pfeWkwaUdJZC0zNDU0QVkxcTdDX20yUGFkemgyZlVvbEZZUldIaGpfNzBla0xtdmJkMzlDLVEwOXVXblZ2NVlzbEVEWTdYZHZRNXVIUQ?oc=5
 
-- 就活ハラスメントの相談窓口 - city.niigata.lg.jp
-  https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2wwSVlGVUE1SzdTU3dab0VycTlFd1Q1N094TEdrT1dWaS1yN3VINGtqejQ1V3NSMHdjN1BaamJzaVlBSlBuUlQyUzV1eEZvSGhXQWVTc1lxUTZXdEFzcHlGNTlFc29HVXVTc2diSGpLWEJXamNOM0VzanNneXdqVjFVbnVZa3NwaXpqZ25oRWFhUQ?oc=5
+- 株式会社トラックレコード × Chronicle、新Podcast番組「ウチの採用 〜経営と採用をつなぐお悩み相談ラジオ〜」を配信開始 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9QZ2hFb2djbHViNUJmdGNGX2FiZ3ZuSFNFM0RfWjZOSm5WaVVoUk52T0lNNEFZZElVeEtyRnFBRndRbEMtNFE0am94NzM1Uy1FQ2dLVEVqSWNSZjI5ZGxzYmRBNDhzWThvT1E?oc=5
 
-- ［長崎県］児童虐待最多の1398件 県内児童相談所 4年連続で更新 - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JMy1iU3VHSVd5eVlRU3R2UnUzNWlXY21IaG1mamJOSkJHMFdVWE5sdHZZRXEyU1BYVm9ibmRIaFEyZXE2Z0JkUllSSmVQd3ZwVDJPSmh3?oc=5
+- 交際相手を遺棄か 男逮捕 警視庁に何度も相談（ABEMA TIMES） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE54a0cxMWhNTVoxMmNzM0t0RDVKQWVzYjhLcmlOV1B2LXJUVERyYWt3Z1I4VGtZcGcwUFF0dENxbFlyOFhRSE5JRXBCdVZtclNBN3l1TVBJZWlPZV9zWEs0dDJlMG1wMVhnSVBWQ3Zrc2dhblJOVXFmLXdPZWtndnc?oc=5
 
-- 窓口専門家スケジュールを掲載しました（２０２６．１１月） - 仙台商工会議所
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE53V3lYWkhvbXVXb0xKUTZOUFJ3UzJlcE5rbTF5bW5wUlJIcG5MYllGVkpneXlkVGJSTnVlaTZjQXpvMnBjTTlpX1p3OFhjZWNOVC04T2w1NC1WYlZlNHdhU1ZzZWc?oc=5
-
-- 同様の相談が複数警察に寄せられる スイミングスクールのコーチが女子児童にわいせつな行為 静岡・牧之原市 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5JSEgyd0ZqS0tSZTNkMFluOEQ2Q2VXSmhPQ1hqLUVCR0Z4eFU2bDFBTXlWSzdOcmpDSlh3dGp2Ui05YzJKN0RWU3FRTVZZc2VFMDNueFl6Y3dEZW9JdU9oVExjZGxiR0x1djNZZlZMZjBVUUp6U1lhNEZIT01fY2s?oc=5
+- 子どもの「困った行動」の背景を、少年鑑別所の心理職と考える オンライン対話会「つながる声」第2回を10月28日に開催 - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQ0tQVW54cU11bDZlbTRJNkhYY0hDMGFmdkttS0ZiSzRZcEVqTjdvaV91cjlEZ1l0eC1QUEY5UkJLWU9DanhlUEhpcnB1ajluWWREWE56SThjdXd1eWd1QXBZWkxFRm4tZlE?oc=5
 
