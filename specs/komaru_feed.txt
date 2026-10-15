@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-10-15 17:29) ===
+=== こまる相談 ニュースフィード (2026-10-15 20:42) ===
 
 - 「病院はもっと気軽に相談していい場所」、小児科医が地域へ出るワケ - 日経メディカル
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBJWTBKYUZCSlNha3BYVUQ5X0pNSlk4VFdrazd3bzhoY1hXd0ZkTFNZZlRTMmpkN0I5MWVyc3RwSVN3MEV3LUYxSFRJTjJFQ2dYS216QjJYZXBNaUpZMnc1Q1V1cWQ4YjNmOENQS3UxaWhrTkZK?oc=5
@@ -9,11 +9,20 @@
 - 桑名市こどもの権利相談窓口マスコットキャラクターデザインが決定しました！ - 桑名市
   https://news.google.com/rss/articles/CBMie0FVX3lxTFBQSEtiRUtlc0Qtb1NPYldTcndvNlNXSi10RHJRbXBlM0NfcnhqTEVOLThvWElXVFd2c1VwWVBmRk1PR01nd3BQRHVxTUs3ZGZqSFFiLWVjZHNXMlU5U1hLUEx0X1JCLVpuMnZvMGVoam1yQmFQa1RvUXo2OA?oc=5
 
+- 石川県内ＩＴ企業「防御」の需要急拡大 相談増、被害抑える対策ＰＲ｜社会｜石川のニュース - 北國新聞
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XVW9pV05XWFFTRGlLQnR0OE01eGFScm14b0RLWTVqQzE3bjhhOG9OaFFHNFViRkl1SW9jX29QdnJBNEdCN3d6M3FoTUtBQUhZN0p3WDdXaw?oc=5
+
 - 【教員採用】山形県「教員IJUターン個別相談会」東京開催11/2-3 - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLQTZIVjFzUTRkLTRZMWk0TWxCUmtMOUdoRW9NMjBhN3FkaUhlQmc1TEUta3RUQTQzNTEyb0d5LXRnVnczd3NEektjVnlla1hzdEJJdjNENndWNG5PdU01RVhET25GQQ?oc=5
 
 - 相続・売買・賃貸など幅広い相談に対応 第七ブロックが無料不動産相談会を開催 - https://www.tokyo-takken.or.jp/
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ITEttQXlqd0d3OGZhMEJrUW5YTXdTMFUxMUV4bWdCdTdMV2lLcloteHVFeVBkdUhxTkFtZVI0N3lacGVZUnZUQWhCSDJUdHluVFdxajZfQWwwY1pP?oc=5
+
+- 健康まつり内容充実 １８日、測定や相談 ３６コーナー【釧路市】 - 釧路新聞電子版
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ucGczcVV5NjUwc0lUXzVqY1Y0UXZ6WEhGallHdmRfRzhRUDJuUEo5eE1rSldqLVdPTVppakJ6d1FBaUhVY0ludzNzajVJNE5nVnhr?oc=5
+
+- 介護の悩み語り合う 20日、ＡＣＰのミニ講座 - タウンニュース
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGpLOW5kbjNBaFByOFZTUl94THBFQU1nVy12blIwcFpPY2Fmd1g1a3B5dkJTNGpzbFBTNjQ2OWVYdl95eXQzNTlmdnA0NEczTlhoVzJzY0JYZmxuMFJfNWtkdUI?oc=5
 
 - 人事5名に聞いた今一番の悩みVol.4【人事大解剖総集編――人事リレーの輪26人目～30人目】 - HRプロ
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbngxd3VjMmM3U25ZM1V0Z3pMTWwxZjRrTjJGRjdqS19zVHlRUk1kSTViLXdYcFIwbk55QjhEYTM2emxpdEE2eFhaMzNhLWdISW81TnFnbUNOemFIV3VVZA?oc=5
@@ -21,42 +30,33 @@
 - 子ども一人ひとりに最善な育ちの環境を「児童相談所」 - 浜松市子育て情報サイト ぴっぴ
   https://news.google.com/rss/articles/CBMic0FVX3lxTE9STE5JMjR2WE9NRkJUUzVEV3daYWV0b1JfWEh6ckROVEEtMEZEM3hCV213Sm1OWktJVTE3b01GNDhTcGw4eWxPandFVzZ2UVRhckNkdnFWOVNRS212Z2hfODJ1Q3dGb0RRWFNEVXVTaEdSN0k?oc=5
 
-- 介護の悩み語り合う 20日、ＡＣＰのミニ講座 - タウンニュース
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGpLOW5kbjNBaFByOFZTUl94THBFQU1nVy12blIwcFpPY2Fmd1g1a3B5dkJTNGpzbFBTNjQ2OWVYdl95eXQzNTlmdnA0NEczTlhoVzJzY0JYZmxuMFJfNWtkdUI?oc=5
-
 - 障害年金で無料電話相談会 日弁連、20日 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wbTViZnlCQ2d4TjIwdnVNVWMyUzdHa3FyTjRTb3Z1M3JLTzVOZ0JJWE05cmxPNmJHbUl1cHg0aENMZ0wzYmNXWW9JSQ?oc=5
-
-- 労使間トラブル相談を 佐賀県労働委員会がJR佐賀駅周辺で街頭PR 10月は「個別労働関係紛争処理制度」周知月間 - 佐賀新聞
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUUFvcFJySVZGZjI0SjFnVlpqVmU5bVlPU2dOWDFialJ1NXMtaUJza1ZWcEtRa0YxaVZ6Mko5b2JmYVFtdjRkU1JUWE5Sc2Z1M0lrZ053?oc=5
-
-- １０／２０に障害年金の電話相談会 高知弁護士会など - 高知新聞
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rNmVZeXNpdnVNZWNuZlBkWTh4cDdyYXJsVVlwUm41YkxpSWpMM2daLV9XWUhBX1g3N3dnZ1A4Q0VTejc5ZGxKTUc0YlFneXNFemlCVkduQjM4bVZ3TTRZ?oc=5
-
-- 被災者の心理面、相談でケア 熊本県 熊大病院に「センター」設置＜2026年熊本地震＞ - 熊本日日新聞社
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FVmlnaWFNaUpwYmhNTWsxMVF5MU50cldFbFNLM011XzhHY3VYLW42bkxnbG15cGdEUWloYWtKWWp2SXkwVEZLQ3F4Y2xESVE?oc=5
-
-- 【会見全文】横浜・織田翔希「すごく悩みました」「世界一になりたい」「必ず恩返しできるように」米球界挑戦を表明…一問一答 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1UV3ZuN0V1RC1IQnNEYmptVlB2WXNHLUpvUVZwYk1SaXh6UkUxOFZFRWh2eW1kRWZ1YkI4aGkyNUJFSDFnY0tic1N5NXlYWmdFZ0FKSHhkZnhsQ0NJdEYtZ2JKclZzdm95TU9CMkh0VzJnNFVnWmxwdTVLNGtiMlk?oc=5
-
-- 「プロゴルファーには向いていない」 大岩龍一は深い悩みを抱えながら大会最少62 - GDOゴルフニュース
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kRnlqbXcwc3UyMUVrM0oxeGdDLUVHa21KQmFOa0ZLc2M4Q1dmYUtQQWIzM1hVR2F5Tmx2TWtGc2JRMHVmcFVwQmdEWUktam5GRHNxZXVyOEtidnQ4UUtvMVA5eTdPckl40gF8QVVfeXFMUFZWMXVQTm1mSzFGRDNvaVowYnVoYXZ4aHBDOGc4NjQtcmR2czN4cDItSEs0R0pzRW1VS29RRnZmX1BVeFFENVNaQ29CS0RPSDZpeUIyOHdfdUVsbElMajhadVlJNnlYTHBLaVdxOEVvazk2OG5CMzNISDlUNQ?oc=5
 
 - 【参加者募集】こども女性相談センター見学会 - 徳島県ホームページ
   https://news.google.com/rss/articles/CBMifkFVX3lxTE5lQVh0NDJiWVVHTC1mbm02S1o0c3pIcDlHYjdRMS1lR3V1cXNwWGd3UWNGNnpxMjFtMFFNelJFLXVJclhHTWc2ZWRkQXp0RUZvRVhMX25ZOW9xaDdXdnJXY2dXeUVTWjNEd21rV3hIMzRscmdFUXdESkVQNzUwZw?oc=5
 
-- 消費者庁が不正アクセスに関して注意喚起 消費生活センターなどに約180件の相談 - テレ朝NEWS
-  https://news.google.com/rss/articles/CBMickFVX3lxTE8wNU1RZHJYbV9NeUZUTHl0Y2tDMElxbGt3ZUYtVWtRc3pER2xWVVpCdEZqOElEVUY4S18tMzhBRFlCdENYbjdTR3lrbnBrZV95SXVzQVpweGRObGJVdkhoN29BejEzVFhOdFNRbE5jOTVNdw?oc=5
+- １０／２０に障害年金の電話相談会 高知弁護士会など - 高知新聞
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rNmVZeXNpdnVNZWNuZlBkWTh4cDdyYXJsVVlwUm41YkxpSWpMM2daLV9XWUhBX1g3N3dnZ1A4Q0VTejc5ZGxKTUc0YlFneXNFemlCVkduQjM4bVZ3TTRZ?oc=5
 
-- 【横須賀市】横須賀市の空き家相談会2026年12月開催｜専門家に無料で個別アドバイスが受けられる - 湘南人
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3VHNPV3B6bzZoZjdDbXdWOElxb1dxU3EyMFBfT2hwQ3ZNX3M0RWpvNHZWRHg1ZjVRc092dlJ4SnFlbmNXZ2MzYklHVmNKOUh4ajg3dVFfQnUxT05vNC1XWE5vRko?oc=5
+- 労使間トラブル相談を 佐賀県労働委員会がJR佐賀駅周辺で街頭PR 10月は「個別労働関係紛争処理制度」周知月間 - 佐賀新聞
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUUFvcFJySVZGZjI0SjFnVlpqVmU5bVlPU2dOWDFialJ1NXMtaUJza1ZWcEtRa0YxaVZ6Mko5b2JmYVFtdjRkU1JUWE5Sc2Z1M0lrZ053?oc=5
+
+- 10月18日（日曜日）静岡県主催「しずおかぐらし相談会」（東京都有楽町）に出展します - 沼津市ホームページ
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE9uYmo3SjNJc0JlYzU5YW55dTVRRkY5SlRnbUlmd2JDNXJLVkxNUmExOUVYY1JqR1ZDZkJ1eGRpckpUYmVMTEtyREs3QW8tbk9wNWRWcm51NThROFRVZGhzc01hNmxRbFRVVWZFdzZacm9xOUExS1gwdVhR?oc=5
+
+- 被災者の心理面、相談でケア 熊本県 熊大病院に「センター」設置＜2026年熊本地震＞ - 熊本日日新聞社
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FVmlnaWFNaUpwYmhNTWsxMVF5MU50cldFbFNLM011XzhHY3VYLW42bkxnbG15cGdEUWloYWtKWWp2SXkwVEZLQ3F4Y2xESVE?oc=5
 
 - 【約6万7000回再生】「52歳の悩みを逆に生かす」骨格を味方につけるヘルシーメイクに、ツヤ感を称賛するコメントが続々（LIMO） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE11c1JjbzYtMlZYSU9tanFMX2ttTHVqLW1oYUQyNzVJLWhxN2ZtUUJGX2JfR0htNTl2TlIwM3BsS0h2SG12bXpqTy1OeTUteUFrX1huNWFCSG5WNkZUUld5Y25pWHJlMDhKUUZ6bzNxOEZuMVdLN25ycEtmYmNUZUE?oc=5
 
-- おはようとくしまの「育児相談」でおなじみ 寒川伊佐男さん（97）死去【徳島】（JRT四国放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9CVG9yYklZU1VDTFZ3ODNFMFowVk1iMEVwSGRrdGNhOHI0WVl1N3VwR2NGRzluS3lfZ1pPZl9wazFvMVhDT3Q1OXFXNFJfdWhRZ3JzeE5Hcmk2emdXSEtiZjRXT2NsdWliR3dFOTh2bmJCOE5VYU9PeE03cVAyRms?oc=5
-
 - 矢板市、「手話リンク」導入 通訳介し相談円滑、来庁負担も軽減 - 下野新聞社
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE13SzJBYVZZNzNWdXFnX2xsVGstenBtUmtRSTVsc2JuaXdTRWZpUlpMbzN2RzNUSEdQTHpYX1hLdVZQVE5OOHg1cC03VVJmeWcxdE1sN2RiWjNLMWs?oc=5
+
+- 相続、雇用、成年後見などの相談会 来月１４日、予約受け付け中 郡山 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFByOGVhYnV6OXBTRWhhYnJMeWx4UGhOeVFYTmc0YUJWZE5OWnpMTjZERnpuTFVDcWNJN25hVVZmaXV6MnF3aU9DVngzSQ?oc=5
+
+- 【会見全文】横浜・織田翔希「すごく悩みました」「世界一になりたい」「必ず恩返しできるように」米球界挑戦を表明…一問一答 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1UV3ZuN0V1RC1IQnNEYmptVlB2WXNHLUpvUVZwYk1SaXh6UkUxOFZFRWh2eW1kRWZ1YkI4aGkyNUJFSDFnY0tic1N5NXlYWmdFZ0FKSHhkZnhsQ0NJdEYtZ2JKclZzdm95TU9CMkh0VzJnNFVnWmxwdTVLNGtiMlk?oc=5
 
