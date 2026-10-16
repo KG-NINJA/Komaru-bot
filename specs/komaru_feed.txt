@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-10-16 20:14) ===
+=== こまる相談 ニュースフィード (2026-10-16 23:07) ===
+
+- ブレーカー「無料点検」にご用心 気づけば高額契約、被害相談3倍に [東京都] - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DZDdQd0tvclpzSjNNM2lVSEk3OWNwSTlmdncyeXQyZ1ByMmxBakwzUnM3bGdKNEwyVk5jc0RCNlU4NkdjTUFMcmtfX3RITWZzbEZzbXd2emh3U2szVTJHNEFZX0V4V00?oc=5
 
 - IPA、「不正アクセス特別相談窓口」を開設--不正アクセスによる情報漏えいの初動対応支援 - ZDNET Japan
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kREZERkFNeXZkczB4cmdyaHh2LUhhUnc4d3NWMFZOYzZRVDB5dTFEcnJrSHgzZlVINGNDVjNNbk0tWDR0VEhnNG4xNG0ybW5qU1B3?oc=5
@@ -9,20 +12,26 @@
 - 福山市が「婚活相談窓口」開設 県内初、AI活用したマッチングサービス導入で出会いをサポート 広島（テレビ新広島） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE85UHI5QzM4aHh6dlJPbGd2dFF1V2NQZUNFVmFLZzE0NEtlZGVSY3FoU3Y2LXlRLWhaa1BjZ3R1WWloQUlwZE5LbjFlbWVHdVQ3R1FOemhNYzhNWWpFQXFvdFZUTGo2R1JTS2xJUm5UeFBuRmpfOHBfRUl6a2tNRFE?oc=5
 
-- 押し黙る相手に「困った」 検事が「検察なめんな」と怒鳴った理由 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYX0xmaWQweGN4UnJhVm5EQWdIMVdueUNtV3htWnp2d2ROdV9nSnBYOEh1bHZBMl9DcHlDWnR1eWV1MnNmT3p6YjBNcXBTOUFXaEc3NnpySS1JZDU5ZnBlZkhUT0xhTW8?oc=5
+- 障害年金関する 無料電話相談会 ２０日に日弁連 - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fZzRIRTZQX3EtSTgxcnZNaHM5NzlRUW55NEUzXzhnNDMyY0k5YjVIamZ2LW5JbTUzZGlqbzY0MTRZeVMyVnEzNUdPcDNOdnVGN2dGdm54Tm0zYWhlckdzWg?oc=5
 
 - 【相談対応Q＆A】朝、家に迎えに来てほしい - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4b0FMMF8zcFZXZ2FFWUtOblBVTEVrcFZvaTRKR1pDVS1VYU9Fd2xLVnZzbk9ab1JMTmhXSWxpZDRVX2pzRnFSYkNNLWpXbWN6N3MwOHNmMF82cUxpdEZrODBoeDF2UQ?oc=5
+
+- 無料で調停手続き相談 きょう田村、来月５日は郡山 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuaFlVb1VnUkYxaWtoWUN4NWJtWVcyUGkxOWhJS3lSUmducC0tZlpLakViRXE5ODA4M29FNi10VDBISnNUazFUMndzNA?oc=5
+
+- きょう田村で調停相談 無料で秘密厳守 ２９日は須賀川 - 福島民報デジタル
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kVk84bkN4ZUx4bV84bXpNUUsxU0xET3dNbTEtMktBT2lSQWVJeTNRX25OenRubDZLQXZsUWVhWTBhZWVrWlhacjNuNVFJVXc?oc=5
+
+- 【11月29日(木)開催！】オンライン相談会～「不妊治療・不育症治療」と「仕事」の両立～の申込受付中！ - My TOKYO - 東京都公式ポータルサイト
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjN29XcTAwaGRKeVozU2NTMTFYLTRkQndCSUVpcnFYRjN6NExDUGtZWnQ1bVJiY0xuWFNnZ0VQRXlDQTNVbXViTUFRVFBPNG53a3plcFh0RjZaNnpJcTlvTTlGUWE4ZjRr?oc=5
 
 - IPAが「不正アクセス特別相談窓口」設置、不正アクセス被害やその可能性を相談できる - INTERNET Watch
   https://news.google.com/rss/articles/CBMia0FVX3lxTFBvZTNYbmhBTmhKaHJUOW9ZOFRDZmRKWGJYbm5ubWZKaW1rbHNzOEJFU3pzbHpxZzJTc21MRF9yWXNWOGhxa3R4a1dDcE51UmdaeDZlY3pyMUl3YTJleHVPcWR1VzB6WkVnWXgw?oc=5
 
 - バス運転手合同就職相談会の開催について（主催：函館地区バス協会・道南地域公共交通活性化協議会） - 北海道森町
   https://news.google.com/rss/articles/CBMidkFVX3lxTE5FWS1GM0MyTnFENUJDWHFnampTVXpDTXdzZlBKel92UmZBb3VwWE5CU3dTRmVfOUV5T0FKZWw0OXgyNFdzREU0bzJ1S0VkLVR4bnpLVmdGSmJZYVRYMnk1cWFOMS02N2EzMXpHSm9fTDlBTTdZQnc?oc=5
-
-- 【11月29日(木)開催！】オンライン相談会～「不妊治療・不育症治療」と「仕事」の両立～の申込受付中！ - My TOKYO - 東京都公式ポータルサイト
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjN29XcTAwaGRKeVozU2NTMTFYLTRkQndCSUVpcnFYRjN6NExDUGtZWnQ1bVJiY0xuWFNnZ0VQRXlDQTNVbXViTUFRVFBPNG53a3plcFh0RjZaNnpJcTlvTTlGUWE4ZjRr?oc=5
 
 - ２０日に障害年金に関する無料電話相談会 - sannichi.co.jp
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5S2x0SWw1U192T0tVNFAyVXdvQUdBdWNhZ1lPbnZxdGlRczdodjVycTFvekp5b2lfTVA2eTJlVElRVUozUHRRbGRGZVMtZm12N2NvMnQ3NzJTMW9qMVNwRkY0bVg?oc=5
@@ -33,30 +42,21 @@
 - 10月16日 朝の広報無線 - 白馬村役場
   https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVowdGxKWkpRWjZNa2xwR3BEY3huMXF0aG9hRi14cTNjTHhfbG1zNkM5RTNiQ09ncHZ3cTRYNHhrTEpIRXZ5eVdqZ3Y5NWhVN19iOElmeHI3Ul9QSHdnRVQ0dTRMdFNEdkZUMDE5RDNFdTRCWmdTZ0JUNWkzbXZoLUdhc1V1aVZ4anFHdDFIM3lLZ01jNDJJeE9UemZvR2MxOEJ2TzZOQQ?oc=5
 
-- 裁判支える法廷通訳人の孤独 悩み、向き合う仕事の実情 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBsb1hvd2FvUmdyeVctbHo5Mzk4OUNlelZ0RnpSUjBuS3FKRzMtdzJ2WDgwVWJ3clUxdmZnZkpRN3JDWC1naGdVakFnZlpZYVRaeXFtbkxUdk5FcUgzaTA4ZnJsenVsdDlPbmpGOA?oc=5
+- 取り調べ進まず「困った」と説明 被告人質問 「検察なめんな」発言 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vc0NGMlhjQWZNX2VITGVZZTFoSXV0VTBBZWh6Ql9YOUs3UWZsM3ZoRjJBOGcyY3lHbWc2T0VhTXo1MjNyUXRfSkE3end0bXRtVERMNWkwSXFGMWx4?oc=5
 
-- 生田キャンパス「LGBTQ＋交流会」（対面ラウンジ）・個別相談│レインボーサポートセンター ｜明治大学 - Meiji NOW
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lb1Z0dUd1SkRYdTRnZ3VQNEptYjFtU05pV1BhWmtQZXJtZVZCUFNmR0hCbmpPSWJHbmhhRk5uQUZVU3lQVWJyVFBPanhrajB6cW53MW9HWQ?oc=5
-
-- 「不正アクセスを受けたかも」IPAが相談窓口を開設 初動対応をサポート、受けられる支援は？ - ITmedia
-  https://news.google.com/rss/articles/CBMickFVX3lxTE0xa1FYZzdMeTlINF83WGpXaFllZm9zRDRYUldrdjFDdjBPUDYtZ1g3Ti1HR093MVUxWElnUGhwQnlWeVpuQUxzTmhsM0NnT1VLZ04tLS1iWEFpbG5ZanlnXzY0WHVJNGdoTVNXNGx5NVJmQQ?oc=5
-
-- 【参加者募集】こども女性相談センター見学会 - 徳島県ホームページ
-  https://news.google.com/rss/articles/CBMifkFVX3lxTE5lQVh0NDJiWVVHTC1mbm02S1o0c3pIcDlHYjdRMS1lR3V1cXNwWGd3UWNGNnpxMjFtMFFNelJFLXVJclhHTWc2ZWRkQXp0RUZvRVhMX25ZOW9xaDdXdnJXY2dXeUVTWjNEd21rV3hIMzRscmdFUXdESkVQNzUwZw?oc=5
-
-- 【三重県菰野町】専門家の「空き家個別相談会」を10月19日より開催！事前予約を受付中 - 共同通信PRワイヤー
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EZVNESWo0bVZPelZyelh1dVAwYThXTzludkhVSEJlQ2JGQjc0N0xfUVpGaUgxNXk5a0FZVmZ4dkNhdjJZdldXQzJYR09wZE1ZanpCd0w1MzVGWE0?oc=5
+- 仲が良すぎる会社の社長の悩み・ナンバー1（ダイヤモンド・オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1kUnJZTGQtVWplUlJEa25rZFF0TU5LVjFFemVlYlNwb0lEMjZ6Smh5aU4yYnM5c1gyRkk2VWJmWmR4dlFQbmc0djQwTmg4bmcyV3NtOUVfbUFsV0ZYaE45STlQa2NTZThzWFpGLWJGdEszQ3FaRllKWlRISWl4c1E?oc=5
 
 - 小中学生の「友だちの悩み」、相談相手の2位は「AI」（こどもとIT） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5oMWV0cWQyLXEyUjVvUFd6YVdzR3JpcXNDdDdPVWZNYWdfLTVDNzc1RGQ4dTFrcVhneTJVSTFTNDdEY0hQYms1WjVUeDhOYmJ0ajk2ZjVMT3VtcmFZU2NFWS1SZnY2Ykl1STFqa0lPTEcxQ2ZEZU9JUU11ODlQYjA?oc=5
 
-- 資産運用の相談サイト「資産運用ナビ」が「取り崩しシミュレーション」を公開｜資産が何年もつかを、定額・定率・4%ルールや年金・生活費も含めて試算可能に | アドバイザーナビ株式会社のプレスリリース - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1qalB4YUx4RGZFTkJfekhVajBDYVg5WEF6Q3ljdWN2TG5yclNZNnNEUF9oUURPaEUybTJ5bXQ0WUphRkVheGhIaVoyWUxZSUdidjIyUmF0dEZ6dnZXTHBuLVRDTDhrenRrQkE?oc=5
+- 押し黙る相手に「困った」 検事が「検察なめんな」と怒鳴った理由 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYX0xmaWQweGN4UnJhVm5EQWdIMVdueUNtV3htWnp2d2ROdV9nSnBYOEh1bHZBMl9DcHlDWnR1eWV1MnNmT3p6YjBNcXBTOUFXaEc3NnpySS1JZDU5ZnBlZkhUT0xhTW8?oc=5
+
+- 「不正アクセスを受けたかも」IPAが相談窓口を開設 初動対応をサポート、受けられる支援は？（ITmedia ビジネスオンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5UTWtUTFQxTzVreEhBUVVycV9oaTNybWx5bllKd1FmaTBBazRkVDJmdWRLV2hRYlNPcVBqVWhwWEFLbE9hdmlhRlM3aGVqVUdQRUdTRjg1WkdjQzRITWlXdWVWakJWLWE3VmY2Vm1qeGZHQnByUC01NFR0SE1LQUE?oc=5
 
 - IPA、不正アクセス特別相談窓口を開設 個人情報漏えい相次ぐ 初動対応を支援（電波新聞デジタル） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQmgwNVRvdkZHT3VoVXppbWI3eUxPWlNSOTc5SmlHU3pjWmtlU0ctNDg4M0YwY2NSZUFqdWh4MTNkbFIxN2lYdDB6RWxRaV9ORk1RSDVyTnM5RWQtN2hia0dnS1J4czB1RVB2OFhfd3l2bjNDWkd3TUJ0eC13bG8?oc=5
-
-- 入社後「同期に相談できそう」が3倍に増加！NSGグループ新卒総合職の内定者にアウトドア研修を実施 - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5WRVdBbmFiZGlva0ExQjZ2a29xaXVVSndSUW14Rmk5b3NwSXNaaFIteFJQaW5KOVdHRVlUclM3TlZLb2F5NlBiQnhKYmtxcWJXb0NDc1FYV1hBWGN1TVlUWkJkSTNKanhZLWc?oc=5
 
