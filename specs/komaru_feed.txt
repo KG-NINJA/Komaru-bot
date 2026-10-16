@@ -1,13 +1,25 @@
-=== こまる相談 ニュースフィード (2026-10-15 23:25) ===
+=== こまる相談 ニュースフィード (2026-10-16 02:15) ===
 
 - 1週間で4回の個人情報流出 ChatGPTに相談も消えない不安 - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QRmtva2ItRnduUndoYnFoNGRDMzVIeERQelVNTHJacjE1ZXpuclRublJSV3hDaDVZZnVReE5WQkFoZkI2OHdFLVQ4cjZvLXRVRDlIM0FWZUZUdTJ1UlF4VHI2aXJ4bDQ?oc=5
 
+- 日出町がカスハラ防止条例を施行 相談体制整備、必要に応じて専門機関に橋渡しへ（大分合同新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5fSDZZTUV4U0tYcEwyR2UzdVhIV2k1ZXpWSjQtNHlsd0RqQmFmZ3RqSW5MMEhyWmRjR1hnR2wzTmpyRFN2VFNxdnhUb2RSalM4dlB1cTZiZTUyQzROOG1EaVlQOHptWG5TTWlKNC04UFZlNk8xOElYcmdUcHNZSGc?oc=5
+
 - 「病院はもっと気軽に相談していい場所」、小児科医が地域へ出るワケ - 日経メディカル
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBJWTBKYUZCSlNha3BYVUQ5X0pNSlk4VFdrazd3bzhoY1hXd0ZkTFNZZlRTMmpkN0I5MWVyc3RwSVN3MEV3LUYxSFRJTjJFQ2dYS216QjJYZXBNaUpZMnc1Q1V1cWQ4YjNmOENQS3UxaWhrTkZK?oc=5
 
-- 労働相談２８６件 過去最多、２０２５年度 - sannichi.co.jp
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wZmVtOWVHdk5iaFR0b0ppUjJ2S2sycE52anNsLV9rZFk5WF8wOS1oU1hkM1hEME1FVk1QNWdMbmg5Tk5fakQwX3BKYUMyM1p5YVR3Zy1xY0dZSEFSTFNXQk0xak8?oc=5
+- 子育て世代を医療の立場からサポート 読売テレビ「子育て応援団すこやかKANSAI」に医師会ブースを出展し医療相談などを実施―大阪府医師会― - 日本医師会
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE83NXNCQTVyQVM3RjZna0kxbEI3ZVNBT3VRUXYwM3Y3djdWZnUyTGVaMDZmMXU0Sno0c1RScDBaVktwcXBwQUFTZ1NISlBKOEVJd05WT2x2ZnVld0F3UnNvd0pESzU?oc=5
+
+- 住まいの展示・マネーセミナー・無料相談…情報を発信 沖縄最大級の住宅総合展・トータルリビングショウ 10月18日まで - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE84TkZkTHlBWGFPU0xOWG1NQ2t3eko2cVUxbmdjSlJuaTVtb1RrQ1drdS1fbUluTGJjYkxLOURzV2pnQVdjM3pkMHVCY3pSdGdvWkw3UWNfdGxmaWo5V2c?oc=5
+
+- ［佐賀県］労使間のトラブル 相談受付時間拡大 県労委、21～27日 - 西日本新聞me
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BczFtUTFnd21vaWU3eWkzRzdqQnVwSDdsZTRicUNMRW1YVTg0ZEZGdnlBME5HLWZyOGNwZ20yeFlWYmpwaU5VVHloTi1XYU5LUDlvOTl3?oc=5
+
+- 「こころの健康相談」（五橋・土樋）を実施します（11/25、12/2） - 東北学院大学
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aWnU2YkVnWWZ1aWpNem5fRWF1RWVRb2Q4ZzAzNXg4NVJLWjd2c2lKNGl0OXZZNG9ISDAtV191TFRvUDNYb1R1eko2WlU5bHZDMHpDQzJFMXJtcVdtUDdVMFpHNlg?oc=5
 
 - 相続、雇用、成年後見などの相談会 来月１４日、予約受け付け中 郡山 - 福島民報デジタル
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE52SWI1cmdnNFpJMjVPMmlhaGdpMmhicDdxZWpkTXNWNEJXbEVkZE02SUNKOFNqd2ZTaTlOenZXZ195SFUtRjhNOVl6bmloYTQ?oc=5
@@ -18,17 +30,26 @@
 - 石川県内ＩＴ企業「防御」の需要急拡大 相談増、被害抑える対策ＰＲ｜社会｜石川のニュース - 北國新聞
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XVW9pV05XWFFTRGlLQnR0OE01eGFScm14b0RLWTVqQzE3bjhhOG9OaFFHNFViRkl1SW9jX29QdnJBNEdCN3d6M3FoTUtBQUhZN0p3WDdXaw?oc=5
 
+- 労働相談２８６件 過去最多、２０２５年度 - sannichi.co.jp
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wZmVtOWVHdk5iaFR0b0ppUjJ2S2sycE52anNsLV9rZFk5WF8wOS1oU1hkM1hEME1FVk1QNWdMbmg5Tk5fakQwX3BKYUMyM1p5YVR3Zy1xY0dZSEFSTFNXQk0xak8?oc=5
+
+- 【参加者募集】こども女性相談センター見学会 - 徳島県ホームページ
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE5lQVh0NDJiWVVHTC1mbm02S1o0c3pIcDlHYjdRMS1lR3V1cXNwWGd3UWNGNnpxMjFtMFFNelJFLXVJclhHTWc2ZWRkQXp0RUZvRVhMX25ZOW9xaDdXdnJXY2dXeUVTWjNEd21rV3hIMzRscmdFUXdESkVQNzUwZw?oc=5
+
 - 【教員採用】山形県「教員IJUターン個別相談会」東京開催11/2-3 - リセマム
   https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLQTZIVjFzUTRkLTRZMWk0TWxCUmtMOUdoRW9NMjBhN3FkaUhlQmc1TEUta3RUQTQzNTEyb0d5LXRnVnczd3NEektjVnlla1hzdEJJdjNENndWNG5PdU01RVhET25GQQ?oc=5
 
-- 健康まつり内容充実 １８日、測定や相談 ３６コーナー【釧路市】 - 釧路新聞電子版
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ucGczcVV5NjUwc0lUXzVqY1Y0UXZ6WEhGallHdmRfRzhRUDJuUEo5eE1rSldqLVdPTVppakJ6d1FBaUhVY0ludzNzajVJNE5nVnhr?oc=5
+- 10月18日（日曜日）静岡県主催「しずおかぐらし相談会」（東京都有楽町）に出展します - 沼津市ホームページ
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE9uYmo3SjNJc0JlYzU5YW55dTVRRkY5SlRnbUlmd2JDNXJLVkxNUmExOUVYY1JqR1ZDZkJ1eGRpckpUYmVMTEtyREs3QW8tbk9wNWRWcm51NThROFRVZGhzc01hNmxRbFRVVWZFdzZacm9xOUExS1gwdVhR?oc=5
 
-- 相続、雇用、成年後見などの相談会 来月１４日、予約受け付け中 郡山 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFByOGVhYnV6OXBTRWhhYnJMeWx4UGhOeVFYTmc0YUJWZE5OWnpMTjZERnpuTFVDcWNJN25hVVZmaXV6MnF3aU9DVngzSQ?oc=5
+- 販促の悩みをAIの「6つの室」が整理。京都・長岡京のエムズクラフトが「販促カルテ」を渡す無料のAI相談窓口を公開 - valuepress
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tQW85eXVXWkRaaFBGeUJFRVMzTmlXS2dWLUN0SzB0WUFkYmdtY3VvSkJ6ZHZUZnZUeHhrMk5HWTZBc2dwNnlMa1N4LUFrWDc2dnUtY0hPdVhVMWM?oc=5
 
-- ［佐賀県］労使間のトラブル 相談受付時間拡大 県労委、21～27日 - 西日本新聞me
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BczFtUTFnd21vaWU3eWkzRzdqQnVwSDdsZTRicUNMRW1YVTg0ZEZGdnlBME5HLWZyOGNwZ20yeFlWYmpwaU5VVHloTi1XYU5LUDlvOTl3?oc=5
+- 子の成長願う「ひととき」に（清田一弘、64、相談員、熊本市） - 熊本日日新聞社
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoUkRHaVJ2am1vVmpRYVpNb1hWMm1faURCR3JlNUtWYzNmaGhBODBaZzRBMGF1enFjY29ucFhxN21CS0lRTkpQbkpaTFFxVUk?oc=5
+
+- 東京都世田谷区「妊活オンライン相談事業」の一環として、妊活・不妊治療に関する無料オンライン講演会を11月7日(土)11時に開催します - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5zTHo2REdYNnR2UEJ4Z1IzOVMtX28waWxUYVhNLW5ZWnRseFdtekpyRGF3YWJNRlRWUXpCUlMtQ2xzLVRFRHJNbHNCYmJHRWgyb3h3azlGUWVNa01PUC03T1FIRmNIRGNVRGc?oc=5
 
 - 介護の悩み語り合う 20日、ＡＣＰのミニ講座 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGpLOW5kbjNBaFByOFZTUl94THBFQU1nVy12blIwcFpPY2Fmd1g1a3B5dkJTNGpzbFBTNjQ2OWVYdl95eXQzNTlmdnA0NEczTlhoVzJzY0JYZmxuMFJfNWtkdUI?oc=5
@@ -36,27 +57,6 @@
 - 人事5名に聞いた今一番の悩みVol.4【人事大解剖総集編――人事リレーの輪26人目～30人目】 - HRプロ
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbngxd3VjMmM3U25ZM1V0Z3pMTWwxZjRrTjJGRjdqS19zVHlRUk1kSTViLXdYcFIwbk55QjhEYTM2emxpdEE2eFhaMzNhLWdISW81TnFnbUNOemFIV3VVZA?oc=5
 
-- 【参加者募集】こども女性相談センター見学会 - 徳島県ホームページ
-  https://news.google.com/rss/articles/CBMifkFVX3lxTE5lQVh0NDJiWVVHTC1mbm02S1o0c3pIcDlHYjdRMS1lR3V1cXNwWGd3UWNGNnpxMjFtMFFNelJFLXVJclhHTWc2ZWRkQXp0RUZvRVhMX25ZOW9xaDdXdnJXY2dXeUVTWjNEd21rV3hIMzRscmdFUXdESkVQNzUwZw?oc=5
-
-- 相続・売買・賃貸など幅広い相談に対応 第七ブロックが無料不動産相談会を開催 - https://www.tokyo-takken.or.jp/
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ITEttQXlqd0d3OGZhMEJrUW5YTXdTMFUxMUV4bWdCdTdMV2lLcloteHVFeVBkdUhxTkFtZVI0N3lacGVZUnZUQWhCSDJUdHluVFdxajZfQWwwY1pP?oc=5
-
-- 10月18日（日曜日）静岡県主催「しずおかぐらし相談会」（東京都有楽町）に出展します - 沼津市ホームページ
-  https://news.google.com/rss/articles/CBMiekFVX3lxTE9uYmo3SjNJc0JlYzU5YW55dTVRRkY5SlRnbUlmd2JDNXJLVkxNUmExOUVYY1JqR1ZDZkJ1eGRpckpUYmVMTEtyREs3QW8tbk9wNWRWcm51NThROFRVZGhzc01hNmxRbFRVVWZFdzZacm9xOUExS1gwdVhR?oc=5
-
-- 労使間トラブル相談を 佐賀県労働委員会がJR佐賀駅周辺で街頭PR 10月は「個別労働関係紛争処理制度」周知月間 - 佐賀新聞
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUUFvcFJySVZGZjI0SjFnVlpqVmU5bVlPU2dOWDFialJ1NXMtaUJza1ZWcEtRa0YxaVZ6Mko5b2JmYVFtdjRkU1JUWE5Sc2Z1M0lrZ053?oc=5
-
-- 被災者の心理面、相談でケア 熊本県 熊大病院に「センター」設置＜2026年熊本地震＞ - 熊本日日新聞社
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FVmlnaWFNaUpwYmhNTWsxMVF5MU50cldFbFNLM011XzhHY3VYLW42bkxnbG15cGdEUWloYWtKWWp2SXkwVEZLQ3F4Y2xESVE?oc=5
-
-- 【調査】住宅リフォーム・紛争処理支援センター：住宅相談統計年報2026を公表、2025年度の相談・紛争処理を分析 - みんなの広報宣伝部
-  https://news.google.com/rss/articles/CBMickFVX3lxTE9WYTBsckFKYU1NazF3Sms3QmRLaVVsWkd1Mlh3Wm5Nc2M1Zk9yem42RUkxQ1FidGdaa3RqNDRTUlZucTdsVk1ob09NRjRxdlhXNENjY19LbUctblJUemRVWXRLRWdtV2pLMGJMUnBlU0hVZw?oc=5
-
-- 障害年金で無料電話相談会 日弁連、20日 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wbTViZnlCQ2d4TjIwdnVNVWMyUzdHa3FyTjRTb3Z1M3JLTzVOZ0JJWE05cmxPNmJHbUl1cHg0aENMZ0wzYmNXWW9JSQ?oc=5
-
-- 調停手続き気軽に聞いて あすから県内９会場で相談会 - 福島民報デジタル
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5aklxMGV2NGFtVGxXc1NiVmxzQ1V2TXBsN3Mtek5iMDVxZTdXdmJuWWNWN0o5ek9mQllFWm1GSG9PRURXNU1Tc2Utb3VIWGM?oc=5
+- 大雨が相次ぐ中、住宅の雨漏りリスク高まる 神戸のリフォーム会社では雨漏り修繕の相談が 2025年1年間の1.5倍に増加 - アットプレス
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE45cV8tbHpjR0Z1S21hU3FKRXdiRzNIQmF0OWVJV3puM1B6dThyOHk0Zk8wcm9xZzV2NWxiVmZlRTNrZTRVaFNlZTdxZUpkQQ?oc=5
 
