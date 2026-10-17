@@ -1,62 +1,62 @@
-=== こまる相談 ニュースフィード (2026-10-17 02:08) ===
+=== こまる相談 ニュースフィード (2026-10-17 07:18) ===
 
 - ブレーカー「無料点検」にご用心 気づけば高額契約、被害相談3倍に [東京都] - 朝日新聞
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DZDdQd0tvclpzSjNNM2lVSEk3OWNwSTlmdncyeXQyZ1ByMmxBakwzUnM3bGdKNEwyVk5jc0RCNlU4NkdjTUFMcmtfX3RITWZzbEZzbXd2emh3U2szVTJHNEFZX0V4V00?oc=5
 
-- IPA、「不正アクセス特別相談窓口」を開設--不正アクセスによる情報漏えいの初動対応支援 - ZDNET Japan
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kREZERkFNeXZkczB4cmdyaHh2LUhhUnc4d3NWMFZOYzZRVDB5dTFEcnJrSHgzZlVINGNDVjNNbk0tWDR0VEhnNG4xNG0ybW5qU1B3?oc=5
+- 「高齢者はデジタル苦手」は思い込み それでも人に相談したい - 毎日新聞
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YVFpDV0MyU2ZBcmVMT2s1MURPZlJDNEt6WWREU0l4cm9qQUZaY19NdTlXeDhkcUM1cllXcGJwSkZ4bjVndFJKN082U0tncHFrU3lnd1NxcWppRTY4YjlCQjRLZWdndE53?oc=5
 
-- 福山市が「婚活相談窓口」開設 県内初、AI活用したマッチングサービス導入で出会いをサポート 広島（テレビ新広島） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE85UHI5QzM4aHh6dlJPbGd2dFF1V2NQZUNFVmFLZzE0NEtlZGVSY3FoU3Y2LXlRLWhaa1BjZ3R1WWloQUlwZE5LbjFlbWVHdVQ3R1FOemhNYzhNWWpFQXFvdFZUTGo2R1JTS2xJUm5UeFBuRmpfOHBfRUl6a2tNRFE?oc=5
+- 子どもがオンラインゲームで課金、カード会社から20万円の請求…取り消しできる？【教えて！相談員さん】 - 福井新聞社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QbUk3dW9RTHJCN1M2NTdRbjFnX05qcDJYUi1RQlJDU3FsU1BQcmZXWWd5NFE0TEhfZDhiSERXaGx1eWRocWFpM01Vb2JaQTVCZkl6czJxUUhrNW5hM3c?oc=5
 
-- 資産運用の相談サイト「資産運用ナビ」が「一括投資シミュレーション」を公開｜まとまったお金を一度に入れた場合と分けて入れた場合を、過去のデータで比較可能に - PR TIMES
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1DaFprUm9nb2tuOU5lUC1JMzI2ODU2VjJUc3I4Vk03UkpzLUxTeDExdEhFODU3WEtlbjFrU1JSZjlmVXJYS2Utbm1wN2NqeWhXSGZ3LVI2OTFrcWNjRGhCbUYzRnFRQzk0d0E?oc=5
+- 暴力団被害 警察や弁護士らが無料で相談受け付け 福岡 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE03S0tBaU9Nem9PWXFuTk5QMG10OEwwTHItXzdKa2Q1R3ZMZ2oyRFVoelByU0JOMkRUcl80blU5Y0JxYXJrd1JCZlltT09STU9TZkh3UEJLWHR5ODdjaW53?oc=5
 
-- 障害年金関する 無料電話相談会 ２０日に日弁連 - 琉球新報デジタル
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fZzRIRTZQX3EtSTgxcnZNaHM5NzlRUW55NEUzXzhnNDMyY0k5YjVIamZ2LW5JbTUzZGlqbzY0MTRZeVMyVnEzNUdPcDNOdnVGN2dGdm54Tm0zYWhlckdzWg?oc=5
+- 買い物の困りごと支援 群馬・渋川市が「総合相談窓口」開設 一人一人に応じサービス案内 - 上毛新聞電子版
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE42QjU2bHJBYlp1WmljY29iZkI5S0h1eml0aXg1OG1pU0czcGU3Y05Bbm5SMHJ6QTdLU0tmNE5vT0N6T0ptbm9GUktYVlpZLUktek9NU1lmN3IzQQ?oc=5
 
-- 保育所等の職員による虐待に関する通報・相談窓口について - 笠岡市ホームページ
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaVHNlVnpScy0wZHE1cktDQnpCX0FuRlZNRTRRelZ6S1llaGlHTzBYOTZleWhsNmVIUm9GY1lxQmVTUXBuSVQ0TnoyMzhWejFfZ2kyMlYxd1BtU2lScHpoN0NlQ3VzT0ts?oc=5
+- 児童相談所からの通報で発覚...自宅前路上で小学生の娘の髪掴み引きずる 36歳男を逮捕 （山形） - TBS NEWS DIG
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVNmNfX2tKTlBsUENOR2o5TEZYVEgzUFJOV1N6Q1M5SEluanpMZ0FJQm9feS0tNk5nV3lUcloxQTJhZXQ4SUo4VUg3aThBQjNBNFlYeHh2RFdVQQ?oc=5
 
-- 【相談対応Q＆A】朝、家に迎えに来てほしい - リセマム
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4b0FMMF8zcFZXZ2FFWUtOblBVTEVrcFZvaTRKR1pDVS1VYU9Fd2xLVnZzbk9ab1JMTmhXSWxpZDRVX2pzRnFSYkNNLWpXbWN6N3MwOHNmMF82cUxpdEZrODBoeDF2UQ?oc=5
+- 事業引き継ぎの相談会／田辺市役所で２８日 - AGARA 紀伊民報
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vaFhGUUZBdjA2RE1JNzIzaVY1VDJHS3lFekNMODRRY3JUZkt3OWtCU1lDc0lhT3BMWl9May1DQ29qQkNkQ2xmYXRMVWJYeGtCRVlrNTgtQ3BSd3dvcjZkWg?oc=5
 
-- 無料で調停手続き相談 きょう田村、来月５日は郡山 - 47NEWS
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuaFlVb1VnUkYxaWtoWUN4NWJtWVcyUGkxOWhJS3lSUmducC0tZlpLakViRXE5ODA4M29FNi10VDBISnNUazFUMndzNA?oc=5
+- 児童相談所からの通報で発覚...自宅前路上で小学生の娘の髪掴み引きずる 36歳男を逮捕 （山形）（テレビユー山形） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdG83eVVncjZLV0ZramJRQkFSRTlnd1QyRDZRbEFkNmF4dHBWYkhaeW1LS3hsNE8zdUpGSkhkb01pR01MVUVudU8xcFU4UUxVN1IwMXNkZVh4VFpVSmVQUWVlXzlxZW5RUnd0S3ZGdmJvZlYtZXJXWThvbXZVVkk?oc=5
 
-- 【ニュースの深層】□□２０８ 年間相談件数は9.8％増／通販はＳＮＳ、訪販は太陽光 （2026年10月15日号） - 日流ウェブ
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qZGRNUnhsNGN3NVUyUXl1ZTZBakFpcW9zX05GT0E2MnRJUnJCZl8xWDdYd0lDaWFzMkJOZEhLaVJsdzJYaTVuQ1dlcGpxY1BtXzdDTw?oc=5
-
-- きょう田村で調停相談 無料で秘密厳守 ２９日は須賀川 - 福島民報デジタル
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kVk84bkN4ZUx4bV84bXpNUUsxU0xET3dNbTEtMktBT2lSQWVJeTNRX25OenRubDZLQXZsUWVhWTBhZWVrWlhacjNuNVFJVXc?oc=5
-
-- 【11月29日(木)開催！】オンライン相談会～「不妊治療・不育症治療」と「仕事」の両立～の申込受付中！ - My TOKYO - 東京都公式ポータルサイト
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjN29XcTAwaGRKeVozU2NTMTFYLTRkQndCSUVpcnFYRjN6NExDUGtZWnQ1bVJiY0xuWFNnZ0VQRXlDQTNVbXViTUFRVFBPNG53a3plcFh0RjZaNnpJcTlvTTlGUWE4ZjRr?oc=5
-
-- IPAが「不正アクセス特別相談窓口」設置、不正アクセス被害やその可能性を相談できる - INTERNET Watch
-  https://news.google.com/rss/articles/CBMia0FVX3lxTFBvZTNYbmhBTmhKaHJUOW9ZOFRDZmRKWGJYbm5ubWZKaW1rbHNzOEJFU3pzbHpxZzJTc21MRF9yWXNWOGhxa3R4a1dDcE51UmdaeDZlY3pyMUl3YTJleHVPcWR1VzB6WkVnWXgw?oc=5
+- 空き家率が全国平均より高い北海道 札幌で過去最大規模の「空き家・空き地」の活用促す無料相談会開催 - HTB 北海道テレビ
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE10aGIzN0xybUhqVDN6Y0RkX3dicERJdmlXaGRleUhlcy1tMXVjLVJGeVI5WVN0cFVQVXBheFlkVFMycnNQY25BenJ0N1BaS1dXQWhHaGFjNUJ3QQ?oc=5
 
 - 【参加者募集】こども女性相談センター見学会 - 徳島県ホームページ
   https://news.google.com/rss/articles/CBMifkFVX3lxTE5lQVh0NDJiWVVHTC1mbm02S1o0c3pIcDlHYjdRMS1lR3V1cXNwWGd3UWNGNnpxMjFtMFFNelJFLXVJclhHTWc2ZWRkQXp0RUZvRVhMX25ZOW9xaDdXdnJXY2dXeUVTWjNEd21rV3hIMzRscmdFUXdESkVQNzUwZw?oc=5
 
-- ジェトロが気仙沼に海外展開サポート窓口 - 株式会社 三陸新報社
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE81d2tYUTg2b3A3dFZLS08wSVJ6NlEtNkdBMnJ3ZjFwOVRWazdDMkdQQ3VlTE5pQm5fdUN6M1ljMU1wM2x2OVdqM1dwUTEySUFtY0NqUWJXT3Y?oc=5
+- 保育所等の職員による虐待に関する通報・相談窓口について - 笠岡市ホームページ
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaVHNlVnpScy0wZHE1cktDQnpCX0FuRlZNRTRRelZ6S1llaGlHTzBYOTZleWhsNmVIUm9GY1lxQmVTUXBuSVQ0TnoyMzhWejFfZ2kyMlYxd1BtU2lScHpoN0NlQ3VzT0ts?oc=5
+
+- スポーツ競技で「八百長」など不正の通報・相談体制整備を…超党派議連が新法骨子素案、今国会で成立目指し協議加速へ - 読売新聞
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jbVduWUw3aHQwUGE3aC1qampDcW1keEc4ZlZzWjNJQ0tpRFRwREgwS09pUWVuSERKY2hheF9FRGs4Uy1QYVNTMWZmd3JxS2N5bno2THpnblN4Y0g5QlBnMmY3ZDYxdw?oc=5
+
+- 資産運用の相談サイト「資産運用ナビ」が「一括投資シミュレーション」を公開｜まとまったお金を一度に入れた場合と分けて入れた場合を、過去のデータで比較可能に - PR TIMES
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1DaFprUm9nb2tuOU5lUC1JMzI2ODU2VjJUc3I4Vk03UkpzLUxTeDExdEhFODU3WEtlbjFrU1JSZjlmVXJYS2Utbm1wN2NqeWhXSGZ3LVI2OTFrcWNjRGhCbUYzRnFRQzk0d0E?oc=5
+
+- IPA、「不正アクセス特別相談窓口」を開設--不正アクセスによる情報漏えいの初動対応支援 - ZDNET Japan
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kREZERkFNeXZkczB4cmdyaHh2LUhhUnc4d3NWMFZOYzZRVDB5dTFEcnJrSHgzZlVINGNDVjNNbk0tWDR0VEhnNG4xNG0ybW5qU1B3?oc=5
+
+- 障害年金関する 無料電話相談会 ２０日に日弁連 - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fZzRIRTZQX3EtSTgxcnZNaHM5NzlRUW55NEUzXzhnNDMyY0k5YjVIamZ2LW5JbTUzZGlqbzY0MTRZeVMyVnEzNUdPcDNOdnVGN2dGdm54Tm0zYWhlckdzWg?oc=5
 
 - 10月18日（日曜日）静岡県主催「しずおかぐらし相談会」（東京都有楽町）に出展します - 沼津市ホームページ
   https://news.google.com/rss/articles/CBMiekFVX3lxTE9uYmo3SjNJc0JlYzU5YW55dTVRRkY5SlRnbUlmd2JDNXJLVkxNUmExOUVYY1JqR1ZDZkJ1eGRpckpUYmVMTEtyREs3QW8tbk9wNWRWcm51NThROFRVZGhzc01hNmxRbFRVVWZFdzZacm9xOUExS1gwdVhR?oc=5
 
+- 【速報】「金を出せ」コンビニ店主に包丁突き付けてけがをさせる 12歳の女子中学生を児童相談所に送致 大阪（読売テレビ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1nYzhfa0IxU1Z1R0wzMjU3OUMzWkZtMmRjZ2Q0SmZrT0kzSmFSRlRjaEJ2ZFRWX0FJQWRYWEo3RHZWYThTbXlnR3RkVlZpR1I1X0tVd1NyMU9KMEtOVXV2Vm4xVU5mV29MQ21NTUlTVkFJVVhZZUJmUlI2UFQxZUk?oc=5
+
 - 取り調べ進まず「困った」と説明 被告人質問 「検察なめんな」発言 - 朝日新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vc0NGMlhjQWZNX2VITGVZZTFoSXV0VTBBZWh6Ql9YOUs3UWZsM3ZoRjJBOGcyY3lHbWc2T0VhTXo1MjNyUXRfSkE3end0bXRtVERMNWkwSXFGMWx4?oc=5
 
-- 仲が良すぎる会社の社長の悩み・ナンバー1（ダイヤモンド・オンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1kUnJZTGQtVWplUlJEa25rZFF0TU5LVjFFemVlYlNwb0lEMjZ6Smh5aU4yYnM5c1gyRkk2VWJmWmR4dlFQbmc0djQwTmg4bmcyV3NtOUVfbUFsV0ZYaE45STlQa2NTZThzWFpGLWJGdEszQ3FaRllKWlRISWl4c1E?oc=5
+- スポーツ競技で「八百長」など不正の通報・相談体制整備を…超党派議連が新法骨子素案、今国会で成立目指し協議加速へ - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUhzclB5ZWRXTGNYQ01EbEVDelM0alE4ZUpwbFoxMTZhVUJUb0RiNmxFb3FnTEtVQURjTmhhX2VwOXRhNm4wYmhRNllzdl9fVW4wVEdJQWphU1Btam4xeTg0blUzRTFWdFpybzhrSm1paGhVQzRhbFJXMTdOYmc5M3JuN09UNEdlRDRpbVRB?oc=5
 
-- 押し黙る相手に「困った」 検事が「検察なめんな」と怒鳴った理由 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYX0xmaWQweGN4UnJhVm5EQWdIMVdueUNtV3htWnp2d2ROdV9nSnBYOEh1bHZBMl9DcHlDWnR1eWV1MnNmT3p6YjBNcXBTOUFXaEc3NnpySS1JZDU5ZnBlZkhUT0xhTW8?oc=5
-
-- 小中学生の「友だちの悩み」、相談相手の2位は「AI」（こどもとIT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5oMWV0cWQyLXEyUjVvUFd6YVdzR3JpcXNDdDdPVWZNYWdfLTVDNzc1RGQ4dTFrcVhneTJVSTFTNDdEY0hQYms1WjVUeDhOYmJ0ajk2ZjVMT3VtcmFZU2NFWS1SZnY2Ykl1STFqa0lPTEcxQ2ZEZU9JUU11ODlQYjA?oc=5
-
-- 「不正アクセスを受けたかも」IPAが相談窓口を開設 初動対応をサポート、受けられる支援は？（ITmedia ビジネスオンライン） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5UTWtUTFQxTzVreEhBUVVycV9oaTNybWx5bllKd1FmaTBBazRkVDJmdWRLV2hRYlNPcVBqVWhwWEFLbE9hdmlhRlM3aGVqVUdQRUdTRjg1WkdjQzRITWlXdWVWakJWLWE3VmY2Vm1qeGZHQnByUC01NFR0SE1LQUE?oc=5
+- 「聞きましょ課」誕生 寝屋川市が生成AIで電話相談を24時間対応へ 人手不足解消狙う - 産経ニュース
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBiTXJCUHV6emR0NW5KcTBKOGxvandnbVlXQXZDTm9OY2hEVUtrcjFKNjczSHoxekhXTE9rREdiUnFhRExLWHBzN3RVUnpVRjdmM0lrSmxCclJkVzFTaktFRVBCY21ZNlpUZFk4NmJOdk04Nmt1WEE?oc=5
 
