@@ -1,13 +1,12 @@
-The minimal standalone HTML/JS app has been successfully created to address the recent "困りごと" concerning parents of children with school refusal issues in rural areas. Here are the details:
+The minimal standalone HTML/JS app has been created successfully. Here are the details:
 
-### Outputs
-- **HTML App**: `apps/latest_app/index.html`
-- **README**: `apps/latest_app/README.md`
+### Output Files
+1. **`apps/latest_app/index.html`**: This file contains the application for users to submit their post-surgery consultation questions.
+   - It features a calm design with blue tones.
+   - Contains client-side logic for displaying user questions.
+   - Includes the footer with `#KGNINJA AutoApp`.
 
-### App Features
-- Calming blue color design.
-- All logic is handled client-side without external JavaScript.
-- Displays natural Japanese text addressing the issue.
-- Includes the tag `#KGNINJA` visibly at the bottom of the HTML.
+2. **`apps/latest_app/README.md`**: This file provides an overview of the application, including its functionality.
 
-Would you like to test or deploy this app, or is there anything else you need?
+### Next Steps
+You can run the HTML app by opening `index.html` in a web browser. If there's anything else you need, feel free to ask!

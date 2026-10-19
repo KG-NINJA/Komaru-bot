@@ -1,1 +1,34 @@
-<!DOCTYPE html>\n<html lang="ja">\n<head>\n    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n    <title>進路相談アプリ</title>\n    <style>\n        body { font-family: Arial, sans-serif; background-color: #e0f7fa; margin: 0; padding: 20px; }\n        h1 { color: #007BFF; }\n        button { background-color: #007BFF; color: white; border: none; padding: 10px; cursor: pointer; }\n        footer { margin-top: 20px; text-align: center; }\n        #result { margin-top: 20px; }\n    </style>\n</head>\n<body>\n    <h1>進路相談アプリ</h1>\n    <p>地方の不登校の子どもを持つ親へのサポート</p>\n    <button onclick="showSupportInfo()">相談内容を見る</button>\n    <div id="result"></div>\n    <footer>#KGNINJA AutoApp</footer>\n    <script>\n        function showSupportInfo() {\n            document.getElementById(\\"result\\").innerHTML = \\\"<p>進学の選択肢に悩む際は、地域のカウンセラーや専門機関に相談しましょう。</p>\\";\n        }\n    </script>\n</body>\n</html>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>美容医療相談アプリ</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #e0f7fa; color: #007BFF; }
+        h1 { color: #007BFF; }
+        footer { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>美容医療に関するご相談</h1>
+    <p>ご質問や疑問がある場合は、以下のフォームに入力してください。</p>
+    <form id="queryForm">
+        <label for="query">ご質問:</label><br>
+        <textarea id="query" rows="4" cols="50" required></textarea><br>
+        <button type="submit">相談する</button>
+    </form>
+    <div id="response" style="margin-top: 20px;"></div>
+    <footer>
+        <p>#KGNINJA AutoApp</p>
+    </footer>
+    <script>
+        document.getElementById(queryForm).addEventListener(submit, function(event) {
+            event.preventDefault();
+            let query = document.getElementById(query).value;
+            document.getElementById(response).innerHTML = `<p>あなたの質問: ${query}</p><p>医療の専門家が確認し、適切な答えをお返しします。</p>`;
+            document.getElementById(query).value = ;
+        });
+    </script>
+</body>
+</html>
