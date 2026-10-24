@@ -1,10 +1,7 @@
-=== こまる相談 ニュースフィード (2026-10-24 19:09) ===
+=== こまる相談 ニュースフィード (2026-10-24 22:06) ===
 
 - IPA、2026年第3四半期の相談309件を公表 OAuth同意攻撃でメール大量送信の事例も（ビジネス＋IT） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMWd5NFZaVlNURjhQdy0tS2hPNlFpWExpS1JnXy1HNjZvV1ROUHRvVnRRZmtvZ1J5MGlINVo1RkF5UnFOSzVIbXloMnVUa21zb095aDlzTEFYNUhMWXNhVHBvUzlDOFc0dWFJNnFBamV1dWV1QkpTZGJCQy1LSWc?oc=5
-
-- ヤングケアラー、悩み吐き出して 県が専用窓口 姫路独協大の石川さん、LINEで相談「心のよりどころに」 - 神戸新聞
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE15Y2k0TkJzVm9tOS1nYXFqV2dmajhjRTF2RW1vcVYzdzVndXJQVnJGbjBtMklYR1JWUi02a1ZxdUlZN3lNUkdhdWc4ZmFJWXFDZUVfSl8tMmxNZTlNaWJtd0xvSnZ6YWtDTnFJaE1B?oc=5
 
 - 子ども相談室「きみをてらす」がスタートしました！ - 韮崎市
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVRjWThSREtWemx3N2hlR2xjZHdwOWQyTlNWM0ZodTAwVTZxUFdrcjNhMkptUTJFV3NMOWlJNkRkbzdwQ2kxOExNT1FEVVpKTWd5YjhDVjIyaTEyWXFXWXNVVEUyd2IwSGpUdG85OXd6RlNjU2dENkREaVVVdmtlTUVRRUZUZ1pkSE9XNFI4cnZhOGZoR19RRkVVWTNlc0NzNFRrQTBCNjg?oc=5
@@ -15,17 +12,32 @@
 - 「米生産に関する相談窓口」の設置について - 栃木県公式ホームページ
   https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCWXlVd3hfTnk2UVVHMDVtWngzZzdmWjFza0lFdXN4SjFvSHBkQ2NoLWttNm9fRGgxQ2RBdVFidDk3VXZWZTBUdG5sRF9Ob0Rmb0RXSXV4MkZDNjdSZklPd1pn?oc=5
 
+- 【記者のつぶやき】悩み多き青春時代 報道部・堀英彦 | 社会,学校・教育 | 福井のニュース - 福井新聞社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE83dzFKOWl4ZVJ4bzNfU2pWdVg4NHp0TWlfMVZiLW9IakEtZm0zTUtWZ1JwRmdxa2RkZ0NkZ0FCcF9nZlJITHpSY041WnJTcmRhUHM5Y3ZTMjdsaHVGVUE?oc=5
+
+- 自殺予防 ＡＩ活用検証 厚労省 ＳＮＳ相談、効果や課題 - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpa01fM1ZTZHlUSS02TTBsZzRqWGZCMnBVbXl0aDZHQU9kQ1cxWnZpTDRCdHU2b3VjVm9idXRXc0V6VGluZUFQSFVxUUttQVVRNjl6alEtelFROGdUc0h0Tg?oc=5
+
 - 定期健康相談および大腸がん検診容器回収の中止について - 吉野ヶ里町
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0JFVnp0dW83Zld4MldzcWF1YWlTX2Fna2xOcjdtX01FMDNWYkNoYkZ2bGdQM2FsbVVYb0R2R05kYkhNQ1Nxd2MybzZnQkhPVHc3LTR5YVBZeFZCWFhabVFfM1F4cWdRVVViWktFTGdlQWlINEVIVXJPU0k3aGpPdk1PM25DNk0?oc=5
 
-- 障害のある子どもの就園・就学電話相談 29日に弁護士会 - 東京新聞
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KRzdrTU5tcUU5V2FXSHBpd2xPWWtXUF9MY05wek1mSFdTbGw0OXM5NnVqcHpmSGFfLXRjZVdpb3RRcFo2Y0lzOEVwVWJxbkRnQUFr?oc=5
+- 岡山：総社のお悩み専門的に解決…県立大院生がデザインスタジオ開設：地域ニュース - 読売新聞
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE03WV9UZWVBRHhXQlJJbDFLemRmWVgwcDU0NFY4WGM0ei12aDJkQ0VHY1pZYV9BNEFzLUkwcnlYN1ZKcUdnVnVpU3oxZGFPYzZfbkJoUExaYjdxeFBsTjl0WTFaTjdCWXFFbE04VW5oZVRWdWc?oc=5
+
+- 「伊那のそばが食べたいのに店がない」そば難民を生まない取り組みが始動 開業と移住支援へ12月に相談会 - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BTUxWRGF4aWhzNEIzX2FXaWhYXzNacHJuUUJZMG9HcllpWmNBVjNGMnZFUk1UMWppWVFUNkF3N21HMkhtbUJvWC1KVmxnSGhqTUNvcw?oc=5
 
 - 犬のしつけ方教室とペットの健康相談 - www.city.shinagawa.tokyo.jp
   https://news.google.com/rss/articles/CBMid0FVX3lxTE9WT0hmNS1CQmdIZ2NrSmJmS3dPYnJiOHVNdWJhWjdYVGkzSXJ4VTVUaWU5cFE5Mm9qNlpGdUFVc0k1QmUwQm5sZHVTU09tZEd4M0pncmE3ZGhndHhTLXVlZUhEWHpjUU9xQjlnM0JFR1NlTUZ6alE0?oc=5
 
+- 自殺予防、ＳＮＳ相談のＡＩ活用検証へ 厚労省、モデル事業創設｜社会｜全国のニュース - 北國新聞
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YUG5vbFB4VWVkcUdvSXBjQUo2QzFOWUFKTUhxb21rWWtRTmhNZFFDRVdjRnZqaUVESXU0WFRVTm9Sd0tWSkI0Y2NHZ1dTZG5kRm43OFVUZw?oc=5
+
 - 【緊急のお知らせ】法律相談センターネット予約休止中です - 広島弁護士会
   https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Fc2ItVXMwRWpydWhpbG1xTTZjLUpBYmNXUk1QR29Nb2FHbUdrSjRIQUhYaUxzb2hzZUFPWTZyRHUtOV94Mmc?oc=5
+
+- 「みらいキャリアポート(千葉県公式)」(SNS相談窓口)について - 千葉県公式ホームページ
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE52Y0NMUzVVSWZCQ0dHTlRkQUJBSy1SaDlaakIwb3ZwbjVQQ2pqa3BEcWRXQ1JjbEVmNVl1UFJMT0pxclRsaDJVQmIyQjVQUURjOTNSbFVORE5Lb182TE1xNUFzbUg4d3J4VXlWNU9R?oc=5
 
 - なぜ現代人は「悩み」を誰にも相談しないのか？2000人超の調査で分かった「意外な本音」 - ダイヤモンド・オンライン
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE82VHZOYUs5R1NBcVF0U09BUVRHRUhjYjRMZWZMYmU1SUlhWGxzZWI5UGZoVjh2aDNHWmVXR2xIZlZicEJZeGs4NF9ZcWHSAU9BVV95cUxNbXhlNjVQNEpNZlFTdGpCbVcxUHdZQUljb2RhcTFfYzZvcWZ6U1VONGtkMTFmdFBJQWhidEQzeEV5bzhhUG9DbHVfQWlucEtz?oc=5
@@ -33,14 +45,8 @@
 - いばらき出会いサポートセンター「出張相談会・登録会」 - 笠間市
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwMHpiQ0h0OG9PaUI2Q3BiRHRQQ29ubVZHVDZFYUZ4Rk9RWEJxQlRjOGFzSHZ6LUh1V1Z6WEtzUk1jakZULVZ2MUJhUVV1ODE1c3BqRnhjRVAwQjlUZzdN?oc=5
 
-- 「どれを買う？」家族よりAIに相談する時代に企業に問われる戦略とは - ｄメニューニュース
-  https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZU2k5Wk1XYlRITWltRWl0VEwtdG42a1JrTlAxbUV3aS01SUFKSnJBa09WZldybmVtMk10UXJZc0RxcjUxZmVlbjRLVVViaHllUTkzU21yelJzSHVyTHUteXYxeFJHM0I5OV90YmQ2cWZhQmplbV9LS3p30gF_QVVfeXFMTUR2UkhzbXJ6WXllTUprMjVLcjZ3bXEtRkViaXliTU1sSUZKMWdSMm95dEhrX1VFSTNrWDVzdjIxRFlWUTF5UUV5RjhKUmk5M1dLa0pJb2FJWERWN0VlLS1ld1RVSFlTOGV2ZGt6SGRZLUN4dFpQb01meVJPUVBlYw?oc=5
-
 - 【埼玉県救急電話相談（#7119）】「埼玉県救急カード」を作成しました！―安心・安全を支える救急医療をもっと知ろう - 埼玉県
   https://news.google.com/rss/articles/CBMickFVX3lxTFBmZEZLX21MakxOZEJNcjBqWmZlMFhRWW9qTWVNV0xFQXJQbC1oaTdjclIzaWdiNmRsU2lNODVCcF9zUU9BajIxTGVlbU80aDk5OTM2eVFWZ1JxUXFzNWhya2N4S2xPcEVLTEs2djF4WTA5Zw?oc=5
-
-- 「キャリア相談はAIで十分」若手の1on1離れ レバレジーズは指名制を導入 - 日経ビジネス電子版
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oQklIdjlISkRPN3FrV21XUHh2LW1URDdsY2RUSnpNcUtFVC1ldEpxRk1xVUlzaU9MRUF0dnRZcEtHMVQ1LXpzcEg5eEhtM3VpU1U2Rm1pNGVyXzZ3bFpCLVlraENreFU?oc=5
 
 - 情報セキュリティ安心相談窓口の相談状況［2026年第3四半期（7月～9月）］ - IPA 独立行政法人 情報処理推進機構
   https://news.google.com/rss/articles/CBMickFVX3lxTE1DSXRvbnMxVFNvTEt5TnRtYnhYMkJJN0Nhby1sanpsZFNZblJJemtLSmctSEpiT0FObGxJQ1c0SnFzZFJrSGlqOW5SWng5N2NrVG04SXRFX0FTOE9TcUlzYndTd0FHMGhod0ZJSDA2NFUyZw?oc=5
@@ -53,10 +59,4 @@
 
 - 一時保護の少女にわいせつ行為など 児童相談所の男性職員（24）懲戒免職（tvkニュース（テレビ神奈川）） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9lU2h1Mk9DRHhTSjZLallxMUdpR1FZSzZrNk1pbVlDUHNfRUw4VVpzZXdOWDZVY3BwbWlXdGhOdDZWVFVHRW80VFZ0aHpEM01XWUlDeWFKdFU3dmJFQU1NNmRsTFBXR0xUdHlod2dFMld1eUswUVFtX2czOWtsOG8?oc=5
-
-- モノを買う前にAIに相談する時代 生成AIが変える消費者の意思決定（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE93dXVDUTVva0ZaQWJfZHI0Z0FaaXFyUXoyb1NBTEE5VkVCT3VaNmkyaDVBeDF6Qm1BUHFOVV9wWU5mNWRFODR0X2xGZEc4N1hod2hjWXAxNkQ2YmdUc0U4ajRLQjdQOGl6MkdsVm90d0dTcmktaC01bThoUnRJX1E?oc=5
-
-- 「副業サポート」やインターネット通販の契約などを巡るトラブルの無料電話相談 札幌（HTB北海道ニュース） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBJQkJEUVJRbDJ2dEczaVh4NmVWUmtHTURGWFFlS1pONGw4RER6bTRRVGxqRzZ3NVpCWkI4TWhGYzJlUTFoclJ1Z0htaFAxcDZmUlYwcUYtRTd3NnE4REtmQTEzc184OWJsa21YUTk4WmIwa2tqOUF5WlNlTHlOZ28?oc=5
 
