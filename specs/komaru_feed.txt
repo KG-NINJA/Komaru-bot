@@ -1,22 +1,28 @@
-=== こまる相談 ニュースフィード (2026-10-25 00:40) ===
+=== こまる相談 ニュースフィード (2026-10-25 05:30) ===
 
-- IPA、2026年第3四半期の相談309件を公表 OAuth同意攻撃でメール大量送信の事例も（ビジネス＋IT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMWd5NFZaVlNURjhQdy0tS2hPNlFpWExpS1JnXy1HNjZvV1ROUHRvVnRRZmtvZ1J5MGlINVo1RkF5UnFOSzVIbXloMnVUa21zb095aDlzTEFYNUhMWXNhVHBvUzlDOFc0dWFJNnFBamV1dWV1QkpTZGJCQy1LSWc?oc=5
+- 子育ての悩みを気軽におしゃべり！パパ・ママ向け無料交流会開催 - 八王子ジャーニー
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5IY2kwQWlleHc5UF9vWWM2RG5aUDlYMmRnNjVJQTluOFlNcUdsdTIxTko3OWl0dGs2TEFqbHpiWkd5YnZvQkFmVnM2QWs1UlZJN3dVS0p3U3BJLWxGcGZjaW5PTzM2OUk1amxQeg?oc=5
 
 - 子ども相談室「きみをてらす」がスタートしました！ - 韮崎市
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVRjWThSREtWemx3N2hlR2xjZHdwOWQyTlNWM0ZodTAwVTZxUFdrcjNhMkptUTJFV3NMOWlJNkRkbzdwQ2kxOExNT1FEVVpKTWd5YjhDVjIyaTEyWXFXWXNVVEUyd2IwSGpUdG85OXd6RlNjU2dENkREaVVVdmtlTUVRRUZUZ1pkSE9XNFI4cnZhOGZoR19RRkVVWTNlc0NzNFRrQTBCNjg?oc=5
 
-- サイバーセキュリティ相談窓口の相談状況［2026年第3四半期（7月～9月）］ - IPA 独立行政法人 情報処理推進機構
-  https://news.google.com/rss/articles/CBMic0FVX3lxTFBCTjA2NVFZNXNwc3RDWDJPekVCSmRVdW1ESnpVRUg4WUdQQTgteHk0NUgwTlppN1hJMTJiUVByZG5hdDdLNmdFMHJ5b05PQUFhSW5kT2Vxc1lBblQ1ZmdPamlHRmpwdDlzejhLekdFZWVyNFE?oc=5
+- 【ＡＩ自殺対策】悩み受け皿、導入手探り 法改正後押し、依存懸念も - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0NUJBZlZ1dXBlRnFZQTZYRVVpWDNIdjg2X2NpRlVXTmhjNXh6U2d3SS1yWl9KTGpwTGVYaHVXR2RtQjY3bkdURE9ERFZNbnl5OUE5ZDNSV2RLMlZmRlE?oc=5
 
 - 「米生産に関する相談窓口」の設置について - 栃木県公式ホームページ
   https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCWXlVd3hfTnk2UVVHMDVtWngzZzdmWjFza0lFdXN4SjFvSHBkQ2NoLWttNm9fRGgxQ2RBdVFidDk3VXZWZTBUdG5sRF9Ob0Rmb0RXSXV4MkZDNjdSZklPd1pn?oc=5
 
-- 【記者のつぶやき】悩み多き青春時代 報道部・堀英彦 | 社会,学校・教育 | 福井のニュース - 福井新聞社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE83dzFKOWl4ZVJ4bzNfU2pWdVg4NHp0TWlfMVZiLW9IakEtZm0zTUtWZ1JwRmdxa2RkZ0NkZ0FCcF9nZlJITHpSY041WnJTcmRhUHM5Y3ZTMjdsaHVGVUE?oc=5
+- 情報セキュリティ安心相談窓口の相談状況［2026年第3四半期（7月～9月）］ - IPA 独立行政法人 情報処理推進機構
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1DSXRvbnMxVFNvTEt5TnRtYnhYMkJJN0Nhby1sanpsZFNZblJJemtLSmctSEpiT0FObGxJQ1c0SnFzZFJrSGlqOW5SWng5N2NrVG04SXRFX0FTOE9TcUlzYndTd0FHMGhod0ZJSDA2NFUyZw?oc=5
 
-- 自殺予防 ＡＩ活用検証 厚労省 ＳＮＳ相談、効果や課題 - 琉球新報デジタル
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpa01fM1ZTZHlUSS02TTBsZzRqWGZCMnBVbXl0aDZHQU9kQ1cxWnZpTDRCdHU2b3VjVm9idXRXc0V6VGluZUFQSFVxUUttQVVRNjl6alEtelFROGdUc0h0Tg?oc=5
+- IPA、2026年第3四半期の相談309件を公表 OAuth同意攻撃でメール大量送信の事例も（ビジネス＋IT） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMWd5NFZaVlNURjhQdy0tS2hPNlFpWExpS1JnXy1HNjZvV1ROUHRvVnRRZmtvZ1J5MGlINVo1RkF5UnFOSzVIbXloMnVUa21zb095aDlzTEFYNUhMWXNhVHBvUzlDOFc0dWFJNnFBamV1dWV1QkpTZGJCQy1LSWc?oc=5
+
+- 幼児の遊び場「すくすくひろば」佐渡・佐和田地区にオープン♪妊婦さんも歓迎、常駐保育士に相談ＯＫ！ - 新潟日報
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE03UU82dDIwOHl6cjdCNDYyNUFqSzhUdVRudmNJNlhYRnlOMGZJUDFOc0pqbXRrVmZJQmlpNHZBaVNzVk82c3BJbDRJM0Z5SzBXc2Qtc25GT3doWmMwWlE?oc=5
+
+- 【ＡＩ自殺対策】悩み受け皿、導入手探り - 山陰中央新報デジタル
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOM3IzYjNjY3hWVVdyTmpLWS1nT3hOaklyejBzT0Z4MXVNckMxREVtQVFSOFJjNFktMXVBU0hmYjU2MGh0ZTFDRUZUMGFPRk04QV9SaFZSbGxMQ3M?oc=5
 
 - 定期健康相談および大腸がん検診容器回収の中止について - 吉野ヶ里町
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0JFVnp0dW83Zld4MldzcWF1YWlTX2Fna2xOcjdtX01FMDNWYkNoYkZ2bGdQM2FsbVVYb0R2R05kYkhNQ1Nxd2MybzZnQkhPVHc3LTR5YVBZeFZCWFhabVFfM1F4cWdRVVViWktFTGdlQWlINEVIVXJPU0k3aGpPdk1PM25DNk0?oc=5
@@ -24,39 +30,33 @@
 - 犬のしつけ方教室とペットの健康相談 - www.city.shinagawa.tokyo.jp
   https://news.google.com/rss/articles/CBMid0FVX3lxTE9WT0hmNS1CQmdIZ2NrSmJmS3dPYnJiOHVNdWJhWjdYVGkzSXJ4VTVUaWU5cFE5Mm9qNlpGdUFVc0k1QmUwQm5sZHVTU09tZEd4M0pncmE3ZGhndHhTLXVlZUhEWHpjUU9xQjlnM0JFR1NlTUZ6alE0?oc=5
 
-- 岡山：総社のお悩み専門的に解決…県立大院生がデザインスタジオ開設：地域ニュース - 読売新聞
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE03WV9UZWVBRHhXQlJJbDFLemRmWVgwcDU0NFY4WGM0ei12aDJkQ0VHY1pZYV9BNEFzLUkwcnlYN1ZKcUdnVnVpU3oxZGFPYzZfbkJoUExaYjdxeFBsTjl0WTFaTjdCWXFFbE04VW5oZVRWdWc?oc=5
+- 【記者のつぶやき】悩み多き青春時代 報道部・堀英彦 | 社会,学校・教育 | 福井のニュース - 福井新聞社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE83dzFKOWl4ZVJ4bzNfU2pWdVg4NHp0TWlfMVZiLW9IakEtZm0zTUtWZ1JwRmdxa2RkZ0NkZ0FCcF9nZlJITHpSY041WnJTcmRhUHM5Y3ZTMjdsaHVGVUE?oc=5
 
-- 「伊那のそばが食べたいのに店がない」そば難民を生まない取り組みが始動 開業と移住支援へ12月に相談会 - 中日新聞Web
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BTUxWRGF4aWhzNEIzX2FXaWhYXzNacHJuUUJZMG9HcllpWmNBVjNGMnZFUk1UMWppWVFUNkF3N21HMkhtbUJvWC1KVmxnSGhqTUNvcw?oc=5
+- 【写真】鹿児島のアート創作現場、ＡＩの波――「相談相手」か「脅威」か…手探りの日々 - 南日本新聞
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMRkx0aHF2YlpVV2F2V0pvOUJ4OEgtTkhURmktMy1TUnRlOHh4RmFiaW9vbHlSb1k1SHlxbTBGbnV4aXl0dDQxcGgxb2NQSWg1ejZBY2FQVQ?oc=5
 
-- 【緊急のお知らせ】法律相談センターネット予約休止中です - 広島弁護士会
-  https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Fc2ItVXMwRWpydWhpbG1xTTZjLUpBYmNXUk1QR29Nb2FHbUdrSjRIQUhYaUxzb2hzZUFPWTZyRHUtOV94Mmc?oc=5
-
-- 市川市から日本を変える！児童相談所の一時保護・解除を学ぶ第2回勉強会 - 選挙ドットコム
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE43RGZ4emZNYmh0d0l1LVd3RkdIZDhVdDFNc3M4Sm91OU52WnpYVFlPSXRRQWJ4YUxaTVBDR3JRbGVFVHFTTWhWZ2FVNm93dnVUNmNSdFdYMjNqalJQMWw4?oc=5
-
-- 自殺予防、ＳＮＳ相談のＡＩ活用検証へ 厚労省、モデル事業創設｜社会｜全国のニュース - 北國新聞
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YUG5vbFB4VWVkcUdvSXBjQUo2QzFOWUFKTUhxb21rWWtRTmhNZFFDRVdjRnZqaUVESXU0WFRVTm9Sd0tWSkI0Y2NHZ1dTZG5kRm43OFVUZw?oc=5
+- 【ＡＩ自殺対策】悩み受け皿、導入手探り 法改正後押し、依存懸念も｜全国のニュース｜Web東奥 - 東奥日報社
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VX2hxbkk3c3lsVG9HTUk5bDdObW1CMnJGeF9TMDhNU1FQc3BUTERSVmhxaUVIM3FtUzlmM0FMNkhGY09tdFYyZGxiNVpfbWtCMDRnMmpyQXo?oc=5
 
 - なぜ現代人は「悩み」を誰にも相談しないのか？2000人超の調査で分かった「意外な本音」 - ダイヤモンド・オンライン
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE82VHZOYUs5R1NBcVF0U09BUVRHRUhjYjRMZWZMYmU1SUlhWGxzZWI5UGZoVjh2aDNHWmVXR2xIZlZicEJZeGs4NF9ZcWHSAU9BVV95cUxNbXhlNjVQNEpNZlFTdGpCbVcxUHdZQUljb2RhcTFfYzZvcWZ6U1VONGtkMTFmdFBJQWhidEQzeEV5bzhhUG9DbHVfQWlucEtz?oc=5
 
-- 「みらいキャリアポート(千葉県公式)」(SNS相談窓口)について - 千葉県公式ホームページ
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE52Y0NMUzVVSWZCQ0dHTlRkQUJBSy1SaDlaakIwb3ZwbjVQQ2pqa3BEcWRXQ1JjbEVmNVl1UFJMT0pxclRsaDJVQmIyQjVQUURjOTNSbFVORE5Lb182TE1xNUFzbUg4d3J4VXlWNU9R?oc=5
+- 学校を長期欠席している子を支える保護者にも「安心できる居場所」を 群馬県総合教育センターが相談・交流支援を充実 - みんなの学校新聞
+  https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TNjRWejVTc1RQVWphR3NBQXgxMXRDWlNISXBGYUNySEl5TEpGVnFfUV9LN21KNkpqQUktRFoxd0JMUFRVQURvOGRB?oc=5
 
-- 情報セキュリティ安心相談窓口の相談状況［2026年第3四半期（7月～9月）］ - IPA 独立行政法人 情報処理推進機構
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1DSXRvbnMxVFNvTEt5TnRtYnhYMkJJN0Nhby1sanpsZFNZblJJemtLSmctSEpiT0FObGxJQ1c0SnFzZFJrSGlqOW5SWng5N2NrVG04SXRFX0FTOE9TcUlzYndTd0FHMGhod0ZJSDA2NFUyZw?oc=5
+- 新幹線長崎ルート 財政協議、両県相談に対応 国交相「必要があれば」（長崎新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE52RU5pVXpHV21uYlFyNUJrcUZaVjU1X29PTEIxdnl5WDdWYXFZR0xUWlVuWmFiOUJpeFFIdWtSdlpHRDR6LXBtbGpHemdtRjFkcExETGN6cGJHOWN1T3BpenpmVFR5Y1pxYWUzLXRMUXhDLUxDYXBtdWNNSkxfWkU?oc=5
 
-- 旧統一教会被害家族、最後の総会 相談累計7千件、年内終了（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBJYlRHakFYM0x2T1pTdTV0dHZIdG84WGdfWFBqc0xHMTBDeE45dWVGMnBhNlBvZXV6T2dSUnhpUVJtcGpwNHJoazVKYkJYQVNDOWVESm5zTUxObWYzRnVZT3o5UTJRR2xLZkFPUklETTdmRUR4eEVEdXV2dVpUMTg?oc=5
+- 【ＡＩ自殺対策】悩み受け皿、導入手探り 法改正後押し、依存懸念も - 新潟日報
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE92clZfRmVnSWJDTzBCQ1plY0NfYkVBWUYzcGhaTkdnNE1jYnZReU51SG9oYVgwUlYxXzM5eFA3b0M0cG92NVlqejJ6REp3YldtbENma2VUQU1OTTI3UXc?oc=5
+
+- 自殺予防、AI活用の効果検証へ SNS相談で厚労省、課題も（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1vbDBBMGZnTGRGQU5fT0tRRVJZMjVvTGZzejZhWjk4ekNHOE5SSzNXb0NFTXIwRWZyUnp4WVJsbFUwSWhlbnlfWnBCQlk0WGlSTkluTzllalhvT0kzb1l6OW9reGdfMWZVY1lYMGc2ZC04N1h3bTlSSFNOVFNFTjQ?oc=5
 
 - 一時保護の少女にわいせつ行為など 児童相談所の男性職員（24）懲戒免職（tvkニュース（テレビ神奈川）） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9lU2h1Mk9DRHhTSjZLallxMUdpR1FZSzZrNk1pbVlDUHNfRUw4VVpzZXdOWDZVY3BwbWlXdGhOdDZWVFVHRW80VFZ0aHpEM01XWUlDeWFKdFU3dmJFQU1NNmRsTFBXR0xUdHlod2dFMld1eUswUVFtX2czOWtsOG8?oc=5
 
-- 自殺予防にAI 厚労省が効果検証へ - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlMUowSWtCN0N6cTVRV2ZqWWdzQVViOW1tN0FKWG9xYnRHdV9laXRnU0IyMUdNbnI1VlhldGRqdHNMeE9SVjVnb3kwNEtjYm5Z?oc=5
-
-- “手ぶら託児”におむつ自販機も 子育ての「困った」に寄り添う新サービス広がる（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE13VktvMWRfNFgwd21SN0Z4aFBnbng0YUJWc05UNFVhLWNBVWF3dUNHaUsya0ZZS3BPRlZQWENKakFObDNxZjQzcE9RMnhIR0pSTVRJblB6VzVaOU4xMUxFLUlMZzNwSjNCSFNSdlpONVVqMGNweFBtX3JFSGlFNjA?oc=5
+- バス運転49人が体験 北海道の釧根地区協会、合同で就職相談会（釧路新聞電子版） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1vMGRLZWhKNHh2OTBhLUh2aVlFUmhWNDIybDdWZ28xRTNMQWE4MDFuYzlkNDlSRFZQNFJXWkVUMVRKTjZzTmZmbnFXNW5lX0VIbTlVbjNMMDJ4N0NDb2J6REZ2a0p4UEFnZHc0THVtTGtTVVpQQTR5Z1lfY01RQmM?oc=5
 
