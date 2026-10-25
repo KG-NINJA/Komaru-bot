@@ -1,4 +1,4 @@
-=== こまる相談 ニュースフィード (2026-10-24 22:06) ===
+=== こまる相談 ニュースフィード (2026-10-25 00:40) ===
 
 - IPA、2026年第3四半期の相談309件を公表 OAuth同意攻撃でメール大量送信の事例も（ビジネス＋IT） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMWd5NFZaVlNURjhQdy0tS2hPNlFpWExpS1JnXy1HNjZvV1ROUHRvVnRRZmtvZ1J5MGlINVo1RkF5UnFOSzVIbXloMnVUa21zb095aDlzTEFYNUhMWXNhVHBvUzlDOFc0dWFJNnFBamV1dWV1QkpTZGJCQy1LSWc?oc=5
@@ -21,42 +21,42 @@
 - 定期健康相談および大腸がん検診容器回収の中止について - 吉野ヶ里町
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0JFVnp0dW83Zld4MldzcWF1YWlTX2Fna2xOcjdtX01FMDNWYkNoYkZ2bGdQM2FsbVVYb0R2R05kYkhNQ1Nxd2MybzZnQkhPVHc3LTR5YVBZeFZCWFhabVFfM1F4cWdRVVViWktFTGdlQWlINEVIVXJPU0k3aGpPdk1PM25DNk0?oc=5
 
+- 犬のしつけ方教室とペットの健康相談 - www.city.shinagawa.tokyo.jp
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE9WT0hmNS1CQmdIZ2NrSmJmS3dPYnJiOHVNdWJhWjdYVGkzSXJ4VTVUaWU5cFE5Mm9qNlpGdUFVc0k1QmUwQm5sZHVTU09tZEd4M0pncmE3ZGhndHhTLXVlZUhEWHpjUU9xQjlnM0JFR1NlTUZ6alE0?oc=5
+
 - 岡山：総社のお悩み専門的に解決…県立大院生がデザインスタジオ開設：地域ニュース - 読売新聞
   https://news.google.com/rss/articles/CBMic0FVX3lxTE03WV9UZWVBRHhXQlJJbDFLemRmWVgwcDU0NFY4WGM0ei12aDJkQ0VHY1pZYV9BNEFzLUkwcnlYN1ZKcUdnVnVpU3oxZGFPYzZfbkJoUExaYjdxeFBsTjl0WTFaTjdCWXFFbE04VW5oZVRWdWc?oc=5
 
 - 「伊那のそばが食べたいのに店がない」そば難民を生まない取り組みが始動 開業と移住支援へ12月に相談会 - 中日新聞Web
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BTUxWRGF4aWhzNEIzX2FXaWhYXzNacHJuUUJZMG9HcllpWmNBVjNGMnZFUk1UMWppWVFUNkF3N21HMkhtbUJvWC1KVmxnSGhqTUNvcw?oc=5
 
-- 犬のしつけ方教室とペットの健康相談 - www.city.shinagawa.tokyo.jp
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE9WT0hmNS1CQmdIZ2NrSmJmS3dPYnJiOHVNdWJhWjdYVGkzSXJ4VTVUaWU5cFE5Mm9qNlpGdUFVc0k1QmUwQm5sZHVTU09tZEd4M0pncmE3ZGhndHhTLXVlZUhEWHpjUU9xQjlnM0JFR1NlTUZ6alE0?oc=5
+- 【緊急のお知らせ】法律相談センターネット予約休止中です - 広島弁護士会
+  https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Fc2ItVXMwRWpydWhpbG1xTTZjLUpBYmNXUk1QR29Nb2FHbUdrSjRIQUhYaUxzb2hzZUFPWTZyRHUtOV94Mmc?oc=5
+
+- 市川市から日本を変える！児童相談所の一時保護・解除を学ぶ第2回勉強会 - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE43RGZ4emZNYmh0d0l1LVd3RkdIZDhVdDFNc3M4Sm91OU52WnpYVFlPSXRRQWJ4YUxaTVBDR3JRbGVFVHFTTWhWZ2FVNm93dnVUNmNSdFdYMjNqalJQMWw4?oc=5
 
 - 自殺予防、ＳＮＳ相談のＡＩ活用検証へ 厚労省、モデル事業創設｜社会｜全国のニュース - 北國新聞
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YUG5vbFB4VWVkcUdvSXBjQUo2QzFOWUFKTUhxb21rWWtRTmhNZFFDRVdjRnZqaUVESXU0WFRVTm9Sd0tWSkI0Y2NHZ1dTZG5kRm43OFVUZw?oc=5
 
-- 【緊急のお知らせ】法律相談センターネット予約休止中です - 広島弁護士会
-  https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Fc2ItVXMwRWpydWhpbG1xTTZjLUpBYmNXUk1QR29Nb2FHbUdrSjRIQUhYaUxzb2hzZUFPWTZyRHUtOV94Mmc?oc=5
+- なぜ現代人は「悩み」を誰にも相談しないのか？2000人超の調査で分かった「意外な本音」 - ダイヤモンド・オンライン
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE82VHZOYUs5R1NBcVF0U09BUVRHRUhjYjRMZWZMYmU1SUlhWGxzZWI5UGZoVjh2aDNHWmVXR2xIZlZicEJZeGs4NF9ZcWHSAU9BVV95cUxNbXhlNjVQNEpNZlFTdGpCbVcxUHdZQUljb2RhcTFfYzZvcWZ6U1VONGtkMTFmdFBJQWhidEQzeEV5bzhhUG9DbHVfQWlucEtz?oc=5
 
 - 「みらいキャリアポート(千葉県公式)」(SNS相談窓口)について - 千葉県公式ホームページ
   https://news.google.com/rss/articles/CBMibkFVX3lxTE52Y0NMUzVVSWZCQ0dHTlRkQUJBSy1SaDlaakIwb3ZwbjVQQ2pqa3BEcWRXQ1JjbEVmNVl1UFJMT0pxclRsaDJVQmIyQjVQUURjOTNSbFVORE5Lb182TE1xNUFzbUg4d3J4VXlWNU9R?oc=5
 
-- なぜ現代人は「悩み」を誰にも相談しないのか？2000人超の調査で分かった「意外な本音」 - ダイヤモンド・オンライン
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE82VHZOYUs5R1NBcVF0U09BUVRHRUhjYjRMZWZMYmU1SUlhWGxzZWI5UGZoVjh2aDNHWmVXR2xIZlZicEJZeGs4NF9ZcWHSAU9BVV95cUxNbXhlNjVQNEpNZlFTdGpCbVcxUHdZQUljb2RhcTFfYzZvcWZ6U1VONGtkMTFmdFBJQWhidEQzeEV5bzhhUG9DbHVfQWlucEtz?oc=5
-
-- いばらき出会いサポートセンター「出張相談会・登録会」 - 笠間市
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwMHpiQ0h0OG9PaUI2Q3BiRHRQQ29ubVZHVDZFYUZ4Rk9RWEJxQlRjOGFzSHZ6LUh1V1Z6WEtzUk1jakZULVZ2MUJhUVV1ODE1c3BqRnhjRVAwQjlUZzdN?oc=5
-
-- 【埼玉県救急電話相談（#7119）】「埼玉県救急カード」を作成しました！―安心・安全を支える救急医療をもっと知ろう - 埼玉県
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBmZEZLX21MakxOZEJNcjBqWmZlMFhRWW9qTWVNV0xFQXJQbC1oaTdjclIzaWdiNmRsU2lNODVCcF9zUU9BajIxTGVlbU80aDk5OTM2eVFWZ1JxUXFzNWhya2N4S2xPcEVLTEs2djF4WTA5Zw?oc=5
-
 - 情報セキュリティ安心相談窓口の相談状況［2026年第3四半期（7月～9月）］ - IPA 独立行政法人 情報処理推進機構
   https://news.google.com/rss/articles/CBMickFVX3lxTE1DSXRvbnMxVFNvTEt5TnRtYnhYMkJJN0Nhby1sanpsZFNZblJJemtLSmctSEpiT0FObGxJQ1c0SnFzZFJrSGlqOW5SWng5N2NrVG04SXRFX0FTOE9TcUlzYndTd0FHMGhod0ZJSDA2NFUyZw?oc=5
+
+- 旧統一教会被害家族、最後の総会 相談累計7千件、年内終了（共同通信） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBJYlRHakFYM0x2T1pTdTV0dHZIdG84WGdfWFBqc0xHMTBDeE45dWVGMnBhNlBvZXV6T2dSUnhpUVJtcGpwNHJoazVKYkJYQVNDOWVESm5zTUxObWYzRnVZT3o5UTJRR2xLZkFPUklETTdmRUR4eEVEdXV2dVpUMTg?oc=5
+
+- 一時保護の少女にわいせつ行為など 児童相談所の男性職員（24）懲戒免職（tvkニュース（テレビ神奈川）） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9lU2h1Mk9DRHhTSjZLallxMUdpR1FZSzZrNk1pbVlDUHNfRUw4VVpzZXdOWDZVY3BwbWlXdGhOdDZWVFVHRW80VFZ0aHpEM01XWUlDeWFKdFU3dmJFQU1NNmRsTFBXR0xUdHlod2dFMld1eUswUVFtX2czOWtsOG8?oc=5
 
 - 自殺予防にAI 厚労省が効果検証へ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlMUowSWtCN0N6cTVRV2ZqWWdzQVViOW1tN0FKWG9xYnRHdV9laXRnU0IyMUdNbnI1VlhldGRqdHNMeE9SVjVnb3kwNEtjYm5Z?oc=5
 
 - “手ぶら託児”におむつ自販機も 子育ての「困った」に寄り添う新サービス広がる（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE13VktvMWRfNFgwd21SN0Z4aFBnbng0YUJWc05UNFVhLWNBVWF3dUNHaUsya0ZZS3BPRlZQWENKakFObDNxZjQzcE9RMnhIR0pSTVRJblB6VzVaOU4xMUxFLUlMZzNwSjNCSFNSdlpONVVqMGNweFBtX3JFSGlFNjA?oc=5
-
-- 一時保護の少女にわいせつ行為など 児童相談所の男性職員（24）懲戒免職（tvkニュース（テレビ神奈川）） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9lU2h1Mk9DRHhTSjZLallxMUdpR1FZSzZrNk1pbVlDUHNfRUw4VVpzZXdOWDZVY3BwbWlXdGhOdDZWVFVHRW80VFZ0aHpEM01XWUlDeWFKdFU3dmJFQU1NNmRsTFBXR0xUdHlod2dFMld1eUswUVFtX2czOWtsOG8?oc=5
 
