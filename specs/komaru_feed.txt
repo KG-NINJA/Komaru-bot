@@ -1,16 +1,31 @@
-=== こまる相談 ニュースフィード (2026-10-26 17:54) ===
+=== こまる相談 ニュースフィード (2026-10-26 22:05) ===
 
-- 児童相談所の見学会 背景に深刻な人手不足 なり手を増やすための取り組みは？（ＯＡＢ大分朝日放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ram1YeklmYkN0bjZnQ3ZXUVE0VTc5R3l6alUzMEd6N3o5aEYwWjNmOG1CZlZLOVV6R2RJMUk5VUZZTnYySVRlUVdscTJkMzhybkRGVTg2U2NBSGJoU0xtYUZHek1QWkJGNFVhb3RpVncwNW1HUnlmc3NpcjZobEU?oc=5
+- 神奈川 鎌倉「カスハラ防止条例」施行 職員向け相談窓口設置へ - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ccm1ld0kxYU9RdEswa0IyeWRkZWVnbkY5bkxvTzFVX0xpOEpNYkxPTzJRZ0x1OW9kdUNvTjFHOUN0czRuQTg0Uk9vWWVDZHA4dEVidktSVzdGSnhtZVhj?oc=5
+
+- 【ちゅちゅ】すくすく相談 11月13日・27日 - 広島県府中市
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxNa3VGa01ON2hocnJzckRzR212NnlpYkJrQVI2N0VpdGVfWWw0Nm45SVB1TzVieF9KMUFaMTZ5UDNhWlNYd2ZwcWN0cUNYZDIxY09yZjZpREU5UzNiUUk4czdWZEFnd2FRWFpKWWJEbnRGV2FSdU5YZDJiaS1HblZ0RmJneU8wNzBlNWNyOUZpbE9sMWdPNDlQUWN5WWp4QU5pS203WHp2UEF6M0F3MjFSSnZPY3o?oc=5
 
 - 障害児の就学 29日電話相談 東京弁護士会 ／東京 - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvYnhPZnQyVTJ6aG4xNEhxYjNVQ2J0STdUUTYxUzVkNnFTRWRRNFFJa2JUOE42eHp4QldudGZVVnhSTmh1UjJoLUJmZDA3ZEpPNzNJWWlFemFDT01EdUhTU25Cd3RDZnZN?oc=5
 
-- 令和7年度子ども・子育て応援センター(こころんだいやる)における相談状況について（概要） - 滋賀県
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1NSlpuM0tFajZqR1gyN2JOTDV2ZWxHUE5EdFNzcnBhc0M0YV96cVh4ZXVYTk1kcFlhVGdJSjlrcTRrYVNTTl8zYktBV1A4VDhqVXpXT1RhNWtVdG85THZnVDVEZmJURjB5QWc?oc=5
+- GLP-1関連薬の適応外使用による健康被害の診療・相談経験がある医師は約15％ - 日経メディカル
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXFCeldXYXdFNG1Ga3NUWUwxQUQzT1o3NlV1amxhSEJvUWtfQ0NGSlV6S0Y1djYtVHotSGlMRkV5QkRkNG5kMDVLUm5tSl95Q01qMlowMnl2WWt1Nzlmd19hbVJiSU9pMWVEcDJBbzdlZGtFejIwdjZxZVl3ZGRRZE05MzRTUzJwYWc?oc=5
+
+- 児童相談所の見学会 背景に深刻な人手不足 なり手を増やすための取り組みは？（ＯＡＢ大分朝日放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ram1YeklmYkN0bjZnQ3ZXUVE0VTc5R3l6alUzMEd6N3o5aEYwWjNmOG1CZlZLOVV6R2RJMUk5VUZZTnYySVRlUVdscTJkMzhybkRGVTg2U2NBSGJoU0xtYUZHek1QWkJGNFVhb3RpVncwNW1HUnlmc3NpcjZobEU?oc=5
+
+- 子どもが友達関係で悩んだら 小学生の悩みに寄り添う『世界一たいせつなあなたの心をまもる本』発売 - 講談社コクリコ
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuVEVaaHFzUTRrcDhSRHV3b3MtQ2pBNmc2bnIyeHhWQ2NWUTRpNTBCVzFsUmN5cHh2dlV4eEJsMXllUnhmYXh3ZmRYeUVFSFlabFVVWWM5VEpuWjdqTmc?oc=5
 
 - 協力医療機関の設定「どこに相談すればよいか分からない」ケースも、中山間地域等では人件費率に顕著な差が―第33回介護報酬改定検証・研究委員会（2026年10月26日） - 社会保険研究所
   https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4dnVCZXpKUEgxVno2c3B1QTA0MTk5V3ZwaFR3bVh4d1U3V0ZmXzBpam5ybEdKSVItbWpUR0JEcWRObnRxSzIxSU1IRGUtQ09pa2dz?oc=5
+
+- 令和7年度子ども・子育て応援センター(こころんだいやる)における相談状況について（概要） - 滋賀県
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1NSlpuM0tFajZqR1gyN2JOTDV2ZWxHUE5EdFNzcnBhc0M0YV96cVh4ZXVYTk1kcFlhVGdJSjlrcTRrYVNTTl8zYktBV1A4VDhqVXpXT1RhNWtVdG85THZnVDVEZmJURjB5QWc?oc=5
+
+- すごいベンチャー【54】SiccaNova Therapeutics／乾燥の悩みに挑む新薬で起業 - 東洋経済オンライン
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE45MDl6RkxSYWltOUZHcWRmQ01RcWhjM09sRUhhNlVrcFFLTnBNb2MwaWlTcTE5Y2RqcWhzYmt4aTZiMGFsdmJsenJoaW93OUUxLXE4LWlJNnNtXzAyejdN?oc=5
 
 - 障害児の就学、電話相談 29日、無料で弁護士会 - 47NEWS
   https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CWkdvX1BJaWh6TkFYa2RMYjM3b0JRLU9BUGYyR2hhXzh4dnJPZWprUzZtTDI1dkVuZ0poTGY4SzJIU0JZMF8tbFJwWQ?oc=5
@@ -18,29 +33,17 @@
 - 【裁判】誰にも相談できずひとりで出産…生まれてすぐの赤ちゃんを殺害・遺棄した母親(39)が初公判で起訴内容認める（山形） - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE81Nkh0V2pZWXZ6MWxGamdyaUxTUjFvdG1iVFVBdTM5T25FQktkQW1yNGJJcWVfQ2lqUDBfVHRUeG4wWTlwenBnejBRNDNLeHZSU0dlZ3laSmI4Zw?oc=5
 
-- 消費者を誘導“ダークパターン”に注意！県内でも相談事例「画面のスクショ保存を」山梨 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFE4TUhTVWwwQU02MnZXNE93UGFBbUItakVUYVl6NUwtRXoxNEFueEtoZk1sRk9MSTVjVEJfTC0yYWc1Mk8wQ0JBaWtDSlNNT1FkUnc3SHctdHJiM1ZZcmstenFoMVlRZmJIWEpTWWVrclVRMm5DWXZIck1ZYmlEMk50QWc2Ukk?oc=5
-
 - 建設業を対象にした価格転嫁支援セミナーと相談会を大阪市で開催 - J-Net21[中小企業ビジネス支援サイト]
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqczhWTzdsQlFjNFAwSjBXQVhpamVoMlpMWTA3ZEdMVUNtakVaNjJ5andwNnFTelJzazFNbC1OVmIyNkhkZ1hrazdSeDZHb2RFNEFjZEYzU2pmQjkzejBEVUtlVQ?oc=5
 
-- 【ちゅちゅ】すくすく相談 11月13日・27日 - 広島県府中市
-  https://news.google.com/rss/articles/CBMitAFBVV95cUxNa3VGa01ON2hocnJzckRzR212NnlpYkJrQVI2N0VpdGVfWWw0Nm45SVB1TzVieF9KMUFaMTZ5UDNhWlNYd2ZwcWN0cUNYZDIxY09yZjZpREU5UzNiUUk4czdWZEFnd2FRWFpKWWJEbnRGV2FSdU5YZDJiaS1HblZ0RmJneU8wNzBlNWNyOUZpbE9sMWdPNDlQUWN5WWp4QU5pS203WHp2UEF6M0F3MjFSSnZPY3o?oc=5
+- 医療・福祉の仕事相談を！ ６日、福島で合同就職説明会 ３６事業者がブース 福島、伊達、桑折、国見、川俣 - 福島民報デジタル
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rY3lTNDFwZG1xNTU4QXhzblVtTDhzcjN5b0c1V1FTZHVWb3BuTUxCZTBVLS0wVDdCOXZyaTBSMF9QREhPS1A3NWIyLXNOVFk?oc=5
 
-- 障害児の就学、電話相談 ２９日、無料で弁護士会 | 全国のニュース - 福井新聞社
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wR2c0VHNlR2txYTZlNi1yWlZRQUlHekJBNlp5eWY1bjhKN2pDRFlYU2VFY29vaEpMaTFuMUc3WTJydkNURWVsaEhZVFRCc3VFSEdEakEtZVUyNUFhU3c?oc=5
+- 消費者を誘導“ダークパターン”に注意！県内でも相談事例「画面のスクショ保存を」山梨 - 日テレNEWS NNN
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFE4TUhTVWwwQU02MnZXNE93UGFBbUItakVUYVl6NUwtRXoxNEFueEtoZk1sRk9MSTVjVEJfTC0yYWc1Mk8wQ0JBaWtDSlNNT1FkUnc3SHctdHJiM1ZZcmstenFoMVlRZmJIWEpTWWVrclVRMm5DWXZIck1ZYmlEMk50QWc2Ukk?oc=5
 
-- ［イベント］大学院進学相談会開催（11/21土曜日）のお知らせ - 新着情報 - 大学院 - 愛知大学
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOX1ltWGlqZU9Sb1M4OVJ2U2VuQ3pfaThDZmNtQVRzcDJibzNyQ2M5bWVOV3M0bUFQZl9KR2NPa3YxZlRXd2puVmlKbDgzQjNKY2lZ?oc=5
-
-- 「これめっちゃいい！」障害者ゴルファーがクラブ相談で覚えた感動 ブリヂストンが続ける“草の根活動” - ALBA Net
-  https://news.google.com/rss/articles/CBMieEFVX3lxTE91VzFJeXpkVUZhZlpKYjUtLUJ5MUpHVzlmeEY5MjRzM0xVUTB5Z2oxYkVjeXFUZ3lqSmx3a2pVQllSeWFDNV9veGw2UFpaRG5xbjYzWWlGY2pfRU4ta1VHTlRBLVdod01PTVZmYm1VbktVNDI2ZXZ0Xw?oc=5
-
-- 小中学生の「悩み聞き役」にAIキャラ 掛川市教委が27年春からアプリ試行 - WAM NET
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE5RNWo0cHF4Z1M3YVZDWXVJMkVOaTB2X1RIUFZZZ0ZBY25CcFZVcllNbUxNV3AwT0hpd3ljQ0M1eVdsWXVsNEh3WExLOHFLN0JiOU5NN3J4eU43QjRmRk1RUzRNdW5YS3JFWV9SUkpR?oc=5
-
-- 第4回入試相談会・第2回αコース入試相談会を実施しました - 埼玉栄中学・高等学校
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaUHg1V1ltbGhwZzlOZTJmdGdwNDFOUGNOM3BjUFdHRGlDZHJqQnFPTmZOUTkwVkpsMjJOamUwR0pNTnJzcTRQbmRrT19kTHBBaXJWYi05NTFjMTA1S2hMUDNFdlNuY2N1?oc=5
+- 愛知県一宮市に「ほけんの窓口 テラスウォーク一宮店」が2026年10月30日(金)オープン ～一宮市で、保険の比較・見直しからお金の相談まで無料で対応～ - ほけんの窓口グループ株式会社
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WdGx2LUd6VXNvaE9VVU9VT0drUk81ZmJ5WThmV3ZUR3d1U05CeGhWY3cxQVFlUVJMREtXdmc5eFB4dFJCNDZFY3lvZmZmSHdCRHJhZzlvNUNjVHdMekowX3RVUks?oc=5
 
 - 情報セキュリティ安心相談窓口の相談状況［2026年第3四半期（7月～9月）］ - IPA 独立行政法人 情報処理推進機構
   https://news.google.com/rss/articles/CBMickFVX3lxTE1DSXRvbnMxVFNvTEt5TnRtYnhYMkJJN0Nhby1sanpsZFNZblJJemtLSmctSEpiT0FObGxJQ1c0SnFzZFJrSGlqOW5SWng5N2NrVG04SXRFX0FTOE9TcUlzYndTd0FHMGhod0ZJSDA2NFUyZw?oc=5
@@ -54,9 +57,6 @@
 - 【裁判】誰にも相談できずひとりで出産…生まれてすぐの赤ちゃんを殺害・遺棄した母親（39）が初公判で起訴内容認める（山形） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE44Rl90dkp5ZXJpYW0xOS1QelRwckJRVWpBSFdFQjBka0lEWnF3VktZQTdkRC1LVDFEZXFUWmljZHlFQkNEM0dXb05Sc1lmTUl2SzUxUWJVTFE4ZjMzRlR4UUpNZUNoYmdkS2RoSkpjN2dYUUdpOU81VDdERlJZQUU?oc=5
 
-- カスハラ相談窓口 利用を呼びかけ 名古屋産業振興公社（中部経済新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5qaUdnc0xlMU9QWlc0amxCNkRVR2R2X2YzWGFFOC04Q3Nfa1RGaFVrRmVuaW8tRktudV8wZjVsSFZ4ZEpXazFWX0JJT0xZbWhvY0czY0hvTjA5SkxPQkxiT3FPd2RuZzc3cGxCRk9CRkJpODNySklYeTNKclp3M2c?oc=5
-
-- 【七五三】～撮影とお参り用着物レンタルご予約相談会開催中～（スタジオもなみ） - アットエス
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zWm1rNnk5T2dBVFB6aFd6UFB1dnZQbUpSYlFmYmdSMmhWRTRhRHZfNkpPV3ZYYnFrcWhMVTRtd3BGVlgwd0Z5WmhEVWRiVWNmblp4RA?oc=5
+- 障害児の就学、電話相談 ２９日、無料で弁護士会 | 全国のニュース - 福井新聞社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wR2c0VHNlR2txYTZlNi1yWlZRQUlHekJBNlp5eWY1bjhKN2pDRFlYU2VFY29vaEpMaTFuMUc3WTJydkNURWVsaEhZVFRCc3VFSEdEakEtZVUyNUFhU3c?oc=5
 
