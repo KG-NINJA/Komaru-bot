@@ -1,10 +1,13 @@
-=== こまる相談 ニュースフィード (2026-11-05 07:32) ===
+=== こまる相談 ニュースフィード (2026-11-05 15:55) ===
+
+- 在日ベトナム人向け心の支援アプリ開発―相談員連携の実施可能性を検討― - 京都大学
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KclhqRjVoRnNid3RmVV8tTF9HclB1R2g4WmdSdUlLcEgtQUpfczRvZlZsOWRvSlYwQlF5R19Fb2d1T2ZFdlREVFJLNFpFRktuX1NLUjhkS0F4S0tscHJXUkVYdw?oc=5
 
 - 「犯罪被害者のための無料相談会」を開催 - 北海道釧路町
   https://news.google.com/rss/articles/CBMie0FVX3lxTE9USEdrQmhzbXNZSGRmQUlaamV1M1RiUGRfRF8tZnc0YmIyUjJadU1ndUdGZTY1UnQ0TFkxN19iZnAySk5rYmJWaUVzYUp2WHJkMmd1RmtOcDI2VXR0TDZ0amt5Zmg1WkVndk90WU1rZ21rRzVzbE9MWWhEZw?oc=5
 
-- 在日ベトナム人向け心の支援アプリ開発―相談員連携の実施可能性を検討― - 京都大学
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KclhqRjVoRnNid3RmVV8tTF9HclB1R2g4WmdSdUlLcEgtQUpfczRvZlZsOWRvSlYwQlF5R19Fb2d1T2ZFdlREVFJLNFpFRktuX1NLUjhkS0F4S0tscHJXUkVYdw?oc=5
+- [TKUニュース 26.11.05 19:00 ] 妊娠に関する相談件数 前年度同時期より増加【熊本】 - TKU テレビ熊本
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtZnRTRms0T24yNkNJYmtMaVUyWnNtS1dValdCeUIyLWZDZF9MUEliQUNhWXg2bGVRUmszZ21JQUdxbWxBRi1OWkJOMlhYQTZZTlB4SXI0U05Xamo1LS1UdkZYSQ?oc=5
 
 - 【受験生の皆さん】個別相談やキャンパス見学を随時開催してます | - 大妻女子大学
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1TaFV6TjA0SkFHMmhzWTRsXzdQTjJud2pidUlDTmRGVzZfc3Y5ZTRodkxlQWFxNUlQcXlOVDNFMzBLa2pPN0hGVktPOE1uUkhqT3RSV0dQeVpON3l3UmtjSzNET3JXd2hOV3ZXUQ?oc=5
@@ -12,51 +15,48 @@
 - 犬猫ペット相談会～もしもの時、この子はどうなる？～ - 千代田区
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qSWI1Wll5X2ZXZ0dsc2hxV1lnWTdGamV5Q2ttZlc2SldTOUdNcGlCU0RMV2RJUnZuOThlSEhuWDA1UUVwY0RJWmNkRFVrNjk0OFVDWlVsRUR2WXUtRlpZa0NjM1kxUQ?oc=5
 
-- 妊娠・子育て・虐待の相談窓口を一本化 24時間SNS相談も開始／岡山・津山市（津山朝日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5fcmdsNHlpM3JYUldJSUJVeTQ1NEhKSTZtNVRyRno1THRTZ016MUlOWkpUTURiSjhhQVVOLUJFVWlvSzF6VUFtNWFaQjJTcnBjZXFWT2s4czNFQS1iMlhJMEc3T3pGM1ZVRFJVZ2cxUHE0SHNJQjRRUXh0ci1LTTQ?oc=5
+- 相次ぐ情報漏えい「前代未聞」 鹿児島市のIT企業が無料相談窓口設置（KKB鹿児島放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5weU81ZnRBeVJnRUk5eDZISmF1ajEzWkRSQ1lPOVltYm1PMGNaUkhQamtyQkd2X1owNXdkNVhNSTBHWG1uVFVNbEdtQ3hJNzVSSWpMeDFNbWduQTlocEF4OUxhWDJ0eE9WQnduRVpHWlhRZTBlZ0JpYkQ4VTJ2Yjg?oc=5
+
+- アンクス（鹿児島市）が無料相談窓口 PHP、情報漏えい問題受け 中小企業向けセキュリティー診断、人的対策助言 - 南日本新聞
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRQXlyS181VXptTmFLM1VUYlRfRnJXVlJmNGU4UnFReVpHUDk4c0ZXSDdTSU9KUmxGZmRDOWN1RTNtaWUwWFBIYmlzdGliM2lPdGhEZmwxX2c?oc=5
+
+- 新潟市がAIで悩み相談の実証実験 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rdFBoTlYwM09zVkU0Qy1OSnhuVm9iU2xHeFFfaExZQmNOd2hucGFQTjJ1YWxvNnpEclVaakRKUlRHaFRxX2E4aW9CLTNOVzZrUmFSNDQwd0NfZGk4dTZj?oc=5
 
 - トランプ大統領 ヘグセス国防長官の交代を相談か 中間選挙の大敗余波 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfclUzejRUZFNIN015LXc5NllPOGNackVUblIyZkZ2U29EMmZBOTE0QzFxd0xrdV93b0lxMmNjTV9PbWZDcHVXREZYNk1QR0JiTFZ3XzhhMA?oc=5
 
-- 債務整理トラブルに全国一斉の電話相談 10日、弁護士会 - 東京新聞
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rUWw1OHRGTjdrdlNUemU3ZEpua3FBNzBNQk5YR1lfMml2TWh5ZGl1M2d0MndjckwxemUyUUtjU3BkanpJOXdVbFVUZGwzM3kwWGFN?oc=5
-
-- 蔵内氏、疑惑告発に「弁護士とも相談」 法的措置も辞さない構え - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE11S0ltN2dLQWZycmpuSk9PWnRCcTd3LVpEYzhwcGxDcWRMM1pBVGowNlRRblVMSGZXS2tyWjdBTGpQZzdXSU4zVGdPX2RmQktna2NnWUN4U1FTM1BWbDZ4VmpSZWlQNmFh?oc=5
-
 - サイバー攻撃や個人情報流出などの相談窓口について - 葛城市
   https://news.google.com/rss/articles/CBMieEFVX3lxTFBQa0NmRW9KdUlhODZheHFuT05KZFpqUV80M1lRa2lITG8zTEs1eGZUNjFpY2ZSbVZoX3lqR0RFTzQ4amRkZEpkeTI2Y0lpd3dGUFdJLUxEdl9fREVHSGVUT3ZRUk13T3pSVlBqN3h4S2RuN2hZYXlqbQ?oc=5
 
-- システムファイブ、「DJI×E-IMAGE×キヤノン相談会」を12月4日開催。約3mの高所遠隔撮影や4ch音声収録を実演 - PRONEWS
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hUmltdGh2cUItdm9feHlicGNWeHRSZFA4YUctaGc4bDJqcFFybnBMS0IyVThhVzFXRm51QmVMQTc4WTlyVTJQRnpoendya2pIZDZSTmlGejlkdFF5Vl9scg?oc=5
+- 債務整理トラブルに全国一斉の電話相談 10日、弁護士会 - 東京新聞
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rUWw1OHRGTjdrdlNUemU3ZEpua3FBNzBNQk5YR1lfMml2TWh5ZGl1M2d0MndjckwxemUyUUtjU3BkanpJOXdVbFVUZGwzM3kwWGFN?oc=5
 
-- 住友生命、「Olive」にインフルエンザ保険提供 デジタルで相談から請求まで - ニッキンONLINE
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Td1JhZzEwNXFyamZ4WkVlc2ZxREViSU5GQlFOLW1uY1JCZXhzcnJyc0dPdnNxempKUThPMUNpQUg5Z2NHQXUyd0xScWk4RG9mMjRjZW1n?oc=5
+- 綺麗な虹に出会いました🌈 その後は市民相談の現場へ！ - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zWW5zSzUyV3lMS2pPWHZxamJLUDQzODY2ZTdWN1ZmN0pqMTJjSURlcmpEWDdYRXM4UEpBVHAyMFFRZHRoNk1LRXhfTkRYZjlRZWxWdGtIQkU4Wm5wdUFn?oc=5
 
-- 長野県北アルプス地域への移住・就職イベント「暮らし・働く大相談会」11月28日開催 - 山と溪谷オンライン
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0VjhldXlTRlJBVmZMZFl2OFhOczRkZnB0c1UybFluY2hmZjNnY3BjRUtmM3RIaVhHMW9fbmwzN19wdlZSVFc1WkJDcklYbV9VemkyWkdqRVZDUDVZelk5UmExVTh3bFp6?oc=5
+- なないろ日和！【髪のお悩み解決★自分でできるヘアスタイリング…ボリュームアップ】 - テレビ東京
+  https://news.google.com/rss/articles/CBMikgFBVV95cUxNdlBLRXVReno5OWxRUndwc09JTTVYR1kwTFNtV2lGVVFUTWptQzA2LWJPYl9yWGFIRTQ0NWdOYnFZWVE5RkxNb0ctRjBUMTZHM1FyWmlGVHc0dHI5ZWJ6bTZsamdleUlmSWZoQ3VsOEl5LWVYNDFwVlVlZFRZREFpN3FlX2NROE93UTVIcVJkNXBNUQ?oc=5
 
-- 熊本市の妊娠相談窓口 上半期は2557件で前年より651件増加 複数の機関と連携し体制強化が要因 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1ZPLWMxNjFmb3lYRE9QRVBSN2lmTmJlbWxyYklISW9GSDl6VEVMUmNkSVhTU1lyZFUtRExBY0J5cm1CNW95Rm5WQmlodHhxa0pLTmNxTWhIN0hxQmZLZ0V1LUlrbGRBOFMybmZTTnJmM1kxS2NsZ2c5S2hyY3ZlSFdtYnp3akU?oc=5
+- 「声の警察官」24時間対応 道警相談センター 見えない危機、受話器越しに探る - 北海道新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jdkFNRl9iWnlwb09SWnNUQ3RJenRObHdDalhzQVYxNmYwYWFOMk5PRzBFZlRBR3JyUUZjTkNRWlhib00wT3gwQkZWbFdSd1BHN2VKTVluR25TUQ?oc=5
 
-- ～市民相談～潮見町・芦屋川河口付近の柵について～ : ブログ : 芦屋市議会議員 田原俊彦公式HP - 公明党
-  https://news.google.com/rss/articles/CBMi6wJBVV95cUxOUGJNUlNSZlFpT3hkMHlDeUlaUlFoa2VxTXlkSy15dEctM2dfQWVCMi1LZ2liMWptcXlEekJ2WTA3X0V4dGt0QjQxaE5NYzZraXJtX0pMR2FjeVcxOGhqS3VpYmtFWjVtUUl3NUc0b25Ndnk0RE1KUVRKUkxWX3VKSy1ZUzNOd1JILTVNd1hVZUpOcnVlWmVDVkVqQ0l6b3VSTk90VlN0RnZudERJeDdCYlVhVUFhenNFNXM0Y1huOTZhS2xTMFVIWjFWSkJfcG9UUjc1RUtUdGI5cWhkVVBmdVhNUGNqNVQwdGpocHNqemZUc2UtaXVIYTVDVTZxSzJSRVRrY2drY1RZTjJPRHlVaElEYjZkTUFIc0gyU0FyUDdWTjFwVkgxNHU3UHhROUs2cHg3LWRpTnc5Wk0wUlI5cnNEamd4MWlDV3FOekcxU3dtU01uV2RKaVZYRngzdjdfcW1qLXdaVkctUkU?oc=5
+- 日本代表・森保監督もAIに相談？アスリートや指導者をマネジメントするUDNが新社員「AIゆずる」の採用発表 - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fd0pSWmZieTdfd0thNHhmZnN4Q3RmMHdsM2J5Y3NTOE52MXlKRER4dlZwY05VeEhtd19BRk9zNFNkb2IyS1NWVHZCN1d2ZU13U1pOYg?oc=5
 
-- 児童虐待相談件数過去最多を更新 - 滋賀報知新聞
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBreTBGVUVnblQxVk8wSzNvZWxUSXZuME96dWJaRlI4ZFVXbXJlaWVITlkyZW5oUEJXaWJvdlhUb0gxQW83NURPUm96bnFvY1hxZGVScEs1eWlDOWdFOGc?oc=5
+- 障害福祉の相談支援に集中減算を創設 厚労省提案 中立性を確保 例外規定も整備｜来年度報酬改定 - 介護ニュースJoint
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0WGFWc3dXT2JqSjJ4bVZEZkg2YkVac0VDUENSU0ZHT1VEdEdnTDM0c0RaMHNpRXl3UG9tZDQxdXU2MmNGaFRPWDlfNGUwVUhxODduem5B?oc=5
 
-- スポーツ競技の不正、通報・相談体制を整備へ 自民党が議員立法了承 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE90UTlTWTJNaFA0WWxZcWc0eVAteXgzemNHS2h2RUFKQjhzSGlIWXlZT2lRT190NDQxSkxObnpPVVJiOUpyVjluT0w1YldqQkdDYVp3M0pUUzVqVGZkc3NQRE9aUU01RzM5TjdWcA?oc=5
+- 妊娠・子育て・虐待の相談窓口を一本化 24時間SNS相談も開始／岡山・津山市（津山朝日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5fcmdsNHlpM3JYUldJSUJVeTQ1NEhKSTZtNVRyRno1THRTZ016MUlOWkpUTURiSjhhQVVOLUJFVWlvSzF6VUFtNWFaQjJTcnBjZXFWT2s4czNFQS1iMlhJMEc3T3pGM1ZVRFJVZ2cxUHE0SHNJQjRRUXh0ci1LTTQ?oc=5
 
-- その暴力、見過ごしていませんか？～DVは誰にでも起こりうる人権侵害～ - 西日本新聞me
-  https://news.google.com/rss/articles/CBMie0FVX3lxTE1oQ050cEN5VDdrYXYwT1JTeTVSUV9ZRlhRN181amQ4UmEyUXUtWkVtNTBoTWlVVEFZQURqYmZmN05NTDVjeHVxdnNpbkJhYXJSSWd5QTE1M3lXYXhGaklGUk1uZVJnd2Y2aElQbTRoM3kwZ2x1NFREcHMxMA?oc=5
+- 男性1万人調査、身体の悩みは「薄毛・抜け毛」がトップ（健康産業新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE0yUTJkUmFzdEJZZWJYc2Y0LW5JdnpGNlFEeTlBQkNDRld1dmhoTVVDQ2FUVFNUX0ZCWl9JYWk5MHY1VXV3X0d4SFJrbkxMZWF5cURqWVZXSDA2SGdid0dpSUJROWJaQzVBWUtfQmNjejRwQnBpcW5fajV5YXhERWs?oc=5
 
 - 熊本市の妊娠相談が増加…2026年度上期で3500件超 関係機関との連携やLINE相談利用が進む - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSzNCOWtmY3BDRllnMmptQUxfTkpSdmxhTUpNZ3EzaGQ1bHpHd09qX1FuYzVNRmV4Nnl3aWE1RURVVjNRVmYwSGpNTWdSb092V3JqUlIxLU5SWDctUG5ZNDdQTU9WVnZLSUlHeGpFZnMwWkV4b1Z2MHQ2Z2N4bHc?oc=5
 
-- いつでもAIが福祉相談、「聞きましょ課」も開設 大阪・寝屋川で（朝日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE95ZTY4d0h5eUN1eWpyTlJvdTNyS0g0SnZ3ODhaenhhdGFZX05oNmxHVDkxSDhUM01fRm5WSnVxVXQya25la2lDUmx0RWdLbGlTMk1aeFRjOHh3ZnJsLWc1Qk03SEl1aEg2U2pucUt1cUVDcVNzZm5PRVYwZk5oRlE?oc=5
-
-- 保護者からのカスハラ対応へ、弁護士へ相談も 群馬・太田市教委（毎日新聞） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9paDAxdmRsSWwtME5CNlgzZlJ2TTFnRVl2SkVsMzF3aTRaSXJCcjBVWG5wdXl4cmV6eFp5LXBES2hTNXh2Yjc3T3lnLUFFb2J1cVVpbkZMeGZ3eWQ2aF96eURnRldSOEJKZk9jTWdLZFU4U1hwWXdFT2xSX09sSFE?oc=5
+- 地震被災者向け「復興住宅」来年6月ごろから相談受け付け方針 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE92TlgtWm9LVTY2UW1XM0drU01vLUVIck1qeDFqSTRudWo2MDR5Z2tndEtXTzh3LVVUYUI0UUloTzdEbTA0S3BzU1g4MERJNEVnWUE1WS00UWFOMmxBYnhv?oc=5
 
