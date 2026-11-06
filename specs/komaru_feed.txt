@@ -1,40 +1,49 @@
-=== こまる相談 ニュースフィード (2026-11-06 16:28) ===
-
-- 小6の養女と性交疑い、会社員の男を逮捕 帰宅した妻が目撃、警察に相談 尼崎（神戸新聞NEXT） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1CcDhKM3dzTjh5emdjdWRUN0xkaHVxMHkxb3NSV1BSTmlDUVdkYllYOWxxR0pDUnhSV3NmTFZLd292SENoeHh2dGJYVngzVDdFUWNUWWJpcEZtNnNCOUp5WXJUVTEyY0Jna3VjMDdaM2thVnFtT3lHSTF2TTl0MDg?oc=5
-
-- 令和8年度埼玉・群馬未来医療人育成シンポジウム、ふれあい相談会が開催されます - 群馬県
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE11UzJmelRXbnQxd3p1NndwV1U3dmdQcTZTVVFxZTFUc2NQVnNfSG5ScnBhWmNTTThEOHhPd3U3N3FUb1RGVXZNTThyUWFxaDNsd0dsci1pemJ1XzFhRWxkN1ZiVm0?oc=5
-
-- 第8回 入試相談会の予約を開始します - 埼玉栄中学・高等学校
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpM1hNMlBBU1Frc3hzSG4welRqX2Izb25DRTRZZ2xSdUE5WlFpeW01dU12LXZNSWdyT3d2LWlfM2U1OEs5ZU41Y2RXWWp1cVpYTWk2TXpkLVFmeU45X2djbG0tSUdBcUtu?oc=5
-
-- 昨年度の消費生活相談 SNS関係相談が増加 岐阜県 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xdWYtU0VDT01hQXBHWnZjNldlUFBRUnpOY2w3enM1QmNqYWFwN3g0dEFEcXF0cVVXSmxMWnRFbmJpd1p6VWNPeFdvcERnaGM0NUtib3NiQXl1b0RKZHJR?oc=5
-
-- 【参加無料】本番直前！中学受験のお悩みに答えます ウェビナーに矢野耕平さん、後藤和浩さん登壇 - 朝日新聞
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTE9fV21QZzMyWndoT1RLZXliRnBxRVZyVUVDOVhraHFoYzBTTHd2YzBkd1hSN1JodEhOOEpTR3dFcldicm9HSk9FS0dJSHNScnYtOWVn?oc=5
-
-- 住民と行政つなぐ「行政相談」の役割学ぶ 本別・勇足中で出前授業 - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YQzc2R2pQanBCZW5OdWNJUHB5WndGLUk2MEpUM0ZRSlFiRVZLb3phb3R6bC00VjJEbENna2JGLUVKSzVtcTA5UHFmVGdSNEVIZ2huSHRxVWVtZw?oc=5
-
-- 駅の個室でオンライン相談｜メトロ3駅の新サービス｜川ばたひろこ（大阪市都島区） - 選挙ドットコム
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE91T0JNQzBYeVo5RHdBWm14M29tR3g3bE12M2toSFNFNXdwV3c4dUJhZkg0elNlRnhRNXdPeS11M29SN0Jxa2VqYmFIbUtjbVdWM1hKejUteG5mRm5pSlI0?oc=5
-
-- 【広島国際大学】大学祭に生理や性の悩み相談ブース 学生ボランティアも参加 - 中国新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xOTRFOGpWTWFnc205b1AzSnlWeldfbmRMWkNxNlRJS0wtdzl4dmotZnl2TDlyZmRobWpUOUtWRjFqck96WGpKUnZfcG5EbUxQb2dvRUd6WDk1UQ?oc=5
-
-- 「エラーが出た」銀行窓口に相談 南島原市の60代女性が還付金詐欺で約85万円被害 | 長崎のニュース | 天気 | NBC長崎放送 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uNDZTbVJLeV9ralN6SGQxLU1LQklTOUxEWjFwOFd3aVdzcWUzMDFIZEk3d0llUmRieW1aR01xYm9VcWhueXI1OHdsQzNDZXMwUi15M0VtSnBjdw?oc=5
+=== こまる相談 ニュースフィード (2026-11-06 21:52) ===
 
 - 「敵に相談する人なんている？」厚労省の“悩み相談”呼びかけに〈無数の不満〉注がれた圧倒的な敵対視（週刊女性PRIME） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE8wdFJKR0otRE5QMlN2NWJpVFEtRXZPNFFFNXlCU09DQUlaZHJlSnh6cUVKN2RsS0dtR2FVX2wyY2FwNHo2WU5qVHBtOWhtMzFuWVNfUXk2RmVLNGVnenNpTXV6LUlpSHVpRVVnVnBBVlF5Xzk1ejZvd0hZWmhQLW8?oc=5
 
+- ひろぎんHD、「失敗恐れずチャレンジを」 社内相談制度で背中押す - ニッキンONLINE
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCdk52cXFPMkc5MEViZTZBR1NRUDVEYXhqU3JOajhSa2p6a0M0NFktUl8wSDFtbVJoeXV4ZVVrUUktdlhDTE12YTJVZWxzMFJURVMxS0Vn?oc=5
+
+- 令和8年度埼玉・群馬未来医療人育成シンポジウム、ふれあい相談会が開催されます - 群馬県
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE11UzJmelRXbnQxd3p1NndwV1U3dmdQcTZTVVFxZTFUc2NQVnNfSG5ScnBhWmNTTThEOHhPd3U3N3FUb1RGVXZNTThyUWFxaDNsd0dsci1pemJ1XzFhRWxkN1ZiVm0?oc=5
+
+- 7会場で11日無料税務相談会 沖縄税理士会 参加呼びかけ - 沖縄タイムス社
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5majVhYVlaNmJCN1Mta2taRkkyQ3ZISVJudGRkaExnRm9BMDQ0TXJqZU1XZzZ4SER0MUU0aVdaU0hWTk5mR3dHcFlMTXhOR0hUMTEyRDJ2NjZ2VFk2RlE?oc=5
+
+- ■東京で移住相談フェア - 琉球新報デジタル
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrdV9JTkJ5OGZDWVFZRkh0VHVNRGRrOUhQdDJ1c1ppNi1yTElCQnNISGF2U1pLakpCZ1dhd1R4aXNDQXpvYURNSTVTLXhlMlQ4XzN5Q1VmeU9LMFBnMjdyaQ?oc=5
+
+- 昨年度の消費生活相談 SNS関係相談が増加 岐阜県 - NHKニュース
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xdWYtU0VDT01hQXBHWnZjNldlUFBRUnpOY2w3enM1QmNqYWFwN3g0dEFEcXF0cVVXSmxMWnRFbmJpd1p6VWNPeFdvcERnaGM0NUtib3NiQXl1b0RKZHJR?oc=5
+
+- 第8回 入試相談会の予約を開始します - 埼玉栄中学・高等学校
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpM1hNMlBBU1Frc3hzSG4welRqX2Izb25DRTRZZ2xSdUE5WlFpeW01dU12LXZNSWdyT3d2LWlfM2U1OEs5ZU41Y2RXWWp1cVpYTWk2TXpkLVFmeU45X2djbG0tSUdBcUtu?oc=5
+
+- 住民と行政つなぐ「行政相談」の役割学ぶ 本別・勇足中で出前授業 - 北海道新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YQzc2R2pQanBCZW5OdWNJUHB5WndGLUk2MEpUM0ZRSlFiRVZLb3phb3R6bC00VjJEbENna2JGLUVKSzVtcTA5UHFmVGdSNEVIZ2huSHRxVWVtZw?oc=5
+
 - 求む！ゲーマー学生 悩みに応え、就活イベント開催 - 朝日新聞
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PWC0wMFllOWRMa0hxdHhSYWI0b1lyX21RSHl5d2FITjIwVUpmUDktMnJMNGI1MGZOUmJiLWdaNmhEbTJqM21halFibVYzZGo5OVRBWF9BVGF3N1d1?oc=5
 
+- 小6の養女と性交疑い、会社員の男を逮捕 帰宅した妻が目撃、警察に相談 尼崎|事件・事故 - 神戸新聞
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE95Wkx3NGlRcEhvV2xZWUNjRzBpcUFtS3NhdXhfT3lFWXRZTkI0ZXNOS3hhR2R4UE1iQ2xzRVpSdHJNS2l1blV2bjJCRFdJQVhuNFVwbVBPZ0J0VmF4SzEtZjJCYzVMWjVLdGtN?oc=5
+
+- 【広島国際大学】大学祭に生理や性の悩み相談ブース 学生ボランティアも参加 - 中国新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xOTRFOGpWTWFnc205b1AzSnlWeldfbmRMWkNxNlRJS0wtdzl4dmotZnl2TDlyZmRobWpUOUtWRjFqck96WGpKUnZfcG5EbUxQb2dvRUd6WDk1UQ?oc=5
+
+- 駅の個室でオンライン相談｜メトロ3駅の新サービス｜川ばたひろこ（大阪市都島区） - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE91T0JNQzBYeVo5RHdBWm14M29tR3g3bE12M2toSFNFNXdwV3c4dUJhZkg0elNlRnhRNXdPeS11M29SN0Jxa2VqYmFIbUtjbVdWM1hKejUteG5mRm5pSlI0?oc=5
+
+- サイバー攻撃や個人情報流出などの相談窓口について - 葛城市
+  https://news.google.com/rss/articles/CBMieEFVX3lxTFBQa0NmRW9KdUlhODZheHFuT05KZFpqUV80M1lRa2lITG8zTEs1eGZUNjFpY2ZSbVZoX3lqR0RFTzQ4amRkZEpkeTI2Y0lpd3dGUFdJLUxEdl9fREVHSGVUT3ZRUk13T3pSVlBqN3h4S2RuN2hZYXlqbQ?oc=5
+
 - 職場の悩み、無料で相談 大分県が８日まで集中労働相談 平日夜間や土日も対応（ＯＡＢ大分朝日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9lZThhaVRqQTU2MldzTk13enBEeXRBd205R1AxREVBc0JlbHNlR2c2NVFiVDNRd1I0X2lMLUpFS2FCN2ZCcHE3STBfOEFfcjhva1ZoYWhvMWJORkIyN08td29WRURtbGhvbWFhenZjTGpSMlJYTUJNU0FGaGJRdXc?oc=5
+
+- 【参加無料】本番直前！中学受験のお悩みに答えます ウェビナーに矢野耕平さん、後藤和浩さん登壇 - 朝日新聞
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTE9fV21QZzMyWndoT1RLZXliRnBxRVZyVUVDOVhraHFoYzBTTHd2YzBkd1hSN1JodEhOOEpTR3dFcldicm9HSk9FS0dJSHNScnYtOWVn?oc=5
 
 - 【ソフトバンク】上茶谷大河「一番相談し、一番真面目に野球の話をした人」移籍の東浜巨語る（日刊スポーツ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFBPd0VZOHZ6emtBMXBWdllDWDh4Z1BOdnQyZWNSeEl4N2FKQzRqQnZ1N3lTc1pmUzAyUUVzU3J0NkJNRWZBRXpHRXBrMS1TdkdwVkpZSkUyY212YUxTQnAxVEhlOW9WV2h2SXRXd0lmNFV0ZjZpcWJ4dS15X0ROQk0?oc=5
@@ -42,21 +51,12 @@
 - ニューヨーク、『彼女が僕の友人に会ってくれない』悩み相談者に怒り⇨「別れた方がいい」VS「皆で仲良く」賛否 - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblpyQUZEN01jVGFieTJhX1FtY1dhTVlLX0tralB3QVRkX2ZuaHNINHlvWDQ3OVFpU0tIYUtkU05zbGNtci16YlRQYzFoeWJBSFpTdmd4bWg3UDNGMzE0bHZpem9vbk5JcVRGVzBYdXpOdmtuZUdqUjRUcFRFVFRjSjZETm5xVUlD?oc=5
 
+- 小6の養女と性交疑い、会社員の男を逮捕 帰宅した妻が目撃、警察に相談 尼崎 (神戸新聞NEXT) - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1p2SW05NmxZYlZvOG5sVGRQRjVHMkl2dUZXUnJQTkthNVpqVTFrUk92UmtWSWYwRzZkdk9YQjAwV0U0WkstQV8yVXltdHpTWjAyaUk4RVNxRTNyTE9xaUV3bzU2bzg0blJTRjRtYTRyQ29ERldQMmtDTFotTWhvWE9CN051U2E2VGtiVWRR?oc=5
+
 - 訪販ホットライン、健康食品の相談件数が増加（健康産業新聞） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5SQUZXSTUtY1lRUzJyUmxNWU9YamQ3VTNHdXVZWG16eFo1d2pyVnE2N2xTVjVMZGp6R2dfUkhpUUNCdms0UmYwb1VydnNNUTM2ak9DeUtWYzJ3YklmQk5ISXZfNUZPMUZHcGYwUXZsbGJEYW9qMWNNQXcwM2NaYkk?oc=5
 
-- 中川安奈 「ずーっと引きずる」タイプ “脳内反省会”止まらない悩み相談に「めっちゃ分かる」（スポニチアネックス） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1USUtaSDlLckpyX0lMR1c3M29EWU1WOWU1MkZuWjlqemlUVVdIZURZTWx6WmJ6RGlTZkZWblNiN1BNT0hmM2V4dVNXOFRWY2JITVdUTVZTTnlJMkVYSWh4SXhudEFuallxWU14RERncURQd19URFlHdnptOERWR2s?oc=5
-
-- 「エラーが出た」銀行窓口に相談 南島原市の60代女性が還付金詐欺で約85万円被害（NBC長崎放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5MNWhIbHNKTXRGODVQeGdzaGhSbS1ScVRvV1RscWtSRFdJaXMxM3llb1JSVDlHZlRPSHJqQ0JQMDgzZU1EdGFEdzU4XzRoS0hGWE1iY2Y1Sm1sTWlFeE1lS3Q5RTFUbDBCcC13UmJ5RTlLNml5REszSFVwa3RtLTQ?oc=5
-
-- 「困った…」信用金庫のシステム障害 熊本県内4つの信金で取引できず（RKK熊本放送） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBkT3FlNXZzeHlIQl9MQkFDVVBWdHYyNloyMXdzdU1GdWhsNmQtalVVY3NWdEFRaXM0RWpHUjk4Tm1lVHpFcElQRzlvWVpqa0V4b3VSTWRtTUZ3OVNCYlU3LUhRMzByaEhuUXdOQkhCNDg1V05id3VzLWJSREpzTU0?oc=5
-
-- 何年も同じ悩みで、美容室の帰りに落ち込んでいた女性が、カットで見違えるショートに（LIMO） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFB0cFNITUhCN2ZhdWxoVThSMkVuY3BldDM3SzV2RG9PR3hac0dVVGVtMkNzeFFpclNwbmxIdXhQZDNTVDhadGdSZy1pNGlJQjRxVWpHNF8yMXN6NFRrUzJRWm80RnJ2dGQzUlpCMVVmLW4xamJUWlBkbkM1cUlub1U?oc=5
-
-- 京都府で「介護の日」11日に無料電話相談開催へ 「切実な相談」に専門家が答える - 京都新聞デジタル
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE53SzBvbWNQelBSd0Zrcm1GVXNmYlZaanZGVERNaEduTlI3MWl0SXhyalZYOXJBZ2lMQ3ZDNGdjY1NEbTRlaDFic0RuUHBJZXdnTkRIdkx1cE8?oc=5
+- 「爽やか美魔女」人気女優51歳、髪の長さ巡る悩み明かす「年齢が上がって見える気がして…」 フォロワー「30代」「そんなことない」「わかるー」（中日スポーツ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBxRk55clNCSU5qSVBrMzhvWGtPc3F1eFIwS0lJX0VWZExqVTl2SHBsaDUwbm5tZVhySHFFZkFrRXhWRlN5eFp3NGZtdFVydHNYTXRsSGh1WVpuVmNuMXBxQ2E1NVJKSXEwb3dCWlJ6NnNuZ3dTbDFQaXM3NG9JNVU?oc=5
 
