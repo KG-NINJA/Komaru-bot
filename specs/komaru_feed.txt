@@ -1,7 +1,13 @@
-=== こまる相談 ニュースフィード (2026-11-13 18:55) ===
+=== こまる相談 ニュースフィード (2026-11-14 00:03) ===
 
 - 令和8年度兵庫県DV被害者自立支援相談事業 - 兵庫県
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWFp6VjgwZUZFNDJKcS01OVBiSDhKT3djejhVNnQ0QXBSTWdaV05NRVJJUmhhaWhYejhHb3d5dGlMdUJNbExIdnVyWFk1V3l5aUNTV2FfUkh2V29MUFI4NQ?oc=5
+
+- 性教育サイトを若者の相談場所に 「セイシル」運営 TENGAヘルスケアの福田眞央さん 国際男性デー 悩み、聞かせて - 産経ニュース
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxPT291VHkwSHZQQ05TQ2pydWYtLUFwOU55bExnZDk3UUI3bS1EQWdWUjF2Y0MtZ01QYnlVZ3l3QTNuX2MxVGVaeGFNQlZtUjVtLVVWVWo1TW9YUTB6OGV6RllmekdONHVmYVBiWHZUWklPeGkydHlaNXZ5dEJyRmdtaDBZVjFqU0RTYjRuaQ?oc=5
+
+- 児相への虐待相談、25年度福島県では2197件:福島ニュース - 福島民友新聞社
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wVFRpbzZYeFM5WEt6c1o5MUhOMkpKY1dBblRQYmY4Y3ROUmdjT0hoeW02akZNUzVncTlaa0RkekJ2UnRHS1NJTjg5dUZ3eUdjdTIzTk04Y01OT2RBQnRNM3BUZnRNMjBD?oc=5
 
 - 「子どものため別れられない」ＤＶ・性暴力の相談高止まり ＳＮＳ被害も増加 大分（ＯＡＢ大分朝日放送） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5qcnlpM1ZvQW54SEZ4S2hFLUl1WVYxck9xX042YnFZZFR6VlFMZng4RjRFUzB1ZTkybW9BNGE2ZXB2cVQ1VmtwWmxOTnJtaVdPYmt5eDJaNmtpQmNDSngtYmh1OGVCM2laeURtanRhRWpyaDdPb2k5WTNSMmxmYk0?oc=5
@@ -9,23 +15,32 @@
 - 労災や年金、無料相談 26日 藤沢駅南北自由通路 - タウンニュース
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKRHpCSGlHdzNQSHVqTDZ2QVZtTjE5THVDYkE1WU56dEpqXzNNSzZVRHJ1c1BxdHRPMjhqcHFBclE2SWNEQzhfQ25Ra3ZNajU5OG5vS3FfQlZpUGxWX2x6aGtQN00?oc=5
 
+- 新潟：悩み相談ＡＩで気軽に 新潟市が実証実験 共感特化、依存対策も ：地域ニュース - 読売新聞
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE05YXFaVVRjVVl1OC1VWkFRUllOS3FwbTRGSG9SeldyTFpNN0ZrRWFjVjViWHJNLVVQR3RsSEtXQkZNRzN2UUF3QVRlVFZGZzVBSVI1d3hzWFIwQklMSWR6dWwwWk8xR0xfdUdVS1VFWnhCNTA?oc=5
+
+- 伊賀警察署だより 犯罪被害者支援 - 伊賀タウン情報 YOU
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PU2VyWWNVZ0Y1N25kbTJNT1NCOW5MMGhuMVJmMzdDcEZ6Z0RzVEdIVzhVb3ZjVWxvV293ZjNvU180LUlrUmRiaUcwcFQ1czYxRnpyMEFtTWhaSDg?oc=5
+
+- サイバー攻撃 セキュリティー再徹底を 相談窓口の周知も 県ＤＸ本部幹事会 - 株式会社 北鹿新聞社
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE04RDVvNjJGUDZZdlIta0dpaUV2WkgxTFlZd2NwUnVWWERQeTFTcUVITHgxWnlmRnhpVEQwR3RyMVZIbFgxcjRCVFRkVXlrSmxCYkFuMHF1a0ViOXp4ZlRmRFJpTEs2V3NhR2hyamxrMUQxNVg0?oc=5
+
 - 熊本地震の被災者を支える相談員の研修会 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2M1dIT1ZsY1Z2c0x4ck1oUXRqVnlhQ1U4RHkySzFKUGw3dEgySkJjc3hxQmVzTnRBMU8yclVRVUxLWF8tWHZVSWhfRWh5bVRBLTlNNFZOTE1wZ0hJcGtV?oc=5
 
 - ソーシャルワイヤー[3929]：「Find Model」自治体・観光協会向けSNS施策相談ページ開設のお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
   https://news.google.com/rss/articles/CBMizAFBVV95cUxPdXQ2THB1NE1yaE1PTFk4UXl0Wkk0d0tjS1FFUUEySFdVMzh4dlQyUG9WQXA5ZmVKT0Q4TnhlRy0yYldiS1hJLVZpWkx0MHpjbVVOb1ZWUGNhQnRPVHVmbDRoWFpMTVBZMXhXSUt6ZjFxQXlCN3pjcXhTRzZfZTE0V3hxUHQyTHVJLUZkX1QtZm1tQkZBc05KS3ZVWXFDSGVsd0taYy1fMXhCUzRCd20tTWV0dEMtUmt0QUV5d05yS3dDSUlxbzAxZXBnaVA?oc=5
 
-- DV被害の子どもたちの心に寄り添える相談・支援の場を作りたい - CAMPFIRE (キャンプファイヤー)
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KUTVQUG5MUXFFSDBuejhMTWlzQ3FvVzlSeGNMUDJkWS1lQi1NNEU2MnFPdm5wNHlaX0VNeEdjeXlMR1J5QnRobGdPRVhhLUpMY040?oc=5
-
-- 悩みを抱えた人たちを支えたい🌱地域と福祉の専門職がつながりづくり - note株式会社
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HdklUQlNZTFQ2VUtoNzM0LWJobWxhbWZZMGgwOURmWG5raUNXWVNMMjlhc2NFVmZoMkR4ZG9jaTNid1lPUzlZOUVPRHYtWjVSci00b1U5SWNNZEE?oc=5
+- 福島県、移住相談全国２位 2025年度2万1524件 - 47NEWS
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE10S2wzdDNRbXdIWUIxcTBzRDNldWVMRS1yVlFvV2VVT2pjQjdSQlBHcVotU25rMFp3RUFWYUdyWExLT1FxRFVHbVBZVQ?oc=5
 
 - 「くらしと事業のよろず相談会」の開催について - 宜野湾市
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaFM4ZGJ4QTU2RGRzNzg3NTJKd3FQN2lkdnVNdWgxZzlTc1ZDNlIyVjU0eVBtYkwtanp5OEJ2dEJJT1piZFliV2tSTXBYN3VEejRKaF9aZUs2STlTbFlOX2lpYmZsWWR5alE?oc=5
 
-- 市は「通告した」児相は「相談を受けた」救えなかった男児のSOS 関係機関の受け止めに“食い違い” 福島 - 日テレNEWS NNN
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxORFpKUG9tMFNBUGNra0lNdjVyd3E3bF8xblF0RlJfcmh5X1l4a2pWQkRNY3BYWl9hMnh0d3l0QTZPbElHYTJqbDMyMXFpMVVfWW9wOGxIbmV4cTItMHhKSVNuSDV1cENnNjJSMEp0WWFuRHp0Nmo2MGpWTTE0M2phVXVXVkJvb0k?oc=5
+- DV被害の子どもたちの心に寄り添える相談・支援の場を作りたい - CAMPFIRE (キャンプファイヤー)
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KUTVQUG5MUXFFSDBuejhMTWlzQ3FvVzlSeGNMUDJkWS1lQi1NNEU2MnFPdm5wNHlaX0VNeEdjeXlMR1J5QnRobGdPRVhhLUpMY040?oc=5
+
+- 隣人の男性に〝子育て〟を口出しされたら？ シングルマザーの悩みに回答 距離の取り方はどうすれば（withnews by 朝日新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Y21Eb3NSSmdHVUUxODRuc1U1dUhOUnUtUzNLVEo2b2dseURzd0VEdTd0b3dEZnJ0N2xxMmtIRC1GdC1tbDZhYUQ1d2RNaktBMHhPc1N0SWRtX3hCMjZOdkQ3NURmZUlzZTRKNFBSXy1oclZPZFdKR2F6NVZ5dnc?oc=5
 
 - 大津 子どもを虐待から保護 児童相談所と県警が訓練 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHb3lhay16Yk1sU0dQYWxTVFZfTHRhYUJRTjkzdXFuUGN6bmtEVnZpOEJoVjhGU1RIbGFxbjZKeTNNR0NmUThvWkJ6UzEzcVVOZWhvYy1ydDhoeTNJcTU0?oc=5
@@ -33,30 +48,15 @@
 - ソーシャルワイヤー[3929]：「Find Model」訪日客向けSNSプロモーション相談ページ開設のお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
   https://news.google.com/rss/articles/CBMizAFBVV95cUxQdGh3dTMycllVNzZITVdxU1ctVHBIMDdlc01UX3ZfNjY4elM5VUR2RWFUdkRfcGFLa2k3RU1YUjdQcEp5VnQ2eXdwQ1IyZ1lucWV0dW5WQ1JITTk1U2cxVWxHTVZaX2dXOUU3ZlRQWUxFS0hkTnpCSGhqOUNrQkNxUWxLbm5xR096ZGF6ZDBpb3BRRWV6bFhTcFM4WS1XUEFQUmRlelpWeGNyOTBRUENVQmlnZ1BaYUxQSVh4anpNR3RESDQyY1NkUmpsNUc?oc=5
 
+- 「性欲は本来、悪いことじゃない」寝たきりの難病男性が訴える知られざる現実…「実家だから利用できない」「誰にも相談できない」当事者たちの苦悩（集英社オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE41dC1pcTBkQjNQNmpNbjVGMU8wZnowSlRWaHN1RC1PcExmUDVxaFpPUFg0NjliNWh2R2h6X2dNUGZoNGhPT1hRVUdkWDlkMkdscm5hUGxPREt1YjlycThvSXJEbDUzMWVNb1FKdkp1eENHdkxhV0JnTE5uSTVlMUU?oc=5
+
 - 名古屋で進路相談会11/27、県内外の大学・専門学校が参加（リセマム） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5tNjZxdkxHcno2by02Vi0zNmZsNUJ4X1JFX0s3MzV4OTNVdkptZjJBOUpDc3JrZmxOanBoaGRERFpMXy04TVkxMnl6VEc1RnU4dlZQeHpNQ3FyclFldGlMZ1FyU3NlcHZNMk5zdWxvNW9xZG9sQmJCWlVIcUc2eVE?oc=5
 
 - 子どもが悩みや危険を相談できる窓口を知っていますか？ - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXOE1WQ1VhSU8zeXhicHhLdTlxS25UOHRtc0twOGQ1TjJKakNTUHJMNDQtY3ZRTzZ3eFdDbnpmU3hjT29FcER5MVZoa3Y?oc=5
 
-- マイクロソフトの障害 メールの相談や課題提出できない大学も | NHKニュース | マイクロソフト接続障害、ＡＩ・ネット・ＩＴ、アメリカ - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjc3hIcVhhNWk4QlRfSzY2S3dHWmtVdUZOZTlJU3NUYkRZSFU1VFUtc3hBQXM5bU9qcThQbmMzWUhoLVJyMkRyQWRXLUM1T3JnQWVoOGVQYVNwUUVJUGhV?oc=5
-
-- 広島企業の悩みに処方箋 全国のスタートアップのピッチイベント - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1tcE96aEFXT0dJWVJzNzE1UFlvNW9tT0x5RVlmdE83bVNDa2JLVW52WW83SDNMTGJZVFdlcWxycC1MWkVWcmhIaTR5VlhWYU9YYlVvcTZhRWluUkNoX2diY0hNZzlPbURFZWtwQQ?oc=5
-
-- いわき 男児暴行死 市は同行要請も県児童相談所は同行断る - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oWFROVGEzdEtwbHJxMFBaTWZ5ZkQtVGVrUnd0M1llRWllNWtEanZJVmZINzJmczR5T0gzMzV3enVaNDRhMlJ6Yi04Z0pnZGhTUjIyZHdFLUE0Tks0bGdr?oc=5
-
-- 児童虐待の相談が増加傾向の佐賀県「社会的な関心が高まってきた」と見解…暴言など心理的虐待が６割で最多 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5USUVZWXpucGNOMHVYeU5BMFExVDU1SjJ6ck1iTkFIUloyS3FVREJZM1lnREpfbU5MMk1Uc2pQV3VBSEd1NGxBZ3VsNW81VzB3QVhXcWQ5S3lDMjI5RUc5am5seGJ5WEJWUFZpV0g2ekhIeVpDLTVFRXROVDM0TFE?oc=5
-
-- 被災者の生活再建を支援する『地域支え合いセンター』の相談員養成研修会【熊本】（TKUテレビ熊本） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBSeG5QZ1laUjdoLUc2MERQdktvY3l1WDdzbG1laEZmNlZkdERsejd5SEd4ZndoN3FXMU9NLWJrdEpHWDJmWUJWa1BLdFVac0VrZ1laRC1WcmZuV3hzZUFKUVF4WklPNHM1Y1otTXI0ajRnVWc2Mno1ZDZrZzUtcUU?oc=5
-
-- 移住相談、最多44万件 25年度、情報発信の強化で（共同通信） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE41X1VZSHhLelkwQ19XXzZYUi1JTndMdm1oeW9Mc29GRnNLME8yOERQMjlhelBXMnh1UlpfZU4tLTJvSTU0N1dvZFZ5NFBtZTFIOE5IUjBvUFJZeDVOLXhUUnFxRy0wdnkyc1lDU3l4V1M3SmV3bDlWTFZUdHd1ak0?oc=5
-
-- 内定が出ても消えない就活うつ、相談相手1位のAIでも救えぬ不安 - Forbes JAPAN
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE50eU1iQVdnVXZLbHp1c0lEQXExWWhqdG41VUx0bm5UY1k2NXFYQXJiaGthR0czRGdXOC0wMFlEdnV6ZkhrbzZrWTBjdFFnYk9hNlFlSmQ1SGQzUQ?oc=5
+- 市は「通告した」児相は「相談を受けた」救えなかった男児のSOS 関係機関の受け止めに“食い違い” 福島（福島中央テレビ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1ETGdCUHpzcTVQNW9KSHZCSy1YaGE2YnJqSGhsUkRSYTRhM1JDY3JJOGFyRm1fMXRWYlAydUNHTkJYUU8wck5WMEZoeGE3VTZydHBPQWpTMEpieFd2WkxVeVpTTDd1V2ZqWjFFY1d6dUJNTldyTW9WTnhKdnVmMUU?oc=5
 
