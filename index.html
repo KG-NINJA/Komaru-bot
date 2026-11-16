@@ -3,33 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>相談窓口</title>
+    <title>簡単お弁当アイデア</title>
     <style>
-        body { font-family: Arial, sans-serif; background-color: #f0f8ff; color: #333; }
-        header { background-color: #007BFF; color: white; padding: 10px; text-align: center; }
-        footer { text-align: center; margin-top: 20px; } 
+        body {
+            background-color: #E0F7FA; /* Calm blue color */
+            font-family: Arial, sans-serif;
+            color: #007BFF;
+            text-align: center;
+            padding: 20px;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.8em;
+            color: #333;
+        }
     </style>
 </head>
 <body>
-    <header>
-        <h1>安全相談窓口</h1>
-    </header>
-    <main>
-        <h2>お困りのことがあれば相談してください</h2>
-        <textarea id="issueInput" placeholder="ここに悩みを書いてください" rows="5" cols="50"></textarea>
-        <button id="submitBtn">相談する</button>
-        <p id="responseMessage"></p>
-    </main>
-    <footer>
-        <p>#KGNINJA</p>
-        <p>#KGNINJA AutoApp</p>
-    </footer>
-    <script>
-        document.getElementById(submitBtn).addEventListener(click, function() {
-            const issue = document.getElementById(issueInput).value;
-            const response = あなたの悩みは:  + issue +  です。専門家に相談します。;
-            document.getElementById(responseMessage).innerText = response;
-        });
-    </script>
+    <h1>簡単なお弁当アイデア</h1>
+    <p>育児を楽にするために、以下の簡単なお弁当アイデアを試してみてください。</p>
+    <ul>
+        <li>おにぎりとたまご焼き</li>
+        <li>ハムとチーズの巻き寿司</li>
+        <li>季節の野菜の炒め物</li>
+        <li>フルーツのサラダ</li>
+    </ul>
+    <p>このアプリは #KGNINJA によって作成されました。</p>
+    <footer>#KGNINJA AutoApp</footer>
 </body>
 </html>
