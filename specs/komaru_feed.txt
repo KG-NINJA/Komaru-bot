@@ -1,4 +1,7 @@
-=== こまる相談 ニュースフィード (2026-11-17 13:58) ===
+=== こまる相談 ニュースフィード (2026-11-17 22:01) ===
+
+- 「キャリア相談はAIで十分」若手の1on1離れ レバレジーズは指名制を導入 - 日経クロステック
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9JSVVTQmRJN0VTamtPUnRsYWxlcTAzcng2LTJ4WXRMTWFRc3R2djdxY3A5ZlhnSHRqdkZTRHNkTy1Pakw3cXNIMWdGX1JxMWdRU0VsRW13M1JDcjFMdFRqR1h0b3BzMWxjUVFnYw?oc=5
 
 - 「北アルプスの麓で暮らし・働く大相談会2026」を開催します - 白馬村役場
   https://news.google.com/rss/articles/CBMikgFBVV95cUxOamY1clJNZDlQVGhtcFJHWFk4S2NvWE9tRTJ5bG1TZHM0NkJxSDN1YUhWaE9HQURQYnktQTBfQWVYRE11OEpPMnFBSk5ZRGVvcy1SRGIzTWFhMlJzcDZIbEo5TDFhdnA4ZDdBVE5WOGRhX1lXejFKZV9Nd1V3cjdmVExFQTBabmdaSjhUdWIyV3pSQQ?oc=5
@@ -6,57 +9,54 @@
 - 児童虐待を防ごう 静岡県警と児童相談所が合同で研修を実施 昨年度の児童相談所への相談は３１１８件（静岡朝日テレビ） - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMif0FVX3lxTFB6RlI0bWdaSmtWZl9laEpHeVlRUG5mb3pta1Bic3hPNnRudEJSeTFDNlpVdXZLMnp3VmNCeTNqellsaDB4dmFIRlo0TG9HOVl0Y2ZIcV9EWlROa2t1N0dEU1UzSU43akc1UDNwMVJOYVJuRi12eDhLRUx0RVBKbXM?oc=5
 
+- 「2026私立中高進学相談会 in 御茶ノ水」を10月12日に御茶ノ水ソラシティで開催 ～ 各学校の入試担当者による面談形式の進学相談会 - Digital PR Platform
+  https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBaZDMzc0h0cldKNmFaN00zMGR3QVBqTkM3WG1qN25raDFLUEluRGdxcUY5bTVUWjNuQm9UUkVMM1llZm8?oc=5
+
 - 【速報】「リスクを見極めることができてなかったのか、ここは非常に大きな問題」大阪府・吉村知事 3歳女児死亡 約7カ月前に府の児童相談所が「虐待の疑いがある」との情報把握 - ktv.jp
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GOUgxc0p6SFJtaG5FZEl4WjNPelhhc3dqa0hnNVVRc3dRUkpYaG9lTHNMU0FTS1JJY1I4NTJDcEJBRFhLanJNc2x6VVFZZzUtblVaNA?oc=5
 
 - 地域への積極的な周知で、相談機会の活用を呼びかけ 第六ブロックが無料不動産相談会を開催 - 東京都宅建協会
   https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2UXNNdjItcGc5MzN6TFpDU1BiQVI2OHd4QWowUkQ2MDc5ZjN0Ykhxa0FWaGs1LVdDM1N1bXgtaDFOc2VVTFlmRm9yQmRPTVliMGJjY3l4QW5la3ZoYkE?oc=5
 
-- 「2026私立中高進学相談会 in 御茶ノ水」を10月12日に御茶ノ水ソラシティで開催 ～ 各学校の入試担当者による面談形式の進学相談会 - Digital PR Platform
-  https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBaZDMzc0h0cldKNmFaN00zMGR3QVBqTkM3WG1qN25raDFLUEluRGdxcUY5bTVUWjNuQm9UUkVMM1llZm8?oc=5
+- 外国人材活用 焼き菓子など製造ヤタローが相談窓口 日常の不安にも対応 多様性を社会の活力や成長へ - テレビ静岡
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfT3JVX3NhcWlFTGpDMDhsSXp5T0ozZW9fbXhySnJpSExERGxhYmdINzVHMWJMNlJCTmlDWVA5b2cxZTZqTE9IOGEwM3pUR281c1N4eXd0UnZZQ2Q5bFhqbGxSMA?oc=5
 
 - 児童の虐待相談件数が3887件と過去2番目の多さに 前年度より137件増加 新潟県 - TBS NEWS DIG
   https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKbDBZN3VaQVBvM2h6VlZSNGhvaC1GMllXNDlKdmdlX29Jbmw1SWNwTVlnVXlmM050ZnFzMTFPSGY2RXJDblJiRFB5LUlCV3FJV0NUR0doZ1htdw?oc=5
 
-- 「こどもNISA」で事前相談やセミナー、埼玉県の金融機関 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5tWXdOYUJfRmxHb1FvQlI3NHhUZ25IZWp1WjItMUxRNlJpaWgyNFY3cEtVU1djOU00UlN4dEZ0Zl9Mdm9NNGdvLWE4YXR1MVVwWk40TTJFbWdlU1FGcXB2bG9TN1VXeXNoMmZaVg?oc=5
-
 - 保護者の孤立防止へ 相談窓口のハンドブック 佐賀県教委が作成 - NHKニュース
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnSkZFT2p0TTZYMWd6anpZRDg2T1paSjlHcVA5S2hDMkF0d29MY080czNYTGJuVXYwaVNveWtTdDVJeDZYODVWN0pxTWgzMnhxWXdEUDZtWXk1UV82S3Nj?oc=5
 
-- 東京都、健康食品相談18％減 8月の相談2,249件、前月比7.7％減 - ウェルネスデイリーニュース
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QVTh0ekJVMFhnTUhmZjNhdUhTX2VMU2wtYlAwbVdJWUcxaEtMemNSdFJMaTVpal9DLXhlOTIydW1VblZBWi1pQlFpY2hwenNScmFPSVZR?oc=5
-
-- 検索から「AI相談」へ変わる購買行動。LINEヤフーが発表した「Agent i」「AIモード」「新広告面」など【2026年最新】 - Web担当者Forum
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NcndtRjNxSjhEZFdpZzB3NVpuSUxobUNjTTlMT2otOGVXdUEwa2dYRXdEeHEyenBDaVFBbk5EcnVTX3VsRjc5azVFMHlaTUpCenNFTmJCR0ZZNm8?oc=5
-
-- MAZZELナオヤ＆DJ KOOが悩み告白、国際男性デー特別企画「大久保と男が吠える夜」放送 - ナタリー
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uOGVONkJnMFo5bTlFLVVkY2ZXSW1JaEFIa19lUG5IanIzckJZZGgtUVQwd0syZ1NDUExZYzROMTE5WWRESmVOMUhWS3Y?oc=5
+- MBSD、AI活用とセキュリティをつなぐ相談窓口サービス「Secure Counsel for AI」 - クラウド Watch
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jckhHVmYtRl9OekpHMFhxd0JaRVVQcDZpMzZoeHMwUW0yLVNIbGlPa0JlM09oelhTYVZjVEhhRnc0bTRFY09NTkJSdVN0Wm90UDNZVlZaS2JUM25jWEZhRFh6TGtLQU0?oc=5
 
 - 広がる「女性専用」ジム 特有の悩みに対応、利用者2倍の事例も - 毎日新聞
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE16UTZXRHVqblNVWlJzX21fZW84TmI1aC1OYXlMVkUxcDR0NVdEM25rWkVFQkl6alljZk4zUHNMTGpqUlNrNkJ5RmNtR1YzMWpfRGZ4SVNaZTYySTlhY2dzMzZOOWNDQTQ2?oc=5
 
-- AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査 - ITmedia
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZjRxdDFYcUVUN3A4UHY0Q2toSzNCQTBSQTBDRHRBR1RiVzktX1VWSENHTkUzM2FYT1A1MXREQk94NGF5Mjg2THZHX01sNU4tcHFZdGpORWo3cmtVWndaYnlTU0dGa3VPZVE?oc=5
+- 移住相談 最多４４万件/２０２５年度、情報発信の強化で - 山口新聞 電子版
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRzVLN0xfWVR0UUtrRUdZYXlENVR6ZHhYcFRGd2psR3JZVk1HVkcydDVEUG5zREZpLXgzLWtzZHJFRDRWcVF6eVRUYm5pd1pOYTlKd3BaXzZRWlNOLXp6bGtUNjZqbHNNc1E?oc=5
 
-- 令和8年12月4日特設困りごと相談所(人権に関する相談) - 広島県府中市
-  https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDRYX2hjX0tsUkg0Tl9YbFVlOTV2eEVFU21qMlpVXzlOZlRLMWc4bm1POU1HR0h3NGttMHVILW04al9kQ2lTOC1zc3QxNmZucWwwcGYwdEpQTlRoVE1JbjRyXzVTREM0Z1RIdzZLcFlULTBQUV9hY3cxZDlIQk1sSzU5c3RMVE9Semp2QkYycXBSUUR2V0pJQWJTWFdHaWNGckJoUUJuQlBGZnl5Q3dEQw?oc=5
+- 採用や育成の悩み共有 札幌で「出張人事図書館」 - 北海道新聞デジタル
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrUjdoRzBRRzV3M2hobmZFQ1pMcmVNYUNDaW1MRUpVeERsTGtDSVdzcWlmU21oWHBxdldfZGhSNWFFSWRyS3JDX0ctaUE5VlcxcURId3YtRkRuUQ?oc=5
 
-- MBSD、AI活用とセキュリティをつなぐ相談窓口サービス「Secure Counsel for AI」（クラウド Watch） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFAteXFRODJBdVZPZ2RJdWZvSzFVMFljOEFBWXdqZ1c5LTlYNTl1TzItTnFMdkpYNUY2bktqQzVxSktNMElCWklfdk1fYk0wbVZpMXA5LXMyVWRtOGxhSDNmM3h1LVEtYldkcFYwV2hLMkt1clhzZkJDSm0yOUdaTWM?oc=5
-
-- “元バスケ部主将”aoen 颯太「誰かが困った時に支えられる人でありたい」NBAがアーティスト活動にも刺激 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5iZG82Y05jeUJ6Wmd2cU4ydmx5RGR6MF9YZk1ZdWgzN05zY3Q0YU5rdzZYSThaU3d0NE9KNjZhZEl1ZHV1WUlPV1NOZjFCVFVFOG10ak9QUGo0VHRFUEZIQWdtYUo4ZjhCcVhZdVM4M25ZNjJBYXR6ZXdZWk9XY2c?oc=5
-
-- みやぎ青葉の会が仙台で債務問題の相談会を19日に実施（河北新報） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5WZkpndnZ1Ujh4QUxfSWRtbnVvLVp0NnR5LXZHV0RpaWh0Y1NIUE5vR2pCRjZwemU1d3pWaHEwWTlyOWRvRTY4NWFxbUVHN2hyS3ZFTTRTMU5CdHV5aU1rTUwtVWNLUWdTclhURFVSNTQwUjJKQ3hzaHlHcVZIdk0?oc=5
+- フィジカルAI「ロボ企業から通信に接近」 悩みは3つ、エリクソン幹部 - 日経クロステック
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBWaW9MR0ppYmhtVHprWVhIaXkwTGZuZlppdE9IbVgwN3h1ek00WEI0NTZfcFlQSzlOazctMklyMTZSNmR3TmMwejUyNm5SajVGajZsQWN1emExMVhBb3BEN1Ffa24tVWVrSDBZUQ?oc=5
 
 - 大阪3歳死亡 児童相談所接触せず - Yahoo!ニュース
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE51cmpoRG1vdDRzY2NNTnlaYlBtM1RPRVE4NXc3TFRRR2lGbGJyU1VfRTM3WHpKVTFhRVY5YmJfc0xlQzFNTzVVQjBpM0xfbV93?oc=5
 
-- 社名を含まない質問での自社サイト引用は中央値0.6%〜 | シエンプレ株式会社 - Digital PR Platform
-  https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1iYm45SjlKVTQ0NS1tNHJSa2l5OVR3bmlxZDJKZEtJNlJXX2RZeHFRbm96VW8zcVk2TktqajBVNmlLdnc?oc=5
+- 「こどもNISA」で事前相談やセミナー、埼玉県の金融機関 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5tWXdOYUJfRmxHb1FvQlI3NHhUZ25IZWp1WjItMUxRNlJpaWgyNFY3cEtVU1djOU00UlN4dEZ0Zl9Mdm9NNGdvLWE4YXR1MVVwWk40TTJFbWdlU1FGcXB2bG9TN1VXeXNoMmZaVg?oc=5
 
-- 外国人材活用 焼き菓子など製造ヤタローが相談窓口 日常の不安にも対応 多様性を社会の活力や成長へ - FNNプライムオンライン
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ORzJVSzFNcE1ZcEdGQTJmZ3NGakNUQjdGbEMxMkVScm9xbmFaSkNaWlFhVW9vaFViUnZaNGl3WlNjMV8tdXEzZUZDWDBTUQ?oc=5
+- 韓国で広がる「株式依存」 損失でも売買やめられず、医師に相談 - 日本経済新聞
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9xM1RIRHB0a29YaGlBWmx5MTI2bXNxZUdpRVZmQWJVN2l6YXZ5MXVNYjRaM1B6WkU0ZFpDelhXd3dibnF4NG9GYlltWTl5Q3VLNWFJOXA1R2xHSWRnbWpma2xsZTBTd1F3QS1GSg?oc=5
+
+- “元バスケ部主将”aoen 颯太「誰かが困った時に支えられる人でありたい」NBAがアーティスト活動にも刺激 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5iZG82Y05jeUJ6Wmd2cU4ydmx5RGR6MF9YZk1ZdWgzN05zY3Q0YU5rdzZYSThaU3d0NE9KNjZhZEl1ZHV1WUlPV1NOZjFCVFVFOG10ak9QUGo0VHRFUEZIQWdtYUo4ZjhCcVhZdVM4M25ZNjJBYXR6ZXdZWk9XY2c?oc=5
+
+- 令和8年12月4日特設困りごと相談所(人権に関する相談) - 広島県府中市
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDRYX2hjX0tsUkg0Tl9YbFVlOTV2eEVFU21qMlpVXzlOZlRLMWc4bm1POU1HR0h3NGttMHVILW04al9kQ2lTOC1zc3QxNmZucWwwcGYwdEpQTlRoVE1JbjRyXzVTREM0Z1RIdzZLcFlULTBQUV9hY3cxZDlIQk1sSzU5c3RMVE9Semp2QkYycXBSUUR2V0pJQWJTWFdHaWNGckJoUUJuQlBGZnl5Q3dEQw?oc=5
+
+- 県立公文書館が資料の調査相談受け付けを一時停止…知名度上がり請求増加も専門職員３人で審査間に合わず「苦肉の策」 - 読売新聞
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1HUUYxMVR2N0JFZUpsZ0lCR0N6RElZM0FoWXdNdVI2WV9NaGZFRTFoTUFyeUFIcnd6S2Q0ZzNDd3NhemRnVjE5QmJkOS1hMzB6TDVVcmVSS1piMk9yc3phaFNnSTFBWFRyVFM0Y0xmeDFPUQ?oc=5
 
