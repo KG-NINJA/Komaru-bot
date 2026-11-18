@@ -1,4 +1,13 @@
-=== こまる相談 ニュースフィード (2026-11-17 22:01) ===
+=== こまる相談 ニュースフィード (2026-11-18 03:56) ===
+
+- 先輩内定者（SCA）による就活相談会 - 早稲田大学
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xdVZjMnNPMmlRVDExdWFibWd6WFF3VGdTb09iLUlHT2FHV3FlYXFfM2tyR0NaMnNqV1lvQmJPWUphcXlyMXR0b0t5M0F3Q0hrY1lGV0FYNjJqQ3BjWFlSc1g1Qi1TR2M?oc=5
+
+- 心の不調が強い人ほど生成AIに「悩み相談」 東北大・岡山大が全国調査 支援ニーズを示すサインに（KSB瀬戸内海放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1USXRlM0lacERaRUtzS0pscElQQzBWZHFERGN4Nm82X0RLOFIzRDNZczYzWEVRMkVmOG5HNWZYVlJSMUo5MzVxaHRsRF9FdHJpQ3J3Z2ItQXlwTUxDMklzV3piY3FyUWN2T0x3YTZSTExESVpXSktFX3ZjTGdUMU0?oc=5
+
+- 北アルプス地域5市町村が東京・有楽町で移住相談会 11月28日開催 - 共同通信PRワイヤー
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yLWVweE1rbzRFQVZwaGlvdUctYndOWWxvaHRKT3VHbkxfMHoxUzdlQUI3SUI5b1o4MTl6M0dvTGZHXzBxMmFqS2dkX0FQbUFrU0JHb3ZXbkN4MmM?oc=5
 
 - 「キャリア相談はAIで十分」若手の1on1離れ レバレジーズは指名制を導入 - 日経クロステック
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9JSVVTQmRJN0VTamtPUnRsYWxlcTAzcng2LTJ4WXRMTWFRc3R2djdxY3A5ZlhnSHRqdkZTRHNkTy1Pakw3cXNIMWdGX1JxMWdRU0VsRW13M1JDcjFMdFRqR1h0b3BzMWxjUVFnYw?oc=5
@@ -6,57 +15,48 @@
 - 「北アルプスの麓で暮らし・働く大相談会2026」を開催します - 白馬村役場
   https://news.google.com/rss/articles/CBMikgFBVV95cUxOamY1clJNZDlQVGhtcFJHWFk4S2NvWE9tRTJ5bG1TZHM0NkJxSDN1YUhWaE9HQURQYnktQTBfQWVYRE11OEpPMnFBSk5ZRGVvcy1SRGIzTWFhMlJzcDZIbEo5TDFhdnA4ZDdBVE5WOGRhX1lXejFKZV9Nd1V3cjdmVExFQTBabmdaSjhUdWIyV3pSQQ?oc=5
 
-- 児童虐待を防ごう 静岡県警と児童相談所が合同で研修を実施 昨年度の児童相談所への相談は３１１８件（静岡朝日テレビ） - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFB6RlI0bWdaSmtWZl9laEpHeVlRUG5mb3pta1Bic3hPNnRudEJSeTFDNlpVdXZLMnp3VmNCeTNqellsaDB4dmFIRlo0TG9HOVl0Y2ZIcV9EWlROa2t1N0dEU1UzSU43akc1UDNwMVJOYVJuRi12eDhLRUx0RVBKbXM?oc=5
+- 2026年11月27日（金）「リチウムイオン電池出火被害等に関するホットライン」(電話法律相談)開催 | イベント | お知らせ - 新潟県弁護士会
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3UXltZy05Z3VfdE1iaDZBeVA5YU1ESjJqUXVPQ0FKVGdTX253MVY3WExWOWMtRGhVZUtwNkNaX21QdTNkdTFiekN5V2N3bXQ4ZUhSVWtIYy10enA5cjQ5OEpBQTU?oc=5
+
+- 豊中市-【花とみどりの相談所】で11月の講習会「大きな松ぼっくりでクリスマスツリーを作ろう」開催 11月21日（土） - City Life NEWS
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE41cTFoUUJ1eVhqamFpbEdxR3dvcHVaMV9kWUpXSkUzVU1ISHlKQVQ1TURsbmU2V3Bad1A1QTNoanZiWTJNYzdYdVZiaU1oWFdpZHc?oc=5
+
+- 【法テラス栃木20年】相談の受け皿拡大急げ - 下野新聞社
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JMUtVMzFxaVl5bjVia1p4eEJZQnc2Sl9YWld4OFZuTlpWWUs5R2N5Wm5HZ0s4X3lPRGJLNUFHZ0EwY0dMTWFxUVd2cGNKc3JNa0QyeEUzQVR1Y1E?oc=5
+
+- 鳥取県が事業者向けのサイバー攻撃相談窓口開設 - 日本海新聞
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOM3YzbkRRVWFFMDJFcFdKNXNPR0hTMzNVMWRKVzJzaGw2RjZtQjFCQy1FTVlETkVSWExwcTBhNU9uM01XeHRQQmxFOHZ3VHdU?oc=5
 
 - 「2026私立中高進学相談会 in 御茶ノ水」を10月12日に御茶ノ水ソラシティで開催 ～ 各学校の入試担当者による面談形式の進学相談会 - Digital PR Platform
   https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBaZDMzc0h0cldKNmFaN00zMGR3QVBqTkM3WG1qN25raDFLUEluRGdxcUY5bTVUWjNuQm9UUkVMM1llZm8?oc=5
 
-- 【速報】「リスクを見極めることができてなかったのか、ここは非常に大きな問題」大阪府・吉村知事 3歳女児死亡 約7カ月前に府の児童相談所が「虐待の疑いがある」との情報把握 - ktv.jp
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GOUgxc0p6SFJtaG5FZEl4WjNPelhhc3dqa0hnNVVRc3dRUkpYaG9lTHNMU0FTS1JJY1I4NTJDcEJBRFhLanJNc2x6VVFZZzUtblVaNA?oc=5
-
-- 地域への積極的な周知で、相談機会の活用を呼びかけ 第六ブロックが無料不動産相談会を開催 - 東京都宅建協会
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2UXNNdjItcGc5MzN6TFpDU1BiQVI2OHd4QWowUkQ2MDc5ZjN0Ykhxa0FWaGs1LVdDM1N1bXgtaDFOc2VVTFlmRm9yQmRPTVliMGJjY3l4QW5la3ZoYkE?oc=5
-
 - 外国人材活用 焼き菓子など製造ヤタローが相談窓口 日常の不安にも対応 多様性を社会の活力や成長へ - テレビ静岡
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfT3JVX3NhcWlFTGpDMDhsSXp5T0ozZW9fbXhySnJpSExERGxhYmdINzVHMWJMNlJCTmlDWVA5b2cxZTZqTE9IOGEwM3pUR281c1N4eXd0UnZZQ2Q5bFhqbGxSMA?oc=5
 
-- 児童の虐待相談件数が3887件と過去2番目の多さに 前年度より137件増加 新潟県 - TBS NEWS DIG
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKbDBZN3VaQVBvM2h6VlZSNGhvaC1GMllXNDlKdmdlX29Jbmw1SWNwTVlnVXlmM050ZnFzMTFPSGY2RXJDblJiRFB5LUlCV3FJV0NUR0doZ1htdw?oc=5
+- 豊橋市の長坂尚登市長が就任2年で折り返し スマートICや独自児童相談所…目玉施策の現状と展望は - 中日新聞Web
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rRWZQNmQyT2tFU3dxUnJvOVBnZlA3RWdDTFNtejkybWllYk13ZWozU29yZDduR1BYMEI4dHNjdThHMEdiTmpVemp6X044YlN1TnRsNg?oc=5
 
-- 保護者の孤立防止へ 相談窓口のハンドブック 佐賀県教委が作成 - NHKニュース
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnSkZFT2p0TTZYMWd6anpZRDg2T1paSjlHcVA5S2hDMkF0d29MY080czNYTGJuVXYwaVNveWtTdDVJeDZYODVWN0pxTWgzMnhxWXdEUDZtWXk1UV82S3Nj?oc=5
+- 【速報】「リスクを見極めることができてなかったのか、ここは非常に大きな問題」大阪府・吉村知事 3歳女児死亡 約7カ月前に府の児童相談所が「虐待の疑いがある」との情報把握 - ktv.jp
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GOUgxc0p6SFJtaG5FZEl4WjNPelhhc3dqa0hnNVVRc3dRUkpYaG9lTHNMU0FTS1JJY1I4NTJDcEJBRFhLanJNc2x6VVFZZzUtblVaNA?oc=5
 
-- MBSD、AI活用とセキュリティをつなぐ相談窓口サービス「Secure Counsel for AI」 - クラウド Watch
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jckhHVmYtRl9OekpHMFhxd0JaRVVQcDZpMzZoeHMwUW0yLVNIbGlPa0JlM09oelhTYVZjVEhhRnc0bTRFY09NTkJSdVN0Wm90UDNZVlZaS2JUM25jWEZhRFh6TGtLQU0?oc=5
+- 11月12日からは「配偶者等からの暴力をなくす啓発期間」。大山崎町の相談窓口は？ - 選挙ドットコム
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FeVNycUV1ZklJV2VOd0JQdS1kcGt5aXBxS20wSV9PZU9rOFltc0RmVEEtdmJ3c25xZ25rM2hwZVlnM0d2UGt5OE8zSkRZOV9RRU45QXZ6ZTFOVUNGUExV?oc=5
 
-- 広がる「女性専用」ジム 特有の悩みに対応、利用者2倍の事例も - 毎日新聞
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE16UTZXRHVqblNVWlJzX21fZW84TmI1aC1OYXlMVkUxcDR0NVdEM25rWkVFQkl6alljZk4zUHNMTGpqUlNrNkJ5RmNtR1YzMWpfRGZ4SVNaZTYySTlhY2dzMzZOOWNDQTQ2?oc=5
+- 大阪３歳死亡で吉村洋文知事「児童相談所の判断は大きな問題」…専門家による部会で検証し結果公表へ（読売新聞オンライン） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ld0JnMDI0dWtIdl95NXFYU3dybS1mZ1p4WlpsM0lsMHZvcm16RHg2N0E5NDVVQWZkcG1yWW1NY3h1dFNubkFNeklvQ1dDRkp4RVZrVldQV2o0ZXFOOHpMajdqbDlJWUh4NU5nZTZ5dlhIU0ozblY5cm5LM3B6Vk0?oc=5
 
-- 移住相談 最多４４万件/２０２５年度、情報発信の強化で - 山口新聞 電子版
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRzVLN0xfWVR0UUtrRUdZYXlENVR6ZHhYcFRGd2psR3JZVk1HVkcydDVEUG5zREZpLXgzLWtzZHJFRDRWcVF6eVRUYm5pd1pOYTlKd3BaXzZRWlNOLXp6bGtUNjZqbHNNc1E?oc=5
+- ｢どうしてもお話をお伺いしたい｣…仕事に悩み会いに来たトヨタの課長･豊田章男に"コンビニの神様"が授けた一言 - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE13RGRWT2w0NjdDaktBS29DeU8zYmZBS1J1R09DVmItWUxveVVGbmNmU2pjdEstY01Kdk84c09UMjRNTTluOHIwV282aU1ZZ19lNERzNG9QbjcxeVFhLXktbm4wa3dPVERQY0QzcWN5dW95dF9ZbTdFSDFjeS1lWGc?oc=5
 
-- 採用や育成の悩み共有 札幌で「出張人事図書館」 - 北海道新聞デジタル
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrUjdoRzBRRzV3M2hobmZFQ1pMcmVNYUNDaW1MRUpVeERsTGtDSVdzcWlmU21oWHBxdldfZGhSNWFFSWRyS3JDX0ctaUE5VlcxcURId3YtRkRuUQ?oc=5
+- 藤本敏史、娘への対応をミキティに相談 的確アドバイスに「やっぱ、そうなん？」とショボン（デイリースポーツ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBqV0lYYjQ3V2lNNFYtNnFlT3BxcWtXVjVPVlJ3TEVaOFlFLVNDSHJ1SjZDSHg4ZzlHM0Iza3RmNmY5ZHpHanpaVXFHNDdZZ19WQUxVek1WM3d3XzJsNU4zUzduT3FtQVJMZTlrOEpPdDQzX0xSZUxPakpfR3dkOGc?oc=5
 
-- フィジカルAI「ロボ企業から通信に接近」 悩みは3つ、エリクソン幹部 - 日経クロステック
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBWaW9MR0ppYmhtVHprWVhIaXkwTGZuZlppdE9IbVgwN3h1ek00WEI0NTZfcFlQSzlOazctMklyMTZSNmR3TmMwejUyNm5SajVGajZsQWN1emExMVhBb3BEN1Ffa24tVWVrSDBZUQ?oc=5
+- 児童の虐待相談件数が3887件と過去2番目の多さに 前年度より137件増加 新潟県（ＢＳＮ新潟放送） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5hdXhydnFLUTdrMzg3MkIzTzRGUE5GV1BrYWNVME1PbzMweDNCMDFMWVA3c3ZKeWpUdkpJLWhGTFRDY2ZCUVExWnNldkstbDZJNUlkRW1hMm5KZ2xvQmdiVW44SG5WeDU3RlNtYktjMzdQdW1mU1BDZXJOdXo4eWs?oc=5
 
-- 大阪3歳死亡 児童相談所接触せず - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE51cmpoRG1vdDRzY2NNTnlaYlBtM1RPRVE4NXc3TFRRR2lGbGJyU1VfRTM3WHpKVTFhRVY5YmJfc0xlQzFNTzVVQjBpM0xfbV93?oc=5
+- 児童虐待を防ごう 静岡県警と児童相談所が合同で研修を実施 昨年度の児童相談所への相談は３１１８件（静岡朝日テレビ） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFB6RlI0bWdaSmtWZl9laEpHeVlRUG5mb3pta1Bic3hPNnRudEJSeTFDNlpVdXZLMnp3VmNCeTNqellsaDB4dmFIRlo0TG9HOVl0Y2ZIcV9EWlROa2t1N0dEU1UzSU43akc1UDNwMVJOYVJuRi12eDhLRUx0RVBKbXM?oc=5
 
-- 「こどもNISA」で事前相談やセミナー、埼玉県の金融機関 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5tWXdOYUJfRmxHb1FvQlI3NHhUZ25IZWp1WjItMUxRNlJpaWgyNFY3cEtVU1djOU00UlN4dEZ0Zl9Mdm9NNGdvLWE4YXR1MVVwWk40TTJFbWdlU1FGcXB2bG9TN1VXeXNoMmZaVg?oc=5
-
-- 韓国で広がる「株式依存」 損失でも売買やめられず、医師に相談 - 日本経済新聞
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9xM1RIRHB0a29YaGlBWmx5MTI2bXNxZUdpRVZmQWJVN2l6YXZ5MXVNYjRaM1B6WkU0ZFpDelhXd3dibnF4NG9GYlltWTl5Q3VLNWFJOXA1R2xHSWRnbWpma2xsZTBTd1F3QS1GSg?oc=5
-
-- “元バスケ部主将”aoen 颯太「誰かが困った時に支えられる人でありたい」NBAがアーティスト活動にも刺激 - Yahoo!ニュース
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5iZG82Y05jeUJ6Wmd2cU4ydmx5RGR6MF9YZk1ZdWgzN05zY3Q0YU5rdzZYSThaU3d0NE9KNjZhZEl1ZHV1WUlPV1NOZjFCVFVFOG10ak9QUGo0VHRFUEZIQWdtYUo4ZjhCcVhZdVM4M25ZNjJBYXR6ZXdZWk9XY2c?oc=5
-
-- 令和8年12月4日特設困りごと相談所(人権に関する相談) - 広島県府中市
-  https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDRYX2hjX0tsUkg0Tl9YbFVlOTV2eEVFU21qMlpVXzlOZlRLMWc4bm1POU1HR0h3NGttMHVILW04al9kQ2lTOC1zc3QxNmZucWwwcGYwdEpQTlRoVE1JbjRyXzVTREM0Z1RIdzZLcFlULTBQUV9hY3cxZDlIQk1sSzU5c3RMVE9Semp2QkYycXBSUUR2V0pJQWJTWFdHaWNGckJoUUJuQlBGZnl5Q3dEQw?oc=5
-
-- 県立公文書館が資料の調査相談受け付けを一時停止…知名度上がり請求増加も専門職員３人で審査間に合わず「苦肉の策」 - 読売新聞
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1HUUYxMVR2N0JFZUpsZ0lCR0N6RElZM0FoWXdNdVI2WV9NaGZFRTFoTUFyeUFIcnd6S2Q0ZzNDd3NhemRnVjE5QmJkOS1hMzB6TDVVcmVSS1piMk9yc3phaFNnSTFBWFRyVFM0Y0xmeDFPUQ?oc=5
+- ひどい店員…携帯ショップのスタッフ、機種変更の接客中にクレカ情報を盗んだか さらに不正利用、宿泊料金を支払う 容疑の男逮捕 身に覚えのない利用履歴が…機種変更した男性、警察に相談し被害が発覚（埼玉新聞） - Yahoo!ニュース
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1NNXZNOV84SVJMUUVqVmZhMkJRS18wZlZGT2tvZmZqUGl3RWNYRnRBWXhoUVNIUGcwVEYtaHRrZUJuY1lvN2JrSjczV1E5eDcwUWFiaTlXZ1drNzhfRHFQTUZobnlLNzZYd3hBdUpjSWQ3Q0czRDkzZGNmRk1hVUU?oc=5
 
